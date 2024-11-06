@@ -5,10 +5,10 @@ import json
 base_path = r"C:\Users\Bruker\myProjects\masterproject\datacollecting\NNNB"
 input_files = [
     "parallel_dev.json",
-    "parallel_train.json"
+    "parallel_train.json",
     "parallel_test.json"
 ]
-output_file = os.path.join(base_path, r"C:\Users\Bruker\myProjects\masterproject\dataprocessing\NNNB.json")
+output_file = os.path.join(base_path, r"C:\Users\Bruker\myProjects\masterproject\dataprocessing\NNNB.jsonl")
 
 # Open the output file in write mode
 with open(output_file, "w", encoding="utf-8") as outfile:
