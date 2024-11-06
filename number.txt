@@ -1,5 +1,13 @@
-NTB-NPK: 1069440
-NNNB: 150000
-NPSC: 42359
-Calculated total: 1261799
-Real total: 1261799
+Before duplicate removal:
+    NTB-NPK: 1069440
+    NNNB: 150000
+    NPSC: 42359
+    Calculated total: 1261799
+    Real total: 1261799
+
+After duplicate removal:
+    NTB-NPK: 955816
+    NNNB: 24655
+    NPSC: 38249
+    Calculated total: ?
+    Real total: ?
