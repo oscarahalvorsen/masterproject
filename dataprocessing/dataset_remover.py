@@ -1,9 +1,9 @@
 import json
 import re
 
-# Funksjon for å sjekke om en streng kun inneholder ikke-bokstavtegn
+# Funksjon for å sjekke om en streng har én eller færre bokstavkarakterer
 def is_non_alpha(string):
-    return not re.search(r'[a-zA-ZÆØÅæøå]', string)
+    return len(re.findall(r'[a-zA-ZÆØÅæøå]', string)) <= 1
 
 # Funksjon for å filtrere og lagre unike rader
 def filter_unique_sentences(input_path, output_path):
