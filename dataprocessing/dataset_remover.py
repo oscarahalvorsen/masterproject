@@ -15,7 +15,7 @@ def filter_unique_sentences(input_path, output_path):
             if entry_tuple not in seen_entries:
                 # Legg entry til settet og skriv til output-fil hvis den er unik
                 seen_entries.add(entry_tuple)
-                json.dump(entry, outfile)
+                json.dump(entry, outfile, ensure_ascii=False)  # Bruk ensure_ascii=False
                 outfile.write('\n')
                 
             # Status-oppdatering for hver 500. rad
