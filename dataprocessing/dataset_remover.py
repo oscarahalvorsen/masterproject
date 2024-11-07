@@ -3,25 +3,45 @@ import json
 # Funksjon for å filtrere og lagre unike rader
 def filter_unique_sentences(input_path, output_path):
     seen_entries = set()  # Sett for å lagre unike par
-    i = 0
+    total_lines = 0
+    duplicate_count = 0
+    inaudible_count = 0
+    
     with open(input_path, 'r', encoding='utf-8') as infile, open(output_path, 'w', encoding='utf-8') as outfile:
         for line in infile:
+            total_lines += 1
+            
             # Les hver rad som et JSON-objekt
             entry = json.loads(line)
-            # Lag en tuple av nb og nn som kan brukes som nøkkel for å sjekke duplikater
             entry_tuple = (entry["nb"], entry["nn"])
             
-            # Sjekk om entry allerede er sett
-            if entry_tuple not in seen_entries:
-                # Legg entry til settet og skriv til output-fil hvis den er unik
-                seen_entries.add(entry_tuple)
-                json.dump(entry, outfile, ensure_ascii=False)  # Bruk ensure_ascii=False
-                outfile.write('\n')
-                
-            # Status-oppdatering for hver 500. rad
-            if i % 500 == 0:
-                print(f"{input_path}: {i} linjer behandlet")
-            i += 1
+            # Sjekk om entry allerede er sett (duplikat)
+            if entry_tuple in seen_entries:
+                duplicate_count += 1
+                continue
+            
+            # Legg entry til settet hvis det er unikt
+            seen_entries.add(entry_tuple)
+            
+            # Sjekk etter "<INAUDIBLE>"-taggen i både 'nb' og 'nn'
+            if "<INAUDIBLE>" in entry["nb"] or "<INAUDIBLE>" in entry["nn"]:
+                inaudible_count += 1
+                continue
+            
+            # Skriv til output-fil hvis linjen er unik og ikke inneholder "<INAUDIBLE>"
+            json.dump(entry, outfile, ensure_ascii=False)
+            outfile.write('\n')
+
+            # Status-oppdatering for hver 10000. rad
+            if total_lines % 10000 == 0:
+                print(f"{input_path}: {total_lines} linjer behandlet")
+
+    # Print ut statistikk etter at filen er ferdig prosessert
+    print(f"Fil: {input_path}")
+    print(f"Totalt antall linjer: {total_lines}")
+    print(f"Antall duplikater fjernet: {duplicate_count}")
+    print(f"Antall linjer fjernet pga. '<INAUDIBLE>': {inaudible_count}")
+    print(f"Antall linjer skrevet til output: {total_lines - duplicate_count - inaudible_count}\n")
 
 # Filstier for input og output
 filenames = ["NNNB.jsonl", "NPSC.jsonl", "NTB-NPK.jsonl"]

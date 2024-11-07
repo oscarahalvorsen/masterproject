@@ -12,10 +12,12 @@ After duplicate removal:
     Calculated total: 1,134,001
     Removed entries: 127,798
 
-
-\u00e6 = æ
-\u00f8 = ø
-\u00c5 = å
+After <INAUDIBLE> removal:
+    NTB-NPK: 955,816
+    NNNB: 139,936
+    NPSC: 37,961
+    Calculated total: 1,134,001
+    Removed entries: 127,798
 
 NNNB="https://huggingface.co/pere/nb-nn-translation/tree/main"
 NPSC="https://huggingface.co/datasets/NbAiLab/NPSC"
