@@ -1,9 +1,9 @@
 import json
 import re
 
-# Funksjon for å sjekke om en streng har én eller færre bokstavkarakterer
+# Funksjon for å sjekke om en streng har to eller færre bokstavkarakterer
 def is_non_alpha(string):
-    return len(re.findall(r'[a-zA-ZÆØÅæøå]', string)) <= 1
+    return len(re.findall(r'[a-zA-ZÆØÅæøå]', string)) <= 2
 
 # Funksjon for å filtrere og lagre unike rader
 def filter_unique_sentences(input_path, output_path):
@@ -34,7 +34,7 @@ def filter_unique_sentences(input_path, output_path):
                 inaudible_count += 1
                 continue
             
-            # Sjekk om enten 'nb' eller 'nn' kun inneholder ikke-bokstavtegn
+            # Sjekk om enten 'nb' eller 'nn' kun kun to eller færre bokstaver
             if is_non_alpha(entry["nb"]) or is_non_alpha(entry["nn"]):
                 non_alpha_count += 1
                 continue
@@ -52,7 +52,7 @@ def filter_unique_sentences(input_path, output_path):
     print(f"Totalt antall linjer: {total_lines}")
     print(f"Antall duplikater fjernet: {duplicate_count}")
     print(f"Antall linjer fjernet pga. '<INAUDIBLE>': {inaudible_count}")
-    print(f"Antall linjer fjernet pga. ikke-bokstavtegn: {non_alpha_count}")
+    print(f"Antall linjer fjernet pga. 2 eller færre bokstavtegn: {non_alpha_count}")
     print(f"Antall linjer skrevet til output: {total_lines - duplicate_count - inaudible_count - non_alpha_count}\n")
 
 # Filstier for input og output
