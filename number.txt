@@ -8,16 +8,16 @@ Before duplicate removal:
 After duplicate removal:
     NTB-NPK: 955,816
     NNNB: 139,936
-    NPSC: 38,249
-    Calculated total: 1,134,001
-    Removed entries: 127,798
+    NPSC: 38,429
+    Calculated total: 1,134,181
+    Removed entries: 127,618
 
 After <INAUDIBLE> removal:
     NTB-NPK: 955,816
     NNNB: 139,936
     NPSC: 37,961
-    Calculated total: 1,134,001
-    Removed entries: 127,798
+    Calculated total: 1,133,713
+    Removed entries: 468
 
 NNNB="https://huggingface.co/pere/nb-nn-translation/tree/main"
 NPSC="https://huggingface.co/datasets/NbAiLab/NPSC"
