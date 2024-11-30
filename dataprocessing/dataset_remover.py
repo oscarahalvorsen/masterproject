@@ -1,9 +1,18 @@
 import json
 import re
+from bert_score import score
+import transformers
+transformers.logging.set_verbosity_error()
+
 
 # Funksjon for å sjekke om en streng har to eller færre bokstavkarakterer
 def is_non_alpha(string):
     return len(re.findall(r'[a-zA-ZÆØÅæøå]', string)) <= 2
+
+# Funksjon for å beregne BERTScore i batcher
+def calculate_bertscore_batch(references, candidates):
+    _, _, F1 = score(candidates, references, model_type="roberta-base", lang="en", rescale_with_baseline=False, batch_size=8)
+    return F1.tolist()  # Returner F1-scorene som en liste
 
 # Funksjon for å filtrere og lagre unike rader
 def filter_unique_sentences(input_path, output_path):
@@ -12,40 +21,65 @@ def filter_unique_sentences(input_path, output_path):
     duplicate_count = 0
     inaudible_count = 0
     non_alpha_count = 0
+    low_bertscore_count = 0
     
+    references = []
+    candidates = []
+    batch_entries = []
+    batch_size = 64  # Juster batch-størrelsen etter tilgjengelig minne
+
     with open(input_path, 'r', encoding='utf-8') as infile, open(output_path, 'w', encoding='utf-8') as outfile:
         for line in infile:
             total_lines += 1
-            
-            # Les hver rad som et JSON-objekt
             entry = json.loads(line)
             entry_tuple = (entry["nb"], entry["nn"])
             
-            # Sjekk om entry allerede er sett (duplikat)
             if entry_tuple in seen_entries:
                 duplicate_count += 1
                 continue
-            
-            # Legg entry til settet hvis det er unikt
+
             seen_entries.add(entry_tuple)
-            
-            # Sjekk etter "<INAUDIBLE>"-taggen i både 'nb' og 'nn'
+
             if "<INAUDIBLE>" in entry["nb"] or "<INAUDIBLE>" in entry["nn"]:
                 inaudible_count += 1
                 continue
             
-            # Sjekk om enten 'nb' eller 'nn' kun kun to eller færre bokstaver
             if is_non_alpha(entry["nb"]) or is_non_alpha(entry["nn"]):
                 non_alpha_count += 1
                 continue
             
-            # Skriv til output-fil hvis linjen er unik, ikke inneholder "<INAUDIBLE>", og har bokstavtegn
-            json.dump(entry, outfile, ensure_ascii=False)
-            outfile.write('\n')
+            # Legg til i batch
+            references.append(entry["nb"])
+            candidates.append(entry["nn"])
+            batch_entries.append(entry)
 
-            # Status-oppdatering for hver 10 000. rad
-            if total_lines % 10000 == 0:
+            # Beregn BERTScore når batchen er full
+            if len(references) >= batch_size:
+                F1_scores = calculate_bertscore_batch(references, candidates)
+                for i, F1_score in enumerate(F1_scores):
+                    if F1_score < 0.7:
+                        low_bertscore_count += 1
+                        continue
+                    json.dump(batch_entries[i], outfile, ensure_ascii=False)
+                    outfile.write('\n')
+                
+                # Nullstill batchen
+                references.clear()
+                candidates.clear()
+                batch_entries.clear()
+
+            if total_lines % 640 == 0:
                 print(f"{input_path}: {total_lines} linjer behandlet")
+        
+        # Beregn BERTScore for eventuell gjenværende data i batchen
+        if references:
+            F1_scores = calculate_bertscore_batch(references, candidates)
+            for i, F1_score in enumerate(F1_scores):
+                if F1_score < 0.7:
+                    low_bertscore_count += 1
+                    continue
+                json.dump(batch_entries[i], outfile, ensure_ascii=False)
+                outfile.write('\n')
 
     # Print ut statistikk etter at filen er ferdig prosessert
     print(f"Fil: {input_path}")
@@ -53,13 +87,14 @@ def filter_unique_sentences(input_path, output_path):
     print(f"Antall duplikater fjernet: {duplicate_count}")
     print(f"Antall linjer fjernet pga. '<INAUDIBLE>': {inaudible_count}")
     print(f"Antall linjer fjernet pga. 2 eller færre bokstavtegn: {non_alpha_count}")
-    print(f"Antall linjer skrevet til output: {total_lines - duplicate_count - inaudible_count - non_alpha_count}\n")
+    print(f"Antall linjer fjernet pga. lav BERTScore: {low_bertscore_count}")
+    print(f"Antall linjer skrevet til output: {total_lines - duplicate_count - inaudible_count - non_alpha_count - low_bertscore_count}\n")
 
 # Filstier for input og output
-filenames = ["NNNB.jsonl", "NPSC.jsonl", "NTB-NPK.jsonl"]
+filenames = ["NBS2023.jsonl"]
 
-input_dir = "C:/Users/Bruker/myProjects/masterproject/dataprocessing"
-output_dir = "C:/Users/Bruker/myProjects/masterproject/dataset"
+input_dir = "C:/Users/oscar/oscar/myProjects/masterproject/dataprocessing"
+output_dir = "C:/Users/oscar/oscar/myProjects/masterproject/dataset"
 
 # Filtrer hver fil og lagre resultatet
 for filename in filenames:
