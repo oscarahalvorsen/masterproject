@@ -92,13 +92,15 @@ def extract_all_books():
 
 def write_data_to_file(data, filename):
     """
-    Skriver data til en JSON-fil.
+    Skriver data til en JSONL-fil.
     """
     with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+        for item in data:
+            json_line = json.dumps(item, ensure_ascii=False)
+            f.write(json_line + '\n')
 
 # Start datainnhenting
 all_verses = extract_all_books()
-write_data_to_file(all_verses, "datacollecting/dataprocessing/NBS2023.json")
+write_data_to_file(all_verses, "datacollecting/NBS/NBS2023.jsonl")
 
-print("Data successfully written to nbs2023.json")
+print("Data successfully written to NBS2023.jsonl")
