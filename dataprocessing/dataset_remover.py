@@ -91,7 +91,7 @@ def filter_unique_sentences(input_path, output_path):
     print(f"Antall linjer skrevet til output: {total_lines - duplicate_count - inaudible_count - non_alpha_count - low_bertscore_count}\n")
 
 # Filstier for input og output
-filenames = ["NBS2023.jsonl"]
+filenames = ["NNNB.jsonl", "NPSC.jsonl", "NTB-NPK.jsonl", "NBS2023.jsonl"]
 
 input_dir = "C:/Users/oscar/oscar/myProjects/masterproject/dataprocessing"
 output_dir = "C:/Users/oscar/oscar/myProjects/masterproject/dataset"

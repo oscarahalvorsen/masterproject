@@ -101,6 +101,6 @@ def write_data_to_file(data, filename):
 
 # Start datainnhenting
 all_verses = extract_all_books()
-write_data_to_file(all_verses, "datacollecting/NBS/NBS2023.jsonl")
+write_data_to_file(all_verses, "dataprocessing/NBS2023.jsonl")
 
 print("Data successfully written to NBS2023.jsonl")
