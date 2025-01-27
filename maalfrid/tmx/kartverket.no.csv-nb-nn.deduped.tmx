@@ -1,0 +1,1343 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T054310" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.60285</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <seg>er staten, statsforetaket, fylkeskommunen eller kommunen som er eier.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <seg>er staten, statsf&#248;retaket, fylkeskommunen eller kommunen som er eigar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.69412</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <seg>Eiendommen kan ikke v&#230;re tildelt matrikkelnummer fra f&#248;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <seg>Eigedommen kan ikkje v&#230;re tildelt matrikkelnummer fr&#229; f&#248;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">4.78043</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4.pdf.converted</prop>
+     <seg>i jordskiftesak og merker fra f&#248;r 2015 har annet preg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4-nynorsk.pdf.converted</prop>
+     <seg>merke i jordskiftesak og merke fr&#229; f&#248;r 2015 har anna preg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.7057</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_bokm.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_bokm.pdf.converted</prop>
+     <seg>En grunnboksutskrift gir en oversikt over hvilke dokumenter som er tinglyst p&#229; en borettslagsandels grunnboksblad.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_nyn.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_nyn.pdf.converted</prop>
+     <seg>Ei grunnbokutskrift gir ei oversikt over kva dokument som er tinglyst p&#229; grunnbokbladet til ein burettslagsandel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.91187</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/fordeling-av-sameieandeler-ved-seksjonering---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/fordeling-av-sameieandeler-ved-seksjonering---bokmal.pdf.converted</prop>
+     <seg>Dette er et veiledende skjema som kun kan brukes ved fordeling</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/fordeling-av-sameieandeler-ved-seksjonering---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/fordeling-av-sameieandeler-ved-seksjonering---nynorsk.pdf.converted</prop>
+     <seg>Dette er eit rettleiande skjema som berre kan brukast ved</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.10901</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/festekontrakt_bokm.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/festekontrakt_bokm.pdf.converted</prop>
+     <seg>bortfesteren bare ha prioritet for inntil ett &#229;rs forfalt festeavgift, foruten retten til fremtidig avgift, med prioritet foran panthaverne.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/festekontrakt_nyn.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/festekontrakt_nyn.pdf.converted</prop>
+     <seg>bortfestaren berre ha prioritet for inntil eitt &#229;rs forfallen festeavgift, forutan retten til framtidig avgift, med prioritet framfor panthavarane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.63896</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>Partene er i fellesskap rettighetshavere til alle data som inng&#229;r i samarbeidet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>Partane er i fellesskap rettshavarar til alle data som inng&#229;r i samarbeidet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.03571</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <seg>Virksomheten som avgir</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <seg>Verksemda som gir fr&#229; seg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.35587</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <seg>Dette feltet skal fylles ut med betegnelse for eiendommen det gjelder.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <seg>Dette feltet skal fyllast ut med nemning for eigedommen det gjeld.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.06623</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskrift_bokm.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskrift_bokm.pdf.converted</prop>
+     <seg>En grunnboksutskrift viser hvem som har tinglyst hjemmel til eiendommen, om det er flere eiere, eventuelle pengeheftelser, erkl&#230;ringer og avtaler, eller om andre eiendommer eller personer har tinglyste rettigheter p&#229; eiendommen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskrift_nyn.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskrift_nyn.pdf.converted</prop>
+     <seg>Ei grunnbokutskrift viser kven som har tinglyst heimel til eigedomen, om det er fleire eigarar, eventuelle pengehefte, erkl&#230;ringar og avtalar, eller om andre eigedomar eller personar har tinglyste rettar p&#229; eigedomen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.53902</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-bokm-2012.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-bokm-2012.pdf.converted</prop>
+     <seg>Underskrifter og bekreftelser fra grunneier eller fester til den avgivende matrikkelenheten</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-nyn-2012.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-nyn-2012.pdf.converted</prop>
+     <seg>Underskrifter og stadfestingar fr&#229; grunneigar eller festar til den avgjevande matrikkeleininga</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.34372</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>Gjennom samfinansiering kan det produseres st&#248;rre mengder data samtidig som det blir rimeligere for hver av partene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>Gjennom samfinansiering kan det produserast st&#248;rre mengder data samstundes som det blir rimelegare for kvar av partane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.43516</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-bokm-2012.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-bokm-2012.pdf.converted</prop>
+     <seg>Underskrifter og bekreftelser p&#229; neste side</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-nyn-2012.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-nyn-2012.pdf.converted</prop>
+     <seg>Underskrifter og stadfestingar p&#229; neste side</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.35889</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <seg>eiendommen m&#229; v&#230;re lovlig opprettet f&#248;r grunneiendomsdelen av GAB-registeret ble satt i kraft</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <seg>eigedommen m&#229; v&#230;re lovleg oppretta f&#248;r grunneigedomsdelen av GAB-registeret ble sett i kraft</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.24758</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <seg>Oppm&#248;te ved oppm&#229;lingsforretningen er frivillig og det kan ikke kreves godtgj&#248;relse for reiseutgifter, tapt arbeidsfortjeneste og lignende i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <seg>Oppm&#248;te ved oppm&#229;lingsforretninga er frivillig, og det kan ikkje krevjast godtgjersle for reiseutgifter, tapt arbeidsforteneste og liknande i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.08636</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>&#197;rlig skal det gjennomf&#248;res m&#248;ter med alle Norge digitalt-partene i fylkene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>&#197;rleg skal det gjennomf&#248;ras m&#248;te med alle Noreg digitalt-partane i fylka.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.09655</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/krav-om-matrikulering-herunder-rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/krav-om-matrikulering-herunder-rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <seg>Dette feltet skal krysses av hvis det skal gjennomf&#248;res arealoverf&#248;ring mellom to matrikkelenheter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/krav-om-matrikulering-medrekna-rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/krav-om-matrikulering-medrekna-rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <seg>Kryss av i dette feltet dersom det skal gjennomf&#248;rast arealoverf&#248;ring mellom to matrikkeleiningar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.14143</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <seg>Her gis en kort innf&#248;ring i hvordan Norge digitalt-samarbeidet er organisert, og hva som er de viktigste rammebetingelsene for samarbeidet lokalt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-rogaland/noreg-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <seg>Her er det ei kort innf&#248;ring i korleis Noreg digitalt-samarbeidet er organisert og kva som er dei viktigaste rammevilk&#229;ra for samarbeidet lokalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.14615</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/festekontrakt_bokm.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/festekontrakt_bokm.pdf.converted</prop>
+     <seg>festekontrakten ikke l&#248;pe ut, selv om kortere festetid er avtalt,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/festekontrakt_nyn.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/festekontrakt_nyn.pdf.converted</prop>
+     <seg>festekontrakten ikkje g&#229; ut, sj&#248;lv om kortare festetid er avtalt,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.46667</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4.pdf.converted</prop>
+     <seg>Grenser i tettbygde str&#248;k</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4-nynorsk.pdf.converted</prop>
+     <seg>Grenser i tettbygde</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.44544</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <seg>Arbeid som de enkelte partene har ansvar for, men som ikke omfattes av samarbeidet, er ikke en del av denne geodataplanen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <seg>Arbeid som dei enkelte partane har ansvar for, men som ikkje er omfatta av samarbeidet, er ikkje ein del av denne geodataplanen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.91066</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <seg>Her gis en kort innf&#248;ring i hvordan Norge digitalt-samarbeidet er organisert og i hva som er de viktigste rammebetingelsene for samarbeidet lokalt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <seg>Her er det ei kort innf&#248;ring i korleis Noreg digitalt-samarbeidet er organisert og kva som er dei viktigaste rammevilk&#229;ra for samarbeidet lokalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.35817</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <seg>* Ved grensejustering skal det oppgis informasjon om begge de involverte matrikkelenhetene</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <seg>* Ved grensejustering skal det fyl ast inn informasjon om begge dei involverte matrikkeleiningane</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.175</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <seg>egenerkl&#230;ringen m&#229; ha skaffet seg eiendomsretten gjennom erverv eller p&#229; annen m&#229;te p&#229; et tidligere</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <seg>eigenerkl&#230;ringa m&#229; ha skaffa seg eigedomsretten gjennom erverv eller p&#229; annan m&#229;te p&#229; eit tidlegare</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.27</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <seg>grunnen skal tinglyses, m&#229; dette kreves s&#230;rskilt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <seg>skal tinglysast, m&#229; dette krevjast s&#230;rskilt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">3.13333</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/kartprojeksjonar/</prop>
+     <seg>P&#229; grunn av den store sonebreidda er det lagt p&#229; en m&#229;lestokkfaktor p&#229; 0.9996 langs ber&#248;ringsmeridianen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/kartprojeksjonar/</prop>
+     <seg>P&#229; grunn av den store sonebreidda er det lagt p&#229; ein m&#229;lestokkfaktor p&#229; 0.9996 langs ber&#248;ringsmeridianen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.55328</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4.pdf.converted</prop>
+     <seg>har derimot varierende n&#248;yaktighet og kan</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4-nynorsk.pdf.converted</prop>
+     <seg>derimot varierande presisjon og kan avvike med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.16704</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_bokm.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_bokm.pdf.converted</prop>
+     <seg>Utskriften viser hvem som har tinglyst hjemmel til andelen, om det er flere eiere, eventuelle pengeheftelser, erkl&#230;ringer og avtaler.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_nyn.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_nyn.pdf.converted</prop>
+     <seg>Utskrifta viser kven som har tinglyst heimel til andelen, om det er fleire eigarar, eventuelle pengehefte, erkl&#230;ringar og avtalar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.63333</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/krav-om-matrikulering-herunder-rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/krav-om-matrikulering-herunder-rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <seg>Krav om matrikulering, herunder rekvisisjon av oppm&#229;lingsforretning</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/krav-om-matrikulering-medrekna-rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/krav-om-matrikulering-medrekna-rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <seg>Krav om matrikulering, medrekna rekvisisjon av oppm&#229;lingsforretning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/skjote-bokm-1801.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/skjote-bokm-1801.pdf.converted</prop>
+     <seg>Feltet kan sl&#248;yfes dersom dokumentet ikke gjelder overdragelse av boligseksjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/skoyte-nyn-1801.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/skoyte-nyn-1801.pdf.converted</prop>
+     <seg>Feltet kan sl&#248;yfast dersom dokumentet ikkje gjeld overdraging av bustadseksjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.74842</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-bokmal.pdf.converted</prop>
+     <seg>Fyll inn informasjon om dokumentet du &#248;nsker &#229; bestille.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-nynorsk.pdf.converted</prop>
+     <seg>Fyll inn informasjon om dokumentet du &#248;nskjer &#229; bestille.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.62262</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <seg>som er likt i alle landets fylker.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <seg>som er likt i alle fylka i landet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">3.13333</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/kartprojeksjonar/</prop>
+     <seg>For bruk i bygg- og anleggsbransjen er det innf&#248;rt en sekund&#230;r offisiell projeksjon, EUREF89 NTM.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/kartprojeksjonar/</prop>
+     <seg>For bruk i bygg- og anleggsbransjen er det innf&#248;rt ein sekund&#230;r offisiell projeksjon, EUREF89 NTM.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.29375</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <seg>som er utarbeidet spesielt for et fylke eller en region.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <seg>som er utarbeidd spesielt for eit fylke eller ein region.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.07143</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <seg>Eksempel p&#229; beskrivelse:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <seg>Eksempel p&#229; skildring:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <seg>Bruk eget ark som vedlegg ved behov for mer plass til utfyllingen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <seg>Bruk eige ark som vedlegg ved behov for meir plass til utfyllinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.66349</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/festekontrakt_bokm.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/festekontrakt_bokm.pdf.converted</prop>
+     <seg>Rett til innl&#248;sning og forlengelse f&#248;lger bestemmelsene fra tomtefesteloven fullt ut.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/festekontrakt_nyn.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/festekontrakt_nyn.pdf.converted</prop>
+     <seg>Rett til innl&#248;ysing og forlenging f&#248;lgjer f&#248;resegnene i tomtefestelova fullt ut.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.6</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>M&#229;lsettingen for Geovekst-samarbeidet er &#229; gjennomf&#248;re felles samfinansierte kartleggingsprosjekter, samt etablere og vedlikeholde felles sett av geografiske data som tilfredsstiller et vidt spekter av brukerbehov.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>M&#229;lsetjinga for Geovekst-samarbeidet er &#229; gjennomf&#248;re felles samfinansierte kartleggings-prosjekt samt etablere og vedlikehalde felles sett av geografiske data som tilfredsstiller eit vidt spekter av brukarbehov.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.5413</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <seg>alternativ betegnelse dersom det er ervervet grunn fra umatrikulerte enheter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <seg>Bruk alternativ nemning dersom det er ervervet grunn fr&#229; umatrikulerte einingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.02692</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <seg>Hvem er varslet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <seg>Kven er varsla</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.61905</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-bokm-2012.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-bokm-2012.pdf.converted</prop>
+     <seg>Hvis ja m&#229; ektefellen samtykke i overdragelsen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-nyn-2012.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/endrfestegrunn-nyn-2012.pdf.converted</prop>
+     <seg>Dersom ja, m&#229; ektemaken samtykkje i overdraginga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.73143</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <seg>etter reglene i forvaltningsloven kap.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/varsel-om-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <seg>p&#229;klagast etter reglane i forvaltningslova kap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.78421</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskrift_bokm.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_bokm.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskrift_bokm.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-bokmal.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_bokm.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-bokmal.pdf.converted</prop>
+     <seg>Leveringstiden er ca.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskrift_nyn.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_nyn.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskrift_nyn.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/best-grunnboksutskriftbo_nyn.pdf.converted</prop>
+     <seg>Leveringstida er ca.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.20909</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>Slike samarbeid i de enkelte fylkene beskrives i fylkesgeodataplanen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>Slike samarbeid i dei enkelte fylka blir omtalt i fylkesgeodataplanen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.63571</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/krav-om-sammenslaing---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/krav-om-sammenslaing---bokmal.pdf.converted</prop>
+     <seg>c) dokumenter som er n&#248;dvendige for &#229; f&#229; tinglyst sammensl&#229;ingen, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/krav-om-samanslaing---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/krav-om-samanslaing---nynorsk.pdf.converted</prop>
+     <seg>c) dokument som er n&#248;dvendige for &#229; f&#229; tinglyst samansl&#229;inga, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.54286</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4.pdf.converted</prop>
+     <seg>n&#248;yaktighet etter dagens standard.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4-nynorsk.pdf.converted</prop>
+     <seg>etter dagens standard.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.14615</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <seg>eksisterende grensepunkt som tidligere er fastsatt i oppm&#229;lingsforretning el er tilsvarende forretning</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <seg>eksisterande grensepunkt som tidlegare er fastsett i oppm&#229;lingsforretning el er tilsvarande forretning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/krav-om-sammenslaing---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/krav-om-sammenslaing---bokmal.pdf.converted</prop>
+     <seg>Ta kontakt med kommunen for n&#230;rmere informasjon dersom:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/krav-om-samanslaing---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/krav-om-samanslaing---nynorsk.pdf.converted</prop>
+     <seg>Ta kontakt med kommunen for n&#230;rmare informasjon dersom:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.87702</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <seg>Dette dokumentet inneholder generell informasjon og overordnede f&#248;ringer for det lokale geodatasamarbeidet i Norge digitalt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <seg>Dette dokumentet inneheld generell informasjon og overordna f&#248;ringar for det lokale geodatasamarbeidet i Noreg digitalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.69565</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <seg>Bokstav h) Den som har innl&#248;st festegrunn etter bestemmelsene i lov om tomtefeste</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <seg>Bokstav h) Den som har innl&#248;yst festegrunn etter f&#248;resegnene i lov om tomtefeste</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.29662</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/erklaering-om-rettighet_bokm.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/erklaering-om-rettighet_bokm.pdf.converted</prop>
+     <seg>rettigheten er knyttet til en fysisk del av en fast eiendom, kan den tegnes inn p&#229; et kart eller skisse over eiendommen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/erklaering-om-rettighet_nyn.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/erklaering-om-rettighet_nyn.pdf.converted</prop>
+     <seg>knytt til ein fysisk del av ein fast eigedom, kan han teiknast inn p&#229; kart eller skisse over eigedomen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">2.66004</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>Det er enighet mellom Geovekst-partene om at alle data etablert gjennom samarbeidet skal inng&#229; som en del av datatilfanget i Norge digitalt med de rettigheter som er beskrevet i Generelle vilk&#229;r for Norge digitalt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>Det er semje mellom Geovekst-partene om at alle data etablert gjennom samarbeidet skal vere ein del av datatilfanget i Noreg digitalt med dei rettar som er gjort greie for i generelle vilk&#229;r for Noreg digitalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/protokoll-for-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/protokoll-for-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <seg>Oppsummering og erkl&#230;ring fra landm&#229;ler</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/protokoll-for-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/protokoll-for-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <seg>Oppsummering og fr&#229;segn fr&#229; landm&#229;laren</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">2.39423</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/festekontrakt_bokm.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/festekontrakt_bokm.pdf.converted</prop>
+     <seg>Partene samtykker i bruk av elektronisk kommunikasjon, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/festekontrakt_nyn.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/festekontrakt_nyn.pdf.converted</prop>
+     <seg>Partane samtykkjer i bruk av elektronisk kommunikasjon, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">3.08571</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/kartprojeksjonar/</prop>
+     <seg>For bruk i bygg- og anleggsbransjen er det innf&#248;rt en sekund&#230;r offisiell projeksjon</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/kartprojeksjonar/</prop>
+     <seg>For bruk i bygg- og anleggsbransjen er det innf&#248;rt ein sekund&#230;r offisiell projeksjon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.96378</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/krav-om-sammenslaing---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/krav-om-sammenslaing---bokmal.pdf.converted</prop>
+     <seg>a) kart fra matrikkelen over grenser og grensemerker for de matrikkelenheter eller grensestrekninger som saken gjelder</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/krav-om-samanslaing---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/krav-om-samanslaing---nynorsk.pdf.converted</prop>
+     <seg>a) kart fr&#229; matrikkelen over grenser og grensemerke for dei matrikkeleiningane eller grensestrekningane som saka gjeld,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-bokmal.pdf.converted</prop>
+     <seg>Fyll ogs&#229; inn andelsidentifikasjonen til den borettslagsandelen som dokumentet er tinglyst p&#229;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-nynorsk.pdf.converted</prop>
+     <seg>Fyll ogs&#229; inn andelsidentifikasjonen til den burettslagsandelen som dokumentet er tinglyst p&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.83846</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>Det er ulike former for samarbeid i ulike deler av landet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>Det er ulike former for samarbeid i ulike delar av landet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.18829</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <seg>Egenerkl&#230;ringen er ikke et virkemiddel for &#229; skaffe seg eiendomsretten, men en bekreftelse p&#229; at det faktisk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <seg>Eigenerkl&#230;ringa er ikkje eit verkemiddel for &#229; skaffe seg eigedomsretten, men ei stadfesting p&#229; at det faktisk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4.pdf.converted</prop>
+     <seg>Innm&#229;lte eiendomsgrenser skal i hovedsak v&#230;re merket med</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-a4-nynorsk.pdf.converted</prop>
+     <seg>Oppm&#229;lte eigedomsgrenser skal i hovudsak vere merkte med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">2.29595</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>Noen har fokus p&#229; samarbeid om tekniske l&#248;sninger, andre kj&#248;per tjenester av hverandre, atter andre har samarbeidsfora der de dr&#248;fter ulike utfordringer de har i hverdagen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>Nokre har fokus p&#229; samarbeid om tekniske l&#248;ysingar, andre kj&#248;per tenester av kvarandre, atter andre har samarbeidsfora der dei dr&#248;ftar ulike utfordringar dei har i kvardagen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.52919</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>For &#229; kunne evaluere gjennomf&#248;ringen av fjor&#229;rets aktiviteter i handlingsplanen for fylket p&#229; en god m&#229;te, vil det v&#230;re naturlig &#229; ha et Norge digitalt-m&#248;te i fylkt relativt tidlig i nytt &#229;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>For &#229; kunne evaluere gjennomf&#248;ringa av fjor&#229;rets plan i fylket p&#229; ein god m&#229;te, vil det vere naturleg &#229; ha eit Noreg digitalt-m&#248;te i relativt tidleg i nytt &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">2.15192</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <seg>eiendomsrett til offentlig veg- eller jernbanegrunn i sak som gjelder endring av opplysninger av registrert eier</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <seg>stadfeste eigedomsrett til offentleg veg- eller jernbanegrunn i sak som gjeld endring av opplysningar av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">2.24412</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/fullmakt-ved-oppmaling---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/fullmakt-ved-oppmaling---bokmal.pdf.converted</prop>
+     <seg>fremlegges dokumentasjon for at sameiet har vedtatt at styret, annet organ eller person kan representere sameiet, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/fullmakt-ved-oppmaling---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/fullmakt-ved-oppmaling---nynorsk.pdf.converted</prop>
+     <seg>leggjast fram dokumentasjon p&#229; at sameiget har vedteke at styret, anna organ eller person kan representere sameiget, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">3.05</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <seg>Eiendommen m&#229; v&#230;re etablert i samsvar med reglene som gjaldt p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <seg>Eigedommen m&#229; v&#230;re etablert i samsvar med reglene som gjaldt p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">2.78072</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>Geovekst er et samarbeid mellom flere store parter om felles etablering, forvaltning, drift, vedlikehold (FDV), tilgjengeliggj&#248;ring og bruk av geografisk informasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>Geovekst er et samarbeid mellom fleire store partar om felles etablering, forvaltning, drift, vedlikehald (FDV), tilgjengeleggjering og bruk av geografisk informasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">2.2619</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/protokoll-for-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/protokoll-for-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <seg>&#8226; tillatelsen &#8226; rekvisisjonen &#8226; varsel om oppm&#229;lingsforretning &#8226; forberedelse av</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/protokoll-for-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/protokoll-for-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <seg>&#8226; l&#248;yve &#8226; rekvisisjonen &#8226; varsel om oppm&#229;lingsforretninga &#8226; f&#248;rebuing av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>Geovekst-samarbeidets plass i Norge digitalt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>Geovekst-samarbeidets plass i Noreg digitalt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">2.63118</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/skjote-bokm-1801.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/skjote-bokm-1801.pdf.converted</prop>
+     <seg>gj&#248;res av to vitner som er myndige og bosatt i Norge, eller av lensmann, lensmannsbetjent, advokat,autorisert advokatfullmektig og autorisert eiendomsmegler.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/skoyte-nyn-1801.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/skoyte-nyn-1801.pdf.converted</prop>
+     <seg>gjerast av to vitne som er myndige og busette i Noreg, eller av lensmann, lensmannsbetjent, advokat,autorisert advokatfullmektig og autorisert eigedomsmeklar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">2.07826</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/skjote-bokm-1801.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/skjote-bokm-1801.pdf.converted</prop>
+     <seg>Separerte regnes som gifte, og boligen m&#229; vanligvis fortsatt regnes som felles.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/skoyte-nyn-1801.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/skoyte-nyn-1801.pdf.converted</prop>
+     <seg>Separerte vert rekna som gifte, og bustaden m&#229; vanlegvis framleis reknast som felles.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">2.27273</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <seg>offentlig veg- eller jernbanegrunn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <seg>til offentleg veg- eller jernbanegrunn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.50857</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave.pdf.converted</prop>
+     <seg>Mange akt&#248;rer henter ut informasjon fra</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave-nynorsk.pdf.converted</prop>
+     <seg>Mange akt&#248;rar hentar ut informasjon fr&#229; matrikke-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.38347</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <seg>Utkastet baseres p&#229; mottatte innspill om kartleggingsbehov og &#248;nskede prioriteringer fra partene i fylket, og f&#248;ringer gitt fra myndighetene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-rogaland/noreg-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <seg>Utkastet er basert p&#229; mottekne innspel om kartleggingsbehov, &#248;nska prioriteringar fr&#229; partane i fylket og f&#248;ringar gitt fr&#229; myndigheitene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.9882</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/erklaering-om-rettighet_bokm.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/erklaering-om-rettighet_bokm.pdf.converted</prop>
+     <seg>(som ikke skal tinglyses)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/erklaering-om-rettighet_nyn.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/erklaering-om-rettighet_nyn.pdf.converted</prop>
+     <seg>(som ikkje skal tinglysast)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <seg>Planen best&#229;r av to deler:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <seg>Planen best&#229;r av to delar:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">2.30488</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf62-bokm-0621.pdf.converted</prop>
+     <seg>og som brukes til offentlig veg eller jernbane.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf62-nyn-0621.pdf.converted</prop>
+     <seg>tinglyste, og som blir brukt til offentleg veg eller jernbane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.77273</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-bokmal-2022-2025.pdf.converted</prop>
+     <seg>&#197;rlige Norge digitalt-m&#248;ter i fylkene</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/fellesdokument-til-geodataplan-nynorsk-2022-2025.pdf.converted</prop>
+     <seg>&#197;rlege Noreg digitalt-m&#248;te i fylka</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">2.03878</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/fordeling-av-sameieandeler-ved-seksjonering---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/fordeling-av-sameieandeler-ved-seksjonering---bokmal.pdf.converted</prop>
+     <seg>Dersom seksjoner skal overf&#248;res til nye eiere, eller eierforholdet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/fordeling-av-sameieandeler-ved-seksjonering---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/fordeling-av-sameieandeler-ved-seksjonering---nynorsk.pdf.converted</prop>
+     <seg>Dersom seksjonar skal overf&#248;rast til nye eigarar, eller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">2.34835</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave.pdf.converted</prop>
+     <seg>&#171;For &#229; se hva som er registrert p&#229; eiendommen din,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave-nynorsk.pdf.converted</prop>
+     <seg>&#171;For &#229; sj&#229; kva som er registrert p&#229; eigedommen din, kan</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">2.21962</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/norge-digitalt/fylkesgeodataplan/</prop>
+     <seg>En fylkesgeodataplan som er utarbeidet spesielt for et fylke eller en region.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-rogaland/noreg-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt/fylkesgeodataplan/</prop>
+     <seg>Ein fylkesgeodataplan som er utarbeidd spesielt for eit fylke eller ein region.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">2.83846</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-bokmal.pdf.converted</prop>
+     <seg>Husk at du ogs&#229; kan bestille elektronisk p&#229; www.kartverket.no/eiendom.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-nynorsk.pdf.converted</prop>
+     <seg>Hugs at du ogs&#229; kan bestille elektronisk p&#229; www.kartverket.no/eiendom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">2.53571</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/egenerkl-veg-jernbanegrunn-mf9-bokm-0621.pdf.converted</prop>
+     <seg>Skjemaet sendes til den kommunen der veg- eller jernbanegrunnen ligger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/eigenerkl-veg-jernbanegrunn-mf9-nyn-0621.pdf.converted</prop>
+     <seg>Skjemaet skal sendast til den kommunen der veg- eller jernbanegrunnen ligg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">4.22308</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave.pdf.converted</prop>
+     <seg>Grensemerker i jordskiftesak og merker fra f&#248;r 2015 har annet preg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave-nynorsk.pdf.converted</prop>
+     <seg>Grensemerke i jord-skiftesak og merke fr&#229; f&#248;r 2015 har anna preg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---bokmal.pdf.converted</prop>
+     <seg>2.c Klarlegging av eksisterende grenser jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/rekvisisjon-av-oppmalingsforretning---nynorsk.pdf.converted</prop>
+     <seg>2.c Klarlegging av eksisterande grenser jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">5.22857</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-bokmal.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-bokmal.pdf.converted</prop>
+     <seg>Eventuelt ta kontakt med v&#229;rt kundesenter p&#229; telefon 32 11 80 00.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/dokkopi-borett-nynorsk.pdf.converted</prop>
+     <seg>Eventuelt ta kontakt med kundesenter v&#229;rt p&#229; telefon 32 11 80 00.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.54508</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave.pdf.converted</prop>
+     <seg>hovedsak v&#230;re merket med offentlig godkjente grensemerker ute i marka.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/matrikkel/informasjonsbrosjyre-om-matrikkelen/matrikkel-infobrosjyre-bretteutgave-nynorsk.pdf.converted</prop>
+     <seg>hovudsak vere merkte med offentleg godkjende grensemerke ute i marka.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">2.11667</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark/fylkesgeodataplan-trf-22-2025.pdf.converted</prop>
+     <seg>Den omhandler aktiviteter de lokale partene samarbeider om eller planlegger &#229; samarbeide om innen sin region.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/geodataplan-more-og-romsdal-2022-2025.pdf.converted</prop>
+     <seg>Han omhandlar aktivitetar dei lokale partane samarbeider om eller planlegg &#229; samarbeide om i sin region.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

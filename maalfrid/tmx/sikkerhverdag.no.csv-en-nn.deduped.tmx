@@ -1,0 +1,2881 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T072644" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.26739</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>for the production of non-medical cloth face coverings.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>for produksjon av ikkje-medisinske t&#248;ymunnbind.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.33884</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/remember-the-smoke-alarm-in-your-cabin/</prop>
+     <seg>In a 2011 survey, eight per cent of cabin owners admitted that they did not have smoke alarms in their cabins.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/hugs-roykvarslaren-pa-hytta/</prop>
+     <seg>I ei unders&#248;king fr&#229; 2011 svarte &#229;tte prosent av hytteeigarar at dei ikkje hadde r&#248;ykvarslar p&#229; hytta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.20455</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/enjoying-candlelight-safely/</prop>
+     <seg>Never leave candles unattended.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/trygg-kos-med-levande-lys/</prop>
+     <seg>G&#229; aldri fr&#229; levande lys.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.09362</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/how-to-check-fire-extinguishing-equipment/</prop>
+     <seg>Here is a list of what you should check, how and how often.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/slik-sjekkar-du-slokkjeutstyret/</prop>
+     <seg>Her er lista over kva, korleis og kor ofte du b&#248;r sjekke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.06346</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/gas-must-never-be-kept-in-the-cellar/</prop>
+     <seg>You are allowed to store a maximum of two 11 kg bottles per home</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/gass-skal-ikkje-oppbevarast-i-kjellaren/</prop>
+     <seg>Du kan oppbevare maksimalt to flasker p&#229; 11 kilo per bueining.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">5.7</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/how-to-choose-the-right-sunglasses/</prop>
+     <seg>Category 2 is for normal sunlight.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/slik-vel-du-riktig-solbrille/</prop>
+     <seg>er for delvis overskya. Kategori 2</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.04048</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/electrical-appliances/use-oil-filled-radiators-correctly/</prop>
+     <seg>When you put the radiator away, make sure it's in the upright position.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/trygge-produkter/elektriske-produkter/bruk-oljefylte-omnar-riktig-/</prop>
+     <seg>Dersom du skal rydde omnen vekk, s&#248;rg for at omnen blir oppbevart st&#229;ande.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.53923</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/charging-an-ev-electric-vehicle-safely/</prop>
+     <seg>The most commonly used charging equipment consists of a specially designed cable with a charging device (Mode 2) that comes with the vehicle.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/trygg-lading-av-elbil/</prop>
+     <seg>Det mest brukte ladeutstyret best&#229;r av ein spesialtilpassa kabel med ladeboks (mode 2), som f&#248;lgjer med bilen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.19204</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/ce-markings/what-the-ce-mark-means/</prop>
+     <seg>Products which have CE marking may circulate freely within the EEA.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/ce-merking/dette-tyder-ce-merket/</prop>
+     <seg>Produkt som er CE-merkte, kan sirkulere fritt innanfor E&#216;S-omr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.51923</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/leisure/sport-and-activities/dont-get-hurt-mowing-the-lawn/</prop>
+     <seg>In Sweden, more than 4500 people end up in Accident and Emergency every year with gardening injuries.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fritid/sport-og-aktivitet/unnga-skadar-nar-du-klipper-graset/</prop>
+     <seg>I Sverige hamnar over 4500 menneske kvart &#229;r p&#229; akuttmottaket med skadar etter hagearbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.00161</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/leisure/sport-and-activities/how-to-clean-and-bleach-animal-skulls-safely/</prop>
+     <seg>When you have finished boiling the skull and it is completely clean, leave it to cool.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fritid/sport-og-aktivitet/riktig-reinsing-og-bleiking-av-skallar/</prop>
+     <seg>N&#229;r kraniet er ferdig kokt og heilt reingjort, legg du det til avkj&#248;ling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.98116</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/emergency-self-preparedness-for-people-with-disabilities/</prop>
+     <seg>In the event of acute imminent danger to life and health, call the emergency services on 110, 112 or 113.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/eigenberedskap-ved-funksjonsnetsetjingar/</prop>
+     <seg>Ved akutt fare for liv og helse ringjer du naudnummera 110, 112 og 113.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.26471</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/gas-must-never-be-kept-in-the-cellar/</prop>
+     <seg>If you store gas outdoors, the container should be in a shady place.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/gass-skal-ikkje-oppbevarast-i-kjellaren/</prop>
+     <seg>Oppbevarer du gass utand&#248;rs, la behaldarane st&#229; i skuggen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.17429</prop>
+    <prop type="score-bicleaner">0.623</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/how-to-change-a-gas-hose/</prop>
+     <seg>Check for leaks before you turn on the gas</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/slik-byter-du-gasslange/</prop>
+     <seg>Sjekk for lekkasjar f&#248;r du opnar for gassen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.03247</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/how-to-change-a-gas-hose/</prop>
+     <seg>You should replace gas hoses after two to five years.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/slik-byter-du-gasslange/</prop>
+     <seg>Du b&#248;r byte gasslange etter to til fem &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.26471</prop>
+    <prop type="score-bicleaner">0.519</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/how-to-register-a-gas-system/</prop>
+     <seg>You must keep this.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/slik-melder-du-inn-eit-gassanlegg/</prop>
+     <seg>Den m&#229; du m&#229; ta vare p&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.07714</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/how-to-change-a-gas-bottle/</prop>
+     <seg>Remove any seals on the gas bottle.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/slik-byter-du-gassflaske/</prop>
+     <seg>Fjern eventuell forsegling p&#229; gassflaska.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">3.88667</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/safe-use/using-a-bioethanol-fireplace-correctly/</prop>
+     <seg>Do not keep more than 10 litres of bioethanol indoors</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/gass/trygg-bruk/bruk-biopeisen-riktig/</prop>
+     <seg>Oppbevar ikkje meir enn 10 liter bioetanol innand&#248;rs.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.09474</prop>
+    <prop type="score-bicleaner">0.629</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/electrical-appliances/what-is-electromagnetic-compatibility/</prop>
+     <seg>Where are EMC problems experienced?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/elektriske-produkt/kva-er-elektromagnetisk-kompatabilitet/</prop>
+     <seg>Kvar opplever vi EMC?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.24231</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/advice-on-self-preparedness-for-emergencies/</prop>
+     <seg>one pack of porridge oats per person</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/rad-om-eigenberedskap/</prop>
+     <seg>ei pakke havregryn per person</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.62873</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fireworks-and-explosives/safe-use/why-you-should-never-try-to-light-a-firework-twice/</prop>
+     <seg>Fireworks that do not go off at the first attempt should therefore be left for 30 minutes or submerged thoroughly in water before being removed.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fyrverkeri-og-eksplosiv/trygg-bruk/derfor-skal-du-ikkje-tenne-pa-fyrverkeri-to-gonger/</prop>
+     <seg>Fyrverkeri som ikkje blir tent ved f&#248;rste fors&#248;k, b&#248;r derfor st&#229; i 30 minutt og dynkast grundig i vatn f&#248;r det blir fjerna.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.18857</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/life-jackets-for-children--what-you-should-know/</prop>
+     <seg>Flotation devices must bear the CE mark.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/redningsvest-til-barn---dette-bor-du-vite/</prop>
+     <seg>Flytevestar og redningsvestar skal vere CE-merkte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.53481</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-diesel-and-heating-oil/</prop>
+     <seg>The Norwegian government wants to phase out the use of oil-fired boilers in households by 2020.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/transport-og-oppbevaring-av-diesel-og-fyringsolje/</prop>
+     <seg>Den norske regjeringa &#248;nskjer &#229; fase ut bruken av oljekjelar hos hushaldningane innan 2020.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.18498</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/life-jacket-or-buoyancy-aid/</prop>
+     <seg>Traditional life vests are flotation devices without a collar, shaped like a vest.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/redningsvest-eller-flytevest/</prop>
+     <seg>Tradisjonelle flytevestar er flyteplagg utan krage, forma som ein vest.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">3.1043</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/leisure/sport-and-activities/how-to-clean-and-bleach-animal-skulls-safely/</prop>
+     <seg>Place the cleaned and cooled skull in a bowl of hydrogen peroxide (5&#8211;10%)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fritid/sport-og-aktivitet/riktig-reinsing-og-bleiking-av-skallar/</prop>
+     <seg>Legg det reingjorde og avkj&#248;lte kraniet i eit kar med hydrogenperoksid (5&#8211;10 %)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">3.88776</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-diesel-and-heating-oil/</prop>
+     <seg>Individual containers may not contain more than 60 litres.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/transport-og-oppbevaring-av-diesel-og-fyringsolje/</prop>
+     <seg>Enkeltbehaldarar kan ikkje innehalde meir enn 60 liter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">5.55</prop>
+    <prop type="score-bicleaner">0.649</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/charging-an-ev-electric-vehicle-safely/</prop>
+     <seg>EV without special cable (Mode 1)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/trygg-lading-av-elbil/</prop>
+     <seg>Elbil utan spesialkabel (mode 1)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.29212</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/toys-and-childrens-equipment/equipment/sleep-safely--choose-safe-beds-for-children/</prop>
+     <seg>When the base is in the uppermost position, there must be at least 30 centimetres from the base of the bed to the top of the rails.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/leiker-og-utstyr-for-barn/utstyr/sov-trygt--vel-sikre-barnesenger/</prop>
+     <seg>N&#229;r senga st&#229;r i den &#248;vste posisjonen, skal det vere minst 30 centimeter fr&#229; sengebotnen og opp til kanten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">5.655</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/how-to-choose-the-right-sunglasses/</prop>
+     <seg>Category 1 is for partly cloudy skies.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/slik-vel-du-riktig-solbrille/</prop>
+     <seg>er for overskya v&#234;r. Kategori 1</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.03492</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/electrical-appliances/what-you-should-know-about-segway-style-vehicles/</prop>
+     <seg>This is because this gives the shop responsibility for ensuring that the product is safe.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/elektriske-produkt/dette-bor-du-vite-om-stahjulingar/</prop>
+     <seg>D&#229; er det butikken som har ansvaret for at produktet er sikkert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.01538</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/maintaining-good-hygiene-if-your-water-supply-is-cut-off/</prop>
+     <seg>Keep your home clean and tidy.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/god-hygiene-om-vatnet-forsvinn/</prop>
+     <seg>Hald bustaden din ryddig og rein.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.47909</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electro-professionals/ask-for-a-declaration-of-conformity/</prop>
+     <seg>For example, did you know that heating cables may be guaranteed for up to 25 years</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektrikar/be-om-samsvarserklaring/</prop>
+     <seg>Visste du til d&#248;mes at varmekablar kan ha garanti p&#229; opp til 25 &#229;r?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.32237</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/electrical-appliances/use-oil-filled-radiators-correctly/</prop>
+     <seg>Read the user instructions and use the radiator correctly.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/trygge-produkter/elektriske-produkter/bruk-oljefylte-omnar-riktig-/</prop>
+     <seg>Les bruksrettleiinga og bruk omnen riktig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">3.2875</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/caring-for-inflatable-life-jackets/</prop>
+     <seg>An inflated life jacket should stay inflated for 24 hours.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/slik-held-du-den-oppblasbare-redningsvesten-ved-like/</prop>
+     <seg>Ein oppbl&#229;st redningsvest skal halde p&#229; luft i 24 timar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.25263</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/ce-markings/what-the-ce-mark-means/</prop>
+     <seg>What the CE mark means</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/ce-merking/dette-tyder-ce-merket/</prop>
+     <seg>Dette tyder CE-merket</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">3.55968</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-petrol/</prop>
+     <seg>Individual containers may not hold more than 60 litres.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/frakt-og-oppbevaring-av-bensin/</prop>
+     <seg>Kvar enkelt behaldar m&#229; ikkje romme meir enn 60 liter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.12984</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/remember-the-smoke-alarm-in-your-cabin/</prop>
+     <seg>A fire alarm system or smoke alarm(s) must be fitted to all dwellings, cabins and holiday properties.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/hugs-roykvarslaren-pa-hytta/</prop>
+     <seg>Det skal vere brannalarmanlegg eller r&#248;ykvarslar(ar) i alle bustader, hytter og fritidseigedomar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">3.84518</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/what-you-need-to-know-about-led-lights/</prop>
+     <seg>The best white LED lights have a Ra index of over 90.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/dette-bor-du-vite-om-led-lys/</prop>
+     <seg>Dei beste kvite LED-lyskjeldene har ein Ra-indeks p&#229; over 90.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.01842</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/choose-safe-reflectors/</prop>
+     <seg>Choose safe reflectors</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/vel-trygge-refleksar/</prop>
+     <seg>Vel trygge refleksar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.01842</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/keeping-warm-in-a-power-cut/</prop>
+     <seg>Remember that you will need matches or a lighter, and paraffin or lamp oil.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/slik-held-du-varmen-om-straumen-gar/</prop>
+     <seg>Hugs at du d&#229; m&#229; ha fyrstikker eller tennar, og parafin/lampeolje.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.12326</prop>
+    <prop type="score-bicleaner">0.603</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/weather-and-nature/how-to-protect-yourself-in-a-storm/</prop>
+     <seg>Bring toys, pot plants and small objects indoors.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/ver-og-natur/slik-forebur-du-deg-pa-storm/</prop>
+     <seg>Set leiker, blomsterpotter og mindre gjenstandar innand&#248;rs.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.01923</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/fire-safe-student-accommodation--what-youre-entitled-to/</prop>
+     <seg>Before you sign the rental contract, you should check that the landlord takes fire safety seriously.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/brannsikker-studentbustad-dette-har-du-krav-pa/</prop>
+     <seg>F&#248;r du signerer leigekontrakten, b&#248;r du sjekke at utleigar tek branntryggleiken p&#229; alvor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.31723</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/storing-gas-and-flammable-liquids-in-an-apartment/</prop>
+     <seg>The maximum amount of flammable gas (such as propane) allowed in a residential unit is 55 litres (2 x 11 kg canisters) and the maximum amount of flammable liquids (such as petrol and methylated spirits) is 10 litres.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/oppbevare-gass-og-brannfarleg-vaske-i-leilegheit/</prop>
+     <seg>Maksimalt tillatne mengd brannfarleg gass (som propan) i ei bueining, er 55 liter (2 x11 kg behaldarar) og 10 liter brannfarleg v&#230;ske (som bensin og raudsprit).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.40526</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/buying-and-using-inflatable-water-toys/</prop>
+     <seg>Requirements and CE marking</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/kjop-og-bruk-av-oppblasbare-badeleiker/</prop>
+     <seg>Krav og CE-merking</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.25714</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/hold-your-own-fire-drill/</prop>
+     <seg>Rescue &#8211; Alarm &#8211; Extinguish</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/ov-pa-brann-heime/</prop>
+     <seg>Redde &#8211; varsle &#8211; sl&#248;kkje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/how-to-put-out-a-deep-fat-fire/</prop>
+     <seg>So what should you do?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/slik-slokkjer-du-frityrbrann/</prop>
+     <seg>Men kva skal du gjere?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.01308</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/how-to-change-a-gas-hose/</prop>
+     <seg>If you only buy the gas hose, you will have to fix it to the regulator yourself.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/slik-byter-du-gasslange/</prop>
+     <seg>Kj&#248;per du berre gassleidningen, m&#229; du feste slangen til regulatoren sj&#248;lv i tillegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.40047</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/warning-and-information/air-raid-sirens/</prop>
+     <seg>In peacetime, the alarms are tested twice a year, in winter and summer, at 12 noon on the second Wednesday in January and June.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/varsling-og-informasjon/dette-tyder-flyalarmen/</prop>
+     <seg>Varslingsanlegga blir testa kvar vinter og sommar i fredstid, klokka 12 den andre onsdagen i januar og juni.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">5.36571</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/what-should-you-do-if-theres-a-fire/</prop>
+     <seg>Alert the fire service on the emergency number 110.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/hva-gjer-du-nar-det-brenn/</prop>
+     <seg>Varsle brannvesenet p&#229; naudnummer 110.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.04032</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/how-to-tackle-a-forest-fire/</prop>
+     <seg>If you discover a forest fire early, you can often put it out quite easily.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/dette-gjer-du-ved-skogbrann/</prop>
+     <seg>Oppdagar du ein skogbrann tidleg, kan du ofte sl&#248;kkje han med enkle middel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.10714</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/gas-must-never-be-kept-in-the-cellar/</prop>
+     <seg>Gas must never be kept in the cellar</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/gass-skal-ikkje-oppbevarast-i-kjellaren/</prop>
+     <seg>Gass skal ikkje oppbevarast i kjellaren</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.48421</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/hold-your-own-fire-drill/</prop>
+     <seg>Tips for fire drills:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/ov-pa-brann-heime/</prop>
+     <seg>Tips til brann&#248;vinga:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.34254</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/correct-use-of-extension-leads/</prop>
+     <seg>A good rule of thumb is that appliances that need over 1000 watts should not be run on an extension lead for any length of time.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/riktig-bruk-av-skoyteleidning/</prop>
+     <seg>Ein tommelfingerregel er at apparat som bruker over 1000 watt, ikkje b&#248;r koplast til med sk&#248;yteleidning over lengre tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/buying-and-using-inflatable-water-toys/</prop>
+     <seg>Remember that these items are toys, not safety devices.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/kjop-og-bruk-av-oppblasbare-badeleiker/</prop>
+     <seg>Produkta er leiker og ikkje tryggleiksprodukt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.39643</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>Surgical face masks are intended for one-time use.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>Medisinske munnbind er meint for eingongsbruk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.27097</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/leisure/sport-and-activities/how-to-clean-and-bleach-animal-skulls-safely/</prop>
+     <seg>Wash out flesh, blood and brain matter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fritid/sport-og-aktivitet/riktig-reinsing-og-bleiking-av-skallar/</prop>
+     <seg>Reins ut kj&#248;t, blod og hjernemasse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.34805</prop>
+    <prop type="score-bicleaner">0.609</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electro-professionals/find-an-approved-electrician/</prop>
+     <seg>Search the Electrical Enterprise Register (opens in new window)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektrikar/finn-godkjend-elektrikar/</prop>
+     <seg>S&#248;k i Elverksemdsregisteret (opnar seg i nytt vindauge)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.11104</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/keeping-warm-in-a-power-cut/</prop>
+     <seg>Remember that you will also need gas or paraffin.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/slik-held-du-varmen-om-straumen-gar/</prop>
+     <seg>Hugs ogs&#229; at du m&#229; ha tilgang p&#229; gass eller parafin.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.035</prop>
+    <prop type="score-bicleaner">0.637</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/keeping-warm-in-a-power-cut/</prop>
+     <seg>Gas or paraffin heater</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/slik-held-du-varmen-om-straumen-gar/</prop>
+     <seg>Gass- eller parafinomn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.02102</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>For non-medical face masks/cloth face coverings this means, in practice, that they must be accompanied by a clear warning that the product will not protect you against any risk and that the product is meant for private use only.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>For ikkje-medisinske munnbind/t&#248;ymunnbind betyr dette i praksis at det skal f&#248;lgje med ei tydeleg &#229;tvaring om at produktet ikkje vernar deg mot nokon risiko, og at produktet berre er meint til privat bruk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.12885</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/gas-in-housing-cooperatives/</prop>
+     <seg>Before a co-ownership association starts using a gas system, the board must register the system with the Norwegian Directorate for Civil Protection (DSB).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/gassanlegg-i-burettslag/</prop>
+     <seg>F&#248;r bustadsameige tei i bruk eit gassanlegg, skal styret melde anlegget inn til Direktoratet for samfunnstryggleik og beredskap (DSB).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.10931</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/what-you-should-know-about-chinese-lanterns/</prop>
+     <seg>Sky lanterns can fly at heights of up to 600&#8211;800 metres, burn for 20&#8211;40 minutes, and have a range of several kilometres</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/dette-bor-du-vite-om-kinesiske-lykter/</prop>
+     <seg>Skylanterner kan flyge i h&#248;gder opp til 600&#8211;800 meter, brenne i 20&#8211;40 minutt og dei har ei rekkjevidde p&#229; mange kilometer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.12056</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/smoke-detectors/choose-an-optical-smoke-alarm/</prop>
+     <seg>What you have to check is that the alarm has the CE mark.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/roykvarslarar/vel-optisk-roykvarslar/</prop>
+     <seg>Det du m&#229; sjekke, er at varslaren er CE-merkt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.70474</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/protect-your-eyes-in-a-solar-eclipse/</prop>
+     <seg>One important requirement is for the glass/film in the glasses to allow through only 1 out of 100,000 parts of solar light, thereby protecting the eyes from the strongest rays.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/pass-pa-auga-under-solformorkinga/</prop>
+     <seg>Eit viktig krav er at glaset/filmen i brillene berre skal sleppe igjennom 1 av 100.000 delar sollys, slik at auga blir beskytta mot dei sterke str&#229;lane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.10282</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/charging-an-ev-electric-vehicle-safely/</prop>
+     <seg>For a housing cooperative and co-ownership scheme, it is extremely important for the capacity of the electrical system to be evaluated before any EV charging points can be installed.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/trygg-lading-av-elbil/</prop>
+     <seg>For burettslag og sameige er det sv&#230;rt viktig &#229; f&#229; vurdert kapasiteten p&#229; det elektriske anlegget f&#248;r det blir montert uttak for lading av elbil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.5117</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/choosing-the-right-fire-extinguishing-equipment/</prop>
+     <seg>Decide on which equipment is best for you and your home.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/vel-riktig-brannslokkjeutstyr/</prop>
+     <seg>Finn sl&#248;kkjeutstyret som passar best for deg og bustaden din.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">3.11369</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/what-you-need-to-know-about-led-lights/</prop>
+     <seg>By comparison, an LED bulb converts around 80% of the energy into light.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/dette-bor-du-vite-om-led-lys/</prop>
+     <seg>Til samanlikning kan ei LED-p&#230;re gjere om rundt 80 % av energien til lys.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.02166</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/safe-use/using-a-bioethanol-fireplace-correctly/</prop>
+     <seg>See what can happen if you refill a fireplace with bioethanol when there is a flame present (link to NRK Forbrukerinspekt&#248;rene &#8211; consumer watchdog programme).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/gass/trygg-bruk/bruk-biopeisen-riktig/</prop>
+     <seg>Sj&#229; kva som kan skje dersom du fyller bioetanol p&#229; ein brennande peis (lenke til NRK Forbrukerinspekt&#248;rene).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.19195</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/leisure/sport-and-activities/reporting-unprofessional-organisers/</prop>
+     <seg>This responsibility applies to dedicated facilities such as amusement parks and climbing parks, and to activities for individuals, such as diving courses, kayaking and rafting.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fritid/sport-og-aktivitet/meld-ifra-om-useriose-arrangorar/</prop>
+     <seg>Ansvaret gjeld p&#229; tilrettelagde omr&#229;de, som til d&#248;mes leikeland og klatreparkar, og ved aktivitetar som til d&#248;mes dykkarkurs, kajakkturar, og rafting, for privatpersonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.17586</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/checking-gas-bottles/</prop>
+     <seg>You are not allowed to refill bottles yourself.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/kontroll-av-gassflasker/</prop>
+     <seg>Sj&#248;lvbetening er ikkje tillate.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.05932</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/toys-and-childrens-equipment/toys/buy-safe-toys-for-young-children/</prop>
+     <seg>On cuddly toys, dolls and teddy bears, check that the seams will not come apart.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/leiker-og-utstyr-for-barn/leiker/kjop-trygge-leiker-til-dei-minste/</prop>
+     <seg>P&#229; mjuke t&#248;ydyr, dokker og bamsar, sjekk at saumane verkar haldbare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.09855</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/gas-must-never-be-kept-in-the-cellar/</prop>
+     <seg>Gas bottles must also not be kept in the attic, which is often difficult to access.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/gass-skal-ikkje-oppbevarast-i-kjellaren/</prop>
+     <seg>Gassflasker skal heller ikkje oppbevarast p&#229; loftet, der det ofte er vanskeleg &#229; kome til.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.176</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/what-you-should-know-about-chinese-lanterns/</prop>
+     <seg>Be careful with sky lanterns and flying Chinese lanterns.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/dette-bor-du-vite-om-kinesiske-lykter/</prop>
+     <seg>Ver forsiktig med skylanterner og svevande kinesiske lykter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">3.505</prop>
+    <prop type="score-bicleaner">0.521</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fireworks-and-explosives/buy-fireworks/before-you-buy-fireworks/</prop>
+     <seg>You must be 18 or older to buy and use fireworks.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fyrverkeri-og-eksplosiv/kjop-av-fyrverkeri/for-du-kjoper-fyrverkeri/</prop>
+     <seg>Aldersgrensa for &#229; kj&#248;pe og bruke fyrverkeri er 18 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">3.03733</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/toys-and-childrens-equipment/equipment/sleep-safely--choose-safe-beds-for-children/</prop>
+     <seg>The distance from the base of the bed to the top edge must be no less than 60 centimetres</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/leiker-og-utstyr-for-barn/utstyr/sov-trygt--vel-sikre-barnesenger/</prop>
+     <seg>Avstand fr&#229; sengebotnen og opp til kanten skal minst vere 60 centimeter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.14348</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/warning-and-information/air-raid-sirens/</prop>
+     <seg>If you hear this signal, you should seek information.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/varsling-og-informasjon/dette-tyder-flyalarmen/</prop>
+     <seg>Dersom du h&#248;yrer dette signalet, tyder det i praksis at du skal s&#248;kje informasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.18421</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/buying-and-using-inflatable-water-toys/</prop>
+     <seg>Check that the air valve has a stopper / plug.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/kjop-og-bruk-av-oppblasbare-badeleiker/</prop>
+     <seg>Sjekk at luftventilen har ein stoppar/propp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.04662</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/prevent-fires-on-electrical-appliances/</prop>
+     <seg>Never use the computer in bed.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/unnga-brann-i-elektriske-apparat/</prop>
+     <seg>Ikkje bruk pc i senga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.22857</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/home-and-cabin/making-homes-safe-for-the-elderly/</prop>
+     <seg>Make sure the home is well lit.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hus-og-hytte/trygge-heimar-for-eldre/</prop>
+     <seg>S&#248;rg for god belysning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">4.19348</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/prevent-fires-on-electrical-appliances/</prop>
+     <seg>Never use extension leads for appliances over 1000 kW.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/unnga-brann-i-elektriske-apparat/</prop>
+     <seg>Ikkje bruk sk&#248;yteleidning p&#229; apparat over 1000 watt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.03889</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/leisure/sport-and-activities/reporting-unprofessional-organisers/</prop>
+     <seg>Essential and safe equipment, such as helmets and life jackets</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fritid/sport-og-aktivitet/meld-ifra-om-useriose-arrangorar/</prop>
+     <seg>n&#248;dvendig og sikkert utstyr, som til d&#248;mes hjelm og redningsvest</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.01707</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/what-you-need-to-know-about-led-lights/</prop>
+     <seg>An incandescent lightbulb emits almost as much heat as light: 95% of the energy used by an incandescent lightbulb turns into heat, while only 5% becomes visible light.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/dette-bor-du-vite-om-led-lys/</prop>
+     <seg>Ei gl&#248;dep&#230;re gjev fr&#229; seg nesten like mykje varme som ho gjev lys. 95% av energien som blir tilf&#248;rt ei gl&#248;dep&#230;re, blir til varme, medan berre 5 % blir til synleg lys.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.27778</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/warning-and-information/information-for-neighbours-of-facilities-for-storage-of-explosives-and-fireworks/</prop>
+     <seg>If you are indoors, stay indoors.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/varsling-og-informasjon/naboinformasjon---lagring-av-eksplosiv-og-fyrverkeri/</prop>
+     <seg>Er du inne, hald deg innand&#248;rs.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.13779</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/safe-use/using-a-bioethanol-fireplace-correctly/</prop>
+     <seg>Read and retain the user instructions</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/gass/trygg-bruk/bruk-biopeisen-riktig/</prop>
+     <seg>Les og ta vare p&#229; bruksrettleiinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.02115</prop>
+    <prop type="score-bicleaner">0.541</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/fire-safe-student-accommodation--what-youre-entitled-to/</prop>
+     <seg>Your responsibility as a tenant is to keep the escape routes clear.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/brannsikker-studentbustad-dette-har-du-krav-pa/</prop>
+     <seg>Som leigetakar m&#229; du s&#248;rgje for &#229; halde r&#248;mmingsvegane frie.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.09104</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/electrical-appliances/use-oil-filled-radiators-correctly/</prop>
+     <seg>If you notice that the radiator is leaking, return it to the place where you bought it.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/trygge-produkter/elektriske-produkter/bruk-oljefylte-omnar-riktig-/</prop>
+     <seg>Dersom du oppdagar at omnen lek, lever den tilbake til forhandlaren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.02097</prop>
+    <prop type="score-bicleaner">0.581</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/how-to-change-a-gas-hose/</prop>
+     <seg>What to remember when you buy a gas hose:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/slik-byter-du-gasslange/</prop>
+     <seg>Hugs dette n&#229;r du kj&#248;per gasslange:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">4.86667</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fireworks-and-explosives/buy-fireworks/before-you-buy-fireworks/</prop>
+     <seg>The age restriction for small sparklers is 12 years old.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fyrverkeri-og-eksplosiv/kjop-av-fyrverkeri/for-du-kjoper-fyrverkeri/</prop>
+     <seg>For sm&#229; stjerneskot er aldergrensa 12 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.24545</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/how-to-maintain-gas-appliances/</prop>
+     <seg>Check the hose for leaks:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/slik-helt-du-gassutstyret-ved-like/</prop>
+     <seg>Sjekk slangen for lekkasjar:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.35691</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-diesel-and-heating-oil/</prop>
+     <seg>Diesel and heating oil may be stored outdoors, indoors or in an outhouse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/transport-og-oppbevaring-av-diesel-og-fyringsolje/</prop>
+     <seg>Diesel og fyringsolje kan oppbevarast b&#229;de utand&#248;rs, innand&#248;rs og i uthus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">2.65688</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/what-you-need-to-know-about-led-lights/</prop>
+     <seg>LEDs with a colour temperature in the range 2700 to 3000 degrees Kelvin provide a warm light.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/dette-bor-du-vite-om-led-lys/</prop>
+     <seg>For &#229; f&#229; eit varmt lys b&#248;r du velje LED med fargetemperatur i omr&#229;det 2700 til 3000 gradar kelvin.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">1.09714</prop>
+    <prop type="score-bicleaner">0.615</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fireworks-and-explosives/safe-use/avoid-eye-injuries-on-new-years-eve/</prop>
+     <seg>How to use fireworks safely:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fyrverkeri-og-eksplosiv/trygg-bruk/slik-brukar-du-fyrverkeri-trygt/</prop>
+     <seg>Slik nyttar du fyrverkeri riktig:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.13519</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>Non-medical face masks/cloth face coverings can be factory produced or homemade and may be made for one-time use or be reusable (washable).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>Ikkje-medisinske munnbind/t&#248;ymunnbind kan vere fabrikkproduserte eller heimelaga, og dei kan vere laga for bruk &#233;in eller fleire gongar (vaskbare).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.28941</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/enjoying-candlelight-safely/</prop>
+     <seg>Moss, driftwood, twigs, cones, twine and other dry natural materials catch fire quickly and burn well.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/trygg-kos-med-levande-lys/</prop>
+     <seg>Mose, drivved, kvistar, kongler, hyssing og andre t&#248;rre naturmateriale tek fort fyr og brenn godt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.0375</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/charging-an-ev-electric-vehicle-safely/</prop>
+     <seg>At home, normal charging tends to be the most practical and cost efficient alternative.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/trygg-lading-av-elbil/</prop>
+     <seg>Heime er normallading ofte det mest praktiske og kostnadseffektive alternativet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">2.1348</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/prevent-fires-on-electrical-appliances/</prop>
+     <seg>A good rule of thumb is never to plug appliances that use more than 1000 kW of electricity into an extension lead.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/unnga-brann-i-elektriske-apparat/</prop>
+     <seg>Ein tommelfingerregel er at apparat som brukar over 1000 watt ikkje skal koplast til med sk&#248;yteleidning over lang tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.03333</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/fire-safe-student-accommodation--what-youre-entitled-to/</prop>
+     <seg>Approved for rental</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/brannsikker-studentbustad-dette-har-du-krav-pa/</prop>
+     <seg>Godkjent for utleige</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.48333</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/enjoying-candlelight-safely/</prop>
+     <seg>Fireproof materials include metal, porcelain, sand or stone.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/trygg-kos-med-levande-lys/</prop>
+     <seg>Brannsikre materiale kan til d&#248;mes vere metall, porselen, sand eller stein.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.03767</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/gas-must-never-be-kept-in-the-cellar/</prop>
+     <seg>To prevent accidents, it's important that gas is stored correctly and legally.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/gass-skal-ikkje-oppbevarast-i-kjellaren/</prop>
+     <seg>For at det ikkje skal skje ulukker, er det viktig at du oppbevarer gassen riktig og lovleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.55714</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/ce-markings/what-the-ce-mark-means/</prop>
+     <seg>What does the CE mark mean?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/ce-merking/dette-tyder-ce-merket/</prop>
+     <seg>Kva tyder CE-merket?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">1.09714</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/ce-markings/what-the-ce-mark-means/</prop>
+     <seg>The letters CE stand for the European Community &#8211; la Communaut&#233; Europ&#233;enne.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/ce-merking/dette-tyder-ce-merket/</prop>
+     <seg>Bokstavane CE er ei forkorting p&#229; det europeiske fellesskapet &#8211; la Communaut&#232; Europ&#232;enne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">3.06271</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/safe-use/avoiding-accidents-with-methylated-spirits/</prop>
+     <seg>You are not allowed to keep more than 10 litres at home.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/trygg-bruk/unnga-ulukker-med-raudsprit/</prop>
+     <seg>Du kan ikkje oppbevare meir enn 10 liter i ein bueining.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.53117</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/ce-markings/what-the-ce-mark-means/</prop>
+     <seg>What needs to have CE marking?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/ce-merking/dette-tyder-ce-merket/</prop>
+     <seg>Kva skal CE-merkjast?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">2.48481</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/toys-and-childrens-equipment/equipment/childproofing-your-home/</prop>
+     <seg>If a cord is longer than 22 cm, a child could get this round its neck and be strangled.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/leiker-og-utstyr-for-barn/utstyr/barnesikring-i-heimen/</prop>
+     <seg>Dersom snorene er over 22 centimeter lange, kan barnet f&#229; desse rundt halsen og bli kvelt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">2.34581</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/dangerous-products/these-chemicals-are-prohibited-to-the-general-public/</prop>
+     <seg>Ammonium nitrate in concentrations of 16% or higher by weight of nitrogen in relation to ammonium nitrate</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/gjer-det-sjolv/elektrisk-arbeid-dette-kan-du-gjere-sjolv/</prop>
+     <seg>Kople til eller skifte topola sk&#248;ytekontaktar og apparatkontaktar til og med 16 A, med og utan jording.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">1.07947</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/weather-and-nature/how-to-protect-yourself-in-a-storm/</prop>
+     <seg>Tighten and secure any tarpaulins over wood stores, boats or other equipment, to prevent the wind from getting hold of them.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/ver-og-natur/slik-forebur-du-deg-pa-storm/</prop>
+     <seg>Presenningar over vedstablar, b&#229;tar og anna b&#248;r strammast til og festast godt, s&#229; vinden ikkje f&#229;r tak under.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.76053</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/gas-must-never-be-kept-in-the-cellar/</prop>
+     <seg>Gas bottles must never be kept in the cellar.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/gass-skal-ikkje-oppbevarast-i-kjellaren/</prop>
+     <seg>Gassflasker skal ikkje oppbevarast i kjellaren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.591</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/toys-and-childrens-equipment/toys/what-you-should-know-before-you-buy-a-trampoline/</prop>
+     <seg>Labelling and information</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/leiker-og-utstyr-for-barn/leiker/dette-bor-du-vite-for-du-kjoper-trampoline/</prop>
+     <seg>Merking og informasjon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">1.81969</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fireworks-and-explosives/buy-fireworks/before-you-buy-fireworks/</prop>
+     <seg>Did you know that you must be over the age of 18 to buy and use fireworks, and that it is illegal to bring fireworks into Norway from abroad?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fyrverkeri-og-eksplosiv/kjop-av-fyrverkeri/for-du-kjoper-fyrverkeri/</prop>
+     <seg>Visste du at det er 18-&#229;rsgrense for kj&#248;p og bruk av fyrverkeri, og at det er ulovleg &#229; ta med seg fyrverkeri fr&#229; utlandet?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">2.44545</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/enjoying-candlelight-safely/</prop>
+     <seg>A distance of around 10 centimetres is enough to ensure that the candles will not start to melt each other.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/trygg-kos-med-levande-lys/</prop>
+     <seg>Ein avstand p&#229; rundt 10 centimeter er nok til at lysa ikkje smeltar kvarandre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.03492</prop>
+    <prop type="score-bicleaner">0.615</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/home-and-cabin/making-homes-safe-for-the-elderly/</prop>
+     <seg>Many elderly people have balance problems.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hus-og-hytte/trygge-heimar-for-eldre/</prop>
+     <seg>Mange eldre slit med balansen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.08696</prop>
+    <prop type="score-bicleaner">0.521</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/warning-and-information/information-for-neighbours-of-facilities-for-storage-of-explosives-and-fireworks/</prop>
+     <seg>The police will lead the response and will be responsible for notifying neighbours.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/varsling-og-informasjon/naboinformasjon---lagring-av-eksplosiv-og-fyrverkeri/</prop>
+     <seg>Det er Politiet som leier innsatsarbeidet og som vil st&#229; for varslinga av naboar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.12663</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/home-and-cabin/making-homes-safe-for-the-elderly/</prop>
+     <seg>Put an anti-slip backing under loose rugs, or remove the rugs altogether.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hus-og-hytte/trygge-heimar-for-eldre/</prop>
+     <seg>Legg anti-sklibelegg under lause teppe, eller fjern teppa heilt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">1.06712</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/warning-and-information/information-for-neighbours-of-facilities-for-storage-of-explosives-and-fireworks/</prop>
+     <seg>Listen to the radio and search for information online.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/varsling-og-informasjon/naboinformasjon---lagring-av-eksplosiv-og-fyrverkeri/</prop>
+     <seg>Lytt til radio og s&#248;k etter tilgjengeleg informasjon p&#229; nettet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">1.9009</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/toys-and-childrens-equipment/equipment/sleep-safely--choose-safe-beds-for-children/</prop>
+     <seg>You should lower it to the lowest and safest position, with 60 centimetres between the base and the top, as soon as the baby starts trying to sit up or pull themselves up.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/leiker-og-utstyr-for-barn/utstyr/sov-trygt--vel-sikre-barnesenger/</prop>
+     <seg>Du b&#248;r byte til den l&#229;gaste og tryggaste posisjonen, med 60 centimeter mellom botn og topp, s&#229; snart barnet pr&#248;ver &#229; setje seg eller reise seg opp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.03125</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/warning-and-information/information-for-neighbours-of-facilities-for-storage-of-explosives-and-fireworks/</prop>
+     <seg>Stay away from large panes of glass in doors and windows.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/varsling-og-informasjon/naboinformasjon---lagring-av-eksplosiv-og-fyrverkeri/</prop>
+     <seg>Hald deg borte fr&#229; store glasflater i d&#248;rer eller vindauge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1.06669</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/toys-and-childrens-equipment/toys/buy-safe-toys-for-young-children/</prop>
+     <seg>Toys that make a loud noise, such as guns, mobile phones and cars with sirens, can cause hearing loss.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/leiker-og-utstyr-for-barn/leiker/kjop-trygge-leiker-til-dei-minste/</prop>
+     <seg>Leiker med h&#248;g lyd, som pistolar, mobiltelefonar og bilar med sirener, kan skade h&#248;yrselen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.08988</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/correct-use-of-extension-leads/</prop>
+     <seg>Remember that extension leads are only intended for temporary use.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/riktig-bruk-av-skoyteleidning/</prop>
+     <seg>Hugs at sk&#248;yteleidningar er til mellombels og avgrensa bruk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/life-jacket-or-buoyancy-aid/</prop>
+     <seg>Test before use</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/redningsvest-eller-flytevest/</prop>
+     <seg>Test f&#248;r bruk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.01341</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/home-and-cabin/making-homes-safe-for-the-elderly/</prop>
+     <seg>Also make sure that there are handrails on all stairs.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hus-og-hytte/trygge-heimar-for-eldre/</prop>
+     <seg>S&#248;rg ogs&#229; for at det er rekkverk p&#229; alle trapper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">1.24167</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/ce-markings/what-the-ce-mark-means/</prop>
+     <seg>How are products with CE marking checked?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/ce-merking/dette-tyder-ce-merket/</prop>
+     <seg>Korleis blir CE-merkte produkt kontrollerte?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">1.10318</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/caring-for-inflatable-life-jackets/</prop>
+     <seg>Follow the manufacturer&#8217;s instructions for proper use and maintenance.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/slik-held-du-den-oppblasbare-redningsvesten-ved-like/</prop>
+     <seg>F&#248;lg produsenten sine instruksjonar for riktig bruk og vedlikehald.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">2.64098</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/toys-and-childrens-equipment/equipment/sleep-safely--choose-safe-beds-for-children/</prop>
+     <seg>The spacing between the rails in a cot must be no more than 6 centimetres.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/leiker-og-utstyr-for-barn/utstyr/sov-trygt--vel-sikre-barnesenger/</prop>
+     <seg>Avstanden mellom sprinklane i ei sprinkelseng skal ikkje vere meir enn 6 centimeter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">1.01066</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/what-to-do-after-the-fire-service-has-left/</prop>
+     <seg>Here is some information that may be useful for anyone who has experienced a fire.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/nar-brannvesenet-har-reist/</prop>
+     <seg>Her er informasjon som kan vere nyttig for deg som har opplevd ein brann.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.4875</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/gas-must-never-be-kept-in-the-cellar/</prop>
+     <seg>Never store gas in the cellar</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/gass-skal-ikkje-oppbevarast-i-kjellaren/</prop>
+     <seg>Ikkje oppbevar i kjellaren</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">4.75135</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/choose-safe-reflectors/</prop>
+     <seg>Tested in accordance with standard NS-EN 13356</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/vel-trygge-refleksar/</prop>
+     <seg>testa i samsvar med standard NS-EN 13356</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">2.365</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/charging-an-ev-electric-vehicle-safely/</prop>
+     <seg>This means you can use Mode 2 charging equipment in a standard mains socket, without overloading the electrical system and running the risk of a fire.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/trygg-lading-av-elbil/</prop>
+     <seg>Dermed kan du bruke Mode 2 ladeutstyr i vanleg stikkontakt, utan at det gjev for stor belastning og brannfare p&#229; elanlegget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">2.2021</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/toys-and-childrens-equipment/equipment/sleep-safely--choose-safe-beds-for-children/</prop>
+     <seg>The distance between the base of the bed and the top of the rails must be at least 60 centimetres, sufficient to prevent a baby from climbing over the top.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/leiker-og-utstyr-for-barn/utstyr/sov-trygt--vel-sikre-barnesenger/</prop>
+     <seg>Fr&#229; sengebotnen og opp til kanten p&#229; senga skal det vere minst 60 centimeter, slik at barnet ikkje greier &#229; klatre over kanten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">2.57298</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/how-to-prepare-for-dangerous-situations/</prop>
+     <seg>Notify the emergency services (call 110, 112 or 113) if you can and they are not already on the scene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/slik-forebur-du-deg-pa-farlege-situasjonar/</prop>
+     <seg>Varsle naudetatane (110, 112 og 113) dersom du har sjansen og dei ikkje alt er p&#229; plass.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.03421</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/warning-and-information/information-during-an-emergency/</prop>
+     <seg>Have access to a radio</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/varsling-og-informasjon/slik-far-du-informasjon-ved-kriser/</prop>
+     <seg>Ha radio tilgjengeleg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">1.37635</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/how-to-register-a-gas-system/</prop>
+     <seg>If your system uses propane, choose LPG (liquid petroleum gas) in the drop-down list of hazardous fuels.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/slik-melder-du-inn-eit-gassanlegg/</prop>
+     <seg>Bruker anlegget ditt propan, vel LPG (liquid petroleum gas) i nedtrekkslista med farlege stoff.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">1.27273</prop>
+    <prop type="score-bicleaner">0.647</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/warning-and-information/information-for-neighbours-of-facilities-for-storage-of-explosives-and-fireworks/</prop>
+     <seg>What should neighbours do?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/varsling-og-informasjon/naboinformasjon---lagring-av-eksplosiv-og-fyrverkeri/</prop>
+     <seg>Kva b&#248;r du som nabo gjere?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">5.50862</prop>
+    <prop type="score-bicleaner">0.613</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/charging-an-ev-electric-vehicle-safely/</prop>
+     <seg>Charging with a special cable (Mode 2)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/trygg-lading-av-elbil/</prop>
+     <seg>Lading med spesialkabel (mode 2)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">1.47391</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/electrical-appliances/use-oil-filled-radiators-correctly/</prop>
+     <seg>Never use extension leads</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/trygge-produkter/elektriske-produkter/bruk-oljefylte-omnar-riktig-/</prop>
+     <seg>Ikkje bruk sk&#248;yteleidning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">1.03125</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/maintaining-good-hygiene-if-your-water-supply-is-cut-off/</prop>
+     <seg>Take out your rubbish and any leftover food, to prevent bacteria and pests.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/god-hygiene-om-vatnet-forsvinn/</prop>
+     <seg>Kvitt deg med s&#248;ppel og matrestar, slik at ikkje bakteriar og skadedyr trivast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">4.18286</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-petrol/</prop>
+     <seg>You can transport up to 240 litres at a time.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/frakt-og-oppbevaring-av-bensin/</prop>
+     <seg>Du kan frakte inntil 240 liter om gongen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.25</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/safely-charging-electric-bikes-scooters-and-personal-transporters/</prop>
+     <seg>Complete, clean and dry</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/trygg-lading-av-elektrisk-sykkel-sparkesykkel-og-stabrett/</prop>
+     <seg>Heilt, reint og t&#248;rt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">2.41576</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>Good hand hygiene, cough etiquette and maintaining distance are the most important infection control measures for preventing infection with Covid-19.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>God handhygiene, hostehygiene og &#229; halde avstand er dei viktigaste smitteverntiltaka for &#229; f&#248;rebyggje smitte med covid-19.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">4.06364</prop>
+    <prop type="score-bicleaner">0.579</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/how-to-maintain-gas-appliances/</prop>
+     <seg>Gas hoses should be replaced after 2&#8211;5 years.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/slik-helt-du-gassutstyret-ved-like/</prop>
+     <seg>Gasslangar b&#248;r bytast ut etter 2&#8211;5 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.17805</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/maintaining-good-hygiene-if-your-water-supply-is-cut-off/</prop>
+     <seg>Poor hygiene can lead to infection and disease.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/god-hygiene-om-vatnet-forsvinn/</prop>
+     <seg>D&#229;rleg hygiene er grobotn for smitte og sjukdomar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">1.08791</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/life-jackets-for-children--what-you-should-know/</prop>
+     <seg>Advice on life jackets for children:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/redningsvest-til-barn---dette-bor-du-vite/</prop>
+     <seg>R&#229;d om redningsvest til barn:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">2.15576</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-diesel-and-heating-oil/</prop>
+     <seg>You should also keep barbecues, bonfires and other potential sources of ignition at least 5 metres away from the diesel tank.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/transport-og-oppbevaring-av-diesel-og-fyringsolje/</prop>
+     <seg>Grilling, b&#229;lbrenning og andre kjelder som kan setje fyr p&#229; dieselen, b&#248;r ogs&#229; haldast minst 5 meter unna.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">1.06964</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/warning-and-information/sos-buttons-in-cars/</prop>
+     <seg>More and more cars now have an SOS button linked to eCall.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/varsling-og-informasjon/dette-skjer-nar-du-trykker-pa-sos-knappen-i-bilen/</prop>
+     <seg>Fleire og fleire bilar har ein SOS-knapp i bilen som er tilknytt eCall.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">1.11512</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/about-us/</prop>
+     <seg>These span a wide range: from fire and electricity, to products and consumer services, gas and hazardous chemicals.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/om-oss/</prop>
+     <seg>Temaomr&#229;da v&#229;re spenner breitt, fr&#229; brann og straum, via produkt og forbrukartenester, til gass og farlege stoff.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">1.03462</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/caring-for-inflatable-life-jackets/</prop>
+     <seg>Check that the trigger tablet is not damaged.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/slik-held-du-den-oppblasbare-redningsvesten-ved-like/</prop>
+     <seg>Sjekk at utl&#248;ysartabletten ikkje er &#248;ydelagd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">1.27818</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/weather-and-nature/how-to-protect-yourself-from-lightning/</prop>
+     <seg>A surge protector diverts the power surge away from appliances.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/ver-og-natur/slik-sikrar-du-deg-mot-lyn/</prop>
+     <seg>Du kan ogs&#229; kontakte ein elektrikar for &#229; sjekke dersom du er usikker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">1.12078</prop>
+    <prop type="score-bicleaner">0.623</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/toys-and-childrens-equipment/equipment/childproofing-your-home/</prop>
+     <seg>You must read and abide by the information.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/leiker-og-utstyr-for-barn/utstyr/barnesikring-i-heimen/</prop>
+     <seg>Informasjonen m&#229; lesast og f&#248;lgjast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">1.15188</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/how-to-change-a-gas-hose/</prop>
+     <seg>You can also buy gas hoses that have a regulator connected at one end.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/slik-byter-du-gasslange/</prop>
+     <seg>Du kan ogs&#229; kj&#248;pe gasslange med regulator kopla til den eine enden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">1.49492</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>DSB is the supervisory authority for personal protective equipment</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>Det er DSB som er styresmakt for personleg verneutstyr til privat bruk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">1.04063</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/warning-and-information/sos-buttons-in-cars/</prop>
+     <seg>eCall can also be triggered manually by pressing the SOS button in your car.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/varsling-og-informasjon/dette-skjer-nar-du-trykker-pa-sos-knappen-i-bilen/</prop>
+     <seg>eCall kan ogs&#229; utl&#248;ysast manuelt ved at du trykkjer p&#229; SOS-knappen i bilen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">1.00946</prop>
+    <prop type="score-bicleaner">0.601</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fireworks-and-explosives/safe-use/avoid-eye-injuries-on-new-years-eve/</prop>
+     <seg>Use protective goggles to prevent eye injuries.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fyrverkeri-og-eksplosiv/trygg-bruk/slik-brukar-du-fyrverkeri-trygt/</prop>
+     <seg>Bruk vernebriller for &#229; unng&#229; augeskadar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">1.15333</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/how-to-prepare-for-dangerous-situations/</prop>
+     <seg>Practice is a key element in all emergency planning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/slik-forebur-du-deg-pa-farlege-situasjonar/</prop>
+     <seg>&#216;ving er eit sentralt element i all beredskapsplanlegging.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">3.56023</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-petrol/</prop>
+     <seg>Individual containers may not hold more than 60 litres.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/frakt-og-oppbevaring-av-bensin/</prop>
+     <seg>Den enkelte behaldaren skal ikkje romme meir enn 60 liter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">2.57126</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fireworks-and-explosives/safe-use/avoid-eye-injuries-on-new-years-eve/</prop>
+     <seg>If it did not go off the first time, wait 30 minutes, immerse it in water and return it to the distributor.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fyrverkeri-og-eksplosiv/trygg-bruk/slik-brukar-du-fyrverkeri-trygt/</prop>
+     <seg>Dersom ho ikkje tenner f&#248;rste gong, vent 30 minutt, dynk med vatn og lever tilbake til forhandlar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">2.50492</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/storing-gas-and-flammable-liquids-in-an-apartment/</prop>
+     <seg>In outdoor storage, such as a shed, garage, etc., the maximum amounts that can be kept are 90 litres of propane and 50 litres of petrol and/or methylated spirits.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/oppbevare-gass-og-brannfarleg-vaske-i-leilegheit/</prop>
+     <seg>I utvendig bu, garasje eller liknande kan det maksimalt oppbevarast 90 liter propan og 50 liter bensin/raudsprit.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">1.18085</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/gas-must-never-be-kept-in-the-cellar/</prop>
+     <seg>All propane bottles in Norway must have a safety valve.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/gass-skal-ikkje-oppbevarast-i-kjellaren/</prop>
+     <seg>Alle propanflasker i Noreg skal ha ein tryggleiksventil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">1.03767</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-diesel-and-heating-oil/</prop>
+     <seg>Agricultural properties, where diesel is often stored, are considered to be companies.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/transport-og-oppbevaring-av-diesel-og-fyringsolje/</prop>
+     <seg>Landbrukseigedomar, der det ofte blir oppbevart diesel, blir rekna som ei verksemd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">2.56561</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/toys-and-childrens-equipment/toys/what-you-should-know-before-you-buy-a-trampoline/</prop>
+     <seg>Trampolines designed for home use (indoor or outdoor) are defined as toys, and from March 2015 must comply with standard NS-EN 71-14.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/leiker-og-utstyr-for-barn/leiker/dette-bor-du-vite-for-du-kjoper-trampoline/</prop>
+     <seg>Trampolinar meinte for heimebruk (anten inne eller ute) er definerte som leiket&#248;y og skal fr&#229; mars 2015 oppfylle standarden NS-EN 71-14.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">5.7</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/how-to-choose-the-right-sunglasses/</prop>
+     <seg>Category 3 is for strong sunlight.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/slik-vel-du-riktig-solbrille/</prop>
+     <seg>er for normal sol. Kategori 3</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">1.33498</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>The Norwegian Medicines Agency is the supervisory authority for surgical masks.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>Det er Legemiddelverket som er styresmakt for medisinske munnbind.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">1.29577</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/warning-and-information/information-during-an-emergency/</prop>
+     <seg>If you have a car, you can use it to listen to the radio and to charge your mobile phone.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/varsling-og-informasjon/slik-far-du-informasjon-ved-kriser/</prop>
+     <seg>Om du har bil, kan denne brukast til &#229; lytte til radio og til &#229; lade opp mobiltelefonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">1.00588</prop>
+    <prop type="score-bicleaner">0.589</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/what-to-do-after-the-fire-service-has-left/</prop>
+     <seg>Drying and cleaning is your responsibility.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/nar-brannvesenet-har-reist/</prop>
+     <seg>T&#248;rking og reingjering er ditt ansvar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">1.01955</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/what-you-should-know-before-you-light-a-bonfire/</prop>
+     <seg>This page will tell you where and when you can light barbecues and campfires, and what precautions you should take.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/dette-ma-du-vite-for-du-tenner-bal/</prop>
+     <seg>Her ser du kvar og n&#229;r du kan grille og brenne b&#229;l, og kva slags forholdsreglar du b&#248;r ta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">1.12308</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/food-and-drinks-you-ought-to-have-in-your-house-in-case-of-a-crisis/</prop>
+     <seg>If you have pets, you should stockpile some pet food.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/mat-og-drikke-du-bor-ha-i-hus-i-tilfelle-krise/</prop>
+     <seg>Om du har dyr eller spesielle behov i dietten, m&#229; du planleggje for det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">1.03919</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/emergency-self-preparedness-for-people-with-disabilities/</prop>
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/advice-on-self-preparedness-for-emergencies/</prop>
+     <seg>The basic needs that must be met in the first three days of any crisis are heating, drink, food, medicines, hygiene and information.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/eigenberedskap-ved-funksjonsnetsetjingar/</prop>
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/rad-om-eigenberedskap/</prop>
+     <seg>Dei grunnleggjande behova som m&#229; dekkjast dei f&#248;rste tre d&#248;gna av ei krise, er varme, drikke, mat, legemiddel, hygiene og informasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">1.18171</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/life-jackets-for-children--what-you-should-know/</prop>
+     <seg>Whether or not an old life jacket is still usable depends on how it has been stored and maintained.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/redningsvest-til-barn---dette-bor-du-vite/</prop>
+     <seg>Om ein eldre redningsvest framleis er brukande, avheng av korleis han er oppbevart og halden ved like.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">1.15625</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/advice-on-self-preparedness-for-emergencies/</prop>
+     <seg>three tinned meals or three bags of dried food per person</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/rad-om-eigenberedskap/</prop>
+     <seg>tre boksar middagshermetikk eller tre posar t&#248;rrmat per person</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">1.1029</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/how-to-put-out-a-deep-fat-fire/</prop>
+     <seg>Water, which is what we normally use to put out a fire, is the last thing you should use here.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/slik-slokkjer-du-frityrbrann/</prop>
+     <seg>Vatn, som ein vanlegvis bruker til &#229; sl&#248;kkje brann, skal du absolutt ikkje bruke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">1.03235</prop>
+    <prop type="score-bicleaner">0.541</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/choosing-the-right-fire-extinguishing-equipment/</prop>
+     <seg>This can create an explosive fireball.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/vel-riktig-brannslokkjeutstyr/</prop>
+     <seg>Dette kan gje ein eksplosjonsarta brann.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="170" datatype="Text">
+    <prop type="score-hunalign">1.05714</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/advice-on-self-preparedness-for-emergencies/</prop>
+     <seg>warm clothes, blankets and sleeping bags</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/rad-om-eigenberedskap/</prop>
+     <seg>varme klede, pledd og sovepose</seg>
+    </tuv>
+   </tu>
+   <tu tuid="171" datatype="Text">
+    <prop type="score-hunalign">2.28132</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/hold-your-own-fire-drill/</prop>
+     <seg>Older children can learn how to get out on their own, and can also learn how to phone the emergency number 1-1-0</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/ov-pa-brann-heime/</prop>
+     <seg>Eldre born kan l&#230;re seg &#229; kome seg ut p&#229; eiga hand, samt ringje naudnummer 1-1-0.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="172" datatype="Text">
+    <prop type="score-hunalign">2.38941</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/what-you-need-to-know-about-led-lights/</prop>
+     <seg>The result is a light source that uses 10 to 15 times less electricity to produce the same amount of light.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/dette-bor-du-vite-om-led-lys/</prop>
+     <seg>Resultatet er ei lyskjelde som kan bruke 10 til 15 gonger mindre straum p&#229;&#229; produsere same mengd lys.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="173" datatype="Text">
+    <prop type="score-hunalign">1.04286</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/how-to-store-water/</prop>
+     <seg>You can also buy pre-bottled water for storage.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/vedlikehald-gassutstyret-pa-hytta/</prop>
+     <seg>S&#248;rg for at luftinntaket ved dysa er fri for st&#248;v.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="174" datatype="Text">
+    <prop type="score-hunalign">3.53983</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/how-to-choose-the-right-sunglasses/</prop>
+     <seg>Sunglasses with Category 4 protection are not suitable for driving.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/slik-vel-du-riktig-solbrille/</prop>
+     <seg>Solbriller med vern i kategori 4 er ikkje eigna dersom du skal k&#248;yre bil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="175" datatype="Text">
+    <prop type="score-hunalign">2.89048</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-petrol/</prop>
+     <seg>As an individual, you can transport loads of up to 240 litres of fuel by car.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/frakt-og-oppbevaring-av-bensin/</prop>
+     <seg>Som privatperson kan du frakte inntil 240 liter drivstoff per bil om gongen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="176" datatype="Text">
+    <prop type="score-hunalign">1.2875</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/how-to-tackle-a-forest-fire/</prop>
+     <seg>How to put out a forest fire:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/dette-gjer-du-ved-skogbrann/</prop>
+     <seg>Slik sl&#248;kkjer du skogbrann:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="177" datatype="Text">
+    <prop type="score-hunalign">2.98548</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/charging-an-ev-electric-vehicle-safely/</prop>
+     <seg>There are three ways to charge an EV on normal charge: Mode 1, Mode 2 and Mode 3.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/trygg-lading-av-elbil/</prop>
+     <seg>Det finst tre ulike m&#229;tar &#229; normallade elbilen p&#229; - mode 1, mode 2 og mode 3.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="178" datatype="Text">
+    <prop type="score-hunalign">1.30137</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>Type I face masks are not designed for use by health professionals in an operating room or in other medical surroundings subject to similar requirements.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>Type I munnbind er ikkje meint for bruk av helsepersonell i eit operasjonsrom eller i andre medisinske omgjevnader med liknande krav.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="179" datatype="Text">
+    <prop type="score-hunalign">3.50026</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/remember-the-smoke-alarm-in-your-cabin/</prop>
+     <seg>Every year, the fire service is called out to between 100 and 150 cabin fires.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/hugs-roykvarslaren-pa-hytta/</prop>
+     <seg>Kvart &#229;r rykkjer brannvesenet ut til mellom 100 og 150 hyttebrannar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="180" datatype="Text">
+    <prop type="score-hunalign">1.08378</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/prevent-fires-on-electrical-appliances/</prop>
+     <seg>Install smoke alarms near the washing machine, dishwasher and in the same room as the stove.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/unnga-brann-i-elektriske-apparat/</prop>
+     <seg>Installer r&#248;ykvarslar i n&#230;rleiken av vaskemaskin, oppvaskmaskin og i rom med komfyr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="181" datatype="Text">
+    <prop type="score-hunalign">1.09166</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>This is not a standard; they are production guidelines &#8211; i.e. an aid for manufacturers describing how they can satisfy the requirements of the Product Control Act.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>Dette er alts&#229; ikkje ein standard, men retningslinjer for produksjon &#8211; ei hjelp til produsentar for korleis dei kan oppfylle krava i produktkontrollova.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="182" datatype="Text">
+    <prop type="score-hunalign">1.24375</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/prevent-fires-on-electrical-appliances/</prop>
+     <seg>If you plug these in via an extension lead, there's a risk that the cables may not be big enough.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/unnga-brann-i-elektriske-apparat/</prop>
+     <seg>Om du koplar desse til via sk&#248;yteleidning, kan du risikere at dimensjonane ikkje er kraftige nok.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="183" datatype="Text">
+    <prop type="score-hunalign">1.20126</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/gas-must-never-be-kept-in-the-cellar/</prop>
+     <seg>If you barbecue with gas, never put the gas bottle under the barbecue.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/gass-skal-ikkje-oppbevarast-i-kjellaren/</prop>
+     <seg>Dersom du grillar med gass, set aldri gassflaska under grillen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="184" datatype="Text">
+    <prop type="score-hunalign">1.14107</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/how-to-change-a-gas-hose/</prop>
+     <seg>These include DIY shops, hardware stores and shops that sell cabin equipment.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/slik-byter-du-gasslange/</prop>
+     <seg>Til d&#248;mes p&#229; byggjevarehus, jernvarehandlar og hyttebutikkar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="185" datatype="Text">
+    <prop type="score-hunalign">1.15909</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/home-and-cabin/making-homes-safe-for-the-elderly/</prop>
+     <seg>Elderly people are also particularly vulnerable to fire.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hus-og-hytte/trygge-heimar-for-eldre/</prop>
+     <seg>Eldre menneske er ogs&#229; spesielt utsette for brann.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="186" datatype="Text">
+    <prop type="score-hunalign">1.16216</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/what-you-need-to-know-about-led-lights/</prop>
+     <seg>Light-emitting diodes (LED) are a robust and popular alternative to traditional light sources such as incandescent lightbulbs, halogen lightbulbs and compact fluorescent lightbulbs.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/dette-bor-du-vite-om-led-lys/</prop>
+     <seg>Lysdiodar (LED) er eit robust og popul&#230;rt alternativ til tradisjonelle lyskjelder som gl&#248;dep&#230;rer, halogenp&#230;rer og sparep&#230;rer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="187" datatype="Text">
+    <prop type="score-hunalign">1.00104</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/leisure/sport-and-activities/reporting-unprofessional-organisers/</prop>
+     <seg>If you go on an organised hike, you are participating in an active service.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fritid/sport-og-aktivitet/meld-ifra-om-useriose-arrangorar/</prop>
+     <seg>Viss du blir med p&#229; ein organisert fjelltur, deltek du i ei aktiv teneste.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="188" datatype="Text">
+    <prop type="score-hunalign">1.67727</prop>
+    <prop type="score-bicleaner">0.601</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/enjoying-candlelight-safely/</prop>
+     <seg>Basic rules for candles:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/trygg-kos-med-levande-lys/</prop>
+     <seg>Hugseliste for bruk av levande lys:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="189" datatype="Text">
+    <prop type="score-hunalign">1.00294</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/remember-the-smoke-alarm-in-your-cabin/</prop>
+     <seg>Here are the requirements and a fire safety checklist for your cabin.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/hugs-roykvarslaren-pa-hytta/</prop>
+     <seg>Her er krava og sjekklista for god branntryggleik p&#229; hytta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="190" datatype="Text">
+    <prop type="score-hunalign">1.07818</prop>
+    <prop type="score-bicleaner">0.531</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/fire-safe-student-accommodation--what-youre-entitled-to/</prop>
+     <seg>Your responsibility as a tenant is to test the smoke alarms.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/brannsikker-studentbustad-dette-har-du-krav-pa/</prop>
+     <seg>Du som leigar har ansvar for &#229; teste r&#248;ykvarslarane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="191" datatype="Text">
+    <prop type="score-hunalign">2.09417</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/how-to-check-fire-extinguishing-equipment/</prop>
+     <seg>All homes must have either a domestic fire hose or a fire extinguisher that contains at least 6 kilograms of powder or foam.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/slik-sjekkar-du-slokkjeutstyret/</prop>
+     <seg>Alle bustader skal ha anten ein husbrannslange eller eit brannsl&#248;kkjeapparat som inneheld minst 6 kilo pulver eller skum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="192" datatype="Text">
+    <prop type="score-hunalign">1.03235</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/choose-safe-reflectors/</prop>
+     <seg>Reflectors must be</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/vel-trygge-refleksar/</prop>
+     <seg>Refleksar skal vere</seg>
+    </tuv>
+   </tu>
+   <tu tuid="193" datatype="Text">
+    <prop type="score-hunalign">1.41071</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-diesel-and-heating-oil/</prop>
+     <seg>Transporting and storing diesel and heating oil</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/transport-og-oppbevaring-av-diesel-og-fyringsolje/</prop>
+     <seg>Transport og oppbevaring av diesel og fyringsolje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="194" datatype="Text">
+    <prop type="score-hunalign">1.04895</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/leisure/sport-and-activities/dont-get-hurt-mowing-the-lawn/</prop>
+     <seg>You should never top up with petrol when the motor is hot.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/fritid/sport-og-aktivitet/unnga-skadar-nar-du-klipper-graset/</prop>
+     <seg>Du b&#248;r ikkje fylle bensin n&#229;r motoren er varm.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="195" datatype="Text">
+    <prop type="score-hunalign">1.0475</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/what-you-need-to-know-about-led-lights/</prop>
+     <seg>If you are replacing traditional lightbulbs with LEDs, it is important that you choose an LED bulb with the correct fitting.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/dette-bor-du-vite-om-led-lys/</prop>
+     <seg>Skal du erstatte tradisjonelle lysp&#230;rer med LED, er det viktig at du vel ei LED-p&#230;re med tilsvarande sokkel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="196" datatype="Text">
+    <prop type="score-hunalign">1.03264</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/buying-and-using-inflatable-water-toys/</prop>
+     <seg>Check that the product is CE marked and has the warning label &#8220;Only to be used in water in which the child is within its depth and under adult supervision&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/kjop-og-bruk-av-oppblasbare-badeleiker/</prop>
+     <seg>Sj&#229; etter at produktet er CE-merkt og merkt med &#229;tvaringa &#171;M&#229; berre brukast p&#229; vassdjupner der barnet kan st&#229;, og under tilsyn av ein vaksen&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="197" datatype="Text">
+    <prop type="score-hunalign">1.06818</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/what-should-you-do-if-theres-a-fire/</prop>
+     <seg>However, you must always make sure that you call for help.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/hva-gjer-du-nar-det-brenn/</prop>
+     <seg>Du m&#229; likevel alltid s&#248;rgje for &#229; tilkalle hjelp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="198" datatype="Text">
+    <prop type="score-hunalign">1.18537</prop>
+    <prop type="score-bicleaner">0.601</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>These products are intended for private use only.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>Desse produkta er berre meinte for privat bruk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="199" datatype="Text">
+    <prop type="score-hunalign">1.09286</prop>
+    <prop type="score-bicleaner">0.651</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/correct-use-of-extension-leads/</prop>
+     <seg>Correct use of extension leads:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/riktig-bruk-av-skoyteleidning/</prop>
+     <seg>Slik bruker du sk&#248;yteleidning riktig:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="200" datatype="Text">
+    <prop type="score-hunalign">2.33402</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/what-you-should-know-about-chinese-lanterns/</prop>
+     <seg>The lanterns can reach a height of up to 800 metres, burn for 20&#8211;40 minutes, and drift in the air for several kilometres.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/dette-bor-du-vite-om-kinesiske-lykter/</prop>
+     <seg>Lanternene flyg i opptil 800 meters h&#248;gd, brenn i 20&#8211;40 minutt og kan flyge mange kilometer av garde.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="201" datatype="Text">
+    <prop type="score-hunalign">1.26757</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/prevent-fires-on-electrical-appliances/</prop>
+     <seg>How to prevent fires in electrical appliances:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/unnga-brann-i-elektriske-apparat/</prop>
+     <seg>Slik unng&#229;r du brann i elektriske apparat:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="202" datatype="Text">
+    <prop type="score-hunalign">1.36293</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/fire-safe-student-accommodation--what-youre-entitled-to/</prop>
+     <seg>Check which escape routes you must have.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/brannsikker-studentbustad-dette-har-du-krav-pa/</prop>
+     <seg>Sjekk kva r&#248;mmingsvegar du m&#229; ha.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="203" datatype="Text">
+    <prop type="score-hunalign">2.51591</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>If a face covering has been manufactured in accordance with the CEN guidelines, the manufacturer can mark the product with CWA 17553:2020.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>Om eit munnbind er laga i samsvar med CEN-rettleiinga kan produsenten merke vara med CWA 17553:2020.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="204" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/choosing-the-right-fire-extinguishing-equipment/</prop>
+     <seg>Water is an effective means of extinguishing fires involving timber, textiles and paper.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/vel-riktig-brannslokkjeutstyr/</prop>
+     <seg>Vatn er eit effektivt sl&#248;kkjemiddel mot brann i treverk, tekstilar og papir.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="205" datatype="Text">
+    <prop type="score-hunalign">2.35066</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-diesel-and-heating-oil/</prop>
+     <seg>If you intend to store diesel and heating oil outdoors, you should make sure there is a gap of at least 5 metres between this and timber walls or other flammable material.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/transport-og-oppbevaring-av-diesel-og-fyringsolje/</prop>
+     <seg>Skal du oppbevare diesel og fyringsolje utand&#248;rs, b&#248;r du s&#248;rgje for minst 5 meter avstand til trevegger og anna brennbart materiale.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="206" datatype="Text">
+    <prop type="score-hunalign">1.2</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/fire-prevention/enjoying-candlelight-safely/</prop>
+     <seg>Candles and flammable materials are a dangerous combination.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/forebygge-brann/trygg-kos-med-levande-lys/</prop>
+     <seg>Levande lys og brennbare materiale er ein farleg kombinasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="207" datatype="Text">
+    <prop type="score-hunalign">1.07231</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/home-and-cabin/making-homes-safe-for-the-elderly/</prop>
+     <seg>Here are a few measures that can reduce their risk of falling, indoors and outdoors.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hus-og-hytte/trygge-heimar-for-eldre/</prop>
+     <seg>Her er nokre tiltak som reduserer faren for fall b&#229;de innand&#248;rs og utand&#248;rs.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="208" datatype="Text">
+    <prop type="score-hunalign">3.064</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/choose-safe-reflectors/</prop>
+     <seg>As a rule of thumb, reflectors have a lifespan of 1&#8211;3 years.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/vel-trygge-refleksar/</prop>
+     <seg>Ein tommelfingerregel er at refleksar har ei levetid p&#229; 1-3 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="209" datatype="Text">
+    <prop type="score-hunalign">1.17895</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/life-jackets-for-children--what-you-should-know/</prop>
+     <seg>You should therefore test out the vest in controlled conditions, and replace it if necessary.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/redningsvest-til-barn---dette-bor-du-vite/</prop>
+     <seg>Test derfor ut vesten i kontrollerte former, og skift ut ved behov.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="210" datatype="Text">
+    <prop type="score-hunalign">1.24375</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/buying-and-using-inflatable-water-toys/</prop>
+     <seg>Read and follow the user instructions and any warnings.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/kjop-og-bruk-av-oppblasbare-badeleiker/</prop>
+     <seg>Les og f&#248;lg bruksrettleiinga og eventuelle &#229;tvaringsmerkingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="211" datatype="Text">
+    <prop type="score-hunalign">4.2</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/fire/tackle-fire/choosing-the-right-fire-extinguishing-equipment/</prop>
+     <seg>The hose must not be more than 30 metres long.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/brann/slokkje-brann/vel-riktig-brannslokkjeutstyr/</prop>
+     <seg>Slangen skal ikkje vere lengre enn 30 meter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="212" datatype="Text">
+    <prop type="score-hunalign">2.45897</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>The most important measure is making sure people can maintain a distance of at least 1 metre.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>Det viktigaste tiltaket er &#229; leggje til rette for &#229; kunne oppretthalde minst 1 meters avstand.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="213" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.609</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/storing-gas-and-flammable-liquids-in-an-apartment/</prop>
+     <seg>Storing gas and flammable liquids in an apartment</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/oppbevare-gass-og-brannfarleg-vaske-i-leilegheit/</prop>
+     <seg>Oppbevare gass og brannfarleg v&#230;ske i leilegheit</seg>
+    </tuv>
+   </tu>
+   <tu tuid="214" datatype="Text">
+    <prop type="score-hunalign">1.24737</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electro-professionals/find-an-approved-electrician/</prop>
+     <seg>The name that appears in the Register is the name of the company, e.g. Hansen Elektro AS.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektrikar/finn-godkjend-elektrikar/</prop>
+     <seg>Det er namnet p&#229; verksemda, til d&#248;mes Hansen Elektro AS, som st&#229;r oppf&#248;rt i registeret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="215" datatype="Text">
+    <prop type="score-hunalign">1.10977</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/being-prepared/incidents-and-crises/emergency-self-preparedness-for-people-with-disabilities/</prop>
+     <seg>If you need help, it is important that you ask for it.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/eigenberedskap/hendingar-og-kriser/eigenberedskap-ved-funksjonsnetsetjingar/</prop>
+     <seg>Treng du hjelp, er det viktig at du ber om det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="216" datatype="Text">
+    <prop type="score-hunalign">1.07341</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/safe-products/clothes-and-equipment/face-masks---choosing-the-right-type/</prop>
+     <seg>Where this is not possible, wearing a face mask can reduce the risk of infection but it is no substitute for maintaining social distancing.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/trygge-produkt/klede-og-utstyr/munnbind-eller-ansiktsmaske---slik-vel-du-riktig/</prop>
+     <seg>Der det er ikkje er mogleg, kan bruk av munnbind redusere risiko for smitte, men vil ikkje kunne erstatte avstand som tiltak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="217" datatype="Text">
+    <prop type="score-hunalign">2.04265</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-diesel-and-heating-oil/</prop>
+     <seg>However, companies and individuals who intend to store diesel and heating oil are subject to the requirement to exercise care (section 5 in the regulations on handling hazardous chemicals).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/transport-og-oppbevaring-av-diesel-og-fyringsolje/</prop>
+     <seg>B&#229;de verksemder og privatpersonar som skal lagre diesel og fyringsolje, er likevel underlagde krav til aktsemd (&#167; 5 i forskrift om handtering av farleg stoff).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="218" datatype="Text">
+    <prop type="score-hunalign">3.7617</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/electricity/electrical-products/what-you-need-to-know-about-led-lights/</prop>
+     <seg>Sunlight and halogen lightbulbs have a Ra index of 100.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/straum/elektriske-produkt/dette-bor-du-vite-om-led-lys/</prop>
+     <seg>Lyset fr&#229; sola og fr&#229; halogenp&#230;rer har ein Ra-indeks p&#229; 100.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="219" datatype="Text">
+    <prop type="score-hunalign">3.83879</prop>
+    <prop type="score-bicleaner">0.541</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/transporting-and-storing-petrol/</prop>
+     <seg>You can store up to 10 litres of petrol indoors at home.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/frakt-og-oppbevaring-av-bensin/</prop>
+     <seg>Du kan lagre inntil 10 liter bensin innand&#248;rs heime.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="220" datatype="Text">
+    <prop type="score-hunalign">1.58571</prop>
+    <prop type="score-bicleaner">0.563</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/installation-and-maintenance/gas-in-housing-cooperatives/</prop>
+     <seg>This is done via Altinn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/installasjon-og-vedlikehald/gassanlegg-i-burettslag/</prop>
+     <seg>Det gjer ein via Altinn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="221" datatype="Text">
+    <prop type="score-hunalign">1.28462</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sikkerhverdag.no/en/gas-and-flammable-liquids/transportation-and-storage/gas-must-never-be-kept-in-the-cellar/</prop>
+     <seg>The place where you store gas must not be too hot.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.sikkerhverdag.no/nn/gass-og-brannfarleg-vaske/frakt-og-oppbevaring/gass-skal-ikkje-oppbevarast-i-kjellaren/</prop>
+     <seg>Det m&#229; ikkje vere for varmt der du lagrar gass.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

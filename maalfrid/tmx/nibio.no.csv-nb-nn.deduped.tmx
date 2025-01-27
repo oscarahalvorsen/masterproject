@@ -1,0 +1,309 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T181432" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.82321</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/fylker/ny</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/kommuner</prop>
+     <seg>Det er dagens administrative inndeling i kommune og fylke som vises.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/kommuner</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/fylker/ny</prop>
+     <seg>Det er dagens administrative inndeling i kommune og fylke som blir vist.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.39694</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/fylker/ny</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/norge</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/kommuner</prop>
+     <seg>For beitelag som beiter i flere kommuner er beitekommune satt til den kommunen som har hoveddelen av beiteomr&#229;det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/kommuner</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/norge</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/fylker/ny</prop>
+     <seg>For beitelag som beitar i fleire kommunar er beitekommune sett til den kommunen som har hovuddelen av beiteomr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.85971</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/cookies</prop>
+     <seg>hvor mange som bes&#248;ker sider, hvor lenge bes&#248;ket varer, hvilke nettsteder brukerne kommer fra og hvilke nettlesere som benyttes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/cookies</prop>
+     <seg>kor mange som bes&#248;ker ulike sider, kor lenge bes&#248;ket varer, kva nettstader brukarane kjem fr&#229; og kva nettlesarar som vert brukt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.86643</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/cookies</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb</prop>
+     <seg>Beitestatistikken viser dyretall og tap p&#229; utmarksbeite for sau organisert i beitelag under tilskuddsordninga Organisert beitebruk (OBB).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/cookies</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn</prop>
+     <seg>Beitestatistikken viser dyretal og tap p&#229; utmarksbeite for sau organisert i beitelag under tilskotsordninga Organisert beitebruk (OBB).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.43251</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb</prop>
+     <seg>Tre geografiske niv&#229; kan velges;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn</prop>
+     <seg>Tre geografiske niv&#229; kan veljast;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.69748</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/norge</prop>
+     <seg>For enkelte omr&#229;der og &#229;r mangler det tall fordi det ikke var registrert organiserte beitelag, eller at enkelte lag har endra beitekommune.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/norge</prop>
+     <seg>For enkelte omr&#229;de og &#229;r manglar det tal fordi det ikkje var registrert organiserte beitelag, eller at einskilde lag har endra beitekommune.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.48846</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/norge</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/kommuner</prop>
+     <seg>Tall fra Organisert beitebruk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/kommuner</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/norge</prop>
+     <seg>Tal fr&#229; Organisert beitebruk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">3.62564</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/norge</prop>
+     <seg>Som uttrykk for totalt antall sau p&#229; utmarksbeite er brukt tall fra s&#248;knader om produksjonstilskudd for sau som beiter mer enn 5 uker i utmark.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/norge</prop>
+     <seg>Som uttrykk for totalt tal sau p&#229; utmarksbeite er brukt tal fr&#229; s&#248;knadar om produksjonstilskot for sau som beitar meir enn 5 veker i utmark.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.85688</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://arealbarometer.nibio.no/nb/cookies</prop>
+     <seg>hvor mange som bes&#248;ker sider, hvor lenge bes&#248;ket varer, hvilke nettsteder brukerne kommer fra og hvilke nettlesere som benyttes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://arealbarometer.nibio.no/nn/cookies</prop>
+     <seg>kor mange som bes&#248;ker ulike sider, kor lenge bes&#248;ket varer, kva nettstader brukarne kjem fr&#229; og kva nettlesarar som vert brukt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.73321</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/cookies</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nb/cookies</prop>
+     <seg>Vi kan ikke knytte informasjon om din bruk av nettstedet til deg som enkeltperson.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/cookies</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nn/cookies</prop>
+     <seg>Vi kan ikkje knytte informasjon om din bruk av nettstaden til deg som enkeltperson.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.16833</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/cookies</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nb/cookies</prop>
+     <seg>avsl&#229; &#229; samtykke i lagring av informasjonskapsler.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/cookies</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nn/cookies</prop>
+     <seg>avsl&#229; samtykke til lagring av informasjonskapslar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.35757</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/fylker/ny</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/kommuner</prop>
+     <seg>Det er bare kommuner med organiserte beitelag som vises i statistikken.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/kommuner</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn</prop>
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/fylker/ny</prop>
+     <seg>Det er berre kommunar med organiserte beitelag som blir vist i statistikken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.96</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/cookies</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nb/cookies</prop>
+     <seg>Informasjonskapsler er sm&#229; tekstfiler som blir liggende p&#229; datamaskinen din n&#229;r du laster ned en nettside.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/cookies</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nn/cookies</prop>
+     <seg>Informasjonskapslar er sm&#229; tekstfilar som vert liggande p&#229; datamaskina di n&#229;r du laster ned ei nettside.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.8</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/cookies</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nb/cookies</prop>
+     <seg>For &#229; analysere informasjonen, bruker vi analyseverkt&#248;yet Google Analytics.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/cookies</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nn/cookies</prop>
+     <seg>For &#229; analysera informasjonen, bruker vi analyseverkt&#248;yet Google Analytics.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">9.27692</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/fylker/ny</prop>
+     <seg>Fylker f&#248;r 2018</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/fylker/ny</prop>
+     <seg>Fylke f&#248;r 2018</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.73389</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/norge</prop>
+     <seg>Grafen viser utvikling av dyretall og tapsprosent for beitelag i Organisert beitebruk for Norge.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/norge</prop>
+     <seg>Grafen viser utvikling av dyretal og tapsprosent for beitelag i Organisert beitebruk for Noreg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.45508</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/cookies</prop>
+     <seg>For &#229; videreutvikle nettsiden for beitestatistikk for sau i utmark best mulig for brukerne v&#229;re, ser vi p&#229; brukerm&#248;nsteret til v&#229;re bes&#248;kende.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/cookies</prop>
+     <seg>For &#229; vidareutvikle nettsida for beitestatistikk for sau i utmark best mogeleg for brukarane v&#229;re, ser vi p&#229; brukarm&#248;nsteret til v&#229;re bes&#248;kande.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb</prop>
+     <seg>Norge, fylke og kommune.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn</prop>
+     <seg>Noreg, fylke og kommune.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.29444</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://arealbarometer.nibio.no/nb/cookies</prop>
+     <seg>For &#229; videreutvikle nettsiden for arealbarometer best mulig for brukerne v&#229;re, ser vi p&#229; brukerm&#248;nsteret til v&#229;re bes&#248;kende.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://arealbarometer.nibio.no/nn/cookies</prop>
+     <seg>For &#229; viderautvikle nettsida for arealbarometer best mogeleg for brukarane v&#229;re, ser vi p&#229; brukarm&#248;nsteret til v&#229;re bes&#248;kande.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://arealbarometer.nibio.no/nb</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nb/cookies</prop>
+     <seg>Kunnskap om arealressursene gir grunnlag for &#248;kt bevissthet om arealbruk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://arealbarometer.nibio.no/nn/cookies</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nn</prop>
+     <seg>Kunnskap om arealressursane gjev grunnlag for auka medvit om arealbruken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nb/cookies</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nb/cookies</prop>
+     <seg>Mottatte opplysninger er underlagt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://beitestatistikk.nibio.no/nn/cookies</prop>
+     <prop type="source-document">https://arealbarometer.nibio.no/nn/cookies</prop>
+     <seg>Mottekne opplysningar er underlagt</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

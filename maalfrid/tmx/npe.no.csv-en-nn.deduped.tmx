@@ -1,0 +1,1202 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T013756" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.19944</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/administrative-procedure/medical-specialists/</prop>
+     <seg>In addition to the experts who have a framework agreement with NPE, we use a number of experts who carry out individual assignments for us.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/saksbehandlinga/Bruk-av-sakkunnige/</prop>
+     <seg>I tillegg til sakkunnige som har rammeavtale med NPE, nyttar vi ei rekkje sakkunnige som tek enkeltoppdrag for oss.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.39167</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/risk-groups-for-dentists/</prop>
+     <seg>Specialists in oral surgery and oral medicine</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/informasjon_for_profesjonsgrupper/tannlegar/risikogrupper-for-tannlegar/</prop>
+     <seg>Spesialist i oral kirurgi og oral medisin</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/invoicing-and-payment-information/</prop>
+     <seg>NPE issues invoices once a year.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/prisar-og-faktura/faktura-og-betalingsinformasjon/</prop>
+     <seg>NPE sender ut faktura ein gong i &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.25769</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/administrative-procedure/medical-specialists/</prop>
+     <seg>We have framework agreements with almost a hundred experts, who consider cases for us on a regular basis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/saksbehandlinga/Bruk-av-sakkunnige/</prop>
+     <seg>Vi har rammeavtalar med n&#230;rare hundre sakkunnige, som p&#229; fast basis vurderer saker for oss.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.01591</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/information-about-collective-agreements/</prop>
+     <seg>The financial savings on the part of NPE benefit the association/members in the form of discounted contributions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/kollektivavtalar/informasjon-om-kollektivavtalar/</prop>
+     <seg>Den &#248;konomiske innsparinga for oss kjem foreininga/medlemane til gode i form av ein rabatt i tilskota.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.10556</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/dentistry-claims/</prop>
+     <seg>NPE will consider whether the compensation claimant is entitled to compensation.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/informasjon_for_profesjonsgrupper/tannlegar/tannlegesaker/</prop>
+     <seg>NPE vurderer om erstatningss&#248;kjaren har rett til erstatning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.13521</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>We will only do that with your consent or if we are exempt from the duty of confidentiality by law.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Det gjer vi berre om du samtykkjer, eller ein lovheimel fritek oss fr&#229; teieplikta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.01842</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/administrative-procedure/medical-specialists/</prop>
+     <seg>We rely on relevant expert assessments to make the right decisions concerning our cases.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/saksbehandlinga/Bruk-av-sakkunnige/</prop>
+     <seg>Vi er avhengige av gode og relevante sakkunnige vurderingar for &#229; fatte rette vedtak i sakene v&#229;re.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.04</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>Patient injuries refer to injuries covered by the Patient Injury Act.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/kollektivavtalar/norges-idrettsforbund---saravtale/</prop>
+     <seg>Med pasientskadar meiner vi skadar som er omfatta av pasientskadelova.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">3.81331</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/risk-groups-for-dentists/</prop>
+     <seg>General dentists and other dental specialists belong to group 5.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/informasjon_for_profesjonsgrupper/tannlegar/risikogrupper-for-tannlegar/</prop>
+     <seg>Allmenntannlegar og andre tannlegespesialistar h&#248;yrer til i gruppe 5.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.02407</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/strategic-objectives-values-and-remit/</prop>
+     <seg>Our communication with patients, the health service and others must be good and constructive.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/strategiske-mal-verdiar-og-oppgaver/</prop>
+     <seg>Vi skal ha god og konstruktiv kommunikasjon med erstatningss&#248;kjarar, helsetenesta og andre akt&#248;rar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.15273</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>At NPE, the Director General is responsible for the processing of personal data.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>I NPE er det direkt&#248;ren som er ansvarleg for behandlinga av personopplysingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.15579</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>Authorised healthcare personnel who undertake work on behalf of NIF have a duty to pay contributions to NPE for health services that they provide.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/kollektivavtalar/norges-idrettsforbund---saravtale/</prop>
+     <seg>Autorisert helsepersonell, som er sysselsette av NIF, er tilskotspliktige til NPE for helsetenester dei gir.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.02887</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>When an injury is reported to NPE, it is important to determine whether the injury was sustained under circumstances covered by this agreement (or other registered enterprises).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/kollektivavtalar/norges-idrettsforbund---saravtale/</prop>
+     <seg>N&#229;r nokon melder skade til oss, er det mellom anna viktig &#229; avklare om skaden er skjedd under omstende som er omfatta av denne avtalen (eller andre innmelde verksemder).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.27914</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/what-is-considered-healthcare-under-the-patient-injury-act/</prop>
+     <seg>If, alternative therapies are exclusively or predominantly provided, it will not be covered by the Patient Injury Act.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/avgrensingar-om-meldeplikta/kva-er-a-rekne-som-helsehjelp-i-pasientskadelova/</prop>
+     <seg>Ridefysioterapi og bassengtrening utf&#248;rt av autorisert helsepersonell, er omfatta av pasientskadelova, om det er svikt i helsehjelpa som er &#229;rsaka til ein skade.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.14571</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>In order to create and develop a user-friendly website, www.npe.no, we use the analytics tools, Google Analytics and Hotjar.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>For &#229; kunne lage og utvikle ein brukarvenleg nettstad, www.npe.no, brukar vi analyseverkt&#248;ya Google Analytics og Hotjar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.18085</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>We will not disclose your personal data to anyone else.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Vi vil ikkje utlevere personopplysingane dine til andre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.71429</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>Reimbursement from Helfo/NAV</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/innmelding-og-oppdatering/kven-har-meldeplikt/</prop>
+     <seg>Refusjon fr&#229; Helfo/NAV</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.00532</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>We cannot erase information that we have obtained from others.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Vi kan ikkje slette opplysingar som er henta fr&#229; andre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.13896</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/strategic-objectives-values-and-remit/</prop>
+     <seg>Strategic objectives, values and remit</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/strategiske-mal-verdiar-og-oppgaver/</prop>
+     <seg>Strategiske m&#229;l, verdiar og oppgaver</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.04286</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>Enterprises that have health personnel in supervised practice who are members of an association which has a collective agreement need not register and pay contributions to NPE for these personnel.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/innmelding-og-oppdatering/kven-har-meldeplikt/</prop>
+     <seg>Verksemder som har helsepersonell i rettleidd praksis eller turnus og som er medlem i ei foreining som har kollektivavtale med NPE, skal ikkje melde og betale tilskot til NPE for dette helsepersonellet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.04933</prop>
+    <prop type="score-bicleaner">0.511</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>You will find information on what you need to do on the Norwegian Data Protection Authority&#8217;s website.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Informasjon om korleis du g&#229;r fram finn du p&#229; nettsidene til Datatilsynet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.28235</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>Examples include health personnel employed by directorates, supervisory authorities, insurance companies, NAV, chief medical officers, etc.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/innmelding-og-oppdatering/kven-har-meldeplikt/</prop>
+     <seg>Eksempel p&#229; dette kan vere helsepersonell tilsette i direktorat, tilsyn, forsikringsselskap, NAV, fylkeslege, osv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.23628</prop>
+    <prop type="score-bicleaner">0.603</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>This policy presents general information about how the Norwegian System of Patient Injury Compensation (NPE) processes personal data and what rights you have.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Her finn du generell informasjon om korleis Norsk pasientskadeerstatning (NPE) behandlar personopplysingar og kva rettar du har.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.48235</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/what-is-considered-healthcare-under-the-patient-injury-act/</prop>
+     <seg>What is healthcare?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/avgrensingar-om-meldeplikta/kva-er-a-rekne-som-helsehjelp-i-pasientskadelova/</prop>
+     <seg>Kva er helsehjelp?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>You also have the right to add accurate information.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Du har &#242;g rett til &#229; leggje til korrekte opplysingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.02551</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-eng.pdf.converted</prop>
+     <seg>You must have suffered an injury that was caused by treatment,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-nn.pdf.converted</prop>
+     <seg>Du m&#229; ha f&#229;tt ein skade som skuldast behandling, unders&#248;-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.01667</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>If you become aware of circumstances which you believe represents a breach of your privacy, you can complain by writing to the Norwegian Data Protection Authority, Postboks 8177, 0034 Oslo.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Har du opplevd noko du meiner er brot p&#229; personvernet, kan du klage ved &#229; sende ein skriftleg f&#248;respurnad til Datatilsynet, Postboks 8177, 0034 Oslo.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.08529</prop>
+    <prop type="score-bicleaner">0.613</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-eng.pdf.converted</prop>
+     <seg>Considering whether or not to apply for compensation?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-nn.pdf.converted</prop>
+     <seg>Lurer du p&#229; om du skal s&#248;kje erstatning?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.09714</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>For physical therapists, specific rules apply.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/innmelding-og-oppdatering/kven-har-meldeplikt/</prop>
+     <seg>For fysioterapeutar gjeld egne regler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.03879</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/administrative-procedure/medical-specialists/</prop>
+     <seg>How are experts chosen, what constitutes a good expert assessment, and when might it be appropriate to make use of foreign experts?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/saksbehandlinga/Bruk-av-sakkunnige/</prop>
+     <seg>Korleis blir sakkunnige valde, kva er ei god sakkunnig vurdering, og n&#229;r kan det vere aktuelt &#229; bruke utanlandske sakkunnige?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.27931</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>To do this, we use personal data to prepare statistics and analyses.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>D&#229; brukar vi personopplysingar til &#229; utarbeide statistikk og analysar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.53707</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/administrative-procedure/medical-specialists/</prop>
+     <seg>NPE pays the experts it uses for their assessments</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/saksbehandlinga/Bruk-av-sakkunnige/</prop>
+     <seg>NPE betalar dei sakkunnige for vurderinga</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.5416</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/dentistry-claims/</prop>
+     <seg>Compensation claims must be reported to NPE.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/informasjon_for_profesjonsgrupper/tannlegar/tannlegesaker/</prop>
+     <seg>Erstatningskrav skal meldast til NPE.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">6.264</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/invoicing-and-payment-information/</prop>
+     <seg>The payment deadline is 30 days.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/prisar-og-faktura/faktura-og-betalingsinformasjon/</prop>
+     <seg>Betalingsfrist er 30 dagar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.18726</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/calculation-of-compensation/assessing-the-amount-of-compensation-payable2/</prop>
+     <seg>The compensation includes expenses incurred until the present day (expenses incurred) as well as probable expenses in the time ahead (future expenses).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/rekne-ut-erstatning/utrekning-av-erstatning2/</prop>
+     <seg>Erstatninga omfattar utgifter fram til i dag (p&#229;f&#248;rte utgifter), og sannsynlege utgifter framover (framtidige utgifter).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.00385</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/strategic-objectives-values-and-remit/</prop>
+     <seg>We use our expertise in an innovative and solution-oriented manner</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/strategiske-mal-verdiar-og-oppgaver/</prop>
+     <seg>Vi brukar kompetansen v&#229;r innovativt og l&#248;ysingsorientert</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.09297</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>For example, if you work full-time (100 percent) and receive a subsidy of 20 percent, this must be reported and you will have to pay 80 percent of the price for the professional group concerned.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/innmelding-og-oppdatering/kven-har-meldeplikt/</prop>
+     <seg>Til d&#248;mes om du jobbar 100 prosent og har 20 prosent driftstilskot, m&#229; du melde dette inn, og du betalar d&#229; for 80 prosent av prisen for profesjonsgruppa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.34973</prop>
+    <prop type="score-bicleaner">0.521</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-eng.pdf.converted</prop>
+     <seg>The Norwegian System of Patient Injury Compensation (NPE)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-nn.pdf.converted</prop>
+     <seg>Norsk pasientskadeerstatning (NPE) er ein statleg etat underlagd</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.17179</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>When we collect personal data about you (for example, from your treatment provider), we will need to forward your application for compensation and your consent.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>N&#229;r vi hentar inn personopplysingar om deg (til d&#248;mes fr&#229; behandlingsstaden), m&#229; vi sende over s&#248;knaden om erstatning og samtykket ditt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.13676</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>The data we collect will only be used for the purpose for which it is collected, unless we have a lawful basis to use it for other purposes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Opplysingane vi hentar inn vil vi berre bruke til det f&#248;rem&#229;let dei er henta inn for, med mindre vi har lovleg grunnlag til &#229; bruke dei til andre f&#248;rem&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.025</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/drug-injury/clinical-trials/</prop>
+     <seg>If your claim falls under the drug insurance scheme, you may receive compensation for financial loss from the first krone.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/legemiddelskade/legemiddelforsok/</prop>
+     <seg>Om saka di fell inn under legemiddelforsikringsordninga, kan du f&#229; erstatta eit &#248;konomisk tap fr&#229; f&#248;rste krone.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.01697</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>In exceptional cases, you may have the right to have your information erased, if we do not have a statutory obligation to store the information.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>I spesielle tilfelle kan du ha rett til &#229; f&#229; sletta opplysingar om deg, om vi ikkje har ei lovp&#229;lagd plikt til &#229; lagre opplysingane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.13214</prop>
+    <prop type="score-bicleaner">0.659</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/invoicing-and-payment-information/</prop>
+     <seg>Tax deductions for contributions paid to NPE</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/prisar-og-faktura/faktura-og-betalingsinformasjon/</prop>
+     <seg>Skattefr&#229;drag for tilskot betalt til NPE</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.1303</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/risk-groups-for-dentists/</prop>
+     <seg>The same applies to dental specialists in oral surgery and oral medicine and dental specialists in oral prosthetics.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/informasjon_for_profesjonsgrupper/tannlegar/risikogrupper-for-tannlegar/</prop>
+     <seg>Det same gjer tannlegespesialist innan oral kirurgi og oral medisin, og tannlegespesialist innan oral protetikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.87022</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>Requests for access must be answered within 30 days, unless the request is so wide-ranging that we need more time to respond.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Vi skal svare p&#229; krav om innsyn innan 30 dagar, med mindre kravet er s&#229; omfattande at vi treng &#229; bruke lengre tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.04261</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/administrative-procedure/my-page/</prop>
+     <seg>The first time you log in, you must give your consent for using My page and to receive SMS-messages.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/saksbehandlinga/mi-side/</prop>
+     <seg>Fyrste gongen du loggar inn, m&#229; du gi samtykke til &#229; bruke Mi side og ta imot SMS-varsel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.84552</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/administrative-procedure/fagnotater/Transitional-rules/</prop>
+     <seg>21 of The Act on Patient Injury Compensation (pasientskadeloven) refers to transitional rules in relation to liability for patient injuries sustained before the legislation came into force in 2003, (2009 for the private health service).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/saksbehandlinga/interne-fagnotat/overgangsreglar/</prop>
+     <seg>&#167; 21 i pasientskadelova omtalar overgangsreglar for ansvaret for pasientskadar som er valda f&#248;r lova tok til &#229; gjelde i 2003, (2009 for privat helseteneste).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.15855</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/what-is-considered-healthcare-under-the-patient-injury-act/</prop>
+     <seg>If healthcare is provided by someone who is not authorised healthcare personnel, any claims would fall outside of the patient injury scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/avgrensingar-om-meldeplikta/kva-er-a-rekne-som-helsehjelp-i-pasientskadelova/</prop>
+     <seg>Om nokon som ikkje er autorisert helsepersonell utf&#248;rer helsehjelp, fell det utanfor pasientskadeordninga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.575</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/strategic-objectives-values-and-remit/</prop>
+     <seg>We do this by:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/strategiske-mal-verdiar-og-oppgaver/</prop>
+     <seg>Dette gjer vi gjennom &#229;:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.02447</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>However, in the event that a member organisation or NIF receives a report of an injury, the claim must be forwarded to NPE.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/kollektivavtalar/norges-idrettsforbund---saravtale/</prop>
+     <seg>F&#229;r ein medlemsorganisasjon eller NIF likevel meldt ein skade til seg, skal kravet formidlast vidare til oss.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.01769</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>The public sector pays contributions for all activity in the public health service.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/innmelding-og-oppdatering/kven-har-meldeplikt/</prop>
+     <seg>Det offentlege betalar tilskot for all verksemd i offentleg helseteneste.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.12963</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/strategic-objectives-values-and-remit/</prop>
+     <seg>We will demonstrate our trust in the patient, so that the patient is assured safe and confident.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/strategiske-mal-verdiar-og-oppgaver/</prop>
+     <seg>Vi skal vise tiltru til erstatningss&#248;kjaren, slik at han eller ho opplever tryggleik og tillit.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.07878</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/calculation-of-compensation/assessing-the-amount-of-compensation-payable2/</prop>
+     <seg>The most common categories are expenses incurred in connection with medical treatment, medication, physiotherapy and transport.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/rekne-ut-erstatning/utrekning-av-erstatning2/</prop>
+     <seg>Det mest vanlege er utgifter i samband med legebehandling, medisinar, fysioterapi og transport.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">3.67754</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/invoicing-and-payment-information/</prop>
+     <seg>The general rule for deductions is governed by Section 6-1 of the Tax Act.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/prisar-og-faktura/faktura-og-betalingsinformasjon/</prop>
+     <seg>Hovudregelen om fr&#229;drag er regulert i skattelova &#167; 6-1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.06029</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/calculation-of-compensation/Assessing-the-amount-of-compensation-in-case-of-death/</prop>
+     <seg>Typical expenses include a funeral director, headstone and memorial service.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/rekne-ut-erstatning/Utrekning-av-erstatning--dodsfall/</prop>
+     <seg>Typiske utgifter er til gravferdsbyr&#229;, gravstein og minnestund.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.04394</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/calculation-of-compensation/assessing-the-amount-of-compensation-payable2/</prop>
+     <seg>Normal household chores include housework, home maintenance, gardening, lawn mowing, snow clearance and shopping.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/rekne-ut-erstatning/utrekning-av-erstatning2/</prop>
+     <seg>Vanlege oppg&#229;ver er til d&#248;mes husarbeid, vedlikehald av bustad, hagearbeid, plenklipping, sn&#248;m&#229;king og innkj&#248;p.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-eng.pdf.converted</prop>
+     <seg>To qualify for compensation for a patient injury, three</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-nn.pdf.converted</prop>
+     <seg>For at du skal f&#229; erstatning for ein pasientskade, m&#229; tre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.07937</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/strategic-objectives-values-and-remit/</prop>
+     <seg>NPE has three statutory tasks.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/strategiske-mal-verdiar-og-oppgaver/</prop>
+     <seg>NPE har tre forskriftsfesta oppg&#229;ver.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.16454</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-eng.pdf.converted</prop>
+     <seg>On our website, npe.no, you can find out whether or not you</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-nn.pdf.converted</prop>
+     <seg>P&#229; nettsidene v&#229;re, npe.no, kan du ta ein sjekk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.01702</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>If you leave NIF, you will be covered until the end of the calendar year.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/kollektivavtalar/norges-idrettsforbund---saravtale/</prop>
+     <seg>Om ein melder seg ut av NIF, er ein dekt ut kalender&#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.03333</prop>
+    <prop type="score-bicleaner">0.567</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/find-out-whether-you-are-obliged-to-register-with-npe/find-out-whether-you-are-obliged-to-register-with--npe/</prop>
+     <seg>Do you only provide alternative therapies?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/sjekk-om-du-har-meldeplikt-til-npe/sjekk-om-du-har-meldeplikt-til-npe/</prop>
+     <seg>Driv du berre med alternativ behandling?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.23</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/what-is-considered-healthcare-under-the-patient-injury-act/</prop>
+     <seg>If the potential for injury is major, it would normally fall under the definition of healthcare.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/avgrensingar-om-meldeplikta/kva-er-a-rekne-som-helsehjelp-i-pasientskadelova/</prop>
+     <seg>Om skadepotensialet er stort, vil det vanlegvis falle inn under definisjonen av helsehjelp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.14066</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/treatment-on-the-continental-shelf/</prop>
+     <seg>Patient injuries that occur on the continental shelf do normally not fall under the patient injury scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/avgrensingar-om-meldeplikta/behandling-pa-kontinentalsokkelen/</prop>
+     <seg>Pasientskadar som skjer p&#229; kontinentalsokkelen fell i utgangspunktet ikkje inn under pasientskadeordninga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.252</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/administrative-procedure/medical-specialists/</prop>
+     <seg>What about foreign experts?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/saksbehandlinga/Bruk-av-sakkunnige/</prop>
+     <seg>Kva med utanlandske sakkunnige?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.22759</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>The Norwegian Olympic and Paralympic Committee and Confederation of Sports (NIF).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/kollektivavtalar/norges-idrettsforbund---saravtale/</prop>
+     <seg>Norges idrettsforbund og olympiske og paralympiske komit&#233; (NIF).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.21708</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/deregistration/</prop>
+     <seg>This is done using the Altinn form for de-registration.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/innmelding-og-oppdatering/utmelding/</prop>
+     <seg>Dette gjer du ved &#229; bruke Altinn-skjemaet for utmelding.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.07229</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/drug-injury/clinical-trials/</prop>
+     <seg>If you are unsure which claim form to complete, it would be best if you select NPE's own form or call us for advice.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/legemiddelskade/legemiddelforsok/</prop>
+     <seg>Om du er usikker p&#229; kva s&#248;knadsskjema du skal fylle ut, er det best for deg om du vel s&#248;knadsskjema - pasientskade eller at du ringjer oss for rettleiing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.04805</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/risk-groups-for-dentists/</prop>
+     <seg>The following must be registered in this risk group:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/informasjon_for_profesjonsgrupper/tannlegar/risikogrupper-for-tannlegar/</prop>
+     <seg>I denne risikogruppa registrerer vi:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>NPE staff who process your case will be able to access your personal data.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Dei som behandlar saka di i NPE f&#229;r tilgang til personopplysingane dine.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.05233</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-eng.pdf.converted</prop>
+     <seg>By answering a few simple questions, you can get</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/globalassets/brosjyrer/2019_pasientbrosjyre-nn.pdf.converted</prop>
+     <seg>nokre enkle sp&#248;rsm&#229;l, vil du f&#229; ein peikepinn p&#229; om du kan ha</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.02514</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>It is the party that employs (hires) a temporary member of staff that is responsible for registering and paying contributions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/innmelding-og-oppdatering/kven-har-meldeplikt/</prop>
+     <seg>Det er den som sysselset (leiger inn) ein vikar som pliktar &#229; melde inn og betale tilskot.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.76</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>documents from NAV</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>dokument fr&#229; NAV</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.20912</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/strategic-objectives-values-and-remit/</prop>
+     <seg>- All levels of the organisation must be characterised by openness, expertise and efficiency.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/strategiske-mal-verdiar-og-oppgaver/</prop>
+     <seg>- Alle niv&#229; i organisasjonen skal vere prega av openheit, kompetanse og effektivitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.27273</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>We have entered into data processor agreements with these suppliers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Vi har inng&#229;tt databehandlaravtalar med desse leverand&#248;rane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.00761</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/Health-care-provider/sakkyndig-spesialistfor-npe/Providing-an-expert-opinion/</prop>
+     <seg>Because NPE is a major buyer of specialist services and a government agency, we are subject to public procurement regulations.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/helsepersonell/sakkunnig-spesialistfor-npe/arbeid-som-sakkunnig/</prop>
+     <seg>Spesialistar med rammeavtale arbeider i lokala til NPE, og deltek i eit tverrfagleg samarbeid med saksbehandlarane i NPE om utgreiing av erstatningssakene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">3.67357</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/strategic-objectives-values-and-remit/</prop>
+     <seg>Strategic objectives for 2019-2023, vision and values and our statutory tasks.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/strategiske-mal-verdiar-og-oppgaver/</prop>
+     <seg>Strategi for verksemda i perioden 2019-2023, verdiar og oppg&#229;ver.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.03975</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/find-out-whether-you-are-obliged-to-register-with-npe/find-out-whether-you-are-obliged-to-register-with--npe/</prop>
+     <seg>Do you provide healthcare in Norway?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/sjekk-om-du-har-meldeplikt-til-npe/sjekk-om-du-har-meldeplikt-til-npe/</prop>
+     <seg>Gir du helsehjelp i Noreg?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.83609</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/administrative-procedure/my-page/</prop>
+     <seg>We recommend that you use another browser, i.e Chrome, Microsoft Edge, Firefox or Safari.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/saksbehandlinga/mi-side/</prop>
+     <seg>Vi tilr&#229;r at du brukar ein annan nettlesar, som til d&#248;mes Chrome, Microsoft Edge, Firefox eller Safari.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.2493</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/what-is-considered-healthcare-under-the-patient-injury-act/</prop>
+     <seg>The boundaries with alternative therapies and cosmetic treatment are particularly important.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/avgrensingar-om-meldeplikta/kva-er-a-rekne-som-helsehjelp-i-pasientskadelova/</prop>
+     <seg>Spesielt viktige er grensene mot alternativ behandling og kosmetisk behandling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.08281</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>NPE is also tasked with providing statistical data in order to help prevent injuries and improve the quality of the health service.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>I tillegg skal NPE bidra med statistiske data til skadef&#248;rebyggjande arbeid og betre kvalitet i helsetenesta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>NIF is a union for sports in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/kollektivavtalar/norges-idrettsforbund---saravtale/</prop>
+     <seg>NIF er ein fellesorganisasjon for idretten i Noreg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">2.46767</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>Personal data is normally retained for between 25 and 30 years before it is transferred to the National Archives of Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>I utgangspunktet blir personopplysingane lagra mellom 25&#8211;30 &#229;r, f&#248;r dei blir overf&#248;rte til Riksarkivet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.74597</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>We anonymise IP addresses in Google Analytics (through Google Tag Manager), so that Google does not receive any data concerning the IP addresses of users.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Vi anonymiserer IP-adresser i Google Analytics (gjennom Google Tag Manager), slik at Google ikkje f&#229;r informasjon om IP-adressene til brukarane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.13407</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>If you only work as a GP, as a municipal employee or under an agreement with the municipality, you will come under the definition of a public health service and will not have to register your enterprise.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/innmelding-og-oppdatering/kven-har-meldeplikt/</prop>
+     <seg>Jobbar du berre som fastlege, som tilsett i kommunen, eller etter avtale med kommunen, vil du kome inn under definisjonen offentleg helseteneste, og skal ikkje melde inn verksemda di.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.47185</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>We are not permitted to correct information that we have collected from others (e.g. in medical records).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Vi kan ikkje rette opplysingar vi har henta inn fr&#229; andre (til d&#248;mes i journalar).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.10182</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/risk-groups-for-dentists/</prop>
+     <seg>In the regulations, healthcare professionals are split into different risk groups.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/privat-helseteneste/informasjon_for_profesjonsgrupper/tannlegar/risikogrupper-for-tannlegar/</prop>
+     <seg>I forskrifta er helsepersonell inndelt i ulike risikogrupper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.17801</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>You have a right to receive clear information about the data we process about you.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Du har rett til &#229; f&#229; forst&#229;eleg informasjon om kva opplysingar vi behandlar om deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.48605</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>In order to do this, we need to process personal data.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>For &#229; gjere det m&#229; vi behandle personopplysingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">2.41196</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/Brochures/</prop>
+     <seg>If you wish to have a paper version sent to you, contact our service senter at 22 99 45 00.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/brosjyrar/</prop>
+     <seg>Ynskjer du &#229; f&#229; tilsendt trykte versjonar, ber vi deg kontakte servicesenteret v&#229;rt p&#229; telefon 22 99 45 00.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.10159</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Privacy/</prop>
+     <seg>If you withdraw your consent, we will no longer be able to process your case.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/om-npe/organisasjon/personvernerklaering/</prop>
+     <seg>Om du trekkjer samtykket, kan vi ikkje lenger behandle saka di.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">2.68456</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/calculation-of-compensation/assessing-the-amount-of-compensation-payable2/</prop>
+     <seg>A significant injury means that the consequential rate of medical disability is at least 15%.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.npe.no/nn/erstatningssokjar/rekne-ut-erstatning/utrekning-av-erstatning2/</prop>
+     <seg>Med monaleg meiner vi at skaden m&#229; gi medisinsk invaliditet p&#229; minst 15 prosent.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

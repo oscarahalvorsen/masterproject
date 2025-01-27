@@ -1,0 +1,331 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221219T163624" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.0951</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/ntnu.no/master_science_health_management_aquaculture</prop>
+     <seg>organisms, plays a crucial role in relieving the growing need for</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/uib.no/masterprogram_i_medie-_og_interaksjonsdesign</prop>
+     <seg>brukaranes kjensler og opplevingar, og kan innrettast p&#229; ei</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.03068</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/ntnu.no/master_science_health_management_aquaculture</prop>
+     <seg>The ever-continuing intensification in aquaculture systems, along</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/uib.no/masterprogram_i_medie-_og_interaksjonsdesign</prop>
+     <seg>dei i stand til &#229; konstruere prototypar p&#229; nye medium, og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.35682</prop>
+    <prop type="score-bicleaner">0.519</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>of a portfolio of the students' written work.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ernaering_-_bachelor</prop>
+     <seg>eksamen, med vurderingsuttrykket A-F, der F er stryk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.07143</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>The programme consists of the following</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ernaering_-_bachelor</prop>
+     <seg>forskingsbasert undervisning, og kritisk lesing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.28269</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>graduate level studies in theoretical linguistics, and is to be</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ernaering_-_bachelor</prop>
+     <seg>har viktige sosiale funksjonar, og kan v&#230;re mark&#248;r for ulike</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.03065</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/applied_computer_science_-_master</prop>
+     <seg>students work on one subject at a time.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uib.no/praktisk-pedagogisk_utdanning_-_deltid</prop>
+     <seg>Eit anna viktig m&#229;l er at studentane</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.288</prop>
+    <prop type="score-bicleaner">0.571</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uib.no/masters_programme_global_development_theory_and_practice_0</prop>
+     <seg>professionals in the field of Global Development Theory and</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uib.no/bachelorprogram_i_samanliknande_politikk</prop>
+     <seg>politisk teori og offentleg politikk og administrasjon,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.10087</prop>
+    <prop type="score-bicleaner">0.519</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/ntnu.no/master_science_health_management_aquaculture</prop>
+     <seg>resulted in the increased occurrence of viral, bacterial or</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/uib.no/masterprogram_i_medie-_og_interaksjonsdesign</prop>
+     <seg>og p&#229; denne m&#229;ten utvikle effektive og engasjerande l&#248;ysingar,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.38172</prop>
+    <prop type="score-bicleaner">0.587</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/environmental_law_-_master</prop>
+     <seg>the field of climate and energy law.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/uib.no/bachelorprogram_i_informatikk_data_science_datavitskap</prop>
+     <seg>oljeindustrien, ny energi, forsikring og konsulentverksemd - og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.49474</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uib.no/masters_programme_global_development_theory_and_practice_0</prop>
+     <seg>critical and reflective perspective on the significance of gender</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uib.no/bachelorprogram_i_samanliknande_politikk</prop>
+     <seg>relevante dokument og data, og gjennomf&#248;re forsvarleg analyse og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.00333</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/mathematical_sciences_-_master</prop>
+     <seg>After completing the study program, the candidate will have</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/bachelor_i_bioingeniorfag</prop>
+     <seg>og formidle relevant fagstoff skriftleg og munnleg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.14545</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/nhh.no/masters_new_business_development</prop>
+     <seg>Documentation of financial ability:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/historie_bachelorstudium_sogndal</prop>
+     <seg>har kunnskap om &#248;konomisk og teknologisk utvikling, og om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.02143</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uib.no/masters_programme_earth_science_0</prop>
+     <seg>Master's projects range from dealing with</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/uib.no/bachelorprogram_i_fysikk</prop>
+     <seg>Kompetansen er ogs&#229; nyttig i strategi, forvaltning,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.38553</prop>
+    <prop type="score-bicleaner">0.571</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/mf.no/bachelor_theology_religion_and_society</prop>
+     <seg>religion and theology function in society.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/hivolda.no/kulturmote</prop>
+     <seg>FOU-prosjekt &#8211; &#229;leine og i samarbeid med andre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.17551</prop>
+    <prop type="score-bicleaner">0.591</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>- contribute to new thinking and innovation processes in</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ernaering_-_bachelor</prop>
+     <seg>feilinformasjon, og ny teknologi p&#229;verkar ern&#230;ring og helse</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.15</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>- deeper knowledge of theoretical linguistics through the study</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ernaering_-_bachelor</prop>
+     <seg>og hva mat og helse har &#229; seia for eit berekraftig samfunn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.014</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/environmental_law_-_master</prop>
+     <seg>counteract the implementation of environmental objectives and</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/uib.no/bachelorprogram_i_informatikk_data_science_datavitskap</prop>
+     <seg>aksjehandel, medisinsk bildebehandling, eller eit nytt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.34348</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/mathematical_sciences_-_master</prop>
+     <seg>seminars and excercises.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/bachelor_i_bioingeniorfag</prop>
+     <seg>kontakt med fagmilj&#248;et og yrkesfeltet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.34091</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/mf.no/bachelor_theology_religion_and_society</prop>
+     <seg>A bachelor programme which focuses on Christian theology and the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/hivolda.no/kulturmote</prop>
+     <seg>Med utgangspunkt i faga historie og religion er Master i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.26471</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>work will be chosen in consultation with one of the academic</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ernaering_-_bachelor</prop>
+     <seg>tankegang, driva kritisk analyse av informasjon, og venna seg til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.1625</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>English and General Linguistics, Russian, Finnish and Saami.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ernaering_-_bachelor</prop>
+     <seg>globale og samfunnsmessige perspektiv p&#229; mat og eting.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.03889</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>special emphasis on the formal aspects of grammar, in particular</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ernaering_-_bachelor</prop>
+     <seg>mellom kosthald, helse og sjukdom, kan ein bachelor i ern&#230;ring</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.13106</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>Bachelor's Degree in a language or linguistics</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ernaering_-_bachelor</prop>
+     <seg>Generell studiekompetanse eller realkompetanse + MEROD</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.47273</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/biomedicine_-_master</prop>
+     <seg>As a Master in Biomedicine the candidate&#8230;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/historie_-_master</prop>
+     <seg>instituttleiaren som klageinstans.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.03333</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/mathematical_sciences_-_master</prop>
+     <seg>exchange possibilities and has both Norwegian and international</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/bachelor_i_bioingeniorfag</prop>
+     <seg>informasjonsteknologi og automasjonssystem som vert nytta i</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

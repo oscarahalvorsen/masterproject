@@ -1,0 +1,318 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T184916" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.68796</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/types-of-cases/adoption/</prop>
+     <seg>The European Convention on Human Rights, Article 8 imposes strict conditions for implementing the deprival of parental responsibility - adoption.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/sakstyper/adopsjon/</prop>
+     <seg>Den europeiske menneskerettighetskonvensjonen artikkel 8 setter strenge vilk&#229;r for &#229; fatte avgj&#248;relser om tvangsadopsjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.15294</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/types-of-cases/compulsory-measures-for-adult-drug--alcohol-addiction/</prop>
+     <seg>This ruling is meant for the heavily affected drug/alcohol abusers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/sakstyper/tvangsvedtak-for-voksne-rusavhengige/</prop>
+     <seg>Bestemmelsen er ment for de sterkt belastede misbrukerne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/404/IndexWithLang/</prop>
+     <seg>Please use the search at the top of the page to search for the missing page.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/404/IndexWithLang/</prop>
+     <seg>Benytt gjerne s&#248;kefeltet i toppen av siden for &#229; gj&#248;re et s&#248;k etter siden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.06579</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/what-does-fylkesnemndene-do/purpose-and-authority/</prop>
+     <seg>All children in Norway have the same rights.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/Hva-er-Fylkesnemndene/formal--myndighet/</prop>
+     <seg>Barnevernet er delt mellom de lokale og nasjonale myndigheter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.46023</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/what-does-fylkesnemndene-do/health-and-care-services-act/</prop>
+     <seg>Chapter 9 of the Act outlines the role of the boards in such cases.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/Hva-er-Fylkesnemndene/helse--og-omsorgstjenesteloven/</prop>
+     <seg>Reglene om dette er inntatt i loven kapittel 9.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.19286</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/about-the-boards/international-obligations/</prop>
+     <seg>Article 8 of the ECHR has been endorsed in the Norwegian Constitution Grl.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/om-fylkesnemndene/internasjonale-forpliktelser/</prop>
+     <seg>EMK artikkel 8 har n&#229; ogs&#229; f&#229;tt grunnlovsvern, gjennom den nye bestemmelsen i Grl.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.66168</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/types-of-cases/behavioural-placement/</prop>
+     <seg>It is possible to implement short-term treatment placement for up to 4 weeks, with the possibility of prolonging the stay for an additional 4 weeks.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/sakstyper/atferdsplassering/</prop>
+     <seg>Slike plasseringer varer i 4 uker, med mulighet for &#229; forlenge oppholdet med ytterligere 4 uker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.44384</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/what-does-fylkesnemndene-do/health-and-care-services-act/</prop>
+     <seg>The board makes decisions about the placement of drug and alcohol addicts in an institution for a maximum of 3 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/Hva-er-Fylkesnemndene/helse--og-omsorgstjenesteloven/</prop>
+     <seg>Nemnda avgj&#248;r om vilk&#229;rene for &#229; tvangsplassere rusavhengige p&#229; institusjon i opptil 3 m&#229;neder er oppfylt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">3.43191</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/what-does-fylkesnemndene-do/the-contagious-diseases-protection-act/</prop>
+     <seg>Chapter 5 of the Act specifies the duties of infected persons, compulsory measures.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/Hva-er-Fylkesnemndene/smittevernloven/</prop>
+     <seg>Smittevernloven har regler om disse sakene i kapittel 5.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.825</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/about-the-boards/background-and-history/</prop>
+     <seg>The justification and purpose for the boards is especially evidenced in The Social Services Act NOU 1985:18 (In Norwegian</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/om-fylkesnemndene/bakgrunn-og-historie/</prop>
+     <seg>Begrunnelsen for og form&#229;let bak fylkesnemndene belyses s&#230;rlig godt i NOU 1985:18 Lov om sosiale tjenester m.m.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.66197</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/about-the-boards/international-obligations/</prop>
+     <seg>In the European Convention on Human Rights (ECHR), article 8 has a bearing on board decisions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/om-fylkesnemndene/internasjonale-forpliktelser/</prop>
+     <seg>I EMK er det s&#230;rlig artikkel 8 som har betydning for fylkesnemndenes beslutninger:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">6.77</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/404/IndexWithLang/</prop>
+     <seg>Page cannot be found - 404</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/404/IndexWithLang/</prop>
+     <seg>Siden finnes ikke - 404</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.00333</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/types-of-cases/voluntary-assistance-measures/</prop>
+     <seg>There are many such types of voluntary assistance measures.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/sakstyper/frivillige-hjelpetiltak/</prop>
+     <seg>Det finnes mange forskjellige typer hjelpetiltak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.53226</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/procedures/definitions/</prop>
+     <seg>Usually parents with parental responsibility, parents without parental responsibility entitled to visit their child, children over 15 years and children in cases dealing with behavioural measures (independently of their age).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/saksgang/Definisjoner/</prop>
+     <seg>Den private parten er vanligvis foreldre med foreldreansvar, foreldre uten foreldreansvar som skal ha samv&#230;r/kontakt med barnet, barn over 15 &#229;r og barn som barnevernet vil flytte p&#229; institusjon (uavhengig av alder).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.01842</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/about-the-boards/background-and-history/</prop>
+     <seg>Background and history</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/om-fylkesnemndene/bakgrunn-og-historie/</prop>
+     <seg>Bakgrunn og historie</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.98182</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/types-of-cases/care-order/</prop>
+     <seg>After a placement, regular inspections will be conducted to monitor the child's well-being at least four times per year for children under 15 years of age.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/sakstyper/omsorgsovertakelse/</prop>
+     <seg>Det skal v&#230;re jevnlig tilsyn med hvordan barnet har det i fosterhjemmet, minst fire ganger i &#229;ret for barn under 15 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.03696</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/procedures/witnesses/</prop>
+     <seg>You may take notes with you.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/saksgang/vitner/</prop>
+     <seg>Du kan ta med deg notatene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.00071</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/procedures/definitions/</prop>
+     <seg>Persons who give evidence to the board, but are not a part of the case.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/saksgang/Definisjoner/</prop>
+     <seg>Vitner er personer som kan ha sett eller h&#248;rt noe som er viktig i saken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.43446</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/types-of-cases/compulsory-measures-for-adult-drug--alcohol-addiction/</prop>
+     <seg>If a person exposes their mental or physical health to danger with extensive drug/alcohol abuse, the County Social Welfare Board (Board) may make a decision for compulsory placement in an appropriate institution for up to 3 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/sakstyper/tvangsvedtak-for-voksne-rusavhengige/</prop>
+     <seg>Dersom noen utsetter sin psykiske eller fysiske helse for fare ved omfattende og vedvarende rusmisbruk, kan fylkesnemnda bestemme at de skal plasseres p&#229; en egnet institusjon i opptil 3 m&#229;neder mot sin vilje.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/404/IndexWithLang/</prop>
+     <seg>Sorry, we can't find the page you are looking for.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/404/IndexWithLang/</prop>
+     <seg>Vi beklager, men vi finner ikke den etterspurte siden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.82895</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/globalassets/salskisseenglish-2.pdf.converted</prop>
+     <seg>The board may appoint a spokesperson for children who are older than 7 years, as well as for younger children if they are able to formulate their own opinions in the case.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/globalassets/salskissebokmal-2_ny.pdf.converted</prop>
+     <seg>Fylkesnemnda kan oppnevne en talsperson for barn som er fylt 7 &#229;r og for yngre barn som er i stand til &#229; danne seg egne synspunkter i saken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.03258</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/what-does-fylkesnemndene-do/purpose-and-authority/</prop>
+     <seg>At the national level, the Norwegian Ministry of Children and Equality has overall responsibility for child welfare services.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/Hva-er-Fylkesnemndene/formal--myndighet/</prop>
+     <seg>P&#229; nasjonalt niv&#229;, har Barne- og likestillingsdepartement det overordnete ansvaret for barnevernet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.15862</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/what-does-fylkesnemndene-do/purpose-and-authority/</prop>
+     <seg>Case management will be satisfactory, expeditious and inspire confidence.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/Hva-er-Fylkesnemndene/formal--myndighet/</prop>
+     <seg>Saksbehandlingen skal v&#230;re betryggende, rask og tillitskapende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.01757</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fylkesnemndene.no/en/procedures/complaint-procedure/</prop>
+     <seg>Both parties will be represented by their respective counsels, and have the opportunity to make statements and ask questions to the board chair.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fylkesnemndene.no/no/saksgang/klagesak/</prop>
+     <seg>I m&#248;tet forteller klagerne og barneverntjenesten hva de mener om saken, og advokatene og fylkesnemndslederen stiller sp&#248;rsm&#229;l.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

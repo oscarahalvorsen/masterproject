@@ -1,0 +1,214 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221218T163658" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.29674</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2020.pdf.converted</prop>
+     <seg>Forumet kan gi anbefalinger, eller peke p&#229; observasjoner og behov for nye rutiner eller andre forbedringer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2019.pdf.converted</prop>
+     <seg>Forumet kan gi tilr&#229;dingar eller peike p&#229; observasjonar og behov for nye rutinar eller andre forbetringar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.53605</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema.pdf.converted</prop>
+     <seg>Kryss av for hva slags sak ID-dokumentet gjelder:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema_nynorsk.pdf.converted</prop>
+     <seg>Kryss av for kva slags sak ID-dokumentet gjeld:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.85946</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2020.pdf.converted</prop>
+     <seg>Avdelingen har videre i st&#248;rre grad enn tidligere stilt kompetansen og ressursene sine til r&#229;dighet for at UNE skal kunne etablere en god faglig struktur i rettssaksarbeidet etter omorganiseringen i 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2019.pdf.converted</prop>
+     <seg>Avdelinga har vidare stilt kompetansen og ressursane sine til r&#229;dvelde for at UNE skal kunne etablere ein god fagleg struktur i rettssaksarbeidet etter omorganiseringa i 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.48765</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2020.pdf.converted</prop>
+     <seg>UNE tok i 2019 initiativ til &#229; etablere et barnefaglig forum for utlendingskjeden, som kunne bygge videre p&#229; samarbeidet knyttet til barnefaglig kompetanse som utlendingsforvaltningen har hatt siden 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2019.pdf.converted</prop>
+     <seg>UNE tok i 2019 initiativ til &#229; etablere eit barnefagleg forum for utlendingskjeda som kunne byggje vidare p&#229; samarbeidet utlendingsforvaltinga har hatt sidan 2017 knytt til barnefagleg kompetanse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.74194</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/omgjoringsanmodning.pdf.converted</prop>
+     <seg>Les mer om omgj&#248;ringsanmodning her</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/omgjeringsforespurnad_nynorsk.pdf.converted</prop>
+     <seg>Les meir om omgjeringsf&#248;respurnader her.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/omgjoringsanmodning.pdf.converted</prop>
+     <seg>Gjelder henvendelsen flere personer?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/omgjeringsforespurnad_nynorsk.pdf.converted</prop>
+     <seg>Gjeld f&#248;respurnaden fleire personar?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.77073</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/omgjoringsanmodning.pdf.converted</prop>
+     <seg>Fortell hva dokumentene du har lagt ved inneholder.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/omgjeringsforespurnad_nynorsk.pdf.converted</prop>
+     <seg>Fortel kva dokumenta du har lagt ved, inneheld.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.54138</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2020.pdf.converted</prop>
+     <seg>Forumet skal se etter effektive samhandlingsomr&#229;der, v&#230;re en arena for nyttig informasjonsdeling, og legge til rette for &#229; utvikle og utnytte den barnefaglige kompetansen i kjeden.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2019.pdf.converted</prop>
+     <seg>Forumet skal sj&#229; etter effektive samhandlingsomr&#229;de, vere ein arena for nyttig informasjonsdeling og leggje til rette for &#229; utvikle og utnytte den barnefaglege kompetansen i kjeda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">3.19286</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2020/tvangsretur-i-hogsterett/</prop>
+     <seg>I dag bygger UDI og UNE sine vedtak p&#229; en premiss om at asyls&#248;karen vil f&#248;lge vedtaket og reise heim frivillig dersom det blir et avslag.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2020/tvangsretur-i-hogsterett/</prop>
+     <seg>I dag bygger UDI og UNE sine vedtak p&#229; ein premiss om at asyls&#248;karen vil f&#248;lge vedtaket og reise heim frivillig dersom det blir eit avslag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">3.19655</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2020/tvangsretur-i-hogsterett/</prop>
+     <seg>UNE sitt syn er at utlendingsstyresmaktene m&#229; bygge asylvurderingane sine p&#229; at en asyls&#248;kar vil f&#248;lge vedtaket og reise heim frivillig dersom han eller ho f&#229;r avslag.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2020/tvangsretur-i-hogsterett/</prop>
+     <seg>UNE sitt syn er at utlendingsstyresmaktene m&#229; bygge asylvurderingane sine p&#229; at ein asyls&#248;kar vil f&#248;lge vedtaket og reise heim frivillig dersom han eller ho f&#229;r avslag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">3.19286</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2020/tvangsretur-i-hogsterett/</prop>
+     <seg>Skal UDI og UNE i asylvurderingane sine ta h&#248;gd for at en asyls&#248;kar kan bli returnert med tvang og vurdere om det aukar risikoen for forf&#248;lging?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2020/tvangsretur-i-hogsterett/</prop>
+     <seg>Skal UDI og UNE i asylvurderingane sine ta h&#248;gd for at ein asyls&#248;kar kan bli returnert med tvang og vurdere om det aukar risikoen for forf&#248;lging?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.435</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/bekreftelse-fra-arbeidsgiver-for-tapt-arbeidsfortjenesteii.pdf.converted</prop>
+     <seg>Bekreftelse fra arbeidsgiver for tapt arbeidsfortjeneste/l&#248;nn for</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/skjema--stadfesting-fra-arbeidsgjevar-for-tapt-arbeidsforteneste_nynorsk.pdf.converted</prop>
+     <seg>Stadfesting fr&#229; arbeidsgjevar for tapt arbeidsforteneste/l&#248;n for nemndmedlemmar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.57143</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2020.pdf.converted</prop>
+     <seg>Barnefaglig forum har som overordnet form&#229;l &#229; sikre et barneperspektiv i praksis og &#229; bidra til &#229; skape kontinuitet og helhet for barn som er direkte eller indirekte p&#229;virket av oppgavene i migrasjonskjeden.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2019.pdf.converted</prop>
+     <seg>Barnefagleg forum har som overordna form&#229;l &#229; sikre eit barneperspektiv i praksis og &#229; bidra til &#229; skape kontinuitet og heilskap for barn som er direkte eller indirekte p&#229;verka av kjeda sine oppg&#229;ver.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.59855</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema.pdf.converted</prop>
+     <seg>Hovedregelen er at identiteten til klageren m&#229; v&#230;re sannsynliggjort for at oppholdstillatelse kan gis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema_nynorsk.pdf.converted</prop>
+     <seg>Hovudregelen er at for &#229; kunne f&#229; opphaldsl&#248;yve, m&#229; identiteten til klagaren vere gjord sannsynleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.45952</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema.pdf.converted</prop>
+     <seg>Dersom flere familiemedlemmer sender inn ID-dokumenter m&#229; det fylles ut ett skjema per person.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema_nynorsk.pdf.converted</prop>
+     <seg>Dersom fleire familiemedlemmar sender inn ID-dokument, m&#229; det fyllast ut eitt skjema per person.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.84392</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2020.pdf.converted</prop>
+     <seg>Slik UNE vurderer det, fungerer dagens tredeling mellom Regjeringsadvokaten, Prosedyreavdelingen i UNE og Kluge Advokatfirma sv&#230;rt godt, og disse akt&#248;rene utfyller hverandre med n&#248;dvendig fleksibilitet og faglig kompetanse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/om-une/arsrapporter-etc/arsrapport-une-2019.pdf.converted</prop>
+     <seg>Slik UNE vurderer det, fungerer dagens tredeling mellom Regjeringsadvokaten, Prosedyreavdelinga i UNE og Kluge Advokatfirma sv&#230;rt godt, og desse akt&#248;rane utfyller kvarandre med n&#248;dvendig fleksibilitet og fagleg kompetanse.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

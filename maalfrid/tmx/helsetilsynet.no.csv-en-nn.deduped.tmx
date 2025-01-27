@@ -1,0 +1,370 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T114801" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2008/services_vulnerable_children.pdf.converted</prop>
+     <seg>ensure that different services cooperate.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2009/barnemishandling_omsorgssvikt.pdf.converted</prop>
+     <seg>vere &#229; melde fr&#229; som eit risiko-omr&#229;de og &#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.599</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2009/board_health_supervision_report3_2009.pdf.converted</prop>
+     <seg>Norwegian Board of Health in the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2005/helsetilsynetrapport8_2005.pdf.converted</prop>
+     <seg>dei prioriterte gruppene i Vest-Agder og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.1395</prop>
+    <prop type="score-bicleaner">0.629</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2008/when_fault_lies_within_structure_and_leadership.pdf.converted</prop>
+     <seg>&#8226; We ask about organization and manage-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2013/ruptur_livmor_fodsel.pdf.converted</prop>
+     <seg>tidlegare forl&#248;yste med keisarsnitt, og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.365</prop>
+    <prop type="score-bicleaner">0.601</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2009/board_health_supervision_report3_2009.pdf.converted</prop>
+     <seg>and due process protection in the health</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2005/helsetilsynetrapport8_2005.pdf.converted</prop>
+     <seg>tilsynet i fylka har rapportert, er presentert i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.08214</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2008/services_vulnerable_children.pdf.converted</prop>
+     <seg>these attempts have been unsuccessful.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2009/barnemishandling_omsorgssvikt.pdf.converted</prop>
+     <seg>&#229; betre ikkje brote teieplikta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.27857</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2009/board_health_supervision_report3_2009.pdf.converted</prop>
+     <seg>Norwegian Board of Health in the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2005/helsetilsynetrapport8_2005.pdf.converted</prop>
+     <seg>prioriterte gruppene i Finnmark.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">3.89667</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2009/board_health_supervision_report3_2009.pdf.converted</prop>
+     <seg>2004, a task group was appointed to</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2005/helsetilsynetrapport8_2005.pdf.converted</prop>
+     <seg>- Helsetilsynet i Nordland har i 2004 gjen-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.01364</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2009/board_health_supervision_report3_2009.pdf.converted</prop>
+     <seg>as possible give written notice to the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2005/helsetilsynetrapport8_2005.pdf.converted</prop>
+     <seg>syn, b&#229;de personar i dei prioriterte grup-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.08473</prop>
+    <prop type="score-bicleaner">0.609</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2009/board_health_supervision_report3_2009.pdf.converted</prop>
+     <seg>The duty to report suicides under</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2005/helsetilsynetrapport8_2005.pdf.converted</prop>
+     <seg>&#8211; Talet p&#229; eldre, langtidssjuke og uf&#248;re i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.18824</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/english/facts_figures_2011.pdf.converted</prop>
+     <seg>In 2011, the Norwegian Board of Health Supervision asked for a</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/tilsynsmelding2011.pdf.converted</prop>
+     <seg>I 2011 bad Statens helsetilsyn om sakkunnige vurderingar i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.14805</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2008/when_fault_lies_within_structure_and_leadership.pdf.converted</prop>
+     <seg>where there is risk, and must establish</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2013/ruptur_livmor_fodsel.pdf.converted</prop>
+     <seg>Overvakinga m&#229; vere kontinuerleg, og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.08214</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2008/services_vulnerable_children.pdf.converted</prop>
+     <seg>adapt and follow up cooperation between</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2009/barnemishandling_omsorgssvikt.pdf.converted</prop>
+     <seg>d&#248;md for &#229; ha mishandla ein fem &#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.77529</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/en/publications/report-of-the-norwegian-board-of-health-supervision/2011/an-old-activity-seen-in-a-new-light-supervision-in-2010-of-organizations-that-are-authorized-to-deal-with-corneas-etc-for-human-use-in-norway-implementation-and-experience/</prop>
+     <seg>258 keratoplasty operations were carried out in 2009, nearly all of them with corneas imported from the USA.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/historisk-arkiv/nyheter-og-pressemeldinger/nyheter-2004-2014/nytt-syn-pa-gammal-aktivitet/</prop>
+     <seg>Det blei utf&#248;rt 258 slike transplantasjonar i 2009, nesten alle med hornhinner importerte fr&#229; USA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.26</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2009/board_health_supervision_report3_2009.pdf.converted</prop>
+     <seg>(the Specialized Health Services</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2005/helsetilsynetrapport8_2005.pdf.converted</prop>
+     <seg>&#8211; Det har ikkje vore ei endring i talet p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/english/facts_figures_2011.pdf.converted</prop>
+     <seg>In 49 per cent of these, the mother was injured, and in 30 per cent the child was injured.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/tilsynsmelding2011.pdf.converted</prop>
+     <seg>I 49 prosent av desse meldin-gane blei mora skadd, og i 30 prosent blei barnet skadd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.99231</prop>
+    <prop type="score-bicleaner">0.567</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/english/facts_figures_2011.pdf.converted</prop>
+     <seg>Appeals Board dealt with 79 cases of complaint.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/tilsynsmelding2011.pdf.converted</prop>
+     <seg>vedtak. Nemnda behandla 79 klager p&#229; vedtak gjorde av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.03286</prop>
+    <prop type="score-bicleaner">0.631</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2009/board_health_supervision_report3_2009.pdf.converted</prop>
+     <seg>for these guidelines is in principle the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2005/helsetilsynetrapport8_2005.pdf.converted</prop>
+     <seg>- Helsetilsynet i tre fylke rapporterer at</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.14832</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2009/board_health_supervision_report3_2009.pdf.converted</prop>
+     <seg>compliance with the legislation in the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2005/helsetilsynetrapport8_2005.pdf.converted</prop>
+     <seg>tilsyn, b&#229;de personar i dei prioriterte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2008/when_fault_lies_within_structure_and_leadership.pdf.converted</prop>
+     <seg>deficiencies in the system may occur.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2013/ruptur_livmor_fodsel.pdf.converted</prop>
+     <seg>forsiktig med bruken av oksytocin, og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2008/statistics_coercion_and_restraint.pdf.converted</prop>
+     <seg>decisions, approved decisions, dispensation</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2009/svikt_legemiddel_sjukeheimar.pdf.converted</prop>
+     <seg>interne rutinar for regularitet i kontrollar,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2008/when_fault_lies_within_structure_and_leadership.pdf.converted</prop>
+     <seg>The Norwegian Board of Health Super-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2013/ruptur_livmor_fodsel.pdf.converted</prop>
+     <seg>keisarsnitt, og f&#248;rekomsten aukar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.28462</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/andrepublikasjoner/accilearn_2012.pdf.converted</prop>
+     <seg>are ways to categorize the outcome of learning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2007/helsetilsynetrapport2_2007.pdf.converted</prop>
+     <seg>Sj&#248;lvmordsproblematikk, psykose og haste-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.38214</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/annual_supervision_report_2007.pdf.converted</prop>
+     <seg>The patient had also had an ECG in</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/tilsynsmelding2007.pdf.converted</prop>
+     <seg>Men det betyr at det enkelte kommune-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.14925</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2008/statistics_coercion_and_restraint.pdf.converted</prop>
+     <seg>cultures in the different municipalities,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2009/svikt_legemiddel_sjukeheimar.pdf.converted</prop>
+     <seg>pasientane, og at ein i liten grad var merksam</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.04268</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2008/introduction2008.pdf.converted</prop>
+     <seg>that the term is disappearing from administra-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2005/overbelegg_sjukehus.pdf.converted</prop>
+     <seg>forholda og sj&#229; til at drifta ved sjukehuset blei</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.09908</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2008/when_fault_lies_within_structure_and_leadership.pdf.converted</prop>
+     <seg>conditions, it may be appropriate to have a</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/tilsynsmelding/2013/ruptur_livmor_fodsel.pdf.converted</prop>
+     <seg>overvakast med CTG, fordi fosteret</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2009/board_health_supervision_report3_2009.pdf.converted</prop>
+     <seg>be forwarded to the Norwegian Board of</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2005/helsetilsynetrapport8_2005.pdf.converted</prop>
+     <seg>&#8211; I tre fylke har talet p&#229; personar i dei</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.28571</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2009/board_health_supervision_report3_2009.pdf.converted</prop>
+     <seg>down in or pursuant to social and</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2005/helsetilsynetrapport8_2005.pdf.converted</prop>
+     <seg>pene, eller er tilbodet ulikt, avhengig av kvar</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

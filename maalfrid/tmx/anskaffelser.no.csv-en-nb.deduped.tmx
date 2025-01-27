@@ -1,0 +1,2303 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T203834" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.1119</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>If the delivered deliverables infringe any copyrights or other intellectual property rights of third parties, the Contractor shall secure the missing rights or secure a right of disposal for the Customer of at least equal benefit.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Dersom de leverte ytelsene krenker opphavsrett eller andre immaterielle rettigheter som tilh&#248;rer andre, er Leverand&#248;ren forpliktet til &#229; skaffe den rettigheten som mangler, eller &#229; skaffe Kunden disposisjonsrett til minst likeverdig ytelse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.58473</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>Unless otherwise is stipulated in Appendix 7, the software and equipment shall be delivered DDP (Incoterms) to the address stipulated on the first page of the Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Med mindre annet fremg&#229;r av bilag 7, skal utstyr og programvare leveres DDP (Incoterms) p&#229; den adresse som er angitt p&#229; avtalens forside.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.15752</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>C errors are deemed to be immaterial, unless several C errors imply, in aggregate, that approval would be clearly unreasonable.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>C-feil anses som uvesentlige, hvis ikke flere C-feil samlet sett medf&#248;rer at godkjennelse vil v&#230;re klart urimelig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.59926</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Unless otherwise specified in Appendix 7, all prices are quoted inclusive of Value Added Tax, customs duties and any other indirect taxes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Med mindre annet er angitt i bilag 7 er alle priser oppgitt inklusive merverdiavgift inkludert toll og eventuelle andre avgifter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.28785</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>- Error that results in functions that, based on an objective assessment, are of importance to the Customer not working as described in the agreement, and which it is time-consuming and costly to work around.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>- Feil som f&#248;rer til at funksjoner som, ut fra en objektiv vurdering, er viktige for Kunden ikke virker som beskrevet i avtalen, og som det er tids- og ressurskrevende &#229; omg&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.17862</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>Unless otherwise specified in Appendix 7, all prices are quoted exclusive of Value Added Tax, but inclusive of customs duties and any other indirect taxes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Med mindre annet er angitt i bilag 7, er alle priser oppgitt eksklusive merverdiavgift, men inkludert toll og eventuelt andre avgifter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">3.73478</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Travel time shall only be invoiced if this is agreed in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Reisetid faktureres bare hvis det er avtalt i bilag 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.27647</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The disclosure obligation shall also apply to subcontractors.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Dokumentasjonsplikten gjelder ogs&#229; underleverand&#248;rer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.79286</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The consideration for the right of disposal in respect of the software, including any prerequisites and limitations, for example, in relation to the number of users or the place where the right of disposal is exercised/the equipment used to do so, is described in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Vederlaget for disposisjonsretten til programmene, herunder eventuelle forutsetninger og begrensninger, for eksempel med hensyn til antall brukere eller sted/utstyr for ut&#248;velse av disposisjonsretten, er beskrevet i bilag 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.32407</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>Steel is made from iron ore, scrap metal, hard coal, and elements like chromium, nickel and molybdenum.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>St&#229;l er laget av jernmalm, skrapmetall, antrasitt, og elementer som krom, nikkel og molybden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.14943</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/maps_norway.pdf.converted</prop>
+     <seg>Norway&#8217;s challenges with regards to integrity, transparency and accountability in the area of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/lo.pdf.converted</prop>
+     <seg>Dette er ikke adskilte krav, men er drivere for at man kommer frem til bedre og mer milj&#248;vennlige l&#248;sninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.82609</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Further clarification concerning the implementation of this clause 5.6 may be agreed in Appendix 4.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>N&#230;rmere presiseringer om gjennomf&#248;ring av dette punkt 5.6 kan avtales i bilag 4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.09169</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>In the event of defects in title, the Contractor shall not be liable for damages for defects in title associated with Standard software beyond that which follows from licence terms and conditions included in Appendix 10 and the coverage of any liability for damages imposed on it in relation to a third party (the rightsholder(s)) pursuant to clause 13.4.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Ved eventuelle rettsmangler er Leverand&#248;ren ikke erstatningsansvarlig for rettsmangler knyttet til Standardprogramvare ut over det som f&#248;lger av lisensbetingelser inntatt i bilag 10 og for dekning av id&#248;mt erstatningsansvar overfor tredjepart (rettighetshaveren(e)) i henhold til punkt 13.4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.85631</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Adjustments to the Estimated total cost shall be calculated on the basis of the hourly rates or other unit prices set out in Appendix 7, provided that the work occasioned by the change is, in the main, similar to work for which hourly rates or unit prices have been specified.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Endringer i Estimert Totalkostnad skal beregnes med utgangspunkt i de timeprisene eller andre enhetspriser som fremg&#229;r av bilag 7, s&#229;fremt endringsarbeidet i det vesentlige er likeartet med arbeider det er fastsatt timepris eller enhetspris for.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.95061</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor shall immediately, and no later than five (5) Working days after notice has been received, send the Customer an overview of the functions and activities that need to be sustained during the suspension period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal umiddelbart og senest innen 5 (fem) Virkedager etter at varsel er mottatt, oversende til Kunden en oversikt over hvilke funksjoner og aktiviteter som m&#229; opprettholdes i stansperioden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.11843</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/eksempler_fra_konkretiseringsfasen_i_bvp_-_de_haan_martojo.pdf.converted</prop>
+     <seg>&#8226; Are all issues on the In list in line with the tender specification?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ggd_-_rehabilitering_av_bygg.pdf.converted</prop>
+     <seg>Det ble opplyst at &#229;rsaken til dette var &#171;stress&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.0125</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/public-procurement/socially-responsible-public-procurement/information-about-high-risk-products/electronics-and-ict</prop>
+     <seg>Risks of human rights breaches</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/samfunnsansvar/sosialt-ansvar/hoyrisikoproduktlisten/elektronikk-og-ikt</prop>
+     <seg>Risiko i leverand&#248;rkjeden</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.4831</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor will then have three (3) Working days to ensure that it updates relevant documents if no other deadline is agreed in connection with the specific change.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal deretter innen 3 (tre) Virkedager s&#248;rge for &#229; oppdatere relevante dokumenter, dersom ikke annen frist blir avtalt i forbindelse med den konkrete endringen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.25655</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor shall, within a maximum of three (3) Working days from receipt of a written request for a change, submit a study of potential risk and change consequences, as well as a price estimate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal senest innen 3 (tre) Virkedager fra mottak av skriftlig anmodning om endringen utrede aktuelle risiko- og endringskonsekvenser og gi et prisestimat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.68146</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The Contractor shall in Appendix 2 describe how the Contractor takes account of these requirements through its deliverables.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal i bilag 2 beskrive hvordan Leverand&#248;ren ivaretar disse kravene gjennom sin leveranse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.87857</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/it_risk_assessments_v3.pdf.converted</prop>
+     <seg>The first index is expected to be published in 2018 and every two years after that.3</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/2021-09/risikovurdering_for_brudd_pa_menneskerettigheter_i_it-produksjon.pdf.converted</prop>
+     <seg>Den f&#248;rste indeksen forventes publisert i 2018, og skal deretter utgis annethvert &#229;r.3</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.29536</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>To the extent that the provisions of licence terms and conditions governing right of disposal differ from this Agreement's provisions governing right of disposal, the Contractor shall describe this clearly in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>I den utstrekning det er avvik mellom lisensbetingelsenes bestemmelser om disposisjonsrett og denne avtalens bestemmelser om disposisjonsrett, skal Leverand&#248;ren beskrive dette tydelig i bilag 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.03085</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/en/public-procurement/social-dumping/how-stipulate-and-follow-requirements-pay-and-working-conditions/contract-follow/step-2-documentation-review</prop>
+     <seg>For a more thorough control after self-assessment, the organisation can carry out a documentation review.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/avtaler-og-regelverk/anskaffelsesprosedyrer/forsknings-og-utviklingskontrakter</prop>
+     <seg>Regelverket om offentlige anskaffelser gjelder ogs&#229; for forsknings- og utviklingstjenester, med enkelte unntak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.0519</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>- The documentation being incomplete or misleading, and this resulting in the Customer being unable to use functions that, based on an objective assessment, are of importance to the Customer.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>- Dokumentasjonen er s&#229; ufullstendig eller misvisende at Kunden ikke kan benytte funksjoner som ut fra en objektiv vurdering er viktige for Kunden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.52702</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risk_assessment_construction_and_landscaping_2020.pdf.converted</prop>
+     <seg>In accordance with the Procurement Action Plan from Norwegian ministries (2007-2010), many Norwegian authorities have adopted policies that ban the use of tropical timber in public building projects and included this principle in guidelines for public procurement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/risikovurdering_for_brudd_pa_menneskerettigheter_i_produksjon_av_bygg_og_anleggsmaterialer_swedwatch_2020.pdf.converted</prop>
+     <seg>I samsvar med handlingsplanen for offentlige innkj&#248;p fra norske departementer (2007-2010) har mange norske etater vedtatt retningslinjer som forbyr bruk av tropisk t&#248;mmer i offentlige byggeprosjekter og inkludert dette prinsippet i retningslinjer for offentlige anskaffelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">3.06382</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>Copies of the applicable licence terms and conditions for the relevant free software shall be appended in Appendix 10.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Kopi av de lisensbetingelsene som gjelder for den aktuelle frie programvare, inntas i bilag 10.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.60119</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Each party may demand participation of an independent expert appointed according to the rules in chapter 16.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Hver av partene kan kreve deltagelse av en uavhengig ekspert oppnevnt etter reglene i kapittel 16.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.01719</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/maps_norway.pdf.converted</prop>
+     <seg>Media and integrity watch dogs claim that corruption cases in the past in Norway could have been averted by observing a stricter cooling-off period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/lo.pdf.converted</prop>
+     <seg>For &#229; unng&#229; &#248;kte priser p&#229; r&#229;varer, brudd i verdikjeder og manglende ressursgrunnlag for sunn vekst i &#248;konomien, m&#229; overgangen til gjenvinning og gjenbruk skje raskt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.04241</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor shall, at the request of the Customer, disclose documentation relating to the wages and working conditions which are used.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal p&#229; foresp&#248;rsel fra Kunden legge frem dokumentasjon om de l&#248;nns- og arbeidsvilk&#229;r som blir benyttet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.56947</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor's obligations as mentioned above shall be documented in Appendix 6 by means of either a self-declaration or a third-party declaration showing conformity between the relevant collective wage agreement and the actual wages and working conditions relating to compliance with the Contractor's and any subcontractors' obligations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Oppfyllelse av Leverand&#248;rens forpliktelser som nevnt ovenfor skal dokumenteres i bilag 6 ved enten en egenerkl&#230;ring eller tredjepartserkl&#230;ring om at det er samsvar mellom aktuell tariffavtale og faktiske l&#248;nns- og arbeidsvilk&#229;r for oppfyllelse av Leverand&#248;rens og eventuelle underleverand&#248;rers forpliktelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.33306</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Customer must also Re-test any outstanding errors, and execute any other final tests in accordance with the Test strategy in Appendix 5.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Kunden skal ogs&#229; Reteste eventuelle gjenst&#229;ende feil og gjennomf&#248;re eventuelle andre avsluttende tester som fremg&#229;r av Teststrategien i bilag 5.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.68694</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor shall in Appendix 2 describe how the Contractor takes account of these requirements through its solution.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal i bilag 2 beskrive hvordan Leverand&#248;ren ivaretar disse kravene gjennom sin l&#248;sning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.83165</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor is responsible for ensuring that the deliverables are tailored to the technical platform specified in Appendices 2 and 3, and that the deliverables are compatible with other Software specified in Appendices 1, 2 and 3.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Det er Leverand&#248;rens ansvar at leveransen er tilpasset den tekniske plattformen som er spesifisert i bilag 2 og 3, og at leveransen fungerer sammen med &#248;vrig programvare som er spesifisert i bilag 1, 2 og 3.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">3.75608</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risk_assessment_vehicles_swedwatch_2020.pdf.converted</prop>
+     <seg>Asia accounts for about 90% of global natural rubber production.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/risikovurdering_for_brudd_pa_menneskerettigheter_i_produksjon_av_kjoretoy_swedwatch_2020.pdf.converted</prop>
+     <seg>Asia st&#229;r for om lag 90 % av den globale naturgummiproduksjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.26667</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/it_risk_assessments_v3.pdf.converted</prop>
+     <seg>It is possible for electronics companies (as well as consumers) to buy</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/2021-09/risikovurdering_for_brudd_pa_menneskerettigheter_i_it-produksjon.pdf.converted</prop>
+     <seg>Det er mulig for elektronikkselskaper (og forbrukere) &#229; kj&#248;pe</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">3.75598</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risk_assessment_vehicles_swedwatch_2020.pdf.converted</prop>
+     <seg>90 70% of all natural rubber produced supply the tire industry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/risikovurdering_for_brudd_pa_menneskerettigheter_i_produksjon_av_kjoretoy_swedwatch_2020.pdf.converted</prop>
+     <seg>90 70 % av all naturgummi som produseres g&#229;r til dekkindustrien.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.53095</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The provisions of the licence terms and conditions governing right of disposal shall prevail over the provisions governing right of disposal in this Agreement, unless otherwise is explicitly stated in Appendix 8.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Lisensbetingelsenes bestemmelser om disposisjonsrett g&#229;r foran denne avtalens betingelser om disposisjonsrett, med mindre annet eksplisitt fremg&#229;r av bilag 8.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.01749</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Customer has the right to order changes, in the form of increases or reductions in the scope, quality or delivery of the deliverables, as well as changes to the milestone plan, provided that such changes fall within the scope of what the parties could have reasonably expected upon the conclusion of the Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Kunden har rett til &#229; gi p&#229;legg om endring med hensyn til &#248;kning eller reduksjon i omfang, kvalitet eller utf&#248;relse av leveransen, samt endring i milep&#230;lsplanen forutsatt at endringen ligger innenfor hva partene med rimelig grunn kan ha forventet da avtalen ble inng&#229;tt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.19927</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risk_assessment_vehicles_swedwatch_2020.pdf.converted</prop>
+     <seg>Michelin is also said to have fired union members at a factory in Thailand.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/risikovurdering_for_brudd_pa_menneskerettigheter_i_produksjon_av_kjoretoy_swedwatch_2020.pdf.converted</prop>
+     <seg>Michelin skal ogs&#229; ha sparket fagforeningsmedlemmer p&#229; en fabrikk i Thailand.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.21654</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The confidentiality obligation shall apply to the parties&#8217; employees, subcontractors and other third parties who act on behalf of the parties in connection with the implementation of the Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Taushetsplikten gjelder partenes ansatte, underleverand&#248;rer og tredjeparter som handler p&#229; partenes vegne i forbindelse med gjennomf&#248;ring av avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.39722</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor must keep a list of the changes ordered pursuant to this chapter, in accordance with the procedures in Appendix 9.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal holde oversikt over bestilte endringer etter dette kapittelet, i overensstemmelse med rutinene i bilag 9.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.03684</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>Nevertheless, there is no breach of contract if the situation is caused by circumstances related to the Contractor or by force majeure.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Det foreligger likevel ikke mislighold hvis situasjonen skyldes Leverand&#248;rens forhold eller force majeure.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.76892</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor shall, however, ensure that Standard software is offered under licence terms and conditions with a right of disposal that satisfy the requirements in respect of the deliverables and their area of use stipulated by the Customer in Appendix 1, and this Agreement's provisions governing right of disposal.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal imidlertid sikre at standardprogramvare tilbys under lisensbetingelser med disposisjonsrett som er dekkende for de krav Kunden i bilag 1 har stilt til leveransen og dennes bruksomr&#229;de, og denne avtalens bestemmelser om disposisjonsrett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">3.26842</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The guarantee period for equipment is one (1) year from the Delivery date.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>For utstyr er garantiperioden 1 (ett) &#229;r regnet fra leveringsdag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.48471</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>Other rates for liquidated damages, a different calculation basis and other periods for liquidated damages may be agreed in Appendix 4.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Andre dagbotsatser, annet beregningsgrunnlag og annen l&#248;petid for dagboten kan avtales i bilag 4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.1</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>In addition, the Customer shall pay a cancellation fee equal to the lower of:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>I tillegg skal Kunden betale et avbestillingsgebyr som er lik det minste av:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">3.93988</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/it_risk_assessments_v3.pdf.converted</prop>
+     <seg>At present, 10 mining organisations around the world are certified.14</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/2021-09/risikovurdering_for_brudd_pa_menneskerettigheter_i_it-produksjon.pdf.converted</prop>
+     <seg>For &#248;yeblikket er 10 gruveselskaper verden over sertifisert.14</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">3.78545</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>A different cancellation fee may be agreed between the parties in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Annet avbestillingsgebyr kan avtales mellom partene i bilag 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018-english.docx.converted</prop>
+     <seg>The Contractor shall assist the Customer in connection with the preparations for the conclusion of any new operational services agreement, and provide such information as is necessary in connection with these preparations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Kunden (og dennes rettighetsgivere) beholder eiendomsrett til alle data som overlates til Leverand&#248;ren for behandling, og som lagres eller prosesseres ved hjelp av ytelsene under denne avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.10234</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>All main parts are made of aluminium, steel or different types of plastic, while upholstery is in wool or synthetic (polyester) fibre.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>Alle hoveddelene er laget i aluminium, st&#229;l eller ulike typer plast, mens m&#248;beltrekket er i ull eller syntetisk (polyester) fiber.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.54655</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor&#8217;s prices for such services listed in Appendix 7 shall apply, unless otherwise agreed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Hvis ikke annet er avtalt, legges Leverand&#248;rens priser oppgitt i bilag 7 for slike tjenester til grunn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.25453</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>Aluminum is often recycled but otherwise made with bauxite clay, caustic soda, lime and carbon.160 Rubber can be natural and synthetic (butyl).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>Aluminium er ofte resirkulert, men ellers laget med bauksittleire, kaustisk soda, kalk og karbon.160 Gummi kan v&#230;re naturlig og syntetisk (butyl).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.00588</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor shall bear the risk associated with any delays that may occur due to the postponement of the work, if it is determined that the work falls within the scope of the Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren har risikoen for de forsinkelser som m&#229;tte oppst&#229; som f&#248;lge av at arbeidet utsettes, hvis det blir fastsatt at arbeidet er omfattet av kontrakten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">2.44706</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>All prices and the detailed terms governing the consideration to be paid by the Customer for the deliverables provided by the Contractor are set out in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Alle priser og n&#230;rmere betingelser for det vederlaget Kunden skal betale for Leverand&#248;rens ytelser fremg&#229;r av bilag 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.07908</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/2021-06/circular-and-fair-ict-pact-final-usignert.pdf.converted</prop>
+     <seg>In these working groups procurement as the responsible director, central procurement</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/2016-12-20_veileder_0.pdf.converted</prop>
+     <seg>Transportleverand&#248;ren vil optimalisere sin fortjeneste og s&#248;rge for at transportmidlene blir brukt utenom disse tidspunkter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.8349</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If the overall consideration of the Contractor, net of all reductions and additions, is reduced by more than fifteen (15) per cent of the Estimated total cost, such reduction shall be dealt with as a partial cancellation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Dersom Leverand&#248;rens samlede vederlag etter fradrag og tillegg reduseres med mer enn 15 (femten) prosent av den opprinnelige Estimerte Totalkostnaden, skal reduksjonen behandles som delvis avbestilling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">5.28686</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The changes shall be collated in Appendix 9.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Endringene samles i bilag 9.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.78163</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>In force majeure situations, the other party may only end the Agreement with the consent of the affected party, or if the situation prevails or is expected to prevail for more than ninety (90) calendar days as of the date on which the situation arose, and in such case only with fifteen (15) calendar days&#8217; notice.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Motparten kan i force majeure-situasjoner bare avslutte avtalen med den rammede parts samtykke, eller hvis situasjonen varer eller antas &#229; ville vare lenger enn 90 (nitti) kalenderdager, regnet fra det tidspunkt situasjonen inntrer, og da bare med 15 (femten) kalenderdagers varsel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.12931</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_appendices_2015_eng_0.docx.converted</prop>
+     <seg>Procedure for error reporting from the Customer to the Contractor.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_veiledning_til_avtalen_2015_0.docx.converted</prop>
+     <seg>Sluttkriterier blir brukt i testingen for &#229; rapportere mot og for &#229; planlegge n&#229;r en skal stoppe testingen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.13183</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Together with the notice, the party that has taken the initiative to the Exit must convene a meeting between the parties where they discuss the options for continuing the project.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Den part som har tatt initiativ til Exit, skal sammen med varselet innkalle til et m&#248;te mellom partene hvor partene i fellesskap skal dr&#248;fte mulighetene for videref&#248;ring av prosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.06516</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>All agreements that are entered into by the Contractor and that involve the performance of work that contributes directly to the performance of the Contractor&#8217;s obligations under the Agreement shall include corresponding terms and conditions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Alle avtaler Leverand&#248;ren inng&#229;r, og som inneb&#230;rer utf&#248;relse av arbeid som direkte medvirker til &#229; oppfylle Leverand&#248;rens forpliktelser under denne avtalen, skal inneholde tilsvarende betingelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.575</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor may contest the duty to perform the work by requesting a ruling from an independent expert or mediator or institute legal proceedings or submit the dispute for arbitration in order to have its claim resolved with final effect, cf. chapter 16.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren kan bestride plikten til &#229; utf&#248;re arbeidet ved &#229; kreve en avgj&#248;relse fra en uavhengig ekspert eller mekler, eller reise s&#248;ksm&#229;l eller bringe tvisten inn for voldgift for &#229; f&#229; sitt krav endelig avgjort, jf. kapittel 16.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.13857</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018-english.docx.converted</prop>
+     <seg>The Customer may order supplementary services in relation to regular operations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Utskiftninger av personell skal ikke p&#229;virke prosjektets fremdrift eller p&#229;f&#248;re Kunden &#248;kte kostnader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">3.71868</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Payment shall be made within thirty (30) calendar days of the invoice date.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Betaling skal skje etter faktura per 30 (tretti) kalenderdager.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.89223</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If the Contractor does not demand a decision concerning the disputed change pursuant to clause 3.10 of the Agreement within three (3) months after the consideration has been paid, or if the work is deemed to fall within the scope of the Agreement, the provisional consideration shall be set off against the consideration due upon the next payment milestone.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Hvis Leverand&#248;ren ikke krever avgj&#248;relse av den omtvistede endringen i henhold til avtalen punkt 3.10 innen 3 (tre) m&#229;neder etter at vederlaget er utbetalt, eller hvis arbeidet blir ansett &#229; ligge innenfor kontrakten, skal det forel&#248;pige vederlaget motregnes i neste betalingsmilep&#230;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">2.5904</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The Contractor&#8217;s standard hourly rate for consultancy services under this Agreement shall apply, unless otherwise agreed in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Hvis ikke annet er avtalt i bilag 7, legges Leverand&#248;rens standard timepris for konsulenttjenester i denne avtalen til grunn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.02837</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The parties may only transmit confidential information to such subcontractors and third parties to the extent necessary for the implementation of the Agreement, provided that these are subjected to a confidentiality obligation corresponding to that stipulated in the present clause 7.3.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Partene kan bare overf&#248;re taushetsbelagt informasjon til slike underleverand&#248;rer og tredjeparter i den utstrekning dette er n&#248;dvendig for gjennomf&#248;ring av avtalen, forutsatt at disse p&#229;legges plikt om konfidensialitet tilsvarende dette punkt 7.3.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.32512</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risk_assessment_vehicles_swedwatch_2020.pdf.converted</prop>
+     <seg>Thailand and Indonesia are dominating the production of natural rubber, followed by Vietnam, China, India and Malaysia.91 For more information on steel production, please view the risk assessment on Construction and landscaping.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/risikovurdering_for_brudd_pa_menneskerettigheter_i_produksjon_av_kjoretoy_swedwatch_2020.pdf.converted</prop>
+     <seg>Thailand og Indonesia er dominerende akt&#248;rer i produksjonen av naturgummi, etterfulgt av Vietnam, Kina, India og Malaysia.91 For mer informasjon om st&#229;lproduksjon, se risikovurderingen for bygg og anlegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.94769</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>A maximum financial limit for the Contractor's obligation to work out temporary solutions that work around errors in Standard software can be agreed in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Det kan i bilag 7 avtales en &#248;vre &#248;konomisk ramme for Leverand&#248;rens plikt til &#229; utarbeide midlertidige l&#248;sninger som dekker feil i Standardprogramvare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.55677</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risk_assessment_vehicles_swedwatch_2020.pdf.converted</prop>
+     <seg>In Thervoy, India, Michelin established a tire factory on land traditionally owned by indigenous Dalit people.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/risikovurdering_for_brudd_pa_menneskerettigheter_i_produksjon_av_kjoretoy_swedwatch_2020.pdf.converted</prop>
+     <seg>I Thervoy i India har Michelin bygget en dekkfabrikk p&#229; land som opprinnelig tilh&#248;rte Dalit-befolkningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">2.17432</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Unless the Customer renders written notice, within fourteen (14) calendar days of having received the notice, stating that the delivery of the deliverables shall recommence, the cancellation provisions of clause 2.7.2 shall apply correspondingly.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Dersom Kunden ikke innen 14 (fjorten) kalenderdager etter at varslet er mottatt, gir skriftlig melding om at leveransen skal gjenopptas, gjelder bestemmelsene om avbestilling i punkt 2.7.2 tilsvarende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.78407</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor's necessary and documented direct costs in relation to the reassignment of personnel, limited to a maximum of 30 days.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;rens n&#248;dvendige og dokumenterte direkte kostnader knyttet til omdisponering av personell, oppad begrenset til 30 dager</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.54429</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If errors or other problems arise before or during the warranty period that are due to issues for which the Customer bears the risk or responsibility, the Contractor must redeliver or help the Customer restore what was lost, if possible, including data, and at the ordinary rates for consideration stipulated in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Hvis det f&#248;r eller i garantiperioden oppst&#229;r feil eller andre problemer som skyldes forhold som Kunden har risikoen eller ansvaret for, skal Leverand&#248;ren om mulig og mot vanlig betaling etter bilag 7 omlevere eller bist&#229; Kunden med gjenoppretting av det som er tapt, inkludert data.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.07591</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The other party shall, if possible, be notified prior to the disclosure of such information.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Om mulig skal den annen part varsles f&#248;r slik informasjon gis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">3.44182</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>American chemistry council, retrieved 2017-11-28 162 Telephone conversation, Ingvar Lindh, Sherwin, 2017-11-27 163 Contacts with several Scandinavian office chair producers, November-December 2017 164</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>American chemistry council, hentet 2017-11-28 162 Telefonsamtale, Ingvar Lindh, Sherwin, 2017-11-27 163 Kontakt med flere skandinaviske kontorstol produsenter, November-December 2017 164</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.0867</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/it_risk_assessments_v3.pdf.converted</prop>
+     <seg>These including criteria on child labour, workers&#8217; rights, health and safety and the reduction of use of hazardous substances.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/2021-09/risikovurdering_for_brudd_pa_menneskerettigheter_i_it-produksjon.pdf.converted</prop>
+     <seg>De omfatter kriterier for barnearbeid, arbeidstakerrettigheter, helse og sikkerhet samt redusert bruk av farlige stoffer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.89526</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>Recycled plastics occur in details.169 Standardised parts (screws, spacers, washers) may be produced by small or medium-sized firms in Scandinavia, while more complex components like the foot base, cylinder, and wheels/castors can be 161</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>Resirkulert plast forekommer i detaljer.169 Standardiserte deler (skruer, avstandsstykker, skiver) kan v&#230;re produsert av sm&#229; eller mellomstore bedrifter i Skandinavia, mens mer komplekse komponenter som kryssfot, sylinder, og hjul/trinser kan 161</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">2.27176</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The Customer shall identify, in Appendix 1, which legal requirements, or requirements that are specific to the party in question, are of relevance to the conclusion and implementation of this Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Kunden skal i bilag 1 identifisere hvilke rettslige eller partsspesifikke krav som har relevans for inng&#229;else og gjennomf&#248;ring av denne avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.02477</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>In areas not covered by generalised collective wage agreements, the Contractor shall ensure that the same employees do not receive wages or have working conditions that are inferior to those stipulated in any applicable nationwide collective wage agreements relating to the relevant trade.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>P&#229; omr&#229;der som ikke er dekket av allmenngjort tariffavtale, skal Leverand&#248;ren s&#248;rge for at de samme ansatte ikke har d&#229;rligere l&#248;nns- og arbeidsvilk&#229;r enn det som f&#248;lger av gjeldende landsomfattende tariffavtale for den aktuelle bransje.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.26308</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risk_assessment_vehicles_swedwatch_2020.pdf.converted</prop>
+     <seg>Manufacturing in India, China and Thailand is also generally associated with risks.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/risikovurdering_for_brudd_pa_menneskerettigheter_i_produksjon_av_kjoretoy_swedwatch_2020.pdf.converted</prop>
+     <seg>Produksjon i India, Kina og Thailand er ogs&#229; generelt forbundet med risiko.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.07767</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If the Contractor fails to make such request without undue delay, the work shall be deemed to form part of the Contractor&#8217;s obligations pursuant to the Agreement, and the Contractor waives its right to invoke such work as grounds for extending deadlines, additional consideration or damages.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Unnlater Leverand&#248;ren &#229; fremsette slikt krav uten ugrunnet opphold, skal arbeidet anses &#229; v&#230;re en del av Leverand&#248;rens forpliktelse i henhold til avtalen, og Leverand&#248;ren taper sin rett til &#229; p&#229;berope seg arbeidet som grunnlag for fristforlengelse, ekstra vederlag eller erstatning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.21871</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>However, supply chains of components are highly complex, where a single mechanism can contain some 200 details, of which many are sourced from different subcontractors.165 Scandinavian assembly means that much metal predominantly originates in Sweden or Finland, with iron ore also sourced locally.166 Both aluminum and steel are frequently reproduced from scrap metal in Germany and Italy.167 The major Swedish steelworks claims hard coal is sourced from Australia and the USA, but Indonesia, Russia, South Africa and Mongolia are also global top exporters and supply chains are non-transparent.168 Plastics (shells, seat, foam, bellows, spacers) are typically injection molded by subcontractors in Scandinavia or Northern Europe.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>Leverand&#248;rkjedene til komponentene er imidlertid sv&#230;rt komplekse, og &#233;n enkelt mekanisme kan inneholde rundt 200 detaljer, hvorav mange er hentet fra ulike underleverand&#248;rer.165 I produkter som er montert i Skandinavia, kommer mye metall hovedsakelig fra Sverige eller Finland, og jernmalm hentes ogs&#229; lokalt.166 B&#229;de aluminium og st&#229;l blir ofte fremstilt p&#229; nytt fra skrapmetall i Tyskland og Italia.167 De store svenske st&#229;lverkene hevder at antrasitt blir hentet fra Australia og USA, men Indonesia, Russland, S&#248;r-Afrika og Mongolia er ogs&#229; store eksport&#248;rer p&#229; verdensbasis, og leverand&#248;rkjedene er ikke gjennomsiktige.168 Plast (skall, sete, skum, belger, avstandsstykker) er vanligvis injeksjonsst&#248;pt av underleverand&#248;rer i Skandinavia eller Nord-Europa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.48065</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>Right of disposal of software, etc.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Disposisjonsrett til programmer mv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.21974</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/maps_norway.pdf.converted</prop>
+     <seg>Influence by central bodies like Difi is based on voluntary uptake of Difi&#8217;s guidance and advice.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/lo.pdf.converted</prop>
+     <seg>LO &#248;nskes samtidig &#229; peke p&#229; at klima- og milj&#248;hensyn, og innovasjon m&#229; sees i sammenheng.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">3.28983</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The other party must respond to the notice within five (5) Working days.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Varselet skal besvares av den andre parten innen 5 (fem) Virkedager.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.17165</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>A corresponding obligation shall apply if additional delays are to be expected after the first notice has been given.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Tilsvarende gjelder hvis det m&#229; antas ytterligere forsinkelser etter at f&#248;rste varsel er gitt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.03017</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Costs associated with drawing up a change estimate are not covered by the Customer if a change order in accordance with clause 3.4 is not issued.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Kostnader i forbindelse med utarbeidelse av endringsoverslag dekkes ikke av Kunden dersom det ikke utstedes en endringsordre i henhold til punkt 3.4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.82861</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If the parties do not agree to continue the project within thirty (30) days of the written notice in accordance with the paragraph above, the party that demands the Exit may withdraw from the Agreement with immediate effect.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Dersom partene ikke kommer til enighet om &#229; videref&#248;re prosjektet innen 30 (tretti) kalenderdager etter skriftlig varsel i henhold til avsnittet ovenfor, kan den part som krever Exit, tre ut av avtalen med umiddelbar virkning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.082</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The liquidated damages amount to 0.15 per cent of the total consideration payable for the deliverables (the contract price), excluding Value Added Tax, for each calendar day of delay, but albeit limited to a maximum of one hundred (100) calendar days.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Dagboten utgj&#248;r 0,15 % av samlet vederlag for leveransen (kontraktssummen) ekskl. merverdiavgift for hver kalenderdag forsinkelsen varer, men begrenset til maksimalt 100 (hundre) kalenderdager.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.93336</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>To the extent that Standard software included in the deliverables must be delivered under standard licence terms and conditions and agreement terms and conditions (licence terms and conditions), this shall be explicitly stated in a separate chapter in Appendix 2, and copies of the licence terms and conditions shall be appended as Appendix 10.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>I den utstrekning standard programvare som er omfattet av Leveransen m&#229; leveres under standard lisensbetingelser og avtalevilk&#229;r (lisensbetingelser), skal dette v&#230;re uttrykkelig angitt i et eget kapittel i bilag 2 og kopier av lisensbetingelsene skal v&#230;re vedlagt bilag 10.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Each party is responsible for the follow-up of its own duties pursuant to such legal requirements.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Hver av partene har ansvar for &#229; f&#248;lge opp sine respektive plikter i henhold til slike rettslige krav.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">1.02736</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If such errors as those mentioned in this paragraph result in the Customer deciding to postpone the start of the approval period, the Contractor may not demand consideration for this postponement, even if a change order is issued pursuant to clause 2.5.2, paragraph one.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Hvis feil som nevnt i dette avsnittet f&#248;rer til at Kunden beslutter &#229; utsette oppstart av godkjenningsperioden, kan Leverand&#248;ren ikke kreve vederlag for denne utsettelsen selv om det utstedes endringsordre i henhold til punkt 2.5.2 f&#248;rste avsnitt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.44652</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>Vitra, both retrieved 2017-12-04; email, Geir Hovland, Senab Eikeland, 2017-12-08 165 Telephone conversation, large Scandinavian metal supplier A, 2017-11-27 166 Telephone conversation, Andreas Alm, Tibnor, 2017-11-24 167 Telephone conversation, large Scandinavian metal supplier A, 2017-11-27 168</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>Vitra, begge hentet 2017-12-04; E-post, Geir Hovland, Senab Eikeland, 2017-12-08 165 Telefonsamtale, st&#248;rre skandinavisk metall leverand&#248;r A, 2017-11-27 166 Telefonsamtale, Andreas Alm, Tibnor, 2017-11-24 167 Telefonsamtale, st&#248;rre skandinavisk metall leverand&#248;r A, 2017-11-27 168</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.18456</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>There is breach of contract on the part of the Customer if the Customer fails to perform its duties under the Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Det foreligger mislighold fra Kundens side hvis Kunden ikke oppfyller sine plikter etter avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.56992</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>An approval period will begin after Commissioning, in accordance with clauses 2.5.2&#8211;2.5.5.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Fra Produksjonssetting l&#248;per en godkjenningsperiode i henhold til punkt 2.5.2&#8211;2.5.5.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.98207</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>After the Exit opportunity, as stipulated in clause 2.7.1, has lapsed, the Customer may cancel, in whole or in part, the items contracted under this Agreement on one (1) month's written notice.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Etter at Exit-muligheten som angitt i punkt 2.7.1 er opph&#248;rt, kan Kunden helt eller delvis avbestille leveransen under denne Avtalen med 1 (&#233;n) m&#229;neds skriftlig varsel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.14369</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risk_assessment_construction_and_landscaping_2020.pdf.converted</prop>
+     <seg>43 Import is nevertheless growing, and in 2019, 95 percent of the imported wood originated from Sweden.44 In addition, Norway imports coniferous lumber and sawn wood from several other countries, including Finland, Denmark, Germany and the Baltic states.45 Non-coniferous lumber is imported from European countries mainly, but is also imported from Asian countries such as Malaysia and the United States.46 It is important to keep in mind that exporting countries also import raw lumber, which could be re-exported.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/risikovurdering_for_brudd_pa_menneskerettigheter_i_produksjon_av_bygg_og_anleggsmaterialer_swedwatch_2020.pdf.converted</prop>
+     <seg>43 Likevel &#248;ker importen, og i 2019 hadde 95 prosent av importert trevirke Sverige som opphavsland.44 Norge importerer i tillegg trelast og sagt&#248;mmer fra barskog fra flere andre land, inkludert Finland, Danmark, Tyskland og Baltikum.45 Trelast fra annen skog enn barskog importeres hovedsakelig fra land i Europa, men ogs&#229; fra land som Malaysia i Asia, og fra USA.46 Det er viktig &#229; huske p&#229; at eksportland ogs&#229; importerer r&#229;t&#248;mmer, som kan reeksporteres.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.28085</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018-english.docx.converted</prop>
+     <seg>The responsibility of the Contractor for its performance</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>S&#229; lenge dagboten l&#248;per, kan Kunden ikke heve avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.02857</prop>
+    <prop type="score-bicleaner">0.708</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>- The documentation being incomplete or imprecise.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>- Dokumentasjonen er mangelfull eller upresis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.13649</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>All plastics come from granules made up of basic resins and additives such as antioxidants, colourants, foaming agents, plasticizers, lubricants and flame retardants.161</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>All plast kommer fra granulater best&#229;ende av basisk harpiks og tilsetningsstoffer som antioksidanter, fargestoffer, skumdannere, plastifiseringsmidler, sm&#248;remidler og flammehemmere.161</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">1.17775</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>If legal requirements that are applicable to the deliverables are changed after the Agreement has been concluded, but before the delivery date, the Customer may request that the necessary changes be made to ensure compliance with the new requirements.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Hvis det inntreffer endringer i rettslige krav som er relevante for leveransen, etter at kontrakten ble inng&#229;tt, men f&#248;r leveringsdag, kan Kunden be om &#229; f&#229; gjennomf&#248;rt de endringer som er n&#248;dvendige for &#229; overholde de nye kravene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">1.16895</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>The global petrochemical industry, as well as the extraction of oil, gas, hard coal, bauxite, urea, lime and other furniture raw materials, are characterised by near-zero traceability.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>Den globale petrokjemiske industrien, samt utvinningen av olje, gass, antrasitt, bauksitt, urea, kalk og andre r&#229;varer for m&#248;bler, er preget av n&#230;r null sporbarhet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.04333</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>At a minimum, the study shall include the following:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Utredningen skal minimum omfatte f&#248;lgende punkter:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">1.15416</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The deliverables shall be tested and approved pursuant to this Agreement's provisions governing testing and approval, independent of what may follow from the Software's licence terms and conditions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leveransen skal testes og godkjennes i henhold til denne avtalens bestemmelser om test og godkjenning uavhengig av hva som m&#229;tte f&#248;lge av programvarens lisensbetingelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.72184</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Hourly rates charges for services may be adjusted at the beginning of every calendar year by an amount equivalent to the increase in the retail price index (the main index) of Statistics Norway, with the initial reference index value being the index value for the month in which the Agreement was formed, unless a different index value is agreed in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Timepris for tjenester kan endres hvert &#229;rsskifte tilsvarende &#248;kningen i Statistisk sentralbyr&#229;s konsumprisindeks (hovedindeksen), f&#248;rste gang med utgangspunkt i indeksen for den m&#229;ned avtalen ble inng&#229;tt, med mindre annen indeks er avtalt i bilag 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">2.17734</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>All prices are quoted in Norwegian kroner unless the Customer has, in Appendix 7, agreed that prices for components that are delivered from abroad may be stated in a foreign currency.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Alle priser er i norske kroner med mindre Kunden i bilag 7 har &#229;pnet for at priser p&#229; komponenter som leveres fra utlandet, kan oppgis i utenlandsk valuta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.00926</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/maps_norway.pdf.converted</prop>
+     <seg>The Office of Auditor General is tasked with auditing also public procurement processes; this</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/lo.pdf.converted</prop>
+     <seg>Gr&#248;nne og innovative innkj&#248;p setter krav til h&#248;y kompetanse og profesjonalitet hos den enkelte innkj&#248;per.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.00281</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>If there is a material breach of contract, the other party may, after giving the party that is in breach of contract written notice and a reasonable deadline for remedying the situation, terminate the Agreement for breach with immediate effect.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Dersom det foreligger vesentlig mislighold, kan den annen part etter &#229; ha gitt den misligholdende part skriftlig varsel og rimelig frist til &#229; bringe forholdet i orden, heve avtalen med &#248;yeblikkelig virkning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">3.55106</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018-english.docx.converted</prop>
+     <seg>The Contractor shall make such documentation as stipulated in Appendix 6 available to the Customer.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Underleverand&#248;r som er godkjent, skal angis i bilag 6.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.0191</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>Nevertheless, there is no breach of contract if the situation is caused by circumstances related to the Customer or by force majeure.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Det foreligger likevel ikke mislighold hvis situasjonen skyldes Kundens forhold eller force majeure.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.00254</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>To the extent that the Customer is a public body, the Customer may assign, in full or in part, its rights and obligations under this Agreement to another Norwegian public body, which shall then be entitled to corresponding terms and conditions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>I den grad Kunden er en offentlig virksomhet, kan Kunden helt eller delvis overdra sine rettigheter og plikter etter avtalen til annen norsk offentlig virksomhet, som da er berettiget til tilsvarende vilk&#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">2.07203</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If the Customer wants to execute a change, the Customer shall send the Contractor a change request in accordance with the procedure agreed in Appendix 9.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Dersom Kunden &#248;nsker &#229; f&#229; utf&#248;rt en endring, skal Kunden sende Leverand&#248;ren en endringsanmodning i henhold til prosedyre avtalt i bilag 9.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">2.38682</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Customer shall identify, in Appendix 1, which legal requirements that are specific to the party in question, are of relevance to the conclusion and implementation of this Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Kunden skal i bilag 1 identifisere hvilke partsspesifikke rettslige krav som har relevans for inng&#229;else og gjennomf&#248;ring av denne Avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">1.06201</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Errors in Standard software such as those mentioned in the second to last paragraph shall not be included in the assessment of whether or not the Acceptance criteria or Pass/fail criteria have been fulfilled, unless the Contractor has failed to perform its duties in respect of following up the error rectification and installing the rectified version.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Slike feil i Standardprogramvare som er nevnt i nest siste avsnitt regnes ikke med ved vurderingen av om Akseptansekriterier eller Godkjenningskriterier er oppfylt, med mindre Leverand&#248;ren har misligholdt sin plikt til &#229; f&#248;lge opp feilrettingen og installasjon av den feilrettede versjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">1.84468</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Persons designated as key personnel in Appendix 4 shall not, within the scope of the Contractor&#8217;s managerial prerogative as employer, be replaced without the prior approval of the Customer.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Personer som i bilag 4 er spesifisert som n&#248;kkelpersonell, skal, innen rammen av Leverand&#248;rens styringsrett som arbeidsgiver, ikke kunne skiftes ut uten forutg&#229;ende godkjenning fra Kunden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.10215</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The Contractor shall ensure that no free software is being used under licence terms that are incompatible with the requirements applicable to the deliverables, or incompatible with the licence terms governing other software that forms part of the deliverables.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal p&#229;se at det ikke benyttes fri programvare med lisensbetingelser som er uforenlige med kravene til leveransen, eller som er uforenlige med lisensbetingelsene som gjelder for annen programvare som inng&#229;r i leveransen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1.02178</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If it is not possible for the Contractor to perform its contractual obligations due to a lack of participation by the Customer, the Contractor shall have the right to demand that the Customer temporarily suspend the Agreement pursuant to the provisions in clause 2.7.3.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Dersom det ikke er mulig for Leverand&#248;ren &#229; utf&#248;re sine plikter etter Avtalen p&#229; grunn av manglende medvirkning fra Kunden, har Leverand&#248;ren rett til &#229; kreve at Kunden midlertidig stanser Avtalen etter bestemmelsene i punkt 2.7.3.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.07187</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Together with the change order request, the Contractor shall provide the Customer with a study of relevant risk and change consequences, as well as a price estimate (change estimate) pursuant to clause 3.3.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal sammen med krav om endringsordre sende Kunden utredning av aktuelle risiko- og endringskonsekvenser, og gi et prisestimat (endringsoverslag) i henhold til punkt 3.3.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1.15008</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>There is also a breach of contract if the Contractor fails to perform other duties under the Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Det foreligger ogs&#229; mislighold dersom Leverand&#248;ren ikke oppfyller &#248;vrige plikter etter avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">4.3</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>Other approval criteria may be agreed in Appendix 5.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Andre godkjenningskriterier kan avtales i bilag 5.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">1.34128</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If the Exit was initiated by the Contractor, the Contractor cannot claim consideration for work that has already been performed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Ved Exit initiert av Leverand&#248;ren kan Leverand&#248;ren ikke kreve vederlag for allerede utf&#248;rt arbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">1.42308</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>Such information shall be disclosed as soon as possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Slik informasjon skal gis s&#229; raskt som mulig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">1.15272</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>The raw materials for these are mainly oil and gas, fatty acids from animals and plants and cellulose.162</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>R&#229;varene til disse er hovedsakelig olje og gass, fettsyrer fra dyr og planter og cellulose.162</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">1.67927</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor is responsible for ensuring the deliverables covering the needs and solution specification in Appendices 1 and 2, with any changes in Appendix 9, albeit so that the detailed specification and Pass/fail criteria provide the final specification of what will be delivered for the areas they cover.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren har ansvar for at leveransen dekker behovs- og l&#248;sningsbeskrivelsen i bilag 1 og 2 med eventuelle endringer i bilag 9, likevel slik at detaljspesifikasjonen og godkjenningskriteriene skal utgj&#248;re den endelige spesifisering av hva som skal leveres for de omr&#229;dene de dekker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.02333</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The Customer is granted a limited right of disposal in respect of the software and documentation that forms part of the deliverables.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Kunden f&#229;r en begrenset disposisjonsrett til programvaren og dokumentasjonen som inng&#229;r i leveransen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">1.2125</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Unless another bonus system is specified in Appendix 7, there shall be two main types of bonus: completion bonuses and bonuses that are paid out underway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Med mindre annen bonusordning er angitt i bilag 7, skal det v&#230;re to hovedtyper bonus; sluttbonus og bonus som utbetales underveis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">2.09793</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/it_risk_assessments_v3.pdf.converted</prop>
+     <seg>must commit to the organisation&#8217;s &#8217;10 principles&#8217; on human rights, development and the environment.8 Their members include 25 of the world&#8217;s biggest mining companies.9</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/2021-09/risikovurdering_for_brudd_pa_menneskerettigheter_i_it-produksjon.pdf.converted</prop>
+     <seg>m&#229; forplikte seg til &#229; f&#248;lge organisasjonens &#171;10 prinsipper&#187; for menneskerettigheter, utvikling og milj&#248;.8 Medlemmene omfatter 25 av verdens st&#248;rste gruveselskaper.9</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">3.01399</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The scope of such assistance, as well as any additional consideration, shall be specified in Appendix 4.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Omfanget av slik bistand, samt eventuelt vederlag, avtales n&#230;rmere i bilag 4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.76595</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor shall not be obliged to carry out additional work that represents, in aggregate, a net addition of more than fifteen (15) per cent to the Estimated total cost, other than in the case of a disputed change order pursuant to clause 3.9.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren er ikke forpliktet til &#229; utf&#248;re endringsarbeider som samlet utgj&#248;r mer enn 15 (femten) prosent netto tillegg til Estimert Totalkost, med mindre det er snakk om en omtvistet endringsordre etter punkt 3.9.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.01603</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The Contractor shall only use free software that does not, based on a sound assessment on the part of the Contractor, infringe third-party rights, and that is offered under generally recognised licences for free software.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal bare benytte fri programvare som etter en forsvarlig vurdering fra Leverand&#248;rens side ikke krenker tredjeparts rettigheter, og som tilbys under alminnelig anerkjente frie programvarelisenser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">5.67187</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>Norsk Hydro, retrieved 2017-11-28</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>Norsk Hydro, hentet 2017-11-28</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">3.44523</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The overview shall be included as a separate chapter in Appendix 2.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Oversikten inntas i et eget kapittel i bilag 2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">2.39408</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>All prices and the detailed terms governing the consideration to be paid by the Customer for the deliverables provided by the Contractor are set out in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Alle priser og n&#230;rmere betingelser for det vederlaget som Kunden skal betale for Leverand&#248;rens ytelser, fremg&#229;r av bilag 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">2.42481</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Customer shall be responsible for specifying, in Appendix 1, any relevant functional and security requirements that are applicable to the deliverables.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Det er herunder Kundens ansvar &#229; konkretisere relevante funksjonelle og sikkerhetsmessige krav for leveransen i bilag 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">1.35698</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>Components include the seat, back, optional headrest and arms, their support frames, several paddings, the cylinder/gas lift, footbase (in metal or plastic), wheels/castors and motion mechanisms, as well as standardised parts like straps, screws and spacers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>Komponentene inkluderer setet, ryggen, valgfri nakkest&#248;tte og armlener, st&#248;tterammene til disse, flere polstringer, sylinder-/gasslift, kryssfot (i metall eller plast), hjul/trinser og bevegelsesmekanismer, samt standardiserte deler som stropper, skruer og avstandsstykker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">2.59157</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The right of disposal shall apply as from signing of the Agreement, without any time limitation or right of termination, unless otherwise agreed in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Disposisjonsretten l&#248;per fra avtalens undertegning, uten noen tidsbegrensning eller oppsigelsesadgang, med mindre annet er avtalt i bilag 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.26218</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The confidentiality obligation shall lapse five (5) years after the delivery date, unless otherwise stipulated by law or regulation. Form of communication - in writing</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Taushetsplikten opph&#248;rer fem (5) &#229;r etter leveringsdag, med mindre annet f&#248;lger av lov eller forskrift. Skriftlighet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">1.14985</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>Surface treatments, including chrome plating, powder coating and painting, lacquering etc. involve complex use of binders, solvents, pigments and possibly additives.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>Overflatebehandlinger, blant annet forkromming, pulvermaling og maling, lakkering osv., involverer kompleks bruk av bindemidler, l&#248;semidler, pigmenter og muligens tilsetningsstoffer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">1.75102</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Software and other equipment with which it shall be compatible, and any Software and equipment that shall be used during the development and testing of the deliverables, are described in Appendix 3.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Programvare og annet utstyr som skal fungere sammen med, og programvare og utstyr som eventuelt skal brukes under utvikling og testing av leveransen, er beskrevet i bilag 3.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">2.1366</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>If the Customer rejects the deliverables, notification of this shall be sent to the Contractor by no later than ten (10) working days after the end of the approval test.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Hvis Kunden underkjenner leveransen, m&#229; melding om dette v&#230;re sendt Leverand&#248;ren innen 10 (ti) virkedager etter utl&#248;pet av godkjenningspr&#248;ven.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">1.59381</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>A party may, if deemed necessary by it, convene, with no less than three (3) Working days&#8217; notice, a meeting with the other party to discuss the contractual relationship and how the contractual relationship is being handled.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Dersom en part finner det n&#248;dvendig, kan parten med minst 3 (tre) Virkedagers varsel innkalle til m&#248;te med den annen part for &#229; dr&#248;fte avtaleforholdet og m&#229;ten avtaleforholdet blir gjennomf&#248;rt p&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">1.95566</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If no ruling from an independent expert or mediator has been requested and no legal proceedings have been instituted in respect of the work occasioned by the change within six (6) months after the Delivery date or the date on which notice of termination for breach or cancellation was received by the Contractor, the consideration paid shall be deemed to be final.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Dersom det ikke er krevd avgj&#248;relse fra en uavhengig ekspert eller mekler eller reist s&#248;ksm&#229;l for endringsarbeidet innen 6 (seks) m&#229;neder etter leveringsdagen eller den dagen varsel om heving eller avbestilling ble mottatt av Leverand&#248;ren, skal det utbetalte vederlaget anses som endelig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">1.25217</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_furniture_2017.pdf.converted</prop>
+     <seg>Some producers import key components from EU countries, North America and Asia.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/mobler_swedwatch.pdf.converted</prop>
+     <seg>Enkelte produsenter importerer n&#248;kkelkomponenter fra EU-land, Nord-Amerika og Asia.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">1.30629</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The parties shall, in connection with force majeure situations, have a mutual disclosure obligation towards each other concerning all matters that must be deemed relevant to the other party.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>I forbindelse med force majeure-situasjoner har partene gjensidig informasjonsplikt overfor hverandre om alle forhold som m&#229; antas &#229; v&#230;re av betydning for den annen part.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">1.31163</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>- Error that results in the stoppage of the software or equipment, a loss of data, or in other functions that, based on an objective assessment, are of critical importance to the Customer not being delivered or not working as agreed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>- Feil som medf&#248;rer at utstyret eller programvaren stopper, at data g&#229;r tapt, eller at andre funksjoner som ut fra en objektiv vurdering er kritiske for Kunden, ikke er levert eller ikke virker som avtalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">1.95645</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If the delivery of the deliverables has been continuously suspended for more than one hundred and twenty (120) calendar days, the Contractor may terminate the Agreement without cause by written notice to the Customer.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Dersom leveransen har v&#230;rt stanset sammenhengende i mer enn 120 (hundre og tjue) kalenderdager, kan Leverand&#248;ren med skriftlig varsel til Kunden si opp avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">3.54857</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Routines for this shall be set out in Appendix 9.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Rutiner for dette skal fremg&#229; av bilag 9.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">1.5402</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>As regards the parts of the deliverables that are based on free software, including customisations and further developments of the free software, the Customer shall be granted the rights that are necessary to distribute the results further under the relevant free software licence or under a compatible free software licence if this is stipulated in Appendix 1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>For de deler av leveransen som er basert p&#229; fri programvare, herunder tilpasning og videreutvikling av denne, f&#229;r Kunden de rettigheter som er n&#248;dvendige for &#229; kunne videredistribuere resultatet under den aktuelle frie programvarelisensen, eller under en kompatibel fri programvarelisens hvis dette er spesifisert i bilag 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">1.86081</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>If the agreed date of delivery (delivery date) or other deadline in respect of which the parties have stipulated liquidated damages in Appendix 4 is not complied with, and this is not caused by force majeure or circumstances on the part of the Customer, there is a delay on the part of the Contractor that triggers liquidated damages.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Blir ikke avtalt tidspunkt for levering (leveringsdag), eller annen frist som partene i bilag 4 har knyttet dagb&#248;ter til, overholdt, og det ikke skyldes force majeure eller Kundens forhold, foreligger en forsinkelse fra Leverand&#248;rens side som gir grunnlag for dagbot.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">1.74949</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Contractor&#8217;s project manager, cf. clause 2.2.1, and other key personnel are specified in Appendix 4.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;rens prosjektleder jf. punkt 2.2.1 og &#248;vrig n&#248;kkelpersonell er angitt i bilag 4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">1.21034</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>- Error that results in individual functions not working as agreed, but which can be worked around with relative ease by the Customer.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>- Feil som f&#248;rer til at enkeltfunksjoner ikke virker som avtalt, men som Kunden relativt lett kan omg&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">4.55333</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The amount shall be specified in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Bel&#248;pet skal v&#230;re angitt i bilag 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">1.00147</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018-english.docx.converted</prop>
+     <seg>Changes and additions to the Agreement may be made in all phases of the Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Utlegg, herunder reise- og diettkostnader, dekkes bare i den grad de er avtalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">3.47979</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Subcontractors that are approved shall be specified in Appendix 4.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Underleverand&#248;r som er godkjent, skal angis i bilag 4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">2.35839</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Appendix 2 may specify detailed requirements for the maintenance of equipment that must be performed for the warranty to remain valid.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>For utstyr vil det i bilag 2 kunne spesifiseres n&#230;rmere krav til vedlikehold som m&#229; v&#230;re utf&#248;rt for at garantien skal gjelde.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">1.04645</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>In respect of areas covered by the Regulations relating to Generalised Collective Wage Agreements, the Contractor shall ensure that its and any subcontractors' employees who contribute directly to the performance of the Contractor&#8217;s obligations under the Agreement do not receive wages or have working conditions that are inferior to those stipulated in the Regulations relating to Generalised Collective Wage Agreements.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Leverand&#248;ren skal p&#229; omr&#229;der dekket av forskrift om allmenngjort tariffavtale s&#248;rge for at egne og eventuelle underleverand&#248;rers ansatte som direkte medvirker til &#229; oppfylle Leverand&#248;rens forpliktelser under denne avtalen, ikke har d&#229;rligere l&#248;nns- og arbeidsvilk&#229;r enn det som f&#248;lger av forskriften som allmenngj&#248;r tariffavtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">2.43785</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>Consideration payable in respect of software and equipment shall be invoiced when delivery is deemed to have taken place pursuant to clause 2.1.5, unless otherwise is stipulated in Appendix 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Vederlag for programvare og utstyr faktureres p&#229; det tidspunkt levering anses skjedd i henhold til punkt 2.1.5, med mindre annet fremkommer i bilag 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">1.0437</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/it_risk_assessments_v3.pdf.converted</prop>
+     <seg>is a certification scheme for IT products, including monitors, laptops, tablets, smartphones, desktops, all-in-one PCs, projectors and headsets.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/2021-09/risikovurdering_for_brudd_pa_menneskerettigheter_i_it-produksjon.pdf.converted</prop>
+     <seg>er en sertifiseringsordning for IT-produkter som inkluderer dataskjermer, b&#230;rbare datamaskiner, nettbrett, smarttelefoner, stasjon&#230;re datamaskiner, alt-i-ett-PC-er, projektorer og hodetelefoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">1.44304</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>In the event of late payment, the Contractor shall be entitled to late payment interest pursuant to clause 3.3.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Ved forsinket betaling har Leverand&#248;ren krav p&#229; forsinkelsesrente i henhold til punkt 3.3.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">1.86084</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risk_assessment_vehicles_swedwatch_2020.pdf.converted</prop>
+     <seg>The factory was criticised for having deprived 6000 persons of their means of livelihood when forests were cut down, water sources dried out and pastureland destroyed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/risikovurdering_for_brudd_pa_menneskerettigheter_i_produksjon_av_kjoretoy_swedwatch_2020.pdf.converted</prop>
+     <seg>Fabrikken ble kritisert for &#229; ha tatt levebr&#248;det fra 6000 personer da skogene ble hogget ned, vannkilder t&#248;rket ut og beitemarker ble &#248;delagt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">1.00703</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/en/public-procurement/social-dumping/how-stipulate-and-follow-requirements-pay-and-working-conditions/contract-follow/routines-and-responsibilities</prop>
+     <seg>Difi recommends incorporating the pay and working conditions requirements in documents regarding routines, such as handbooks and checklists.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/innkjopsledelse/kategoristyring/krav-til-organisasjonen</prop>
+     <seg>Kategoristyring stiller krav til nye roller og omfordeling av ansvar, og det krever kommunikasjon og ivaretakelse av medarbeidere som blir ber&#248;rt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">3.11469</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If no maintenance agreement has been concluded, the performance level during the warranty period shall be specified in Appendices 1 and/or 2.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Dersom vedlikeholdsavtale ikke er inng&#229;tt, skal ytelsesniv&#229;et i garantiperioden spesifiseres i bilag 1 og/eller bilag 2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">1.37335</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/maps_norway.pdf.converted</prop>
+     <seg>Contracting authorities, irrespective of their governmental level, are not obliged to submit data to the central level.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/lo.pdf.converted</prop>
+     <seg>Gr&#248;nne og innovative anskaffelser vil v&#230;re et stort og viktig bidrag i arbeidet mot et kliman&#248;ytralt samfunn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">1.16887</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>Other terms and conditions of the Agreement shall apply to change orders as well, unless otherwise explicitly stated in the change order.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>&#216;vrige betingelser i avtalen gjelder ogs&#229; for endringsordrer hvis det ikke uttrykkelig er sagt noe annet i endringsordren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">1.07857</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risk_assessment_conflict_minerals_2020_swedwatch_1.pdf.converted</prop>
+     <seg>According to information from the ICT industry, work has also begun to trace three other problematic minerals: cobalt, mica and lithium.15 On January 2021 the EU conflict mineral regulation will come into force.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risikovurdering_for_brudd_pa_menneskerettigheter_ved_utvinning_av_konfliktmineraler_swedwatch_2020.pdf.converted</prop>
+     <seg>If&#248;lge informasjon fra IKT-industrien har en ogs&#229; begynt &#229; spore tre andre problematiske mineraler: kobolt, glimmer og litium.15 I januar 2021 trer EU-forordningen om konfliktmineraler i kraft.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">1.22216</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/risk_assessment_construction_and_landscaping_2020.pdf.converted</prop>
+     <seg>For example, SCA, one of Sweden&#8217;s largest wood product producers, imports a smaller share of its raw material from Finland, Norway, the Baltic States, Poland, Spain and Scotland.47 On the global market, China is by far the largest producer and exporter of plywood, followed by Russia, Indonesia, Brazil and Malaysia.48 According to the Observatory of Economic Complexity - a database which visualises world trade data of numerous products - plywood is mainly imported to Norway from Finland, Latvia, Russia, China and Chile.49 Plywood may contain a core of Chinese poplar or eucalyptus, with layers of tropical hardwood from high-risk areas such as Papua New Guinea or African countries.50 MDF boards are mainly produced in Europe.51</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/risikovurdering_for_brudd_pa_menneskerettigheter_i_produksjon_av_bygg_og_anleggsmaterialer_swedwatch_2020.pdf.converted</prop>
+     <seg>For eksempel importerer SCA, en av Sveriges st&#248;rste trelastprodusenter, en liten del av r&#229;varene sine fra Finland, Norge, Baltikum, Polen, Spania og Skottland.47 P&#229; det globale markedet er Kina den klart st&#248;rste produsenten og eksport&#248;ren av kryssfiner, etterfulgt av Russland, Indonesia, Brasil og Malaysia.48 If&#248;lge Observatory of Economic Complexity, en database som visualiserer verdenshandelsdata av en rekke produkter, importeres kryssfiner til Norge hovedsakelig fra Finland, Latvia, Russland, Kina og Chile.49 Kryssfiner kan ha en kjerne av kinesisk poppel eller eukalyptus, med utenp&#229;liggende lag av tropisk l&#248;vtre fra h&#248;yrisikoomr&#229;der som Papua Ny-Guinea eller afrikanske land.50 MDF-platene produseres hovedsakelig i Europa.51</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">1.09989</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If the Contractor has requested the Customer to issue a change order pursuant to clause 3.8, the Customer shall, within a reasonable period of time, issue a change order pursuant to clause 3.4, or issue a written waiver of the request.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Dersom Leverand&#248;ren har krevd at Kunden utferdiger endringsordre i henhold til punkt 3.8, skal Kunden innen rimelig tid utstede endringsordre i henhold til punkt 3.4 eller skriftlig frafalle kravet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">1.06895</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/riskassessment_medical_supplies_2017_.pdf.converted</prop>
+     <seg>China is considered to produce most of the foam cores for polyurethane dressings, while the end-product is commonly made in China, Great Britain, USA and Finland.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/medisinsk_forbruksmateriell_swedwatch.pdf.converted</prop>
+     <seg>Kina anses &#229; produsere mesteparten av skumkjernene til bandasjer i polyuretan, mens sluttproduktet vanligvis er laget i Kina, Storbritannia, USA og Finland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">1.28861</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>The Exit arrangement is in addition to the ordinary cancellation provision in clause 2.7.2.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Exit-ordningen kommer i tillegg til den ordin&#230;re avbestillingsbestemmelsen i punkt 2.7.2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="170" datatype="Text">
+    <prop type="score-hunalign">1.00136</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The right to assignment in the paragraph above shall only apply if the new contractor meets the original qualification requirements, no other material changes are made to the contract, and the assignment is not made to circumvent the regulations concerning public procurement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Retten til overdragelse i avsnittet over gjelder kun hvis den nye leverand&#248;ren oppfyller de opprinnelige kvalifikasjonskravene, det ikke foretas andre vesentlige endringer i kontrakten og overdragelse ikke skjer for &#229; omg&#229; regelverket om offentlige anskaffelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="171" datatype="Text">
+    <prop type="score-hunalign">1.04211</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-engelsk_2018.12.docx.converted</prop>
+     <seg>The Customer shall pay the agreed price for the part of the deliverables that was performed prior to the Agreement coming to an end.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-k_generell_avtaletekst_2018-bok.docx.converted</prop>
+     <seg>Kunden betaler avtalt pris for den del av leveransen som var kontraktsmessig levert f&#248;r avtalen ble avsluttet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="172" datatype="Text">
+    <prop type="score-hunalign">1.18977</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018-english.docx.converted</prop>
+     <seg>any amount due to the Contractor in respect of the part of the operational deliverables that has already been performed,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>til maskinvare, infrastruktur, programvare og dokumentasjon som de benytter i avtaleforholdet, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="173" datatype="Text">
+    <prop type="score-hunalign">1.14276</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/maps_norway.pdf.converted</prop>
+     <seg>Appeals and remedies are handled by regular courts as well as by the Norwegian complaints</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://anskaffelser.no/sites/default/files/lo.pdf.converted</prop>
+     <seg>LO &#248;nsker i den forbindelse &#229; vise til opprettelsen av Anskaffelsesakademiet som et viktig skritt i denne retningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="174" datatype="Text">
+    <prop type="score-hunalign">1.08491</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018-english_0.docx.converted</prop>
+     <seg>If the deliverables deviate from what was agreed under this Agreement, it shall be the responsibility of the Contractor to rectify the deviation in such a way as to make the deliverables conform to what was agreed, even if such deviation is caused by factors in Standard software that are subject to licence terms and conditions that include different provisions on the rectification of errors.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-s_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>Hvis leveransen avviker fra det som er avtalt i henhold til denne avtalen, er det Leverand&#248;rens ansvar &#229; avhjelpe avviket p&#229; en slik m&#229;te at leveransen bringes i overensstemmelse med det som er avtalt, selv om avviket skyldes forhold i Standardprogramvare som er underlagt lisensbetingelser med avvikende betingelser for feilretting.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="175" datatype="Text">
+    <prop type="score-hunalign">3.87059</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018-english.docx.converted</prop>
+     <seg>Appendix 2 may describe a recommended upgrading schedule.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://anskaffelser.no/sites/default/files/ssa-d_generell_avtaletekst_2018_bok.docx.converted</prop>
+     <seg>N&#230;rmere krav til Kundens medvirkning kan spesifiseres i bilag 2.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

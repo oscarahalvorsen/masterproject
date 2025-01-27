@@ -1,0 +1,3107 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221219T002442" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.15664</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/The-Norwegian-History/</prop>
+     <seg>A constitutional law was formed and signed and the Swedish king Karl Johan came to Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Norges-historie/</prop>
+     <seg>En grunnlov ble utformet og undertegnet, og svenske kong Karl Johan kom til Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.75609</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <seg>reach the age of 18 in the election year and have Norwegian citizenship.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>Du fyller 18 &#229;r valg&#229;ret og har norsk statsborgerskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">6.276</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Emegency-telephone-numbers/</prop>
+     <seg>Fires and major accidents &#8211; 110</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Nodnummer/</prop>
+     <seg>Varsle brannvesenet p&#229; 110.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">3.71667</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Old-age-pension1/Old-age-pension/</prop>
+     <seg>Everyone can receive a retirement pension on reaching the age of 67.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Alderspensjon/Alderspensjon1/</prop>
+     <seg>Alle kan f&#229; alderspensjon fra fylte 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.00522</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/Toll-roads/</prop>
+     <seg>If you receive a bill that you do not agree with, you must first complain to the toll company.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Bomveier/</prop>
+     <seg>Hvis du har f&#229;tt en regning du ikke er enig i, m&#229; du f&#248;rst klage til bomselskapet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.254</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Politics/</prop>
+     <seg>As an independent nation, Norway is a member of international organisations such as the United Nations (UN) and NATO, but it is not part of the European Union (EU).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Politikk/</prop>
+     <seg>Som selvstendig stat er Norge medlem i internasjonale organisasjoner som De forente nasjoner (FN) og NATO, men deltar ikke i Den europeiske unionen (EU).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.46887</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Public-agencies/The-Norwegian-Directorate-of-Integration-and-Diversity/</prop>
+     <seg>The Directorate of Integration and Diversity (IMDi) is a centre of expertise and a driving force for integration and diversity in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Offentlige-etater/Integrerings--og-mangfoldsdirektoratet/</prop>
+     <seg>Integrerings- og mangfoldsdirektoratet (IMDi) er et kompetansesenter og en p&#229;driver for integrering og mangfold i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.15077</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Public-transport1/Long-distance-travel/</prop>
+     <seg>Norway Bussekspress and Vy are the two largest long-distance bus companies in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Offentlig-kommunikasjon/Langtransport/</prop>
+     <seg>Norway Bussekspress og Vy er de st&#248;rste busselskapene som driver med langtransport innad i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.48421</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Transport-and-services/Consumer-rights/About-consumer-rights-in-general/</prop>
+     <seg>for more information.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Forbrukerrettigheter/Generelt-om-forbrukerrettigheter/</prop>
+     <seg>for mer informasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.13896</prop>
+    <prop type="score-bicleaner">0.694</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/The-law-and-crime/The-Mediaction-and-Reconciliation-Services/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/The-law-and-crime/Alcohol-and-drugs/</prop>
+     <seg>Other articles under The law and crime</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Lover-og-lovbrudd/Alkohol-og-narkotika/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Lover-og-lovbrudd/Konfliktradet/</prop>
+     <seg>&#216;vrige artikler under Lover og lovbrudd</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">4.14419</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/The-Norwegian-History/</prop>
+     <seg>The year 1814 is a remarkable year in the Norwegian history.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Norges-historie/</prop>
+     <seg>1814 er et bemerkelsesverdig &#229;r i norsk historie.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.712</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Recognition-of-education/Recognition-of-education/</prop>
+     <seg>Recognition of education</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Godkjenning-av-utdanning/Godkjenning-av-utdanning/</prop>
+     <seg>Godkjenning av utdanning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.08422</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Renting-a-home/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Housing/Renting-a-houseapartment/Housing-allowance/</prop>
+     <seg>For further information, contact your local housing office.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/A-leie-bolig/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Bolig/A-eie-bolig/Bostotte/</prop>
+     <seg>For mer informasjon, ta kontakt med bost&#248;ttekontoret i din kommune.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.12152</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/Re-registration-when-purchasing-a-used-vehicle-in-Norway/</prop>
+     <seg>If the deadline for the periodic technical inspection (also known as EU inspection) has expired, the inspection must be carried out before the change of ownership can be registered.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Omregistrering-ved-kjop-av-bruktbil-i-Norge/</prop>
+     <seg>Hvis fristen for EU-kontroll (periodisk kj&#248;ret&#248;ykontroll) er g&#229;tt ut, m&#229; kontrollen gjennomf&#248;res f&#248;r kj&#248;ret&#248;yet kan omregistreres.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.405</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Public-services-online/Min-side-My-page/</prop>
+     <seg>You can log on using an electronic ID from MinID, Buypass or Commfides.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Nettbaserte-offentlige-tjenester/MinSide/</prop>
+     <seg>Det er mulig &#229; logge inn med elektronisk ID fra MinID, Buypass og Commfides.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.22374</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Public-agencies/The-Norwegian-Directorate-of-Integration-and-Diversity/</prop>
+     <seg>The Directorate cooperates with municipalities, government agencies, immigrant organisations and groups and the private sector.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Offentlige-etater/Integrerings--og-mangfoldsdirektoratet/</prop>
+     <seg>Direktoratet samarbeider med kommuner, statlige etater, innvandrerorganisasjoner og innvandrergrupper og privat sektor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.63016</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Mortgages/</prop>
+     <seg>People who do not own a home in Norway can apply for a first-time buyer mortgage, i.e. a mortgage with the same interest rate for the entire amount where you can borrow up to 100 per cent of the purchase price.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/Boliglan/</prop>
+     <seg>For personer som ikke har bolig i Norge, er det mulig &#229; s&#248;ke om f&#248;rstehjemsl&#229;n, det vil si med samme rentesats for hele l&#229;nebel&#248;pet inntil 100 prosent finansiering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.1069</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Residence-card/</prop>
+     <seg>EU/EEA nationals are not issued such cards.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/Oppholdskort/</prop>
+     <seg>EU/E&#216;S borgere skal ikke ha kort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.15543</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Domestic-violence/Marriage-must-be-voluntary-/</prop>
+     <seg>You are entitled to 12 hours' free legal aid if you have been subjected to pressure or force before you married.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Vold-i-nare-relasjoner/Ekteskap-skal-inngas-frivillig/</prop>
+     <seg>Du har rett til 12 timer gratis juridisk hjelp hvis du har blitt utsatt for press eller tvang f&#248;r du giftet deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.00725</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Tax/Obligation-to-pay-taxes-in-Norway/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Work-and-qualification/Tax/Obligation-to-pay-tax-in-Norway/</prop>
+     <seg>You become resident for tax purposes if you live in Norway for more than 183 days during a 12-month period or more than 270 days during a 36-month period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Skatt/Plikt-til-a-betale-skatt-i-Norge/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Skatt/Plikt-til-a-betale-skatt-i-Norge/</prop>
+     <seg>Man blir bosatt i Norge dersom man oppholder seg i Norge i mer enn 183 dager i l&#248;pet av 12 m&#229;neder, eller mer enn 270 dager i l&#248;pet av en periode p&#229; 36 m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.49288</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Moving-to-Norway/Permanent-residence-permit/</prop>
+     <seg>If you were granted your first permit before that date, the requirement is 300 hours of mandatory tuition.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Flytte-til-Norge/Permanent-oppholdstillatelse/</prop>
+     <seg>Har du f&#229;tt din f&#248;rste tillatelse f&#248;r denne datoen, er kravet til obligatorisk oppl&#230;ring 300 timer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.035</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/The-law-and-crime/The-Mediaction-and-Reconciliation-Services/</prop>
+     <seg>Mediation is a method of dealing with conflicts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Lover-og-lovbrudd/Konfliktradet/</prop>
+     <seg>Megling er en metode for konflikth&#229;ndtering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.33855</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <seg>are a citizen of another Nordic country and have been registered as a resident of Norway by 30 June in the election year.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>Du er statsborger i et annet nordisk land og er blitt folkeregistrert som bosatt i Norge senest 30.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.81581</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Economy/</prop>
+     <seg>The number of people employed in industry declined from 1973 onwards, while the number of employees in service occupations increased.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Okonomi/</prop>
+     <seg>Fra 1973 gikk antallet ansatte i industri tilbake, mens antall ansatte i tjenesteyrker &#248;kte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.28937</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Renting-a-home/</prop>
+     <seg>The tenant can object to the termination, and the termination will lapse if the landlord does not take the case to the Conciliation Board/The Rent Disputes Tribunal in Oslo, Akershus, Bergen and Trondheim (HTU -Husleietvistutvalget)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/A-leie-bolig/</prop>
+     <seg>Leietaker kan protestere mot utleiers oppsigelse, og oppsigelsen faller da bort hvis ikke utleier bringer saken inn for forliksr&#229;det/HTU (Husleietvistutvalget for Oslo, Akershus, Bergen og Trondheim).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.05152</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Immigrants/</prop>
+     <seg>But immigrants came to play a more important role in some parts of the country, for example Swedes in &#216;stfold and Finns in Finnmark.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Innvandrere/</prop>
+     <seg>Men innvandrere spilte en st&#248;rre rolle i noen deler av landet, som svensker i &#216;stfold og finner i Finnmark.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.02917</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Old-age-pension1/Old-age-pension/</prop>
+     <seg>If you move to another EEA country, you keep your old-age pension from the Norwegian National Insurance Scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Alderspensjon/Alderspensjon1/</prop>
+     <seg>Hvis du flytter til et E&#216;S-land, f&#229;r du med deg alderspensjonen fra folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">3.70031</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/TelephoneinternetTV1/TV-licence-fee/</prop>
+     <seg>For 2019, the Storting has set the licence at NOK 3038,56.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Telefon/Kringkastingsavgift/</prop>
+     <seg>For 2019 har Stortinget fastsatt TV-lisensen til kroner 3038,56.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.53301</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/The-law-and-crime/Alcohol-and-drugs/</prop>
+     <seg>Khat, hash and marihuana, which are legal in other countries, are considered illegal drugs in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Lover-og-lovbrudd/Alkohol-og-narkotika/</prop>
+     <seg>Khat, hasj og marihuana, som kan v&#230;re lovlig i andre land, regnes som narkotika i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.65</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/Children/Parental-benefit/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Birth/Parental-benefit/</prop>
+     <seg>15 benefit weeks are reserved for the mother (the maternal quota) and 15 benefit weeks are reserved for the father (the paternal quota).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Barn/Foreldrepenger/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Fodsel/Foreldrepenger/</prop>
+     <seg>Mor har rett til 15 uker (m&#248;drekvote) og 15 uker er forbeholdt far (fedrekvoten).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.74868</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Emegency-telephone-numbers/</prop>
+     <seg>Police and rescue coordination centre &#8211; 112 For criminal offences where there is a danger to people&#8217;s lives, if there is a risk of evidence being destroyed, or for other urgent inquiries, call the Police on tel.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Nodnummer/</prop>
+     <seg>Politi og redningssentral: Ved kriminelle handlinger der det er fare for liv, bevisforspillelse eller andre henvendelser som ikke kan vente, ring Politiets n&#248;dtelefon p&#229; 112.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">3.26471</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Kindergarden-and-schools/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/The-school-system/The-day-care-centreschool-system/</prop>
+     <seg>It is divided into primary school (age 6-12) and lower secondary school (age 13-15).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Skolesystemet/Barnehage-og-skolesystemet/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Barnehage-og-skolesystemet/</prop>
+     <seg>Grunnskolen er delt opp i barneskole (6-12 &#229;r) og ungdomsskole (13-15 &#229;r).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.005</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Fire-regulations/</prop>
+     <seg>Fire safety in the home</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/Brannregler/</prop>
+     <seg>Brannsikkerhet i boliger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.1958</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Residence-permit-pursuant-to-the-EEA-regulations/</prop>
+     <seg>If you lose your permit, you must leave the country.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/-Arbeidstillatelse-etter-regelverket-for-tredjelandsborgere/</prop>
+     <seg>Dersom du mister tillatelsen din, m&#229; du reise fra Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.90008</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Domestic-violence/Marriage-must-be-voluntary-/</prop>
+     <seg>If you are in a difficult situation, need help, advice and guidance in relation to forced marriage, contact the Expert Team for the Prevention of Forced Marriage by calling 478 09 050, or the Red Cross helpline on 815 55 201.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Vold-i-nare-relasjoner/Ekteskap-skal-inngas-frivillig/</prop>
+     <seg>Dersom du befinner deg i en vanskelig situasjon, trenger hjelp, r&#229;d og veiledning knyttet til tvangsekteskap, ta kontakt med Kompetanseteamet mot tvangsekteskap p&#229; telefon 478 09 050, eller R&#248;de Kors-telefonen 815 55 201.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.25588</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Owning-a-home/</prop>
+     <seg>In order to insure the contents of your apartment/house, you need home contents insurance.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/A-eie-bolig/</prop>
+     <seg>For &#229; forsikre tingene i leiligheten/huset ditt, trenger du innboforsikring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.36091</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Renting-a-home/</prop>
+     <seg>If the defects are substantial, the tenant can cancel the lease.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/A-leie-bolig/</prop>
+     <seg>Hvis manglene er vesentlige, kan leietaker heve avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.03662</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/Leave/</prop>
+     <seg>If the child has a chronic illness or disability, the employee has extended rights.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsforhold/Permisjon/</prop>
+     <seg>Hvis barnet har en kronisk sykdom eller funksjonshemming, har arbeidstaker utvidede rettigheter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.55328</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/First-time-registration-of-a-used-imported-vehicle/</prop>
+     <seg>First-time registration &#8211; step by step:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Trinn-for-trinn-ved-forstegangsregistrering/</prop>
+     <seg>Trinn for trinn ved f&#248;rstegangsregistrering:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.01314</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Moving-to-Norway/Family-immigration-permit/</prop>
+     <seg>Children who have parents living in Norway</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Flytte-til-Norge/Familieinnvandringstillatelse1/</prop>
+     <seg>Barn som har foreldre i Norge</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.5</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Health/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Health/Membership-in-the-Norwegian-National-Insurance-Scheme/Accident-and-emergency-department/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Health/Health-services/</prop>
+     <seg>Emergencies &#8211; call 113: for life-threatening and acute health problems.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Helse/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Helse/Sykdom-nar-du-er-arbeidstaker/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Helse/Helsetjenester/</prop>
+     <seg>Akutt - ring 113: ved livstruende og akutte skader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">3.4314</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Tuition-in-Norwegian/Tuition-in-Norwegian-/</prop>
+     <seg>The requirements apply to all applicants between the ages of 16 and 67.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Norskopplaring/Norskopplaring/</prop>
+     <seg>Kravene gjelder for alle s&#248;kere mellom 16 og 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Menu/About/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Stottemeny/About-New-in-Norway/</prop>
+     <seg>Transport and services</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/stottemeny/Om-nyinorgeno/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/stottemeny/Om-nyinorgeno/</prop>
+     <seg>Transport og tjenester</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.33053</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Settlement-permit/</prop>
+     <seg>Cohabitants over the age of 18, when the couple has lived together for at least two years and intends to continue their cohabitation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/Familieinnvandring-for-tredjelandsborgere/</prop>
+     <seg>samboer over 18 &#229;r, n&#229;r paret har bodd sammen i minst to &#229;r og vil fortsette samlivet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.00424</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Health/Health-services/Primary-doctor/</prop>
+     <seg>Health personnel are responsible for organising an interpreter if necessary.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Helse/Helsetjenester/Fastlege/</prop>
+     <seg>Helsepersonellet har ansvar for &#229; skaffe tolk hvis det er n&#248;dvendig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.19423</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Residence-card/</prop>
+     <seg>If you renew your permit, you will be issued a residence card.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/Oppholdskort/</prop>
+     <seg>N&#229;r du eventuelt fornyer tillatelsen din, vil du f&#229; oppholdskort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.58171</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Working-environment/Disability-benefits/</prop>
+     <seg>You must be between the ages of 18 and 67, and, as a rule, you must live or stay in the country.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Arbeidsmiljo/Uforepensjon/</prop>
+     <seg>Du m&#229; v&#230;re mellom 18 og 67 &#229;r, og som hovedregel m&#229; du fortsatt v&#230;re medlem i folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.50556</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Settlement-permit/</prop>
+     <seg>A cohabitant over the age of 18 who has children with the person in Norway, and the couple intend to continue their cohabitation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/Familieinnvandring-for-tredjelandsborgere/</prop>
+     <seg>samboer over 18 &#229;r, som har barn med personen i Norge, og de skal fortsette samlivet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.76447</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/The-Norwegian-History/</prop>
+     <seg>The union with Sweden lasted less than 100 years and ended in 1905 as a result of a popular referendum.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Norges-historie/</prop>
+     <seg>Unionen med Sverige varte i mindre enn 100 &#229;r og opph&#248;rte i 1905 etter en folkeavstemning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.32919</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <seg>Norway is not a member of the European Union (EU), but it is part of the European Economic Area (EEA).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>Norge er ikke medlem av Den europeiske Union (EU), men av Det europeiske &#248;konomiske samarbeidet (E&#216;S).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.88644</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/First-time-registration-of-a-used-imported-vehicle/</prop>
+     <seg>If you meet the conditions for driving with foreign number plates after customs clearance, you must ensure that the registration form (form NA-0221) is kept in the vehicle until it is registered.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Trinn-for-trinn-ved-forstegangsregistrering/</prop>
+     <seg>Dersom du oppfyller villk&#229;rene for &#229; kj&#248;re med utenlandske kjennemerker (bilskilt) etter fortolling, m&#229; du la registreringskortet (blankett NA-0221) v&#230;re i kj&#248;ret&#248;yet frem til registrering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">2.37438</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Immigrants/</prop>
+     <seg>From 1970, immigrants comprised labour migrants and specialists, people taking an education, refugees and asylum seekers, and members of immigrants and Norwegian nationals' families.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Innvandrere/</prop>
+     <seg>Fra 1970 kom det b&#229;de arbeidsvandrere og spesialister, folk under utdanning, flyktninger og asyls&#248;kere, og familiemedlemmer til innvandrere og til norske statsborgere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.06418</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Higher-education/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/The-school-system/Higher-education/</prop>
+     <seg>You can also ask Samordna opptak for an assessment of your education.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Skolesystemet/Hoyere-utdanning/</prop>
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Hoyere-utdanning1/</prop>
+     <seg>Dukan ogs&#229; f&#229; utdanningen din vurdert av Samordna opptak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.02568</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/The-Norwegian-History/</prop>
+     <seg>Little by little they acquired national identities and became Swedes, Danes and Norwegians.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Norges-historie/</prop>
+     <seg>Etter hvert utviklet de egen nasjonal identitet og ble svensker, dansker og nordmenn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">3.51877</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/First-time-registration-of-a-used-imported-vehicle/</prop>
+     <seg>After customs clearance, Customs and Excise issues a registration form (form NA-0221).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Trinn-for-trinn-ved-forstegangsregistrering/</prop>
+     <seg>Etter fortolling utleverer Tollvesenet registreringskortet (blankett NA-0221).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">2.40993</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Economy/</prop>
+     <seg>Most of the towns were relatively small, except for Oslo, which has been Norway's capital since 1814.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Okonomi/</prop>
+     <seg>De fleste byene var lenge forholdsvis sm&#229;, med unntak av Oslo, som har v&#230;rt hovedstad siden 1814.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.23804</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/Temporary-lay-offs/</prop>
+     <seg>Reasonable grounds for lay-offs can, for example, be a lack of orders, the over-accumulation of stock, accidents or similar.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsforhold/Permittering/</prop>
+     <seg>Saklige grunner for permittering kan for eksempel v&#230;re ordremangel, fulle lager, ulykker eller lignende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.42059</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Right-to-interpreter/Official-languages/</prop>
+     <seg>Norwegian (bokm&#229;l and nynorsk) is the official administrative language in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Sprak-og-rett-til-tolk/Ofisielle-sprak/</prop>
+     <seg>Norsk (bokm&#229;l og nynorsk) er forvaltningsspr&#229;ket i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.41196</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Upper-secondary-school-for-adults/Right-to-upper-secondary-education-for-adults/</prop>
+     <seg>Other articles under Upper secondary school for adults</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Videregaende-skole-for-voksne/Rett-til-videregaende-opplaring-for-voksne/</prop>
+     <seg>&#216;vrige artikler under Videreg&#229;ende skole for voksne</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.14579</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Health/Membership-in-the-Norwegian-National-Insurance-Scheme/Patient-chargesexemption-cards/</prop>
+     <seg>The exemption card for user fee group 1 will automatically be sent to your registered address in the Population Register when you become entitled to it.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Helse/Helsetjenester/Egenandelfrikort/</prop>
+     <seg>Frikort for egenandelstak 1 sendes automatisk i posten til din folkeregistrerte adresse n&#229;r du har rett p&#229; det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.36126</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Owning-a-home/</prop>
+     <seg>If you own your own home, you must insure the building (home insurance).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/A-eie-bolig/</prop>
+     <seg>Eier du boligen m&#229; du forsikre bygningen (bolig/villaforsikring).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.3407</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Indigenous-people/</prop>
+     <seg>Today, the Sami people are part of modern society.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Urfolk-og-innvandrere/</prop>
+     <seg>I dag er samene en del av det moderne samfunnsliv, bor ogs&#229; i byer og finnes i alle yrker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">2.67792</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/Children/Parental-benefit/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Birth/Parental-benefit/</prop>
+     <seg>You can choose between 100 per cent parental benefit for 49 weeks or 80 per cent for 59 weeks.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Barn/Foreldrepenger/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Fodsel/Foreldrepenger/</prop>
+     <seg>Du kan velge mellom &#229; ta ut 100 prosent foreldrepenger i 49 uker, eller 80 prosent foreldrepenger i 59 uker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">2.3787</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Climate/</prop>
+     <seg>Norway extends over 13 degrees latitude from Lindesnes to the North Cape, the same distance as from Lindesnes to the Mediterranean.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Klima1/</prop>
+     <seg>Fra Lindesnes til Nordkapp strekker Norge seg over mer enn 13 breddegrader, eller like langt som fra Lindesnes til Middelhavet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.27162</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <seg>Municipal and county council elections (also called local elections) &#8211; held every four years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>Kommunestyre- og fylkestingvalg (kalles ogs&#229; lokalvalg) &#8211; avholdes hvert fjerde &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">4.09024</prop>
+    <prop type="score-bicleaner">0.686</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/Children/Cash-benefit/</prop>
+     <seg>You can be paid cash-for-care benefit for maximum 11 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Barn/Kontantstotte/</prop>
+     <seg>Du kan f&#229; kontantst&#248;tte maksimalt i 11 m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">2.41207</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Old-age-pension1/Old-age-pension/</prop>
+     <seg>You can receive a retirement pension from the National Insurance scheme when you have reached the age of 62 if you have had sufficiently high earnings.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Alderspensjon/Alderspensjon1/</prop>
+     <seg>Du kan f&#229; alderspensjon fra folketrygden n&#229;r du ha fylt 62 &#229;r hvis du har tilstrekkelig h&#248;y opptjening.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">2.31818</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Unemployment/Unemployment-benefit/</prop>
+     <seg>To be entitled to unemployment benefit, your working hours must usually have been reduced by at least 50 per cent.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Arbeidsledighet/Dagpenger/</prop>
+     <seg>For &#229; ha rett til dagpenger, m&#229; du som hovedregel ha f&#229;tt arbeidstiden din redusert med minst 50 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.03103</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Family-immigration-for-third-country-nationals/</prop>
+     <seg>When you have lived in Norway continuously for three years, you can be granted a permanent residence permit.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/Bosettingstillatelse/</prop>
+     <seg>N&#229;r du har bodd sammenhengende i Norge i tre &#229;r, kan du f&#229; en permanent oppholdstillatelse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.19975</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Housing/Renting-a-houseapartment/Terminating-the-tenancy/</prop>
+     <seg>The tenant can object to the termination, and the termination will lapse if the landlord does not take the case to the Conciliation Board/The Rent Disputes Tribunal in Oslo, Akershus, Bergen and Trondheim (HTU -Husleietvistutvalget)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Bolig/A-leie-bolig/Oppsigelse/</prop>
+     <seg>Leietaker kan protestere mot utleiers oppsigelse, og oppsigelsen faller da bort hvis ikke utleier bringer saken inn for forliksr&#229;det/HTU (Husleietvistutvalget i Oslo, Akershus, Bergen og Trondheim).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">2.8839</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Settlement-permit/</prop>
+     <seg>A spouse or registered partner over the age of 18, when the couple plans to live together in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/Familieinnvandring-for-tredjelandsborgere/</prop>
+     <seg>ektefelle eller registrert partner over 18 &#229;r, n&#229;r ektefellene skal bo sammen i Norge</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.14135</prop>
+    <prop type="score-bicleaner">0.694</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Upper-secondary-school-for-adults/Right-to-upper-secondary-education-for-adults/</prop>
+     <seg>Right to upper secondary education for adults</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Videregaende-skole-for-voksne/Rett-til-videregaende-opplaring-for-voksne/</prop>
+     <seg>Rett til videreg&#229;ende oppl&#230;ring for voksne</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.09768</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/Re-registration-when-purchasing-a-used-vehicle-in-Norway/</prop>
+     <seg>If you have lost Part 2 of the vehicle registration certificate, download and fill in a notification of loss form and send it to a Driver and Vehicle Licensing Office. The new owner's responsibility</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Omregistrering-ved-kjop-av-bruktbil-i-Norge/</prop>
+     <seg>Hvis du har mistet vognkortets del 2, last ned og fyll ut tapsmelding og send den til en trafikkstasjon. Ny eiers ansvar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.04914</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Health/Membership-in-the-Norwegian-National-Insurance-Scheme/Patient-chargesexemption-cards/</prop>
+     <seg>There are two types of exemption cards.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Helse/Helsetjenester/Egenandelfrikort/</prop>
+     <seg>Det finnes to typer frikort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.14777</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Recreational-activities/Outdoors/Common-sense-at-sea/</prop>
+     <seg>&#8226; Keep a safe distance from fish farms.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Fritid/Friluftsliv/Gode-rad-til-batforere/</prop>
+     <seg>&#8226; Hold avstand til oppdrettsanlegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.718</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <seg>General elections &#8211; held every four years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>Stortingsvalg &#8211; avholdes hvert fjerde &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.048</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Recreational-activities/Public-rights-of-access1/Public-rights-of-access/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Recreational-activities/Outdoors/Public-rights-of-access/</prop>
+     <seg>This is known as public right of way, and it is an important precondition for outdoor pursuits in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Fritid/Friluftsliv/Allemannsretten/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Fritid/Allemannsretten/Allemannsretten/</prop>
+     <seg>Dette kalles allemannsretten, og er en viktig forutsetning for friluftslivet i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">2.06376</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Upper-secondary-school-for-adults/Right-to-upper-secondary-education-for-adults/</prop>
+     <seg>To be entitled to upper secondary education specially organised for adults, you must be older than 25 or have turned 25 the same year.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Videregaende-skole-for-voksne/Rett-til-videregaende-opplaring-for-voksne/</prop>
+     <seg>For &#229; ha rett til videreg&#229;ende oppl&#230;ring spesielt organisert for voksne, m&#229; du v&#230;re eldre enn 25 &#229;r eller fylle 25 &#229;r samme &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.13421</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/Assistance-for-children-and-families/Children-welfare-services/</prop>
+     <seg>Child welfare services are present in every municipality in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Hjelp-til-barn-og-familie/Barnevernet/</prop>
+     <seg>Barnevernet finnes i alle kommuner i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.08341</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/Dismissal/</prop>
+     <seg>If the employer has reasonable grounds for the dismissal, the period of notice starts when the leave of absence is over.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsforhold/Oppsigelse/</prop>
+     <seg>Dersom en arbeidsgiver har saklig grunn for oppsigelsen, starter oppsigelsestiden &#229; l&#248;pe n&#229;r permisjonen er over.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.09375</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/The-school-system/</prop>
+     <seg>A right, but not an obligation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Skolesystemet/</prop>
+     <seg>Rett, ikke plikt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">2.35909</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/The-law-and-crime/The-Mediaction-and-Reconciliation-Services/</prop>
+     <seg>In more than 90% of cases, the conflict is resolved by the parties reaching an agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Lover-og-lovbrudd/Konfliktradet/</prop>
+     <seg>I mer enn 90 % av sakene blir konflikten l&#248;st ved at partene er enig om en avtale.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.75263</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Transport-and-services/Postal-services/</prop>
+     <seg>Sending insured letters</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Post/</prop>
+     <seg>Sending av verdibrev</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">2.32129</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Politics/</prop>
+     <seg>From 1397, Norway was ruled by the same king as Denmark, and it was part of the same state.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Politikk/</prop>
+     <seg>Fra &#229;r 1397 fikk landet felles konge med Danmark, og var del av den samme staten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.65455</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/First-time-registration-of-a-used-imported-vehicle/</prop>
+     <seg>Step 1: Before importation to Norway You should find out from one of the Norwegian Public Roads Administration's Driver and Vehicle Licensing Offices what technical requirements apply to the vehicle for it to be approved in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Trinn-for-trinn-ved-forstegangsregistrering/</prop>
+     <seg>Trinn 1: F&#248;r innf&#248;rsel til Norge Du b&#248;r unders&#248;ke med en av Statens vegvesens trafikkstasjoner hvilke tekniske krav som stilles til kj&#248;ret&#248;yet for at det skal bli godkjent i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">3.75313</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Domestic-violence/Marriage-must-be-voluntary-/</prop>
+     <seg>You must have reached the age of 18 to marry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Vold-i-nare-relasjoner/Ekteskap-skal-inngas-frivillig/</prop>
+     <seg>Du m&#229; ha fylt 18 &#229;r f&#248;r du kan gifte deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">4.95699</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <seg>4%, other religions and beliefs app.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>4%, andre religioner og livssyn ca.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.03831</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Domestic-violence/Violence-in-the-family/</prop>
+     <seg>If you experience or witness violence in your family, you should report it as soon as possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Flytte-til-Norge/Oppholdstillatelse-for-a-innga-ekteskap1/</prop>
+     <seg>Dersom du er blant de som kan s&#248;ke fra Norge, skal du levere s&#248;knaden til politiet der du bor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">2.08613</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Fire-regulations/</prop>
+     <seg>The detectors should be placed near stairs and in escape routes, at the highest point of the ceiling and at least 50 centimetres from walls (follow the installation instructions).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/Brannregler/</prop>
+     <seg>R&#248;ykvarslerne b&#248;r monteres i n&#230;rheten av trapper og i r&#248;mningsveier, p&#229; h&#248;yeste punkt i taket og minimum 50 centimeter fra vegg (f&#248;lg monteringsanvisningen).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.14983</prop>
+    <prop type="score-bicleaner">0.730</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Recognition-of-education/Recognition-of-education/</prop>
+     <seg>Other articles under Recognition of education</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Godkjenning-av-utdanning/Godkjenning-av-utdanning/</prop>
+     <seg>&#216;vrige artikler under Godkjenning av utdanning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">2.24641</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Domestic-violence/Female-genital-mutilation-/</prop>
+     <seg>If you are concerned about someone or you need help yourself, contact the Red Cross helpline on 815 55 201.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Vold-i-nare-relasjoner/Omskjaring-av-kvinner/</prop>
+     <seg>Dersom du er bekymret for noen, eller du selv trenger hjelp, ta kontakt med R&#248;de Kors-telefonen 815 55 201.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">2.48325</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/Parking/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/</prop>
+     <seg>It is also prohibited to park at a taxi stand or a bus stop, or within 20 meters of either side of those.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Parkering/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/</prop>
+     <seg>Det er forbudt &#229; parkere p&#229; taxi- og bussholdeplass og 20 meter fra disse i begge retninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.1025</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Fire-regulations/</prop>
+     <seg>&#8226; Ensure that all screw-in fuses are tightened &#8226; If the fuses are too hot to touch, they are overloaded.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/Brannregler/</prop>
+     <seg>&#8226; S&#248;rg for at alle skrusikringer er godt tilskrudd &#8226; Sikringer som er s&#229; varme at man ikke kan ta p&#229; dem er overbelastet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.11882</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Waste-and-recycling-collection/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Housing/Owning-a-home/Waste-and-recycling-collection/</prop>
+     <seg>Glass, metal and hazardous waste are examples of waste that must be taken to the municipality&#8217;s waste recycling centres.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Bolig/A-eie-bolig/Renovasjon/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/Renovasjon/</prop>
+     <seg>Glass, metall og farlig avfall er eksempler p&#229; avfall som bringes til kommunens avfallsstasjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.54762</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Working-environment/Helath-safety-and-the-environment-HSE/</prop>
+     <seg>Health, safety and the environment (HSE)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsmiljo/Helse-miljo-og-sikkerhet-HMS/</prop>
+     <seg>Helse, milj&#248; og sikkerhet (HMS)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">2.53344</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/Sickness-benefits/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Illness-when-you-are-employed/Sickness-benefit/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Health/Illness-when-you-are-employed/Sickness-benefit/</prop>
+     <seg>The employer pays the sickness benefit for the first 16 days, after which the Norwegian National Insurance scheme takes over.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsforhold/Sykepenger/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Helse/Sykdom-som-arbeidstaker/Sykepenger/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Sykdom-som-arbeidstaker/Sykepenger/</prop>
+     <seg>De f&#248;rste 16 dagene er det arbeidsgiveren din som betaler sykepengene, deretter overtar folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.57976</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Work-and-qualification/Working-environment1/Health-safety-and-environment-HSE/</prop>
+     <seg>Health, safety and environment (HSE)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsmiljo/Helse-miljo-og-sikkerhet-HMS/</prop>
+     <seg>Helse, milj&#248; og sikkerhet (HMS)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.7273</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Recreational-activities/Outdoors/Common-sense-at-sea/</prop>
+     <seg>No boat traffic is permitted closer than 20 metres from fish farms and it is forbidden to fish closer than 100 metres from such farms.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Fritid/Friluftsliv/Gode-rad-til-batforere/</prop>
+     <seg>Ferdsel med b&#229;t skal ikke skje n&#230;rmere enn 20 meter fra anlegg og det er ikke lov &#229; fiske n&#230;rmere enn 100 meter fra slike anlegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">2.18226</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/Dismissal/</prop>
+     <seg>If an employee requests negotiations about dismissal, this must be requested within 14 days of the receipt of the notice of dismissal.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsforhold/Oppsigelse/</prop>
+     <seg>Hvis du &#248;nsker forhandling om en oppsigelse, m&#229; dette kreves innen 14 dager etter mottakelse av oppsigelsen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.03144</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Unemployment/Unemployment-benefit/</prop>
+     <seg>If you are a frontier worker, you can stay in your country of residence while receiving unemployment benefit from Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Arbeidsledighet/Dagpenger/</prop>
+     <seg>Er du grensearbeider, kan du oppholde deg i bostedslandet mens du mottar dagpenger under permittering fra Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">1.10542</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Kindergarden-and-schools/</prop>
+     <seg>Boys and girls attend kindergarten together and are schooled in mixed classes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Barnehage-og-skolesystemet/</prop>
+     <seg>Gutter og jenter g&#229;r i sammen i barnehage og i samme klasse p&#229; skolen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">1.41923</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Transport-and-services/Postal-services/</prop>
+     <seg>Sending letters by recorded delivery</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Post/</prop>
+     <seg>Sending av rekommandert brev</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.07318</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Payment-services/</prop>
+     <seg>The e-invoices is precompleted with the KID number, account number and amount, which makes it easy to pay.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Bank/Betalingstjenester/</prop>
+     <seg>E-faktura er ferdig utfylt med KID-, kontonummer og bel&#248;p, noe som gj&#248;r det enkelt &#229; betale.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">1.1395</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/The-school-system/The-Norwegian-State-Educational-Loan-Fund/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/The-Norwegian-State-Educational-Fund/</prop>
+     <seg>A grant is money that is given to you, while a loan must be repaid.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Lan-og-stipend-til-utdanning1/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Skolesystemet/Lanekassen/</prop>
+     <seg>Stipendet er penger du f&#229;r, mens l&#229;net m&#229; du betale tilbake.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.06934</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Transport-and-services/Postal-services/</prop>
+     <seg>Norway Post is responsible for postal services in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Post/</prop>
+     <seg>Posten Norge AS har ansvar for postgangen i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">1.03125</prop>
+    <prop type="score-bicleaner">0.694</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/The-Norwegian-History/</prop>
+     <seg>Union with Denmark</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Norges-historie/</prop>
+     <seg>Union med Danmark</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.02917</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Renting-a-home/</prop>
+     <seg>Incorrect information about the dwelling given by the landlord will be considered a breach of contract (defect).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/A-leie-bolig/</prop>
+     <seg>Gir utleier feil opplysninger om en bolig, vil det v&#230;re et kontraktsbrudd (mangel).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">3.442</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Norwegian-language-courses1/Norwegian-language-courses/</prop>
+     <seg>The obligation to participate applies to everyone between the ages of 16 and 67.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Norskopplaring/Norskopplaring1/</prop>
+     <seg>Plikten til oppl&#230;ring gjelder personer mellom 16 og 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">1.00588</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Family-immigration-permit-pursuant-to-the-EEA-Regulations/</prop>
+     <seg>As EU/EEA/EFTA nationals with right of residence in Norway pursuant to the EEA Regulations, your family members are entitled to come to Norway to live with you.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/Varig-oppholdsrett/</prop>
+     <seg>Hvis du som EU/E&#216;S/EFTA-borger har hatt sammenhengende lovlig opphold i Norge i minst fem &#229;r, kan du s&#248;ke om varig oppholdsbevis som gjelder p&#229; ubestemt tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.78073</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Payment-card/</prop>
+     <seg>This means that you do not have to pay interest on what you have borrowed on your credit card if you pay back the entire amount within 45 days.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/Betalingskort/</prop>
+     <seg>Det vil si at du slipper &#229; betale renter p&#229; det du har l&#229;nt p&#229; kredittkortet, dersom du betaler tilbake hele bel&#248;pet innen 45 dager.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.11292</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Settlement-permit/</prop>
+     <seg>The permit also forms the basis for permanent residence in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/Familieinnvandring-for-tredjelandsborgere/</prop>
+     <seg>Videre danner tillatelsen grunnlag for permanent opphold i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.07571</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Menu/About/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Stottemeny/About-New-in-Norway/</prop>
+     <seg>You will be able to familiarise yourself with your rights and duties, and you will be given practical advice and tips.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/stottemeny/Om-nyinorgeno/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/stottemeny/Om-nyinorgeno/</prop>
+     <seg>Du vil bli kjent med dine rettigheter og plikter, og du vil f&#229; praktiske r&#229;d og tips.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.25667</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/The-Norwegian-History/</prop>
+     <seg>The strong will to be &#8220;independent&#8221; is probably one of several reasons that explains the complexity subject regarding Norway`s relationship to Europe and to the fact that Norwegians have voted &#8220;No&#8221; to the European Union both in 1972 and in 1994.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Norges-historie/</prop>
+     <seg>Det sterke &#248;nsket om &#229; v&#230;re "uavhengig" er muligens en av flere forklaringer p&#229; det komplekse forholdet Norge har til Europa og det faktum at nordmenn to ganger har stemt nei til EF/EU, b&#229;de i 1972 og 1994.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">1.40711</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Difference-between-EUEEAEFTA-nationals-and-third-country-nationals/</prop>
+     <seg>Different conditions and application procedures for resident permits and family immigration apply to EU/EEA/EFT A nationals, so-called EEA nationals, and nationals of other countries, so-called third-country nationals.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/Skille-mellom-EUEOSEFTA-borgere-og-tredjelandsborgere/</prop>
+     <seg>Det er ulike typer vilk&#229;r og s&#248;knadsprosedyrer for oppholdstillatelse og for familieinnvandring for EU/E&#216;S/EFTA borgere, s&#229;kalte E&#216;S-borgere, og for borgere av alle andre land, s&#229;kalte tredjelandsborgere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">1.3625</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Indigenous-people/</prop>
+     <seg>In Norway, the Sami people have traditionally lived in the areas from Finnmark in the north to Hedmark in the south.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Urfolk-og-innvandrere/</prop>
+     <seg>I Norge har samene tradisjonelt bodd i omr&#229;dene fra Finnmark i nord til Hedmark i s&#248;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.39734</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Tax/Tax-deduction-card/</prop>
+     <seg>Tax deduction card for personswith a Norwegian personal number (f&#248;dselsnummer)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Skatt/Skattekort/</prop>
+     <seg>Skattekort for personer med norsk f&#248;dselsnummer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">3.08548</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Mortgages/</prop>
+     <seg>The repayment period for a mortgage is long, usually between 20 and 30 years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/Boliglan/</prop>
+     <seg>Boligl&#229;net skal tilbakebetales over lang tid, oftest mellom 20 og 30 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">2.56277</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Public-agencies/The-Norwegian-Directorate-of-Integration-and-Diversity/</prop>
+     <seg>IMDi has branch offices in Narvik, Trondheim, Bergen, Kristiansand, Gj&#248;vik and Oslo.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Offentlige-etater/Integrerings--og-mangfoldsdirektoratet/</prop>
+     <seg>IMDi har kontorer i Narvik, Trondheim, Bergen, Kristiansand, Gj&#248;vik og Oslo.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">2.64444</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Recreational-activities/Public-rights-of-access1/Public-rights-of-access/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Recreational-activities/Outdoors/Public-rights-of-access/</prop>
+     <seg>Remember that the distance to the nearest house or cabin must be 150 metres.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Fritid/Friluftsliv/Allemannsretten/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Fritid/Allemannsretten/Allemannsretten/</prop>
+     <seg>Du m&#229; da v&#230;re minst 150 meter borte fra n&#230;rmeste hus eller hytte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">3.96374</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Politics/</prop>
+     <seg>All men got the vote in 1898, and all women in 1913.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Politikk/</prop>
+     <seg>I 1898 fikk alle menn stemmerett, i 1913 alle kvinner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">1.38923</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Health/Health-services/Certificate-S1/</prop>
+     <seg>Your rights to healthcare are documented with certificate S1 (formerly known as form E106).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Helse/Helsetjenester/Rettighetsdokument-S1/</prop>
+     <seg>Rettigheten dokumenteres med dokument S1 (tidligere kalt blankett E106).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">1.64394</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Moving-to-Norway/Citizenship/</prop>
+     <seg>People who came to Norway before reaching the age of 18 must have lived here for a total of five years during the past seven years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Flytte-til-Norge/Statsborgerskap1/</prop>
+     <seg>Personer som har kommet til Norge f&#248;r fylte 18 &#229;r, m&#229; ha bodd her i til sammen fem &#229;r i l&#248;pet av de siste syv &#229;rene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">1.12327</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Public-services-online/Min-side-My-page/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Public-services-online/</prop>
+     <seg>ID-porten lets you choose your preferred form of electronic identification.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Nettbaserte-offentlige-tjenester/MinSide/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Nettbaserte-offentlige-tjenester/</prop>
+     <seg>Med ID-porten kan du velge selv den elektroniske IDen du foretrekker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">2.32955</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <seg>Everyone who reaches the age of 18 in the election year and has Norwegian citizenship can vote in a general election.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>Alle personer som fyller 18 &#229;r i valg&#229;ret og har norsk statsborgerskap, har stemmerett ved Stortingsvalg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.27912</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Fire-regulations/</prop>
+     <seg>This can be in the form either of a fire hose or a portable extinguisher (with a minimum effect of 21A).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/Brannregler/</prop>
+     <seg>Det kan enten v&#230;re husbrannslange eller h&#229;ndslokker (minimum effekt 21A).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">1.31663</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Domestic-violence/Marriage-must-be-voluntary-/</prop>
+     <seg>You can also contact the police, the child welfare service, a women's shelter or the organisation JURK (legal advice for women).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Vold-i-nare-relasjoner/Ekteskap-skal-inngas-frivillig/</prop>
+     <seg>Andre aktuelle kan v&#230;re Politiet, Barnevern, Krisesenter og JURK (Juridisk r&#229;dgivning for kvinner).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">1.85021</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Geography1/</prop>
+     <seg>The most populated municipalities are Oslo (the capital), Bergen, Trondheim and Stavanger.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Geografi1/</prop>
+     <seg>De mest folkerike kommunene er Oslo (hovedstad), Bergen, Trondheim og Stavanger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">1.04572</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Religious-and-beliefs-based-communities/</prop>
+     <seg>Traditionally, the public sector in Norway has had an active relationship to religion and faith and it supports religious and beliefs-based communities financially.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Tros--og-livssynssamfunn/</prop>
+     <seg>Tradisjonelt har det offentlige Norge (stat, fylke og kommune) et aktivt forhold til religion og livvsyn og st&#248;tter tros- og livssynssamfunn &#248;konomisk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">2.22941</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Owning-a-home/</prop>
+     <seg>If the bank is not willing to lend you 100 per cent of the purchase price, you can apply for a start loan from your municipality.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/A-eie-bolig/</prop>
+     <seg>Dersom banken ikke vil l&#229;ne deg 100 prosent av l&#229;nebel&#248;pet, er det mulig &#229; s&#248;ke kommunen om startl&#229;n.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.37773</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Health/Membership-in-the-Norwegian-National-Insurance-Scheme/Patient-chargesexemption-cards/</prop>
+     <seg>Among other things, you will be exempted from patient charges in connection with the following: check-ups during pregnancy, examinations and treatment of children under the age of 16, psychotherapeutic treatment of children and young people under the age of 18, infectious diseases that are a danger to public health or suspicion of such diseases.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Helse/Helsetjenester/Egenandelfrikort/</prop>
+     <seg>Du er fritatt fra &#229; betale egenandeler ved blant annet svangerskapskontroll, unders&#248;kelse og behandling av barn under 16 &#229;r, psykoterapeutisk behandling av barn og ungdom under 18 &#229;r, allmennfarlige smittsomme sykdommer eller mistanke om slike.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">2.0661</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/The-Norwegian-History/</prop>
+     <seg>Since the first discovery of crud oil on the Norwegian continental shelf in 1969, the life standard has increased considerably and the wealth of the &#8220;OLJE FOND&#8221; represents today about NOK</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Norges-historie/</prop>
+     <seg>Levestandarden har &#248;kt betydelig etter at r&#229;olje ble funnet p&#229; norsk kontinentalsokkel i 1969, og Oljefondet utgj&#248;r i dag ca.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">1.547</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Transport-and-services/Postal-services/</prop>
+     <seg>Sending letters, postcards and parcels</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Post/</prop>
+     <seg>Sending av brev, postkort og pakker</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.16308</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Unemployment/Unemployment-benefit/</prop>
+     <seg>You must be able to document that you have become unemployed in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Arbeidsledighet/Dagpenger/</prop>
+     <seg>Du m&#229; kunne dokumentere at du har blitt arbeidsl&#248;s i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">1.33862</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Public-services-online/Min-side-My-page/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Public-services-online/</prop>
+     <seg>ID-porten is a common infrastructure for logging on to public services.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Nettbaserte-offentlige-tjenester/MinSide/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Nettbaserte-offentlige-tjenester/</prop>
+     <seg>ID-porten er en felles infrastruktur for innlogging til offentlige tjenester.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">1.38918</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Politics/</prop>
+     <seg>The constitution from 1814 made Norway a relatively democratic state.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Politikk/</prop>
+     <seg>Grunnloven fra 1814 gjorde Norge til en forholdsvis demokratisk stat. Kongen hadde begrenset makt;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">2.66154</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Economy/</prop>
+     <seg>As late as 1920, 57 per cent of Norway's population lived in rural areas, and not in towns or cities.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Okonomi/</prop>
+     <seg>S&#229; sent som i 1920 bodde 57 prosent av befolkningen p&#229; landsbygda, ikke i byer og tettsteder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.35577</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Unemployment/Unemployment-benefit/</prop>
+     <seg>or at your NAV Local Services.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Arbeidsledighet/Dagpenger/</prop>
+     <seg>eller ved NAV-kontoret der du bor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">1.07203</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Health/Health-services/Primary-doctor/</prop>
+     <seg>You are also entitled to a make yourself understood.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Helse/Helsetjenester/Fastlege/</prop>
+     <seg>Du har ogs&#229; rett til selv &#229; gj&#248;re deg forst&#229;tt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">3.20149</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Unemployment/Unemployment-benefit/</prop>
+     <seg>You must then submit a claim in writing using the application form NAV 04-02.01 for a PD U2 certificate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Arbeidsledighet/Dagpenger/</prop>
+     <seg>Du m&#229; da fremme skriftlig krav p&#229; s&#248;knadsskjema NAV 04-02.01 om attest PD U2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.19822</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Unemployment/Unemployment-benefit/</prop>
+     <seg>Entitlements to unemployment benefit earned in another EEA country can be transferred to Norway using form PD U1/SED U002/U004 from the country where you used to work.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Arbeidsledighet/Dagpenger/</prop>
+     <seg>Dagpengerettigheter opptjent i et annet E&#216;S-land kan overf&#248;res til Norge ved hjelp av attest PD U1/SED U002/U004 fra det tidligere arbeidslandet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">1.86143</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Public-transport1/Public-transport/</prop>
+     <seg>Failure to present a valid ticket at a ticket inspection on a train, the underground, or a bus, results in a fine of NOK 950 (if you pay at once) or 1150 NOK (if you pay with giro).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Offentlig-kommunikasjon/Lokaltrafikk/</prop>
+     <seg>Uten gyldig billett ved billettkontroll p&#229; tog, t-bane eller buss, m&#229; du betale et gebyr p&#229; kr 950,- hvis du betaler p&#229; stedet eller 1150 kr ved betaling med giro.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">1.48</prop>
+    <prop type="score-bicleaner">0.704</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Public-agencies/The-Norwegian-Directorate-of-Immigration/</prop>
+     <seg>Contact with UDI:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Offentlige-etater/Utlendingsdirektoratet/</prop>
+     <seg>Kontakt med UDI:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">1.19048</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Right-to-interpreter/Official-languages/</prop>
+     <seg>Sami has equal standing with Norwegian in some municipalities in the counties of Troms and Finnmark.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Sprak-og-rett-til-tolk/Ofisielle-sprak/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>Samisk er likestilt med norsk i noen kommuner i fylkene Troms og Finnmark.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">2.09244</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/First-time-registration-of-a-used-imported-vehicle/</prop>
+     <seg>You can drive vehicles imported from abroad in Norway with foreign number plates for up to 30 days after the vehicle has been customs cleared.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Trinn-for-trinn-ved-forstegangsregistrering/</prop>
+     <seg>Du kan bruke kj&#248;ret&#248;y importert fra utlandet i Norge med utenlandske kjennemerker (bilskilt) i inntil 30 dager etter kj&#248;ret&#248;yet er fortollet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">1.05417</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Renting-a-home/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Housing/Renting-a-houseapartment/Terminating-the-tenancy/</prop>
+     <seg>If the lease does not specify a period of notice, the period of notice is three months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Bolig/A-leie-bolig/Oppsigelse/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/A-leie-bolig/</prop>
+     <seg>Er det ikke avtalt noen oppsigelsesfrist i leiekontrakten, er oppsigelsesfristen tre m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">3.93348</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <seg>Protestant Christianity 86%, other Christian faith groups 7,5%, Islam app.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>Protestantisk kristendom 86%, &#248;vrige kristne religioner 7,5%, islam ca.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">2.17832</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/Temporary-lay-offs/</prop>
+     <seg>Notification of a lay-off shall be given in writing at least 14 days before it is implemented, and the employee shall receive normal pay during the period of notice.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsforhold/Permittering/</prop>
+     <seg>Permittering skal varsles skriftlig 14 dager f&#248;r den iverksettes, og arbeidstakeren skal ha vanlig l&#248;nn under varslingsperioden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">1.22757</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Recreational-activities/Public-rights-of-access1/Public-rights-of-access/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Recreational-activities/Outdoors/Public-rights-of-access/</prop>
+     <seg>Infields are plots of land around homes or land pertaining to houses and holiday homes, all cultivated land, fields, meadows, and similar areas.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Fritid/Friluftsliv/Allemannsretten/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Fritid/Allemannsretten/Allemannsretten/</prop>
+     <seg>Eksempel p&#229; innmark er hustomt og g&#229;rdsplasser knyttet til boliger og fritidshus, all dyrket jord, &#229;ker, eng og lignende omr&#229;der.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">2.14796</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/The-Norwegian-History/</prop>
+     <seg>With help from allied forces, Norway was liberated in May 1945 after resisting strongly against the German occupancy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Norges-historie/</prop>
+     <seg>Med hjelp fra de allierte styrkene ble Norge frigjort i mai 1945 etter &#229; ha kjempet hardt mot den tyske okkupasjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">2.45595</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Health/Health-services/Dental-services/</prop>
+     <seg>In Norway, children under the age of 18 are entitled to free dental care from the public dental service.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Helse/Helsetjenester/Tannhelsehjelp/</prop>
+     <seg>I Norge har barn opp til 18 &#229;r rett til gratis tannbehandling i den offentlige tannhelsetjenesten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">1.09686</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Working-environment/Disability-pension/</prop>
+     <seg>You must be between the ages of 18 and 67, and, as the rule, you must still be a member of the National Insurance scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsmiljo/Uforepensjon/</prop>
+     <seg>Du m&#229; v&#230;re mellom 18 og 67 &#229;r, og som hovedregel m&#229; du fortsatt v&#230;re medlem i folketrygden. &#216;vrige artikler under Arbeidsmilj&#248;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">1.01809</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/The-school-system/The-Norwegian-State-Educational-Loan-Fund/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/The-Norwegian-State-Educational-Fund/</prop>
+     <seg>A residence permit (does not apply to Nordic citizens)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Lan-og-stipend-til-utdanning1/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Skolesystemet/Lanekassen/</prop>
+     <seg>Oppholdstillatelse (gjelder ikke nordiske statsborgere)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">3.15</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Immigrants/</prop>
+     <seg>In 2011, there were people from 215 different countries living in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Innvandrere/</prop>
+     <seg>I 2011 bor det mennesker i Norge fra hele 215 land.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">2.71327</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Prices-and-consumption/</prop>
+     <seg>Roughly 16 per cent is spent on transport, while only 11 per cent of the average household budget is spent on food.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Prisniva-og-forbruk1/</prop>
+     <seg>Om lag 16 prosent g&#229;r til transport, mens kun 11 prosent av budsjettet g&#229;r til mat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">1.25796</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Public-transport1/Public-transport/</prop>
+     <seg>Tickets for the underground, trains, boats and buses in greater Oslo area are available from kiosks such as Narvesen, MIX and Deli de Luca, from ticket machines and/or from staffed ticket windows at the stations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Offentlig-kommunikasjon/Lokaltrafikk/</prop>
+     <seg>Billetter til T-bane, tog, b&#229;t og buss i Stor-Oslo kan kj&#248;pes i kiosker, som bl.a Narvesen, MIX og Deli de Luca, fra billettautomater og/eller egne betjente skranker p&#229; stasjonene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">2.07495</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Tuition-in-Norwegian/Tuition-in-Norwegian-/</prop>
+     <seg>Only persons in the age group 16&#8211;67 have a right and obligation to participate in Norwegian language tuition.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Norskopplaring/Norskopplaring/</prop>
+     <seg>Det er personer i alderen 16-67 &#229;r som har rett og plikt til &#229; delta i norskoppl&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">3.01207</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/Temporary-lay-offs/</prop>
+     <seg>The maximum period an employee can be laid off is currently 52 weeks.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsforhold/Permittering/</prop>
+     <seg>Den maksimale grensen for hvor lenge arbeidstaker kan permitteres er for tiden 52 uker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">1.12692</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Working-environment/Helath-safety-and-the-environment-HSE/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Work-and-qualification/Working-environment1/Health-safety-and-environment-HSE/</prop>
+     <seg>The employer is responsible for the following:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsmiljo/Helse-miljo-og-sikkerhet-HMS/</prop>
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsmiljo/Helse-miljo-og-sikkerhet-HMS/</prop>
+     <seg>Arbeidsgiver har ansvar for:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">1.14286</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Kindergarden-and-schools/Before-and-after-school-programme-SFO/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Kindergarden-and-schools/School-transport/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Kindergarden-and-schools/Upper-secondary-school/</prop>
+     <seg>Other articles under Kindergartens and schools</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Barnehage-og-skolesystemet/Videregaende-skole/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Barnehage-og-skolesystemet/Skoleskyss/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Barnehage-og-skolesystemet/Skolefritidsordning-SFO/</prop>
+     <seg>&#216;vrige artikler under Barnehage og skolesystemet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">1.15479</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Public-transport1/Public-transport/</prop>
+     <seg>Oslo has a well-established network of buses, trams and underground trains, operated by Ruter.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Offentlig-kommunikasjon/Lokaltrafikk/</prop>
+     <seg>I Oslo er det ogs&#229; et velutbygget buss-, trikke- og T-bane-nett, drevet av Ruter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">1.015</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/The-introduction-programme/The-introduction-programme-/</prop>
+     <seg>The programme also aims to give participants insight into Norwegian society.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Introduksjonsordningen/Introduksjonsprogram/</prop>
+     <seg>I tillegg skal programmet gi deltakerne innsikt i norsk samfunnsliv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">1.08074</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Families-and-children-in-Norway/Complex-family-structures/</prop>
+     <seg>They are often referred to jokingly as 'your children, my children and our children'.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Familie-og-barn-i-Norge/Sammensatte-familier/</prop>
+     <seg>Sp&#248;kefullt omtales dette gjerne som &#8221;dine barn, mine barn og v&#229;re barn&#8221;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">2.15349</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Indigenous-people/</prop>
+     <seg>During the period between 1850 and 1950, the Norwegian authorities tried to prevent Sami people from preserving their own language, culture and way of life.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Urfolk-og-innvandrere/</prop>
+     <seg>I tiden mellom 1850 og 1950 pr&#248;vde norske myndigheter &#229; forhindre samene fra &#229; ivareta eget spr&#229;k, kultur og levevis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">1.0698</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Owning-a-home/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Housing/Owning-a-home/</prop>
+     <seg>If you want to buy a home, you must obtain a mortgage approval from a bank before you start looking at houses or apartments.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/A-eie-bolig/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Bolig/A-eie-bolig/</prop>
+     <seg>Skal du kj&#248;pe bolig, m&#229; du skaffe finansieringsbevis fra en bank f&#248;r du begynner &#229; se p&#229; bolig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">1.65865</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Economy/</prop>
+     <seg>Large-scale industry also became established in Norway, and in 1969, industry accounted for 41 per cent of the country's income.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Okonomi/</prop>
+     <seg>Etter hvert kom det ogs&#229; storindustri til Norge; i 1969 stod industrien for 41 prosent av inntektene i landet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">5.90278</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/The-Norwegian-History/</prop>
+     <seg>The Viking Age (793-1066 AD)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Norges-historie/</prop>
+     <seg>Vikingtiden (793-1066 e.Kr.)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">1.03568</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Settlement-permit/</prop>
+     <seg>As a rule, you cannot apply on behalf of your family members.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/Familieinnvandring-for-tredjelandsborgere/</prop>
+     <seg>Som hovedregel kan ikke du s&#248;ke p&#229; deres vegne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">1.66645</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Tuition-in-Norwegian/Tuition-in-Norwegian-/</prop>
+     <seg>If you have been granted family immigration with a spouse, registered partner or cohabitant who is Norwegian or a Nordic national, or a person who has a permanent residence permit here, you have both a right and an obligation to take 600 hours of tuition in Norwegian and social studies.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Norskopplaring/Norskopplaring/</prop>
+     <seg>Hvis du har f&#229;tt familieinnvandring med en ektefelle, registrert partner eller samboer som er norsk eller nordisk statsborger, eller en person som har permanent oppholdstillatelse, har du rett og plikt til 600 timer oppl&#230;ring i norsk og samfunnskunnskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Debt/</prop>
+     <seg>The remaining amount is divided between the creditors.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/Gjeld/</prop>
+     <seg>Bel&#248;pet som er til overs hver m&#229;ned, skal fordeles p&#229; de som personen skylder penger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="170" datatype="Text">
+    <prop type="score-hunalign">3.48577</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Fire-regulations/</prop>
+     <seg>All citizens have a duty to report fires (110).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/Brannregler/</prop>
+     <seg>Alle som bor i Norge har plikt til &#229; varsle brann (110).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="171" datatype="Text">
+    <prop type="score-hunalign">1.03154</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Higher-education/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/The-school-system/Higher-education/</prop>
+     <seg>In addition, Norway has a variety of private institutions for higher education.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Skolesystemet/Hoyere-utdanning/</prop>
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Hoyere-utdanning1/</prop>
+     <seg>I tillegg har Norge ogs&#229; en rekke private h&#248;yere utdanningsinstitusjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="172" datatype="Text">
+    <prop type="score-hunalign">1.13125</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Permits/Difference-between-EUEEAEFTA-nationals-and-third-country-nationals/</prop>
+     <seg>Differences between EEA nationals and nationals of other countries</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Tillatelser/Skille-mellom-EUEOSEFTA-borgere-og-tredjelandsborgere/</prop>
+     <seg>Skille mellom E&#216;S-borgere og borgere fra &#248;vrige land</seg>
+    </tuv>
+   </tu>
+   <tu tuid="173" datatype="Text">
+    <prop type="score-hunalign">1.02692</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Right-to-interpreter/Official-languages/</prop>
+     <seg>Using dialect is accepted on television, on the radio and in political life.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Sprak-og-rett-til-tolk/Ofisielle-sprak/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>Bruken av ens egen dialekt er akseptert b&#229;de p&#229; fjernsyn, p&#229; radio og i politikken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="174" datatype="Text">
+    <prop type="score-hunalign">2</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Tax/Tax-deduction-card/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Registration-on-arrival/Registration-in-the-population-register/</prop>
+     <seg>Service Centre for Foreign Workers:Oslo, Bergen, Stavanger, Trondheim, Kirkenes</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Registrering-ved-innflytting/Folkeregistrering/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Skatt/Skattekort/</prop>
+     <seg>Servicesenter for utenlandske arbeidstakere - Service Centre for Foreign Workers:Oslo, Stavanger, Bergen, Trondheim og Kirkenes</seg>
+    </tuv>
+   </tu>
+   <tu tuid="175" datatype="Text">
+    <prop type="score-hunalign">2.69039</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/Re-registration-when-purchasing-a-used-vehicle-in-Norway/</prop>
+     <seg>&#8226; Remember that proof of identity that contains your personal identity number (11 digits) or organisation number must be presented upon registration</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Omregistrering-ved-kjop-av-bruktbil-i-Norge/</prop>
+     <seg>Husk at legitimasjon som inneholder f&#248;dselsnummer (11 siffer) eller organisasjonsnummer m&#229; vises ved registrering</seg>
+    </tuv>
+   </tu>
+   <tu tuid="176" datatype="Text">
+    <prop type="score-hunalign">1.26111</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Working-environment/Disability-pension/</prop>
+     <seg>NAV decides whether you meet the requirements for disability pension.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsmiljo/Uforepensjon/</prop>
+     <seg>Det er NAV som bestemmer om du fyller vilk&#229;rene for uf&#248;retrygd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="177" datatype="Text">
+    <prop type="score-hunalign">1.40587</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/ID-cards-in-the-building-industry/</prop>
+     <seg>By the construction industry is meant, for example, the construction of buildings, interior and installation work, the assembly and dismantling of prefabricated elements, demolition, renovations and repairs, sanitation and maintenance and groundwork.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Arbeidsforhold/ID-kort-i-byggebransjen/</prop>
+     <seg>Med bygg- og anleggsvirksomhet menes for eksempel oppf&#248;ring av bygninger, innrednings- og installasjonsarbeid, montering og demontering av prefabrikkerte elementer, riving, ombygging og istandsetting, sanering og vedlikehold og grunnarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="178" datatype="Text">
+    <prop type="score-hunalign">2.89091</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Payment-card/</prop>
+     <seg>Most banks have approx. 45 days free credit.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/Betalingskort/</prop>
+     <seg>De fleste banker har ca. 45 dager gratis kreditt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="179" datatype="Text">
+    <prop type="score-hunalign">1.11216</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Recreational-activities/Voluntary-groups-and-organisastions/Voluntary-groups-and-organisations/</prop>
+     <seg>There are many different types of organisations in Norway, ranging from religious communities, Scout Associations, brass bands, sports clubs to humanitarian organisations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Fritid/Frivillige-lag-og-organisasjoner/Frivillige-lag-og-organisasjoner/</prop>
+     <seg>Det er mange ulike typer organisasjoner i Norge, alt fra menigheter, speiderlag, korps, idrettslag og humanit&#230;re organisasjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="180" datatype="Text">
+    <prop type="score-hunalign">4.33125</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/First-time-registration-of-a-used-imported-vehicle/</prop>
+     <seg>Step 2: Upon arrival at the Nowegian border</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Trinn-for-trinn-ved-forstegangsregistrering/</prop>
+     <seg>Trinn 2: Ved ankomst norsk grens</seg>
+    </tuv>
+   </tu>
+   <tu tuid="181" datatype="Text">
+    <prop type="score-hunalign">2.52569</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Recognition-of-education/Recognition-of-education/</prop>
+     <seg>is also the point of contact for the recognition of professional qualifications for professionals regulated by law in Norway, covered by Directive 2005/36/EC.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Godkjenning-av-utdanning/Godkjenning-av-utdanning/</prop>
+     <seg>NOKUT er ogs&#229; kontaktpunkt for godkjenning av yrkeskvalifikasjoner for regulerte yrker i Norge, som omfattes av direktiv 2005/36/EF.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="182" datatype="Text">
+    <prop type="score-hunalign">2.20825</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Moving-to-Norway/Citizenship/</prop>
+     <seg>Separate rules apply to children under the age of 12 and to people over the age of 55 who apply for Norwegian citizenship.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Flytte-til-Norge/Statsborgerskap1/</prop>
+     <seg>Det er egne regler for barn under 12 &#229;r og eldre personer over 55 &#229;r, som s&#248;ker om norsk statsborgerskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="183" datatype="Text">
+    <prop type="score-hunalign">2.56723</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Immigrants/</prop>
+     <seg>The number of immigrants was not very high before 1900, and immigrants made up much less than one per cent of the population for a long time.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Innvandrere/</prop>
+     <seg>F&#248;r 1900 var antallet innvandrere ikke stort, lenge under &#233;n prosent av befolkningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="184" datatype="Text">
+    <prop type="score-hunalign">1.29707</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Recreational-activities/Public-rights-of-access1/Public-rights-of-access/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Recreational-activities/Outdoors/Public-rights-of-access/</prop>
+     <seg>Beaches, rocky shores, lakes, bogs, hills, forests and mountains are examples of outlying land.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Fritid/Friluftsliv/Allemannsretten/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Fritid/Allemannsretten/Allemannsretten/</prop>
+     <seg>Eksempel p&#229; utmark er strender, svaberg, vann, myr, hei, skog og fjell.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="185" datatype="Text">
+    <prop type="score-hunalign">1.04658</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Health/Membership-in-the-Norwegian-National-Insurance-Scheme/Preventive-health-services/</prop>
+     <seg>All children and young people are entitled to health checks, and the health centre services are free.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Helse/Helsetjenester/Forebyggende-helsetjenester/</prop>
+     <seg>Alle barn og unge har rett til helsekontroll, og helsestasjonstjenestene er gratis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="186" datatype="Text">
+    <prop type="score-hunalign">3.77692</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Prices-and-consumption/</prop>
+     <seg>Housing costs account for 31 per cent of consumption on average.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Prisniva-og-forbruk1/</prop>
+     <seg>I snitt utgj&#248;r bolig 31 prosent av forbruket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="187" datatype="Text">
+    <prop type="score-hunalign">1.11324</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/Temporary-lay-offs/</prop>
+     <seg>An employer can, in whole or in part, be excused from the obligation to pay wages, and an employee can temporarily be excused from the obligation to work, in connection with temporary lay-offs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsforhold/Permittering/</prop>
+     <seg>Arbeidsgiver kan, helt eller delvis, midlertidig fritas fra l&#248;nnsplikten, og arbeidstakeren kan midlertidig fritas fra arbeidsplikten, ved permittering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="188" datatype="Text">
+    <prop type="score-hunalign">4.63462</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <seg>Norwegian krone (NOK) (1 krone = 100 &#248;re)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>Norske kroner (NOK) (1 kr = 100 &#248;re)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="189" datatype="Text">
+    <prop type="score-hunalign">3.21273</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Prices-and-consumption/</prop>
+     <seg>In 2011, the price level was 51 per cent higher than the average price level in the EU.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Prisniva-og-forbruk1/</prop>
+     <seg>I 2011 l&#229; prisniv&#229;et i Norge 51 prosent over gjennomsnittet i EU.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="190" datatype="Text">
+    <prop type="score-hunalign">3.62</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Kindergarden-and-schools/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/The-school-system/The-day-care-centreschool-system/</prop>
+     <seg>Education for children between the ages of 6 and 15 is compulsory.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Skolesystemet/Barnehage-og-skolesystemet/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Barnehage-og-skolesystemet/</prop>
+     <seg>Barn fra 6-15 &#229;r skal g&#229; i grunnskolen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="191" datatype="Text">
+    <prop type="score-hunalign">1.13079</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Fire-regulations/</prop>
+     <seg>- Only use the cooker, washing machine and tumble-dryer when you are at home and awake.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/Brannregler/</prop>
+     <seg>- Bruk kun komfyr, vaskemaskin og t&#248;rketrommel n&#229;r du er hjemme og er v&#229;ken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="192" datatype="Text">
+    <prop type="score-hunalign">1.58571</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/The-school-system/The-Norwegian-State-Educational-Loan-Fund/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/The-Norwegian-State-Educational-Fund/</prop>
+     <seg>Toapply, you must have:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Lan-og-stipend-til-utdanning1/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Skolesystemet/Lanekassen/</prop>
+     <seg>F&#248;rdu kan s&#248;ke, m&#229; du ha:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="193" datatype="Text">
+    <prop type="score-hunalign">1.85719</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Old-age-pension1/Old-age-pension/</prop>
+     <seg>You must have lived in Norway for at least three years after reaching the age of 16 and still be a member of the National Insurance scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Alderspensjon/Alderspensjon1/</prop>
+     <seg>Du m&#229; ha bodd i Norge i minst tre &#229;r etter fylte 16 &#229;r, og fortsatt v&#230;re medlem av folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="194" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.692</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Climate/</prop>
+     <seg>The climate in Norway varies a great deal.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Klima1/</prop>
+     <seg>Klimaet i Norge viser store variasjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="195" datatype="Text">
+    <prop type="score-hunalign">1.82521</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Public-transport1/Public-transport/</prop>
+     <seg>, you will find information about trains / the underground / buses / trams in the counties of Akershus, Buskerud, Hedmark, Oppland, Oslo, Vestfold, Telemark and &#216;stfold.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Offentlig-kommunikasjon/Lokaltrafikk/</prop>
+     <seg>finner du informasjon om all trafikk med tog/T-bane/buss/trikk innen fylkene Akershus, Buskerud, Hedmark, Oppland, Oslo, Vestfold, Telemark og &#216;stfold.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="196" datatype="Text">
+    <prop type="score-hunalign">1.00833</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Transport-and-services/Bank/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/</prop>
+     <seg>You must sign the account agreement at the bank.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Bank/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/</prop>
+     <seg>I banken m&#229; du underskrive kontoavtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="197" datatype="Text">
+    <prop type="score-hunalign">3.975</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/First-time-registration-of-a-used-imported-vehicle/</prop>
+     <seg>Step 4: Custom clear and pay valued added tax to Customs and Excise</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Trinn-for-trinn-ved-forstegangsregistrering/</prop>
+     <seg>Trinn 4: Fortoll og betal merverdiavgift hos Tollvesenet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="198" datatype="Text">
+    <prop type="score-hunalign">1.07314</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/Facts-about-Norway/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Right-to-interpreter/Official-languages/</prop>
+     <seg>In Norway, dialects have a much higher status than in many other countries.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Sprak-og-rett-til-tolk/Ofisielle-sprak/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Fakta-om-Norge/</prop>
+     <seg>I Norge har dialekt en h&#248;yere status enn i mange andre land.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="199" datatype="Text">
+    <prop type="score-hunalign">1.275</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Payment-card/</prop>
+     <seg>If you do not pay back the full amount within approximately 45 days, interest is incurred on the amount due.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/Betalingskort/</prop>
+     <seg>Dersom du ikke betaler tilbake hele bel&#248;pet innen ca. 45 dager, begynner det &#229; l&#248;pe renter for det som er utest&#229;ende p&#229; kredittkortet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="200" datatype="Text">
+    <prop type="score-hunalign">3.79439</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Unemployment/Unemployment-benefit/</prop>
+     <seg>Your working hours must have been reduced by at least 50 per cent.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Arbeidsledighet/Dagpenger/</prop>
+     <seg>Arbeidstiden m&#229; da v&#230;re redusert med minst 50 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="201" datatype="Text">
+    <prop type="score-hunalign">3.41538</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Old-age-pension1/Old-age-pension/</prop>
+     <seg>You must earn pension rights for 40 years to be entitled to a full pension from Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Arbeid/Alderspensjon/Alderspensjon1/</prop>
+     <seg>For rett til full pensjon fra Norge kreves 40 &#229;rs opptjening.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="202" datatype="Text">
+    <prop type="score-hunalign">1.24345</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Children--Schools/The-school-system/The-Norwegian-State-Educational-Loan-Fund/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/The-Norwegian-State-Educational-Fund/</prop>
+     <seg>You may also be eligible for support if you have had continuous full-time employment for at least 24 months prior to becoming a student and you have paid Norwegian taxes during this period, or if you have completed three years of education in Norway without any support from the Norwegian State Educational Loan Fund.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Lan-og-stipend-til-utdanning1/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Barn-og-skole/Skolesystemet/Lanekassen/</prop>
+     <seg>Du kan ogs&#229; ha rett til st&#248;tte dersom du har hatt sammenhengende fulltidsarbeid i Norge i minst 24 m&#229;neder f&#248;r oppstart av utdanningen og har betalt skatt til Norge i denne perioden, eller har best&#229;tt tre &#229;rs utdanning i Norge uten st&#248;tte fra L&#229;nekassen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="203" datatype="Text">
+    <prop type="score-hunalign">1.56151</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Geography1/</prop>
+     <seg>In addition, Norway has two special status areas, Svalbard and Jan Mayen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Geografi1/</prop>
+     <seg>Norge har to s&#230;rstatusomr&#229;der, Svalbard og Jan Mayen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="204" datatype="Text">
+    <prop type="score-hunalign">1.39219</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Indigenous-people/</prop>
+     <seg>S&#225;pmi extends over four different countries &#8211; Norway, Sweden, Finland and Russia.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Urfolk-og-innvandrere/</prop>
+     <seg>S&#225;pmi strekker seg over fire stater - Norge, Sverige, Finland og Russland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="205" datatype="Text">
+    <prop type="score-hunalign">2.58314</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Recreational-activities/Outdoors/Common-sense-at-sea/</prop>
+     <seg>If such equipment is lacking, the skipper can be fined NOK 500 for each person who lacks a life jacket.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Fritid/Friluftsliv/Gode-rad-til-batforere/</prop>
+     <seg>Dersom dette mangler kan b&#229;tf&#248;reren ilegges 500 kr i forelegg per person som mangler flytevest.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="206" datatype="Text">
+    <prop type="score-hunalign">1.05652</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/Car-loans/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Car-loans1/</prop>
+     <seg>It is often a requirement that 35 per cent of the purchase price is paid in cash.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/Billan/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Billan/</prop>
+     <seg>For &#229; f&#229; l&#229;n vil det ofte kreves at 35 prosent av kj&#248;pesummen betales kontant. Enkelte banker kan stille krav med hensyn til botid i Norge ved s&#248;knad om bill&#229;n.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="207" datatype="Text">
+    <prop type="score-hunalign">1.28073</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Public-agencies/The-Norwegian-Directorate-of-Immigration/</prop>
+     <seg>The Directorate of Immigration (UDI) is the central executive administrative agency in the area of immigration and refugees in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Offentlige-etater/Utlendingsdirektoratet/</prop>
+     <seg>Utlendingsdirektoratet (UDI) er det sentrale og ut&#248;vende forvaltningsorganet p&#229; innvandrings- og flyktningfeltet i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="208" datatype="Text">
+    <prop type="score-hunalign">1.11356</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/Temporary-lay-offs/</prop>
+     <seg>Even if the employee is temporarily laid-off, the employment relationship persists.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsforhold/Permittering/</prop>
+     <seg>Selv om arbeidstaker er permittert, fortsetter arbeidsforholdet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="209" datatype="Text">
+    <prop type="score-hunalign">1.4125</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Mortgages/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Car-loans1/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Payment-services/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Payment-card/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Debt/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Bank-services/Finansportalen/</prop>
+     <seg>Other articles under Bank services</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/Billan/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Bank/Finansportalen/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/Boliglan/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Bank/Betalingstjenester/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/Gjeld/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bank/Betalingskort/</prop>
+     <seg>&#216;vrige artikler under Bank</seg>
+    </tuv>
+   </tu>
+   <tu tuid="210" datatype="Text">
+    <prop type="score-hunalign">2.42083</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Families-and-children-in-Norway/Familycohabitation-arrangements/</prop>
+     <seg>In 2008, a new Marriage Act was passed that permitted persons of the same sex to marry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Familie-og-barn-i-Norge/Samlivsformer/</prop>
+     <seg>I 2008 fikk Norge en likestilt ekteskapslov hvor ogs&#229; personer av samme kj&#248;nn kan inng&#229; ekteskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="211" datatype="Text">
+    <prop type="score-hunalign">1.33459</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Waste-and-recycling-collection/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Housing/Owning-a-home/Waste-and-recycling-collection/</prop>
+     <seg>Electrical and electronic equipment waste (EE waste) can be returned to shops that sell this type of equipment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Bolig/A-eie-bolig/Renovasjon/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/Renovasjon/</prop>
+     <seg>Elektronisk avfall (EE avfall) kan leveres hos butikker som selger slike produkter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="212" datatype="Text">
+    <prop type="score-hunalign">1.06707</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Renting-a-home/</prop>
+     <seg>The Tenancy Act does not prohibit the letting of a run-down property, but a building that has not been approved for human habitation, or that is considered a health hazard, cannot be let.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/A-leie-bolig/</prop>
+     <seg>Husleieloven er ikke til hinder for at nedslitte boliger leies ut, men en bygning som ikke er godkjent for beboelse, eller som er helsefarlig, kan ikke leies ut.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="213" datatype="Text">
+    <prop type="score-hunalign">2.85706</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/The-Norwegian-History/</prop>
+     <seg>After the war, Norway became a member of NATO and in 1952 the Nordic Council was established.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Norges-historie/</prop>
+     <seg>Etter krigen ble Norge medlem av Nato, og i 1952 ble Nordisk r&#229;d dannet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="214" datatype="Text">
+    <prop type="score-hunalign">1.0125</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Transport-and-services/Postal-services/</prop>
+     <seg>Sale of envelopes</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/lt/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Post/</prop>
+     <seg>Salg av konvolutter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="215" datatype="Text">
+    <prop type="score-hunalign">1.04182</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Motor-vehicles/Parking/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/</prop>
+     <seg>Parking is prohibited on motorways, or major roads with a speed limit higher than 50 km/h. Parking is also regulated by local regulations and traffic signs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/Bil/Parkering/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Transport-og-tjenester/</prop>
+     <seg>Det er forbudt &#229; parkere p&#229; vei merket som motorvei eller p&#229; forkj&#248;rsvei med fartsgrense h&#248;yere enn 50 km/t.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="216" datatype="Text">
+    <prop type="score-hunalign">1.07636</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Transport-and-services/Public-transport1/Public-transport/</prop>
+     <seg>Norway has a well-established public transport system and a large network of buses, ferries, trains and planes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Transport-og-tjenester/Offentlig-kommunikasjon/Lokaltrafikk/</prop>
+     <seg>Norge har et godt utbygget system for offentlig kommunikasjon, og et stort rutenett for buss, ferger, tog og fly.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="217" datatype="Text">
+    <prop type="score-hunalign">2.06833</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Upper-secondary-school-for-adults/Right-to-upper-secondary-education-for-adults/</prop>
+     <seg>If you are over the age of 16 and can complete upper secondary education before reaching the age of 25, you are entitled to ordinary upper secondary education.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Videregaende-skole-for-voksne/Rett-til-videregaende-opplaring-for-voksne/</prop>
+     <seg>Hvis du er over 16 &#229;r og kan fullf&#248;re videreg&#229;ende oppl&#230;ring f&#248;r det &#229;ret du blir 25 &#229;r, har du rett til ordin&#230;r videreg&#229;ende oppl&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="218" datatype="Text">
+    <prop type="score-hunalign">2.16111</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Norwegian-language-courses1/Norwegian-language-courses/</prop>
+     <seg>You meet the requirement if you take 250 hours of tuition in Norwegian and 50 hours in social studies or pass a specific Norwegian test.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Norskopplaring/Norskopplaring1/</prop>
+     <seg>Da innfrir du plikten hvis du tar 250 timer oppl&#230;ring i norsk og 50 timer i samfunnskunnskap eller best&#229;r en bestemt norskpr&#248;ve.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="219" datatype="Text">
+    <prop type="score-hunalign">2.82488</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Recreational-activities/</prop>
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Recreational-activities/Voluntary-groups-and-organisastions/Voluntary-groups-and-organisations/</prop>
+     <seg>More than 84 per cent of the population is a member of one or more organisations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Fritid/</prop>
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Fritid/Frivillige-lag-og-organisasjoner/Frivillige-lag-og-organisasjoner/</prop>
+     <seg>Over 84 % av befolkningen er medlem i en eller flere organisasjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="220" datatype="Text">
+    <prop type="score-hunalign">1.1127</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Renting-a-home/</prop>
+     <seg>Other additions are not permitted.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/A-leie-bolig/</prop>
+     <seg>Andre tillegg er ikke tillatt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="221" datatype="Text">
+    <prop type="score-hunalign">1.12029</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Tuition-in-Norwegian/Tuition-in-Norwegian-/</prop>
+     <seg>You must apply for a family immigration permit, not a residence card, to be entitled to free tuition in Norwegian.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Norskopplaring/Norskopplaring/</prop>
+     <seg>Du m&#229; s&#248;ke om familieinnvandringstillatelse, ikke oppholdskort, for &#229; f&#229; rett til gratis norskoppl&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="222" datatype="Text">
+    <prop type="score-hunalign">1.09444</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Education-and-tuition-in-Norwegian/Recognition-of-education/Recognition-of-education/</prop>
+     <seg>However, NOKUT does not provide recognition of the academic content of an education.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Norskopplaring-og-utdanning/Godkjenning-av-utdanning/Godkjenning-av-utdanning/</prop>
+     <seg>NOKUT gir imidlertid ikke faglig godkjenning av utdanningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="223" datatype="Text">
+    <prop type="score-hunalign">1.1775</prop>
+    <prop type="score-bicleaner">0.700</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/Temporary-lay-offs/</prop>
+     <seg>Contact NAV for up-to-date information.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsforhold/Permittering/</prop>
+     <seg>For oppdaterte opplysninger, ta kontakt med NAV.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="224" datatype="Text">
+    <prop type="score-hunalign">2.37391</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Health/Membership-in-the-Norwegian-National-Insurance-Scheme/Patient-chargesexemption-cards/</prop>
+     <seg>The exemption card for user fee 2 covers approved patient charges paid for physiotherapy, certain dental diseases, approved rehabilitation institutions and travel for treatment abroad organised by Oslo University Hospital - Rikshospitalet HF.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Helse/Helsetjenester/Egenandelfrikort/</prop>
+     <seg>Frikort egenandelstak 2: gjelder godkjente egenandeler betalt for fysioterapeut, enkelte former for tannsykdommer, godkjente opptreningsinstitusjoner og behandlingsreiser til utlandet i regi av Oslo Universitetssykehus - Rikshospitalet HF.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="225" datatype="Text">
+    <prop type="score-hunalign">2.48191</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Families-and-children-in-Norway-/Families-and-children-in-Norway/Familycohabitation-arrangements/</prop>
+     <seg>Around 40% of Norwegian households consist of single people, while the rest are couples or families in one form or another.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Barn-og-familie/Familie-og-barn-i-Norge/Samlivsformer/</prop>
+     <seg>Omtrent 40 % av husholdningene i Norge er enslige personer, resten er par eller familier i &#233;n eller annen form.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="226" datatype="Text">
+    <prop type="score-hunalign">1.00052</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/Public-agencies/The-Norwegian-Directorate-of-Immigration/</prop>
+     <seg>To be able to process individual cases in a good and efficient manner, UDI collaborates with the police and foreign service missions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Offentlige-etater/Utlendingsdirektoratet/</prop>
+     <seg>For &#229; kunne behandle enkeltsaker p&#229; en god og effektiv m&#229;te, samarbeider UDI med politiet og utenriksstasjonene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="227" datatype="Text">
+    <prop type="score-hunalign">3.74182</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Residence/Housing/Fire-regulations/</prop>
+     <seg>Leave the building and call the fire service using the emergency telephone number 110.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Flytting-til-Norge/Bolig/Brannregler/</prop>
+     <seg>Forlat heller bygningen og ring brannvesenet p&#229; n&#248;dnummer 110.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="228" datatype="Text">
+    <prop type="score-hunalign">1.86449</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/About-Norway/History/Politics/</prop>
+     <seg>This lasted until 1814, when Norway again became independent with its own parliament (the Storting), administration and constitution, which is celebrated on 17 May every year.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Om-Norge/Norsk-historie-og-samfunn/Politikk/</prop>
+     <seg>Dette varte til 1814, da Norge igjen ble en selvstendig stat, med eget Storting, administrasjon, h&#230;r og grunnlov som feires hvert &#229;r, den 17.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="229" datatype="Text">
+    <prop type="score-hunalign">2.08065</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Useful-information/Facts-about-Norway1/The-Norwegian-History/</prop>
+     <seg>Most of Scandinavia has been covered by ice at least three times, and the last ice melted about 14 000 years ago.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Ny-i-Norge-velg-sprak/Ny-i-Norge/Verdt-a-vite/Fakta-om-Norge1/Norges-historie/</prop>
+     <seg>Mesteparten av Skandinavia har v&#230;rt dekket av is minst tre ganger, og den siste isen smeltet for om lag 14 000 &#229;r siden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="230" datatype="Text">
+    <prop type="score-hunalign">1.89061</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Ny-i-Norge-velg-sprak/New-in-Norway/Work/Employment/Dismissal/</prop>
+     <seg>An employee who is completly of partially absent from work cannot be dismissed due to his/her absence during the first 12 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Arbeid-og-kvalifisering/Arbeidsforhold/Oppsigelse/</prop>
+     <seg>Arbeidstaker som er helt eller delvis borte fra arbeidet p&#229; grunn av sykdom, kan ikke av denne grunn sies opp i l&#248;pet av de f&#248;rste 12 m&#229;nedene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="231" datatype="Text">
+    <prop type="score-hunalign">2.44045</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://nyinorge.no/en/Familiegjenforening/New-in-Norway/Moving-to-Norway/Citizenship/</prop>
+     <seg>You must have completed 300 hours of tuition in the Norwegian language or be able to document sufficient skills in Norwegian or Sami.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://nyinorge.no/no/Familiegjenforening/Ny-i-Norge/Flytte-til-Norge/Statsborgerskap1/</prop>
+     <seg>Du m&#229; ha gjennomf&#248;rt 300 timer norskoppl&#230;ring eller kunne dokumentere tilstrekkelige kunnskaper i norsk eller samisk.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

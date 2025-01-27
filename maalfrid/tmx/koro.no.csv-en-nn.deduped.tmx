@@ -1,0 +1,617 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T172857" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.15159</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>The proposal hints at children&#8217;s imaginary world and scale &#8211; and</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>leikar med fantasi og skala fr&#229; barneverda &#8211; og at alt er mogleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.45769</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/12/6.1-Retningslinjer-LOK_ENG-desember-2021_NY.pdf.converted</prop>
+     <seg>80 percent of the funding is paid when the applicant enters into the funding contract. The</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/12/6.1-Retningslinjer-LOK_NN-desember-2021_NY.pdf.converted</prop>
+     <seg>Dei f&#248;rste 80 % av tilskotet blir utbetalt n&#229;r s&#248;karen har akseptert kontrakten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.025</prop>
+    <prop type="score-bicleaner">0.607</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>In the proposal, the artwork appears to be</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>I forslaget framst&#229;r verket som lettbeint og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.19459</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>interaction, both with the sculpture and other visitors.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>b&#229;de med skulpturen og med andre vitjarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.03235</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>The art plan defines the three gardens between the buildings as particularly wel suited for art projects.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>Kunstplanen definerer dei tre hagane mel om bygningslamel ane som s&#230;rleg eigna for kunstprosjekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.02514</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>invites exploration, movement and play.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>utforsking, r&#248;rsle og leik.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.11159</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>DET GYLNE EGGET is a lovely concept with references to life and life&#8217;s beginning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>&#171;DET GYLNE EGGET&#187; er eit vakkert konsept med referansar til livet og byrjinga p&#229; livet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.02773</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>the extensiveness of the artwork, though this is also an aspect that can be adapted.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>av verket, men dette er &#242;g noko som kan tilpassast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.63333</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>J&#248;rgen Blitzner, Head of the Art Committee and Jury</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>J&#248;rgen Blitzner, leiar for kunstutvalet og juryen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.09091</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2020/04/1.1-Strategi-BM_en-GB.pdf.converted</prop>
+     <seg>&#8226; KORO&#8217;s art col ection shal be of high quality and shall exist in dialogue with</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2020/04/Strategi-NN-2020.pdf.converted</prop>
+     <seg>&#8226; Kunstsamlinga til KORO skal ha h&#248;g kvalitet og g&#229; i dialog med utviklingstrekk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.12148</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>makes reference to such landscapes as the one in the film Avatar, where everyone and everything is</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>Forslaget har referansar til blant anna landskapet i filmen &#171;Avatar&#187;, der alt og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.07714</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>visual y striking &#8211; a distinct signal piece.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>sl&#229;ande &#8211; eit tydeleg signalverk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.27375</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/12/6.1-Retningslinjer-LOK_ENG-desember-2021_NY.pdf.converted</prop>
+     <seg>remaining 20 percent is paid once KORO has approved the final report. The funding recipient should submit their professional report, accounts and other documentation no later than three months after the end date for the project. Your</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/12/6.1-Retningslinjer-LOK_NN-desember-2021_NY.pdf.converted</prop>
+     <seg>Dei resterande 20 % blir utbetalt n&#229;r KORO har godkjent sluttrapporten.Tilskotmottakar pliktar &#229; sende sluttrapport til KORO innan tre m&#229;nader etter at prosjektet er fullf&#248;rt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.0407</prop>
+    <prop type="score-bicleaner">0.519</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2019/03/Flyer-kunsten-i-Bragebygget-engelsk-versjon.pdf.converted</prop>
+     <seg>1939, used for generations in Norwegian schools. This</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2019/03/Flyer-kunsten-i-Bragebygget-norsk-versjon.pdf.converted</prop>
+     <seg>fr&#229; 1939, som blei brukt i den norske skulen i fleire gene-rasjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.62493</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2020/04/1.1-Strategi-BM_en-GB.pdf.converted</prop>
+     <seg>&#8226; KORO&#8217;s art programmes shall be relevant both societally and for commissioners,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2020/04/Strategi-NN-2020.pdf.converted</prop>
+     <seg>&#8226; Kunstordningane til KORO skal vere samfunnsaktuelle og relevante for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.17143</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>low threshold for interaction.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>inviterande med l&#229;g terskel for interaksjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.99138</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>STJERNE OVER HAUKELAND (Star over Haukeland) (Endless Lamppost) consists of two elements:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>&#171;STJERNE OVER HAUKELAND (Endless Lamppost)&#187; best&#229;r av to element.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.15286</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2020/04/1.1-Strategi-BM_en-GB.pdf.converted</prop>
+     <seg>&#8226; KORO shall work to promote cultural heterogeneity and diversity in its artistic</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2020/04/Strategi-NN-2020.pdf.converted</prop>
+     <seg>&#8226; KORO skal arbeide for &#229; fremme kulturell heterogenitet og uttrykksmangfald i dei</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.2925</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>NICE TO SEE YOU is strange and corny in a positive way, providing a low threshold for interaction.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>&#171;NICE TO SEE YOU&#187; er rart og corny p&#229; ein positiv m&#229;te, noko som gir l&#229;g terskel for interaksjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.04545</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>With a bit of imagination, the artwork can be perceived as a poetic connection</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>Ein tenkjer seg at verket kan vere eit poetisk band mel om Bergen og sjukehuset.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.395</prop>
+    <prop type="score-bicleaner">0.567</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>There are two main groups of elements.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>Der er to hovudgrupper av element.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.53696</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>Oskarsson and Nordstr&#246;m&#8217;s proposal makes clear reference to the garden themes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>Forslaget til Oskarsson og Nordstr&#246;m har tydelege referansar til hagetematikken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.59195</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>Light: H = varying from 800 to 5,300 mm.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>H = varierande fr&#229; 800 til 5300 mm.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.02568</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>The proposal is resilient, innovative and</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>Forslaget er spenstig, innovativt og visuelt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.17724</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>The coronavirus pandemic has made the process demanding, both for the participants and the jury.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>Koronasituasjonen har gjort prosessen krevjande, for b&#229;de deltakarane og juryen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.47857</prop>
+    <prop type="score-bicleaner">0.669</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2019/03/Flyer-kunsten-i-Bragebygget-engelsk-versjon.pdf.converted</prop>
+     <seg>Marianne Rumohr wrote the well-known ABC from</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2019/03/Flyer-kunsten-i-Bragebygget-norsk-versjon.pdf.converted</prop>
+     <seg>Marianne Rumohr stod bak den kjende ABC-l&#230;reboka</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>VANNPYTTER OG SPREKKER I SKYDEKKET is an aesthetically pleasing and well thought-out</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>&#171;VANNPYTTER OG SPREKKER I SKYDEKKET&#187; er estetisk tiltalande og eit godt gjennomarbeidd</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.01364</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2020/04/1.1-Strategi-BM_en-GB.pdf.converted</prop>
+     <seg>&#8226; KORO shall work actively in collaboration with established knowledge institutions</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2020/04/Strategi-NN-2020.pdf.converted</prop>
+     <seg>&#8226; KORO skal arbeide aktivt for utvikling av kunnskap om og kompetanse p&#229; kunst</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.63371</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2019/03/Flyer-kunsten-i-Bragebygget-engelsk-versjon.pdf.converted</prop>
+     <seg>Rumohr (1885&#8211;1970), played an important part in the curating of the building&#8217;s art.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2019/03/Flyer-kunsten-i-Bragebygget-norsk-versjon.pdf.converted</prop>
+     <seg>fattaren og l&#230;raren Marianne Rumohr (1885&#8211;1970), blei s&#230;rleg viktige for det kuratoriske grepet om kunsten i bygget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.38</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>STJERNE OVER HAUKELAND could perhaps serve a similar function.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>&#171;STJERNE OVER HAUKELAND&#187; kan tenkjast &#229; ha ein liknande funksjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.01957</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/12/6.1-Retningslinjer-LOK_ENG-desember-2021_NY.pdf.converted</prop>
+     <seg>closely with you on the production of your project and/or the development of your project</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/12/6.1-Retningslinjer-LOK_NN-desember-2021_NY.pdf.converted</prop>
+     <seg>plan for organisering, drift, formidling og dokumentasjon av kunstprosjektet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.33916</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>experience it as art, they must be familiar with the references, which requires that they are clearly</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>det som kunst, m&#229; dei kjenne referansane, og desse m&#229; vere visuelt framstilte p&#229; ein tydeleg m&#229;te.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.43367</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>The star is a playful reference to traditional children&#8217;s stories like &#8216;I Want!</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>Stjerna speler p&#229; gamle barneforteljingar, som &#171;I Want!</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.25541</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>material was chosen so that &#8220;the word would appear simple and clear &#8211; with the lightness of delicate,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>valt for at &#171;ordet skal verke enkelt og klart &#8211; og like lett som sart, kvitt b&#248;ygd papir&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.29348</prop>
+    <prop type="score-bicleaner">0.559</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2019/10/Flyer_UiB_Universitetsmuseet_engelsk.pdf.converted</prop>
+     <seg>consists of two photographic series and performance.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2019/10/Flyer_UiB_Universitetsmuseet_norsk.pdf.converted</prop>
+     <seg>best&#229;r av to fotografiske seriar og ein performance.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.85</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2019/03/Flyer-kunsten-i-Bragebygget-engelsk-versjon.pdf.converted</prop>
+     <seg>(1916&#8211;2002) and the author and teacher Marianne</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2019/03/Flyer-kunsten-i-Bragebygget-norsk-versjon.pdf.converted</prop>
+     <seg>omfang. To l&#230;rd&#248;ler, grafikaren Knut Rumohr (1916&#8211;2002) og for-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.37254</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>binoculars that visitors can use to look out over Bergen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>fastmonterte kikkertar der publikum kan sj&#229; ut over Bergen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.15543</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>Oskarsson and Nordstr&#246;m demonstrate an understanding of context, also with a view to other artwork</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>Oskarsson og Nordstr&#246;m viser forst&#229;ing av kontekst, ogs&#229; med tanke p&#229; annan kunst som kjem i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.07428</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>From the ground, &#216;YE wil block sight lines from the hospital foyer through the garden and down</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>Fr&#229; bakkeniv&#229; vil &#171;&#216;YE&#187; blokkere siktlinjer fr&#229; foajeen til sjukehuset, gjennom hagen og ned mot</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.18846</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>DET GYLNE EGGET (The Golden Egg) is an egg-shaped bronze sculpture with a golden, reflective</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>&#171;DET GYLNE EGGET&#187; er ein eggforma skulptur i bronse med ei gyl en, reflekterande overflate.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.14575</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>instal ation like STJERNE OVER HAUKELAND requires approval from the aviation authority and</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>instal asjon som &#171;STJERNE OVER HAUKELAND&#187; vil krevje godkjenning fr&#229; luftfartsmyndigheiter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.18163</prop>
+    <prop type="score-bicleaner">0.609</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>INGES IDEE has submitted a very well thought-out project.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>INGES IDEE har levert eit godt gjennomarbeidd prosjekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.0747</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/12/6.1-Retningslinjer-LOK_ENG-desember-2021_NY.pdf.converted</prop>
+     <seg>Artists, curators, art centres, municipalities, county councils and other individuals or</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/12/6.1-Retningslinjer-LOK_NN-desember-2021_NY.pdf.converted</prop>
+     <seg>Kommunar, fylkeskommunar, kunstsentrum og andre ansvarlege akt&#248;rar innanfor</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.18837</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>The proposer plays with language and perception.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>Forslagsstil aren leikar med spr&#229;ket, persepsjonen v&#229;r og sansing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>characters that can spur interaction.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>situasjon der samhandling kan oppst&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.15332</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>&#8216;Mother and child&#8217; consists of two fixed binoculars that offer views of Bergen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>&#171;Mor og barn&#187; er to fastmonterte kikkertar der ein kan sj&#229; ut over Bergen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.12714</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/EN_HAUKELAND-Juryens-vurdering-og-konklusjon.pdf.converted</prop>
+     <seg>perhaps primarily the youngest ones.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://koro.no/content/uploads/2021/06/NN_HAUKELAND-Juryens-vurdering.pdf.converted</prop>
+     <seg>for konkret og avgrensa i lesinga.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,524 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T092125" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.52222</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>I prosjektbeskrivelsen skal du ogs&#229; omtale andre aktiviteter og tiltak som er n&#248;dvendige for &#229; realisere innovasjonen, men vi finansierer ikke kostnader til dette.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>I prosjektskildringa skal du ogs&#229; skildre andre aktivitetar og tiltak som er n&#248;dvendige for &#229; realisere innovasjonen, men vi finansierer ikkje kostnader til dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.20429</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Det er en forutsetning at forskningen blir gjennomf&#248;rt i faktisk samarbeid mellom alle partnerne slik dette er definert i statsst&#248;tteregelverket:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Det er ein f&#248;resetnad at forskinga vert gjennomf&#248;rt i faktisk samarbeid mellom alle partnarane slik dette er definert i statsst&#248;tteregelverket:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.05839</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/Download/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-naringslivet-2021/Download/</prop>
+     <seg>I hvilken grad vil prosjektet bidra til b&#230;rekraftig regional verdiskaping for andre enn deinvolverte akt&#248;rene?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-innovasjonsprosjekt-i-kommunal-sektor-2022/Download/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-innovasjonsprosjekt-i-naringslivet-2022/Download/</prop>
+     <seg>&#8226; I kva grad vil prosjektet bidra til berekraftig regional verdiskaping for andre enn dei involverteakt&#248;rane?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-samarbeidsprosjekt-2021/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2020/regionalt-samarbeidsprosjekt-2020/Download/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-innovasjonsprosjekt-i-naringslivet-2021/Download/</prop>
+     <seg>Krav til prosjektansvarlig</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/Download/</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-naringslivet-2021/Download/</prop>
+     <seg>Krav til prosjektansvarleg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.29231</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-samarbeidsprosjekt-2021/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2020/regionalt-samarbeidsprosjekt-2020/Download/</prop>
+     <seg>regulere gjensidige rettigheter og plikter</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/Download/</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/</prop>
+     <seg>regulere gjensidige rettigheiter og pliktar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.53</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/rff-arktis/rffarktis/2021/regionale-samarbeidsprosjekt---gronn-omstilling-2021/Download/</prop>
+     <seg>&#8226;I hvilken grad vil prosjektet bidra til kunnskapsoppbygging regionalt?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-samarbeidsprosjekt-for-forskingsorganisasjonar-2021/Download/</prop>
+     <seg>&#8226; I kva grad vil prosjektet bidra til kunnskapsoppbygging regionalt?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.57019</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/rogaland/rffrogaland/2020/forprosjekt-for-naringslivet/Download/</prop>
+     <seg>&#8226; I hvilken grad bygger forprosjektet p&#229; relevant og oppdatert kunnskap?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-forprosjekt-for-bedrifter-kommunal-sektor-og-forskingsorganisasjonar-2021/Download/</prop>
+     <seg>&#8226; I kva grad bygger prosjektet p&#229; relevant og oppdatert kunnskap?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.58745</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Utstyr er drifts- og avskrivingskostnader for vitenskapelig utstyr som prosjektet er avhengig av &#229; bruke.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Utstyr er drifts- og avskrivingskostnader for vitskapeleg utstyr som prosjektet er avhengig av &#229; nytte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.78435</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-samarbeidsprosjekt-2021/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2020/regionalt-samarbeidsprosjekt-2020/Download/</prop>
+     <seg>RFF Agders st&#248;tte skal i sin helhet g&#229; til forskningsorganisasjonen(e)s ikke-&#248;konomiskeaktivitet i form av uavhengig forskning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/Download/</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/</prop>
+     <seg>RFF Vestland si st&#248;tte skal i sin heilheit g&#229; til forskingsorganisasjon(ane) si ikkje-&#248;konomiskeaktivitet i form av uavhengig forsking.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.70285</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-innovasjonsprosjekt-i-naringslivet-2021/Download/</prop>
+     <seg>Bedrifter tildeles st&#248;tte i henhold til den s&#229;kalte gruppeunntaksforordningen(Kommisjonsforordning 651/2014 av 17.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-naringslivet-2021/Download/</prop>
+     <seg>Bedrifter vert tildelt st&#248;tte i etter den s&#229;kalla gruppeunntaksforordninga (Kommisjonsforordning651/2014 av 17.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.79355</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-samarbeidsprosjekt-2021/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2020/regionalt-samarbeidsprosjekt-2020/Download/</prop>
+     <seg>&#8226;I hvilken grad vil prosjektet bidra til b&#230;rekraftig regional verdiskaping utover de involverteakt&#248;rene?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/Download/</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/</prop>
+     <seg>&#8226; I kva grad vil prosjektet bidra til berekraftig regional verdiskaping for andre enn dei involverteakt&#248;rane?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Andre prosjektkostnader, som er kostnader til annen aktivitet som er n&#248;dvendig for &#229; gjennomf&#248;re FoU-aktivitetene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Andre prosjektkostnader, som er kostnader til annan aktivitet som er n&#248;dvendig for &#229; gjennomf&#248;re FoU-aktivitetane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.563</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/Download/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-naringslivet-2021/Download/</prop>
+     <seg>&#197;pen for s&#248;knad</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-innovasjonsprosjekt-i-kommunal-sektor-2022/Download/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-innovasjonsprosjekt-i-naringslivet-2022/Download/</prop>
+     <seg>Open for s&#248;knad</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.39859</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/rogaland/rffrogaland/2020/forprosjekt-for-naringslivet/Download/</prop>
+     <seg>&#8226; I hvilken grad benytter forprosjektet relevante og anerkjente FoU-metoder?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-forprosjekt-for-bedrifter-kommunal-sektor-og-forskingsorganisasjonar-2021/Download/</prop>
+     <seg>&#8226; I kva grad nyttar prosjektet relevante og anerkjente FoU-metodar?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.71187</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/Download/</prop>
+     <seg>Hvilken grad vil prosjektet bidra til &#229; l&#248;se utfordringer for kommunal sektor som er spesieltvikitge i Tr&#248;ndelag?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-innovasjonsprosjekt-i-kommunal-sektor-2022/Download/</prop>
+     <seg>&#8226; I kva grad vil prosjektet bidra til &#229; l&#248;yse utfordringar for kommunal sektor som er spesielt viktigei Vestland fylke?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.64396</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/Download/</prop>
+     <seg>er kostnader hos prosjektansvarlig institusjon og andreprosjektutf&#248;rende samarbeidspartnere i offentlig sektor, i n&#230;ringslivet og iforskningsorganisasjoner i Norge.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-innovasjonsprosjekt-i-kommunal-sektor-2022/Download/</prop>
+     <seg>, som er kostnader hos prosjektansvarleg institusjon ogandre prosjektutf&#248;rande samarbeidspartnarar i offentleg sektor, i n&#230;ringslivet og iforskingsorganisasjonar i Noreg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.52727</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>er kostnader hos prosjektansvarlig institusjon og andre prosjektutf&#248;rende samarbeidspartnere i offentlig sektor, i n&#230;ringslivet og i forskningsorganisasjoner i Norge.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>er kostnader hos prosjektansvarleg institusjon og andre prosjektutf&#248;rande samarbeidspartnarar i offentleg sektor, i n&#230;ringslivet og i forskingsorganisasjonar i Noreg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.17513</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/nar-du-har-fatt-finansiering/prosjektrapportering/</prop>
+     <seg>Frist for rapportering er en m&#229;ned etter godkjent sluttdato.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/nar-du-har-fatt-finansiering/prosjektrapportering/</prop>
+     <seg>Frist for sluttrapportering er ein m&#229;nad etter godkjent sluttdato.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Prosjektansvarlig m&#229; v&#230;re registrert med organisasjonsnummer</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Prosjektansvarleg m&#229; vere registrert med organisasjonsnummer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.00275</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/rff-arktis/rffarktis/2021/regionale-samarbeidsprosjekt---gronn-omstilling-2021/Download/</prop>
+     <seg>Intensjonsbrev fra alle registrerte samarbeidspartnere.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-samarbeidsprosjekt-for-forskingsorganisasjonar-2021/Download/</prop>
+     <seg>Intensjonsbrev fr&#229; alle registrerte samarbeidspartnarane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.58571</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>St&#248;tte til foretak utgj&#248;r statsst&#248;tte.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>St&#248;tte til f&#248;retak utgjer statsst&#248;tte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.28182</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Forutsetninger for tildeling av st&#248;tte</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>F&#248;resetnader for tildeling av st&#248;tte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.20564</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Et foretak er en akt&#248;r som driver &#248;konomisk aktivitet ved &#229; tilby varer og/eller tjenester i et marked.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Eit f&#248;retak er ein akt&#248;r som driv &#248;konomisk aktivitet ved &#229; tilby varer og/eller tenester i ein marknad.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.52222</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-samarbeidsprosjekt-2021/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2020/regionalt-samarbeidsprosjekt-2020/Download/</prop>
+     <seg>Utenlandske bedrifter kan delta som samarbeidspartnere i prosjektet, men deres kostnaderskal ikke f&#248;res inn i budsjettabellene og teller ikke inn som egenandel i prosjektet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/Download/</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/</prop>
+     <seg>Utanlandske bedrifter kan delta som samarbeidspartnarar i prosjektet, men deira kostnaderskal ikkje verte f&#248;rt inn i budsjettabellane og tel ikkje som eigendel i prosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.12609</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>N&#229;r et foretak skal f&#229; dekket deler av sine prosjektkostnader, som samarbeidspartner i FoU-prosjektet, m&#229; dette skje etter</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>N&#229;r eit f&#248;retak skal f&#229; dekka deler av sine prosjektkostnader, som samarbeidspartnar i FoU-prosjektet, m&#229; dette skje etter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.57717</prop>
+    <prop type="score-bicleaner">0.553</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Innkj&#248;p av FoU-tjenester, som er kostnader ved &#229; engasjere FoU-leverand&#248;rer til &#229; utf&#248;re FoU-oppgaver i prosjektet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Innkj&#248;p av FoU-tenester, som er kostnader ved &#229; engasjere FoU-leverand&#248;rar til &#229; utf&#248;re FoU-oppg&#229;ver i prosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.53209</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/rogaland/rffrogaland/2020/forprosjekt-for-naringslivet/Download/</prop>
+     <seg>&#8226; I hvilken grad er FoU-aktivitetene n&#248;dvendige for &#229; lykkes med forprosjektet?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-forprosjekt-for-bedrifter-kommunal-sektor-og-forskingsorganisasjonar-2021/Download/</prop>
+     <seg>&#8226; I kva grad er FoU-aktivitetane n&#248;dvendige for &#229; lukkast med innovasjonen?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.76786</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-samarbeidsprosjekt-2021/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2020/regionalt-samarbeidsprosjekt-2020/Download/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/rff-arktis/rffarktis/2021/regionale-samarbeidsprosjekt---gronn-omstilling-2021/Download/</prop>
+     <seg>Intensjonsbrevet skal inneholde enbegrunnelse for hvorfor prosjektet er viktig samt beskrive planlagt bidrag inn i prosjektet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/Download/</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-samarbeidsprosjekt-for-forskingsorganisasjonar-2021/Download/</prop>
+     <seg>Intensjonsbrevet skal innehalde eigrunngjeving for kvifor prosjektet er viktig for partnarane samt skildre planlagt bidrag inn iprosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.29688</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-samarbeidsprosjekt-2021/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2020/regionalt-samarbeidsprosjekt-2020/Download/</prop>
+     <seg>sikre at ingen samarbeidende bedrifter mottar indirekte st&#248;tte fraforskningsorganisasjonen(e) i prosjektet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/Download/</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/</prop>
+     <seg>sikre at ingen samarbeidande bedrifter mottar indirekte st&#248;tte fr&#229;forskingsorganisasjon(ane) i prosjektet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.51202</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-innovasjonsprosjekt-i-naringslivet-2021/Download/</prop>
+     <seg>En prosjektpartner skal defineres som enten "finansierende og utf&#248;rende" (kommuneog/eller bedriftspartner som g&#229;r inn med egeninnsats) eller "utf&#248;rende" (fullfinansiert FoU-organisasjon eller bedrift som er FoU-leverand&#248;r inn i prosjektet).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-naringslivet-2021/Download/</prop>
+     <seg>Ein prosjektpartnar skal definerast som "finansierande og utf&#248;rande" (bedriftspartner somg&#229;r inn med eigeninnsats) eller som "utf&#248;rande" (fullfinansiert FoU-organisasjon eller bedriftsom er FoU-leverand&#248;r inn i prosjektet).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.41744</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/Download/</prop>
+     <seg>Oppfordring til brukermedvirkningBrukermedvirkning og brukerkunnskap er i mange sammenhenger viktig for &#229; lykkes iinnovasjonsarbeidet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2021/regionale-innovasjonsprosjekt-i-kommunal-sektor-2022/Download/</prop>
+     <seg>Oppfordrar til brukarmedverknadBrukarmedverknad og brukarkunnskap er i mange samanhengar viktig for &#229; lukkast iinnovasjonsarbeidet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.93636</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-samarbeidsprosjekt-2021/</prop>
+     <prop type="source-document">https://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2020/regionalt-samarbeidsprosjekt-2020/Download/</prop>
+     <seg>Prosjektleder m&#229; ha godkjent doktorgrad eller tilsvarende f&#248;r s&#248;knadsfristen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/Download/</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/</prop>
+     <seg>Prosjektleiar m&#229; ha godkjent doktorgrad eller tilsvarande f&#248;r s&#248;knadsfristen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.04194</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Prosjektbudsjettet skal settes opp etter</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Sett prosjektbudsjettet opp etter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.13053</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>St&#248;tte til forskningsorganisasjoner som er samarbeidspartnere i prosjektet, g&#229;r til deres ikke-&#248;konomiske aktivitet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>St&#248;tte til forskingsorganisasjonar som er samarbeidspartnarar i prosjektet, g&#229;r til deira ikkje-&#248;konomiske aktivitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.69667</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Brukermedvirkning og brukerkunnskap er i mange sammenhenger viktig for &#229; lykkes i innovasjonsarbeidet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Brukarmedverking og brukarkunnskap er i mange samanhengar viktig for &#229; lukkast i innovasjonsarbeidet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.29231</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Regnskapsmessig skille mellom &#248;konomisk og ikke-&#248;konomisk aktivitet m&#229; v&#230;re p&#229; plass.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Rekneskapsmessig skilje mellom &#248;konomisk og ikkje-&#248;konomisk aktivitet m&#229; vere p&#229; plass.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.57802</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/fondsregion-agder/rffagder/2021/regionalt-samarbeidsprosjekt-2021/</prop>
+     <seg>med alle samarbeidspartnerne i prosjektet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-samarbeidsprosjekt-2021/</prop>
+     <seg>med alle samarbeidspartnarane i prosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/trondelag/rfftrondelag/2021/regionalt-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Dersom s&#248;knaden blir innvilget st&#248;tte, m&#229; prosjektansvarlig inng&#229; avtale med alle samarbeidspartnerne.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/vestland/rffvestland/2020/regionale-innovasjonsprosjekt-i-kommunal-sektor-2021/</prop>
+     <seg>Dersom s&#248;knaden vert innvilga st&#248;tte, m&#229; prosjektansvarleg inng&#229; avtale med alle samarbeidspartnarane.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

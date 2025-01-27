@@ -1,0 +1,1001 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T204205" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.92826</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01836_gangaslia_massetak_i_aure_kommune.pdf.converted</prop>
+     <seg>Konsesjonsgrensen for massetaket skal settes ut eller markeres i terrenget, slik at den er lett synlig gjennom hele driftsperioden.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01729_bjordal_massetak_i_hoyanger_kommune.pdf.converted</prop>
+     <seg>konsesjonstildeling, setjast ut eller markerast i terrenget p&#229; ein slik m&#229;te at den er lett synleg gjennom heile driftsperioden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.59894</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <seg>I vurderingsgrunnlaget er det ikke kommet frem opplysninger som tyder p&#229; at uttaket vil komme i konflikt med naturverdier i omr&#229;det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>Det er ikkje kome fram opplysningar i vurderingsgrunnlaget som tyder p&#229; at uttaket vil kome i konflikt med naturverdiar i omr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.69622</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <seg>Det er derfor viktig at driver gjennomf&#248;rer n&#248;dvendige sikringstiltak for &#229; hindre eventuelle skader p&#229; eiendom, mennesker og dyr.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>Det er difor viktig at drivaren gjennomf&#248;rer n&#248;dvendige sikringstiltak for &#229; unng&#229; skadar p&#229; eigedom, menneske og dyr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.64774</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/20-01839_risneset_masseuttak_i_hareid_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-00144_myrsaga_i_melhus_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-00882_hegna_grustak_i_notodden_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01836_gangaslia_massetak_i_aure_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-00882_hegna_grustak_i_notodden_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <seg>Den &#248;konomiske sikkerheten skal stilles med bankgaranti for et grunnbel&#248;p stort NOK 150 000, og deretter &#229;rlige avsetninger til bankkonto som det skal etableres pant i til fordel for DMF slik at Tiltakshaver ikke kan r&#229;de over denne p&#229; noe vis, begge deler som beskrevet i punkt 5.11.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01729_bjordal_massetak_i_hoyanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01729_bjordal_massetak_i_hoyanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-01856_kuholen_grustak_kjaestad_grustak_i_skjak_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-01856_kuholen_grustak_kjaestad_grustak_i_skjak_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00240_moen_i_voss_kommune.pdf.converted</prop>
+     <seg>Den &#248;konomiske sikkerheita skal stillast i form av ein bankgaranti for eit grunnbel&#248;p p&#229; NOK 150 000, og deretter &#229;rlege avsetjingar til ein bankkonto som det skal etablerast pant i til fordel for DMF slik at Tiltakshavaren ikkje kan r&#229;de over kontoen p&#229; noko vis, begge deler som skildra i punkt 5.11.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.09211</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <seg>Klagen skal sendes til DMF for ny vurdering.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>Klagen skal sendast til DMF for ny vurdering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.00829</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00222_himberg_pukkverk_i_re_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <seg>Biologisk mangfold &#8211; vurdering etter naturmangfoldloven</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-00210_nesbo_hellegneissone_i_granvin_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <seg>Biologisk mangfald &#8211; vurdering etter naturmangfaldlova</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.01636</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00016_overskott_steinbrudd_i_indre_fosen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00222_himberg_pukkverk_i_re_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00585_bjorsate_masseuttak_i_rollag_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-02035_valorholtet_i_bardu_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/20-01839_risneset_masseuttak_i_hareid_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00016_overskott_steinbrudd_i_indre_fosen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-00882_hegna_grustak_i_notodden_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00219_skaane_pukkverk_i_horten_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-00882_hegna_grustak_i_notodden_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <seg>Ved vurderingen av hvorvidt driftskonsesjon skal gis skal det legges vekt p&#229; om s&#248;ker er &#171;skikket&#187; til &#229; utvinne forekomsten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-00408_samfjorden_massetak_i_haram_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-02733_eide_pukkverk_i_fjell_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00578_loset_masseuttak_i_volda_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-00408_samfjorden_massetak_i_haram_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00578_loset_masseuttak_i_volda_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-01856_kuholen_grustak_kjaestad_grustak_i_skjak_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-00210_nesbo_hellegneissone_i_granvin_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01729_bjordal_massetak_i_hoyanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-01856_kuholen_grustak_kjaestad_grustak_i_skjak_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <seg>I vurderinga av om det skal gjevast driftskonsesjon skal det leggjast vekt p&#229; om s&#248;kjaren er "skikka" til &#229; utvinne f&#248;rekomsten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.96951</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <seg>forvaltningslovens &#167; 17, hos Rauma kommune, M&#248;re og Romsdal fylkeskommune, Fylkesmannen i M&#248;re og Romsdal, Statens vegvesen, NVE, Rauma Energi AS og aktuelle naboer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <seg>forvaltningslova &#167; 17, hos Rauma kommune, Fylkesmannen i M&#248;re og Romsdal, M&#248;re og Romsdal fylkeskommune, NVE, Statens vegvesen og aktuelle private parter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">4.2875</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/20-03450_myklevik_masseuttak_i_vestvagoy_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/20-03450_myklevik_masseuttak_i_vestvagoy_kommune.pdf.converted</prop>
+     <seg>forvaltningsloven &#167; 17, hos f&#248;lgende h&#248;ringsinstanser:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-00409_opshaug_steinbrudd_i_stranda_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-00409_opshaug_steinbrudd_i_stranda_kommune_0.pdf.converted</prop>
+     <seg>forvaltningslova &#167; 17, hos desse h&#248;yringsinstansane:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.96175</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <seg>Langsiktige planlegging for etterbruk eller tilbakef&#248;ring av omr&#229;det</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>Langsiktig planlegging for etterbruk eller tilbakef&#248;ring av omr&#229;det</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.66655</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <seg>Minerallovens form&#229;l er &#229; fremme og sikre samfunnsmessig forsvarlig forvaltning og bruk av mineralressursene i samsvar med prinsippet om en b&#230;rekraftig utvikling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <seg>F&#248;rem&#229;let til minerallova er &#229; fremje og sikre samfunnsmessig forsvarleg forvaltning og bruk av mineralressursane i samsvar med prinsippet om ei berekraftig utvikling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.7375</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01739_langebrekke_i_eidsberg_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01739_langebrekke_i_eidsberg_kommune_0.pdf.converted</prop>
+     <seg>Arten er i tilbakegang og det er dermed viktig &#229; sikre hekkeplassene gjennom hekkesesongen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02772_vassendemona_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02772_vassendemona_i_gloppen_kommune.pdf.converted</prop>
+     <seg>Arten er i tilbakegong og det er dermed viktig &#229; sikre hekkeplassane gjennom hekkesesongen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.54434</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00222_himberg_pukkverk_i_re_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <seg>Ved vurderingen har DMF lagt vekt p&#229; driftsplanen for uttaket.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-00210_nesbo_hellegneissone_i_granvin_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <seg>Ved vurderinga har DMF lagt vekt p&#229; driftsplanen for uttaket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.03617</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/21_00343_bjerkeli_masseuttak_i_molde_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/21_00343_bjerkeli_masseuttak_i_molde_kommune.pdf.converted</prop>
+     <seg>Etter DMF sin vurdering vil det v&#230;re hensiktsmessig at den &#248;konomiske sikkerheten stilles ved innbetaling av et grunnbel&#248;p og ved individuell fondsavsetning, begge deler til bankkonto som det i henhold til egen avtale om finansiell sikkerhetsstillelse skal etableres pant i til fordel for DMF, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01566_smylemoen_i_bykle_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01566_smylemoen_i_bykle_kommune.pdf.converted</prop>
+     <seg>Etter DMF si vurdering vil det vere f&#248;rem&#229;lstenleg at den &#248;konomiske sikkerheita blir stilt ved bankgaranti og individuel fondsavsetjing til ein bankkonto som det etter ein eigen avtale om finansiel sikkerheit skal etablerast pant i til fordel for DMF, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.55412</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <seg>forvaltningslovens &#167; 17, hos Strand kommune, Rogaland fylkeskommune, Fylkesmannen i Rogaland, Statens vegvesen, NVE, Lyse Elnett AS og andre aktuelle naboer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <seg>forvaltningslova &#167; 17, hos Fyresdal kommune, Fylkesmannen i Vestfold og Telemark, Telemark fylkeskommune, Statens vegvesen, NVE, Fyresdal aeroklubb og aktuelle naboer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.79182</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <seg>Etter DMF sin vurdering vil det v&#230;re hensiktsmessig at den &#248;konomiske sikkerheten stilles ved bankgaranti og individuell fondsavsetning til bankkonto, som det i henhold til egen avtale om finansiel sikkerhetsstillelse skal etableres pant i til fordel for DMF, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <seg>Etter DMF si vurdering vil det vere f&#248;rem&#229;lstenleg at den &#248;konomiske sikkerheita blir stilt ved bankgaranti og individuell fondsavsetjing til ein bankkonto som det etter ein eigen avtale om finansiell sikkerheit skal etablerast pant i til fordel for DMF, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.96667</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01739_langebrekke_i_eidsberg_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01739_langebrekke_i_eidsberg_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <seg>Forholdet til omgivelsene og n&#230;rliggende omr&#229;der under drift</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02772_vassendemona_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02772_vassendemona_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>Forholdet til omgivnadene og n&#230;rliggjande omr&#229;de under drift</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.82755</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00222_himberg_pukkverk_i_re_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <seg>Det inntas derfor som vilk&#229;r i konsesjonen at DMF kan kreve at Tiltakshaver foretar ny oppm&#229;ling og at ajourf&#248;rte kart og profiler sendes inn n&#229;r DMF finner det n&#248;dvendig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-00210_nesbo_hellegneissone_i_granvin_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <seg>Det blir difor teke inn som eit vilk&#229;r i konsesjonen at DMF kan krevje at Tiltakshavaren gjer ny oppm&#229;ling og at ajourf&#248;rte kart og profilar skal sendast inn n&#229;r DMF finn det n&#248;dvendig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00108_straumen_steinbrudd_i_nore_og_uvdal_kommune.pdf.converted</prop>
+     <seg>Forholdet til omgivelsene og n&#230;rliggende omr&#229;der under drift</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01367_flatneset_steinbrot_i_orsta_kommune.pdf.converted</prop>
+     <seg>Tilh&#248;vet til omgjevnadene og n&#230;rliggjande omr&#229;de under drift</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.5784</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/20-01839_risneset_masseuttak_i_hareid_kommune.pdf.converted</prop>
+     <seg>Tiltakshaver er imidlertid ikke grunneier til de &#248;vrige gbnr., og det kreves derfor avtale med grunneierne om utvinningsrett til forekomsten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01729_bjordal_massetak_i_hoyanger_kommune.pdf.converted</prop>
+     <seg>Tiltakshavaren er ikkje grunneigar for konsesjonsomr&#229;det, og det blir difor kravd avtale med grunneigaren om utvinningsretten til f&#248;rekomsten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.99025</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <seg>I vurderingsgrunnlaget er det ikke kommet frem opplysninger som tyder p&#229; at uttaket vil komme i konflikt med naturverdier i omr&#229;det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <seg>Det er i vurderingsgrunnlaget ikkje kome frem opplysningar som tyder p&#229; at uttaket vil kome i konflikt med naturverdier i omr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.58571</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00108_straumen_steinbrudd_i_nore_og_uvdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00711_fonnakroken_massetak_i_engerdal_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00711_fonnakroken_massetak_i_engerdal_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03046_gubbeskallen_i_sor-odal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <seg>Det samme gjelder hvis driften blir innstilt i mer enn ett &#229;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01872_helland_i_modalen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02770_skrebergene_sandtak_i_oystre_slidre_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01367_flatneset_steinbrot_i_orsta_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02770_skrebergene_sandtak_i_oystre_slidre_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>Det same gjeld dersom drifta blir innstilt i meir enn eitt &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.21756</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00108_straumen_steinbrudd_i_nore_og_uvdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00711_fonnakroken_massetak_i_engerdal_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-00226_sjaheimberget_massetak_i_lesja_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00711_fonnakroken_massetak_i_engerdal_kommune_0.pdf.converted</prop>
+     <seg>Etter DMF sin vurdering vil det v&#230;re hensiktsmessig at den &#248;konomiske sikkerheten stilles ved bankgaranti og individuell fondsavsetning til bankkonto, som det i henhold til egen avtale om finansiel sikkerhetsstillelse skal etableres pant i til fordel for DMF, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02770_skrebergene_sandtak_i_oystre_slidre_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02770_skrebergene_sandtak_i_oystre_slidre_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01367_flatneset_steinbrot_i_orsta_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00083_bruddet_i_fjaler_kommune.pdf.converted</prop>
+     <seg>Etter DMF si vurdering vil det vere f&#248;rem&#229;lstenleg at den &#248;konomiske sikkerheita blir stilt ved bankgaranti og individuel fondsavsetjing til ein bankkonto som det etter ein eigen avtale om finansiel sikkerheit skal etablerast pant i til fordel for DMF, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.54929</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00222_himberg_pukkverk_i_re_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <seg>Dersom det under driften oppst&#229;r nye situasjoner eller andre endringer i forutsetningene for driften, eksempelvis geologiske og kvalitetsmessige variasjoner, b&#248;r det imidlertid p&#229; vilk&#229;r kunne gis &#229;pning for &#229; gj&#248;re endringer og tilpasninger i forhold til planen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-00210_nesbo_hellegneissone_i_granvin_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>Dersom det under drifta oppst&#229;r nye situasjonar eller andre endringar i f&#248;resetnadene for drifta, til d&#248;mes geologiske og kvalitetsmessige variasjonar, b&#248;r det likevel p&#229; visse vilk&#229;r kunne opnast for &#229; gjere endringar og tilpassingar i planen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.63588</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/20-01839_risneset_masseuttak_i_hareid_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-00144_myrsaga_i_melhus_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-01422_ramnflauget_i_sortland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04193_tandeskogen_fjelltak_i_ringsaker_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-01422_ramnflauget_i_sortland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01836_gangaslia_massetak_i_aure_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02883_naeringsbebyggelse_sviland_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04193_tandeskogen_fjelltak_i_ringsaker_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02883_naeringsbebyggelse_sviland_i_sandnes_kommune.pdf.converted</prop>
+     <seg>DMF kan kreve ny oppm&#229;ling og at ajourf&#248;rte kart og profiler sendes inn n&#229;r DMF finner det n&#248;dvendig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/21_00370_massetak_bjordal_i_hoyanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01653_skareberget_i_time_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01344_flatmoen_grustak_i_skjak_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01729_bjordal_massetak_i_hoyanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/21_00370_massetak_bjordal_i_hoyanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01729_bjordal_massetak_i_hoyanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01344_flatmoen_grustak_i_skjak_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00240_moen_i_voss_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01653_skareberget_i_time_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>DMF kan krevje ny oppm&#229;ling og at ajourf&#248;rte kart og profilar skal sendast inn n&#229;r DMF finn det n&#248;dvendig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">3.47772</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <seg>naturmangfoldloven &#167; 10 skal den samlede belastning p&#229; &#248;kosystem og naturmangfoldet i regionen vurderes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <seg>Etter naturmangfaldlova &#167; 10 skal den samla belastinga p&#229; &#248;kosystem og naturmangfaldet i regionen vurderast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.16071</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <seg>DMF godkjenner driftsplanen for Solbu grustak.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>DMF godkjenner driftsplanen for Frisvol grustak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.77073</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/21_00343_bjerkeli_masseuttak_i_molde_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00108_straumen_steinbrudd_i_nore_og_uvdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/21_00343_bjerkeli_masseuttak_i_molde_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00711_fonnakroken_massetak_i_engerdal_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00711_fonnakroken_massetak_i_engerdal_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03046_gubbeskallen_i_sor-odal_kommune.pdf.converted</prop>
+     <seg>All avkastning p&#229; midlene godskrives kontoen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01872_helland_i_modalen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01566_smylemoen_i_bykle_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02770_skrebergene_sandtak_i_oystre_slidre_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01367_flatneset_steinbrot_i_orsta_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02770_skrebergene_sandtak_i_oystre_slidre_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01566_smylemoen_i_bykle_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>All avkasting p&#229; midlane skal godskrivast kontoen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.78761</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <seg>Etter DMF sin vurdering vil det v&#230;re hensiktsmessig at den &#248;konomiske sikkerheten stilles ved bankgaranti og individuell fondsavsetning til bankkonto, som det i henhold til egen avtale om finansiell sikkerhetsstillelse skal etableres pant i til fordel for DMF, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>Etter DMF si vurdering vil det vere f&#248;rem&#229;lstenleg at den &#248;konomiske sikkerheita blir stilt ved bankgaranti og individuel fondsavsetjing til ein bankkonto som det etter ein eigen avtale om finansiel sikkerheit skal etablerast pant i til fordel for DMF, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.02251</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00711_fonnakroken_massetak_i_engerdal_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00711_fonnakroken_massetak_i_engerdal_kommune_0.pdf.converted</prop>
+     <seg>Etter forskrift til mineralloven &#167; 2-1 tredje ledd skal den &#248;konomiske sikkerheten v&#230;re tilstrekkelig til &#229; dekke tiltakshavers sikrings- og oppryddingsplikt. DMF finner etter en konkret vurdering av tiltaket at Tiltakshaver skal p&#229;legges &#229; stille finansiel sikkerhet med NOK 320 000 for oppfyllelsen av n&#248;dvendige sikrings- og oppryddingstiltak etter mineral oven &#167;&#167; 49 og 50, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02770_skrebergene_sandtak_i_oystre_slidre_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02770_skrebergene_sandtak_i_oystre_slidre_kommune.pdf.converted</prop>
+     <seg>Etter forskrift til minerallova &#167; 2-1 tredje ledd skal den &#248;konomiske sikkerheita vere tilstrekkeleg til &#229; dekkje Tiltakshavaren si sikrings- og oppryddingsplikt.Etter ei konkret vurdering av tiltaket finn DMF at Tiltakshavaren skal p&#229;leggjast &#229; stille finansiel sikkerheit p&#229; NOK 320 000 for &#229; sikre at n&#248;dvendige sikrings- og oppryddingstiltak blir gjennomf&#248;rte etter mineral ova &#167;&#167; 49 og 50, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.39709</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <seg>DMF godkjenner driftsplanen for Nordmarka, Tau.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <seg>DMF godkjenner driftsplanen for K&#248;lbotn masseuttak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.00607</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01739_langebrekke_i_eidsberg_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01739_langebrekke_i_eidsberg_kommune_0.pdf.converted</prop>
+     <seg>Sandsvalen benytter grustak som hekkeplass ved at de graver reirganger i skr&#229;ningene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02772_vassendemona_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02772_vassendemona_i_gloppen_kommune.pdf.converted</prop>
+     <seg>Sandsvala nyttar grustak som hekkeplass ved at dei graver reirgangar i skr&#229;ningane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.57802</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <seg>DMF tar h&#248;ringsuttalelsen til etterretning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>DMF tek h&#248;yringsfr&#229;segna til etterretning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">4.92905</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <seg>forskrift til mineralloven &#167; 2-1 tredje ledd.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <seg>forskrift til minerallova &#167; 2-1 tredje ledd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.66866</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/20-01839_risneset_masseuttak_i_hareid_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00016_overskott_steinbrudd_i_indre_fosen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00219_skaane_pukkverk_i_horten_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-02035_valorholtet_i_bardu_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00016_overskott_steinbrudd_i_indre_fosen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-00882_hegna_grustak_i_notodden_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00585_bjorsate_masseuttak_i_rollag_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-00882_hegna_grustak_i_notodden_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <seg>Minerallovens form&#229;l er &#229; fremme og sikre samfunnsmessig forsvarlig forvaltning og bruk av mineralressursene i samsvar med prinsippet om en b&#230;rekraftig utvikling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-00408_samfjorden_massetak_i_haram_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-02733_eide_pukkverk_i_fjell_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00578_loset_masseuttak_i_volda_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01729_bjordal_massetak_i_hoyanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-01856_kuholen_grustak_kjaestad_grustak_i_skjak_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-01856_kuholen_grustak_kjaestad_grustak_i_skjak_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00578_loset_masseuttak_i_volda_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-00408_samfjorden_massetak_i_haram_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>F&#248;rem&#229;let til mineral ova er &#229; fremje og sikre samfunnsmessig forsvarleg forvaltning og bruk av mineralressursane i samsvar med prinsippet om ei berekraftig utvikling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">3.59158</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00108_straumen_steinbrudd_i_nore_og_uvdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00711_fonnakroken_massetak_i_engerdal_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00711_fonnakroken_massetak_i_engerdal_kommune_0.pdf.converted</prop>
+     <seg>N&#229;r bel&#248;pet innest&#229;ende p&#229; bankkontoen har n&#229;dd NOK 150 000, eller etter skriftlig samtykke fra DMF forut for dette tidspunkt, faller plikten til bankgaranti bort.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02770_skrebergene_sandtak_i_oystre_slidre_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01367_flatneset_steinbrot_i_orsta_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02770_skrebergene_sandtak_i_oystre_slidre_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <seg>N&#229;r bel&#248;pet p&#229; bankkontoen har n&#229;dd NOK 150 000, eller tidlegare etter skriftleg samtykkje fr&#229; DMF, fell plikta til bankgaranti bort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.72024</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <seg>Partene i saken og andre med rettslig klageinteresse kan klage p&#229; vedtaket i samsvar med reglene i forvaltningsloven kapittel VI.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>Partane i saka og andre med rettsleg klageinteresse kan klage p&#229; vedtaket i samsvar med reglane i forvaltingslova kapittel VI.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.96667</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <seg>Driftskonsesjonen bortfaller hvis ikke drift er startet opp senest fem &#229;r etter at konsesjonen er gitt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>Driftskonsesjonen fel bort dersom drift ikkje er starta opp seinast fem &#229;r etter at konsesjonen er gitt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.87158</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-00226_sjaheimberget_massetak_i_lesja_kommune.pdf.converted</prop>
+     <seg>N&#229;r bel&#248;pet innest&#229;ende p&#229; bankkontoen har n&#229;dd NOK 300 000,- eller etter skriftlig samtykke fra DMF forut for dette tidspunkt, fal er plikten til bankgaranti bort.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00083_bruddet_i_fjaler_kommune.pdf.converted</prop>
+     <seg>N&#229;r bel&#248;pet p&#229; bankkontoen har n&#229;dd NOK 300 000, eller tidlegare etter skriftleg samtykkje fr&#229; DMF, fell plikta til bankgaranti bort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.76438</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <seg>Den &#248;konomiske sikkerheten skal stilles med bankgaranti for et grunnbel&#248;p stort NOK 150 000, og deretter &#229;rlige avsetninger til bankkonto som det skal etableres pant i til fordel for DMF slik at Tiltakshaver ikke kan r&#229;de over denne p&#229; noe vis, begge deler som beskrevet i punkt 5.11.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <seg>Den &#248;konomiske sikkerheita skal stil ast i form av ein bankgaranti for eit grunnbel&#248;p p&#229; NOK 150 000, og deretter &#229;rlege avsetjingar til ein bankkonto som det skal etablerast pant i til fordel for DMF slik at Tiltakshavaren ikkje kan r&#229;de over kontoen p&#229; noko vis, begge deler som skildra i punkt 5.11.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.6197</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00016_overskott_steinbrudd_i_indre_fosen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-00144_myrsaga_i_melhus_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/20-03450_myklevik_masseuttak_i_vestvagoy_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00082_storlavika_industriomrade_i_flatanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-01422_ramnflauget_i_sortland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02883_naeringsbebyggelse_sviland_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00082_storlavika_industriomrade_i_flatanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-02035_valorholtet_i_bardu_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02883_naeringsbebyggelse_sviland_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/20-01839_risneset_masseuttak_i_hareid_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00016_overskott_steinbrudd_i_indre_fosen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-00882_hegna_grustak_i_notodden_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01483_bergersjoen_sor_massetak_i_elverum_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/20-03450_myklevik_masseuttak_i_vestvagoy_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-01422_ramnflauget_i_sortland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00219_skaane_pukkverk_i_horten_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01836_gangaslia_massetak_i_aure_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-00882_hegna_grustak_i_notodden_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <seg>S&#248;knaden om driftskonsesjon har v&#230;rt p&#229; h&#248;ring jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-00408_samfjorden_massetak_i_haram_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-02733_eide_pukkverk_i_fjell_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02665_einangane_i_nissedal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-00409_opshaug_steinbrudd_i_stranda_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00578_loset_masseuttak_i_volda_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00240_moen_i_voss_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01653_skareberget_i_time_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01121_ny_jord_i_aukra_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00578_loset_masseuttak_i_volda_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01344_flatmoen_grustak_i_skjak_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-00409_opshaug_steinbrudd_i_stranda_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01729_bjordal_massetak_i_hoyanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-01856_kuholen_grustak_kjaestad_grustak_i_skjak_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01653_skareberget_i_time_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01344_flatmoen_grustak_i_skjak_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01729_bjordal_massetak_i_hoyanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01121_ny_jord_i_aukra_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-01856_kuholen_grustak_kjaestad_grustak_i_skjak_kommune_0.pdf.converted</prop>
+     <seg>S&#248;knaden om driftskonsesjon har vore p&#229; h&#248;yring, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">3.7419</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01739_langebrekke_i_eidsberg_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01739_langebrekke_i_eidsberg_kommune_0.pdf.converted</prop>
+     <seg>Bratte skrenter m&#229; like fullt sikres i tr&#229;d med mineralloven &#167; 49, slik at arbeidene ikke medf&#248;rer fare for mennesker, husdyr eller tamrein.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02772_vassendemona_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02772_vassendemona_i_gloppen_kommune.pdf.converted</prop>
+     <seg>Bratte skrentar m&#229; like fullt sikrast i tr&#229;d med mineralloven &#167; 49, slik at arbeidene ikkje medf&#248;r fare for menneske, husdyr eller tamrein.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.95969</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00016_overskott_steinbrudd_i_indre_fosen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00222_himberg_pukkverk_i_re_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-03881_nordmarka_steinbrudd_i_strand_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00585_bjorsate_masseuttak_i_rollag_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01860_nordland_massetak_i_sandnes_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-02035_valorholtet_i_bardu_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-03696_solbu_grustak_i_orkland_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/20-01839_risneset_masseuttak_i_hareid_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00016_overskott_steinbrudd_i_indre_fosen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-00882_hegna_grustak_i_notodden_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-00604_raneisasen_fjelltak_i_nord-aurdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-01030_bakkerud_masseuttak_i_flesberg_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00219_skaane_pukkverk_i_horten_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-00882_hegna_grustak_i_notodden_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/19-02747_hogholen_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00059_lierskogen_i_lier_kommune.pdf.converted</prop>
+     <seg>DMF kan fastsette vilk&#229;r for en driftskonsesjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-00408_samfjorden_massetak_i_haram_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-02733_eide_pukkverk_i_fjell_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-00578_loset_masseuttak_i_volda_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-00408_samfjorden_massetak_i_haram_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/12-01018_svarstad_i_stryn_kommune_1.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-00578_loset_masseuttak_i_volda_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/21_00263_dyrshaugen_i_sunnfjord_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/14-01643_slovag_industriomrade_i_gulen_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/16-01856_kuholen_grustak_kjaestad_grustak_i_skjak_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/17-00210_nesbo_hellegneissone_i_granvin_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-02289_kolbotn_masseuttak_i_fyresdal_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/15-01729_bjordal_massetak_i_hoyanger_kommune.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/18-03657_horgheim_i_rauma_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/18-04100_frisvoll_grustak_i_nesset_kommune.pdf.converted</prop>
+     <prop type="source-document">https://www.dirmin.no/sites/default/files/16-01856_kuholen_grustak_kjaestad_grustak_i_skjak_kommune_0.pdf.converted</prop>
+     <prop type="source-document">https://dirmin.no/sites/default/files/15-01839_andenes_masseuttak_i_gloppen_kommune.pdf.converted</prop>
+     <seg>DMF kan fastsette vilk&#229;r for ein driftskonsesjon.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

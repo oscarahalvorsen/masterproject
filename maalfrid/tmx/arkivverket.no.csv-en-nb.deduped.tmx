@@ -1,0 +1,1221 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T130657" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.58951</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The PREMIS Working Group describes a model &#8211; a core of metadata &#8211; which can be used for digital preservation, irrespective of the type of documents or preservation strategies.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>PREMIS Working Group beskriver en modell - en kjerne av metadata &#8211; som kan brukes til all digital bevaring, uavhengig av type dokumenter eller bevarings-strategier.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.03714</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.arkivverket.no/om-oss/samisk-arkiv/ica-indigenous-matters-summit-2019/_/attachment/download/0725fc70-db74-4998-85d5-7734424229e6:a30ad81db856dccc0b6afb695bf5cd038eb481e5/ICA%20Universal%20Declaration%20on%20Archives.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/om-oss/samisk-arkiv/ica-indigenous-matters-summit-2019/_/attachment/download/0725fc70-db74-4998-85d5-7734424229e6:a30ad81db856dccc0b6afb695bf5cd038eb481e5/ICA%20Universal%20Declaration%20on%20Archives.pdf.converted</prop>
+     <seg>To this effect, we recognize</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/om-oss/hva-er-arkivverket/Styringsdokumenter/_/attachment/download/df9752e2-a6da-4bea-98e8-e5f2bc8a242a:77d86fbda5c812354fd249a683c52f14fc6b54e3/Tildelingsbrev%20Arkivverket%202020.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/om-oss/hva-er-arkivverket/Styringsdokumenter/_/attachment/download/df9752e2-a6da-4bea-98e8-e5f2bc8a242a:77d86fbda5c812354fd249a683c52f14fc6b54e3/Tildelingsbrev%20Arkivverket%202020.pdf.converted</prop>
+     <seg>For mer detaljert informasjon, se Prop.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.04392</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The public administration&#8223;s case documents that are stored electronically must be linked to a recordkeeping system or some other electronic system for registering documents.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Forvaltningens saksdokumenter som lagres elektronisk, skal v&#230;re knyttet til et journalf&#248;rings-system eller annet elektronisk system for registrering av dokumenter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.81862</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Chapter 6 sets out provisions for the administrative body&#8223;s handling of messages that are encrypted or signed with an electronic signature.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Kapittel 6 gir bestemmelser for forvaltningsorganets behandling av meldinger som er kryptert eller signert med elektronisk signatur.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.34277</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Solutions that are based only on ISO 15489 and MoReq will not be accepted as Noark 5-compatible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>L&#248;sninger som baseres kun p&#229; ISO 15489 og MoReq vil ikke kunne aksepteres som Noark 5-kompatible.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.51383</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>If case documents are to be exchanged by e-mail in connection with the electronic archive, the system should also satisfy the basic requirements for integrated e-mail.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Hvis saksdokumenter skal utveksles med e-post i tilknytning til det elektroniske arkivet, b&#248;r systemet ogs&#229; tilfredsstille basiskravene til integrert e-post.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.24</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>for all public bodies.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>for alle offentlige organ.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.1381</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Alternatively, the document may simply be deleted or impossible to recreate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Eller dokumentet kan rett og slett v&#230;re slettet eller umulig &#229; gjenskape.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.19468</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The Act is a general law which applies to case handling provided that no other law is applicable under special legislation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Loven er en overordnet lov som tas i bruk i all saksbehandling, s&#229; lenge ikke annen lov gjelder etter s&#230;rlovgivning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.02458</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>consists of the elements: content, structure, context and presentation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>best&#229;r av elementene innhold, struktur, kontekst og presentasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.02738</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The Regulation of 1 December 1999 No. 1566 on supplementary technical and archive provisions concerning the management of official archives (management of official archives) was introduced as a result of a need for further regulation, partly to regulate the electronic archiving of archive material.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Forskrift av 1.desember 1999 nr 1566 om utfyllende tekniske og arkivfaglige bestemmelser om behandling av offentlige arkiver (behandling av offentlige arkiver) kom som et resultat av behovet for ytterligere regulering blant annet for &#229; regulere elektronisk arkivering av arkiv-materiale.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.05543</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Recordkeeping and archive functionality in task systems, where the public body itself</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Journal- og arkivfunksjonalitet i fagsystem, hvor organet selv utvikler l&#248;sningen Journal- og arkivfunksjonalitet for fagsystem, hvor journal- og arkivfunksjonaliteten er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.18696</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>An electronic signature can be used to verify that electronically transmitted information has not been altered during sending, to provide confirmation of who sent the information and as verification that the sender will not be able to deny that he sent it.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>En elektronisk signatur kan brukes som sikkerhet for at elektronisk overf&#248;rt informasjon ikke har blitt endret underveis, bekreftelse p&#229; hvem som sendte informasjonen og som sikkerhet for at avsender ikke skal kunne benekte at han sendte den.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.05468</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The principal rule in the Act is that the body&#8223;s case documents, fonds and other similar registers are open to inspection unless otherwise follows from a law or a regulation pursuant to a law.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Lovens hovedregel er at saksdokument, journaler og lignende register for organet er &#229;pne for innsyn hvis ikke annet f&#248;lger av lov eller forskrift med hjemmel i lov.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.1391</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>In connection with the development of new systems or functionality for recordkeeping and archiving, the development must be based on Noark 5, not Noark 4.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Ved nyutvikling av system eller funksjonalitet for journalf&#248;ring og arkivering skal utviklingen baseres p&#229; Noark 5, ikke p&#229; Noark-4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.03929</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>It is important to be aware of the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Det er viktig &#229; v&#230;re oppmerksom p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.62059</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>MoReq - Model Requirements for the management of electronic records (European Commission 2002).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Dette er en internasjonal standard for arkivdanning.MoReq - Model Requirements for the Management of Electronic Records (EU-kommisjonen 2002).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.31572</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Other conditional obligatory requirements may be obligatory for systems that contain documents which must be retained for more than 10 years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Andre betinget obligatoriske krav kan v&#230;re obligatoriske for systemer som inneholder dokumenter som skal bevares i mer enn 10 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.42718</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Involved parties&#8223; right of access to information in accordance with the Public Administration Act is regulated in Section 18, which is the main rule concerning a person&#8223;s right to access documents that concern themselves.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Partsinnsyn etter forvaltningsloven er regulert i &#167; 18, som er hovedregelen om en persons rett til innsyn i dokumenter som gjelder en selv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.46255</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>If documents are to be signed by electronic signature, the system must also satisfy the basic requirements for the integrated use of digital signatures in Noark.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Hvis dokumenter skal signeres med elektronisk signatur, skal systemet ogs&#229; tilfredsstille basiskravene til integrert bruk av digital signatur i Noark.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.31206</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The Archives Act sets out a number of general and fundamental provisions concerning archives and, in particular, archives within the public administration.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Arkivloven gir en del overordnede og grunnleggende bestemmelser om arkiv og spesielt om arkiv i offentlig forvaltning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.06934</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Users can reuse a particular ID for many services.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Brukerne kan gjenbruke &#233;n og samme ID mot mange tjenester.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.82055</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Of particular importance here is Section 26, which sets out provisions concerning the archiving of advanced electronic signatures, etc.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>S&#230;rlig viktig her er &#167; 26 som gir bestemmelser om arkivering av avansert elektronisk signatur mv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.33108</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Solutions based on Noark 5 core should therefore also be able to serve as electronic records management solutions for the private sector in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>L&#248;sninger basert p&#229; Noark 5-kjerne burde derfor kunne tjene som &#8221;Electronic Records Management&#8221;-l&#248;sninger ogs&#229; for privat sektor i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.66277</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Versions during the autumn of 2008 with corrections, etc. will have the version number 1.1, 1.2, 1.3, etc.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Versjoner i l&#248;pet av h&#248;sten 2008 med feilrettinger mv. vil ha versjonsnummer 1.1, 1.2, 1.3 osv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.27342</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>These functions are referred to as the securing of integrity, authenticity and non-repudiation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Disse funksjonene benevnes som sikring av integritet, autentisitet og ikke-benekting.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.17027</prop>
+    <prop type="score-bicleaner">0.726</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>handling and be of value as documentation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>gjenstand for saksbehandling og ha verdi som dokumentasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.07836</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The Act does not cover the processing of personal data that an individual carries out solely for personal or other private purposes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Loven gjelder ikke behandling av personopplysninger som den enkelte foretar for rent personlige eller andre private form&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.06437</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The requirement for readability (presentation) means that it must be possible to recreate appearance and content over time.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Kravet til lesbarhet (presentasjon) medf&#248;rer at utseende og innhold skal kunne gjenskapes over tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.4963</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>A case document for the body is a document that has been received by or submitted to a body, or which the body has itself created, and which concerns the body&#8223;s area of responsibility or operations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Et saksdokument for organet er dokument som er kommet inn til eller lagt frem for et organ, eller som organet selv har opprettet, og som gjelder ansvarsomr&#229;det eller virksomheten til organet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>All these systems will be electronic document management systems, although they may also contain references to physical documents.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Alle disse systemene vil v&#230;re elektroniske dokumenth&#229;ndteringssystemer, selv om de ogs&#229; kan ha referanser til fysiske dokumenter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.30428</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The ban on disposal in the Archives Act takes precedence over provisions concerning disposal in or pursuant to other laws.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Kassasjonsforbudet i arkivloven g&#229;r foran bestemmelser om kassasjon i eller i medhold av andre lover.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.21398</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Noark 5 has therefore been written with regard to both the public and the private sector, as well as organisations which are planning to procure a new system or which wish to assess the system that they have already introduced.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Derfor er Noark 5 skrevet med tanke p&#229; b&#229;de offentlig og privat sektor, og organisasjoner som planlegger &#229; anskaffe nytt system eller &#248;nsker &#229; vurdere det systemet de allerede har innf&#248;rt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.0277</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The Regulation is intended to promote predictability and flexibility and to facilitate for the coordination of secure and appropriate technical solutions, including e-signatures.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Forskriften skal fremme forutsigbarhet og fleksibilitet, samt legge til rette for samordning av sikre og hensikts-messige tekniske l&#248;sninger, herunder e-signatur.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.27679</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>This is intended to cover both large and small organisations, the public and private sectors, all EU Member States (and countries outside the EU).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Den er ment &#229; skulle dekke b&#229;de store og sm&#229; organisasjoner, offentlig og privat sektor, alle land i EU (og land utenfor EU).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.359</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>sets out general rules concerning case handling, in addition to specialised provisions concerning confidentiality obligations and special access for involved parties.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>gir generelle regler om saksbehandling, samt spesialiserte bestemmelser om taushetsplikt og partsoffentlighet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.30452</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>It does not contain requirements linked to functions in order to satisfy laws and regulations (not even for the EU), take account of country-specific administrative practices or traditions or other country-specific considerations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Den inneholder ikke krav knyttet til funksjoner for &#229; ivareta lov- og regelverk (heller ikke for EU), ivareta landspesifikk forvaltningsskikk eller -tradisjon eller andre landspesifikke forhold.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.268</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Chapter 2 includes provisions which state that any individual who contacts an administrative body can in principle use electronic communication, that the administrative body must confirm that the communication has been received and how requirements concerning access should be handled.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Kapittel 2 inneholder bl.a. bestemmelser om at enhver som henvender seg til et forvaltningsorgan i prinsippet kan benytte elektronisk kommunikasjon, at forvaltningsorganet skal gi bekreftelse p&#229; at henvendelsen er mottatt og hvordan krav om innsyns skal behandles.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.03853</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>To ensure that Noark 5 is in line with MoReq2, the project primarily related to MoReq2&#8223;s requirements, as they were completed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>For &#229; sikre at Noark 5 er i tr&#229;d med MoReq2, har prosjektet i hovedsak forholdt seg til MoReq2 sine kravsett, etter hvert som de har blitt ferdige.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.86269</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The FESD project has established a common technical standard for recordkeeping and case handling systems, based on Noark 4.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>FESD-prosjektet har etablert en felles teknisk standard for arkiv- og saksbehandlingssystem, basert p&#229; Noark-4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.00526</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Other regulations may affect archive-related circumstances, and in certain contexts these regulations will have consequences for archive-related work performed by public bodies.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Annet regelverk kan ber&#248;re arkivmessige forhold, og disse vil i visse sammenhenger ha konsekvenser for arkivarbeidet i den offentlige forvaltning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.23478</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>and the associated Regulation (</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>og forskriften til denne (</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.47356</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Most exemptions under the Freedom of Information Act on the basis of a statutory confidentiality obligation are based on Sections 13 to 13 f of the Public Administration Act.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>De fleste unntak etter offentleglova p&#229; grunnlag av lovbestemt taushetsplikt har hjemmel i forvaltningsloven &#167;&#167; 13 til 13 f.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.03704</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>&#8222;Preservation&#8223; means that archive material is retained for the future and transferred to an archival repository.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Med bevaring menes at arkivmateriale blir oppbevart for framtida og avlevert til arkivdepot.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.01204</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Specific requirements concerning technologies, such as approved archival formats for electronic documents, have been removed from the standard and placed in the regulations issued pursuant to the Archives Act.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Konkrete krav til teknologier, slik som godkjente arkivformat for elektroniske dokumenter, er tatt ut av standarden og plassert i forskriftene til arkivloven.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.05733</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Behind this lies the consideration that for certain administrative or case areas it may still be appropriate to use paper-based records and archives, while others will need to use task systems with functionality based on the core requirements in Noark 5.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>I dette ligger at for visse forvaltnings- eller saksomr&#229;der kan det fortsatt v&#230;re hensiktsmessig med papirbasert journal og arkiv, mens andre har behov for &#229; benytte fagsystem med funksjonalitet basert p&#229; kjernekravene i Noark 5.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.35054</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The principal functions lie within record structure, metadata and requirements for systems which are set out in the regulations concerning archives.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Hovedfunksjonene ligger innen arkivstruktur, metadata og krav til system som finnes i regelverk for arkiv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.01182</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Document capture, the provision of metadata and the archiving of documents must be possible in widely varying environments, from organisations which make extensive use of automated case handling and advanced case handling support, to organisations that need to manage simple post routines and archive individual files.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Dokumentfangst, tilf&#248;rsel av metadata og arkivering av dokumenter skal kunne gj&#248;res i sv&#230;rt ulike omgivelser, fra virksomheter med til dels utstrakt automatisert saksbehandling og avansert saksbehandlingsst&#248;tte, til virksomheter som har behov for h&#229;ndtering av enkle postrutiner og arkivering av enkle filer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.8375</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The Noark 5 core is a technical and functional implementation of the general requirements for appropriate archiving, as they are formulated in MoReq2, ISO 15489 and elsewhere.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Noark 5-kjerne er en teknisk og funksjonell implementering av de generelle kravene til en forsvarlig arkivering, slik de er formulert bl.a. i MoReq2 og i ISO 15489.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.05818</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>It should be noted that these examples do not exhaustively describe the legal requirements for the individual areas of legislation, but are intended solely as illustrative examples.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Det understrekes at disse eksemplene ikke utt&#248;mmende beskriver lovkravene p&#229; de enkelte lovgivningsomr&#229;de, men er ment som illustrerende eksempler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.00672</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The recordkeeping and archive functionality will be used to register and archival documents and other information and to search for and retrieve this information and distribute it.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Journal- og arkivfunksjonaliteten skal dels benyttes til &#229; registrere og arkivere dokumenter og annen informasjon, dels til &#229; s&#248;ke etter og hente fram denne informasjonen og distribuere den.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.01429</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The requirements for the inner core must be met in order for the system to be approved as a Noark 5 solution.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Kravene til indre kjerne m&#229; v&#230;re oppfylt for at systemet skal kunne godkjennes som en Noark 5-l&#248;sning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.14542</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>For the organisation as a whole, the recordkeeping and archive functionality will often be integrated in an associated case handling system or task system.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>For organet som helhet vil ofte journal- og arkivfunksjonaliteten v&#230;re integrert i et omkring-liggende saksbehandlingssystem eller fagsystem.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.26026</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>) regulates certain types of archive material through provisions concerning the rules that apply to case handling and concerning the rights that the Public Administration Act accords the individual.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>) regulerer visse typer arkivmateriale gjennom bestemmelser om hvilke regler som gjelder for saks-behandling, og om hvilke rettigheter forvaltningsloven gir den enkelte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.09032</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The Act covers the processing of personal data using electronic tools and the manual processing of personal data which involves the creation of a personal register.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Loven omfatter behandling av personopplysninger med elektroniske hjelpemidler, og manuell behandling av personopplysninger som inneb&#230;rer opprettelse av et personregister.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.0176</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Anyone can request access to case documents, fonds and registers that are similar to case documents that are archived by the body concerned.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Alle kan kreve innsyn i saksdokument, journaler og lignende register til saksdokument, hos vedkommende organ.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.15154</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>These intermediate versions will retain the main version number and have consecutive numbering after the main version number.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Disse mellomversjonene vil beholde hovedversjonsnummeret, og ha fortl&#248;pende nummerering etter hovedversjonsnummeret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">3.14531</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Section 3-20 of the Archives Regulation sets out specific obligatory requirements concerning preservation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>I arkivforskriften &#167; 3-20 er det satt opp spesifiserte bevaringsp&#229;bud.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.31772</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Through the use of solutions based on the core requirements in Noark 5, integration with case handling and form handling systems and automated recordkeeping, archiving and document distribution, it will also be possible to maintain control over documents in such cases.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Gjennom bruk av l&#248;sninger basert p&#229; kjernekravene i Noark 5, integrasjon med saksbehandlings- og skjemah&#229;ndteringssystem og automatisert journalf&#248;ring, arkivering og fordeling av dokumenter, vil det v&#230;re mulig &#229; f&#229; kontroll over dokumenter i slike saker ogs&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.10854</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Section 9(c) of the Archives Act sets out provisions which state that archive material cannot be disposed of except pursuant to regulations or with the specific consent of the Director General of the National Archival Services.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>I arkivloven &#167; 9 bokstav c er det gitt bestemmelser om at arkivmateriale ikke kan kasseres med mindre det skjer med hjemmel i forskrifter eller etter s&#230;rskilt samtykke fra Riksarkivaren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.23264</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The archive function within the public administration consists of maintaining an overview of documents for handling (case documents), placing the documents in their handling context (cases), distributing documents to the handling link, following up with respect to the handling link, archiving documents that have been handled, responding to internal and external enquiries concerning case handling status and concerning the content of documents, searching for/retrieving documents on request, lending documents or distributing copies, etc.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Arkivfunksjonen i offentlig forvaltning best&#229;r i &#229; holde oversikt over dokumenter til behandling (saksdokumenter), plassere dokumentene i deres behandlingsmessige sammenheng (saker), fordele dokumenter til behandlingsleddet, drive oppf&#248;lging overfor behandlingsleddet, arkivere dokumenter som er behandlet, besvare interne og eksterne foresp&#248;rsler om behandlingsstatus og om innhold i dokumenter, s&#248;ke/hente fram dokumenter p&#229; foresp&#248;rsel, l&#229;ne ut dokumenter eller distribuere kopier etc.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.23983</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>It is also at least as important to document what an organisation has received and generated in terms of documents in cases where automated case handling is used to some degree in specialised task systems or decision-support systems.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Det er minst like viktig &#229; dokumentere hva en virksomhet har mottatt og skapt av dokumenter ogs&#229; i de tilfellene det er mer eller mindre automatisert saksbehandling som foreg&#229;r i spesialiserte fagsystem eller beslutningsst&#248;tte-system.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.28636</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Between the Noark 5 core and peripheral systems, there is a &#8220;grey zone&#8221;, which is Noark 5&#8223;s requirements for external modules/systems.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Mellom Noark 5 kjerne og omkringliggende system ligger det en &#8221;gr&#229;sone&#8221;, som er Noark 5 sine krav til eksterne moduler/systemer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.025</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>This means that such an electronic signature is accorded the same legal effect as a handwritten signature.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Dette betyr at en slik elektronisk signatur gis samme rettsvirkning som en h&#229;ndskrevet signatur.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.1075</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>If a requirement for a signature is imposed, the use of a qualified electronic signature will always fulfil such a requirement, providing it is possible to perform the action electronically.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Stilles det krav om underskrift vil alltid bruk av kvalifisert elektronisk signatur oppfylle et slikt krav, s&#229; fremt det er mulig &#229; foreta handlingen elektronisk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">3.69584</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>This is an EU standard for records management design based on ISO 15489.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Dette er en EU-standard for arkivdanning basert p&#229; ISO 15489.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.11233</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The content is contained in one or more electronic or physical documents which reproduce the archival document&#8223;s &#8220;message&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Innholdet finnes i ett eller flere elektroniske eller fysiske dokumenter som gjengir arkivdokumentets &#8221;budskap&#8221;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.04516</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Noark 5 is to be used for all types of recordkeeping, irrespective of the technological solution or type of public body.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Noark 5 skal kunne brukes for alle typer arkivdanning, uavhengig av teknologisk l&#248;sning og type organ.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.39263</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>&#8220;Archive limitation&#8221; means that documents which are created as part of the operations conducted by the body but which are neither subject to case handling nor of value as documentation, will be kept outside or removed from the archive.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Med arkivbegrensing menes at dokument som blir til som ledd i den virksomheten organet driver, men som verken er gjenstand for saksbehandling eller har verdi som dokumentasjon, blir holdt utenfor eller fjernet fra arkivet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.24393</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>During the project period, the project manager was involved in the work relating to the development of MoReq2 as a participant on the Editorial Board.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Prosjektleder har i l&#248;pet av prosjektperioden deltatt i arbeidet med utviklingen av MoReq2, som deltaker i Editorial Board.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.06471</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>If this does not take place, the document is considered to be created when it is finalised.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Hvis dette ikke skjer, regnes dokumentet som opprettet n&#229;r det er ferdigstilt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">4.40571</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>in accordance with Sections 3-18 and 3-19 of the Archives Regulation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>etter &#167;&#167; 3-18 og 3-19 i arkivforskriften.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.125</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>specifies requirements and recommendations for some of the optional task and administration systems that will form part of a &#8220;complete&#8221; Noark 5 solution, i.e. a solution that is close to the current Noark 4 system.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>spesifiserer krav og anbefalinger til noen av de valgfrie fag- og administrasjonssystemer som vil inng&#229; i en &#8221;komplett&#8221; Noark 5-l&#248;sning, det vil si en l&#248;sning som ligger n&#230;rt opp til dagens Noark-4-system.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.02973</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Some conditional obligatory requirements will only be obligatory for case record systems.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Noen betinget obligatoriske krav vil v&#230;re obligatoriske bare for sakarkivsystemer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>The purpose of the Act is to regulate the rights of citizens when they come into contact with public bodies.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Form&#229;let med loven er &#229; regulere de rettigheter borgerne har n&#229;r de er i kontakt med offentlige instanser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.10308</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>means that archive material that has been subject to case handling or been of value as documentation is removed from the archive and deleted or destroyed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>menes at arkivmateriale som har v&#230;rt gjenstand for saksbehandling eller hatt verdi som dokumentasjon, blir tatt ut av arkivet og slettet eller destruert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">5.16071</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>This follows from Section 6 of the Archives Act.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Dette f&#248;lger av &#167; 6 i arkivloven.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">8.53846</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>2 Legal framework conditions</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>2 Juridiske rammebetingelser</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.07132</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Section 3-19 of the Archives Regulation contains five groups of material that are covered by archive limitation, i.e. meaning either that the material is not to be archived at all or that it should subsequently be removed from the archive once it has been archived.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Arkivforskriften &#167; 3-19 inneholder fem grupper av materiale som er omfattet av arkiv-begrensingen, dvs. at det enten ikke skal arkiveres i det hele tatt, eller at det i etterkant skal fjernes fra arkivet dersom det f&#248;rst er arkivert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.05441</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>This does not of course mean that these requirements are less important and can therefore be omitted.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Dette betyr selvsagt ikke at disse kravene er mindre viktige, og at de derfor kan utelates.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.26301</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/f64b9f5a-5e2e-4b93-90f8-6d1ca409ef42:9fdc7ce414b4816362e94740d8086f61c33228f1/noark_5_english_ver_2_0%20(pdf).pdf.converted</prop>
+     <seg>Collectively, the Archives Act, Archives Regulation and Regulation on the management of official archives form the core of the regulations that regulate the management of official archives.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/noark-standarden/noark-5/noark5-standarden/_/attachment/download/4f704db6-fe38-40cc-ad61-8c2a3fe45e64:9ca43b8ae474015270f3ec76ece9dc455d4e76d3/Noark5v4%20Standard%20for%20elektronisk%20arkiv%20(01.12.2016).pdf.converted</prop>
+     <seg>Sammen utgj&#248;r arkivloven, arkivforskriften og forskrift om behandling av offentlige arkiver kjernen i det regelverket som regulerer h&#229;ndtering av offentlige arkiver.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

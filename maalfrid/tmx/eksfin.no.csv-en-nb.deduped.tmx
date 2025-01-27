@@ -1,0 +1,1752 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T125721" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.13462</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>_gid &#8211; Google Analytics &#8211; Used to differentiate between users.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>_gid &#8211; Google Analytics &#8211; Brukes til &#229; skille mellom brukere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.75484</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/produkter/power-guarantee/</prop>
+     <seg>The Energy Purchase Guarantee Scheme was created in 2011 to make it easier for industrial companies to obtain such contracts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/produkter/kraftgaranti/</prop>
+     <seg>Kraftordningen ble opprettet i 2011 for &#229; gj&#248;re det lettere for industribedrifter &#229; oppn&#229; slike kontrakter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.41532</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/produkter/tender/</prop>
+     <seg>(Disregard the GDP/inhabitant limit in the guidelines for the scheme).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/produkter/anbudsgaranti/</prop>
+     <seg>(Se bort fra grensen for BNP/innbygger i retningslinjene for ordningen).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.0468</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/fisheries-and-aquaculture/irelands-largest-seafood-company-chooses-norwegian-design-and-equipment/</prop>
+     <seg>When the need for three new pelagic trawlers arose, the company asked Salt Ship Design in Stord, South Western Norway, to deliver the design.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/irlands-storste-sjomatselskap-gar-for-norsk-design-og-utstyr/</prop>
+     <seg>Da tre nye pelagiske tr&#229;lere skulle anskaffes, ba selskapet Salt Ship Design p&#229; Stord om &#229; designe dem.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.02761</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/produkter/buyer-financing/</prop>
+     <seg>Eksfin&#8217;s guarantees come with an AAA rating, which is very attractive to many banks.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/produkter/kjoperfinansiering/</prop>
+     <seg>Eksfin garantier har en AAA-rating og er sv&#230;rt attraktive for mange banker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.68525</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-a-small-norwegian-company-achieved-success-in-spain/</prop>
+     <seg>From Balboa in Spania, where Made for Movement have a rental agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/uncategorized-nb/grunderbedrift-med-suksess-i-spania/</prop>
+     <seg>Bildet er fra Balboa i Spania, hvor Made for Movement har en ny leieordning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.54033</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>The EFTA Surveillance Authority (ESA) monitors Norway&#8217;s and the other members&#8217; compliance with the EEA Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>EFTA Surveillance Authority (ESA) overv&#229;ker Norges og de andre medlemmenes oppf&#248;lging av E&#216;S-avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.08514</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/news/maritime/poseidon-principles-report-illustrates-increasing-focus-on-emission-cuts-in-shipping/</prop>
+     <seg>One of them is Export Credit Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/maritim/poseidon-principles-arsrapport-illustrerer-okende-fokus-pa-utslippskutt-i-shipping/</prop>
+     <seg>Eksportkreditt er &#233;n av dem.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.25147</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/energy/scatec-solar-constructs-solar-power-in-ukraine-with-norwegian-state-guarantees/</prop>
+     <seg>The Norwegian solar power company Scatec Solar is now building new, clean energy in Ukraine.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/energi/scatec-solar-bygger-i-ukraina-med-giek-garantier/</prop>
+     <seg>Det norske solkraftutselskapet Scatec Solar bygger n&#229; ny, ren energi i landet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.12222</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-1000-uk-spar-stores-ended-up-with-norwegian-cash-registers/</prop>
+     <seg>Arnquist relates that Visma now plans to expand further in the UK and other European countries.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/annen-industri/1000-britiske-butikker-norske-kasser/</prop>
+     <seg>Arnquist forteller at Visma n&#229; &#248;nsker &#229; utvide ytterligere i Storbritannia og andre land i Europa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.10097</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/management/</prop>
+     <seg>Today, she chairs the Nomination Committee and Corporate Assembly of Equinor, and she is the deputy chair of the Norwegian-Swedish Chamber of Commerce board.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/ledergruppen/</prop>
+     <seg>I dag leder hun valgkomiteen og bedriftsforsamlingen i Equinor og er nestleder i Norsk-Svensk Handelskammers styre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.19413</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/documents-and-reports/</prop>
+     <seg>and takes place by way of collaboration between the specialist departments and Eksfin&#8217;s procurement manager.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/dokumenter-og-rapporter/</prop>
+     <seg>, og foreg&#229;r gjennom et samarbeid mellom fagavdelingene og anskaffelses-ansvarlig i Eksfin.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.2625</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>MNE Guidelines &#8211; OECD guidelines for multinational enterprises</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>MNE Guidelines &#8211; OECDs retningslinjer for multinasjonale virksomheter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.03182</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/industries/fisheries-and-aquaculture/</prop>
+     <seg>This includes wellboats, processing boats, service vessels, and mobile aquaculture installations and sea cages.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/bransjer/fiskeri-havbruk/</prop>
+     <seg>Dette omfatter for eksempel br&#248;nnb&#229;ter, bl&#248;ggeb&#229;ter, servicefart&#248;y og flyttbare havbruksinstallasjoner/havmerder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.02857</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/energy/scatec-solar-constructs-solar-power-in-ukraine-with-norwegian-state-guarantees/</prop>
+     <seg>&#8211; Ukraine is a challenging market.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/energi/scatec-solar-bygger-i-ukraina-med-giek-garantier/</prop>
+     <seg>&#8211; Ukraina er et krevende marked.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">6.68</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>Deleted after 90 days.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>Cookien slettes etter 90 dager.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.03095</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-1000-uk-spar-stores-ended-up-with-norwegian-cash-registers/</prop>
+     <seg>The breakthrough is that European sales of a Norwegian software product have been increased with financing from Export Credit Norway,&#8221; says Arnquist.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/annen-industri/1000-britiske-butikker-norske-kasser/</prop>
+     <seg>Gjennombruddet ligger i at en norskutviklet software f&#229;r mulighet til &#229; vokse p&#229; det europeiske markedet ved hjelp av at man finansierer det ved hjelp av Eksportkreditt Norge, sier Arnquist.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.55549</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>Through the SL Agreement, last revised in 2016, the ECAs in the OECD undertake a shared responsibility for helping ensure that low-income countries do not take up more in loans they can manage to bear in the long term.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>Gjennom SL-avtalen, sist revidert i 2016, forplikter ECAene i OECD seg til &#229; ta et medansvar for at lavinntektsland ikke tar opp mer l&#229;n enn de evner &#229; b&#230;re p&#229; lang sikt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.99227</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/produkter/tender/</prop>
+     <seg>: The company has not received a tender guarantee in the same country during the past 12 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/produkter/anbudsgaranti/</prop>
+     <seg>Bedriften har ikke f&#229;tt anbudsgaranti i samme land de siste 12 m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.04455</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/documents-and-reports/</prop>
+     <seg>Eksfin is subject to Norwegian public procurement regulations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/dokumenter-og-rapporter/</prop>
+     <seg>Eksfin er underlagt det offentlige anskaffelsesregelverket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.43914</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>Eksfin is the data controller and processes personal data in accordance with applicable data protection legislation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Eksfin er behandlingsansvarlig og behandler personopplysningene i henhold til gjeldende personopplysningslovgivning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.15488</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-1000-uk-spar-stores-ended-up-with-norwegian-cash-registers/</prop>
+     <seg>&#8220;I have spoken with businesses that did not know of this option for ICT firms,&#8221; says Thor-Magne Johansen, Vice President, Industry and Clean Technologies at Export Credit Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/annen-industri/1000-britiske-butikker-norske-kasser/</prop>
+     <seg>&#8211; Jeg har v&#230;rt i kontakt med bedrifter som ikke har visst at dette er en mulighet for IKT-bedrifter, sier Thor-Magne Johansen, kundeansvarlig for industri- og milj&#248;teknologi i Eksportkreditt Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.10455</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/produkter/buyer-financing/</prop>
+     <seg>Choose a fixed or variable interest rate for the loan.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/produkter/kjoperfinansiering/</prop>
+     <seg>Velg mellom en fast eller flytende rente for l&#229;net.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.174</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/news/other-industries/new-state-guarantee-scheme-for-package-tour-operators/</prop>
+     <seg>says Minister of Trade and IndustryIselin Nyb&#248; (Liberal Party) in a press release.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/andre-ordninger/ny-statlig-garantiordning-for-pakkereisearrangorer/</prop>
+     <seg>sier n&#230;ringsminister Iselin Nyb&#248; (V) i en pressemelding.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.23846</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/sustainability/</prop>
+     <seg>Anti-corruption, money laundering, and sanctions</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/baerekraft-i-eksfin/</prop>
+     <seg>Antikorrupsjon, hvitvasking og sanksjoner</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.43463</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/about-eksfin/oecd-projects/dogger-bank-c-wind-farm-united-kingdom/</prop>
+     <seg>The Dogger Bank project is the world&#8217;s largest offshore wind farm under development and is located off the Yorkshire coast in England.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/oecd-prosjekter/dogger-bank-c-vindpark-storbritannia/</prop>
+     <seg>Dogger Bank -prosjektet er verdens st&#248;rste havvindpark under utvikling og ligger utenfor Yorkshire -kysten i England.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.10893</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>S L Agreement &#8211; on sustainable lending to poor, debt-ridden countries</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>S L-avtalen &#8211; gjelder b&#230;rekraftig l&#229;ngiving (Sustainable Lending) til fattige, gjeldstyngede land</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.00095</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/news/maritime/poseidon-principles-report-illustrates-increasing-focus-on-emission-cuts-in-shipping/</prop>
+     <seg>&#8211; Our experience is that this is an important and useful framework which highlights the challenges related to emissions from the shipping industry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/maritim/poseidon-principles-arsrapport-illustrerer-okende-fokus-pa-utslippskutt-i-shipping/</prop>
+     <seg>&#8211; V&#229;r erfaring s&#229; langt er at dette er et nyttig og viktig rammeverk som er med &#229; gi &#248;kt bevissthet knyttet til utfordringene med klimagassutslipp fra shipping.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.32159</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/cases/aker-biomarine-and-vard-launch-specialised-krill-harvesting-vessel/</prop>
+     <seg>The loan has a repayment period of 12 years and was disbursed by Export Credit Norway, the companies stated in their press releases.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/aker-biomarine-og-vard-lanserer-spesialbygd-krillfartoy-2/</prop>
+     <seg>Selve l&#229;net l&#248;per over 12 &#229;r og ble ogs&#229; utbetalt av Eksfin, skriver selskapene i sine pressemeldinger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.05722</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-a-small-norwegian-company-achieved-success-in-spain/</prop>
+     <seg>&#8220;Made for Movement is a small business with a small customer in Spain, but here the foreign customer has high creditworthiness.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/uncategorized-nb/grunderbedrift-med-suksess-i-spania/</prop>
+     <seg>&#8211; Made for Movement er en liten bedrift med en liten kunde i Spania, men her har kunden i utlandet god kredittverdighet slik at l&#229;net kunne etableres med forenklet dokumentasjon og minimale transaksjonskostnader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.25063</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>The website www.eksfin.no and its contents and organisation are fully and wholly owned by Eksfin, and the company retains all rights to this material.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Nettsiden www.eksfin.no og dets innhold og organisering eies fullt og helt av Eksfin, og selskapet forbeholder seg alle rettigheter til dette materiale.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.25532</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/energy/scatec-solar-constructs-solar-power-in-ukraine-with-norwegian-state-guarantees/</prop>
+     <seg>Norwegian Scatec Solar has unique expertise in constructing and operating solar projects internationally.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/energi/scatec-solar-bygger-i-ukraina-med-giek-garantier/</prop>
+     <seg>Norske Scatec Solar har unik kompetanse p&#229; bygging og drift av solprosjekter, og har prosjekter i en rekke markeder i utlandet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.01182</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/documents-and-reports/</prop>
+     <seg>Furthermore, Eksfin must adhere to a main instruction and a regulation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/dokumenter-og-rapporter/</prop>
+     <seg>I tillegg er Eksfin underlagt en Hovedinstruks og et Regelverk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.12007</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-1000-uk-spar-stores-ended-up-with-norwegian-cash-registers/</prop>
+     <seg>Visma Retail offers a wide range of complete front and back-office solutions, including systems for cash registers, store management, e-trading and warehouse management.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/annen-industri/1000-britiske-butikker-norske-kasser/</prop>
+     <seg>Visma Retail tilbyr komplette front- og backoffice-l&#248;sninger med et bredt tilbud av tjenester, som for eksempel kassesystem, system for butikkdrift, e-handel, lagerh&#229;ndtering og mer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.22658</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-a-small-norwegian-company-achieved-success-in-spain/</prop>
+     <seg>The new leasing scheme makes Innowalk available to more families, including those with limited financial resources.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/uncategorized-nb/grunderbedrift-med-suksess-i-spania/</prop>
+     <seg>Med den nye l&#229;nemodellen er det ikke bare de rikeste familiene som har r&#229;d til produktet, det blir tilgjengelig for langt flere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.55979</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/news/other-industries/new-state-guarantee-scheme-for-package-tour-operators/</prop>
+     <seg>Large package tour operators such as Tui, Apollo, Ving, and Hurtigruten are not covered by the new scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/andre-ordninger/ny-statlig-garantiordning-for-pakkereisearrangorer/</prop>
+     <seg>Store pakkereisearrang&#248;rer som Tui, Apollo, Ving og Hurtigruten er ikke omfattet av den nye ordningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.13439</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>_ga &#8211; Google Analytics &#8211; Used to differentiate between users.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>_ga &#8211; Google Analytics &#8211; Brukes for &#229; skille mellom brukere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">3.14545</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/about-eksfin/oecd-projects/dogger-bank-c-wind-farm-united-kingdom/</prop>
+     <seg>Dogger Bank C extends across an area of 560 km&#178; and is located 196 km from the nearest land point.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/oecd-prosjekter/dogger-bank-c-vindpark-storbritannia/</prop>
+     <seg>Dogger Bank C strekker seg over et omr&#229;de p&#229; 560 km&#178; og ligger 196 km fra n&#230;rmeste landpunkt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.22835</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>These do not apply to export credit guarantees (which are regulated by the OECD, see below), but when Eksfin issues a building loan guarantee, for example, it does so in accordance with the guidelines.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>Disse gjelder ikke for eksportkredittgarantier (som blir regulert av OECD, se nedenfor), men n&#229;r Eksfin for eksempel utsteder byggel&#229;nsgarantier, gj&#248;res det i samsvar med retningslinjene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.25844</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>If you have linked your Google Analytics and AdWords accounts, AdWord&#8217;s website conversion tags are read from this cookie, unless you choose to opt out.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>Hvis du har linket din Google Analytics og Adwords konto, vil AdWord sine website conversion tags bli lest fra denne cookien, med mindre du velger &#229; &#171;opte ut&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.10186</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/press-room/</prop>
+     <seg>Appeals must be sent through Eksfin within three weeks of when the notification on the decision has been received, cf. &#167; 32 of the Norwegian Freedom of Information Act and Chapter VI of the Norwegian Public Administration Act.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/presserom/</prop>
+     <seg>Klage m&#229; sendes via Eksfin innen tre uker fra det tidspunkt underretning om vedtaket er kommet frem, jfr. offentleglova 32 og forvaltningsloven kapittel VI.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.26786</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>Eksfin uses cookies on its website for marketing and statistics.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Eksfin bruker cookies p&#229; sin nettside for markedsf&#248;ring og statistikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.13786</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>By liking Eksfin&#8217;s company profile on Facebook or LinkedIn, followers record information such as gender, age and geographical location.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Ved &#229; &#171;like&#187; Eksfins profil p&#229; Facebook og LinkedIn legger man igjen opplysninger som kj&#248;nn, alder og geografisk lokasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.10642</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/produkter/buyer-financing/</prop>
+     <seg>For most international transactions, although Eksfin issues loans directly to the buyer (borrower), loans can also be issued as on-lending via commercial banks or development banks.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/produkter/kjoperfinansiering/</prop>
+     <seg>I de fleste internasjonale transaksjonene gir Eksfin l&#229;n direkte til Kj&#248;per (l&#229;ntaker), men l&#229;n kan ogs&#229; gis som &#171;on-lending&#187; via kommersielle banker eller utviklingsbanker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.78667</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/cases/aker-biomarine-and-vard-launch-specialised-krill-harvesting-vessel/</prop>
+     <seg>The ship was delivered by Vard shipyard, while more than 40 sub-suppliers provided equipment and services.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/aker-biomarine-og-vard-lanserer-spesialbygd-krillfartoy-2/</prop>
+     <seg>Skipsverftet Vard har bygd skipet, mens over 40 ulike underleverand&#248;rer har levert utstyr og tjenester.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.31512</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>_gaexp &#8211; Used by Google Analytics to determine whether the visitor is part of a marketing experiment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>_gaexp &#8211; brukes av Google Analytics for &#229; finne ut om den bes&#248;kende er involvert i et markedsf&#248;ringseksperiment.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.13439</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>_gat &#8211; Google Analytics &#8211; Used to increase the request rate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>_gat &#8211; Google Analytics &#8211; Brukes for &#229; &#248;ke foresp&#248;rselsraten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.18966</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>The material on the website may only be used for information purposes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Materialet p&#229; nettsiden kan kun benyttes til informasjonsform&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.43158</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>Eksfin uses Google Ads as a tool for advertising, mainly on Google.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Eksfin bruker Google Ads som annonseverkt&#248;y til &#229; annonsere p&#229; i hovedsak Google.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.65355</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/energy/scatec-solar-constructs-solar-power-in-ukraine-with-norwegian-state-guarantees/</prop>
+     <seg>The Dutch development bank FMO and Green for Growth Fund (GGF) also contribute to the funding.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/energi/scatec-solar-bygger-i-ukraina-med-giek-garantier/</prop>
+     <seg>Ogs&#229; den nederlandske utviklingsbanken FMO og europeiske Green for Growth Fund (GGF) bidrar til finansieringen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.38957</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-1000-uk-spar-stores-ended-up-with-norwegian-cash-registers/</prop>
+     <seg>Financing like this makes us more efficient, and allows us to win new customers more quickly,&#8221; says Sven Arnquist, Visma Retail&#8217;s Vice President International Sales.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/annen-industri/1000-britiske-butikker-norske-kasser/</prop>
+     <seg>P&#229; den m&#229;ten blir man mer effektiv, og vi kan f&#229; inn flere kunder p&#229; kortere tid, sier Sven Arnquist, Vice president International Sales i Visma Retail.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.41764</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-a-small-norwegian-company-achieved-success-in-spain/</prop>
+     <seg>The new scheme makes the product affordable for many more families.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/uncategorized-nb/grunderbedrift-med-suksess-i-spania/</prop>
+     <seg>Det som er s&#229; bra med denne ny ordningen er at den blir tilgjengelig for flere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.0266</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>Although compliance with the guidelines is voluntary for companies, breaches can be reported to a national, independent complaints body, called a National Contact Point (NCP).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>Selv om det er frivillig for selskaper &#229; f&#248;lge retningslinjene, kan brudd meldes inn til et nasjonalt, uavhengig klageorgan, et s&#229;kalt National Contact Point (NCP).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.13796</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/produkter/buyer-financing/</prop>
+     <seg>For international buyer financing, Eksfin has considerable flexibility and can offer loans, loans where a bank or financial institution guarantees the loan (funding), or guarantees to other lenders.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/produkter/kjoperfinansiering/</prop>
+     <seg>For internasjonal kj&#248;perfinansiering har Eksfin en stor grad av fleksibilitet og kan tilby b&#229;de l&#229;n, l&#229;n hvor en bank eller finansinstitusjon garanterer for l&#229;net (funding) eller garanti overfor andre l&#229;ngivere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">2.31327</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>Recommendation of the Council on Common Approaches for Officially Supported Export Credits and Environmental and Social Due Diligence), last updated in 2015, ECAs in the OECD have developed common guidelines for surveying and assessing environmental and social risks in individual cases.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>Recommendation of the Council on Common Approaches for Officially Supported Export Credits and Environmental and Social Due Diligence), sist oppdatert i 2015, har ECAer i OECD utviklet felles retningslinjer for hvordan milj&#248;messige og sosiale risikoer i enkeltsaker skal kartlegges og vurderes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.38571</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/06/EK-2020-Annual-report.pdf.converted</prop>
+     <seg>high priority for the company.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/08/Eksportkreditt-Arsrapport-2020.pdf.converted</prop>
+     <seg>livet lokalt, og med det mulighetene til &#229; realisere</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.12987</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/industries/other-industries/</prop>
+     <seg>Eksfin&#8217;s guarantee solutions for financing capital investments in Norway, as well as guarantees to reduce the buyer&#8217;s risk in the transaction, are also relevant solutions for exporters in the defence industry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/bransjer/ovrig-industri/</prop>
+     <seg>V&#229;r garantil&#248;sning for &#229; finansiere anleggsinvesteringer i Norge, samt garantier for &#229; redusere kj&#248;pers risiko i transaksjonen, er ogs&#229; relevante for eksport&#248;rer innen forsvarsindustrien.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.02805</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/06/EK-2020-Annual-report.pdf.converted</prop>
+     <seg>risk linked to the loans in the company&#8217;s portfolio</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/08/Eksportkreditt-Arsrapport-2020.pdf.converted</prop>
+     <seg>og potensielle l&#229;ntakere har god kjennskap til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.13604</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/industries/other-industries/</prop>
+     <seg>Eksfin&#8217;s guarantee solutions for financing capital investments in Norway or a Norwegian subsidiary abroad, as well as guarantees to reduce the buyer&#8217;s risk in the transaction, are also relevant solutions for exporters of environmental technology.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/bransjer/ovrig-industri/</prop>
+     <seg>V&#229;re garantil&#248;sninger for &#229; finansiere anleggsinvesteringer i Norge eller i et norsk datterselskap i utlandet, samt garantier for &#229; redusere kj&#248;pers risiko i transaksjonen, er ogs&#229; relevante for eksport&#248;rer innen milj&#248;teknologi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.24194</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>Google Ads&#8217; marketing cookies are used to track visitors to the website.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Markedsf&#248;rings-cookies fra Google Ads brukes til &#229; spore bes&#248;kende p&#229; nettsteder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.03938</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/industries/other-industries/</prop>
+     <seg>In addition, Eksfin offers a number of guarantee solutions in connection with export contracts, which can also help to give Norwegian exporters and their subcontractors better access to loan financing in order to grow internationally.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/bransjer/ovrig-industri/</prop>
+     <seg>I tillegg kan vi samarbeide med norske banker for &#229; gi norske eksport&#248;rer, og underleverand&#248;rer av norske eksport&#248;rer, tilgang p&#229; l&#229;n for &#229; kunne investere i nye anleggsmidler for &#229; &#248;ke produksjon i Norge, samt finansiering for &#229; etablere produksjon i utlandet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.6676</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/fisheries-and-aquaculture/irelands-largest-seafood-company-chooses-norwegian-design-and-equipment/</prop>
+     <seg>The ships are under construction in Turkey and will be delivered between February 2021 and February 2022.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/irlands-storste-sjomatselskap-gar-for-norsk-design-og-utstyr/</prop>
+     <seg>Skipene bygges i Tyrkia, og vil leveres i perioden februar 2021 &#8211; februar 2022.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.21641</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>The newsletter contains news about the company, current areas we are working on and invitations to events for which Eksfin is the organiser or co-organiser.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Nyhetsbrevet inneholder nyheter fra oss, aktuelle saker det arbeides med og invitasjoner til arrangementer som Eksfin arrangerer eller er med-arrang&#248;r for.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.60032</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-1000-uk-spar-stores-ended-up-with-norwegian-cash-registers/</prop>
+     <seg>This content was published before 1 July 2021 by GIEK or Eksportkreditt Norge</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/annen-industri/1000-britiske-butikker-norske-kasser/</prop>
+     <seg>Kopiert! Dette innholdet er publisert f&#248;r 1 juli 2021 av GIEK eller Eksportkreditt Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.03033</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>The data is collected for relevant information and optimisation purposes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>Dataen er samlet for bruk til relevant informasjon og optimalisering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">2.24925</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/news/other-industries/new-state-guarantee-scheme-for-package-tour-operators/</prop>
+     <seg>During 2020, Eksfin/GIEK has already administered the Flight Scheme, the Loan Guarantee Scheme, and the Flight Scheme and Travel Insurance Scheme for credit insurance (the latter two expire in June 2021).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/andre-ordninger/ny-statlig-garantiordning-for-pakkereisearrangorer/</prop>
+     <seg>I l&#248;pet av 2020 har GIEK allerede administrert Flyordningen, L&#229;negarantiordningen, og Flyordningen og Reforsikringsordningen for kredittfordsikring (de to sistnevnte utl&#248;per i juni 2021).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.36998</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>You can unsubscribe to the newsletter at any time.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Det er mulig &#229; melde seg av nyhetsbrevet n&#229;r som helst.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">4.19423</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/</prop>
+     <seg>a third of Norway&#8217;s GDP in 2020</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/om</prop>
+     <seg>en tredjedel av Norges bruttonasjonalprodukt i 2020</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.4767</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/fisheries-and-aquaculture/irelands-largest-seafood-company-chooses-norwegian-design-and-equipment/</prop>
+     <seg>Atlantic Dawn Group is Ireland&#8217;s largest seafood company, with the head office in Killybegs, the country&#8217;s largest fishing port.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/irlands-storste-sjomatselskap-gar-for-norsk-design-og-utstyr/</prop>
+     <seg>Atlantic Dawn Group er Irlands st&#248;rste sj&#248;matselskap, og har sitt hovedsete i Killybegs, landets st&#248;rste fiskerihavn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.2</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-1000-uk-spar-stores-ended-up-with-norwegian-cash-registers/</prop>
+     <seg>&#8220;Visma has used us actively in this process.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/annen-industri/1000-britiske-butikker-norske-kasser/</prop>
+     <seg>&#8211; Visma bruker oss aktivt i denne prosessen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.01633</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-1000-uk-spar-stores-ended-up-with-norwegian-cash-registers/</prop>
+     <seg>&#8220;At Visma, we see potential to double our sales velocity.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/annen-industri/1000-britiske-butikker-norske-kasser/</prop>
+     <seg>&#8211; Vi fra Visma ser for oss at vi kan &#248;ke hastigheten p&#229; v&#229;r forretning med det dobbelte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">3.75417</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/news/other-industries/new-state-guarantee-scheme-for-package-tour-operators/</prop>
+     <seg>In 2019, around 890 package tour operators had provided guarantees to the Travel Guarantee Fund.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/andre-ordninger/ny-statlig-garantiordning-for-pakkereisearrangorer/</prop>
+     <seg>I 2019 hadde ca 890 pakkereisearrang&#248;rer stilt garantier til Reisegarantifondet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.77826</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>gac &#8211; Google Analytics &#8211; Contains advertising-related information about the user.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>gac &#8211; Google Analytics &#8211; Inneholder kampanjerelatert informasjon om brukeren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.08524</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>If you have already given eMarketeer your personal information, (name, e-mail address and other information), this text string and the website&#8217;s URL will be attached to your existing profile.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>Hvis du allerede har gitt eMarketeer din personlige informasjon, (navn, e-post adresse og annen informasjon), s&#229; vil din eksisterende profil bli lagt ved tekst-strengen som, sammen med URL&#8217;en til dette nettstedet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/06/EK-2020-Annual-report.pdf.converted</prop>
+     <seg>control and operational risk management frame-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/08/Eksportkreditt-Arsrapport-2020.pdf.converted</prop>
+     <seg>skip ved norske verft og eksport av skipsutstyr i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.09048</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/06/EK-2020-Annual-report.pdf.converted</prop>
+     <seg>Export Credit Norway assesses all trans-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/08/Eksportkreditt-Arsrapport-2020.pdf.converted</prop>
+     <seg>s&#248;knader i tidlig fase faller bort, er at eksport&#248;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">2.84703</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/about-eksfin/oecd-projects/dogger-bank-c-wind-farm-united-kingdom/</prop>
+     <seg>A total of 87 wind turbines will be installed, and the project also includes other infrastructure offshore and on land.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/oecd-prosjekter/dogger-bank-c-vindpark-storbritannia/</prop>
+     <seg>Totalt vil det bli installert 87 vindturbiner, og prosjektet inkluderer ogs&#229; annen infrastruktur offshore og p&#229; land.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.06339</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/06/EK-2020-Annual-report.pdf.converted</prop>
+     <seg>Credit Norway endeavours to contribute to posi-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/08/Eksportkreditt-Arsrapport-2020.pdf.converted</prop>
+     <seg>Form&#229;let er &#229; gj&#248;re tilbudet enklere</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.16711</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/news/maritime/poseidon-principles-report-illustrates-increasing-focus-on-emission-cuts-in-shipping/</prop>
+     <seg>The Poseidon Principles are developed by leading international shipping banks, including Norwegian DNB, in addition to international industry players and academic institutions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/maritim/poseidon-principles-arsrapport-illustrerer-okende-fokus-pa-utslippskutt-i-shipping/</prop>
+     <seg>Poseidon Principles er utviklet av en rekke internasjonale shippingbanker, deriblant norske DNB, i tillegg til internasjonale industriakt&#248;rer og akademiske institusjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.19758</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/news/maritime/poseidon-principles-report-illustrates-increasing-focus-on-emission-cuts-in-shipping/</prop>
+     <seg>The Poseidon Principles do not apply to our entire portfolio, but represent an important first step for us, said S&#248;berg.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/maritim/poseidon-principles-arsrapport-illustrerer-okende-fokus-pa-utslippskutt-i-shipping/</prop>
+     <seg>Poseidon Principles omfatter en mindre del av v&#229;r portef&#248;lje, men er et viktig f&#248;rste skritt for oss, sier S&#248;berg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.42985</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>Through the OECD (Organisation for Economic Co-operation and Development), detailed rules, guidelines and recommendations have been issued relating to the member countries&#8217; public export financing organisations (Export Credit Agencies, or ECAs) and activities.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>I regi av OECD (Organisasjonen for &#248;konomisk samarbeid og utvikling) er det fastsatt detaljerte regler, retningslinjer og anbefalinger for medlemslandenes offentlige eksportfinansieringsvirksomhet og -virksomheter (s&#229;kalte ECAer, Export Credit Agencies).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">2.06869</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>AMP_TOKEN &#8211; Google Analytics &#8211; Contains a token that can be used to retrieve a client ID from the AMP Client ID service.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>AMP_TOKEN &#8211; Google Analytics &#8211; Inneholder en token som kan bli brukt til &#229; anskaffe en klient ID fra AMP Client ID service.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.12963</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>The EEA Agreement&#8217;s government support rules are stricter and more detailed than the WTO rules.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>E&#216;S-avtalens regler om offentlig st&#248;tte er strengere og mer detaljerte enn WTO-reglene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.03095</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>By using the website you consent to us placing cookies in your web browser.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>Ved &#229; bruke nettsiden samtykker du i at vi kan sette cookies inn i din nettleser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>You can also turn off cookies in your web browser.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>Du kan ogs&#229; stenge av for cookies i din nettleser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">3.59245</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>All data is deleted within 14 days in accordance with the General Data Protection Regulation (GDPR).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Alle data slettes innen 14 dager i henhold til GDPR reglementet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">4.22258</prop>
+    <prop type="score-bicleaner">0.712</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/cases/aker-biomarine-and-vard-launch-specialised-krill-harvesting-vessel/</prop>
+     <seg>The cost was 140 million US dollars.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/aker-biomarine-og-vard-lanserer-spesialbygd-krillfartoy-2/</prop>
+     <seg>Prisen p&#229; fart&#248;yet var 140 millioner dollar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.06214</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>Cookieconsent &#8211; Created when you accept use of cookies on our website.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>Cookieconsent &#8211; Cookien blir opprettet n&#229;r du aksepterer bruk av cookies p&#229; v&#229;re nettsider.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.03696</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>By subscribing to the newsletter, you consent to Eksfin Norge AS storing personal data in the eMarketeer system.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Ved p&#229;melding til nyhetsbrevet samtykker du i at Eksfin lagrer personopplysninger i systemet eMarketeer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.19348</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-a-small-norwegian-company-achieved-success-in-spain/</prop>
+     <seg>&#8220;The NF-Walker is a leading mobility aid for our target group, and has a strong position internationally.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/uncategorized-nb/grunderbedrift-med-suksess-i-spania/</prop>
+     <seg>&#8211; NF-Walker har en bred internasjonal posisjon og er et ledende hjelpemiddel for m&#229;lgruppen, men det har tatt lengre tid &#229; f&#229; gjennomslag for den nyere Innowalk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.16683</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/documents-and-reports/</prop>
+     <seg>Eksfin must additionally adhere to international regulations through the OECD and EEA.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/dokumenter-og-rapporter/</prop>
+     <seg>Eksfin er for &#248;vrig underlagt internasjonale regelverk under OECD og E&#216;S.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">2.08411</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-1000-uk-spar-stores-ended-up-with-norwegian-cash-registers/</prop>
+     <seg>Earlier this year, Visma signed a contract with Export Credit Norway and GIEK linked to an agreement with UK-based A.F. Blakemore, which owns and operates 295 Spar stores and is the wholesaler for a further 780 Spar stores across England and Wales.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/annen-industri/1000-britiske-butikker-norske-kasser/</prop>
+     <seg>Visma inngikk i &#229;r kontrakt med Eksportkreditt Norge og GIEK i forbindelse med en avtale med britiske AF Blakemore, som eier og driver 295 Spar-butikker og er grossist for ytterligere 780 Spar-butikker i England og Wales.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.235</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>Any questions regarding these services should be addressed to Facebook or LinkedIn.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Sp&#248;rsm&#229;l rundt disse tjenestene bes rettes til Facebook og LinkedIn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.04874</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/fisheries-and-aquaculture/irelands-largest-seafood-company-chooses-norwegian-design-and-equipment/</prop>
+     <seg>An increasing international interest in our products and services related to these industries confirms this, said Stig Gjethammer, who works with ocean industries in Export Credit Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/irlands-storste-sjomatselskap-gar-for-norsk-design-og-utstyr/</prop>
+     <seg>Det oppdager stadig flere utenlandske akt&#248;rer, sier Stig Gjethammer, kundeansvarlig i Eksportkreditts avdeling for fiskeri og havbruk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.686</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/industries/fisheries-and-aquaculture/</prop>
+     <seg>This includes aquaculture projects both on land and at sea.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/bransjer/fiskeri-havbruk/</prop>
+     <seg>Dette omfatter akvakulturprosjekter b&#229;de p&#229; land og i sj&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.28605</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>The application stores a cookie for this purpose.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>Applikasjonen lagrer en cookie for dette form&#229;let.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.17878</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>EmarketeerPing &#8211; Stores a unique key that only the eMarketeer application can connect to a contact.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>EmarketeerPing &#8211; lagrer en unik n&#248;kkel som kun eMarketeer applikasjonen kan koble til en kontakt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.04364</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>You can withdraw this consent at any time, and you can delete cookies in your browser.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>Du kan n&#229;r som helst avsl&#229; &#229; samtykke i lagring av cookies, og du kan slette cookies i din nettleser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.68462</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/no/cookies/</prop>
+     <seg>LinkedIn (JSESSIONID, lidc, bcookie, bscookie, visit) &#8211; These cookies are used to determine which platform the session has been redirected from, maintain control of the share buttons and ad tags, identify the web browser&#8217;s ID, recognise a secure browser ID, and internal services offered by LinkedIn.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/informasjonskapsler/</prop>
+     <seg>Linkedin (JSESSIONID, lidc, bcookie, bscookie, visit) &#8211; Disse cookiene brukes for &#229; determinere hvilken plattform sesjonen kommer fra, holde kontroll p&#229; delingsknappene og ad-tagger, identifisere nettleserens ID, gjenkjenne en sikker nettlesers ID, og interne tjenester som linkedin tilbyr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.20311</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>You can turn off cookies in a pop-up the first time you use the website.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Cookies kan skrus av p&#229; nettsiden i en pop-up ved f&#248;rste gangs bruk av nettsiden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">1.11387</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/management/</prop>
+     <seg>Ms. Bakker has previously held several leadership positions in major Nordic banks, most recently CEO at Swedbank Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/ledergruppen/</prop>
+     <seg>Tone Lunde Bakker har tidligere hatt flere lederstillinger i store nordiske banker, sist som administrerende direkt&#248;r i Swedbank Norway.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">1.01786</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/press-room/</prop>
+     <seg>Transparency and confidentiality</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/presserom/</prop>
+     <seg>Offentlighet og taushetsplikt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">3.50065</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/fisheries-and-aquaculture/irelands-largest-seafood-company-chooses-norwegian-design-and-equipment/</prop>
+     <prop type="source-document">https://www.eksfin.no/en/cases/fisheries-and-aquaculture/akva-group-is-a-world-leading-aquaculture-equipment-supplier/</prop>
+     <seg>This content was published before 1 July 2021 by GIEK or Eksportkreditt Norge</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/slik-lykkes-akva-group-med-eksportsatsingen/</prop>
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/irlands-storste-sjomatselskap-gar-for-norsk-design-og-utstyr/</prop>
+     <seg>Dette innholdet er publisert f&#248;r 1 juli 2021 av GIEK eller Eksportkreditt Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">1.37192</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/fisheries-and-aquaculture/akva-group-is-a-world-leading-aquaculture-equipment-supplier/</prop>
+     <seg>The company&#8217;s headquarters is located in Southwestern Norway, but AKVA group also has offices in Chile, Denmark, Scotland, Spain, Greece, Iceland, Canada, Australia and Turkey.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/slik-lykkes-akva-group-med-eksportsatsingen/</prop>
+     <seg>Selskapet har hovedkontor p&#229; Klepp i Rogaland, men har ogs&#229; kontorer i Chile, Danmark, Skottland, Spania, Hellas, Island, Canada, Australia og Tyrkia.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">4.485</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/</prop>
+     <seg>Eksfin has 130 employees and head office in Oslo.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/om</prop>
+     <seg>Vi har 130 medarbeidere og hovedkontor i Oslo.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">1.07165</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/energy/scatec-solar-constructs-solar-power-in-ukraine-with-norwegian-state-guarantees/</prop>
+     <seg>In a press release earlier today, the company announced the closing of long-term loan financing for the Boguslav facility.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/energi/scatec-solar-bygger-i-ukraina-med-giek-garantier/</prop>
+     <seg>Selskapet offentliggjorde i en b&#248;rsmelding i dag at langsiktig l&#229;nefinansiering til anlegget i Boguslav er p&#229; plass.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">3.32553</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/news/maritime/poseidon-principles-report-illustrates-increasing-focus-on-emission-cuts-in-shipping/</prop>
+     <seg>15 financial institutions are included in the report.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/maritim/poseidon-principles-arsrapport-illustrerer-okende-fokus-pa-utslippskutt-i-shipping/</prop>
+     <seg>Her vektes utslippene fra skipene i utl&#229;nsportef&#248;ljene til totalt 15 finansieringsinstitusjoner ift.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.00318</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/news/maritime/poseidon-principles-report-illustrates-increasing-focus-on-emission-cuts-in-shipping/</prop>
+     <seg>The Poseidon Principles gives us the opportunity to learn and increase our knowledge, said Otto S&#248;berg, CEO of Export Credit Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/maritim/poseidon-principles-arsrapport-illustrerer-okende-fokus-pa-utslippskutt-i-shipping/</prop>
+     <seg>Poseidon Principles er ogs&#229; et viktig forum for oss &#229; delta i for &#229; l&#230;re og videreutvikle kunnskap p&#229; omr&#229;det, sier Otto S&#248;berg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">4.155</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/news/other-industries/new-state-guarantee-scheme-for-package-tour-operators/</prop>
+     <seg>The scheme runs until the end of December 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/andre-ordninger/ny-statlig-garantiordning-for-pakkereisearrangorer/</prop>
+     <seg>Ordningen gjelder frem til slutten av desember 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.46202</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/fisheries-and-aquaculture/irelands-largest-seafood-company-chooses-norwegian-design-and-equipment/</prop>
+     <seg>MMC First Process will deliver the onboard fish processing equipment, Karm&#248;y Winch will deliver winches and deck equipment, and Brunvoll will deliver tunnel thrusters.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/irlands-storste-sjomatselskap-gar-for-norsk-design-og-utstyr/</prop>
+     <seg>Om bord installeres det komplett fiskeh&#229;ndteringsutstyr levert av MMC First Process, i tillegg til vinsjer og dekksutstyr fra Karm&#248;y Winch, og tunell-thrustere fra Brunvoll.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.09641</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/industries/other-industries/</prop>
+     <seg>Eksfin&#8217;s solutions are available to all Norwegian export industries, whether they export consultancy services, robot technology, agricultural machinery, or network cables, to name just a few.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/bransjer/ovrig-industri/</prop>
+     <seg>Eksfins l&#248;sninger er tilgjengelige for alle norske eksportn&#230;ringer, enten det er snakk om eksport av konsulenttjenester, robotteknologi, jordbruksmaskiner, nettverkskabler, for &#229; nevne noen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.8972</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/about-eksfin/oecd-projects/dogger-bank-c-wind-farm-united-kingdom/</prop>
+     <seg>Export Finance Norway (Eksfin) is considering financing equipment to SSE Renewables&#8217; and Equinor&#8217;s construction and operation of Dogger Bank C Wind Farm project.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/oecd-prosjekter/dogger-bank-c-vindpark-storbritannia/</prop>
+     <seg>Eksportfinansiering Norway (Eksfin) vurderer &#229; finansiere utstyr til SSE Renewables og Equinors bygging og drift av Dogger Bank C Wind Farm -prosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.08875</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/produkter/buyer-financing/</prop>
+     <seg>Eksfin can offer long-term loans or guarantees with long maturities and attractive terms.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/produkter/kjoperfinansiering/</prop>
+     <seg>Eksfin kan tilby langsiktig l&#229;n eller garantier med lange l&#248;petider og attraktive betingelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">1</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/fisheries-and-aquaculture/akva-group-is-a-world-leading-aquaculture-equipment-supplier/</prop>
+     <seg>Norwegian AKVA group is amongst the world&#8217;s leading suppliers of aquaculture equipment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/slik-lykkes-akva-group-med-eksportsatsingen/</prop>
+     <seg>Norske AKVA group er blant verdens ledende leverand&#248;rer p&#229; havbruksutstyr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">5.29545</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/06/EK-2020-Annual-report.pdf.converted</prop>
+     <seg>during the first half of 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/08/Eksportkreditt-Arsrapport-2020.pdf.converted</prop>
+     <seg>januar 2021 innen shipping er preget av koronapandemien</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.00238</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>Right of access and right to rectification of inaccurate or incomplete personal data</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Rett til innsyn og til &#229; kreve retting av mangelfulle personopplysninger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1.14747</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-a-small-norwegian-company-achieved-success-in-spain/</prop>
+     <seg>Made for Movement therefore decided to trial a product-leasing scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/uncategorized-nb/grunderbedrift-med-suksess-i-spania/</prop>
+     <seg>De fikk en id&#233; om &#229; teste produktet som et leieprodukt fremfor &#229; selge det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.02273</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>The information on eksfin.no is not intended to be complete and will not always be updated and accurate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Informasjonen p&#229; eksfin.no er ikke ment &#229; v&#230;re fullstendig og vil ikke v&#230;re oppdatert og n&#248;yaktig til enhver tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1.27143</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/06/EK-2020-Annual-report.pdf.converted</prop>
+     <seg>The proportion of women</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/wp-content/uploads/2021/08/Eksportkreditt-Arsrapport-2020.pdf.converted</prop>
+     <seg>&#229; sl&#229; sammen Eksportkreditt Norge og GIEK i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">3.48023</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>Norway has been a member of the WTO since its formation in 1995.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>Norge har v&#230;rt med i WTO siden opprettelsen i 1995.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">2.19459</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/fisheries-and-aquaculture/irelands-largest-seafood-company-chooses-norwegian-design-and-equipment/</prop>
+     <seg>In addition to the design of the 64 metres long and 14 metres wide trawlers, a lot of the equipment onboard is Norwegian.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/fiskeri-og-havbruk/irlands-storste-sjomatselskap-gar-for-norsk-design-og-utstyr/</prop>
+     <seg>Det er ikke bare designet p&#229; de tre 64 meter lange og 14 meter brede tr&#229;lerne som er norsk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">1.11091</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-a-small-norwegian-company-achieved-success-in-spain/</prop>
+     <seg>Following initial meetings in 2016, the scheme developed quickly, and Innowalk is now available in Spain on a leasing basis.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/uncategorized-nb/grunderbedrift-med-suksess-i-spania/</prop>
+     <seg>De hadde de f&#248;rste m&#248;tene i 2016, og siden har det g&#229;tt slag i slag. N&#229; har de f&#229;tt p&#229; plass muligheter for leie av Innowalk i Spania.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">1.68256</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>Eksfin shares data processor responsibility for Page Insights with Facebook and LinkedIn respectively.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Eksfin har felles databehandleransvar med Facebook for Sideinnsikt og LinkedIn for Page Insights.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">1.70261</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/management/</prop>
+     <seg>She holds a double Bachelor degree in finance and international business from Arizona State University, and is Authorized Financial Analyst (AFA) from the Norwegian School of Economics (NHH).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/ledergruppen/</prop>
+     <seg>Tone Lunde Bakker har en dobbel bachelor-grad i Finance and International Business fra Arizona State University og er Authorized Financial Analyst (AFA) utdannet fra Norges Handelsh&#248;yskole.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.48023</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/category/other-industries/</prop>
+     <prop type="source-document">https://www.eksfin.no/en/news/other-industries/new-state-guarantee-scheme-for-package-tour-operators/</prop>
+     <seg>The new scheme will be managed by GIEK until 1 July, when it will be taken over by the newly established Eksportfinansiering Norge (Eksfin).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/kategori/andre-ordninger/</prop>
+     <prop type="source-document">https://www.eksfin.no/no/nyheter/andre-ordninger/ny-statlig-garantiordning-for-pakkereisearrangorer/</prop>
+     <seg>Den nye ordningen forvaltes av GIEK frem til 1. juli og deretter av det nyopprettede Eksportfinansiering Norge (Eksfin).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">1.28286</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>Eksfin arranges several events each year, both as sole organiser and co-organiser.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Eksfin arrangerer flere arrangementer &#229;rlig, b&#229;de alene og som med-arrang&#248;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">1.02</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/press-room/</prop>
+     <seg>Documents and reports</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/presserom/</prop>
+     <seg>Dokumenter og rapporter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">1.39502</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>Visitors to our website can subscribe to Eksfin Norge AS&#8217;s newsletter.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>P&#229; nettsiden er det mulig &#229; melde seg p&#229; Eksfins nyhetsbrev.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.21575</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/energy/scatec-solar-constructs-solar-power-in-ukraine-with-norwegian-state-guarantees/</prop>
+     <seg>This agreement strengthens the relationship between Norway, Ukraine and Europe even further, says Minister of Industry and Trade Torbj&#248;rn R&#248;e Isaksen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/energi/scatec-solar-bygger-i-ukraina-med-giek-garantier/</prop>
+     <seg>Relasjonene mellom Norge, Ukraina og Europa er blitt enda sterkere gjennom denne avtalen, sier n&#230;ringsminister Torbj&#248;rn R&#248;e Isaksen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.51999</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>The MNE Guidelines are guidelines for responsible/ethical business operations in multinational enterprises (MNEs).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>MNE Guidelines er retningslinjer for ansvarlig/etisk forretningsdrift i multinasjonale virksomheter (MNEs).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">1.39091</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/international-framework/</prop>
+     <seg>&#8220;Common Approaches&#8221; &#8211; to social and environmental sustainability assessments</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/internasjonalt-rammeverk/</prop>
+     <seg>&#171;Common Approaches&#187; &#8211; gjelder sosiale og milj&#248;messige b&#230;rekraftsvurderinger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">1.21376</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/cases/other-industries/how-1000-uk-spar-stores-ended-up-with-norwegian-cash-registers/</prop>
+     <seg>&#8220;The breakthrough is that European sales of a Norwegian software product have been increased with financing from Export Credit Norway,&#8221; says Visma Retail&#8217;s Sven Arnquist, who signed a deal with the Spar franchisee for the UK earlier this year.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/prosjekter/annen-industri/1000-britiske-butikker-norske-kasser/</prop>
+     <seg>Gjennombruddet ligger i at en norskutviklet software f&#229;r mulighet til &#229; vokse p&#229; det europeiske markedet ved hjelp av at man finansierer det ved hjelp av Eksportkreditt Norge, sier Sven Arnquist i Visma Retail, som i &#229;r har inng&#229;tt samarbeid med Spar-franchisetaker i England.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.09713</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/privacy/</prop>
+     <seg>Eksfin shares information on visitors to eksfin.no with our service providers in order to develop, operate and optimise our website.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/personvern/</prop>
+     <seg>Informasjon om bes&#248;kende til eksfin.no deles av Eksfin med v&#229;re underleverand&#248;rer for utvikling, drift og optimalisering av v&#229;re nettsider.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">1.00259</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.eksfin.no/en/about/documents-and-reports/</prop>
+     <seg>The ministry is not represented on Eksfin&#8217;s board and is not involved in the processing of individual cases.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.eksfin.no/no/om/dokumenter-og-rapporter/</prop>
+     <seg>Departementet er ikke representert i Eksfins styre og er ikke involvert i saksbehandling av enkeltsaker.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

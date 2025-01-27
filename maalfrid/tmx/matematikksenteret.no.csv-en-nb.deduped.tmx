@@ -1,0 +1,1025 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221219T095128" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">8.55</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r1_prob_en.pdf.converted</prop>
+     <seg>more than 4</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r1_prob_nb.pdf.converted</prop>
+     <seg>flere enn 4</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.26053</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r2_prob_en.pdf.converted</prop>
+     <seg>The triangular numbers &#119879;1, &#119879;2, &#119879;3, &#8230; are defined by</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r2_prob_nb.pdf.converted</prop>
+     <seg>Trekanttallene &#119879;1, &#119879;2, &#119879;3, &#8230; er definert ved</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">3.1</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r2_prob_en.pdf.converted</prop>
+     <seg>What is the smallest positive integer having no prime factor in common withthe product 1 &#8901; 2 &#8901; 3 &#8901; 4 &#8901; 5 &#8901; &#8943; &#8901; 199 &#8901; 200?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r2_prob_nb.pdf.converted</prop>
+     <seg>Hva er det minste positive heltallet som ikke har noen felles primfaktor medproduktet 1 &#8901; 2 &#8901; 3 &#8901; 4 &#8901; 5 &#8901; &#8943; &#8901; 199 &#8901; 200?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.01538</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r2_prob_en.pdf.converted</prop>
+     <seg>The one to the right is not convex.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r2_prob_nb.pdf.converted</prop>
+     <seg>Den til h&#248;yre er ikke konveks.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.785</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_f_prob_en.pdf.converted</prop>
+     <seg>4) of corners in a regular 2013-gon iscalled</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_f_prob_nb.pdf.converted</prop>
+     <seg>4) av hj&#248;rner i en regul&#230;r 2013-kant kal-les</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.07913</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_en.pdf.converted</prop>
+     <seg>In the final round of the Abel contest there are four problems (six subproblems)to be solved in four hours.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_nb.pdf.converted</prop>
+     <seg>Abelkonkurransens finale best&#229;r av fire oppgaver (seks punkter) som skal l&#248;sesi l&#248;pet av fire timer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">4.28462</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_en.pdf.converted</prop>
+     <seg>while the greatest square less than &#119899; is &#119899; &#8722; 14?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_nb.pdf.converted</prop>
+     <seg>det st&#248;rste kvadrattallet mindre enn &#119899; er &#119899; &#8722; 14?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">3.56667</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r1_prob_en.pdf.converted</prop>
+     <seg>The first round of the Abel competition consists of 20 multiple choice problems to</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r1_prob_nb.pdf.converted</prop>
+     <seg>Abelkonkurransens f&#248;rste runde best&#229;r av 20 flervalgsoppgaver som skal</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">3.1029</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_en.pdf.converted</prop>
+     <seg>You may assume that the quadrilateral is convex (all internal angles are lessthan 180&#9702;).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_nb.pdf.converted</prop>
+     <seg>Du kan antaat firkanten er konveks (alle innvendige vinkler er mindre enn 180&#9702;).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.38341</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r1_prob_en.pdf.converted</prop>
+     <seg>The graphs of &#119891; and &#119892; intersect at a right angle.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r1_prob_nb.pdf.converted</prop>
+     <seg>Grafene til &#119891; og &#119892; st&#229;r vinkelrett p&#229; hverandre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.61822</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/Abel2020_2_en.pdf.converted</prop>
+     <seg>How many third degree polynomials &#119875; exist, all of whose coefficients areintegers greater than 0 and less than 1000, so that &#119875;(B&#710;&#8217;1) = &#119875;(B&#710;&#8217;2) = &#119875;(B&#710;&#8217;3) =0?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/Abel2020_2_nb.pdf.converted</prop>
+     <seg>Hvor mange tredjegradspolynomer &#3664;&#8216;f&#3650;&#8364;&#8249; finnes det som er slik at alle koeffisien-ter er heltall st&#3619;&#3608;rre enn 0 og mindre enn 1000, og &#3664;&#8216;f(&#3650;&#710;&#8217;1) = &#3664;&#8216;f(&#3650;&#710;&#8217;2) = &#3664;&#8216;f(&#3650;&#710;&#8217;3) =0&#3650;&#8364;&#8249;?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">7.36154</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_en.pdf.converted</prop>
+     <seg>1, remote from</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_nb.pdf.converted</prop>
+     <seg>1, p&#229; motsatt sidefra</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r1_prob_en.pdf.converted</prop>
+     <seg>The graphs of &#119891; and &#119892; are parallel lines.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r1_prob_nb.pdf.converted</prop>
+     <seg>Grafene til &#119891; og &#119892; er parallelle linjer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.10606</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_en.pdf.converted</prop>
+     <seg>Which natural number &#119899; is such that the smallest square greater than &#119899; is &#119899; + 37,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_nb.pdf.converted</prop>
+     <seg>Hvilket naturlig tall &#119899; er slik at det minste kvadrattallet st&#248;rre enn &#119899; er &#119899;+37, mens</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">5.865</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_en.pdf.converted</prop>
+     <seg>of the numbers 1, 2,.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_nb.pdf.converted</prop>
+     <seg>av tallene 1, 2,.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">7.26</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_en.pdf.converted</prop>
+     <seg>1 with radius 30 and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_nb.pdf.converted</prop>
+     <seg>1 med radius 30 og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">3.82745</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_f_prob_en.pdf.converted</prop>
+     <seg>How many crossingquadruples are there in the 2013-gon?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_f_prob_nb.pdf.converted</prop>
+     <seg>Hvor mange kryssende firetuplerfinnes det i 2013-kanten?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">3.11398</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r2_prob_en.pdf.converted</prop>
+     <seg>How many imbal-anced rectangles exist on a regular (8 &#215; 8) chess board?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r2_prob_nb.pdf.converted</prop>
+     <seg>Hvor mange ubalan-serte rektangler finnes p&#229; et vanlig (8 &#215; 8) sjakkbrett?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">3.07439</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_r2_prob_en.pdf.converted</prop>
+     <seg>6 are such that each odd numberis next to at least one even number?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_r2_prob_nb.pdf.converted</prop>
+     <seg>6 er slik at ethvert oddetaller ved siden av minst ett partall?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.24578</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_r1_prob_en.pdf.converted</prop>
+     <seg>You get 5 points for each correct answer, 1 point for a blank answer, and 0 points fora wrong answer.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/Abel2021_1_nb.pdf.converted</prop>
+     <seg>Svarene skrives i skjemaet nede til venstre.Du f&#229;r 5 poeng for riktig svar, 1 poeng for blankt svar og 0 poeng for galt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.02</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_en.pdf.converted</prop>
+     <seg>) it can jump to either (</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_nb.pdf.converted</prop>
+     <seg>) kan den hoppe til enten (</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.43414</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_en.pdf.converted</prop>
+     <seg>An equilateral triangle with side length 40 is divided into small equilateraltriangles with side length 1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_nb.pdf.converted</prop>
+     <seg>En likesidet trekant med sidelengde 40 deles opp i sm&#229; likesidede trekan-ter med sidelengde 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">5.22857</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_en.pdf.converted</prop>
+     <seg>6= 0, and which take the values</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_nb.pdf.converted</prop>
+     <seg>6= 0, og som har verdiene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.14828</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_sol_en.pdf.converted</prop>
+     <seg>The total score is thus between0 and 40.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_prob_nb.pdf.converted</prop>
+     <seg>Det gir en poengsum mellom 0 og 40.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">8.49545</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_en.pdf.converted</prop>
+     <seg>length 26, and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_nb.pdf.converted</prop>
+     <seg>lengde 26 og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">6.14</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_sol_en.pdf.converted</prop>
+     <seg>is less than or equal to 22?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_prob_nb.pdf.converted</prop>
+     <seg>enn eller lik 22?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.65795</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_en.pdf.converted</prop>
+     <seg>After 300 throwsSigrid has 147 points, and Petra has 226.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_nb.pdf.converted</prop>
+     <seg>Etter 300 kast har Sigrid 147poeng, og Petra har 226.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">4.59804</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_r2_prob_en.pdf.converted</prop>
+     <seg>What is the largest prime factor in 899?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_r2_prob_nb.pdf.converted</prop>
+     <seg>Hva er den st&#248;rste primtallsfaktoren i 899?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">4.96071</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_r2_prob_en.pdf.converted</prop>
+     <seg>How many of the permutations of 1</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_r2_prob_nb.pdf.converted</prop>
+     <seg>Hvor mange permutasjoner av tallene 1</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">3.0381</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_en.pdf.converted</prop>
+     <seg>2 are placed so that they do not overlap each other,neither completely nor partially.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_nb.pdf.converted</prop>
+     <seg>2 ligger slik at de ikke overlapper hverandre, hverkenhelt eller delvis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">5.78571</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_r2_prob_en.pdf.converted</prop>
+     <seg>there are 9 rectangles.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_r2_prob_nb.pdf.converted</prop>
+     <seg>er det 9 rektangler i alt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.2925</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_en.pdf.converted</prop>
+     <seg>Anna and Beate plan to walk to the school, which is 3 kilometers from their house.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_nb.pdf.converted</prop>
+     <seg>Anna og Beate skal g&#229; til skolen som ligger 3 kilometer fra huset deres. Idet de</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">3.82727</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_en.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_en.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_sol_en.pdf.converted</prop>
+     <seg>The maximum score is 10 points for each problem.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_nb.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_nb.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_prob_nb.pdf.converted</prop>
+     <seg>Du f&#229;r opptil 10 poeng p&#229; hver oppgave.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.07428</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_f_prob_en.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_en.pdf.converted</prop>
+     <seg>Start a newsheet of paper for each of the four problems.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_f_prob_nb.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_nb.pdf.converted</prop>
+     <seg>Begynn p&#229;nytt ark for hver av de fire oppgavene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">5.53235</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_en.pdf.converted</prop>
+     <seg>) of circles, with 1 &#8804;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_nb.pdf.converted</prop>
+     <seg>) av sirkler, med 1 &#8804;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.91197</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_sol_en.pdf.converted</prop>
+     <seg>The diagonalsAC, CE, EB, BD, and DA are tangents to another circle Y2 with the samecentre as Y1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_prob_nb.pdf.converted</prop>
+     <seg>DiagonaleneAC, CE, EB, BD og DA tangerer en annen sirkel Y2 med samme sentrumsom Y1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.27888</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_sol_en.pdf.converted</prop>
+     <seg>We consider the sum of the digits of a positive integer. For example, the sumof the digits of 2007 is equal to 9, since 2 + 0 + 0 + 7 = 9.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_prob_nb.pdf.converted</prop>
+     <seg>Tverrsummen av et positivt heltall er summen av sifrene i tallet (for eksempeler tverrsummen av 2007 lik 9, da 2 + 0 + 0 + 7 = 9).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.39881</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r2_prob_en.pdf.converted</prop>
+     <seg>What is the sum of all positive integers &#119899; for which &#119879;&#119899;+4 is divisible by &#119879;&#119899;? The Abel competition</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r2_prob_nb.pdf.converted</prop>
+     <seg>Hva er summen av alle positive heltall &#119899; slik at &#119879;&#119899;+4 er delelig p&#229; &#119879;&#119899;?Abelkonkurransen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">3.01429</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_en.pdf.converted</prop>
+     <seg>First, he tries with 15 piles, but 12 pieces areleft over.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_nb.pdf.converted</prop>
+     <seg>F&#248;rst pr&#248;ver han seg med 15 hauger, men sitter igjenmed 12 biter til overs.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.03571</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Novemberkonferansen/N%20-%202021/Programmeringsstrategier%20i%20matematikk%20-%20Refvik%20og%20Fojcik.pdf.converted</prop>
+     <seg>Science and Technology</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/media/filer/Filer%20Barnehage/Matematikk%20i%20ny%20rammeplan.pdf.converted</prop>
+     <seg>Progresjon inneb&#230;rer at</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">5.72698</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1516_r1_prob_en.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r1_prob_en.pdf.converted</prop>
+     <seg>A totally blank responseresults in 20 points.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1516_r1_prob_nb.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r1_prob_nb.pdf.converted</prop>
+     <seg>Blank besvarelse gir 20 poeng.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">2.72727</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1516_r1_prob_en.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r1_prob_en.pdf.converted</prop>
+     <seg>The first round of the Abel competition consists of 20 multiple choice problems to besolved in 100 minutes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1516_r1_prob_nb.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r1_prob_nb.pdf.converted</prop>
+     <seg>Abelkonkurransens f&#248;rste runde best&#229;r av 20 flervalgsoppgaver som skal l&#248;ses il&#248;pet av 100 minutter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.18308</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r2_prob_en.pdf.converted</prop>
+     <seg>is mea-sured in degrees, and every measure is an integer.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r2_prob_nb.pdf.converted</prop>
+     <seg>m&#229;les i grader, og alle vin-kelm&#229;lene er heltall.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">7.95</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_en.pdf.converted</prop>
+     <seg>, 4022, that is,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_nb.pdf.converted</prop>
+     <seg>, 4022 etterhverandre,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.91</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_r1_prob_en.pdf.converted</prop>
+     <seg>This yields a total between 0 and 100 points.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/Abel2021_1_nb.pdf.converted</prop>
+     <seg>svar. Det gir en poengsum mellom 0 og 100.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.38214</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r2_prob_en.pdf.converted</prop>
+     <seg>is &#119864;, and the midpoint of segment</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r2_prob_nb.pdf.converted</prop>
+     <seg>er &#119864;, og midtpunktet p&#229; linjestykket</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.17273</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_en.pdf.converted</prop>
+     <seg>What is the sum of the lengths of the hypothenuses of all right triangles withinteger sides having a side of length 12?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_nb.pdf.converted</prop>
+     <seg>Hva er summen av lengdene til hypotenusene i alle rettvinklede trekantermed heltallige sidelengder som har en side med lengde 12?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.76604</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_en.pdf.converted</prop>
+     <seg>runs at a speed of 15 kilometers per hour, and each of the girls can walk at a speed</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_nb.pdf.converted</prop>
+     <seg>Den elektriske sykkelen kj&#248;rer med en fart p&#229; 15 kilometer per time, og hver av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">6.28</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_en.pdf.converted</prop>
+     <seg>is divisible by 3.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_nb.pdf.converted</prop>
+     <seg>er delelig med 3.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">5.83543</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_en.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_en.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_en.pdf.converted</prop>
+     <seg>The maximum score is thus 40.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_nb.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_nb.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_nb.pdf.converted</prop>
+     <seg>Maksimal poengsum er dermed 40.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.57071</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_en.pdf.converted</prop>
+     <seg>+ 20is also white, and if</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_nb.pdf.converted</prop>
+     <seg>+ 20ogs&#229; hvitt, og hvis</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">3.44095</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_en.pdf.converted</prop>
+     <seg>be the number that is produced by concatenating the numbers 1, 2,.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_f_prob_nb.pdf.converted</prop>
+     <seg>v&#230;re tallet som framkommer ved &#229; sette tallene 1, 2,.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">4.12</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r1_prob_en.pdf.converted</prop>
+     <seg>This yields a total between 0 and 100 points.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r1_prob_nb.pdf.converted</prop>
+     <seg>Det gir en poengsum mellom 0 og 100.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">6.75714</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_en.pdf.converted</prop>
+     <seg>+ 35 is also black.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_nb.pdf.converted</prop>
+     <seg>+ 35 ogs&#229; svart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">7.5</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_en.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1516_r2_prob_en.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_en.pdf.converted</prop>
+     <seg>Page 1 of 2</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_nb.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1011_r2_prob_nb.pdf.converted</prop>
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_nb.pdf.converted</prop>
+     <seg>Side 1 av 2</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">8.04</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_en.pdf.converted</prop>
+     <seg>1, and similarly</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_nb.pdf.converted</prop>
+     <seg>1, og p&#229; sammem&#229;te er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">4.3</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_en.pdf.converted</prop>
+     <seg>A box contains fewer than 1000 pieces of chocolate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_nb.pdf.converted</prop>
+     <seg>En eske inneholder f&#230;rre enn 1000 sjokoladebiter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">3.28909</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_sol_en.pdf.converted</prop>
+     <seg>How many integers n, where 0 &lt; n &lt; 100 000, have an even sum of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_prob_nb.pdf.converted</prop>
+     <seg>Hvor mange heltall n, der 0 &lt; n &lt; 100 000, har tverrsum som er et</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.81093</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_sol_en.pdf.converted</prop>
+     <seg>In the final round of the Abel contest there are 4 problems (8 subproblems) to besolved in 4 hours.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_prob_nb.pdf.converted</prop>
+     <seg>Abelkonkurransens finale best&#229;r av 4 oppgaver (8 punkter) som skal l&#248;ses i l&#248;petav 4 timer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">3.84545</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_en.pdf.converted</prop>
+     <seg>You can score up to 10 points for each problem.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1314_f_prob_nb.pdf.converted</prop>
+     <seg>Du f&#229;r opptil 10 poeng p&#229; hver oppgave.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">2.6978</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_f_prob_en.pdf.converted</prop>
+     <seg>Find all real functions &#119891; defined on the real numbers except zero, satisfying&#119891;(2019) = 1 and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_f_prob_nb.pdf.converted</prop>
+     <seg>Finn alle reelle funksjoner &#119891; definert p&#229; alle reelle tall forskjellig fra null,slik at &#119891;(2019) = 1 og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.3875</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_en.pdf.converted</prop>
+     <seg>passes through &#119875;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1617_r2_prob_nb.pdf.converted</prop>
+     <seg>den tredje g&#229;r gjennom &#119875;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_f_prob_en.pdf.converted</prop>
+     <seg>The centres of the circles are the corners of a triangle with circumference 1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_f_prob_nb.pdf.converted</prop>
+     <seg>Sentrene i sirklene er hj&#248;r-nene i en trekant med omkrets lik 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.74286</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r1_prob_en.pdf.converted</prop>
+     <seg>&#119891; and &#119892; are the same function.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r1_prob_nb.pdf.converted</prop>
+     <seg>&#119891; og &#119892; er samme funksjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">2.45643</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_en.pdf.converted</prop>
+     <seg>But now there are 13 pieces left over, and he decides to eat these as well.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_nb.pdf.converted</prop>
+     <seg>Men n&#229; sitter han igjen med 13 biter til overs,og bestemmer seg for ogs&#229; &#229; spise disse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">5.44286</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_en.pdf.converted</prop>
+     <seg>2, where the line through both centres</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_nb.pdf.converted</prop>
+     <seg>2, der linjen gjennom sirkelsentrene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">2.71269</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_en.pdf.converted</prop>
+     <seg>He eats these, and then tries to divide the rest into 16 equal piles.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1415_r2_prob_nb.pdf.converted</prop>
+     <seg>Han spiser dem opp, og fors&#248;ker deretter &#229; dele oppresten i 16 like store hauger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">3.295</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_sol_en.pdf.converted</prop>
+     <seg>How many integers n, where 0 &lt; n &lt; 100 000, have a sum of digits that</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_prob_nb.pdf.converted</prop>
+     <seg>Hvor mange heltall n, der 0 &lt; n &lt; 100 000, har tverrsum som er mindre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">2.08182</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_en.pdf.converted</prop>
+     <seg>Sigrid, Petra and Odd are playing a game.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_nb.pdf.converted</prop>
+     <seg>Sigrid, Petra og Odd spiller et spill.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">2.56119</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r1_prob_en.pdf.converted</prop>
+     <seg>You get 5 points for each correct answer, 1 point for a blank answer, and 0 points</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1718_r1_prob_nb.pdf.converted</prop>
+     <seg>Svarene skrives i skjemaet nede til venstre.Du f&#229;r 5 poeng for riktig svar, 1 poeng for blankt svar og 0 poeng for galt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">6.825</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_f_prob_en.pdf.converted</prop>
+     <seg>2 intersects the line segment from</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1213_f_prob_nb.pdf.converted</prop>
+     <seg>2 skj&#230;rer linjestykket fra</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.67222</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r2_prob_en.pdf.converted</prop>
+     <seg>Nils writes the 90-digit integer 987654321&#8230;987654321 on a blackboard, that isthe digits 987654321 ten times in succession.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_r2_prob_nb.pdf.converted</prop>
+     <seg>Nils skriver opp det 90-sifrede heltallet 987654321&#8230;987654321 p&#229; en tavle,alts&#229; med 987654321 ti ganger etter hverandre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.29062</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_f_prob_en.pdf.converted</prop>
+     <seg>You have an &#119899;&#215;&#119899; grid of empty squares.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_f_prob_nb.pdf.converted</prop>
+     <seg>Du har et rutenett med &#119899; &#215; &#119899; tomme ruter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.03571</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_en.pdf.converted</prop>
+     <seg>1 are different points on</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1112_f_prob_nb.pdf.converted</prop>
+     <seg>1forskjellige punkt p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">3.11754</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_en.pdf.converted</prop>
+     <seg>A line passing through the point (2, 34) divides the parallelogram in twopieces of equal area.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1920_r2_prob_nb.pdf.converted</prop>
+     <seg>Enlinje gjennom punktet (2, 34) deler parallellogrammet i to deler med like stortareal.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.29333</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_sol_en.pdf.converted</prop>
+     <seg>What is the ratio of the radii of the circles Y1 and Y2?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_0607_f_prob_nb.pdf.converted</prop>
+     <seg>Hva er forholdet mellom radiene til sirklene Y1 og Y2?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.10171</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_f_prob_en.pdf.converted</prop>
+     <seg>When you place a cross in an empty square, you receive &#119894; + &#119895; points ifthere were &#119894; crosses in the same row and &#119895; crosses in the same column beforeyou placed the new cross.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matematikksenteret.no/sites/default/files/attachments/Abelkonkurransen/abel-oppgaver/abel_1819_f_prob_nb.pdf.converted</prop>
+     <seg>N&#229;r du setter kryss i en tom rute, f&#229;r du &#119894; +&#119895; poeng dersom detfra f&#248;r er &#119894; kryss i samme rad og &#119895; kryss i samme kolonne.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

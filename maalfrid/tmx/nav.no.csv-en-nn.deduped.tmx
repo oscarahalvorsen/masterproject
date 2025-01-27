@@ -1,0 +1,1413 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T095740" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">3.56758</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>Possible old-age pension levels are 20, 40, 50, 60, 80 and 100%.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>Moglege uttaksgradar for alderspensjon er 20, 40, 50, 60, 80 og 100 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>If you stay within the EEA, you may be entitled to cash-for-care benefits for stays of more than 3 months.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Dersom opphaldet er innanfor E&#216;S, kan du ha rett til kontantst&#248;tte ved opphald i meir enn 3 m&#229;nader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.50293</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>If you do so, the total degree of disability benefit and old-age pension must not exceed 100%.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>Gjer du det, kan den samla graden av uf&#248;retrygd og alderspensjon ikkje vere over 100 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.33933</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>If your child doesn&#8217;t attend a government subsidized kindergarten, you may receive 100 percent cash-for-care benefit.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Dersom barnet ditt ikkje g&#229;r i ein barnehage med offentleg tilskot, kan du f&#229; 100 prosent kontantst&#248;tte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.02</prop>
+    <prop type="score-bicleaner">0.543</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>It may also</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>Det kan ogs&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.03446</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>It is a prerequisite that the employer, NAV and the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>Det er ein f&#248;resetnad at arbeidsgivaren, NAV og arbeidstakaren</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.11714</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <prop type="source-document">https://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <seg>This also means that you do not pay a national insurance contribution.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <prop type="source-document">http://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <seg>N&#229;r du ikkje er medlem i folketrygda, har du ingen rettar etter folketrygdlova.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.03158</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <seg>&#171;Income&#187; in this context, is income, disability benefit and pension according to</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <seg>&#171;Inntekt&#187; er i denne samanhengen l&#248;nn, uf&#248;retrygd og pensjon (sj&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">3.27722</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/19382c26-e656-408a-91e5-1584512c54f1:082799bbcf84e83a1a0338c9a83f45cf8939b245/information-on-benefit-for-an-approved-occupational-injury.pdf.converted</prop>
+     <seg>You may obtain further information by calling HELFO on 800 43573 or visiting helsenorge.no.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/11ca2cfb-c453-4027-b96f-f49246acf489:9c1317129c8fbe5de20f5a420b61df6353d0a9e0/orientering-om-stonad-ved-godkjend-yrkesskade-august-2015-nynorsk.pdf.converted</prop>
+     <seg>N&#230;rare informasjon kan du f&#229; ved &#229; kontakte HELFO p&#229; telefon 800 43573 eller g&#229; inn p&#229; helsenorge.no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.26842</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <prop type="source-document">https://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <seg>Not resident in Norway:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <prop type="source-document">http://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <seg>Ikkje busett i Noreg:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.13214</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/19382c26-e656-408a-91e5-1584512c54f1:082799bbcf84e83a1a0338c9a83f45cf8939b245/information-on-benefit-for-an-approved-occupational-injury.pdf.converted</prop>
+     <seg>You will also find the travel claim form here.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/11ca2cfb-c453-4027-b96f-f49246acf489:9c1317129c8fbe5de20f5a420b61df6353d0a9e0/orientering-om-stonad-ved-godkjend-yrkesskade-august-2015-nynorsk.pdf.converted</prop>
+     <seg>Her finn du ogs&#229; reiserekningsskjemaet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.00625</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>The earliest you may apply is the month your child turns one year.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Du kan tidlegat s&#248;kje den m&#229;naden barnet fyller eitt &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.18235</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>It is important that you notify NAV if your child starts at a day care centre.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Det er viktig at du melder fr&#229; til NAV dersom barnet ditt byrjar i barnehage.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">3.56634</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/employers/relatert-informasjon/reporting-occupational-injuries-and-illnesses</prop>
+     <seg>Military personnel with &#8220;24-hour social security&#8221;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/bedrift/tjenester-og-skjemaer/nynorsk/melding-av-yrkesskadar-og-yrkessjukdommar</prop>
+     <seg>Spesielt for milit&#230;rpersonar med &#171;24-timers trygd&#187;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.65933</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>If you are born between 1954-1962, your old-age pension will be partly calculated on the basis of your pension pot and partially on the basis of pension points, which you are credited each year up until you turn 66.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>Er du f&#248;dd i &#229;ra 1954&#8211;1962, blir alderspensjonen din berekna dels p&#229; grunnlag av pensjonsbehaldninga di og dels p&#229; grunnlag av pensjonspoeng, som du f&#229;r godskrivne for kvart &#229;r fram til du er 66 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.14024</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Systematic IA work involves close dialogue with the employee representatives, with an</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>Systematisk IA-arbeid inneber ein tett dialog med dei tillitsvalde, med vekt p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.14464</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>In case of long-term and/or frequently recurring sickness absence, the employer may</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>Ved lange og/eller hyppig gjentakande sjukefr&#229;v&#230;r kan arbeidsgivaren s&#248;kje NAV om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.46</prop>
+    <prop type="score-bicleaner">0.627</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <seg>How do you apply?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <seg>Korleis s&#248;kjer du?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.45673</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <prop type="source-document">https://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <seg>You have not a compulsory membership if you work in catering on a tourist ship registered in the Norwegian International Ship Register (NIS)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <prop type="source-document">http://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <seg>Du er ikkje pliktig medlem om du er cateringtilsett p&#229; turistskip registrert i Norsk Internasjonalt Skipsregister (NIS)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.9619</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>If you work in addition to receiving disability benefits after you turn 62, your retirement reserves will continue to increase based on your income.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>Dersom du jobbar i tillegg til &#229; ta i mot uf&#248;retrygd etter at du har fylt 62 &#229;r, fortsett pensjonsbehaldninga di &#229; auke p&#229; grunnlag av arbeidsinntekta di.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.06638</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>If you are born before 1954, your old-age pension is calculated on the basis of pension points, which you will be credited each year up until you turn 66.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>Er du f&#248;dd f&#248;r 1954, blir alderspensjonen din berekna p&#229; grunnlag av pensjonspoeng, som du f&#229;r godskrivne for kvart &#229;r fram til du er 66 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.10686</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/about-nav/relatert-informasjon/do-you-want-nav-to-send-your-mail-to-another-address</prop>
+     <seg>You will find a form for reporting changes with the decision you have received from NAV.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/nav-og-samfunn/om-nav/nynorsk/vil-du-ha-post-fra-nav-til-ei-anna-adresse</prop>
+     <seg>Saman med vedtaket du har f&#229;tt fr&#229; NAV finn du eit skjema for &#229; melda om endringar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.85907</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/Fit-for-employment</prop>
+     <seg>The maximum period of sickness benefit is 52 weeks, including the weeks you have been reported fit for work to employment services.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/arbeid/sykmeldt-arbeidsavklaringspenger-og-yrkesskade/nynorsk/friskmelding-til-arbeidsformidling-nynorsk</prop>
+     <seg>Maksimal periode med sjukepengar er 52 veker, inkludert vekene med friskmelding til arbeidsformidling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.01536</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/tilleggsstonader/en</prop>
+     <prop type="source-document">http://www.nav.no/tilleggsstonader/en</prop>
+     <seg>The amount you receive is also intended to cover work materials in connection with practical training or taking a trade certificate, such as flowers, metal, tools, personal protective equipment, workwear, etc.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/tilleggsstonader/nn</prop>
+     <prop type="source-document">https://www.nav.no/tilleggsstonader/nn</prop>
+     <seg>Bel&#248;pet skal ogs&#229; dekkje arbeidsmateriell n&#229;r du gjennomf&#248;rer praktisk oppl&#230;ring eller fagpr&#248;ve, som blomstrar, metall, verkt&#248;y, verneutstyr, arbeidsklede og liknande.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.05871</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/employers/relatert-informasjon/reporting-occupational-injuries-and-illnesses</prop>
+     <seg>As an employer you have a duty to report an occupational illness or injury (National Insurance Act).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/bedrift/tjenester-og-skjemaer/nynorsk/melding-av-yrkesskadar-og-yrkessjukdommar</prop>
+     <seg>Som arbeidsgivar har du plikt til &#229; sende skademelding (folketrygdlova).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.81492</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>You may keep the cash-for-care benefits if you and your family stay abroad up to 3 months.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Du held kontantst&#248;tta dersom du og familien din skal opphalde dykk i utlandet i inntil 3 m&#229;nader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.36</prop>
+    <prop type="score-bicleaner">0.611</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <prop type="source-document">https://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <seg>to study abroad.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <prop type="source-document">http://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <seg>for &#229; studere i utlandet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.01063</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>and efforts focused on long-term and/or frequently recurring sickness absence.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>innsats mot lange og/eller hyppig gjentakande sjukefr&#229;v&#230;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">3.21875</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <seg>If you support a spouse over the age of 60 and qualify for a</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/minste-pensjonsniva</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/minste-pensjonsniva</prop>
+     <seg>Dersom du fors&#248;rgjer ektefelle over 60 &#229;r og fyller vilk&#229;ra for rett til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.01182</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Dialogue meetings are not required if the employee is on partial</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>Det er ikkje krav om &#229; halde dialogm&#248;te ved gradert (delvis) sjukmelding</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.90438</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <seg>You are also entitled to a minimum pension at the ordinary rate if in twelve of the last 18 months you have co-habited with a person who</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/minste-pensjonsniva</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/minste-pensjonsniva</prop>
+     <seg>Du har ogs&#229; rett til minste pensjonsniv&#229; etter ordin&#230;r sats dersom du i tolv av de siste 18 m&#229;nadene har vore sambuar med person som</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.26667</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>When you move to Norway</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>N&#229;r du kjem til Noreg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.10089</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>How to apply for cash-for-care benefit</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Korleis s&#248;kjer du om kontantst&#248;tte?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.01143</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/sosialhjelp/en/klage</prop>
+     <seg>Appeal for decisions on social services</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/lokalt/hjelpemiddelsentraler/nav-hjelpemiddelsentral-vestland/lokal-informasjon/lokale-skjema/lokale-skjema-bergen</prop>
+     <seg>Skjema for bestilling av delar, reparasjon og demontering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.05044</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <prop type="source-document">https://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <seg>There is an exception if you study in a Nordic country or in EU/EEA, in these cases you must be a member of the social security scheme in the country where you are considered a resident.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <prop type="source-document">http://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <seg>Det er unntak fr&#229; dette om du studerer innanfor Norden eller EU/E&#216;S, d&#229; skal du vere medlem av trygdeordninga i det landet der du er rekna som busett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.67162</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/pension-guarantee</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/pension-guarantee</prop>
+     <seg>You may start collecting on your retirement pension before reaching the age of 67 if you have earned a pension that is equal to or greater than the pension guarantee level at 67 years of age.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/garantipensjon_2</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/garantipensjon_2</prop>
+     <seg>Vilk&#229;ret for &#229; ta ut alderspensjon f&#248;r du er fylt 67 &#229;r, er at du m&#229; ha tent opp ein pensjon som minst svarer til garantipensjonsniv&#229;et ditt ved 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">3.075</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <seg>The child supplement is reduced with 50 percent of the income exceeding the free allowance.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <seg>Barnetillegget blir redusert med 50 prosent av den inntekta som er over fribel&#248;pet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.07242</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>As a rule, the cash-for-care benefit will cease the month after you leave Norway if you plan to stay abroad for more than 3 months.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Dersom du har tenkt &#229; opphalde deg i utlandet i meir enn 3 m&#229;nader, vil kontantst&#248;tta som hovudregel bli stansa m&#229;naden etter du reiser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.31045</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>If the child has lived in Norway 12 months in a row, it is considered as resident.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Dersom barnet ditt oppheld seg i Norge i minst 12 m&#229;nader samanhengande, blir barnet rekna som busett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.04318</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <prop type="source-document">https://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <seg>work in Norway or on the Norwegian continental shelf</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <prop type="source-document">http://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <seg>arbeider i Noreg eller p&#229; norsk kontinentalsokkel</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.25714</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/about-nav/relatert-informasjon/do-you-want-nav-to-send-your-mail-to-another-address</prop>
+     <seg>Send the completed form to:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/nav-og-samfunn/om-nav/nynorsk/vil-du-ha-post-fra-nav-til-ei-anna-adresse</prop>
+     <seg>Send utfylt skjema til:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">4.17632</prop>
+    <prop type="score-bicleaner">0.639</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>The IA Agreement for the period 2019-2022</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>IA-avtalen for perioden 2019&#8211;2022 gjeld for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">3.625</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>You will receive your old-age pension from and including reaching 67 years old</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>Du f&#229;r alderspensjon fr&#229; og med fylte 67 &#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.41975</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>If you are over 62 years old and are entitled to receive an old-age pension, you may combine this with disability benefits.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>Er du over 62 &#229;r og har rett til &#229; ta ut alderspensjon, kan du kombinere alderspensjonen med uf&#248;retrygd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.31569</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>self-certification for the employer period of 16 days and not just for 3 days, which is a</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>heile arbeidsgivarperioden p&#229; 16 dagar, og ikkje berre i 3 dagar, som er ein rett un&#248;dvendig, for eksempel:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.28714</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>A follow-up plan must be prepared unless this is clearly unnecessary, for example,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>Det skal lagast ein oppf&#248;lgingsplan s&#229; sant det ikkje openbert er un&#248;dvendig, for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.04318</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/tilleggsstonader/en</prop>
+     <prop type="source-document">http://www.nav.no/tilleggsstonader/en</prop>
+     <seg>You can receive this if you have impaired work capability.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/tilleggsstonader/nn</prop>
+     <prop type="source-document">https://www.nav.no/tilleggsstonader/nn</prop>
+     <seg>Dette kan du f&#229; n&#229;r du har nedsett arbeidsevne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.98391</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>If the child has part-time place, you can receive 20, 40, 60 or 80 per cent cash-for-care benefit</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Dersom barnet har deltidsplass, kan du ha rett til 20, 40, 60 eller 80 prosent kontantst&#248;tte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.18265</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <prop type="source-document">https://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <seg>Social security agreements also make it possible for workers who are temporarily posted to another agreement country for work to retain their membership in Norwegian National Insurance.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <prop type="source-document">http://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <seg>Trygdeavtalene gir ogs&#229; moglegheit til &#229; behalde medlemskapen i folketrygda for arbeidstakarar som blir sende ut for &#229; arbeide mellombels i det andre avtalelandet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.41267</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>If you are receiving a graded disability benefit when you turn 67, you will automatically receive an old-age pension with the nearest possible pension level for this.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>Har du gradert uf&#248;retrygd n&#229;r du fyller 67 &#229;r, f&#229;r du automatisk ein alderspensjon med n&#230;raste moglege uttaksgrad for dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.91793</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>If you are a national of an EEA country and are working in Norway, you may be entitled to cash-for-care benefit even if you will be residing in Norway for less than 12 months.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Er du statsborgar i eit E&#216;S-land og arbeider i Noreg, kan du ha rett til kontantst&#248;tte sj&#248;lv om du skal vere busett i Noreg i mindre enn 12 m&#229;nader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">3.81688</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>The allotted place thus totals 50 hours per week.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Den tildelte plassen utgjer dermed 50 timar per veke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.92991</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/Fit-for-employment</prop>
+     <seg>If all possibilities of returning to your workplace have been tried, you can receive sickness benefit for up to 12 weeks while you look for a new job.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/arbeid/sykmeldt-arbeidsavklaringspenger-og-yrkesskade/nynorsk/friskmelding-til-arbeidsformidling-nynorsk</prop>
+     <seg>Dersom du har pr&#248;vd alt som er mogleg for &#229; kome tilbake til arbeidsplassen din, kan du f&#229; sjukepengar i inntil 12 veker mens du s&#248;kjer ny jobb.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">2.81071</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>If you have adopted children, you can receive cash-for-care benefits for up to 11 months after the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Har du adopterte barn, kan du f&#229; kontantst&#248;tte i inntil 11 m&#229;nader etter at</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">9.16154</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Within 7 weeks</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>Seinast innan 7 veker</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">3.2493</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>If you are 100% disabled, you will automatically receive your old-age pension when you turn 67.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>Har du 100 prosent uf&#248;retrygd, f&#229;r du automatisk alderspensjon n&#229;r du fyller 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.00112</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/tilleggsstonader/en</prop>
+     <prop type="source-document">http://www.nav.no/tilleggsstonader/en</prop>
+     <seg>If you receive too much benefit, we can demand that you pay back the excess.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/tilleggsstonader/nn</prop>
+     <prop type="source-document">https://www.nav.no/tilleggsstonader/nn</prop>
+     <seg>F&#229;r du for mykje st&#248;nad utbetalt, kan vi krevje at du betaler dette tilbake.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.08936</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/employers/relatert-informasjon/reporting-occupational-injuries-and-illnesses</prop>
+     <seg>Once you have selected the right form, you are automatically taken to a form completion guide.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/bedrift/tjenester-og-skjemaer/nynorsk/melding-av-yrkesskadar-og-yrkessjukdommar</prop>
+     <seg>N&#229;r du har valt skjema, kjem du til skjemarettleiaren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">3.02123</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <seg>This also applies to those who drew retirement pension before 2011.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/minste-pensjonsniva</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/minste-pensjonsniva</prop>
+     <seg>Dette gjeld ogs&#229; for deg som tok ut alderspensjon f&#248;r 2011.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.16058</prop>
+    <prop type="score-bicleaner">0.553</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>employer, but other parties may be summoned if this is appropriate.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>givaren, men andre kan kallast inn dersom det er tenleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">2.1747</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <seg>You may be entitled to child supplement if you receive disability benefits while supporting your own children or foster children under the age of 18.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <seg>Du kan ha rett til barnetillegg dersom du er uf&#248;retrygda og fors&#248;rgjer eigne barn eller fosterbarn som er under 18 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.53484</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <seg>Be aware that if the child has an income above 1 G (</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <seg>Ver merksam p&#229; at dersom eit barn har eige &#229;rleg inntekt over 1 G, blir barnet rekna som sj&#248;lvfors&#248;rgja.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <prop type="source-document">https://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <seg>Membership as a resident:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <prop type="source-document">http://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <seg>Medlem som busett i Noreg:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.12917</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>when it is clear that the person on sick leave will not be returning to work, or when the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>eksempel n&#229;r det er klart at den sjukmelde ikkje kjem tilbake til arbeid, eller n&#229;r den</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">3.0459</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>In some situations there are reasons for making exceptions from dialogue meeting 2:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>I somme situasjonar er det grunnlag for &#229; gjere unntak fr&#229; dialogm&#248;te 2:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">2.93095</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <seg>The first post settlement for child support will be done in the automn 2017 for the income year 2016.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <seg>Det f&#248;rste etteroppgjeret for barnetillegget vil bli gjort hausten 2017 og vil gjelde for inntekts&#229;ret 2016.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.00833</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>You may write to us when you are logged in at</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Du kan sende ein beskjed til oss n&#229;r du er logga p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">2.30944</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>If you are born in 1963 or later, the pension reserves increases even up to the calendar year you turn 61 when you receive a disability pension.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>Er du f&#248;dd i 1963 eller seinare, aukar pensjonsbehaldninga til og med det kalender&#229;ret du fyller 61 &#229;r n&#229;r du mottek uf&#248;retrygd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.255</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>How long can you receive cash-for-care benefits?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Kor lenge kan du f&#229; kontantst&#248;tte?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.36108</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <prop type="source-document">https://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <seg>are a citizen of Norway/an EEA country, and work on a Norwegian vessel.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <prop type="source-document">http://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <seg>er norsk statsborgar / E&#216;S-statsborgar og tilsett p&#229; norsk skip.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.02568</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/benefits-during-unemployment-in-eea-member-states/questions-and-answers_kap</prop>
+     <seg>Where do I apply for unemployment benefit?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/lokalt/rogaland/pressemeldinger/nedgangen-i-arbeidsloysa-held-fram</prop>
+     <seg>Nedgangen i arbeidsl&#248;ysa held fram i Rogaland</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.01667</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <seg>The limit for what you can have in total income, is called a free allowance.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <seg>Grensa for kva du kan tene f&#248;r barnetillegget blir redusert, blir kalla fribel&#248;p.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.2196</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <prop type="source-document">https://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <seg>If you are working, it is also a requirement that you work for a Norwegian employer who is required to pay an employer's National Insurance contribution in Norway, and that you do not receive a salary from a foreign employer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <prop type="source-document">http://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <seg>Om du er yrkesaktiv, er det f&#248;resett i tillegg at du arbeider for norsk arbeidsgjevar som har plikt til &#229; betale arbeidsgjevaravgift i Noreg, og at du ikkje f&#229;r l&#248;n fr&#229; utanlandsk arbeidsgjevar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.35519</prop>
+    <prop type="score-bicleaner">0.613</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <seg>The free allowance increases with 0,4 G for each child.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <seg>Fribel&#248;pet aukar med 0,4 G for kvart ekstra barn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">7.40769</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Within 1 year,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>Seinast innan 1 &#229;r,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">2.334</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/19382c26-e656-408a-91e5-1584512c54f1:082799bbcf84e83a1a0338c9a83f45cf8939b245/information-on-benefit-for-an-approved-occupational-injury.pdf.converted</prop>
+     <seg>The most important difference is that the benefits under the usual regulations are only granted to persons with at least 50 per cent disability.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/11ca2cfb-c453-4027-b96f-f49246acf489:9c1317129c8fbe5de20f5a420b61df6353d0a9e0/orientering-om-stonad-ved-godkjend-yrkesskade-august-2015-nynorsk.pdf.converted</prop>
+     <seg>Den viktigaste forskjellen er at ytingane etter dei vanlige reglane berre gjeve ved uf&#248;regradar p&#229; minst 50 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">8.42143</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Within 26 weeks</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>Etter seinast 26 veker</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">2.24107</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>If you are entitled to early retirement pension (AFP) in the private sector, you may lose this entitlement if you receive disability benefit after you turn 62.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>Har du rett til avtalefesta pensjon (AFP) i privat sektor, kan du miste denne retten dersom du f&#229;r uf&#248;retrygd etter at du fyller 62 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.89277</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <seg>The criterion for drawing retirement pension before the age of 67 is that you must have accumulated pension rights that are at least equivalent to the minimum pension level.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/minste-pensjonsniva</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/minste-pensjonsniva</prop>
+     <seg>Vilk&#229;ret for &#229; ta ut alderspensjon f&#248;r 67 &#229;r er at du m&#229; ha tent opp ein pensjon som minst svarar til minste pensjonsniv&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.66154</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>The kindergarten that Ida will attend is open from 07.00 to 17.00.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Barnehagen til Ida er open fr&#229; klokka 07.00 til klokka 17.00.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.3425</prop>
+    <prop type="score-bicleaner">0.579</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <prop type="source-document">https://www.nav.no/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme</prop>
+     <seg>Voluntary membership during stays in Norway:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <prop type="source-document">http://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/nynorsk/medlemskap-i-folketrygda</prop>
+     <seg>Frivillig medlemskap i folketrygda under opphald i Noreg:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">3.47368</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>If you would like a 100% old-age pension, you must apply to NAV for this.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/uforetrygd-og-opptening-av-alderspensjon</prop>
+     <seg>&#216;nskjer du 100 prosent alderspensjon, m&#229; du s&#248;kje om dette til NAV.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">4.26176</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>You can receive cash-for-care benefits for a maximum of 11 months.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Du kan maksimalt f&#229; st&#248;tte i 11 m&#229;nader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.02581</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>If your stay abroad lasts longer than planned, you must also notify NAV of this.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Dersom opphaldet varer lenger enn planlagt, m&#229; du ogs&#229; gi beskjed om det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">2.87046</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <seg>If for example your income is 30 000 kroner more than the free allowance, the child supplement will be reduced with 15 000 kroner per year.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <seg>Dersom inntekta er til d&#248;mes 30 000 kroner h&#248;gare enn fribel&#248;pet, blir barnetillegget redusert med 15 000 kroner i &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.86165</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>You can receive cash-for-care benefits for children between 1 and 2 years, i.e. starting the month the child turns 13 months, up until and including the month the child turns 23 months.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Du kan f&#229; kontantst&#248;tte for barn mellom 1 og 2 &#229;r, det vil seie fr&#229; og med den m&#229;naden barnet fyller 13 m&#229;nader til og med den m&#229;naden barnet fyller 23 m&#229;nader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">3.285</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Dialogue meeting 1 is basically a meeting between the employee and the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>Dialogm&#248;te 1 er i utgangspunktet eit m&#248;te mellom den tilsette og arbeids-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.04189</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>This applies regardless of whether Ida is actually in kindergarten at the allotted time.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Dette gjeld uavhengig av om Ida faktisk er i barnehagen i den tildelte tida eller ikkje.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.28125</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <seg>is ready, NAV will do a post settlement.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <seg>er klart, gjer NAV eit etteroppgjer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.19455</prop>
+    <prop type="score-bicleaner">0.567</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/employers/income-report</prop>
+     <seg>NAV takes partial absence into account when paying the benefit.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/lokalt/hjelpemiddelsentraler/nav-hjelpemiddelsentral-vestland/lokal-informasjon/lokal-informasjon-bergen/ofte-stilte-sporsmal-om-hjelpemiddel/distribusjon-og-innlevering-av-hjelpemiddel</prop>
+     <seg>K&#248;yreplan ligg p&#229; NAV Hjelpemiddelsentral Vestland sine sider.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.1475</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/Fit-for-employment</prop>
+     <seg>If you have problems with the registration, you can use</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/no/person/arbeid/sykmeldt-arbeidsavklaringspenger-og-yrkesskade/nynorsk/friskmelding-til-arbeidsformidling-nynorsk</prop>
+     <seg>F&#229;r du problem med registreringa, kan du nytte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">2.54118</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/child-supplement-and-disability-benefit</prop>
+     <seg>The child supplement ends from and including the month after the child turns 18.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <prop type="source-document">https://www.nav.no/no/person/pensjon/nynorsk/barnetillegg-til-uforetrygd</prop>
+     <seg>Barnetillegget tek slutt seinast fr&#229; og med m&#229;naden etter at barnet har fylt 18 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">3.27761</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>If Ida is allocated a half-day place, she will be in kindergarten 25 hours per week.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Dersom Ida f&#229;r tildelt halv barnehageplass er oppholdstida 25 timar per veke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.629</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>You must notify NAV</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Du m&#229; gi NAV beskjed</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.03475</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>What qualifies as the insurance periods varies from country to country.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Kva som kvalifiserer som trygdeperioder varierer fr&#229; land til land.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">3.39123</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/cash-for-care-benefits-for-the-parents-of-toddlers</prop>
+     <seg>If the child has part-time place, you can receive 20, 40, 60 or 80 per cent cash-for-care benefit.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/no/person/familie/barnetrygd-og-kontantstotte/nynorsk/kontantstotte</prop>
+     <seg>Dersom barnet har deltidsplass, kan du f&#229; 20, 40, 60 eller 80 prosent kontantst&#248;tte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">3.97295</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Dialogue Meeting 1 need not be held if it is clearly unnecessary, for example:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>Det er ikkje n&#248;dvendig &#229; gjennomf&#248;re dialogm&#248;te 1 dersom det openbert er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">2.82785</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/19382c26-e656-408a-91e5-1584512c54f1:082799bbcf84e83a1a0338c9a83f45cf8939b245/information-on-benefit-for-an-approved-occupational-injury.pdf.converted</prop>
+     <seg>You are eligible for compensation for permanent injury if your permanent medical disability is 15 per cent or more.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/11ca2cfb-c453-4027-b96f-f49246acf489:9c1317129c8fbe5de20f5a420b61df6353d0a9e0/orientering-om-stonad-ved-godkjend-yrkesskade-august-2015-nynorsk.pdf.converted</prop>
+     <seg>Du f&#229;r meinerstatning dersom den varige medisinske invaliditeten er 15 prosent eller meir.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.11667</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>&#8226; when it is obvious that the employee will return to full-time employment within a</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/0fb8eea6-b12f-4be5-83c8-2deaa7f10de2:c551e53d521a9ecc8e8f6db47170a7bf4f6bd88f/Oppf.sykmeldte%202019%20NN%20utskrift%201.pdf.converted</prop>
+     <seg>&#8226; n&#229;r det er openbert at den tilsette innan kort tid uansett vil vende tilbake til full jobb</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

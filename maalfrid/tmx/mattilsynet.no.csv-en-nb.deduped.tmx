@@ -1,0 +1,2309 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T231553" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.18679</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Based on present day knowledge, the fallow period has been set as a minimum of five years and it will begin when the last reindeer can be assumed to have been eradicated from the area.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Ut i fra dagens kunnskap er brakkleggingsperioden satt til &#229; vare minimum fem &#229;r, og starter n&#229;r den siste villreinen er antatt ute av omr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.22642</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>NFSA do not usually grant licenses with a duration extending beyond 6 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Vi gir vanligvis ikke lisenser med varighet utover 6 m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">3.8315</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>This confirmation must not be older than 3 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Denne bekreftelsen m&#229; ikke v&#230;re eldre enn 3 m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.02414</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>If new relevant knowledge shows that the infection spreading potential in moving grazing animals to and from the area represents a risk, restrictions on this activity will be considered.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Dersom ny relevant kunnskap viser at spredningspotensialet ved flytting av beitedyr til og fra omr&#229;det utgj&#248;r en risiko for spredning, vil restriksjoner p&#229; denne aktiviteten vurderes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.29595</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Should further animals be found after it was assumed that the population had been eradicated and all of these test negative for CWD, this does not need to affect the fallow period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Skulle det dukke opp f&#229; dyr i etterkant av at bestanden er antatt fjernet, og alle disse tester negativt for skrantesjuke, trenger ikke dette p&#229;virke brakkleggingsperioden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.0425</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>The practice must be as continuous as possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Praksisen m&#229; v&#230;re mest mulig sammenhengende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.1255</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The hunting strategy for zone 2 must allow for population growth so that more wild reindeer can be tested in connection with hunting without this having a negative effect on calf growth and density.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Avskytingsstrategien i sone 2 m&#229; tilrettelegges for bestandsvekst slik at det kan testes flere villrein i forbindelse med jakt, uten at det g&#229;r negativt utover kalvetilvekst og tetthet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.07354</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>In exceptional cases, if many work teams have to share kitchens/bathrooms at the same time:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Unntaksvis hvis mange arbeidslag m&#229; dele kj&#248;kken/bad samtidig, skal:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.20272</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>Markings on floors can contribute to safe distancing in areas where congestion may occur.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Merking p&#229; gulv kan bidra til sikre avstand i omr&#229;der der det kan oppst&#229; trengsel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.19739</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>If the division into smaller groups is to act as a preventative measure, it is important that similar divisions are made regarding the use of dining rooms, which toilets/showers can be used by which work teams and equivalent measures for other common areas (see</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Dersom inndelingen i mindre grupper skal fungere som smittehindrende tiltak er det viktig at det gj&#248;res tilsvarende inndeling n&#229;r det gjelder bruk av spiserom, hvilke toaletter/dusjer som kan brukes av hvilke arbeidslag og tilsvarende for &#248;vrige fellesarealer (s</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.706</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/multiannual_national_control_plan.23956/binary/Multi-annual%20national%20control%20plan</prop>
+     <seg>Auditing of Debio</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/fleraarig_nasjonal_kontrollplan.23951-4/binary/Fler%C3%A5rig%20nasjonal%20kontrollplan</prop>
+     <seg>Revisjon av Debio</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.78487</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/plant_protection_products/Authorisation_plant_protection_products/renewal_of_approval_of_a_plant_protection_product.36883</prop>
+     <seg>The latest edition of Northern Zone guidance paper efficacy version (</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/planter_og_dyrking/plantevernmidler/godkjenning_av_plantevernmidler/fornyelse_av_godkjenning.36803</prop>
+     <seg>Siste utgave av Northern Zone guidance</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.00966</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Diagnostics, method development and analyses based on material received will create the basis for the knowledge we acquire about CWD and the further management of the disease.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Diagnostikk, metodeutvikling og analyser basert p&#229; innkommet materiale vil danne grunnlaget for kunnskapen vi f&#229;r om skrantesjuke og videre forvaltning av sykdommen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">3.47174</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Work on securing the salt lick areas began in May 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Arbeidet med sikring av saltsteinplasser ble igangsatt i mai 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.02793</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>As well as reindeer that are introduced into Nordfjella zone 1 having to be free of CWD, it would be desirable for the area to be re-established with wild reindeer with the same origin as the present animals.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>I tillegg til at rein som introduseres til Nordfjella sone 1 m&#229; v&#230;re fri for skrantesjuke, er det &#248;nskelig at omr&#229;det skal reetableres med villrein av samme opprinnelse som dagens dyr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.01923</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Fences will be erected as quickly as possible and the period for their erection is somewhat dependent on obtaining the necessary permits.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Gjerder vil bli satt opp s&#229; raskt det lar seg gj&#248;re, og perioden for oppsetting er noe avhengig hvordan det g&#229;r med innhenting av n&#248;dvendige tillatelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.0866</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>We do not precisely know the extent of infectious material in Nordfjella.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Vi kjenner ikke n&#248;yaktig omfanget av smittestoffet i Nordfjella.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.96211</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/</prop>
+     <prop type="source-document">https://www.mattilsynet.no/language/english/sok/?search=&amp;start=0&amp;show=20&amp;includeOldNews=false&amp;includePostJournal=false&amp;contenttype=</prop>
+     <seg>Press and hold the Ctrl-key.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no//?show=newsletterInput</prop>
+     <prop type="source-document">https://www.mattilsynet.no/fisk_og_akvakultur/</prop>
+     <seg>Hold Ctrl-tasten nede.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.14048</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/reise_med_kjaledyr/vaernes_airport__animals_travelling_from_customs_to_quarantine.36835/binary/Vaernes%20airport%20-%20Animals%20travelling%20from%20Customs%20to%20quarantine</prop>
+     <seg>Payment for the assistance/service is done directly at the station (card/cash) when you pick up your pet.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/reise_med_kjaledyr/informasjon_til_dyreeier_ved_ankomst_vaernes_lufthavn.7478/binary/Informasjon%20til%20dyreeier%20ved%20ankomst%20V%C3%A6rnes%20lufthavn</prop>
+     <seg>Betaling for assistansen/tjenesten gj&#248;res direkte p&#229; stasjonen (kort/kontant) n&#229;r du henter ditt kj&#230;ledyr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.03176</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>It is important for population reduction to occur rapidly and that a low density is maintained right through the fallow period so as to increase the chances of success in eradicating CWD.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det er viktig at bestandsreduksjonen skjer raskt og at lav tetthet opprettholdes gjennom hele brakkleggingsperioden for &#229; &#248;ke sjansene med &#229; lykkes i &#229; fjerne skrantesjuke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">3.94149</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>All wild reindeer that are eradicated from zone 1 shall be assessed for age.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Alle villrein som tas ut i sone 1 skal aldersbestemmes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">4.60884</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Setting up the rounding up compound will start in summer 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Oppsett av inndrivingsgjerde vil starte sommeren 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.09491</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/the_link_between_obesity_and_cancer.40211</prop>
+     <seg>1 Form&#229;lTo determine the molecular mechanism of obesity-induced breast and pancreatic cancers. Based on previous work we know that tumors that grow in obese mice activate a transcriptional program.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/mikromiljoet_ved_myelomatose.40534</prop>
+     <seg>1 Form&#229;lMyelomatose er for&#229;rsaket av at maligne plasmaceller (myelomceller) opphopes i beinmargen, og gir symptomer som beindestruksjon, anemi, nyresvikt og hyppige infeksjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.00588</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/sexing_and_tagging_of_mature_polar_cod_boreogadus_saida.41633</prop>
+     <seg>Sex can only be assessed, when the fish are in the late gonadal developmental stage (December-February).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/kurs_i_hemostatisk_nodkirurgi.39518</prop>
+     <seg>Det er i dette kurset lagt vekt p&#229; teamarbeid mellom kirurger, anestesipersonell og operasjonspersonell.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.97375</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The fallow period must be so long that the methods can no longer detect prions in the environment in zone 1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Brakkleggingsperioden m&#229; vare s&#229; lenge at metodene ikke lenger kan p&#229;vise prioner i milj&#248;et i sone 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.79231</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The plan is therefore that zone 1 shall be re-established with wild reindeer from Nordfjella zone 2, assuming that the wild reindeer population there is found to be free of CWD.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Planen legger derfor opp til at sone 1 skal reetableres med villrein fra Nordfjella sone 2, gitt at villreinbestanden der friskmeldes for skrantesjuke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.19787</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/import_og_eksport_av_dyr/import_av_kjaledyr_og_konkurransedyr/kommersiell_import_av_hund_katt_og_ilder/information_to_the_pet_owner__magnor_border.7484/binary/Information%20to%20the%20pet%20owner%20%E2%80%93%20Magnor%20border</prop>
+     <seg>For other requirements not fulfilled (ID, passport, rabies vaccine) there will be other quarantine demands.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/import_og_eksport_av_dyr/import_av_kjaledyr_og_konkurransedyr/kommersiell_import_av_hund_katt_og_ilder/informasjon_til_dyreeier_ved_grensepassering_magnor.7361/binary/Informasjon%20til%20dyreeier%20ved%20grensepassering%20Magnor</prop>
+     <seg>For manglende oppfyllelse av andre innf&#248;rselskrav (ID-merking, pass/helsesertifikat, rabiesvaksinering) gjelder andre isolasjonstider.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.25633</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>If CWD is found in zone 2, the area shall be re-established with wild reindeer from Hardangervidda, provided that populations or individuals that are transferred are established with certainty to be free of CWD.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Dersom skrantesjuke p&#229;vises i sone 2, skal omr&#229;det reetableres med villrein fra Hardangervidda gitt at bestanden eller individene som f&#248;res over med sikkerhet er fri for skrantesjuke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">6.28571</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>Wash at a minimum of 60&#176;C.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Vaskes p&#229; minimum 60 &#176;C.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.53707</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>The work team should be accommodated together (se</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Arbeidslaget b&#248;r innkvarteres sammen (se</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.91007</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The fence will be a physical divide between zone 1 and zone 2 of the Nordfjella wild reindeer area.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Gjerdet vil v&#230;re et fysisk skille mellom sone 1 og sone 2 i Nordfjella villreinomr&#229;de.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.00966</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>NFSA requires that you have clinical experience from your study, which corresponds to the requirements described in the study plan for NMBU.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Mattilsynet krever at du har en faglig bredde og dybde i aktiv klinikk, som tilsvarer de kravene som er beskrevet i studieplanen for NMBU.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.05702</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Method development, validation and implementation of tests on live animals and environmental infection (such as faeces), together with knowledge about genetic sensitivity for CWD, can be important success factors for the possibility of a successful re-establishment with healthy animals.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Metodeutvikling, validering og implementering av tester p&#229; levende dyr og milj&#248;smitte (for eksempel m&#248;kk), sammen med kunnskap om genetisk sensitivitet for skrantesjuke, kan bli viktige suksessfaktorer for mulighetene til en vellykket reetablering med friske dyr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.175</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/import_og_eksport_av_dyr/import_av_kjaledyr_og_konkurransedyr/kommersiell_import_av_hund_katt_og_ilder/information_to_the_pet_owner__oslo_port.7480/binary/Information%20to%20the%20pet%20owner%20-%20Oslo%20port</prop>
+     <seg>Transport from OSL Gardermoen to Airpet:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/import_og_eksport_av_dyr/import_av_kjaledyr_og_konkurransedyr/kommersiell_import_av_hund_katt_og_ilder/informasjon_til_dyreeier__oslo_havn.7353/binary/Informasjon%20til%20dyreeier%20-%20Oslo%20havn</prop>
+     <seg>Transport fra OSL Gardermoen til Airpet:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.01512</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>It is the extent and duration of infection in the environment that will determine the length of the fallow period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det er omfanget og varighet av smitte i milj&#248;et som bestemmer varigheten av brakkleggingsperioden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.04143</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>Employees who are not accommodated by the employer should form their own work teams.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Arbeidstakere som ikke innkvarteres av arbeidsgiver b&#248;r danne egne arbeidslag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">5.64286</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>Continued licence after the age of 75</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Lisens etter fylte 75 &#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.8228</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The Norwegian Food Safety Authority can take decisions after the 2017 hunting season to ensure that the population reduction will be achieved.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Mattilsynet kan etter jaktsesongen 2017 fatte vedtak for &#229; sikre at bestandsreduksjon blir gjennomf&#248;rt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/reise_med_kjaledyr/vaernes_airport__animals_travelling_from_customs_to_quarantine.36835/binary/Vaernes%20airport%20-%20Animals%20travelling%20from%20Customs%20to%20quarantine</prop>
+     <seg>- For those who book the appointment themselves they have the opportunity to arrange</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/reise_med_kjaledyr/informasjon_til_dyreeier_ved_ankomst_vaernes_lufthavn.7478/binary/Informasjon%20til%20dyreeier%20ved%20ankomst%20V%C3%A6rnes%20lufthavn</prop>
+     <seg>- For de som bestiller time selv har de mulighet til &#229; ordne med oppgj&#248;r for behandlingen direkte til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.20435</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>If you intend to work within the field of aqua medicine, you need to have passed a test in this subject as well.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Dersom du skal jobbe med akvamedisin, m&#229; du ha best&#229;tt eksamen i dette faget ogs&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.6625</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>A fence must be erected as soon as possible near county road 50 across Geiteryggen between Nordfjella zone 1 and zone 2.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det m&#229; s&#229; raskt som mulig settes opp et gjerde over Geiteryggen ved fylkesveg 50 mellom Nordfjella sone 1 og sone 2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.19531</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>The division into work teams is recommended throughout the working season.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Inndelingen i arbeidslag anbefales gjennomf&#248;rt i hele arbeidssesongen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.12924</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/plant_protection_products/Authorisation_plant_protection_products/the_approval_procedure_for_adjuvants_pdf.22426/binary/The%20approval%20procedure%20for%20adjuvants%20(PDF)</prop>
+     <seg>Applicants must provide the following documents</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/plantevernmidler/etiketter/2017_40.pdf.converted</prop>
+     <seg>ugressets art, h&#248;yde, tetthet og behandlingsmetode.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.20778</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Representatives from the industry have informed us that it is not necessary to use vehicles to transport in personnel to set up fences.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Representanter fra n&#230;ringen har opplyst at det ikke er n&#248;dvendig &#229; bruke kj&#248;ret&#248;y for inntransport av personell for &#229; montere grindene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.21834</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>If it becomes feasible to use wild reindeer from Hardangervidda to re-establish zone 1, testing must continue until animals from here are transferred to Nordfjella.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Blir det aktuelt &#229; benytte villrein fra Hardangervidda til reetablering av sone 1, m&#229; testingen p&#229;g&#229; inntil dyr herfra er overf&#248;rt til Nordfjella.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.27647</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/produksjon_av_mat/matkontaktmaterialer/rapport_melamine_and_formaldehyde_in_melamine_plastic_products_2019.43369/binary/Rapport:%20Melamine%20and%20formaldehyde%20in%20melamine%20plastic%20products%202019</prop>
+     <seg>specific migration limits for melamine and formaldehyde.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/planter_og_dyrking/plantevernmidler/funksjonstesting_av_spredeutstyr/instruks_for_funksjonstesting_av_spesialutstyr_i_jordbaer.4977/binary/Instruks%20for%20funksjonstesting%20av%20spesialutstyr%20i%20jordb%C3%A6r</prop>
+     <seg>Det er ogs&#229; utarbeidet en veiledning for testere av jordb&#230;rbom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.52571</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/eksport_utenfor_EU_EOS/eksport_av_fisk_av_sjomat/tolkning_av_dekret_248__kortversjon_som_oppsummerer_endringer.44152/binary/Tolkning%20av%20dekret%20248%20-%20kortversjon%20som%20oppsummerer%20endringer</prop>
+     <seg>&#8226; Declaration of the registration number</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/matservering/trygg_mat__grunnleggende_hygiene_for_serveringssteder.10984/binary/Trygg%20mat%20-%20Grunnleggende%20hygiene%20for%20serveringssteder</prop>
+     <seg>&#8226; Lokaler, benker og utstyr m&#229; v&#230;re</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.08714</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/skjema/41116_usa__helsesertifikat_kosttilskudd_engelsk.15325/binary/4.1.116%20USA%20-%20Helsesertifikat,%20kosttilskudd,%20engelsk</prop>
+     <seg>Contains bovine gelatin which is:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/eksport_utenfor_EU_EOS/eksport_av_fisk_av_sjomat/43274_usa_egenerklaering_fiskeolje.29108/binary/4.3.274%20USA,%20egenerkl%C3%A6ring%20fiskeolje</prop>
+     <seg>Varen inneholder gelatin av storfe som er:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.39412</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>This is regulated through</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Dette er regulert i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.29375</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>&#8226; Cleaning shall be increased.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>&#8226; Renholdet &#248;kes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">3.88909</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>Animal health personnel lose their authorization at the age of 75.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Dyrehelsepersonell mister autorisasjonen n&#229;r de fyller 75 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">3.78767</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/multiannual_national_control_plan.23956/binary/Multi-annual%20national%20control%20plan</prop>
+     <seg>8 Audits by competent authorities and internal control 8.1 Internal control activities</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/fleraarig_nasjonal_kontrollplan.23951-4/binary/Fler%C3%A5rig%20nasjonal%20kontrollplan</prop>
+     <seg>8 Revisjon av kompetent myndighet og internkontrol 8.1 Interne kontrol aktiviteter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.31953</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The fence should remain in place until we are certain that the newly established wild reindeer in zone 1 are not reinfected with CWD, which probably means 20 years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Gjerdet b&#248;r bli st&#229;ende inntil man er sikker p&#229; at nyetablert villrein i sone 1 ikke blir reinfisert med skrantesjuke, anslagsvis 20 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.05152</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/produksjon_av_mat/fisk_og_sjomat/oppdrettsfisk/aarsrapport_2008_medisinrester_oppdrettsfisk.9367/binary/%C3%85rsrapport%202008%20Medisinrester%20oppdrettsfisk</prop>
+     <seg>The solvent is evaporated in a TurboVap&#174; Concentration workstation (Zymark, USA) and replaced with a small volume of isooctane.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/uonskede_stofferimaten/miljogifter/miljogifter_i_fisk_2007.6029/binary/Milj%C3%B8gifter%20i%20fisk%202007</prop>
+     <seg>I opprensingen p&#229; en Power-Prep (FMS-USA) fjernes f&#248;rst fettet ved nedbryting p&#229; svovelsur silica.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.03966</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/plant_protection_products/Authorisation_plant_protection_products/additional_trade_name.36915</prop>
+     <seg>Name and registration number for the already approved plant protection product (the reference product)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/planter_og_dyrking/plantevernmidler/godkjenning_av_plantevernmidler/ekstra_handelsnavn_klone.36934</prop>
+     <seg>navn og registreringsnummer til det allerede godkjente plantevernmiddelet (referanseproduktet)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Erecting a fence over Geitryggen and onward beside part of county road 50 will commence as soon as possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Oppsett av gjerde over Geitryggen og videre langs deler av fylkesveg 50 vil igangsettes s&#229; raskt som mulig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.03571</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Samples will be taken if the material is available.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Pr&#248;vene tas dersom materialet er tilgjengelig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.17368</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/potentiation_of_immune_therapy_by_inhibiting_axl_signalling.41637</prop>
+     <seg>/ Potentiation of immune therapy by inhibiting AXL signalling</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/maalrettet_kombinasjonsbehandling_av_aml.40533</prop>
+     <seg>/ M&#229;lrettet kombinasjonsbehandling av AML</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.37121</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The fallow period starts when it is assumed that the last reindeer have been eradicated from the area and will last for at least five years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Brakkleggingsperioden starter etter antatt siste villrein er ute av omr&#229;det og varer i minimum fem &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.81407</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>It is therefore important that relevant source populations are found to be clear of CWD before transfer to zone 1 starts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det er derfor viktig at aktuelle kildebestander er friskmeldt for skrantesjuke f&#248;r overf&#248;ring til sone 1 starter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.23514</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/monitoring_of_the_wild_european_eel_stock.38658</prop>
+     <seg>/ Monitoring of the wild European eel stock</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/adferd_og_reproduksjon_hos_meiser_og_fluesnappere.38824</prop>
+     <seg>/ Adferd og reproduksjon hos meiser og fluesnappere</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.38036</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>There is a risk that animals that are brought from zone 1 or Hardangervidda will return to where they came from.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det er en fare for at dyrene som hentes fra sone 1, alternativt Hardangervidda, vil returnere dit de kom fra.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.1504</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>When methods for revealing prions in soil and faeces are ready for use, this may affect the fallow period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>N&#229;r metoder for &#229; p&#229;vise prioner i jord og m&#248;kk er klare til bruk, kan dette p&#229;virke brakkleggingsperioden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">4.03</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Hardangervidda wild reindeer area is being tested for CWD in connection with hunting in 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Hardangervidda villreinomr&#229;de testes for skrantesjuke i forbindelse med jakta 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">2.176</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Establishing good methods for testing soil and faeces for prions will be important for testing whether zone 1 is free of CWD during a re-establishment phase.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Etablering av en god metodikk for &#229; teste jord og m&#248;kk for prioner vil v&#230;re viktig for &#229; teste om sone 1 er fri for skrantesjuke i en reetableringsfase.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.2597</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>An application for approval of the rounding up compound is being sent as soon as possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>S&#248;knad om godkjenning av inndrivingsgjerdet igangsettes s&#229; raskt som mulig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.04605</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The period for government culling and rounding up may vary depending on various factors.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Perioden for statlig felling og inndriving vil kunne variere i tid grunnet ulike forhold.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.18387</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/multiannual_national_control_plan.23956/binary/Multi-annual%20national%20control%20plan</prop>
+     <seg>Auditing of municipalities and county governors</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/fleraarig_nasjonal_kontrollplan.23951-4/binary/Fler%C3%A5rig%20nasjonal%20kontrollplan</prop>
+     <seg>Revisjon av kommuner og fylkesmenn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">2.58623</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>It may be difficult to determine this with certainty after the last reindeer have been eradicated from zone 1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det kan bli en vanskelig &#229; fastsl&#229; med sikkerhet n&#229;r siste villrein er borte fra sone 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.55345</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Hunting in zone 1 will restart some years after re-establishment at a time to be determined later.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Jakt i sone 1 starter opp noen &#229;r etter reetablering, da etter n&#230;rmere vurdering. Saneringsplan villrein</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">2.41111</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>If the contact is closer than 1 metre, this may still result in the employee being defined as a close contact to the person with confirmed Covid-19.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Hvis kontakten er n&#230;rmere enn 1 meter, kan dette likevel medf&#248;re at arbeidstaker defineres som en n&#230;rkontakt til person med bekreftet covid-19.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">3.0084</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>20 to 30 roe deer in the border zone shall also be marked to monitor roe deer movements in the area during the fallow period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>I tillegg skal det merkes 20-30 hjort i randsonen for &#229; overv&#229;ke hjortevandringene i omr&#229;det i brakkleggingsperioden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">2.73415</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>It is important to give other possible source populations a clean bill of health, as well as zone 2 and Hardangervidda.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det er viktig &#229; friskmelde andre mulige kildebestander, i tillegg til sone 2 og Hardangervidda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.73323</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The fence is to separate semi-domesticated reindeer from wild reindeer and it must therefore remain in place after re-establishment of zone 1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Gjerdet skal skille tamrein og villrein og m&#229; derfor bli Saneringsplan villrein st&#229;ende ogs&#229; etter reetablering av sone 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.66875</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>This is regulated through</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Dette reguleres i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.21816</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/fish_and_aquaculture/fish_health/application_for_approval_of_eradication_program__10183_barstadvik.43748/binary/Application%20for%20approval%20of%20eradication%20program%20-%2010183%20Barstadvik</prop>
+     <seg>Sampling will be performed by the NFSA in connection with inspections.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/planter_og_dyrking/planteskadegjorere/bakterier_og_fytoplasma_i_planter/parebrann/paerebrann_paavist_i_sula_kommune.44479</prop>
+     <seg>M&#248;re og Romsdal er det nordlegaste omr&#229;det for p&#230;rebrannsmitte i Noreg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.38433</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>If the desired reduction is not achieved through hunting, other culling measures would then need to be used.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Dersom &#248;nsket uttak ikke oppn&#229;s gjennom jakt er det derfor aktuelt &#229; benytte andre metoder for uttak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.05218</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>Students at Norwegian University of Life Sciences (NMBU)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Studenter ved Norges milj&#248;- og biovitenskapelige universitet (NMBU)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">2.36442</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/plant_protection_products/Authorisation_plant_protection_products/renewal_of_approval_of_a_plant_protection_product.36883</prop>
+     <seg>You will find more information on pre-notifications in the latest edition of the EU-guidance SANCO/2010/13170 (Guidance Document on the Renewal of Authorisations according to Article 43 of Regulation (EC) No 1107/2009) (A6) and the Guidance document on work-sharing in the Northern Zone (A1) from</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/planter_og_dyrking/plantevernmidler/godkjenning_av_plantevernmidler/fornyelse_av_godkjenning.36803</prop>
+     <seg>Se mer informasjon om forh&#229;ndsvarsling og hva den skal inneholde i siste utgave av EU-veilederen SANCO/2010/13170 (Guidance Document on the Renewal of Authorisations according to Article 43 of Regulation (EC) No 1107/2009) (veileder A6) og Nordre sone veiledningsdokument (veileder A1) som du finner i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.09925</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>If they see wild cervids inside the enclosures or that other animals are trapped or stuck or that the fence is not standing properly, they shall release the animal if possible and always telephone the Norwegian Food Safety Authority to notify.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Dersom de ser ville hjortedyr i grindene, eller at andre dyr er fanget eller sitter fast, eller at grindene ikke st&#229;r skikkelig, skal de slippe dyret fri om mulig, og alltid ringe Mattilsynet for &#229; varsle.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">2.34192</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>A reduction in population size of around 20-30% is desirable, but how large the population is to begin with must be included in the basis for decision making.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>En reduksjon i st&#248;rrelsesorden 20-30 % vil v&#230;re &#248;nskelig, men hvor stor bestanden er i utgangspunktet m&#229; tas med i beslutningsgrunnlaget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.30426</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/planter_og_dyrking/plantevernmidler/godkjenning_av_plantevernmidler/applicants_guide_to_reduction_of_nonspray_buffer_zones_v12.39224/binary/Applicant's%20guide%20to%20reduction%20of%20non-spray%20buffer%20zones%20v1.2</prop>
+     <seg>All reductions of non-spray buffer zones must be carried out in accordance with this booklet.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/fisk_og_akvakultur/akvakultur/klagevedtak_om_akvakultur/2017252309.38812/binary/2017-252309</prop>
+     <seg>Kjuklingen i realiteten ikke vil inneb&#230;re en &#248;kning i biomassen i Velfjorden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">2.34698</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>In the first years of the build-up phase the animals must have peace to establish themselves in zone 1 and there should be no hunting during this phase.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>De f&#248;rste &#229;rene i en oppbyggingsfase m&#229; dyrene f&#229; ro til &#229; etablere seg i sone 1, og jakt b&#248;r ikke foreg&#229; i denne fasen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">2.27624</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>Course certificate will be available in &#171;Vitnem&#229;lsportalen&#187;, usually within 14 days of the course being completed and passed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Kursbevis vil bli gjort tilgjengelig i Vitnem&#229;lsportalen, normalt i l&#248;pet av 14 dager etter fullf&#248;rt og best&#229;tt kurs.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">4.27773</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/reise_med_kjaledyr/information_to_the_animal_owner__kristiansand_port_and_kjevik_airport.7486/binary/Information%20to%20the%20animal%20owner%20%E2%80%93%20Kristiansand%20port%20and%20Kjevik%20airport</prop>
+     <seg>Tlf:(+47) 63 99 99 75 www.airpethotel.no for more information:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/reise_med_kjaledyr/informasjon_til_dyreeier_ved_ankomst_kristiansand_havn_og_kjevik_lufthavn.7366/binary/Informasjon%20til%20dyreeier%20ved%20ankomst%20Kristiansand%20havn%20og%20Kjevik%20lufthavn</prop>
+     <seg>Tlf:(+47) 63 99 99 75 Vi henviser til deres hjemmeside www.airpethotel.no for mer informasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.02966</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>Labelling on floors can contribute to safe distancing in areas where congestion may occur in a changing room or on the way in or out of the premises.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Merking p&#229; gulv kan bidra til sikre avstand i omr&#229;der der det kan oppst&#229; trengsel i garderobe eller p&#229; vei inn og ut av lokalene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">2.10126</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>We wish to have at least 95% certainty of revealing CWD if the prevalence of the disease is 0.5% or more before we give a population a clean bill of health.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Vi &#248;nsker &#229; ha minst 95 % sikkerhet for &#229; p&#229;vise skrantesjuke dersom prevalensen av sykdommen er 0,5 % eller mer f&#248;r vi friskmelder en bestand.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.14923</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/import_og_eksport_av_dyr/import_av_kjaledyr_og_konkurransedyr/kommersiell_import_av_hund_katt_og_ilder/information_to_the_pet_owner__larvik_port_sandefjord_port_and_torp_airport.7485/binary/Information%20to%20the%20pet%20owner%20%E2%80%93%20Larvik%20port,%20Sandefjord%20port%20and%20Torp%20airport</prop>
+     <seg>If the return trip cannot be arranged immediately, then Bilberging Vestfold must be informed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/import_og_eksport_av_dyr/import_av_kjaledyr_og_konkurransedyr/kommersiell_import_av_hund_katt_og_ilder/informasjon_til_dyreeier_ved_grensepassering_i_vestfold__larvik_havn_sandefjord_havn_og_torp_lufthavn.7364/binary/Informasjon%20til%20dyreeier%20ved%20grensepassering%20i%20Vestfold%20%E2%80%93%20Larvik%20havn,%20Sandefjord%20havn%20og%20Torp%20lufthavn</prop>
+     <seg>Hvis retur ikke kan skje umiddelbart, skal Bilberging Vestfold kontaktes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.40639</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>This measure may be relevant where fences cannot be erected for some reason or as an additional measure where the infection pressure is abnormally high.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Tiltaket kan v&#230;re aktuelt der det, av en eller annen grunn, ikke kan settes opp grinder, eller som tilleggstiltak der det er ekstra stort smittepress.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">2.52343</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Transferring approximately 100 females to zone 1 every year for three consecutive years would mean no, or extremely limited, hunting in zone 2 during this period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>100 simler til sone 1 hvert &#229;r i tre p&#229;f&#248;lgende &#229;r, inneb&#230;rer ingen, eller sv&#230;rt begrenset jakt i sone 2 i denne perioden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.14655</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/plant_protection_products/Authorisation_plant_protection_products/additional_trade_name.36915</prop>
+     <seg>If the authorisation of the reference product is amended, the same will apply for the clone product.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/planter_og_dyrking/plantevernmidler/godkjenning_av_plantevernmidler/ekstra_handelsnavn_klone.36934</prop>
+     <seg>Hvis tillatelsen til referanseproduktet trekkes, vil tillatelsen til kloneproduktet ogs&#229; trekkes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">1.05611</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>The basic requirements for accommodation for workers still apply.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>De grunnleggende kravene til innkvartering av arbeidstakere gjelder fortsatt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.07972</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>This means that you must have passed all clinical practice, internal and external, which is compulsory during your study.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Det betyr at du m&#229; ha best&#229;tt all klinisk praksis, intern og ekstern, som er obligatorisk der du studerer veterin&#230;rmedisin.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.37634</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The use of grazing shall not be increased until the fallow period is over and the Norwegian Food Safety Authority will not give further dispensations for grazing in Nordfjella for sheep that come from other counties.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Beitebruken skal ikke &#248;kes f&#248;r brakkleggingsperioden er over, og Mattilsynet vil ikke gi ytterligere dispensasjoner for beite i Nordfjella for sau som kommer fra andre fylker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">2.14077</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>When the fallow period is over and wild reindeer are reintroduced to Nordfjella zone 1, the municipalities can increase the populations of moose, roe deer and red deer to the desired level.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>N&#229;r brakkleggingstida er over, og villrein reetableres i Nordfjella sone 1, kan kommunene &#248;ke bestandene av elg, hjort og r&#229;dyr til &#248;nsket niv&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">3.06686</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Hunting in zone 1 can start after evaluation by the local wild reindeer administration and the Norwegian Environment Agency.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Jakt i sone 1 kan starte opp etter n&#230;rmere vurdering av lokal villreinforvaltning og Milj&#248;direktoratet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.04147</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Good methods for mapping out environmental infection could also streamline the monitoring of the disease in other parts of the country.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Gode metoder for kartlegging av milj&#248;smitte kan ogs&#229; effektivisere overv&#229;king av sykdommen i andre deler av landet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">2.96087</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>New methods are under development and it is expected that they can be used within 2 to 5 years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Nye metoder er under utvikling, og forventes &#229; kunne benyttes i l&#248;pet av 2-5 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.145</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>The health authorities' guides for distancing also apply to changing rooms.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Helsemyndighetenes f&#248;ringer for avstand gjelder ogs&#229; i garderober.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.0833</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>If it is found that fences with openings do not exclude cervids sufficiently well or they prove to be unacceptable from an animal welfare point of view, the openings must be closed and other alternatives must be considered, such as offers of grants for more intensive inspection and GPS trackers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Dersom det viser seg at grinder med &#229;pning ikke skjermer godt nok mot hjortedyr, eller de viser seg &#229; v&#230;re velferdsmessig uakseptable, m&#229; &#229;pningene stenges, og andre alternativer m&#229; vurderes, for eksempel tilbud om tilskudd til intensivert tilsyn og GPS-bjeller.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">1.20077</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The lower jaws or front teeth shall therefore be sent to NINA in Trondheim, which will determine the age of the animals by tooth cross section.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Underkjeve eller framtenner skal derfor sendes til NINA i Trondheim som vil aldersbestemme dyrene basert p&#229; tannsnitt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">1.58021</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>If CWD is found in Langfjella, testing wild reindeer in the Sn&#248;hetta, Rondane and Knutsh&#248; wild reindeer areas must be prioritised.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Hvis skrantesjuke oppdages i Langfjella, m&#229; det prioriteres &#229; teste villrein i Sn&#248;hetta, Rondane og Knutsh&#248; villreinomr&#229;der.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.00263</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/fish_and_aquaculture/seafood/the_coronavirus_does_not_affect_seafood_safety.38145-19</prop>
+     <seg>Fish and aquaculture</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/uonskede_stofferimaten/radioaktivitet/radioaktivitetsmaalinger_paa_sau_og_rein_sesongen_2021__spesielle_forhold_knyttet_til_covid19.39720</prop>
+     <seg>U&#248;nskede stoffer i maten</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">2.23306</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The fence must also remain standing after re-establishment of zone 1 but it will be taken down after further assessment when the population is well established and healthy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Gjerdet m&#229; bli st&#229;ende ogs&#229; etter reetablering av sone 1, men vil tas ned etter n&#230;rmere vurdering n&#229;r bestanden er godt etablert og friskmeldt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.2</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/travelling_with_pets/application_form_for_dogs_to_svalbard.15546/binary/Application%20form%20for%20dogs%20to%20Svalbard</prop>
+     <seg>(is regulated by</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/smitte_mellom_dyr_og_mennesker/MRSA/mink_mrsa_i_pelsdyrgaarder__raad_om_smittebeskyttelse.23627/binary/Mink:%20MRSA%20i%20pelsdyrg%C3%A5rder%20%E2%80%93%20r%C3%A5d%20om%20smittebeskyttelse</prop>
+     <seg>Pelsdyroppdrettere og r&#248;ktere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">1.01327</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/development_of_new_regimens_in_treatment_of_pancreatic_cancer.40398</prop>
+     <seg>/ Development of new regimens in treatment of pancreatic cancer</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/fotokjemisk_modulering_av_kreftceller_og_immunceller.38018</prop>
+     <seg>/ Fotokjemisk modulering av kreftceller og immunceller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.07529</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/procca_late_effects_of_oral_xray_irradiation_pilot.38531</prop>
+     <seg>Refinement: Animal welfare will be ensured through close monitoring during and post radiotherapy, with strict compliance with humane endpoints.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/tgf9463_as_a_mitigating_factor_after_large_acute_doses_of_ionizing_radiation.41351</prop>
+     <seg>For &#229; unng&#229; at musene i fors&#248;ket opplever un&#248;dvendig smerte, frykt eller ubehag, kommer vi til &#229; f&#248;lge n&#248;ye med p&#229; alle dyrene etter bestr&#229;lingen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/fisk_og_akvakultur/fiskehelse/fiske_og_skjellsykdommer/vhs/rapport_overvaakingsprogram_for_vhs_og_ihn_2020.43312/binary/Rapport:%20Overv%C3%A5kingsprogram%20for%20VHS%20og%20IHN%202020</prop>
+     <seg>Outbreak of viral</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/fisk_og_akvakultur/fiskehelse/fiske_og_skjellsykdommer/ila/endringsforskrift__endring_av_kontrollomraade_for_ila_i_harstad_kommune_mfl_troms_og_finnmark.43275/binary/Endringsforskrift%20-%20Endring%20av%20kontrollomr%C3%A5de%20for%20ILA%20i%20Harstad%20kommune%20m.fl.,%20Troms%20og%20Finnmark</prop>
+     <seg>, og avgrenses:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">1.20009</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Fences and GPS marking Important migration routes must be secured in such a way that wild reindeer do not enter zone 1 during the fallow period or move out of zone 1 after re-establishment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Viktige trekkpassasjer m&#229; sikres slik at villrein ikke trekker inn i sone 1 i brakkleggings-perioden, eller ut av sone 1 etter reetablering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.9709</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>There is a need for an ongoing overview of the incidence of infectious material in the environment in Nordfjella zone 1 in order to determine how long a fallow period should be.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det er behov for &#229; ha en l&#248;pende oversikt over forekomst av smittestoff i milj&#248;et i Nordfjella sone 1 for &#229; fastsl&#229; hvor lenge en brakkleggingsperiode b&#248;r vare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.00736</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Landowners have the right to refuse motorised transport on their land, even if the Motorised Transport Act allows for driving without an application, so that the consent of landowners will be necessary when setting up fences both with and without openings for sheep.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Grunneier har rett til &#229; nekte motorferdsel p&#229; sin grunn &#8211; selv om motorferdselloven &#229;pner for kj&#248;ring uten &#229; s&#248;ke, og det er derfor n&#248;dvendig med tillatelse fra grunneier relatert til oppsett av grinder b&#229;de med og uten &#229;pning for sau.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.04091</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/eksport_utenfor_EU_EOS/Eksport_av_kj_tt_og_kj_ttprodukter/animal_health_requirements_for_beef_and_beef_offal_to_be_exported_to_japan_from_norway.21664/binary/Animal%20health%20requirements%20for%20beef%20and%20beef%20offal%20to%20be%20exported%20to%20Japan%20from%20Norway</prop>
+     <seg>The exported beef to Japan that is then en route to Japan may be prohibited from</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/fisk_og_akvakultur/akvakultur/klagevedtak_om_akvakultur/20172398612.38880/binary/2017-2398612</prop>
+     <seg>Vedtakets forholdsmessighet beror p&#229; en avveiing av fordelene vedtaket vil gi</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.76538</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/multiannual_national_control_plan.23956/binary/Multi-annual%20national%20control%20plan</prop>
+     <seg>year plan for internal auditing.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/fleraarig_nasjonal_kontrollplan.23951-4/binary/Fler%C3%A5rig%20nasjonal%20kontrollplan</prop>
+     <seg>plan for interne revisjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">3.78831</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The wild reindeer will be herded across to zone 1 in groups.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Villreinen skal drives over til sone 1 i grupper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">2.27458</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Data from wild reindeer with GPS transmitters could indicate other stretches along county road 50 or in zone 1 where physical measures may be relevant.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Data fra villrein med GPS-sendere kan peke ut andre strekninger langs fylkesveg 50 eller i sone 1 hvor fysiske tiltak kan v&#230;re relevante.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">2.46555</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>There is a need for a barrier fence alongside highway 52 to separate semi-domesticated reindeer and wild reindeer.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det er behov for et sperregjerde for &#229; skille tamrein og villrein langs riksveg 52.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1.025</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Area management during the fallow period</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Arealforvaltning i brakkleggingsperioden</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.90801</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>There should be separate isolation housing in order to avoid the spread of infection from employees with Covid-19 to employees with "common" respiratory infection or employees who have been placed in home quarantine due to close contact.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>For &#229; unng&#229; smittespredning fra ansatte med covid-19 til ansatte med &#171;vanlig&#187; luftveisinfeksjon eller ansatte som er satt i hjemmekarantene p&#229; grunn av n&#230;rkontakt, b&#248;r det v&#230;re separate isolasjonsboliger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1.55545</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>This work will be followed up by the reindeer herding department at the office of the County Governor of S&#248;r-Tr&#248;ndelag.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Arbeidet f&#248;lges opp av Fylkesmannen i S&#248;r-Tr&#248;ndelag ved Reindriftsavdelingen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.29821</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Among other things, this applies to the prohibition on the transport of live and dead cervids and of plant material that is to be used as feed for cervids out of the area and to the prohibition on putting out feed for cervids.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Dette gjelder blant annet forbud mot transport av levende og d&#248;de hjortedyr samt plantemateriale som skal benyttes som f&#244;r til hjortedyr ut av omr&#229;det, og forbud mot utlegging av f&#244;r til hjortevilt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">2.09762</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>There must be ongoing consideration of putting up more fences if this is thought necessary to prevent the exchange of wild reindeer to and from Nordfjella zone 1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det m&#229; l&#248;pende vurderes &#229; sette opp ytterligere gjerder hvis det anses som n&#248;dvendig for &#229; hindre utveksling av villrein til og fra Nordfjella sone 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">1.2962</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/eksport_utenfor_EU_EOS/Eksport_av_kj_tt_og_kj_ttprodukter/animal_health_requirements_for_beef_and_beef_offal_to_be_exported_to_japan_from_norway.21664/binary/Animal%20health%20requirements%20for%20beef%20and%20beef%20offal%20to%20be%20exported%20to%20Japan%20from%20Norway</prop>
+     <seg>cloven-hoofed animals that were born and raised only in Norway (except for cervid meat and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/fisk_og_akvakultur/akvakultur/klagevedtak_om_akvakultur/20172398612.38880/binary/2017-2398612</prop>
+     <seg>Flytting av fisk, utstyr, inntak og t&#248;mming av transportvann vil alltid inneb&#230;re noe risiko.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">1.29559</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The samples are sent to the Norwegian Veterinary Institute in Oslo for analysis.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Pr&#248;vene sendes til Veterin&#230;rinstituttet i Oslo for skrantesjuke-analyse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">1.10542</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/merking_av_mat/kvalitetsbestemmelser/delegert_kommisjonsforordning_eu_201933_paa_engelsk.40202/binary/Delegert%20kommisjonsforordning%20(EU)%202019-33%20p%C3%A5%20engelsk</prop>
+     <seg>Official Journal of the European Union</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/fisk_og_akvakultur/akvakultur/drift_av_akvakulturanlegg/2019085253.36080/binary/2019-085253</prop>
+     <seg>fra regionen i denne sammenheng.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.42385</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>All reindeer that are found dead throughout the period must be tested for CWD.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>I hele perioden m&#229; alle fallvilt av villrein testes for skrantesjuke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">1.668</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/cultivation_of_salmon_lice.41337</prop>
+     <seg>/ Cultivation of salmon lice</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/blatunge/tiltak_for_aa_redusere_smitte_av_blaatunge.198</prop>
+     <seg>/ Tiltak for &#229; redusere smitte av bl&#229;tunge</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">1.17399</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/for/rettsakter_horing_nr_6_fortilsetningsstoffer.41294/binary/Rettsakter%20h%C3%B8ring%20nr%206%20f%C3%B4rtilsetningsstoffer</prop>
+     <seg>The preparation of endo-1,4-beta-xylanase produced by</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/for/endringer_i_fortilsetningsstoffforskriften_horingsfrist_01072021.43079</prop>
+     <seg>endo-1,4-beta-xylanase produsert ved hjelp av Aspergillus niger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">1.0899</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>&#8226; Eating times shall be spread over a longer interval in order to spread the density.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>&#8226; Spisetidene spres over et st&#248;rre intervall, for &#229; spre tettheten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.02083</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/fish_and_aquaculture/seafood/farmed_salmon_is_safe_to_eat.8027</prop>
+     <seg>The reason for this is to ensure that only approved drugs are used, in the correct way.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/produksjonsdyr/pelsdyr/forholdene_i_norske_pelsdyrgaarder_i_2009.7449</prop>
+     <seg>Tilsynsbes&#248;k kan for eksempel komme i stand etter at noen har levert inn bekymringsmelding.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">2.44763</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The timeline for measures for wild reindeer in zone 1 during the period June 2017 to May 2018 is shown in Figure 10.1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Tidslinje for tiltak i forbindelse med uttak av villrein i sone 1 &#8211; perioden juni 2017 &#8211; mai 2018 er skissert i figur 10.1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">1.47887</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>There is therefore no basis for placing restrictions on the use of grazing in Nordfjella.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det er derfor ikke grunnlag for &#229; legge restriksjoner p&#229; beitebruken i Nordfjella.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">2.80769</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>By testing approximately 370 wild reindeer from zone 2, the population could be assumed to be free of CWD.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Ved &#229; teste omtrent 370 villrein fra sone 2, kan bestanden antas &#229; v&#230;re fri for skrantesjuke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.3402</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/multiannual_national_control_plan.23956/binary/Multi-annual%20national%20control%20plan</prop>
+     <seg>Auditor General of Norway, the improvement portal, user surveys and evaluations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/fleraarig_nasjonal_kontrollplan.23951-4/binary/Fler%C3%A5rig%20nasjonal%20kontrollplan</prop>
+     <seg>inspeksjoner, Riksrevisjonen, forbedringsportalen, brukerunders&#248;kelser og evalueringer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">2.61506</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>This will reduce the risk of a large number of sick workers if someone on the farm becomes infected with Covid-19.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Det vil redusere faren for et stort antall syke arbeidstakere dersom noen p&#229; g&#229;rden blir smittet med covid-19.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">1.35</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>Regular cleaning shall also be carried out (se</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Vanlig renhold utf&#248;res i tillegg (se</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">2.13783</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>This means that the wild reindeer committee for Nordfjella and Fjellheimen will continue its work of safeguarding conditions for wild reindeer in zone 1 during the period without wild reindeer.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Dette inneb&#230;rer at Villreinnemnda for Nordfjella og Fjellheimen skal opprettholde sitt arbeid for &#229; ivareta villreinhensyn i sone 1, ogs&#229; i perioden uten villrein.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.08941</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/plant_protection_products/Authorisation_plant_protection_products/additional_trade_name.36915</prop>
+     <seg>Print-ready draft label for the product with the new trade name (the clone product)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/planter_og_dyrking/plantevernmidler/godkjenning_av_plantevernmidler/ekstra_handelsnavn_klone.36934</prop>
+     <seg>trykkeklart etikettutkast til plantevernmiddelet med nytt handelsnavn (kloneproduktet)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">1.22222</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/merking_av_mat/kvalitetsbestemmelser/delegert_kommisjonsforordning_eu_201933_paa_engelsk.40202/binary/Delegert%20kommisjonsforordning%20(EU)%202019-33%20p%C3%A5%20engelsk</prop>
+     <seg>Official Journal of the European Union</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/fisk_og_akvakultur/akvakultur/drift_av_akvakulturanlegg/2019085253.36080/binary/2019-085253</prop>
+     <seg>p&#229;virke produksjonstid i sj&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">3.31</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>About 15 per cent males should also be transferred.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>I tillegg b&#248;r det overf&#248;res ca. 15 prosent bukk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.36591</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>All wild reindeer that are then killed must be tested for CWD.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Alle villrein som felles m&#229; da testes for skrantesjuke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">1.07599</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/multiannual_national_control_plan.23956/binary/Multi-annual%20national%20control%20plan</prop>
+     <seg>The NFSA also has an observer role during Norwegian Accreditation&#8217;s audits of Debio.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/fleraarig_nasjonal_kontrollplan.23951-4/binary/Fler%C3%A5rig%20nasjonal%20kontrollplan</prop>
+     <seg>Mattilsynet er ogs&#229; observat&#248;r n&#229;r Norsk akkreditering reviderer Debio.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">2.34926</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>In zone 2 therefore, all wild reindeer that are killed by hunting and all animals that are found dead must be tested for CWD, at least until the transfer of animals between zones is completed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>I sone 2 m&#229; derfor alle villrein som felles under jakt og alle fallvilt alltid testes for skrantesjuke, minimum inntil overf&#248;ring av dyr mellom sonene er ferdig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">1.09341</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Setting up fences that let sheep through but keep out cervids is new and there is therefore some uncertainty about how it will work.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>&#197; sette opp grinder som slipper inn sau, men ikke hjortedyr, er nytt, og det er derfor noe usikkert hvordan dette vil fungere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">2.4596</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>To see how well the fences work, wildlife cameras will be set up in at least 10 of these locations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>For &#229; se hvor godt grindene fungerer, skal det settes det opp viltkamera p&#229; minimum 10 av disse stedene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">2.57043</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>In such a case it would be possible to test all animals that are to be transferred to zone 1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det er i s&#229; fall mulig &#229; teste alle enkeltdyr som skal overf&#248;res til sone 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">1.09714</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/produksjon_av_mat/fisk_og_sjomat/oppdrettsfisk/aarsrapport_2008_medisinrester_oppdrettsfisk.9367/binary/%C3%85rsrapport%202008%20Medisinrester%20oppdrettsfisk</prop>
+     <seg>These are the so called dioxin-like PCBs (DLPCB).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/uonskede_stofferimaten/miljogifter/miljogifter_i_fisk_2007.6029/binary/Milj%C3%B8gifter%20i%20fisk%202007</prop>
+     <seg>Mono-orto PCB (MO-PCB) elueres i en DCM/heksan fraksjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">1.07857</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The Norwegian Environment Agency is organising such a group.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Milj&#248;direktoratet organiserer en slik gruppe.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">3.82879</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Practical measures aimed at salt licks are discussed in section 8.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Praktiske tiltak rettet mot saltplasser omtales i kapittel 8.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">2.8019</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>If you wish to continue working as animal health personnel after the age of 75, you have to apply for a licence.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Hvis du &#248;nsker &#229; fortsette din virksomhet etter 75 &#229;r kan du s&#248;ke om dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">1.09759</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Rounding up as a method will be constantly assessed on various aspects and it may be stopped if the method proves to be unsuitable.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Inndriving som metode vil kontinuerlig vurderes av ulike hensyn, og kan stoppes dersom metoden viser seg &#229; v&#230;re uegnet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">1.17973</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>If CWD is found in Hardangervidda, other introduction possibilities must be investigated.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>P&#229;vises skrantesjuke p&#229; Hardangervidda m&#229; andre introduksjonsmuligheter utredes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">1.06374</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/noninvasive_pressurevolume_method_for_improved_evaluation_of_cardiac_function.41281</prop>
+     <seg>During experiments physiological measurements will be registered at different intervals during the interventions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/universal_influenza_vaccines_that_target_dendritic_cells_for_induction_of_antibodies_with_strong_effector_functions.38452</prop>
+     <seg>Antall mus i disse fors&#248;kene vil holdes til det absolutte minimum det trengs for &#229; oppn&#229; signifikante data.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">1.12348</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>It is also important to gain more knowledge about the distribution of prions in different tissues of CWD positive animals and carcasses.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det er ogs&#229; viktig &#229; f&#229; &#248;kt kunnskap om distribusjon av prioner i ulike vev hos skrantesjuke-positive dyr og slakt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">2.57096</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>During the fallow period there must always be about 10-15 males and 6-8 females in zone 2 with GPS transmitters.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>I brakkleggingsperioden skal det til enhver tid v&#230;re omtrent 10-15 bukker og 6-8 simler fra sone 2 som g&#229;r med GPS-sendere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">1.15882</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/hibernation_timer_mechanisms_what_regulates_torpor_arousal_cycling.41258</prop>
+     <seg>ApproachTo understand T-A cycling we will use the well characterised hibernation model the golden hamster (Mesocricetus auratus).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/effect_of_new_dna_vaccines_on_infectious_salmon_anaemia_virus_isav.40755</prop>
+     <seg>Her blir fors&#248;ksdyrene (kohabitanter) eksponert for vannb&#229;ren smitte som er den mest naturlige smitteveien for laks.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">1.28222</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>How this affects the length of the fallow period may depend on whether prions are only detected within enclosed salt lick areas or in the environment generally.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Hvordan dette p&#229;virker lengden p&#229; brakkleggingsperioden, kan avhenge av om prionene kun p&#229;vises innenfor inngjerdede saltsteinsomr&#229;der, eller i milj&#248;et generelt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">1.25221</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The provisions will be maintained at least until the entire wild reindeer population in Nordfjella has been eradicated and throughout the fallow period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Bestemmelsene vil opprettholdes minst inntil hele villreinbestanden i Nordfjella er fjernet, og ut hele brakkleggingsperioden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">1.07048</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>All faeces samples are sent to the Norwegian Veterinary Institute.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Alle m&#248;kkpr&#248;ver sendes til Veterin&#230;rinstituttet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">2.32443</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>It is possible to remove soil from contaminated areas and then spray with 2% sodium hypochlorite and cover with gravel to a depth of 10 - 15 cm.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Det er mulig &#229; fjerne jord i kontaminert omr&#229;de, deretter spr&#248;yte med 2 % natriumhypokloritt og legge p&#229; med grus i en dybde p&#229; 10-15 cm.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">1.99319</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Areas where cervids have little overlap with wild reindeer from zone 1 or populations that are already reduced will be able to have a smaller reduction.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Omr&#229;der hvor hjortevilt har liten grad av overlapp med villrein fra sone 1, eller bestander som allerede er redusert, vil kunne greie seg med en lavere reduksjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">1.42281</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Brain and lymph samples will be taken from all wild reindeer in Nordfjella.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Fra alle villrein i Nordfjella skal det tas hjerne- og lymfepr&#248;ver.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">1.05909</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>Similarly, it is important to frequently wash contact surfaces in the toilets/shower.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Tilsvarende er det viktig med hyppig vask av kontaktflater p&#229; toalett/dusj.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">1.35097</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>&#8226; Employees shall come and go as work team group(s).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>&#8226; Ansatte kommer og g&#229;r som arbeidslags-gruppe(r).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">3.50445</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Reindeer that are introduced into Nordfjella zone 1 must be free of CWD.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Rein som introduseres til Nordfjella sone 1 m&#229; v&#230;re fri for skrantesjuke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">1.03275</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The Norwegian Environment Agency is responsible for this measure.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Milj&#248;direktoratet er ansvarlig for tiltaket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">3.07042</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/plants/guide_on_infection_control_in_production_of_fruits_berries_vegetables_and_potatoes.39514/binary/Guide%20on%20infection%20control%20in%20production%20of%20fruits,%20berries,%20vegetables%20and%20potatoes</prop>
+     <seg>The plexiglass must cover at least 20 cm outside the face and chest height in all directions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/Utbrudd_av_koronavirus/Dyrking_og_planter/smittevernveileder_for_produsenter_av_frukt_baer_gronnsaker_og_potet.39080/binary/Smittevernveileder%20for%20produsenter%20av%20frukt,%20b%C3%A6r,%20gr%C3%B8nnsaker%20og%20potet</prop>
+     <seg>Pleksiglasset m&#229; dekke minst 20 cm utenfor ansikt- og brysth&#248;yde i alle retninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">4.0825</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/spesialmat_og_kosttilskudd/morsmelkserstatning/annex_part2021224155v1__eu_2016__127.43673/binary/Annex%20PART-2021-224155V1%20-%20(EU)%202016%20-%20127</prop>
+     <seg>Annexes IV and V to Delegated Regulation (EU) No 2016/127 are amended as follows:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/spesialmat_og_kosttilskudd/morsmelkserstatning/forslag_til_endring_i_regelverket_for_naeringsmidler_til_saerskilte_grupper.43481</prop>
+     <seg>Utkastet vil endre forordning (EU) 2016/127.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">1.03857</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/neurotensin_and_cooling_after_birth_copy.40370</prop>
+     <seg>Reduction: We always make calculations concerning probability of significant findings to include as few animals as possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrevelferd/forsoksdyr/forsoksdyrsoknader/kan_mutert_gnas_peptid_indusere_en_immunrespons_og_forhindre_tumorvekst.40330</prop>
+     <seg>Reduction:Antall mus er satt s&#229; lavt vi f&#248;ler er forsvarlig, men samtidig gj&#248;r detmulig &#229; oppn&#229; signifikante forskjeller.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">1.35652</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/mat_og_vann/merking_av_mat/kvalitetsbestemmelser/forordning_eu_2019787_paa_engelsk.41024/binary/Forordning%20(EU)%202019-787%20p%C3%A5%20engelsk</prop>
+     <seg>Official Journal of the European Union</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/gjeldende_regelverk/veiledere/veileder_til_smilefjesordningen.21114/binary/Veileder%20til%20smilefjesordningen</prop>
+     <seg>skadedyr og forurensing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="170" datatype="Text">
+    <prop type="score-hunalign">2.84357</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The fences to be used for this measure have been ordered and are expected to be delivered before July 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Grinder som skal benyttes i tiltaket er bestilt og forventes levert f&#248;r juli 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="171" datatype="Text">
+    <prop type="score-hunalign">1.06862</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>This is regulated through as veterinarian at the Norwegian University of Life Sciences - Faculty of Veterinary Medicine, you will be given an authorization.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Du er utdannet som fiskehelsebiolog ved Universitetet i Bergen eller UiT Norges Arktiske Universitet, vil som regel f&#229; autorisasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="172" datatype="Text">
+    <prop type="score-hunalign">1.09183</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/multiannual_national_control_plan.23956/binary/Multi-annual%20national%20control%20plan</prop>
+     <seg>The plan is prepared on the basis of previous audits, ESA</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/fleraarig_nasjonal_kontrollplan.23951-4/binary/Fler%C3%A5rig%20nasjonal%20kontrollplan</prop>
+     <seg>Planen utarbeides p&#229; grunnlag av tidligere revisjoner, ESA-inspeksjoner og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="173" datatype="Text">
+    <prop type="score-hunalign">1.26757</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/multiannual_national_control_plan.23956/binary/Multi-annual%20national%20control%20plan</prop>
+     <seg>the basis for the head office&#8217;s reporting.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/om_mattilsynet/fleraarig_nasjonal_kontrollplan.23951-4/binary/Fler%C3%A5rig%20nasjonal%20kontrollplan</prop>
+     <seg>grunnlaget for hovedkontorets rapportering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="174" datatype="Text">
+    <prop type="score-hunalign">3.83814</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/animal_health_staff/animal_health_staff_authorization_and_licence.269</prop>
+     <seg>This certificate must not be older than 3 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelsepersonell/dyrehelsepersonell_autorisasjon_og_lisens.276</prop>
+     <seg>Denne attesten m&#229; ikke v&#230;re eldre enn 3 m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="175" datatype="Text">
+    <prop type="score-hunalign">1.00588</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The fallow period can be used to implement mitigating measures to improve living conditions for wild reindeer in the area.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Brakkleggingsperioden kan benyttes til &#229; gjennomf&#248;re avb&#248;tende tiltak for &#229; utbedre villreinens levevilk&#229;r i omr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="176" datatype="Text">
+    <prop type="score-hunalign">1.152</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>Deviations and adaptations may occur during the course of the work.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Avvik og tilpasninger kan forkomme underveis i arbeidet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="177" datatype="Text">
+    <prop type="score-hunalign">1.10214</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.mattilsynet.no/language/english/animals/plan_for_the_eradication_of_the_wild_reindeer_population_in_nordfjella_zone_1.29941/binary/Plan%20for%20the%20eradication%20of%20the%20wild%20reindeer%20population%20in%20Nordfjella%20zone%201</prop>
+     <seg>The rest of the fencing will be erected on snow before the actual rounding up starts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.mattilsynet.no/dyr_og_dyrehold/dyrehelse/dyresykdommer/skrantesjuke__cwd_/saneringsplan_for_uttak_av_villreinbestanden_i_nordfjella_i_sone_1.26685/binary/Saneringsplan%20for%20uttak%20av%20villreinbestanden%20i%20Nordfjella%20i%20sone%201</prop>
+     <seg>Resten av gjerde vil settes opp p&#229; sn&#248; f&#248;r selve inndrivingen starter.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,167 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221218T183504" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.13</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://forsvarsbygg.no/contentassets/3d87543da5664ad897bca92cd882b3b4/festningsloype-oddane-fort_engelsk.pdf.converted</prop>
+     <prop type="source-document">http://www.forsvarsbygg.no/contentassets/3d87543da5664ad897bca92cd882b3b4/festningsloype-oddane-fort_engelsk.pdf.converted</prop>
+     <seg>The weather protection remains in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.forsvarsbygg.no/contentassets/23fe60e4dfe04b1f81c043912e9479ee/vedtak-av-statlig-reguleringsplan-for-evenes-flystasjon-og-harstad_narvik-lufthavn.pdf.converted</prop>
+     <prop type="source-document">http://forsvarsbygg.no/contentassets/23fe60e4dfe04b1f81c043912e9479ee/vedtak-av-statlig-reguleringsplan-for-evenes-flystasjon-og-harstad_narvik-lufthavn.pdf.converted</prop>
+     <seg>mot verneomr&#229;dene rundt flystasjonen og lufthavnen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.04544</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.forsvarsbygg.no/no/festningene/finn-din-festning/fredrikstad-festning2/fredrikstad-fortress/historycultural-environment/</prop>
+     <prop type="source-document">http://forsvarsbygg.no/no/festningene/finn-din-festning/fredrikstad-festning2/fredrikstad-fortress/historycultural-environment/</prop>
+     <seg>When Norway lost the county of Bohusl&#228;n and Bohus Fortress to Sweden in 1658, Fredrikstad became an important border town.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://forsvarsbygg.no/no/verneplaner/landsverneplan-for-forsvaret/ostlandet/fredrikstad-festning/</prop>
+     <prop type="source-document">http://www.forsvarsbygg.no/no/verneplaner/landsverneplan-for-forsvaret/ostlandet/fredrikstad-festning/</prop>
+     <seg>Fra 1658 fikk Fredrikstad &#248;kt strategisk interesse idet Norge mistet Bohusl&#228;n med Bohus festning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.49098</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.forsvarsbygg.no/globalassets/02-dokumenter/fergeruter/engelsk/billettpriser_engelsk.pdf.converted</prop>
+     <prop type="source-document">http://forsvarsbygg.no/globalassets/02-dokumenter/fergeruter/engelsk/billettpriser_engelsk.pdf.converted</prop>
+     <seg>Please go to www.oscarsborg.no for further information.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://forsvarsbygg.no/globalassets/02-dokumenter/fergeruter/norsk/billettpriser-norsk.pdf.converted</prop>
+     <prop type="source-document">http://www.forsvarsbygg.no/globalassets/02-dokumenter/fergeruter/norsk/billettpriser-norsk.pdf.converted</prop>
+     <seg>Se www.oscarsborg.no for mer informasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.01314</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.forsvarsbygg.no/contentassets/2edb1fc873ec41cbad81434382f502bf/akershus-festning-festningsloype-engelsk_3013.pdf.converted</prop>
+     <prop type="source-document">http://forsvarsbygg.no/contentassets/2edb1fc873ec41cbad81434382f502bf/akershus-festning-festningsloype-engelsk_3013.pdf.converted</prop>
+     <seg>room for the axles of the gun-carriages.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.forsvarsbygg.no/contentassets/aa1a299ae7634a3bbb8bf8df785e581b/kulturminner-hjerkinn.pdf.converted</prop>
+     <prop type="source-document">http://forsvarsbygg.no/contentassets/aa1a299ae7634a3bbb8bf8df785e581b/kulturminner-hjerkinn.pdf.converted</prop>
+     <seg>Takene er tekket med skifer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.05714</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.forsvarsbygg.no/no/festningene/finn-din-festning/akershus-festning/akershus-fortress/Akershus-cultural/</prop>
+     <prop type="source-document">http://forsvarsbygg.no/no/festningene/finn-din-festning/akershus-festning/akershus-fortress/Akershus-cultural/</prop>
+     <seg>Akershus Fortress forms a unique backdrop to concerts, theatrical performances nd exhibitions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://forsvarsbygg.no/no/nyheter/nyhetsarkiv-eldre-nyheter/2016/telemarksavisa-felt-i-pfu/</prop>
+     <prop type="source-document">http://www.forsvarsbygg.no/no/nyheter/nyhetsarkiv-eldre-nyheter/2016/telemarksavisa-felt-i-pfu/</prop>
+     <seg>Forsvarsbygg mener seg utsatt for beskyldninger om blant annet lobbyvirksomhet, korrupsjon, l&#248;gn og svindel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.05714</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://forsvarsbygg.no/no/festningene/finn-din-festning/karljohansvern/karljohansvern-in-english/praktisk-informasjon-karljohansvern/</prop>
+     <prop type="source-document">http://www.forsvarsbygg.no/no/festningene/finn-din-festning/karljohansvern/karljohansvern-in-english/praktisk-informasjon-karljohansvern/</prop>
+     <seg>Please throw trash in the trash bags.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.forsvarsbygg.no/no/verneplaner/karljohansvern/inventarkataloger/0246-fortet-norske-love/</prop>
+     <prop type="source-document">http://forsvarsbygg.no/no/verneplaner/karljohansvern/inventarkataloger/0246-fortet-norske-love/</prop>
+     <seg>Fjernig av puss i spisesal.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.04336</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.forsvarsbygg.no/no/festningene/finn-din-festning/akershus-festning/akershus-fortress/Akershus-cultural/</prop>
+     <prop type="source-document">http://forsvarsbygg.no/no/festningene/finn-din-festning/akershus-festning/akershus-fortress/Akershus-cultural/</prop>
+     <seg>Walk at your own pace and learn about the nature, distinctive architecture and history of the fortress through the centuries.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://forsvarsbygg.no/no/nyheter/nyhetsarkiv-eldre-nyheter/2016/telemarksavisa-felt-i-pfu/</prop>
+     <prop type="source-document">http://www.forsvarsbygg.no/no/nyheter/nyhetsarkiv-eldre-nyheter/2016/telemarksavisa-felt-i-pfu/</prop>
+     <seg>Slik utvalget ser det, fremst&#229;r kritikken og anklagene mot klager som s&#229; massiv, ensidig og rammende, at retten til samtidig im&#248;teg&#229;else (jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.14</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://forsvarsbygg.no/no/festningene/finn-din-festning/karljohansvern/karljohansvern-in-english/experiences-and-attractions/</prop>
+     <prop type="source-document">http://www.forsvarsbygg.no/no/festningene/finn-din-festning/karljohansvern/karljohansvern-in-english/experiences-and-attractions/</prop>
+     <seg>Galleries, studios and workshops</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://forsvarsbygg.no/contentassets/85afb4aa07c743db975deb96c93ab27c/festningsloypa-karljohansvern-_-norsk.pdf.converted</prop>
+     <prop type="source-document">http://www.forsvarsbygg.no/contentassets/85afb4aa07c743db975deb96c93ab27c/festningsloypa-karljohansvern-_-norsk.pdf.converted</prop>
+     <seg>samt radiotelegrafist og observat&#248;rskole i Horten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.13571</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://forsvarsbygg.no/no/festningene/finn-din-festning/oscarsborg-festning/oscarsborg-fortress/practical-information/</prop>
+     <seg>Outdoor camping is not allowed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://forsvarsbygg.no/no/festningene/finn-din-festning/oscarsborg-festning/praktisk-informasjon/</prop>
+     <seg>Camping i friluft er ikke tillatt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.03043</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://forsvarsbygg.no/no/festningene/finn-din-festning/oscarsborg-festning/oscarsborg-fortress/practical-information/</prop>
+     <seg>There are several accommodation options at Oscarsborg.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://forsvarsbygg.no/no/festningene/finn-din-festning/oscarsborg-festning/praktisk-informasjon/</prop>
+     <seg>Det er flere overnattingsmuligheter p&#229; Oscarsborg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.12327</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.forsvarsbygg.no/contentassets/2edb1fc873ec41cbad81434382f502bf/akershus-festning-festningsloype-engelsk_3013.pdf.converted</prop>
+     <prop type="source-document">http://forsvarsbygg.no/contentassets/2edb1fc873ec41cbad81434382f502bf/akershus-festning-festningsloype-engelsk_3013.pdf.converted</prop>
+     <seg>The medieval castle was well-protected by strong curtain walls on the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.forsvarsbygg.no/contentassets/aa1a299ae7634a3bbb8bf8df785e581b/kulturminner-hjerkinn.pdf.converted</prop>
+     <prop type="source-document">http://forsvarsbygg.no/contentassets/aa1a299ae7634a3bbb8bf8df785e581b/kulturminner-hjerkinn.pdf.converted</prop>
+     <seg>Det vi imidlertid har mer h&#229;ndgripelige data p&#229; er spor etter fangst p&#229; villrein.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

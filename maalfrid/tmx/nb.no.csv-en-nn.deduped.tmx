@@ -1,0 +1,123 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221218T204512" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.25227</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nb.no/en/artikler/norwegian-named-entity-recognition/</prop>
+     <seg>There are multiple advantages to adding NorNE on top of NDT.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/artikler/namneattkjenning-pa-norsk/</prop>
+     <seg>Det er fleire fordelar med &#229; kombinere NorNE og NDT.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.94751</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nb.no/en/artikler/norwegian-named-entity-recognition/</prop>
+     <seg>This corpus consists of approximately 600 000 tokens of running text from newspapers, blogs, parliamentary proceedings and reports, equally divided between Bokm&#229;l and Nynorsk, the two Norwegian written standards.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/artikler/namneattkjenning-pa-norsk/</prop>
+     <seg>Dette korpuset best&#229;r av om lag 600 000 token med l&#248;pande tekst fr&#229; aviser, bloggar, stortingsforhandlingar og rapportar, delt likt mellom dei to m&#229;lformene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">4.04933</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-58/</prop>
+     <seg>- Some of the metadata in the transcriptions of 20171213 were lacking in the json transcription files.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-58/</prop>
+     <seg>- Nokre metadata til transkripsjonane i 20171213 mangla i json-filene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.41969</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nb.no/en/artikler/norwegian-named-entity-recognition/</prop>
+     <seg>The annotations in the corpus are public domain (CC-ZERO), and the dataset can be used both for research and commercial development.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/artikler/namneattkjenning-pa-norsk/</prop>
+     <seg>Annotasjonane i korpuset er offentleg eigedom (CC-ZERO), og datasettet kan nyttast b&#229;de til forsking og kommersiell utvikling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">4.19412</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nb.no/en/forskning/workspaces-for-researchers/</prop>
+     <seg>The National Library of Norway offers workspaces for researchers at our premises at Henrik Ibsens gate 110.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/forskning/forskarplassar/</prop>
+     <seg>Nasjonalbiblioteket tilbyr plass p&#229; forskarlesesal i Henrik Ibsens gate 110.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">4.11818</prop>
+    <prop type="score-bicleaner">0.613</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-58/</prop>
+     <seg>Betareleases of the NPSC were published in 2020 and 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-58/</prop>
+     <seg>Betaversjonar av korpuset vart publisert i 2020 og 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.2875</prop>
+    <prop type="score-bicleaner">0.607</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nb.no/en/artikler/norwegian-named-entity-recognition/</prop>
+     <seg>at the University of Oslo and</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/artikler/namneattkjenning-pa-norsk/</prop>
+     <seg>ved Universitetet i Oslo og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.82813</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-58/</prop>
+     <seg>The audio files in the corpus contain the speech of entire days of plenary meetings from 2017 and 2018 (or, if a meeting lasts more than six hours, the first six hours of a day).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-58/</prop>
+     <seg>Lydfilene i korpuset inneheld opptak fr&#229; heile dagar med plenumsm&#248;te fr&#229; 2017 og 2018 (eller, viss eit m&#248;te varar i meir enn seks timar, dei f&#248;rste seks timane den aktuelle dagen).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.72377</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nb.no/en/artikler/norwegian-named-entity-recognition/</prop>
+     <seg>The Norwegian Named Entities corpus (NorNE) was launched in June 2019. The corpus has been developed by</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/artikler/namneattkjenning-pa-norsk/</prop>
+     <seg>Korpuset Norwegian Named Entities (NorNE) blei lansert i juni 2019 og er resultatet av eit samarbeid mellom</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

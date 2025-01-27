@@ -1,0 +1,786 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221218T163149" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.33893</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/</prop>
+     <seg>As of 20.12.2021, UNE has processed 89 cases, of which 37 have received a permit in accordance with the temporary regulation for older asylum seekers with a long residence time in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/</prop>
+     <seg>Per 20.12.2021 har UNE behandlet 89 saker, hvorav 37 har f&#229;tt en tillatelse etter engangsl&#248;sningen for eldre asyls&#248;kere med lang oppholdstid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.515</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>UNE also has legal, administrative and practical support functions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>I tillegg har UNE juridiske, administrative og praktiske st&#248;ttefunksjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.57288</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/contact-une/</prop>
+     <seg>If you have new information about your case, you can send it to:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/kontakt-une/</prop>
+     <seg>Hvis du har ny informasjon i saken din, kan du sende det i posten til oss:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.28235</prop>
+    <prop type="score-bicleaner">0.702</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>Department for preparation and case flow</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Avdeling for forberedelse og saksflyt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.27805</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>The department has special expertise in immigration law, human rights and administrative law.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Avdelingen har s&#230;rlig kompetanse innen utlendingsrett, menneskerettigheter og forvaltningsrett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.341</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2021/new-interim-director/</prop>
+     <seg>Johnsen is well acquainted with UNE.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2021/ny-midlertidig-direktor/</prop>
+     <seg>Johnsen er god kjent med UNE.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.27</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>from Europe and America,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>fra Europa og Amerika,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.25948</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/contact-une/</prop>
+     <seg>Switchboard: Monday to Friday between 10.00 - 15.00</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/kontakt-une/</prop>
+     <seg>Mandag til fredag kl 10.00 - 15.00</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.63835</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2017/welcome-to-the-new-une.no/</prop>
+     <seg>A new website was well overdue; the old one (from 2008) was outdated and not particularly user-friendly.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2017/velkommen-til-nye-une.no/</prop>
+     <seg>Det var p&#229; h&#248;y tid med nye nettsider. De gamle fra 2008 var utdaterte og lite brukervennlige.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.44231</prop>
+    <prop type="score-bicleaner">0.726</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>This department is responsible for</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Avdelingen har fagansvar for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">3.7375</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2021/new-director-une/</prop>
+     <seg>Since 2019, Jakobsen has worked as an administrative manager in the Police's immigration unit.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2021/ny-direktor-i-une/</prop>
+     <seg>Jakobsen har siden 2019 arbeidet som avdelingsleder i Politiets utlendingsenhet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.23571</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2021/new-interim-director/</prop>
+     <seg>The Ministry of Justice and Public Security has appointed Siri Johnsen as director general of the Immigration Appeals Board from 1.1.2021.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2021/ny-midlertidig-direktor/</prop>
+     <seg>Justis- og beredskapsdepartementet har konstituert Siri Johnsen som direkt&#248;r i Utlendingsnemnda fra 1.1.2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.4</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/contact-une/</prop>
+     <seg>If you have a Norwegian 11-digit personal number, you can send the information electronically through</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/kontakt-une/</prop>
+     <seg>Personer som har et norsk 11-sifret f&#248;dselsnummer kan sende opplysningene via den sikre kanalen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.2434</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>The process director has overriding responsibility for case flow in UNE.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Prosessdirekt&#248;ren har et overordnet ansvar for saksflyten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.16571</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>from the Middle East and North Africa, visas,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>fra Midt&#248;sten og Nord-Afrika, visum,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.71724</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>Form for submitting ID documents</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema.pdf.converted</prop>
+     <seg>Skjema for innsending av ID-dokumenter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.65435</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>This department is responsible for sickness absence and leaves of absence, recruitment, wage negotiations and labour law.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Avdelingen har ansvar for sykefrav&#230;r og permisjoner, rekruttering, l&#248;nnsforhandlinger og arbeidsrett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.11833</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>If more than one family member sends in ID documents, one form must be completed by each person.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema.pdf.converted</prop>
+     <seg>Dersom flere familiemedlemmer sender inn ID-dokumenter m&#229; det fylles ut ett skjema per person.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.01605</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/contact-une/</prop>
+     <seg>The Information Service answers questions about the status of your case.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/kontakt-une/</prop>
+     <seg>Svartjenesten svarer p&#229; sp&#248;rsm&#229;l om status i egen sak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.05778</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2021/new-director-une/</prop>
+     <seg>We have got a very experienced manager to set the course for the further development of the Immigration Appeals Board, says Minister of Justice and Public Security Monica M&#230;land (H).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2021/ny-direktor-i-une/</prop>
+     <seg>Vi har f&#229;tt en sv&#230;rt erfaren leder til &#229; stake ut kursen for den videre utviklingen av Utlendingsnemnda, sier justis- og beredskapsminister Monica M&#230;land (H).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.17073</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2015/reverses-suspension-of-returns-to-tripoli-in-libya/</prop>
+     <seg>UNE has obtained updated information about Libya and the situation for asylum seekers who return to the country, and has held several board meetings to assess the situation as regards returns to the country.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2015/une-opphever-returstopp-til-tripoli-i-libya/</prop>
+     <seg>UNE har innhentet oppdatert landinformasjon om situasjonen for asyls&#248;kere som returnerer til Libya, og avholdt flere nemndm&#248;ter for &#229; vurdere retursituasjonen til landet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.49757</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/sources/apllicable-practice-memos/exclusion/</prop>
+     <seg>The subject of this practice memo is exclusion from the right to recognition as a refugee, pursuant to section 31 of the Immigration Act.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/kildesamling/praksisnotater/eksklusjon/</prop>
+     <seg>Tema for dette notatet er utelukkelse (eksklusjon) fra flyktningstatus etter utlendingsloven &#167; 31.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.10881</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>Name (as it is registered in Norway):</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema.pdf.converted</prop>
+     <seg>Navn (slik det er registrert i Norge):</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">6.48421</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>and Section 36 cases.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>og &#167; 36-saker (dekning av sakskostnader).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.02273</prop>
+    <prop type="score-bicleaner">0.688</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2021/new-director-une/</prop>
+     <seg>- I am glad that Marianne Jakobsen will take on this important public mission.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2021/ny-direktor-i-une/</prop>
+     <seg>&#8211; Jeg er glad for at Marianne Jakobsen vil ta p&#229; seg dette viktige samfunnsoppdraget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.69531</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/sources/apllicable-practice-memos/exclusion/</prop>
+     <seg>The practice memo is based on a review of a range of decisions made after 2015.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/kildesamling/praksisnotater/eksklusjon/</prop>
+     <seg>Notatet baserer seg p&#229; en gjennomgang av en rekke vedtak fattet etter 2015.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.93372</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>The form can be sent to: Utlendingsnemnda, Postboks 2108 Vika, 0125 Oslo</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema.pdf.converted</prop>
+     <seg>Skjemaet sendes til: Utlendingsnemnda, Postboks 2108 Vika, 0125 Oslo</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.41336</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2016/medical-adviser-in-une/</prop>
+     <seg>This arrangement is initially a trial that will be evaluated in the course of 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2016/medisinsk-radgiver-i-une/</prop>
+     <seg>Dette er i f&#248;rste omgang en pr&#248;veordning som skal evalueres n&#230;rmere i l&#248;pet av 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.23226</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2015/suspension-of-return-support-to-bangladesh/</prop>
+     <seg>Suspension of return support to Bangladesh</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2015/stans-i-returstotte-til-bangladesh/</prop>
+     <seg>Stans i returst&#248;tte til Bangladesh</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.74474</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>Irene &#216;yangen is the Director of Development at UNE.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Irene &#216;yangen er utviklingsdirekt&#248;r i UNE.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.228</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/board-hearings/videotranskript-barnefilm/</prop>
+     <seg>Welcome to the Norwegian Immigration Appeals Board &#8211; or UNE as we call it.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/nemndmote/videotranskript-barnefilm/</prop>
+     <seg>Velkommen til Utlendingsnemnda &#8211; eller bare UNE om du vil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.31223</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>, cases where one can apply for a residence permit from Norway and unaccompanied minor asylum seeker (EMA) cases.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>, saker der sp&#248;rsm&#229;let er om man kan s&#248;ke om oppholdstillatelse fra Norge og saker med enslige mindre&#229;rige asyls&#248;kere (EMA).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.47692</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>This section is responsible for</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Avdelingen har fagansvar for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/sources/apllicable-practice-memos/exclusion/</prop>
+     <seg>The purpose of exclusion is twofold.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/kildesamling/praksisnotater/eksklusjon/</prop>
+     <seg>Form&#229;let med utelukkelse er todelt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.25182</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2015/reverses-suspension-of-returns-to-tripoli-in-libya/</prop>
+     <seg>UNE is closely monitoring the situation in Libya, and makes concrete, individual assessments of the question of return in each case.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2015/une-opphever-returstopp-til-tripoli-i-libya/</prop>
+     <seg>UNE f&#248;lger n&#248;ye med p&#229; situasjonen i Libya, og gj&#248;r konkrete og individuelle vurderinger av sp&#248;rsm&#229;let om retur i hver enkelt sak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.10451</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2015/suspension-of-return-support-to-bangladesh/</prop>
+     <seg>The Directorate of Immigration (UDI) is suspending the payment of reintegration support for persons returning to Bangladesh under the voluntary assisted return programme (VARP).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2015/stans-i-returstotte-til-bangladesh/</prop>
+     <seg>UDI stanser reintegreringsst&#248;tten til personer som skal returnere til Bangladesh med program for assistert retur - VARP.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.04524</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>It advises case officers, board chairs and the management on legal issues.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Den bist&#229;r saksbehandlere, nemndledere og ledelsen i faglige sp&#248;rsm&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.17065</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2015/reverses-suspension-of-returns-to-tripoli-in-libya/</prop>
+     <seg>UNE considers that the general security situation in and around Tripoli in Libya has now been sufficiently clarified.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2015/une-opphever-returstopp-til-tripoli-i-libya/</prop>
+     <seg>UNE mener at den generelle sikkerhetssituasjonen i, og rundt, Tripoli, Libya n&#229; er tilstrekkelig avklart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.03629</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2015/reverses-suspension-of-returns-to-tripoli-in-libya/</prop>
+     <seg>UNE has also based its assessment on country reports by the Norwegian Country of Origin Information Centre (Landinfo) published in cooperation with the Swedish, Danish, Belgian and Dutch immigration authorities.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2015/une-opphever-returstopp-til-tripoli-i-libya/</prop>
+     <seg>Videre har UNE bygget p&#229; landrapporter fra utlendingsforvaltningens fagenhet for landinformasjon, Landinfo, utgitt i samarbeid med svenske, danske, belgiske og nederlandske utlendingsmyndigheter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.66364</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2016/medical-adviser-in-une/</prop>
+     <seg>The adviser in question is Ole Steen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2016/medisinsk-radgiver-i-une/</prop>
+     <seg>R&#229;dgiveren er Ole Steen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.24878</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/for-the-press/</prop>
+     <seg>Press contacts in UNE's communications section:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/presse/</prop>
+     <seg>Pressekontakter i UNEs kommunikasjonsenhet:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">2.4949</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2021/new-director-une/</prop>
+     <seg>From 2002 she worked in the Immigration Appeals Board, first as section manager, and later for 10 years as head of the asylum departement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2021/ny-direktor-i-une/</prop>
+     <seg>Hun arbeidet fra 2002 som leder i Utlendingsnemnda, f&#248;rst som seksjonssjef og senere 10 &#229;r som avdelingsdirekt&#248;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.43077</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>This departement is responsible for</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Avdelingen har fagansvar for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.03239</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>The department collaberate closely with the UDI, especially on security and business architecture.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Avdelingen har tett samarbeid med UDI innenfor b&#229;de IKT, sikkerhet og arkitektur.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.11049</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>Date of birth (as it is registered in Norway):</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema.pdf.converted</prop>
+     <seg>F&#248;dselsdato (slik det er registrert i Norge):</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.2</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>The form must be sent together with the ID documents.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema.pdf.converted</prop>
+     <seg>Skjemaet skal sendes sammen med ID-dokumentene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.38553</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>The communications department in UNE works on user services, media services, transparency and access, the website, intranet, internal communication and contingency plans for crisis communication.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Kommunikasjonsavdelingen i UNE jobber med brukerservice, medieservice, &#229;penhet og innsyn, websider, intranett, internkommunikasjon og beredskap for krisekommunikasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.15441</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>The Director of Development also contributes to UNE's technological development being appropriate and future-oriented, and is responsible for technological cooperation with the UDI and the Police Immigration Unit.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Utviklingsdirekt&#248;ren bidrar ogs&#229; til at UNEs teknologiske utvikling er hensiktsmessig og fremtidsrettet, og er p&#229;driver for tverretatlig teknologisk samarbeid med UDI og Politiets utlendingsenhet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.30918</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/sources/apllicable-practice-memos/exclusion/</prop>
+     <seg>Exclusion means that the authorities in the country where a claim for protection is launched, may deny an applicant the right to protection pursuant to section 28 of the Immigration Act, if the applicant is guilty in matters regulated by section 31 of the Immigration Act.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/kildesamling/praksisnotater/eksklusjon/</prop>
+     <seg>Utelukkelse betyr at myndighetene i det landet man s&#248;ker beskyttelse kan nekte en s&#248;ker rett til beskyttelse etter utlendingsloven &#167; 28 hvis han/hun har gjort seg skyldig i forhold som reguleres av utlendingsloven &#167; 31.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.02857</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>Tick which type of case the ID documents apply to:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema.pdf.converted</prop>
+     <seg>Kryss av for hva slags sak ID-dokumentet gjelder:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.12174</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>Anne-Karin Westbye is the Process Director at UNE.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Prosessdirekt&#248;ren er p&#229;driver for kontinuerlig forbedring i UNE.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.48182</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/board-hearings/videotranskript-barnefilm/</prop>
+     <seg>At UNE, you will talk with a Board leader.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/nemndmote/videotranskript-barnefilm/</prop>
+     <seg>Hos UNE f&#229;r du prate med en nemndleder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.59057</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2015/reverses-suspension-of-returns-to-tripoli-in-libya/</prop>
+     <seg>The Immigration Appeals Board (UNE) reverses the suspension of the duty to return to Tripoli, while the suspension is upheld for other areas of Libya.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2015/une-opphever-returstopp-til-tripoli-i-libya/</prop>
+     <seg>UNE opphever returstopp til Tripoli, suspensjonen av utreiseplikt (returstopp) til &#248;vrige deler av Libya opprettholdes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.89689</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>, permanent residence and identity.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>, permanent opphold og ID.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.83344</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2015/reverses-suspension-of-returns-to-tripoli-in-libya/</prop>
+     <seg>On this basis, UNE has today decided to reverse the temporary suspension of the duty to return to Tripoli and surrounding area, including the districts Tripoli, Jafara, Zawiya, Nuqat al Khams, and Murqub.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2015/une-opphever-returstopp-til-tripoli-i-libya/</prop>
+     <seg>P&#229; bakgrunn av dette har UNE i dag besluttet &#229; oppheve den midlertidige suspensjonen av utreiseplikten til Tripoli og omegn, herunder distriktene Tripoli, Jafara, Zawiya, Nuqat al Khams, og Murqub.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.56309</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2021/new-interim-director/</prop>
+     <seg>Johnsen has been appointed interim director after Ingunn-Sofie Aursnes retired on 31.12.2020.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2021/ny-midlertidig-direktor/</prop>
+     <seg>Johnsen er konstitutert som midlertidig direkt&#248;r etter at Ingunn-Sofie Aursnes gikk av med pensjon 31.12.2020.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.36635</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/contact-une/</prop>
+     <seg>Please have your case number (DUF-number) available before you call.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/kontakt-une/</prop>
+     <seg>Ha klart saksnummeret (DUF-nummeret) f&#248;r du ringer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.1879</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/sources/apllicable-practice-memos/exclusion/</prop>
+     <seg>The review shows that UNE has assessed exclusion in accordance with several of the provisions in &#167;31, but the main emphasis of the cases concerns exclusion pursuant to &#167;31, first paragraph, letter b.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/kildesamling/praksisnotater/eksklusjon/</prop>
+     <seg>Gjennomgangen viser at UNE har vurdert utelukkelse etter flere av bestemmelsene i &#167; 31, men hovedvekten av sakene gjelder utelukkelse etter utl &#167; 31 f&#248;rste ledd bokstav b.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.03033</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/see-more-news/archive/2015/reverses-suspension-of-returns-to-tripoli-in-libya/</prop>
+     <seg>The police can resume the implementation of forced returns to Tripoli.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/aktuelt/arkiv/2015/une-opphever-returstopp-til-tripoli-i-libya/</prop>
+     <seg>Politiet kan gjenoppta iverksetting av tvangsreturer til Tripoli, Libya.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.3474</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/how-is-une-organised/</prop>
+     <seg>The unit is also responsible for work on forecasts and statistics, flow and improvements, issuing notices of board hearings, the case information service and the switchboard.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.une.no/om-une/unes-ledelse/</prop>
+     <seg>Avdelingen har ogs&#229; ansvar for prognose- og statistikkarbeid, flyt- og forbedringsarbeid, innkalling til nemndm&#248;ter, svartjenesten og sentralbord.</seg>
+    </tuv>
+   </tu>
+ </body>
+</tmx>

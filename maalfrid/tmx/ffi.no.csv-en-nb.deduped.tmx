@@ -1,0 +1,3546 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T192626" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.04</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>The concentrations of lead in soil near the destruction facility in T&#248;njumdalen were above</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>I T&#248;njumdalen ble det registrert et noe forh&#248;yet niv&#229; av bly i n&#230;romr&#229;det til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">5.31951</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Tove Kristin M&#248;rch Johansen joined FFI in 1993.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Tove Kristin M&#248;rch Johansen har arbeidet ved FFI siden 1993.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.27727</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>This is how Statoil envisaged Hugin in action while mapping the seafloor offshore.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Slik s&#229; Statoil for seg Hugin i aksjon i ferd med &#229; kartlegge havbunn offshore.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.736</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>FFI visited Washington</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>FFI bes&#248;kte Washington</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.45923</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Andr&#233; Pettersen joined FFI in 2000 and has served as a scientist, research manager and director of research.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Andr&#233; Pettersen har arbeidet ved FFI siden 2000 og v&#230;rt forsker, forskningsleder og forskningssjef.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.83929</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>By 2028, a new unmanned system for detection of naval mines and minehunting will be introduced in the Norwegian Navy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Innen 2028 skal et nytt ubemannet system for mines&#248;k og minejakt innf&#248;res i Sj&#248;forsvaret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.17143</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>At least not if they could get away with it unpunished.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Iallfall ikke om de kunne slippe ustraffet unna.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.16949</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>The use of packet switching via Arpanet significantly reduced this threat.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Bruken av pakkesvitsjing via Arpanet reduserte trusselen kraftig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.20455</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Tone Merethe Lindberg Gr&#248;stad is director of Maskingrossisternes Forening.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Tone Merethe Lindberg Gr&#248;stad er direkt&#248;r i Maskingrossisternes Forening.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">3.29077</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Spilling, age 39 at the time, was the assistant of FFI researcher Yngvar Lundh.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Den da 39 &#229;r gamle Spilling var assistent for FFI-forskeren Yngvar Lundh.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.25472</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>He has been the project manager for the development of Hugin and has followed the submarine from the idea stage to a finished commercial product.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Han har v&#230;rt prosjektleder for utviklingen av Hugin og har fulgt ub&#229;ten helt fra id&#233;stadiet til ferdig kommersielt produkt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.59059</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/spermal-was-norwegian-napalm</prop>
+     <seg>However, napalm stiffened and became insoluble in gasoline when temperatures dropped below 15&#176;C.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/spermal-var-norsk-napalm</prop>
+     <seg>Men napalm stivnet og ble uoppl&#248;selig i bensin allerede n&#229;r gradestokken kr&#248;p under 15 varmegrader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.28846</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>This was a major undertaking.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Det ble en kraftanstrengelse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.07179</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>How to create a battery with enough power and lifespan to operate a tetherless submarine with advanced sensors and computing power?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Hvordan finne et batteri med nok kraft og levetid til &#229; drive en kabelfri ub&#229;t med avanserte sensorer og datakraft?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.25417</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>The power budget shows that it is possible to have 35 W available to the payload during</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>Effektbudsjettet viser at det er mulig &#229; forbruke 35 W nyttelasteffekt i den aktive delen av banen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.29752</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2009</prop>
+     <seg>Key figures include revenues, man-labor year, value added, export, R&amp;D and the relationship between civilian and military activity.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2009</prop>
+     <seg>N&#248;kkeltallene omfatter omsetning, &#229;rsverk, verdiskaping, eksport, FoU og forholdet mellom forsvarsrelatert og sivilt rettet virksomhet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.32477</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/modeling-underwater-explosions-extending-charles-to-fiver</prop>
+     <seg>This report is concerned with the implementation of a method for simulation of explosions and implosions under water in the flow solver "Charles", which is used at the Norwegian Defence Research Establishment (FFI).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/modeling-underwater-explosions-extending-charles-to-fiver</prop>
+     <seg>Denne rapporten dreier seg om implementering av en metode for simulering av eksplosjoner og implosjoner under vann i str&#248;mningsl&#248;seren "Charles", som er i hyppig bruk ved Forsvarets forskningsinstitutt (FFI) i dag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.34893</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>B&#248;hler is civil engineer in environmental physics from the Norwegian University of Life Sciences (NMBU).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>B&#248;hler er utdannet sivilingeni&#248;r i milj&#248;fysikk fra Norges milj&#248;- og biovitenskapelige universitet (NMBU).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">3.13636</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Trygve Sparr joined FFI in 1998 and has served as a scientist, research manager, assistant division director and director of research.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Trygve Sparr har arbeidet ved FFI siden 1998 og v&#230;rt forsker, forskningsleder, assisterende avdelingssjef og forskningssjef.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.70439</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/privacy-policy</prop>
+     <seg>nmstat &#8211; is a cookie from Siteimprove used for analyzing content and traffic and for performance measurements.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/personvernerklaering</prop>
+     <seg>nmstat &#8211; er en cookie fra SiteImprove som brukes for &#229; analyser innhold og trafikk og for ytelsesm&#229;linger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">3.27857</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/military-use-of-space-wp1-space-based-geospatial-intelligence</prop>
+     <seg>The project started in 2013, and the first part ended in December 2016.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/military-use-of-space-wp1-space-based-geospatial-intelligence</prop>
+     <seg>Prosjektet startet i 2013, og del en ble avsluttet desember 2016.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.78421</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>He had studied in both Berlin and Cambridge.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>Han hadde studert b&#229;de i Berlin og i Cambridge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.39888</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Hugin has advanced sonars and echo sounders that map and create precise and detailed 3D images of the seafloor.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Hugin har avanserte sonarer og ekkolodd som kartlegger og lager n&#248;yaktige og detaljerte 3D bilder av havbunnen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.52365</prop>
+    <prop type="score-bicleaner">0.712</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The project is funded by Statoil.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Prosjektet blir finansiert av Statoil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.17525</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>His areas of expertise are security policy, economy, and operational analysis.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Fagomr&#229;dene hans er analyse, herunder operasjonsanalyse, &#248;konomi og sikkerhetspolitikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">3.5635</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2012</prop>
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2013</prop>
+     <seg>This report presents statistics on the Norwegian defense industry in 2013.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2013</prop>
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2012</prop>
+     <seg>Denne rapporten presenterer statistikk over norsk forsvarsindustri i 2013.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.20909</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/research/scientists/kristian-atland</prop>
+     <seg>In the period from 1994 to 2002, he was employed in the Norwegian Foreign Service and served as desk officer in the Foreign Ministry&#8217;s Russia and CIS division, as Second Secretary at the Norwegian Embassy in Kiev, and as Consul at the Norwegian Consulate General in San Francisco.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/forskning/forskere/kristian-atland</prop>
+     <seg>I perioden fra 1994 til 2002 jobbet han i Utenrikstjenesten (UD) ved Russlandsseksjonen, Den norske ambassaden i Kiev og Det norske generalkonsulatet i San Francisco.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.15276</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/spermal-was-norwegian-napalm</prop>
+     <seg>It hit the wall of the aircraft factory&#8217;s materials building, which was under construction.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/spermal-var-norsk-napalm</prop>
+     <seg>Det traff veggen i flyfabrikkens materiellbygg, som var under oppf&#248;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.40142</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>It should be noted that Norway and Kjeller were not alone in this new connection for very long.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Det h&#248;rer med til historien at Norge og Kjeller ikke var alene om den nye forbindelsen lenge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.24815</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Signals were transmitted via satellite stations in Tanum, Sweden and Etam, West Virginia in the United States.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Signalene ble formidlet via satellittstasjoner i Tanum i Sverige og Etam i West Virginia, USA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.36814</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/research/russian-military-strategy-and-decision-making</prop>
+     <seg>In previous Russia projects, we have studied the structural reforms and materiel modernisation of the Russian military since 2008.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/forskning/prosjekter/russisk-militaer-strategi-og-beslutningstaking</prop>
+     <seg>I tidligere russlandsprosjekt har vi studert den strukturelle omleggingen og materielle moderniseringen av det russiske forsvaret siden 2008.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.48861</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>Watermark is issued with channels measured in Norway (two sites), France, and Hawaii, offering</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>Watermark er utstyrt med kanaler m&#229;lt i Norge (to steder), Frankrike og Hawaii, og tilbyr tre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.56455</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>At that point, the network was shared between a military (with the suffix.mil) and a civil research network (with the suffix.edu).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Da ble nettet delt i et milit&#230;rt (med etterstavelsen.mil) og et sivilt forskningsnett (med etterstavelsen.edu).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.02023</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/research/cost-analyses</prop>
+     <seg>In order for the Ministry of Defence to be able to ensure sound long-term planning for the defence sector, it is crucial to understand the cost development in the sector.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/forskning/prosjekter/kostnadsanalyser</prop>
+     <seg>For at Forsvarsdepartementet skal kunne drive langtidsplanlegging for forsvarssektoren, er det avgj&#248;rende &#229; forst&#229; kostnadsutviklingen i sektoren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.22269</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Trond Grytting is Rear Admiral in the Armed Forces and has a long and varied background from the Navy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Trond Grytting er kontreadmiral i Forsvaret og har lang og variert bakgrunn fra Sj&#248;forsvaret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.21316</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>This is how FFI&#8217;s design office presents the new battery technology in the early 90s &#8211; as a battery-powered cod that can swim from Oslo to Alta.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Slik fremstiller FFIs tegnekontor den nye batteriteknologien tidlig p&#229; 90-tallet &#8211; som en batteridrevet torsk som kan sv&#248;mme fra Oslo til Alta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.038</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>After lunch, Hugin is recovered and the data are downloaded.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Etter lunsjen blir Hugin hentet opp og dataene lastet ned.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.71667</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/privacy-policy</prop>
+     <seg>Newsletters and sign ups to FFI-forums</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/personvernerklaering</prop>
+     <seg>Nyhetsbrev og p&#229;meldinger til FFI-arrangementer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.58333</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Thoresen and St&#248;rkersen look to the offshore industry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Thoresen og St&#248;rkersen retter blikket mot offshoreindustrien.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.35695</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>This report serves as a user manual for Watermark version 1.0.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>Denne rapporten tjener som brukermanual for Watermark versjon 1.0.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.46635</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>FFI researchers have created a new saltwater battery that can power a mini submarine for 1200 nautical miles &#8211; i.e., from Oslo to Alta.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>FFI-forskere har laget et nytt sj&#248;vannsbatteri som kan drive en miniub&#229;t 1200 nautiske mil &#8211; det vil si fra Oslo til Alta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.62692</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2010</prop>
+     <seg>Key figures include revenues, man-labor years, value added, export, research and development (R&amp;D) and sub-contracts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2010</prop>
+     <seg>N&#248;kkeltallene omfatter omsetning, &#229;rsverk, verdiskaping, eksport, forskning og utvikling (FoU) og underleveranser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.76071</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>In 2017, the Norwegian Armed Forces purchased four Hugin vehicles from Kongsberg for a total of NOK 155 million.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>I 2017 kj&#248;pte Forsvaret fire Hugin-fart&#248;yer fra Kongsberg for til sammen 155 millioner kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.6797</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Researchers almost secretly retained what they could, their @ address.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>N&#230;rmest i hemmelighet beholdt de forskerne som kunne, @-adressen sin.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.48227</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>of Watermark usage are provided.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>Eksempler p&#229; bruk av Watermark er inkludert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.01842</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>She is educated at BI Norwegian Business School.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Hun har utdanning fra Handelsh&#248;yskolen BI.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.23514</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/privacy-policy</prop>
+     <seg>You can subscribe to newsletters from FFI.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/personvernerklaering</prop>
+     <seg>Du kan abonnere p&#229; elektroniske nyhetsbrev fra FFI.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.94143</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Here, Morten Kloster, Bj&#248;rn Jalving and Jon Kristensen are working in front of the computer monitors.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Her jobber Morten Kloster, Bj&#248;rn Jalving og Jon Kristensen foran dataskjermene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.26154</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>validated FFI channel simulator Mime, which is driven by at-sea measurements of the time-varying</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>FFI kanalsimulatoren Mime, som drives av m&#229;linger av undervannskanalens tidsvarierende</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.33973</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>assuming transparent communication payloads providing 5 W or 10 W signal power. Three</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>transparent kommunikasjonsnyttelast med 5 W og 10 W signaleffekt. Tre forskjellige</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">3.75487</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>There is a 20% increase in value creation since 2016.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>Det er en &#248;kning p&#229; over 20 % i verdiskapingen fra 2016.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">5.53889</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>King Harald V visits FFI in 1994.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Kong Harald bes&#248;ker FFI i 1994.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.38684</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>He has extensive experience in transnational research cooperation, in particularly with University of California, San Diego and Berkeley.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Han har omfattende erfaring med internasjonalt forskningssamarbeid spesielt med University of California, San Diego og Berkeley.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.02606</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2015</prop>
+     <seg>On the other hand, there is a 20 % increase in "revenues from foreign customers."</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2015</prop>
+     <seg>P&#229; den annen side er det en &#248;kning p&#229; 20 % i &#8220;omsetning fra utenlandske kunder&#8221;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.17944</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>They also had to design a system to launch and recover Hugin from vessels.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>De m&#229;tte ogs&#229; konstruere et system for &#229; sj&#248;sette og hente inn igjen Hugin fra fart&#248;yer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.25909</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>We sold it as an untethered, remotely operated submarine.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Vi solgte det inn som en kabelfri, fjernstyrt ub&#229;t.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.24706</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>physical layer under highly realistic and reproducible conditions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>fysiske lag under realistiske og reproduserbare forhold.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.48571</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Manufactured and sold by</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Produseres og selges av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.04167</prop>
+    <prop type="score-bicleaner">0.682</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>A massive nuclear attack could not stop the information others needed to retaliate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Et massivt atomangrep kunne alts&#229; ikke stoppe den informasjonen som andre trengte for &#229; gjengjelde.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.39773</prop>
+    <prop type="score-bicleaner">0.696</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Espen Skjelland is acting Director General of FFI.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Espen Skjelland er konstituert administrerende direkt&#248;r ved FFI.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.03302</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>As the word suggests, it uses seawater as the oxidizing agent.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Det bruker, som navnet antyder, sj&#248;vann som oksidasjonsmiddel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.61111</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>A launch and recovery system was borrowed from Simrad and mounted on the minehunter vessel KNM Karm&#248;y.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Et launch og recovery-system ble l&#229;nt fra Simrad og montert p&#229; minejaktfart&#248;yet KNM Karm&#248;y.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.58252</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>At Stanford, he also met several of the key participants in the Stanford University Network, later known as SUN.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>I Stanford m&#248;tte han ogs&#229; flere av de sentrale deltakerne i Stanford University Network, senere kjent som SUN.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">3.29211</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>The idea of a Norwegian military technology research institute was raised already in 1941.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>Tanken om et norsk milit&#230;rteknologisk forskningsinstitutt ble luftet allerede i 1941.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.02042</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/privacy-policy</prop>
+     <seg>FFI uses Siteimprove to collect anonymized information about visitors to ffi.no.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/personvernerklaering</prop>
+     <seg>FFI bruker Siteimprove for &#229; samler inn anonymiserte opplysninger om bes&#248;kende p&#229; ffi.no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.10901</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>NATO has defined cyberspace as an area on level with land, will be completely inferior.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>har definert det digitale rom som et omr&#229;de p&#229; linje med land, det, vil v&#230;re totalt underlegen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.78723</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Nils St&#248;rkersen from FFI heads the development project.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Nils St&#248;rkersen fra FFI leder utviklingsprosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">8.41364</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>20-year ice age</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>20 &#229;rs istid</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.58226</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The solution to the battery problem arrived when &#216;ystein Hasvold and Nils St&#248;rkersen were doodling at an airport in the United States.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>L&#248;sningen p&#229; batteriproblemet kom da &#216;ystein Hasvold og Nils St&#248;rkersen satt og drodlet p&#229; en flyplass i USA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">3.53154</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2009</prop>
+     <seg>This report presents statistics for the defense industry in Norway in 2009.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2009</prop>
+     <seg>Denne rapporten presenterer statistikk for forsvarsindustrien i Norge i 2009.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.09097</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Oil exploration has just been permitted on the V&#248;ring Plateau in the sea outside Nordland County.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Det er nettopp &#229;pnet for oljeleting p&#229; V&#248;ringplat&#229;et i havet utenfor Nordland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.20765</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>In 2017, the Norwegian ship &#8220;Seabed Constructor&#8221;, which is equipped with five Hugin submarines, was able to locate the sunken Argentinian submarine ARA &#8220;San Juan&#8221; at a depth of 800 metres.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>I 2017 klarte det norske skipet &#171;Seabed Constructor&#187;, som er utstyrt med fem Hugin-ub&#229;ter, &#229; finne den forliste argentinske ub&#229;ten ARA &#171;San Juan&#187; p&#229; 800 meters dyp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.18673</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>In this sandbox, they generously shared everything they learned and received even more.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>I denne sandkassa delte de sjener&#248;st alt de fant ut, og fikk i flerfold igjen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.77941</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2016</prop>
+     <seg>On the other hand, there is a 10 percent increase in "revenues from foreign customers."</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2016</prop>
+     <seg>P&#229; den annen side er det en &#248;kning i &#8220;omsetning fra utenlandske kunder&#8221; p&#229; 10 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.15273</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>These were sent through a regular line to the Swedish satellite station in Tanum.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Det skjedde p&#229; fastlinje til den svenske satellittstasjonen i Tanum i Sverige.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.31675</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Previously, she has been director of Natech AS and Habu Technology.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Tidligere har hun blant annet v&#230;rt direkt&#248;r i Natech AS og Habu technology og arbeidet som prosjektleder i Kunnskapsparken Nord.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.43415</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>P&#229;l Spilling at FFI pressed the necessary keys.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>P&#229;l Spilling ved FFI gjorde de n&#248;dvendige tastetrykkene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.11964</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>weapons, and also in cyber-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>og dessuten i det digitale rom,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">3.41647</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>three frequency bands (4&#8211;8, 10&#8211;18, and 32.5&#8211;37.5 kHz), single-hydrophone and array receivers,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>frekvensb&#229;nd (4&#8211;8, 10&#8211;18 og 32,5&#8211;37,5 kHz), enkelthydrofon- og antennemottakere, og run-tider</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.21064</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>And it is still a long way to go until such a submarine is fully developed and ready to be manufactured and purchased by the Norwegian Armed Forces.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Og det er fortsatt langt frem til en slik ub&#229;t er ferdig utviklet og klar til &#229; produseres og kj&#248;pes av Forsvaret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.29643</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>the active period with a nanosatellite with deployable solar panels.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>med en nanosatellitt med utfoldbare solceller.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">2.7473</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Boivim has previously served as Rector at NTNU (2013&#8211;2019) and Director at Central Norway Regional Health Authority (2009&#8211;2013).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Bovim har tidligere v&#230;rt rektor ved NTNU (2013&#8211;2019) og administrerende direkt&#248;r for Helse Midt-Norge RHF (2009&#8211;2013).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.18302</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>FFI was responsible for the actual vehicle and the launching/recovery system, and for software for navigation and control system.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>FFI hadde ansvaret for selve farkosten og utsetting/opptakssystem, og for programvare for navigasjon og kontrollsystem.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.03966</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Despite a successful demonstration &#8211; the funding stops after this.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>En vellykket demo til tross &#8211; etter dette stopper finansieringen opp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.11301</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2014</prop>
+     <seg>decline in revenues is marginally higher in foreign subsidiaries.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2014</prop>
+     <seg>nedgangen i omsetning er noe st&#248;rre i utenlandske datterselskaper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.03571</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Two researchers and a soldier are testing a model submarine in a pond in Fetsund.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>To forskere og en soldat tester en ub&#229;tmodell i et tjern i Fetsund.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.15558</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Gr&#248;stad has several board positions and solid experience from industrial development in the petroleum industry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Gr&#248;stad har flere styreverv og solid erfaring fra industriutvikling i petroleumsn&#230;ringen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.1675</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>If we were to contribute to mapping an area in half the time, this would provide Statoil with a good argument for supporting our technology&#8221;, says St&#248;rkersen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Hvis vi kunne bidra til &#229; kartlegge et omr&#229;de p&#229; halve tiden ville det gi Statoil et godt argument for &#229; satse p&#229; v&#229;r teknologi, sier St&#248;rkersen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.08265</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/research/scientists/kristian-atland</prop>
+     <seg>In the academic year 2019&#8211;2020, he was a Visiting Scholar at the Institute of Slavic, East European, and Eurasian Studies (ISEEES), University of California, Berkeley, where he worked on a project related to the Donbas conflict in the Eastern Ukraine. Research areas</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/forskning/forskere/kristian-atland</prop>
+     <seg>I det akademiske &#229;ret 2019&#8211;2020 var han gjesteforsker ved Institutt for slaviske, &#248;steuropeiske og eurasiske studier (ISEEES) ved Universitetet i California, Berkeley.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">2.80135</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>All the export categories increase, but dual-use shows the highest increase (43%).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>Samtlige kategorier av eksportmateriell &#248;ker, men ogs&#229; i &#229;r &#248;ker flerbruksvarer mest (43 % &#248;kning).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.08126</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Thus, the standard for packet switched satellite channels, CPODA, was established.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Slik oppsto ogs&#229; standarden for pakkesvitsjede satellittkanaler, CPODA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">3.44809</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>This was nearly 20 years after P&#229;l Spilling established the first connection with the Arpanet.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Det var hele 20 &#229;r etter at P&#229;l Spilling opprettet den f&#248;rste forbindelsen med Arpanet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.57554</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>For these efforts, he was bestowed with the Order of the British Empire.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>For denne innsatsen ble han bel&#248;nnet med Order of the British Empire.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.28983</prop>
+    <prop type="score-bicleaner">0.686</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The submarine is released and sends live data back to the minehunter.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Ub&#229;ten blir sluppet og sender live data tilbake til minejaktfart&#248;yet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.02789</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>In this system, Hugin will map the seafloor, while autonomous unmanned surface vessels drag the minesweepers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>I dette systemet skal Hugin kartlegge sj&#248;bunnen, mens autonome ubemannede overflatefart&#248;yer trekker minesveipene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Simply put, the new vehicle needed to be tetherless.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Den nye farkosten m&#229;tte rett og slett v&#230;re kabelfri.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.35617</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>His areas of expertise are cybernetics, autonomics, artificial intelligence, strategy, organisational development, management and innovation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Fagomr&#229;dene hans er kybernetikk, autonomi, kunstig intelligens, strategi, organisasjonsutvikling, ledelse og innovasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.1796</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>At the time, the environment and the companies involved in seafloor mapping were sceptical.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Milj&#248;et og selskapene som drev havbunnskartlegging p&#229; den tiden var skeptiske.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.11049</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>current nanosatellite technology is able to support relevant communication capacity for</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>Studien konkluderer med at n&#229;v&#230;rende teknologi for nanosatellitter underst&#248;tter relevant</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">2.88715</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>Research and development (R&amp;D) was also significantly strengthened in 2017 with an increase of 31%.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>Forskning og utvikling (FoU) ble i 2017 vesentlig styrket med en oppgang p&#229; 31 %.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">1.33221</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>&#8220;Hasvold was an incredibly creative and versatile researcher.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>&#8211; Hasvold var en utrolig kreativ og allsidig forsker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">1.43351</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>He has also been head of the Norwegian Task Group and the Coastal Squadron.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Han har dessuten v&#230;rt sjef for Norwegian Task Group og Kysteskadren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">2.41307</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>In 2018, six Hugin submarines were used in the search for Malaysia Airlines Flight MH370, which disappeared en route from Kuala Lumpur to Beijing with 239 people on board in March 2014.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>I 2018 ble seks Hugin-ub&#229;ter brukt i leting etter Malaysia Airlines rute MH370, som forsvant p&#229; vei fra Kuala Lumpur til Beijing med 239 mennesker om bord i mars 2014.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">3.0598</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/research/scientists/kristian-atland</prop>
+     <seg>Since 2002, he has worked as a research fellow at the Norwegian Defence Research Establishment (FFI).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/forskning/forskere/kristian-atland</prop>
+     <seg>Siden 2002 har han v&#230;rt ansatt som forsker ved Forsvarets forskningsinstitutt (FFI).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.19375</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>The B&#230;rums-born Tronstad had started out as a chemist.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>B&#230;rums-gutten Tronstad hadde startet som kjemiker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">2.91548</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>On a cold winter day in 2001, Hugin was finally going show what it was capable of in a defence context.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>En kald vinterdag i 2001 skulle Hugin endelig f&#229; vise hva den kunne i forsvarssammenheng.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">3.99231</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Tove Kristin M&#248;rch Johansen has held her current position since 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Tove Kristin M&#248;rch Johansen har v&#230;rt leder for avdelingen siden 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.23419</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>&#8220;The Hugin Project shows how well it is possible to cooperate across departments and between various enterprises if the conditions are facilitated and everyone has a common objective&#8221;, says St&#248;rkersen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>&#8211; Hugin-prosjektet viser hvor godt det er mulig &#229; samarbeide p&#229; tvers av avdelingsgrenser og mellom ulike bedrifter hvis forholdene legges til rette for det og alle har en felles m&#229;lsetning, sier St&#248;rkersen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">1.8382</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>&#8220;We needed 20 litres of seawater to pass through the battery every second in order for it to produce enough power to propel the vehicle through the water.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>&#8211; Vi m&#229;tte ha 20 liter sj&#248;vann gjennom batteriet hvert sekund for at det skulle produsere nok str&#248;m til &#229; gi farkosten framdrift gjennom vannet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.02143</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/research/russian-military-strategy-and-decision-making</prop>
+     <seg>The Armed Forces and the Norwegian government therefore require in-depth knowledge of the developments in Russian defence and security policy, and FFI supports these efforts through a separate research project.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/forskning/prosjekter/russisk-militaer-strategi-og-beslutningstaking</prop>
+     <seg>Forsvaret og norske myndigheter har derfor behov for inng&#229;ende kunnskap om utviklingen i russisk forsvars- og sikkerhetspolitikk, og FFI underst&#248;tter dette gjennom et eget forskningsprosjekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.96602</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Yngvar Lundh convinced FFI Director of Research Finn Lied and Research Director Karl Holberg to go along with the idea.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Yngvar Lundh fikk FFI-direkt&#248;r Finn Lied og forskningssjef Karl Holberg med p&#229; ideen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">4.73867</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>This commenced in 1972 and continued for ten years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Dette p&#229;gikk i ti &#229;r fra 1972.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.17128</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>bilities and the capability to coordinate the use of military and percent target from 2014 has resulted in additional political</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>Natos to prosent-m&#229;l fra 2014 har f&#248;rt til at flere milit&#230;re evne og evnen til &#229; koordinere bruken av milit&#230;re og politiske partier &#248;nsker &#229; &#248;ke satsingen p&#229; Forsvaret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">1.74194</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Thor Eng&#248;y is a principal scientist at FFI.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Thor Eng&#248;y er sjefsforsker ved FFI.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">2.14003</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>(Used with permission from C&amp;C Technologies and BP)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>(Gjengitt med tillatelse fra C&amp;C Technologies og BP)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.01923</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>The network via this protocol was the foundation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Nettverket via denne protokollen var basis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">3.58991</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Simrad (Kongsberg Simrad from 1997, now known as Kongsberg Maritime) is the envisaged manufacturer.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Simrad (fra 1997 Kongsberg Simrad, i dag Kongsberg Maritime) er tiltenkt som produsent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.25714</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>His areas of expertise are electronics, communication, microwave technology and electro-optics.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Fagomr&#229;dene hans er elektronikk, kommunikasjon, mikrob&#248;lgeteknikk og elektrooptikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1.34805</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/privacy-policy</prop>
+     <seg>Apsis One &#8211; a service analysing user behaviour on ffi.no.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/personvernerklaering</prop>
+     <seg>Apsis One &#8211; tjeneste som analyserer brukeradferd p&#229; nettstedet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.12896</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>Perhaps we need to visions of the future have been discussed &#8211; and exaggerated &#8211;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>slike framtidsvyer har v&#230;rt omtalt &#8211; og hausset opp &#8211; i mange</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">1.35413</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>With the funds from the Intelligence Staff, they develop AUV Demo (Autonomous Underwater Vehicle) &#8211; a shiny yellow test submarine, and a system to transmit control commands down to the submarine using acoustic communication (noise signals).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Med midlene fra Etteretningsstaben utvikler de AUV Demo (Autonomous Undervater Vehicle) &#8211; en skinnende gul test-ub&#229;t, og et system for &#229; sende styrekommandoer ned til ub&#229;ten med akustikk (lydsignaler).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">5.775</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Member of the Board since 2018</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Medlem av styret siden 2018</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">5.35385</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Mr. H&#248;ydal joined FFI in 1991.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Tor-Odd H&#248;ydal har arbeidet ved FFI siden 1991.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">1.8961</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>FFI has the main responsibility for the development.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>FFI har hovedansvar for utviklingen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.11538</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>This applies both to materiel</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>Dette gjelder b&#229;de for materiell og for evnen til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">1.59872</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>The X400 standard for communication of messages became essential.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>X400-standarden for meldingsformidling ble n&#248;dvendig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">1.38453</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The battery FFI used in AUV Demo was a seawater battery.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Batteriet FFI brukte i AUV Demo var et sj&#248;vannsbatteri.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">1.15332</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>This indicates increased levels of competition for the Norwegian defence companies in the domestic market.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>Som i fjor er det en vesentlig &#248;kning i eksport, hvilket ogs&#229; &#248;ker eksportandelen i forhold til samlede omsetningstall.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">4.18</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Mr. Pettersen has held his current position since 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Pettersen har v&#230;rt leder for avdelingen siden 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.96714</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Larry completed his PhD work at the Massachusetts Institute of Technology (MIT).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Larry fullf&#248;rte doktorgradsarbeidet sitt ved Massachusetts Institute of Technology (MIT).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">1.25345</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>A few months later, they decide to upgrade KNM Karm&#248;y for Hugin runs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>F&#229; m&#229;neder etter beslutter de &#229; oppgradere KNM Karm&#248;y for Hugin-kj&#248;ringer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">5.60175</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>NATO and the Warsaw Pact were rivals for 44 years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>I 44 &#229;r rivaliserte Nato og Warszawapakten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">6.85312</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>The 2017 Land Power Study recommends</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>Landmaktsutredningen fra 2017 anbefaler</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">1.125</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>Now, he had to plan its sabotage.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>N&#229; m&#229;tte han planlegge sabotasjen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">4.92057</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>FFI&#8217;s journalist &#216;ystein Hagen interviewed Spilling 30 years later.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>FFIs journalist &#216;ystein Hagen intervjuet Spilling 30 &#229;r seinere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">4.48182</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Larry Roberts and his second-in-command, Bob Kahn, visited Kjeller in the summer of 1972.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Larry Roberts og nestkommanderende Bob Kahn bes&#248;kte Kjeller sommeren 1972.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.09049</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/research/scientists/kristian-atland</prop>
+     <seg>Many of his recent publications focus on security issues in the High North/Arctic.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/forskning/forskere/kristian-atland</prop>
+     <seg>Nylig forskning fokuserer p&#229; sikkerhetspolitikk i Nordomr&#229;dene/Arktis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">2.29404</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>In 1997, Statoil organised an operation to see how well Hugin could map the seafloor compared to a traditional survey submarine controlled from an operator ship via a cable (ROV).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>I 1997 arrangerte Statoil en operasjon for &#229; se hvor godt Hugin kunne kartlegge havbunnen sammenlignet med en tradisjonell survey-ub&#229;t styrt fra et operat&#248;rskip med kabel (ROV).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">1.36591</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>We didn&#8217;t sell it as an autonomous submarine.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Vi solgte det ikke inn som en autonom ub&#229;t.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.22059</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>In addition, Mr. Pettersen holds a Master in technology management and innovation from the Norwegian Institute of Technology (NTNU), Norwegian School of Economics (NHH) and Massachusetts Institute of Technology (MIT).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Pettersen har ogs&#229; en mastergrad i teknologiledelse og innovasjon fra Norges tekniske h&#248;gskole (NTNU), Norges Handelsh&#248;yskole (NHH) og Massachusetts Institute of Technology (MIT) i USA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">1.18108</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>military defence, but also a good cross-sectoral cooperation &#8211;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>svar, vi m&#229; ogs&#229; ha godt samarbeid p&#229; tvers av sektorer &#8211; med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">2.94457</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Elin Margrethe B&#248;hler is Senior Researcher at FFI, where she has been employed since 2000 as researcher and assignment manager.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Elin Margrethe B&#248;hler er seniorforsker ved FFI, der hun har jobbet siden 2000 som forsker og oppdragsleder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">1.46186</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>if reducing the signal power to 5 W. Capacity increase may be obtained by utilising more</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>Kapasiteten reduseres til om lag det halve med en signaleffekt p&#229; 5 W. Kapasiteten kan</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">1.55771</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>The concentrations of copper in the demolition area in &#216;yradalen were higher than at the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>Resultatene viser at konsentrasjonen av kobber i demoleringsfeltet i &#216;yradalen var forh&#248;yet i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">3.45113</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>He was Norway&#8217;s Defence Attach&#233; to the United States and Canada from 2010 to 2014.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Han var Norges forsvarsattach&#233; til USA og Canada fra 2010 til 2014.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">2.02714</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>It can operate autonomously at depths down to 6000 metres, without a physical connection to a boat or remote control from the surface.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Den kan operere p&#229; egen h&#229;nd ned til 6000 meters dyp, uten fysisk forbindelse til en b&#229;t eller fjernkontroll fra overflaten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">1.11099</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>They sent one another emails.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>De sendte e-post til hverandre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">3.81937</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Mr. H&#248;ydal has held his current position since March 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>H&#248;ydal har v&#230;rt leder for avdelingen siden mars 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">1.26471</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The man with the distinct eyebrows is named Per Thoresen and is a Research Director at FFI.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Mannen med de markante brynene heter Per Thoresen og er forskningssjef ved FFI.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">1.78065</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>P&#229;l Spilling also took a business trip to their network friends at University College of London (UCL) and later to Stanford University in the United States.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Ogs&#229; P&#229;l Spilling dro p&#229; forskningsbes&#248;k til nettvennene, f&#248;rst til University College of London (UCL), og senere til Stanford University i USA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">3.88085</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Here, the seafloor is up to 1500 metres below sea level.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Havbunnen her ligger opptil 1500 meter under overflaten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">2.47429</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>He has a varied and extensive experience from various boards and committees, for example as Chair of the Board at NTNU Technology Transfer AS (2021&#8211;) and Chair of the Board at Innovation Norway (2018&#8211;).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Han har bred erfaring fra styrer og verv, blant annet som styreleder ved NTNU Technology Transfer AS (2021&#8211;) og styreleder i Innovasjon Norge (2018&#8211;).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">1.1775</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>He wanted more extensive work on the Internet.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Han ville ha mer omfattende satsing p&#229; Internett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">1.17885</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>The ability to utilise new technology will be crucial also in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>Evnen til &#229; ta i bruk ny teknologi vil v&#230;re avgj&#248;rende ogs&#229; i realiseres p&#229; slagmarken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">1.00625</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Thus, the contributions of FFI researchers were an important step on the path toward the Internet.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Slik ble FFI-forskernes bidrag et viktig steg p&#229; veien til internettet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">2.48239</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>In 1999, Kongsberg Simrad succeeded in winning a contract for the sale of a HUGIN vehicle to the U.S. survey services company C&amp;C Technologies.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>I 1999 lyktes Kongsberg Simrad &#229; vinne en kontrakt for salg av en HUGIN-farkost til det amerikanske surveyselskapet C&amp;C Technologies.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">1.07318</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Only the party that triggered a nuclear war could win.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Bare den som utl&#248;ste en atomkrig, kunne vinne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">1.12059</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>Will the Armed Forces be capable of utilising such</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>Vil Forsvaret v&#230;re i stand til &#229; ta i bruk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">1.43571</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The quality requirements were strict.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Kvalitetskravene var strenge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">2.54381</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2011</prop>
+     <seg>This report presents statistics for the defense industry in Norway in 2011, and is an annual publication from FFI.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2011</prop>
+     <seg>Rapporten presenterer statistikk over forsvarsindustrien i Norge i 2011, og kommer som en &#229;rlig utgivelse fra FFI.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">1.06722</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>They got the idea to combine the technology of a seawater battery with the technology from another battery that FFI was developing for use on land.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>De fikk ideen om &#229; kombinere teknologien fra et sj&#248;vannsbatteri med teknologi fra et annet batteri som FFI utviklet for landanvendelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">2.02692</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The initial draft of the &#8216;aluminium-hydrogen peroxide&#8217; battery which the two researches jotted down at an airport in the United States was patented and industrialised and was in use in Hugin all the way until 2008.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Det s&#229;kalte aluminium-hydrogenperoksid-batteriet de to forskerne tegnet ned f&#248;rsteutkastet til p&#229; en flyplass i USA, ble patentert og industrialisert og var i bruk p&#229; Hugin helt frem til 2008.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">1.19464</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>strengthened presence in Finnmark, with, among other things, the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>forsterket tilstedev&#230;relse i Finnmark, med blant annet etable-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">1.44644</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Research Director Nils St&#248;rkersen describes FFI&#8217;s plans for an autonomous underwater vehicle.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Forskningsleder Nils St&#248;rkersen forteller om FFIs planer for en autonom undervannsfarkost.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">2.67465</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Grytting has previously been Deputy Commander of the Armed Forces&#8217; operational headquarters in Bod&#248; (2009&#8211;2010) and Chief of the Regional Command of Northern Norway (2005&#8211;2009).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Grytting har tidligere v&#230;rt nestkommanderende for Forsvarets operative hovedkvarter i Bod&#248; (2009&#8211;2010) og sjef for Landsdelskommando Nord-Norge (2005&#8211;2009).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">3.64933</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>different frequency bands have been considered, X, Ku and K/Ka (7.25&#8211;31 GHz).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>frekvensb&#229;nd har blitt vurdert, X, Ku, og K/Ka (7.25&#8211;31 GHz).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">1.66774</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/privacy-policy</prop>
+     <seg>The company Apsis International AB delivers the solution for newsletters and is the data processor for the newsletters.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/personvernerklaering</prop>
+     <seg>Selskapet Apsis International AB leverer l&#248;sningen for nyhetsbrev og er databehandler for nyhetsbrevene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">1.30227</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>He was a professor at NTH.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>Han bar tittelen professor ved NTH.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">1.19459</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>propulsion is used for orbit maintenance.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>Ombordfremdriftssystemet brukes for banevedlikehold.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="170" datatype="Text">
+    <prop type="score-hunalign">2.15385</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>In the period from 1995, there were some intense years during which researchers and engineers worked on developing a control system, navigation and software to process sonar data.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>I perioden fra 1995 fulgte noen intense &#229;r der forskere og ingeni&#248;rer jobbet med &#229; utvikle kontrollsystem, navigering og programvare for &#229; bearbeide sonardata.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="171" datatype="Text">
+    <prop type="score-hunalign">1.14819</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>The increase is due to activities abroad, while the FTEs in Norway are declining.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>&#216;kningen skyldes aktivitet i utlandet, mens sysselsettingen i Norge g&#229;r ned.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="172" datatype="Text">
+    <prop type="score-hunalign">1.12078</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Subsequently, all new Hugin submarines were equipped with lithium-ion batteries.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Heretter blir alle nye Hugin-ub&#229;ter utstyrt med litium-ionbatterier.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="173" datatype="Text">
+    <prop type="score-hunalign">1.11667</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>A great deal of communication and information was sent via Kjeller.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Mye samband og kunnskap gikk via Kjeller.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="174" datatype="Text">
+    <prop type="score-hunalign">1.27</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>satellites in the constellation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>antall satellitter i hvert baneplan.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="175" datatype="Text">
+    <prop type="score-hunalign">3.14571</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>She has held her current position since 2018 and is responsible for the initiation and development of FFIs innovation centre</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Bj&#248;rk har v&#230;rt leder for avdelingen siden 2018 og er ansvarlig for oppbyggingen av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="176" datatype="Text">
+    <prop type="score-hunalign">1.36304</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>The operation also became a popular tele-vision series on Norwegian public broadcaster NRK in 2015.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>&#187; med Kirk Douglas i en b&#230;rende rolle. Aksjonen ble ogs&#229; en popul&#230;r TV-serie p&#229; NRK i 2015.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="177" datatype="Text">
+    <prop type="score-hunalign">1.51556</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Statoil, FFI and Simrad (Kongberg Maritime) now commenced a project to develop an untethered underwater vehicle for detailed, deep-sea seafloor mapping.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Statoil, FFI og Simrad (Kongsberg Maritime) starter n&#229; et prosjekt for &#229; utvikle en kabelfri undervannsfarkost for detaljert sj&#248;bunnskartlegging p&#229; dypt vann.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="178" datatype="Text">
+    <prop type="score-hunalign">1.21818</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>This idea has been difficult to sell, both with management at FFI and in the Norwegian Armed Forces.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Ideen har v&#230;rt vanskelig &#229; selge inn, b&#229;de hos ledelsen ved FFI og i Forsvaret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="179" datatype="Text">
+    <prop type="score-hunalign">1.23571</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Norsar produced daily reports.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Fra Norsar gikk det daglige rapporter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="180" datatype="Text">
+    <prop type="score-hunalign">1.46915</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/research/scientists/kristian-atland</prop>
+     <seg>Kristian &#197;tland holds an MA degree in Russian cultural studies from the University of Oslo and a PhD in political science from the University of Troms&#248;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/forskning/forskere/kristian-atland</prop>
+     <seg>Kristian &#197;tland har en mastergrad i russiske kulturstudier fra Universitetet i Oslo og en doktorgrad i statsvitenskap fra Universitetet i Troms&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="181" datatype="Text">
+    <prop type="score-hunalign">2.70506</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The mini-submarine Hugin is launched to search for Roald Amundsen&#8217;s plane, which disappeared in the Arctic Ocean on 18.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Miniub&#229;ten Hugin sj&#248;settes for &#229; lete etter Roald Amundsens fly, som forsvant i polhavet 18.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="182" datatype="Text">
+    <prop type="score-hunalign">1.35543</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>For the first time, Hugin will show the top brass of the Norwegian Navy that it can detect mines on the seafloor all on its own.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Hugin skal for f&#248;rste gang vise toppene i Sj&#248;forsvaret at den kan oppdage miner p&#229; havbunnen helt p&#229; egen h&#229;nd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="183" datatype="Text">
+    <prop type="score-hunalign">1.25385</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Norway was a strategically important NATO outpost.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Norge var en strategisk viktig utpost i Nato.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="184" datatype="Text">
+    <prop type="score-hunalign">1.14771</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>In order for the Norwegian Armed Forces to be able to utilise Hugin, it was necessary to develop even better navigation systems and better algorithms so that Hugin could act independently based on what it saw and found on the seafloor.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>For at Forsvaret skulle ta i bruk Hugin var det n&#248;dvendig &#229; utvikle enda bedre navigasjonssystemer, bedre sensorer og bedre algoritmer slik at Hugin kunne handle p&#229; egen h&#229;nd ut fra hva den s&#229; og fant p&#229; havbunnen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="185" datatype="Text">
+    <prop type="score-hunalign">1.0462</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The very first miniature model from B&#248;letjern is today sitting in Nils St&#248;rkersen&#8217;s office.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Den aller f&#248;rste miniatyrmodellen fra B&#248;lertjern st&#229;r i dag p&#229; kontoret til Nils St&#248;rkersen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="186" datatype="Text">
+    <prop type="score-hunalign">2.00769</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>is localized in T&#248;njumdalen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>sm&#229;kaliberammunisjon i T&#248;njumdalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="187" datatype="Text">
+    <prop type="score-hunalign">1.63952</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/privacy-policy</prop>
+     <seg>rc::[x2] &#8211; is a cookie from Google used to distinguish humans from robots when submitting a form, protecting ffi.no from spam.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/personvernerklaering</prop>
+     <seg>rc::[x2] &#8211; en cookie fra Google som brukes for &#229; skille mennesker fra roboter ved innsending av skjema og beskytter mot spam.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="188" datatype="Text">
+    <prop type="score-hunalign">3.48742</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Anne Husebekk has served as rector of UiT, The Arctic University of Norway since 2013.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Anne Husebekk har siden 2013 v&#230;rt rektor ved UiT Norges arktiske universitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="189" datatype="Text">
+    <prop type="score-hunalign">1.19024</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>TF was embedded in the government telecommunications monopoly.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>TF var forankret i det statlige telemonopolet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="190" datatype="Text">
+    <prop type="score-hunalign">1.20543</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>They were invited to Washington, partly to see the Arpanet.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>De ble invitert til Washington, blant annet for &#229; se p&#229; Arpanet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="191" datatype="Text">
+    <prop type="score-hunalign">1.46011</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2016</prop>
+     <seg>It should be noted that it is a decline in "revenue from the Norwegian defence" by 5 percent.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2016</prop>
+     <seg>Det b&#248;r bemerkes en ytterligere svekkelse av det norske hjemmemarkedet ved at &#8220;omsetningen fra Forsvaret&#8221; er ned 5 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="192" datatype="Text">
+    <prop type="score-hunalign">1.48333</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>FFI and Kongsberg are cooperating on the development of this system, as well.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>FFI og Kongsberg samarbeider om &#229; utvikle ogs&#229; dette systemet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="193" datatype="Text">
+    <prop type="score-hunalign">1.1504</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>She holds a degree in management, personnel development and working life knowledge from Nord University.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Hun har utdanning fra Nord universitet innenfor ledelse, personalutvikling og arbeidslivskunnskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="194" datatype="Text">
+    <prop type="score-hunalign">4.16154</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>and run times varying from 33 seconds to 33 minutes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>som varierer fra 33 sekunder til 33 minutter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="195" datatype="Text">
+    <prop type="score-hunalign">1.15</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>The other reason was the American Lawrence Roberts, or Larry, as he was known among friends.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Den andre grunnen var Lawrence Roberts &#8211; Larry blant venner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="196" datatype="Text">
+    <prop type="score-hunalign">1.06364</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Hugin has automatically found the four mine dummies that had been deployed in advance.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Hugin har automatisk funnet de fire mineattrappene som er lagt ut p&#229; forh&#229;nd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="197" datatype="Text">
+    <prop type="score-hunalign">5.53021</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Hanne Marit Bj&#248;rk joined FFI in 2001.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Hanne Marit Bj&#248;rk har arbeidet ved FFI siden 2001.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="198" datatype="Text">
+    <prop type="score-hunalign">1.27692</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>&#8220;We had to be conscious of how we described it.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>&#8211; Vi m&#229;te v&#230;re bevisste p&#229; hvordan vi omtalte det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="199" datatype="Text">
+    <prop type="score-hunalign">1.73333</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>In the background is Nils St&#248;rkersen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>I bakgrunnen Nils St&#248;rkersen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="200" datatype="Text">
+    <prop type="score-hunalign">1.42708</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>From there, they continued via satellite to the United States.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Derfra gikk de via satellitt til USA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="201" datatype="Text">
+    <prop type="score-hunalign">1.55196</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>The University College of London (UCL) were then given the opportunity to connect, right behind Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Da fikk University College of London (UCL) muligheten til &#229; koble seg opp, hakk i h&#230;l med Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="202" datatype="Text">
+    <prop type="score-hunalign">1.13314</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>The concentration of metals in soil and water at the demolition areas in T&#248;njumdalen and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>Konsentrasjonen av metaller i jord og vann i destruksjonsomr&#229;dene i T&#248;njumdalen og &#216;rjadalen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="203" datatype="Text">
+    <prop type="score-hunalign">1.39257</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Tveito has previously been employed at Sintef.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Tveito har tidligere arbeidet ved Sintef.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="204" datatype="Text">
+    <prop type="score-hunalign">1.01366</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>An enemy who lacks this, or</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>sikt i et framtidig operasjonsteater.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="205" datatype="Text">
+    <prop type="score-hunalign">1.29455</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>A Walker Star constellation with ten satellites in each of three</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/nanosatellites-in-low-earth-orbits-for-satellite-communications</prop>
+     <seg>En Walker Star-konstellasjon med ti satellitter i hvert av tre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="206" datatype="Text">
+    <prop type="score-hunalign">1.29679</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Kongsberg Simrad (Kongsberg Maritime) was responsible for all electronics, cabling, power systems, acoustic positioning, communication and sensors, and they provided considerable input and funding to the project.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Kongsberg Simrad (Kongsberg Maritime) hadde ansvar for all elektronikk, kabling, powersystemer, akustisk posisjonering, kommunikasjon og sensorer, og de la ned en betydelig egeninnsats og finansiering i prosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="207" datatype="Text">
+    <prop type="score-hunalign">1.04363</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Grytting is educated at the Royal Norwegian Naval Academy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Grytting er utdannet ved Sj&#248;krigsskolen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="208" datatype="Text">
+    <prop type="score-hunalign">1.28065</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>He was one of the Internet pioneers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Han ble en av internett-pionerene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="209" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>They proposed a collaboration on the data network via satellite.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>De foreslo et samarbeid om datanett via satellitt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="210" datatype="Text">
+    <prop type="score-hunalign">1.1395</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Thus, Norsar at Kjeller was established, as a branch of FFI.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Derfor ble Norsar p&#229; Kjeller opprettet, som en avlegger av FFI.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="211" datatype="Text">
+    <prop type="score-hunalign">1.49348</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>This collaboration resulted in the protocols TCP/IP.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Resultatet av samarbeidet var protokollene TCP/IP.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="212" datatype="Text">
+    <prop type="score-hunalign">1.04</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>NavP &#8211; the navigation programme that was developed in order for Hugin to be able to understand where it is underwater, is currently in use in a number of products and underwater vehicles.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>NavP &#8211; navigasjonsprogrammet som ble utviklet for at Hugin skal forst&#229; hvor den er under vann, er i dag i bruk i en rekke produkter og undervannsfarkoster.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="213" datatype="Text">
+    <prop type="score-hunalign">1.37512</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>The research groups that Kjeller researchers joined met frequently.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Forskergruppene som Kjeller-forskerne kom med i, m&#248;ttes ofte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="214" datatype="Text">
+    <prop type="score-hunalign">4.39697</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>This area was established in 1976, and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>omr&#229;det ble etablert i 1976 og har siden blitt benyttet av Forsvaret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="215" datatype="Text">
+    <prop type="score-hunalign">2.58177</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>It should be noted that the small businesses have increased their exports with over 51%.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>Det b&#248;r ogs&#229; bemerkes at de sm&#229; virksomhetene har en &#248;kning i eksport p&#229; 51 %.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="216" datatype="Text">
+    <prop type="score-hunalign">4.08409</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/spermal-was-norwegian-napalm</prop>
+     <seg>There, 100 tonnes of spermal was subsequently produced.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/spermal-var-norsk-napalm</prop>
+     <seg>Der ble det etter hvert produsert 100 tonn spermal.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="217" datatype="Text">
+    <prop type="score-hunalign">2.05714</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Neither Lundh, P&#229;l Spilling nor Finn-Are Aagesen had any idea.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Det kunne verken Lundh, P&#229;l Spilling eller Finn-Are Aagesen vite noe om.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="218" datatype="Text">
+    <prop type="score-hunalign">1.9725</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2015</prop>
+     <seg>It should be noted that it is a decline in "revenue from the Norwegian defence" by 11 %.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2015</prop>
+     <seg>Det b&#248;r bemerkes en svekkelse av det norske hjemmemarkedet ved at &#8220;omsetningen fra Forsvaret&#8221; er ned 11 %.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="219" datatype="Text">
+    <prop type="score-hunalign">1.03038</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Her expertise and areas of responsibility are linked to rapid defence innovation and technology development, including commercialization from research and industrial development.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Hennes ekspertise og ansvarsomr&#229;de er knyttet til innovasjon og teknologiutvikling, herunder kommersialisering fra forskning og industriutvikling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="220" datatype="Text">
+    <prop type="score-hunalign">1.04178</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/research/russian-military-strategy-and-decision-making</prop>
+     <seg>In this manner, we can concretise the significance Russia will have for Norway and NATO in the forthcoming years and determine the course of the defence of the future.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/forskning/prosjekter/russisk-militaer-strategi-og-beslutningstaking</prop>
+     <seg>Slik kan vi konkretisere betydningen Russland vil ha for Norge og Nato i &#229;rene som kommer, og legge premisser for utformingen av framtidas forsvar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="221" datatype="Text">
+    <prop type="score-hunalign">3.83115</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>He completed the Information Course at the Norwegian National Defence College in 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Han gjennomf&#248;rte informasjonskurset ved Forsvarets h&#248;gskole i 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="222" datatype="Text">
+    <prop type="score-hunalign">3.3</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>The Internet, as we know it today, was given its name in 1983.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Internett, slik vi bruker det i dag, fikk navnet sitt i 1983.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="223" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>we can mention threats in cyberspace, chemical and biological</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>kan vi nevne trusler i det digitale rom, kjemiske og biologiske</seg>
+    </tuv>
+   </tu>
+   <tu tuid="224" datatype="Text">
+    <prop type="score-hunalign">1.57321</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Or from the rest of the world.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Eller fra resten av kloden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="225" datatype="Text">
+    <prop type="score-hunalign">1.96619</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>These factors helped enable Norway to become the first international member of the Arpanet (ARPA &#8211; Defence Advanced Research Projects Agency).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Disse faktorene bidro til at Norge ble f&#248;rste internasjonale medlem i Arpanet (ARPA &#8211; Defence Advanced Research Projects Agency).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="226" datatype="Text">
+    <prop type="score-hunalign">1.58571</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>This was the precursor to FFI.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>Dette var forl&#248;peren til FFI.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="227" datatype="Text">
+    <prop type="score-hunalign">3.4492</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>What has been FFI's contributions these 75 years?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>Hva har vi bidratt med p&#229; disse 75 &#229;rene?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="228" datatype="Text">
+    <prop type="score-hunalign">1.78636</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The story of Hugin &#8211; an autonomous underwater vehicle</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Historien om Hugin &#8211; en autonom undervannsfarkost</seg>
+    </tuv>
+   </tu>
+   <tu tuid="229" datatype="Text">
+    <prop type="score-hunalign">1.27</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>A technological strategy for Norway&#8217;s connection with Arpanet was devised.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>En teknologisk strategi for Norges tilslutning til Arpanet ble lagt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="230" datatype="Text">
+    <prop type="score-hunalign">1.17209</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>The development of the entire Armed Forces must be</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>Utviklingen av hele Forsvaret m&#229; sees i lys av dette nye</seg>
+    </tuv>
+   </tu>
+   <tu tuid="231" datatype="Text">
+    <prop type="score-hunalign">1.49063</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>They probably viewed the AUV technology as a threat&#8221;, St&#248;rkersen recalls.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>De s&#229; antakeligvis p&#229; AUV-teknologien som en trussel, minnes St&#248;rkersen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="232" datatype="Text">
+    <prop type="score-hunalign">1.03889</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Physicist and computer scientist P&#229;l Spilling had fun at work.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Fysikeren og informatikeren P&#229;l Spilling hadde det moro p&#229; jobb.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="233" datatype="Text">
+    <prop type="score-hunalign">1.25882</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Aagesen was the third key Norwegian in the Arpanet efforts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Aagesen var den tredje sentrale nordmannen i Arpanet-arbeidet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="234" datatype="Text">
+    <prop type="score-hunalign">1.51634</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/privacy-policy</prop>
+     <seg>rc::b &#8211; is a cookie from Google used to distinguish humans from robots when submitting a form, protecting ffi.no from spam.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/personvernerklaering</prop>
+     <seg>rc::b &#8211; en cookie fra Google som brukes for &#229; skille mennesker fra roboter ved innsending av skjema og beskytter mot spam.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="235" datatype="Text">
+    <prop type="score-hunalign">1.30514</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>The Norwegian Government-in-exile appointed Tronstad head of the Technical Committee in the Norwegian High Command (FOTU).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>Den norske eksilregjeringen gjorde Tronstad til leder for Forsvarets overkommandos tekniske utvalg (FOTU).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="236" datatype="Text">
+    <prop type="score-hunalign">1.09321</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>In London, he was affiliated with the Norwegian High Command and held the rank of Major.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>I London var han knyttet til Forsvarets Overkommando, med majors rang.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="237" datatype="Text">
+    <prop type="score-hunalign">4.17805</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Mr. Sparr has held his current position since 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Sparr har v&#230;rt leder for avdelingen siden 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="238" datatype="Text">
+    <prop type="score-hunalign">3.08095</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>She has 20 years of experience with R&amp;D related to defence and energy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Hun har 20 &#229;rs erfaring med forskning og utvikling innenfor forsvar og energi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="239" datatype="Text">
+    <prop type="score-hunalign">2.36289</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2011</prop>
+     <seg>Many of the figures are split between civilian and military activity, also including the development since 2009.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2011</prop>
+     <seg>For flere av disse tallene har vi ogs&#229; skilt mellom forsvarsrelatert og sivilt rettet virksomhet, samt utviklingen siden 2009.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="240" datatype="Text">
+    <prop type="score-hunalign">1.03302</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/strategy/_/attachment/download/4f413ee5-0490-46ab-ab81-5a7e9d573f06:acfbe979c41b73cee63d9e8528cf5bd0c32403f8/OUTLOOK%20Research%20Plan%20part%201%202019-2022%20skjerm.pdf.converted</prop>
+     <seg>itself wants, as well as developments in other parts of the world.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/vare-tjenester/radgiving/_/attachment/download/3a539ffb-f149-4d27-9d85-597f48e20186:5b009eea80652d15c3276a473255bbc3a18fefa6/UTSYN_forskningsplanDel1_2019-2022.pdf.converted</prop>
+     <seg>st&#248;tten avhenger av hva USA selv &#248;nsker og utviklingen i andre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="241" datatype="Text">
+    <prop type="score-hunalign">1.325</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/made-in-england</prop>
+     <seg>This would come to benefit Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/made-in-england-historien-bak-ffi</prop>
+     <seg>Det skulle vise seg &#229; komme Norges sak til gode.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="242" datatype="Text">
+    <prop type="score-hunalign">1.15992</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>The packets had information in the address field that could reorder the information back into a single file.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Pakkene hadde informasjon i adressefeltet som gjorde at helheten kunne gjenopprettes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="243" datatype="Text">
+    <prop type="score-hunalign">1.01471</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>He compared this to the rivalry between Microsoft and UNIX.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Han sammenliknet det gjerne med duellen mellom Microsoft og UNIX.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="244" datatype="Text">
+    <prop type="score-hunalign">2.06612</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>During a demonstration in May 1993, AUV Demo swims 109 nautical miles in Skagerrak with only &#8220;a few mishaps&#8221;, as it is stated in the report at the time.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Under en demonstrasjon i mai 1993 sv&#248;mmer AUV Demo 109 nautiske mil i Skagerrak med kun &#171;et par uhell&#187;, som det heter i rapportene fra den gang.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="245" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/privacy-policy</prop>
+     <seg>_cfduid &#8211; is used to distinguish individual users with the same IP address from each other.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/personvernerklaering</prop>
+     <seg>_cfduid &#8211; brukes for &#229; skille individuelle brukere med samme IP-adresse fra hverandre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="246" datatype="Text">
+    <prop type="score-hunalign">4.00769</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>In 2008 FFI recommended that this area should be included in the monitoring</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/overvaking-av-tungmetallforurensning-ved-forsvarets-destruksjonsanlegg-for-ammunisjon-i-laerdal-kommune-resultater-for-2020</prop>
+     <seg>I 2008 anbefalte FFI at ogs&#229; dette omr&#229;det ble</seg>
+    </tuv>
+   </tu>
+   <tu tuid="247" datatype="Text">
+    <prop type="score-hunalign">3.27692</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2010</prop>
+     <seg>This report presents statistics for the defence industry in Norway in 2010.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2010</prop>
+     <seg>Denne rapporten presenterer statistikk over forsvarsindustrien i Norge i 2010.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="248" datatype="Text">
+    <prop type="score-hunalign">1.48537</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>With Statoil on board, development gained speed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Med Statoil p&#229; laget ble det fart i utviklingen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="249" datatype="Text">
+    <prop type="score-hunalign">2.74473</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>The category of co-financed R&amp;D increases the most (by 42%).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2017</prop>
+     <seg>Det er oppgang i alle kategorier, men samfinansiert FoU &#248;ker mest med 42 %.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="250" datatype="Text">
+    <prop type="score-hunalign">4.19375</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>It lasted until the Internet was commercialised in 1993.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Den varte inntil Internett ble kommersialisert i 1993.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="251" datatype="Text">
+    <prop type="score-hunalign">1.57995</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/privacy-policy</prop>
+     <seg>rc::d-# &#8211; is a cookie from Google used to distinguish humans from robots when submitting a form, protecting ffi.no from spam.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/personvernerklaering</prop>
+     <seg>rc::d-# &#8211; en cookie fra Google som brukes for &#229; skille mennesker fra roboter ved innsending av skjema og beskytter mot spam.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="252" datatype="Text">
+    <prop type="score-hunalign">1.1456</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>It allows researchers and modem manufacturers to develop, test and compare algorithms for the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>tillater forskere og modemprodusenter &#229; utvikle, teste og sammenligne algoritmer for det</seg>
+    </tuv>
+   </tu>
+   <tu tuid="253" datatype="Text">
+    <prop type="score-hunalign">2.22388</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>All important information was documented in RFCs (Request for Comments).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>All viktig informasjon ble dokumentert i RFC-er (Request for Comments).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="254" datatype="Text">
+    <prop type="score-hunalign">1.00125</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>Both knew that if the enemy had the opportunity to respond to the attack, all life on earth would be threatened.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Begge visste at dersom fienden fikk mulighet til &#229; svare p&#229; angrepet, var livet p&#229; jorda truet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="255" datatype="Text">
+    <prop type="score-hunalign">2.18837</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>She has extensive experience as a member and Chair of various boards, for example as Chair of the Board at UiT (2013&#8211;), Chair of the Board of the Centre for the Ocean and the Arctic (2018&#8211;) as well as Deputy Chair of the Board of the Norwegian Defence University College (NDUC) (2020&#8211;).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Hun har bred erfaring fra styrer og verv, blant annet som leder av styret ved UiT (2013&#8211;), leder av styringsgruppen i Senter for hav og Arktis (2018&#8211;) og nestleder i styret for Forsvarets h&#248;gskole (2020&#8211;).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="256" datatype="Text">
+    <prop type="score-hunalign">1.16235</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>Since then, Kongsberg Maritime has sold a number of HUGIN vehicles to international survey services companies.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Kongsberg Maritime har siden solgt en rekke HUGIN-fart&#248;yer til internasjonale survey-selskaper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="257" datatype="Text">
+    <prop type="score-hunalign">1.27717</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The old seawater battery from AUV Demo is not effective enough to power an AUV for seafloor mapping purposes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Det gamle sj&#248;vannsbatteriet fra AUV Demo klarer ikke &#229; levere nok effekt til &#229; drive en AUV for sj&#248;bunnskartlegging.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="258" datatype="Text">
+    <prop type="score-hunalign">2.43175</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>The man that pressed the keys of the very first TIP (Terminal Interface Processor) outside the United States, at the Norsar premises on this day in June 1973, realised how important this could become.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Mannen som tastet p&#229; den aller f&#248;rste utenfor-amerikanske TIP-en (Terminal Interface Processor) i Norsar-lokalene denne junidagen i 1973 inns&#229; kanskje hvor viktig dette kunne bli.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="259" datatype="Text">
+    <prop type="score-hunalign">2.61272</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>3D visualisation of seafloor data from Sigsbee Escarpment at depths of 1200-2300 metres The Gulf of Mexico &#8211; one of Hugin&#8217;s first assignments for the oil industry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>3D-visualisering av bunndata fra Sigsbee Escarpment p&#229; 1200-2300 meters dybde Mexico-gulfen &#8211; ett av Hugins f&#248;rste oppdrag for oljeindustrien.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="260" datatype="Text">
+    <prop type="score-hunalign">2.79595</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>It turns out that the cup of coffee FFI offers Statoil in 1993, is a very well-timed cup.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Det viser seg at kaffekoppen FFI tilbyr Statoil i 1993 er en meget godt timet kaffekopp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="261" datatype="Text">
+    <prop type="score-hunalign">1.22308</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Andr&#233; Pettersen is acting Director of the Strategic Development and Corporate Governance Division.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Andr&#233; Pettersen er konstituert direkt&#248;r ved avdeling Strategisk utvikling og virksomhetsstyring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="262" datatype="Text">
+    <prop type="score-hunalign">1.37424</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>The project is now the engine for further development of Hugin.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>Prosjektet er n&#229; selve lokomotivet i videreutviklingen av Hugin.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="263" datatype="Text">
+    <prop type="score-hunalign">1.13967</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/the-story-of-hugin--an-autonomous-underwater-vehicle</prop>
+     <seg>They don&#8217;t yet know it, but this model will become the precursor to one of Norway&#8217;s greatest high-tech export success stories.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/historien-om-hugin--en-autonom-undervannsfarkost</prop>
+     <seg>De vet det ikke enn&#229;, men denne modellen skal bli forl&#248;peren til en av Norges st&#248;rste h&#248;yteknologiske eksportsuksesser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="264" datatype="Text">
+    <prop type="score-hunalign">1.57304</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/executive-group</prop>
+     <seg>Tove Kristin M&#248;rch Johansen is acting Director of the Operation and Support Division.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/instituttledelsen</prop>
+     <seg>Tove Kristin M&#248;rch Johansen er konstituert direkt&#248;r for avdeling Drift og st&#248;tte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="265" datatype="Text">
+    <prop type="score-hunalign">2.41765</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2010</prop>
+     <seg>Furthermore, the report will also present the development of the defence firms on these areas since 2009.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2010</prop>
+     <seg>I tillegg blir det presentert hvordan forsvarsbedriftene har utviklet seg p&#229; disse omr&#229;dene siden 2009.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="266" datatype="Text">
+    <prop type="score-hunalign">1.17164</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>from different environments and frequency bands, either for own use or for general distribution,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>omgivelser og frekvensb&#229;nd, enten for eget bruk eller for generell distribusjon, avhengig av tredje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="267" datatype="Text">
+    <prop type="score-hunalign">1.37658</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/military-use-of-space-wp1-space-based-geospatial-intelligence</prop>
+     <seg>This is a final report that summarizes the work done in WP1 &#8220;Space-based geospatial information&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/military-use-of-space-wp1-space-based-geospatial-intelligence</prop>
+     <seg>Dette er en sluttrapport som oppsummerer arbeidet som er gjort i arbeidspakke 1 &#8220;Space-based geospatial information&#8221;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="268" datatype="Text">
+    <prop type="score-hunalign">1.51656</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/forsvarsindustrien-i-norge-statistikk-2011</prop>
+     <seg>Key figures include revenues, man-labor years, value added, export, research and development (R&amp;D) and sub-contracts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/forsvarsindustrien-i-norge-statistikk-2011</prop>
+     <seg>N&#248;kkeltallene omfatter blant annet omsetning, &#229;rsverk, eksport, verdiskaping, forskning og utvikling (FoU) og innkj&#248;pskostnader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="269" datatype="Text">
+    <prop type="score-hunalign">3.14796</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Aslak Tveito is Director of Simula Research Laboratory (2002&#8211;) and professor of numeric calculations at University of Oslo (1994&#8211;).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Aslak Tveito er leder av Simulasenteret (2002&#8211;) og professor i numeriske beregninger ved Universitetet i Oslo (1994&#8211;).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="270" datatype="Text">
+    <prop type="score-hunalign">1.35933</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/publications-archive/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>Watermark is programmed in MATLAB and can be used under the Windows</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/publikasjoner/arkiv/the-watermark-manual-and-users-guide-version-1.0</prop>
+     <seg>Watermark er programmert i MATLAB og kan brukes under operativsystemene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="271" datatype="Text">
+    <prop type="score-hunalign">1.29595</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/news/from-the-us-to-ffi-kjeller-was-first-online</prop>
+     <seg>This became a sort of ice age for Norwegian Internet involvement on the research front.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/aktuelt/nyheter/kjeller-var-forst-pa-nett</prop>
+     <seg>Slik ble det nesten en istid for norsk internett-engasjement p&#229; forskningsfronten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="272" datatype="Text">
+    <prop type="score-hunalign">1.11171</prop>
+    <prop type="score-bicleaner">0.686</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.ffi.no/en/about-ffi/organisation-and-top-management/ffi-board</prop>
+     <seg>Eng&#248;y has worked with measuring radioactive pollution and testing radiation detectors, and has extensive experience from military environmental cooperation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.ffi.no/om-ffi/organisasjon-og-ledelse/styret</prop>
+     <seg>Eng&#248;y har blant annet arbeidet med m&#229;ling av radioaktiv forurensning og testing av str&#229;lingsdetektorer, og har dessuten lang erfaring fra milit&#230;rt milj&#248;samarbeid.</seg>
+    </tuv>
+   </tu>
+ </body>
+</tmx>

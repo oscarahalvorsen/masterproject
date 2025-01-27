@@ -1,0 +1,370 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T064834" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.7925</prop>
+    <prop type="score-bicleaner">0.615</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nmbu.no/forskning/disputaser/pressemeldinger/node/23612</prop>
+     <prop type="source-document">https://www.nmbu.no/forskning/disputaser/pressemeldinger/node/23612</prop>
+     <seg>ved NMBU Veterin&#230;rh&#248;gskolen med avhandlingen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/forskning/disputaser/pressemeldinger/node/22614</prop>
+     <prop type="source-document">https://www.nmbu.no/forskning/disputaser/pressemeldinger/node/22614</prop>
+     <seg>ved NMBU Veterin&#230;rh&#248;gskolen med avhandlinga</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.62905</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/milj-rsrapport-2020</prop>
+     <seg>Ledelsen ved NMBU disponerer i dag to elbiler som de kan bruke p&#229; m&#248;ter i n&#230;romr&#229;det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/miljotiltak</prop>
+     <seg>Leiinga ved NMBU disponerer i dag to elbilar som dei kan bruka p&#229; m&#248;te i n&#230;romr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.78636</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/ans/valentina.zivanovic</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/oyvind.mathisen</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/olga.mikhailova</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/maria.stokstad</prop>
+     <prop type="source-document">http://www.nmbu.no/ans/knut.bjorn.stokke</prop>
+     <prop type="source-document">http://www.nmbu.no/ans/maria.stokstad</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/knut.bjorn.stokke</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/camilla-lorange.lindberg</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/solve.barug</prop>
+     <seg>Forskning &amp; prosjekt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/med/valentina.zivanovic</prop>
+     <prop type="source-document">http://www.nmbu.no/med/knut.bjorn.stokke</prop>
+     <prop type="source-document">https://www.nmbu.no/med/oyvind.mathisen</prop>
+     <prop type="source-document">https://www.nmbu.no/med/olga.mikhailova</prop>
+     <prop type="source-document">https://www.nmbu.no/med/solve.barug</prop>
+     <prop type="source-document">https://www.nmbu.no/med/camilla-lorange.lindberg</prop>
+     <prop type="source-document">https://www.nmbu.no/med/maria.stokstad</prop>
+     <seg>Forsking &amp; prosjekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.61278</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/emne/JUS332?studieaar=2021</prop>
+     <seg>Studentene skal ved hjelp av juridisk metode v&#230;ra i stand til &#229; bruke de ulike jordskifteprosessuelle reglene det blir undervist i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/JUS332?studieaar=2015</prop>
+     <seg>-Studentane skal ved hjelp av juridisk metode vera i stand til &#229; bruke dei ulike jordskifteprosessuelle reglane det blir undervist i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.28235</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/emne/bus323?studieaar=2021</prop>
+     <seg>produksjon og forbruk av r&#229;varer globalt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/HFX133?studieaar=2019</prop>
+     <seg>Fr&#229; ekstensiv til intensiv produksjon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.64428</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/forskning/disputaser/pressemeldinger/tidliger/2016/node/28925</prop>
+     <seg>ved NMBU &#8211; Norges milj&#248;- og biovitenskapelige universitet med avhandlingen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/forskning/disputaser/pressemeldinger/node/27128</prop>
+     <seg>ved NMBU &#8211; Noregs milj&#248;- og biovitskaplege universitet med avhandlinga</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.20128</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/milj-rsrapport-2020</prop>
+     <seg>Det har ogs&#229; v&#230;rt et eget h&#248;ringsm&#248;te hvor ansatte og studenter kunne komme med forbedringspunkter i &#197;s og internt p&#229; campus.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/miljotiltak</prop>
+     <seg>Det har &#242;g vore eit eige h&#248;yringsm&#248;te, kor tilsette og studentar kunne komma med betringspunkt i &#197;s og internt p&#229; campus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.72868</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/milj-rsrapport-2020</prop>
+     <seg>For &#229; markere oppstart og spre det glade budskap om sykling, arrangerte &#197;s kommune og NMBU sykkeldag i &#197;s sentrum medio april.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/miljotiltak</prop>
+     <seg>For &#229; markera oppstart og spreia den glade bodskapen om sykling, arrangerte &#197;s kommune og NMBU sykkeldag i &#197;s sentrum medio april.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.9193</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/forskning/disputaser/pressemeldinger/node/23896</prop>
+     <seg>ved NMBU &#8211; Norges milj&#248;- og biovitenskapelige universitet med avhandlingen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/forskning/disputaser/pressemeldinger/node/26741</prop>
+     <seg>ved Noregs milj&#248;- og biovitskaplege universitet med avhandlinga</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.4</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nmbu.no/fakultet/mina/student/yrkeseksempler/-kologi/arkiv-ecol/node/39265</prop>
+     <prop type="source-document">https://www.nmbu.no/fakultet/mina/student/yrkeseksempler/-kologi/arkiv-ecol/node/39265</prop>
+     <seg>Kan du fortelle litt om din n&#229;v&#230;rende jobb?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/fakultet/mina/student/yrkeseksempler/-kologi/arkiv-ecol/node/22857</prop>
+     <seg>Kan du fortelja litt om din noverande jobb?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.07346</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/milj-rsrapport-2020</prop>
+     <seg>BygdeBike SB var i utgangspunktet en studentbedrift ved Norges milj&#248;- og biovitenskapelige universitet (NMBU) som ville f&#229; til et unikt sykkeldelingssystem p&#229; &#197;s.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/miljotiltak</prop>
+     <seg>BygdeBike SB var i utgangspunktet ei studentbedrift ved Noregs milj&#248;- og biovitskaplege universitet (NMBU) som ville f&#229; til eit unikt sykkeldelingssystem p&#229; &#197;s.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.09625</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/emne/JUS332?studieaar=2021</prop>
+     <seg>Studentene skal ha en god forst&#229;else av de jordskifteprosessuelle emnene det blir undervist i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/JUS332?studieaar=2015</prop>
+     <seg>-Studentane skal ha ei god forst&#229;ing av dei jordskifteprosessuelle emna det blir undervist i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.79189</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/ans/sigrid.lykkjen</prop>
+     <prop type="source-document">http://www.nmbu.no/ans/solveig.strangstadstuen</prop>
+     <prop type="source-document">http://www.nmbu.no/ans/sigrid.lykkjen</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/jorunn.ostbo</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/bjorn.wormstrand</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/maria.stokstad</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/hilde.nikoline.hambro.dybsand</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/solveig.strangstadstuen</prop>
+     <prop type="source-document">http://www.nmbu.no/ans/maria.stokstad</prop>
+     <prop type="source-document">http://www.nmbu.no/ans/terje.holsen</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/linda.eikaas.lemmens</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/terje.holsen</prop>
+     <seg>Liste med publikasjoner fra min forskning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/med/terje.holsen</prop>
+     <prop type="source-document">https://www.nmbu.no/med/bjorn.wormstrand</prop>
+     <prop type="source-document">https://www.nmbu.no/med/solveig.strangstadstuen</prop>
+     <prop type="source-document">https://www.nmbu.no/med/sigrid.lykkjen</prop>
+     <prop type="source-document">https://www.nmbu.no/med/hilde.nikoline.hambro.dybsand</prop>
+     <prop type="source-document">https://www.nmbu.no/med/linda.eikaas.lemmens</prop>
+     <prop type="source-document">https://www.nmbu.no/med/maria.stokstad</prop>
+     <seg>Liste med publikasjonar fr&#229; min forsking.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/ans/elildo.alves.ribeiro.carvalho.junior</prop>
+     <seg>Stillingskode ikke valgt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/med/elildo.alves.ribeiro.carvalho.junior</prop>
+     <seg>Stillingskode ikkje valt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.51734</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/milj-rsrapport-2020</prop>
+     <seg>Mange transportmidler leveres n&#229; med fornybare energikilder, og det er et &#248;nske at ansatte benytter seg av det i st&#248;rst mulig grad p&#229; jobbreiser.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/miljotiltak</prop>
+     <seg>Mange transportmiddel blir no leverte med fornybare energikjelder, og det er eit &#248;nske at tilsette nyttar seg av det i st&#248;rst mogleg grad p&#229; reiser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.42217</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/utvalg/rsa/mandat</prop>
+     <prop type="source-document">http://www.nmbu.no/om/utvalg/rsa/mandat</prop>
+     <seg>NMBU vert representert ved rektor.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/utvalg/rsa</prop>
+     <seg>NMBU er representert ved rektor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.99659</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/milj-rsrapport-2020</prop>
+     <seg>I 2018 ble b&#229;de g&#229;- og sykkelstrategi og tiltaksplan for sykling og gange vedtatt av kommunestyret i &#197;s.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/miljotiltak</prop>
+     <seg>I 2018 vart b&#229;de sykkel- og g&#229;strategi og tiltaksplan for sykling og gonge vedteke av kommunestyret i &#197;s.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.49496</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/milj-rsrapport-2020</prop>
+     <seg>NMBU, &#197;s kommune og &#197;spro, en arbeidsmarkedsbedrift i &#197;s, har inng&#229;tt et samarbeid med Akershus fylkeskommune for &#229; realisere prosjektet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/miljotiltak</prop>
+     <seg>NMBU, &#197;s kommune og &#197;spro, ei arbeidsmarknadsbedrift i &#197;s, har inng&#229;tt eit samarbeid med Akershus fylkeskommune for &#229; realisera prosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.57198</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/fakultet/mina/student/yrkeseksempler/naturforvaltning/arkiv-NF/node/11788</prop>
+     <prop type="source-document">http://www.nmbu.no/fakultet/mina/student/yrkeseksempler/naturforvaltning/arkiv-NF/node/11788</prop>
+     <seg>Hvilken nytte har du hatt av utdanningen du tok ved UMB?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/fakultet/mina/student/yrkeseksempler/naturforvaltning/arkiv-NF/node/11793</prop>
+     <prop type="source-document">https://www.nmbu.no/fakultet/mina/student/yrkeseksempler/naturforvaltning/arkiv-NF/node/11793</prop>
+     <seg>Kva nytte har du hatt av utdanninga du tok ved UMB?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.09277</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/milj-rsrapport-2020</prop>
+     <seg>Det meste av NMBUs reisevirksomhet er konferanser og prosjektutvikling p&#229; tvers av landegrenser.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/miljotiltak</prop>
+     <seg>Det meste av NMBUs reiseverksemd er konferansar og prosjektutvikling p&#229; tvers av landegrenser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">3.00968</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE202?studieaar=2020</prop>
+     <seg>Studentene skal kjenne til viktige utviklingsliner og fakta i norsk eigedomshistorie, i ulike landsdeler og i bygd og by, som underlag for profesjonsut&#248;ving i eigedomsfag og arealplanlegging.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE202?studieaar=2017</prop>
+     <seg>Studentane skal kjenne til viktige utviklingsliner og fakta i norsk eigedomshistorie, i ulike landsdelar og i bygd og by, som underlag for profesjonsut&#248;ving i eigedomsfag og arealplanlegging.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.71755</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nmbu.no/emne/EIE202?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/EIE202?studieaar=2021</prop>
+     <seg>Studentene skal kjenne til viktige utviklingslinjer og fakta i norsk eiendomshistorie, i ulike landsdeler og i bygd og by, som underlag for profesjonsut&#248;ving i eiendomsfag og arealplanlegging.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE202?studieaar=2017</prop>
+     <seg>Studentane skal kjenne til viktige utviklingsliner og fakta i norsk eigedomshistorie, i ulike landsdelar og i bygd og by, som underlag for profesjonsut&#248;ving i eigedomsfag og arealplanlegging.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.89167</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/utvalg/rsa/mandat</prop>
+     <prop type="source-document">http://www.nmbu.no/om/utvalg/rsa/mandat</prop>
+     <seg>Mandat for R&#229;d for samarbeid med arbeidslivet (RSA)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/utvalg/rsa</prop>
+     <seg>R&#229;d for samarbeid med arbeidslivet (RSA)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.4</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/milj-rsrapport-2020</prop>
+     <seg>Flyreiser er dessverre fortsatt avhengig av fossilt brennstoff.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/miljotiltak</prop>
+     <seg>Flyreiser er dessverre framleis avhengig av fossilt brennstoff.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">4.0961</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/milj-rsrapport-2020</prop>
+     <seg>Staten betaler klimakvoter for hele sektoren, basert p&#229; innrapporterte reiser fra 2015.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/miljotiltak</prop>
+     <seg>Staten betaler klimakvoter for heile sektoren, basert p&#229; innrapporterte reiser fr&#229; 2015.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

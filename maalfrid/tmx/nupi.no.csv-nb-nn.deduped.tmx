@@ -1,0 +1,513 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T074654" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.80236</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2012/Presidentvalget-i-2012-Viktig-baade-for-USA-og-resten</prop>
+     <seg>afroamerikanske aner stemmer gjerne p&#229; Det demokratiske partiet (bare 11 prosent stemte p&#229; republikaneren George W.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2016/Presidentvalet-i-2016-Korleis-kunne-Donald-Trump-vinne</prop>
+     <seg>Veljarar med afroamerikansk bakgrunn stemmer gjerne p&#229; Det demokratiske partiet (bare 11 prosent stemte p&#229; republikaneren George W.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2012/Presidentvalget-i-2012-Viktig-baade-for-USA-og-resten</prop>
+     <seg>Faktisk er amerikanere med latinamerikansk bakgrunn blitt en st&#248;rre folkegruppe enn den historisk st&#248;rste minoritetsgruppen i USA, nemlig</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2016/Presidentvalet-i-2016-Korleis-kunne-Donald-Trump-vinne</prop>
+     <seg>Faktisk er amerikanarar med latinamerikansk bakgrunn blitt ei st&#248;rre folkegruppe enn den historisk st&#248;rste minoritetsgruppa i USA, nemleg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.39516</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>fremme mangfold og hindre diskriminering blant medarbeidere ved Norsk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>fremje mangfald og hindre diskriminering blant medarbeidarar ved Norsk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.4373</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Likestilling har tradisjonelt handlet om kj&#248;nnslikestilling</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Likestilling har tradisjonelt handla om kj&#248;nnslikestilling</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>arbeidsmilj&#248; som gjenspeiler samfunnet vi er en del av, og arbeider aktivt for &#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>arbeidsmilj&#248; som speglar det samfunnet vi er ein del av, og arbeider aktivt for &#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.03676</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Et aktivt likestillings- og mangfoldsarbeid forutsetter ressurser b&#229;de i form av</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Eit aktivt likestillings- og mangfaldsarbeid f&#248;reset ressursar b&#229;de i form av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.7875</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>til &#229; &#248;ke likestillingen og mangfoldet i virksomheten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>bidra til &#229; auke likestillinga og mangfaldet i verksemda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.3727</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Handlingsplanen er prim&#230;rt utarbeidet for NUPI som arbeidsgiver, og m&#229;lgruppen er</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Handlingsplanen er prim&#230;rt utarbeidd for NUPI som arbeidsgjevar, og m&#229;lgruppa er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.77</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Dette er et</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Dette er eit</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.088</prop>
+    <prop type="score-bicleaner">0.603</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>En tydelig sentral politikk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Ein tydeleg sentral politikk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.48846</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Forskning og faglig utvikling</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Forsking og fagleg utvikling</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.425</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2012/Presidentvalget-i-2012-Viktig-baade-for-USA-og-resten</prop>
+     <seg>Noen hevder dette fratok den demokratiske kandidaten (Al Gore) valgseieren det &#229;ret.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2016/Presidentvalet-i-2016-Korleis-kunne-Donald-Trump-vinne</prop>
+     <seg>Nokre hevdar dette fr&#229;tok den demokratiske kandidaten (Al Gore) valsigeren det &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.78125</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2012/Presidentvalget-i-2012-Viktig-baade-for-USA-og-resten</prop>
+     <seg>I tillegg er USA et</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2016/Presidentvalet-i-2016-Korleis-kunne-Donald-Trump-vinne</prop>
+     <seg>I tillegg er USA eit</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.87574</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2012/Presidentvalget-i-2012-Viktig-baade-for-USA-og-resten</prop>
+     <seg>&#8211; opp gjennom historien har kampen for det meste st&#229;tt mellom bare to politiske partier.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2016/Presidentvalet-i-2016-Korleis-kunne-Donald-Trump-vinne</prop>
+     <seg>&#8211; opp gjennom historia har kampen for det meste st&#229;tt mellom bare to politiske parti.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.09713</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2012/Presidentvalget-i-2012-Viktig-baade-for-USA-og-resten</prop>
+     <seg>dermed har de heller ingen uavhengig rolle som sikkerhetsventil.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2016/Presidentvalet-i-2016-Korleis-kunne-Donald-Trump-vinne</prop>
+     <seg>dermed har dei heller inga sj&#248;lvstendig rolle som sikkerheitsventil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.04589</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>ut&#248;ves av NUPI og dekker ogs&#229; forskningsprosjekter med nasjonale og internasjonale</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>NUPI, og dekkjer ogs&#229; forskingsprosjekt med nasjonale og internasjonale partnarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.27</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2012/Presidentvalget-i-2012-Viktig-baade-for-USA-og-resten</prop>
+     <seg>i nord&#248;st f&#229;tt f&#230;rre representanter i Huset de siste &#229;rene, mens</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2016/Presidentvalet-i-2016-Korleis-kunne-Donald-Trump-vinne</prop>
+     <seg>i nordaust f&#230;rre representantar til Huset i dei siste &#229;ra;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.22416</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>arbeidsmilj&#248;utvalget, er ansvarlig for &#229; f&#248;lge opp m&#229;l og tiltak samt oppdatere</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>arbeidsmilj&#248;utvalet, er ansvarleg for &#229; f&#248;lgje opp m&#229;l og tiltak og &#229; oppdatere</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.95203</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2012/Presidentvalget-i-2012-Viktig-baade-for-USA-og-resten</prop>
+     <seg>Dette kompliserte systemet er et resultat av et</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2016/Presidentvalet-i-2016-Korleis-kunne-Donald-Trump-vinne</prop>
+     <seg>Dette kompliserte systemet er eit resultat av eit</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.08929</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>handlingsplanen annethvert &#229;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>handlingsplanen annakvart &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.69464</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Tiltaksdelen i handlingsplanen er organisert etter tre omr&#229;der.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Tiltaksdelen i handlingsplanen er organisert etter tre omr&#229;de.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.62564</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>NUPI har som arbeidsgiver plikt til &#229; arbeide</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>NUPI har som arbeidsgjevar plikt til &#229; arbeide</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.609</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>med mangfold som</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>med mangfald som</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.57019</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Utvidelsen fra kj&#248;nn til mangfold korresponderer med at Komit&#233; for kj&#248;nnsbalanse og mangfold</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Utvidinga fr&#229; kj&#248;nn til mangfald korresponderer med at Komit&#233; for kj&#248;nnsbalanse og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.7875</prop>
+    <prop type="score-bicleaner">0.639</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2012/Presidentvalget-i-2012-Viktig-baade-for-USA-og-resten</prop>
+     <seg>varierer etter folketallet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2016/Presidentvalet-i-2016-Korleis-kunne-Donald-Trump-vinne</prop>
+     <seg>varierer etter folketalet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.6441</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>aktivt, m&#229;lrettet og planmessig for &#229; sikre likestilling mellom kj&#248;nnene og hindre</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>aktivt, m&#229;lretta og planmessig for &#229; sikre likestilling mellom kj&#248;nna og hindre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.21905</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>arbeidsomr&#229;de som NUPI vil fortsette med ogs&#229; i &#229;rene framover, blant annet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>arbeidsomr&#229;de som NUPI vil halde fram med ogs&#229; i &#229;ra framover, mellom anna</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>retningslinjer for rekruttering og lederoppl&#230;ring.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>retningslinjer for rekruttering og leiaroppl&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.43086</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Vi &#248;nsker &#229; ta utgangspunkt i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Vi &#248;nskjer &#229; ta utgangspunkt i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.79016</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2012/Presidentvalget-i-2012-Viktig-baade-for-USA-og-resten</prop>
+     <seg>Dermed blir den virkelige kampen om valget utkjempet i et f&#229;tall s&#229;kalte &#171;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2016/Presidentvalet-i-2016-Korleis-kunne-Donald-Trump-vinne</prop>
+     <seg>Dermed blir den verkelege kampen om valet utkjempa i eit f&#229;tal s&#229;kalla &#171;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.79048</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Hovedm&#229;lene er &#229; sikre likestilling og mangfold og hindre diskriminering.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Hovudm&#229;la er &#229; sikre likestilling og mangfald og hindre diskriminering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.94706</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>kompetanse og tid for &#229; la likestilling og mangfold bli integrert i alt vi gj&#248;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>kompetanse og tid for &#229; la likestilling og mangfald bli integrert i alt vi gjer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.10548</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>likestilling og mangfold p&#229; alle omr&#229;der i virksomheten, for eksempel felles</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>likestilling og mangfald p&#229; alle omr&#229;d i verksemda, til d&#248;mes felles</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.64078</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>for &#229; sikre kvinner og menn like rettigheter, ansvar og muligheter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>for &#229; sikre kvinner og menn like rettar, ansvar og moglegheiter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.276</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>og denne kompleksiteten b&#248;r tiltaksutviklingen ta h&#248;yde for.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>denne kompleksiteten b&#248;r tiltaksutviklinga ta h&#248;gd for.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.54286</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Handlingsplanen vil bli revidert annethvert &#229;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Handlingsplanen vil bli revidert annakvart &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.29538</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Det er avgj&#248;rende at NUPI har en enhetlig og tydelig politikk n&#229;r det gjelder</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Det er avgjerande at NUPI har ein einskapleg og tydeleg politikk n&#229;r det gjeld</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.62333</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2012/Presidentvalget-i-2012-Viktig-baade-for-USA-og-resten</prop>
+     <seg>(i motsetning til konge og monarki)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/Publikasjoner/Innsikt-og-kommentar/Hvor-hender-det/HHD-2016/Presidentvalet-i-2016-Korleis-kunne-Donald-Trump-vinne</prop>
+     <seg>(i motsetnad til konge og monarki)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.21934</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24293/1019398/version/1/file/Handlingsplan%20bokm%C3%A5l.pdf.converted</prop>
+     <seg>Alle ledere i organisasjonen har ansvar for &#229; f&#248;lge gjeldende f&#248;ringer for &#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nupi.no/nupi/content/download/24294/1019403/version/1/file/Handlingsplan%20nynorsk.pdf.converted</prop>
+     <seg>Alle leiarar i organisasjonen har ansvar for &#229; f&#248;lgje gjeldande f&#248;ringar for &#229;</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

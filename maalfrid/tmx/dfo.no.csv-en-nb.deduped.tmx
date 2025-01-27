@@ -1,0 +1,318 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T183250" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.14545</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/self-service-portal/payslips/this-is-how-to-read-the-payslip</prop>
+     <seg>The same applies to the tax deduction.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dfo.no/rapporter-og-statistikk/rapporter/evaluering-av-naerpolitireformen-2020/vare-vurderinger-og-anbefalinger/2-3-ulike-oppfatninger-av-hva-som-er-viktig-ogsa-i-politiet</prop>
+     <seg>Arbeidsmilj&#248;unders&#248;kelse i politi- og lensmannsetaten</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/dfo-app-english/generate-qr-code</prop>
+     <seg>For Android phones QR-scanner is not built-in to the camera app.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/dfo-app/qr-kode-brukerveiledning</prop>
+     <seg>For Andoid telefoner er QR-skanner ikke innebygd i kamera-app.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.04464</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/self-service-portal/employment-and-contract/sign-the-contract</prop>
+     <seg>The contract is now signed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/fagomrader/utredning/veileder-til-utredningsinstruksen/3-tidlig-involvering-foreleggelse-og-horing/3-3-horing</prop>
+     <seg>, om norske interesser og posisjoner i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.10318</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/dfo-app-english/generate-qr-code</prop>
+     <seg>You must therefore download a QR-scanner app.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/dfo-app/qr-kode-brukerveiledning</prop>
+     <seg>Du m&#229; derfor laste ned en QR-skanner-app.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.06545</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/training-videos</prop>
+     <seg>The Norwegian Agency for Public and Financial Management (DF&#216;)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/fagomrader/rapportering-til-statsregnskapet</prop>
+     <seg>Direktoratet for forvaltning og &#248;konomistyring (DF&#216;) har ansvaret for forvaltning og drift av statsregnskapet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.00982</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Utredningsinstruksen/Guidance_Notes_on_the_Instructions_for_Official_Studies.pdf.converted</prop>
+     <seg>By comparing differences between the measure groups and the control group, one can draw conclusions with regard to how various measures have worked.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Veiledere/Samfunnsokonomisk-analyse-av-fremskutt-overvakings-og-kampflybase-i-nord-norge.pdf.converted</prop>
+     <seg>Regulariteten vil p&#229;virkes av valg av baseinnretning, og vil kunne ha innvirkning p&#229; styrkeproduksjonens kapasitet og kvalitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.02692</prop>
+    <prop type="score-bicleaner">0.682</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/dfo-app-english/generate-qr-code</prop>
+     <seg>Click the link</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/dfo-app/qr-kode-brukerveiledning</prop>
+     <seg>Trykk p&#229; linken</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.10204</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Utredningsinstruksen/Guidance_Notes_on_the_Instructions_for_Official_Studies.pdf.converted</prop>
+     <seg>Requirements as to the Contents of the Basis for Decision-Making</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Veiledere/Samfunnsokonomisk-analyse-av-fremskutt-overvakings-og-kampflybase-i-nord-norge.pdf.converted</prop>
+     <seg>forsvarssektoren, lokalsamfunnet og sivilsamfunnet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.02185</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/dfo-app-english/generate-qr-code</prop>
+     <seg>NFC works in a similar way to QR, but the process to create and use the NFC-chip is different.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/dfo-app/qr-kode-brukerveiledning</prop>
+     <seg>NFC fungerer p&#229; en tilsvarende m&#229;te som QR, men fremgangsm&#229;ten for &#229; lage og bruke NFC-brikken er annerledes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.17602</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/self-service-portal/employment-and-contract/sign-the-contract</prop>
+     <seg>If you are to sign a contract a link will be sent to your email.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/fagomrader/utredning/veileder-til-utredningsinstruksen/3-tidlig-involvering-foreleggelse-og-horing/3-3-horing</prop>
+     <seg>Beslutningen skal v&#230;re skriftlig og begrunnet, og skal f&#248;lge saken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.09613</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/self-service-portal/employment-and-contract/order-new-contract-self-service-portal</prop>
+     <seg>The form is divided into three steps, &#8220;Who&#8221;, &#8220;Contract&#8221; and "Comment".</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/tilsetting-og-arbeidskontrakt/bestill-ny-arbeidskontrakt-selvbetjeningsportal</prop>
+     <seg>Skjemaet er delt inn i tre trinn, &#171;Hvem&#187;, &#171;Kontrakt&#187; og &#171;Merknader&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.06548</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dfo.no/filer/agenda-OECD-Conference-Norway-2019.pdf.converted</prop>
+     <seg>Are new co-ordination and collaboration mechanisms necessary including sharing data across ministries?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/filer/Fagomr%C3%A5der/Rapporter/Rapporter-Difi/difi-rapport_2018-8_organisasjonsformer_i_offentlig_sektor._en_kartlegging.pdf.converted</prop>
+     <seg>forventningsavklaring og &#229; f&#229; felles og omforent forst&#229;else av utfordringer, m&#229;l,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.18605</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/self-service-portal/employment-and-contract/order-new-contract-self-service-portal</prop>
+     <seg>Click "Send" in the confirmation box.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/tilsetting-og-arbeidskontrakt/bestill-ny-arbeidskontrakt-selvbetjeningsportal</prop>
+     <seg>Trykk deretter p&#229; &#171;Send inn&#187; i bekreftelsesboksen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.1516</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Utredningsinstruksen/Guidance_Notes_on_the_Instructions_for_Official_Studies.pdf.converted</prop>
+     <seg>These factors suggest that the six questions should be answered more thoroughly in order to establish a sound basis for decision-making.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Veiledere/Samfunnsokonomisk-analyse-av-fremskutt-overvakings-og-kampflybase-i-nord-norge.pdf.converted</prop>
+     <seg>Dette vil kunne p&#229;virke lokalt n&#230;ringsliv i negativ retning ved at kundegrunnlaget, og dermed omsetningen, til lokale virksomheter som fris&#248;rsalonger og matvareforretninger reduseres.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.785</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/dfo-app-english/generate-qr-code</prop>
+     <seg>Register working hours with QR-code (iPhone)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/dfo-app/qr-kode-brukerveiledning</prop>
+     <seg>Registrer timef&#248;ring med QR-kode (iPhone)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.07347</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/self-service-portal/employment-and-contract/order-new-contract-self-service-portal</prop>
+     <seg>To send the contract for approval, click "Send for approval" to the bottom right.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/tilsetting-og-arbeidskontrakt/bestill-ny-arbeidskontrakt-selvbetjeningsportal</prop>
+     <seg>For &#229; sende kontrakten til godkjenning, trykk p&#229; &#171;Send til godkjenning&#187; nede til h&#248;yre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.31682</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Utredningsinstruksen/Guidance_Notes_on_the_Instructions_for_Official_Studies.pdf.converted</prop>
+     <seg>The guidance notes are also a relevant reference source for the conduct of simplified analyses and minimum analyses.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Veiledere/Samfunnsokonomisk-analyse-av-fremskutt-overvakings-og-kampflybase-i-nord-norge.pdf.converted</prop>
+     <seg>Sikringstiltakene omfatter forsterket ytre og indre perimeter, samt helhetlig overv&#229;kingssystem for deteksjon og verifikasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.61569</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/self-service-portal/employment-and-contract/order-new-contract-self-service-portal</prop>
+     <seg>Select the correct country from the list.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/tilsetting-og-arbeidskontrakt/bestill-ny-arbeidskontrakt-selvbetjeningsportal</prop>
+     <seg>&#171;Norge&#187;, &#171;Utland&#187; og &#171;Delvis utland&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.78537</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/dfo-app-english/generate-qr-code</prop>
+     <seg>Register working hours with QR-code (Android)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/dfo-app/qr-kode-brukerveiledning</prop>
+     <seg>Registrer timef&#248;ring med QR-kode (Android)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.2358</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/self-service-portal/employment-and-contract/order-new-contract-self-service-portal</prop>
+     <seg>Enter text in the &#8220;First name&#8221;, &#8220;Last name&#8221;, &#8220;Email&#8221; and &#8220;Phone number&#8221; fields.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/tilsetting-og-arbeidskontrakt/bestill-ny-arbeidskontrakt-selvbetjeningsportal</prop>
+     <seg>Feltene &#171;Fornavn&#187;, &#171;Etternavn&#187;, &#171;E-post&#187; og &#171;Telefon&#187; er skrivefelt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.01429</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/dfo-app-english/generate-qr-code</prop>
+     <seg>Click the message QR-code for DF&#216;-Open in DF&#216;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/kundesider/lonn/dfo-app/qr-kode-brukerveiledning</prop>
+     <seg>Trykk p&#229; meldingen QR-kode for DF&#216;-&#197;pne i DF&#216;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.06483</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Utredningsinstruksen/Guidance_Notes_on_the_Instructions_for_Official_Studies.pdf.converted</prop>
+     <seg>This implies that one should include quantification and valuation of all key aspects and effects in a minimum analysis when such information is readily available.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Veiledere/Samfunnsokonomisk-analyse-av-fremskutt-overvakings-og-kampflybase-i-nord-norge.pdf.converted</prop>
+     <seg>Regionale innkj&#248;p omfatter i denne sammenheng Forsvarets innkj&#248;p som virksomhet, samt kj&#248;p av varer og tjenester som utf&#248;res av vernepliktige og l&#230;rlinger i Forsvaret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.05236</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Utredningsinstruksen/Guidance_Notes_on_the_Instructions_for_Official_Studies.pdf.converted</prop>
+     <seg>It follows from the Instructions that we need to present the basis for the recommendation, as well as which trade-offs have been involved.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dfo.no/filer/Fagomr%C3%A5der/Veiledere/Samfunnsokonomisk-analyse-av-fremskutt-overvakings-og-kampflybase-i-nord-norge.pdf.converted</prop>
+     <seg>Forsvarets virksomhet krever tilgang til store arealer, og kampflyoperasjoner og annen aktivitet medf&#248;rer st&#248;y og andre ytre p&#229;virkninger p&#229; milj&#248;et.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.15636</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://dfo.no/english/dfo-app-english</prop>
+     <seg>Select the family member/the contact person you want to delete.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://dfo.no/fagomrader/bokf%C3%B8ring</prop>
+     <seg>rapporter fra l&#248;nnssystem/hjelpesystemer, for eksempel l&#248;nnsjournal</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

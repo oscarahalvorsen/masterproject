@@ -1,0 +1,1857 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T021537" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">3.59062</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/463113</prop>
+     <seg>Sunday morning 19.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/463514</prop>
+     <prop type="source-document">http://varsom.no/flom-og-jordskredvarsling/varselid/463514</prop>
+     <seg>S&#248;ndag morgen 19. des.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.90052</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-22</prop>
+     <seg>The collapsing weak layer is thin &lt; 3 cm. Easy to trigger</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-21</prop>
+     <seg>Laget der bruddet skjer er tynt &lt; 3 cm.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.07602</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/433512</prop>
+     <prop type="source-document">http://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/463113</prop>
+     <seg>Keep yourself updated about the development of the weather, the landslide and flood situation, and follow the weather radar.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/463514</prop>
+     <prop type="source-document">http://varsom.no/flom-og-jordskredvarsling/varselid/463514</prop>
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/433512</prop>
+     <seg>Hold deg oppdatert om utviklingen av v&#230;ret, skred- og flomsituasjonen, og f&#248;lg v&#230;rradaren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">5.8</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Salten/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-18</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Salten/</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Salten/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-11</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-16</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-18</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-16</prop>
+     <seg>4 tests connected to snow profile</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-16</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-16</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Salten/</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-16</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Voss/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Salten/</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Salten/</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-16</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-18</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Salten/</prop>
+     <seg>4 tester knyttet til sn&#248;profilen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.21667</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/463113</prop>
+     <seg>Exposed railways and roads may be closed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/463514</prop>
+     <prop type="source-document">http://varsom.no/flom-og-jordskredvarsling/varselid/463514</prop>
+     <seg>Framkommelighet p&#229; veg og jernbane kan bli redusert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">3.54904</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-21</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-23</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-23</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-21</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-12</prop>
+     <seg>Avalanche release at 55 masl and ended at 49 masl</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-21</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-23</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-21</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-07</prop>
+     <seg>Skredet startet p&#229; 55 moh og sluttet p&#229; 49 moh</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.46</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/323913</prop>
+     <seg>Monday morning 8. Altitude</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/323913</prop>
+     <seg>Mandag morgen 8. jun. H&#248;yde</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">4.65714</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://varsom.no/media/2432/skredkort-engelsk_2019_web.pdf.converted</prop>
+     <seg>group (2-4) to make it</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://varsom.no/media/2385/plakat-skredkort-norsk.pdf.converted</prop>
+     <seg>(2-4) for lettere &#229; kommunisere,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">5.77778</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-02</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-18</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-17</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-17</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/2021-12-15</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Ofoten/</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-19</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/2021-12-15</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-11-24</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-06</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/2021-12-18</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-11-24</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-11</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-02</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-10</prop>
+     <seg>1 tests connected to snow profile</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-02</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Ofoten/</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-17</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-18</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-17</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Salten/2021-12-02</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Salten/2021-11-24</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-17</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-17</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-17</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-18</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-17</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Salten/2021-12-02</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Voss/2021-12-13</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Salten/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-11</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-01</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-02</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Telemark/</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-18</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Ofoten/2021-11-29</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Salten/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Salten/2021-12-02</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Salten/2021-11-24</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Voss/2021-12-13</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Salten/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Voss/2021-12-13</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-11-29</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-02</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-19</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-17</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Salten/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Voss/2021-12-13</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Telemark/</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Telemark/</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Telemark/</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-17</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <seg>1 test knyttet til sn&#248;profilen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">5.45982</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-10</prop>
+     <seg>1 - Small SE, S, SW</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-10</prop>
+     <seg>1 Liten Stabile forhold og lite sn&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.32391</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/433512</prop>
+     <seg>Keep water paths and culverts free of snow, ice, gravel, waste, twigs and leaves.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/433512</prop>
+     <seg>Hold stikkrenner, kummer og andre vannveier fri for sn&#248;/is, grus, s&#248;ppel, kvist og l&#248;v.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">4.95467</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-21</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-23</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-21</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-23</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-12</prop>
+     <seg>8 cm high and 10 m wide fracture</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-21</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-23</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-21</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-12</prop>
+     <seg>8 cm h&#248;y og 10 m bred bruddkant</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.73889</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-11-28</prop>
+     <seg>1 tests connected to snow profile Notes</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-11-28</prop>
+     <seg>1 test knyttet til sn&#248;profilen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.89549</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/323913</prop>
+     <prop type="source-document">http://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/463113</prop>
+     <seg>Risk of slushflows is especially high in areas with more than 50 cm snow.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/463514</prop>
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/323913</prop>
+     <prop type="source-document">http://varsom.no/flom-og-jordskredvarsling/varselid/463514</prop>
+     <seg>Fare for utl&#248;sning av s&#248;rpeskred gjelder s&#230;rlig i omr&#229;der med mer enn 50 cm sn&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.47614</prop>
+    <prop type="score-bicleaner">0.694</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/433512</prop>
+     <seg>Friday afternoon 11. Danger decrease</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/433512</prop>
+     <seg>Fredag ettermiddag 11. jun. Fare minker</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.73889</prop>
+    <prop type="score-bicleaner">0.694</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-06</prop>
+     <seg>1 tests connected to snow profile</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-07</prop>
+     <seg>1 test knyttet til sn&#248;profilen Tester</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.05233</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/news/workshop-on-regional-landslide-early-warning-systems/</prop>
+     <seg>Use the warnings, data and maps at your own risk.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://varsom.no/nytt/nyheter-flom-og-jordskred/workshop-on-regional-landslide-early-warning-systems/</prop>
+     <seg>Bruk varslene, datagrunnlaget og kartene p&#229; eget ansvar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/news/workshop-on-regional-landslide-early-warning-systems/</prop>
+     <seg>Warnings are regional and based on available observations and weather forecasts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://varsom.no/nytt/nyheter-flom-og-jordskred/workshop-on-regional-landslide-early-warning-systems/</prop>
+     <seg>Varslene er regionale og basert p&#229; tilgjengelige observasjoner og v&#230;rprognoser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.72593</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-28</prop>
+     <seg>1 tests connected to snow profile</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <seg>1 test knyttet til sn&#248;profilen Skredproblem T&#248;rre flakskred</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.03</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/news/workshop-on-regional-landslide-early-warning-systems/</prop>
+     <seg>Errors and omissions may be present.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://varsom.no/nytt/nyheter-flom-og-jordskred/workshop-on-regional-landslide-early-warning-systems/</prop>
+     <seg>Det kan forekomme feil og mangler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.47614</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/463113</prop>
+     <seg>Friday afternoon 17. Danger decrease</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/463514</prop>
+     <prop type="source-document">http://varsom.no/flom-og-jordskredvarsling/varselid/463514</prop>
+     <seg>Fredag ettermiddag 17. des. Fare minker</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">9.27</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-19</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-01</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-11-27</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-11-20</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-14</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-15</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-14</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-11-25</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-16</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-11-27</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-16</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-10-25</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-11</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-14</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-15</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-14</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-04</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-11-27</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-10-23</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-22</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-30</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-14</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-11-18</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-15</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-11</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-11-20</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-11-20</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-15</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-14</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-13</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-20</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-19</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-11-25</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-14</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-04</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-11-19</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-02</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-11-30</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-06</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/2021-12-18</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-19</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-11-20</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-26</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-11-30</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-15</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-11-27</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-11-27</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Romsdal/</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-17</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-20</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-11-25</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-13</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-11-20</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-16</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-21</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-11-18</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-04</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-11</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-11-20</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-15</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-13</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-15</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-11-18</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-06</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-11-27</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-04</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Vest-Telemark/2021-12-18</prop>
+     <seg>5 cm in total</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-26</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-19</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-21</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-04</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Voss/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Svartisen/2021-11-27</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-20</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-11</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-20</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-13</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-15</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-11</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-11-27</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-11-25</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-11-27</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-01</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-11-27</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Ofoten/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-15</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-04</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-19</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-04</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-15</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-11-27</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-11-30</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Voss/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-14</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-11-20</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-11-20</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-10-23</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-11-30</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-11-27</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-21</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-11</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-11-27</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Voss/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-10-25</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-13</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Salten/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-17</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-17</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-19</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-13</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hardanger/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Voss/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-11</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-11-30</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-15</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Voss/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-14</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-18</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Voss/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-15</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-04</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-16</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Salten/2021-12-13</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-19</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-11-18</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-01</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-04</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-11-20</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-15</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-11-20</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-14</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Voss/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-04</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-11-27</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-15</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-14</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-18</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-11-27</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-17</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-11-27</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Salten/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-11-27</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Salten/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Voss/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-01</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-11-20</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-11-25</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-11</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hardanger/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-11-18</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Telemark/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Romsdal/</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-01</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-15</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-11</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-11-18</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-14</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Voss/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-15</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-26</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <seg>5 cm totalt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.45614</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/433512</prop>
+     <seg>Sunday afternoon 13. Altitude</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/433512</prop>
+     <seg>S&#248;ndag ettermiddag 13. jun. H&#248;yde</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">5.38571</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-19</prop>
+     <seg>Between 500 masl and 300 masl</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-19</prop>
+     <seg>Mellom 500 moh og 300 moh</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">4.10104</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-01</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-18</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-18</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-17</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-15</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-02</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-18</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-27</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-02</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Finnmarkskysten/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Salten/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-27</prop>
+     <seg>The collapsing weak layer is thin &lt; 3 cm.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-27</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-17</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-02</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Salten/2021-12-02</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-01</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-19</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Salten/2021-12-02</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Ofoten/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-17</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-18</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-10</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-18</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-04</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-11-29</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-02</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Finnmarkskysten/2021-12-19</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-30</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-01</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hallingdal/2021-12-01</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-18</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-08</prop>
+     <seg>Laget der bruddet skjer er tynt &lt; 3 cm.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.08481</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/flood-and-landslide-warning-service/forecastid/323913</prop>
+     <seg>These landslides can start in relatively flat terrain and seek towards streams and steep slopes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/flom-og-jordskredvarsling/varselid/323913</prop>
+     <seg>Denne skredtypen utl&#248;ses i slakt terreng og f&#248;lger deretter bekkel&#248;p og bratte skr&#229;ninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">5.02857</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-10</prop>
+     <seg>1 tests connected to snow profile</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-10</prop>
+     <seg>1 Liten Lite sn&#248; i regionen enda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">3.5227</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-05</prop>
+     <seg>The collapsing weak layer is thin &lt; 3 cm. The overlying slab is soft. A big and identifiable crystal in the weak layer.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-05</prop>
+     <seg>3 Betydelig Fremtredende skredproblem er myke flak av fokksn&#248; over nedf&#248;yket nysn&#248;/rim/kant og disse finnes nok i de fleste himmelretninger med dagens vinddreining.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">4.97829</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-17</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-27</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-05</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-01</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-06</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-04</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-11-30</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-15</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Romsdal/2021-12-15</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-13</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Voss/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-26</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Svartisen/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Lyngen/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Hardanger/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Jotunheimen/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Ofoten/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Fjordane/2021-11-27</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-15</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Romsdal/</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Nord-Troms/2021-11-27</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Heiane/2021-12-05</prop>
+     <seg>Layered snow begins at 0 masl</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-14</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-04</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-26</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-09</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Voss/2021-12-10</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-11-30</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-17</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-15</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-08</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Voss/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-11-30</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-01</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-10</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Voss/2021-11-28</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-15</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-13</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-04</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-16</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-14</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-01</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-13</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-11-27</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hardanger/2021-11-28</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Heiane/2021-12-01</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-11-27</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-13</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Trollheimen/2021-12-02</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-15</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Romsdal/</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-01</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-17</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Ofoten/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Romsdal/2021-12-15</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-11-29</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Romsdal/</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-04</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-08</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Lyngen/2021-12-06</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Hardanger/2021-11-28</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Jotunheimen/2021-12-07</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Voss/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-05</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Heiane/2021-12-14</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-08</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Svartisen/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-03</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-11-26</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Nord-Troms/2021-12-09</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-05</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Voss/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Fjordane/2021-12-19</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Troms/2021-12-07</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-11-28</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Hardanger/2021-12-07</prop>
+     <seg>Grense for lagdelt sn&#248; er p&#229; 0 moh</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.288</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-15</prop>
+     <prop type="source-document">http://varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-14</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-16</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/en/avalanche-bulletins/forecast/Indre%20Sogn/2021-12-14</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Voss/2021-12-13</prop>
+     <prop type="source-document">https://varsom.no/en/avalanche-bulletins/forecast/Vest-Finnmark/2021-12-12</prop>
+     <seg>Other danger sign (specify)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Voss/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Vest-Finnmark/2021-12-12</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Voss/2021-12-13</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-15</prop>
+     <prop type="source-document">https://varsom.no/snoskredvarsling/varsel/Voss/2021-12-13</prop>
+     <prop type="source-document">http://www.varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-14</prop>
+     <prop type="source-document">https://www.varsom.no/snoskredvarsling/varsel/Voss/2021-12-13</prop>
+     <prop type="source-document">http://varsom.no/snoskredvarsling/varsel/Indre%20Sogn/2021-12-14</prop>
+     <seg>Annet faretegn (spesifiser)</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

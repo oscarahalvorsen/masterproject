@@ -1,0 +1,136 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T120454" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.52321</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://mareano.no/en/news/news_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>That was my impression too.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://mareano.no/nyheter/nyheter_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>Det er det inntrykket eg har f&#229;tt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.26842</prop>
+    <prop type="score-bicleaner">0.567</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://mareano.no/en/news/news_2012/gjester_pa_tokt/forstereis_om_bord_pa_g.o._sars</prop>
+     <seg>That video was amazing!</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.mareano.no/nyheter/nyheter_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>Hei, raude sj&#248;p&#248;lse!</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.05714</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://mareano.no/en/news/news_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>Oh, those are the eyes!</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://mareano.no/nyheter/nyheter_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>&#197;h, det er auger!</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.365</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://mareano.no/en/news/news_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>But there were also a few men.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://mareano.no/nyheter/nyheter_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>Men det finst nokre mannfolk ogs&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.1026</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://mareano.no/en/news/news_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>I find that reassuring.&#8221;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://mareano.no/nyheter/nyheter_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>Det gjer at eg f&#248;ler meg trygg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.41768</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://mareano.no/en/news/news-2021/mareanos-annual-report-2020</prop>
+     <seg>Geological, biological and chemical sampling:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.mareano.no/nyheter/nyheter-2021/mareanos-arsrapport-for-2020</prop>
+     <seg>Geologisk, biologisk og kjemisk pr&#248;vetaking:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">6.75882</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://mareano.no/en/news/news-2021/mareanos-annual-report-2020</prop>
+     <seg>Surveys and sampling in 2020</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.mareano.no/nyheter/nyheter-2021/mareanos-arsrapport-for-2020</prop>
+     <seg>Innsamling i 2020:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.28654</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://mareano.no/en/news/news_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>Amongst other things, the steward and his assistants served up hot dishes, a range of salads, olives, sundried tomatoes, a seafood &#8220;cabaret&#8221;, scrambled eggs, smoked salmon, gravlax, hot-smoked salmon, cured meats, ham, maize, cheeses and bread.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://mareano.no/nyheter/nyheter_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>Stuerten og hjelparane hans diska opp med varme rettar, mange ulike salatar, oliven, solt&#248;rka tomatar, kabaret, egger&#248;re, r&#248;ykt laks, gravlaks, varmr&#248;ykt laks, egger&#248;re, spekemat, skinke, mais, ostar, br&#248;d og s&#229; vidare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.01786</prop>
+    <prop type="score-bicleaner">0.571</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://mareano.no/en/news/news_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>There were lots of giggly women.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://mareano.no/nyheter/nyheter_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>Fnisete damer har det vore mange av.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.02225</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://mareano.no/en/news/news_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>After making 51 Hollywood-style productions of the sea floor in the M&#248;rebanken area, and after raising and lowering the video camera (or &#8220;Campod&#8221;, in technical speak) countless times, they were still far from finished.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://mareano.no/nyheter/nyheter_2012/gjester_pa_tokt/eventyr_pa_alle_dekk</prop>
+     <seg>Etter &#229; ha laga 51 Hollywood-produksjonar av havbotnen p&#229; M&#248;rebankane, og heist videokameraet (eller Campoden, p&#229; fagspr&#229;ket) ned og opp i det uendelege, var dei langt fr&#229; ferdige.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

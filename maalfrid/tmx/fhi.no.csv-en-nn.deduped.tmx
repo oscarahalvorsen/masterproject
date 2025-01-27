@@ -1,0 +1,2259 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T144158" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.58129</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Every year from 2005 to 2014, between 19,000 and 38,000 adults aged 25-69 years quit daily smoking (Ved&#248;y, 2015).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I perioden 2005-2014 var det kvart &#229;r mellom 19 000 og 38 000 vaksne i alderen 25-69 &#229;r som slutta som daglegr&#248;ykjarar (Ved&#248;y, 2015).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.94856</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Figure 13 shows daily smoking in the Nordic countries and the EU.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Figur 13 viser dagleg r&#248;yking i dei nordiske landa og EU.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.26538</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Vertical axis shows percentage.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Loddrett akse viser prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.05859</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/engelsk-english_hjemme-i-isolasjon-eller-karantene-.pdf.converted</prop>
+     <seg>This means that you should not be near other people, not even those you live with.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/nynorsk_hjemme-i-isolasjon-eller-karantene.pdf.converted</prop>
+     <seg>Det betyr at du ikkje skal vere i n&#230;rleiken av andre menneske, heller ikkje dei du bur med.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.43764</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The three counties of Oslo, Akershus, and S&#248;r-Tr&#248;ndelag had the lowest proportion of daily smokers by 9-11 per cent, see figure 2a.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Dei fire fylka Akershus, Oslo, Tr&#248;ndelag og Sogn og Fjordane hadde den l&#229;gaste andelen daglegr&#248;ykjarar med 9-11 prosent, sj&#229; figur 2a.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.22383</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Smoking is the most common cause of COPD and explains two out of three cases (HOD, 2006).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>R&#248;yking er den vanlegaste &#229;rsaka til kronisk obstruktiv lungesjukdom (kols) og forklarer to av tre tilfelle (HOD, 2006).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.591</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/notater/2016/rapport_2016_vold_overgrep_barn.pdf.converted</prop>
+     <seg>gression, Conflict and Peace Re-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2017/rapport-om-svangerskapsavbrot-for-2017.pdf.converted</prop>
+     <seg>ikkje i abortstatistikken, men i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">3.96667</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Every fifth death before 70 years due to smoking</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Kvart femte d&#248;dsfall f&#248;r 70 &#229;r skuldast r&#248;yking</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.1</prop>
+    <prop type="score-bicleaner">0.577</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>both smoke and use snus.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>b&#229;de r&#248;ykjer og brukar snus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">3.76441</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>7 per cent of those with university or college education smoke daily.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>7 prosent av dei med universitets- eller h&#248;gskuleutdanning r&#248;ykjer dagleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.6602</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In addition, just under 10 per cent smoked occasionally, this was true for both sexes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I tillegg var det i underkant av 10 prosent som r&#248;ykte av og til, dette gjaldt begge kj&#248;nn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.47541</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>Most people (70-80%) experience a mild respiratory infection, but some require</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Dei fleste (70-80 prosent) g&#229;r gjennom ein mild luftvegsinfeksjon. Andre treng</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.0963</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>As a result, differences in smoking behaviour between the different education groups widened.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Det f&#248;rte til at forskjellane i r&#248;yke&#229;tferd mellom dei ulike utdanningsgruppene blei st&#248;rre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.88583</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In the period 1980-2012, the proportion of daily smokers in the world fell from 41 to 31 per cent for men and from 11 to 6 per cent for women (age standardised).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I perioden 1980-2012 fall andelen daglegr&#248;ykjarar i verda fr&#229; 41 til 31 prosent for menn og fr&#229; 11 til 6 prosent for kvinner (aldersstandardisert).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.89891</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_10kl_engelsk_200421.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_2kl_engelsk_200421.pdf.converted</prop>
+     <seg>is an infection in the airways with persistent, intense bouts of coughing that last 6&#8211;12</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_10kl_nynorsk_2021.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_2kl_nynorsk_2021.pdf.converted</prop>
+     <seg>er ein luftvegsinfeksjon med langvarige (6&#8211;12 veker) og kraftige hosteanfall.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.03475</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The proportion that smokes and uses snus daily, all age groups combined.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Andelen som r&#248;ykjer og brukar snus dagleg, alle aldersgrupper samla</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.09459</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>This may be due to men having a faster decline in smoking than women until the late 1990s.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Det kan skuldast at menn hadde ein raskare nedgang i r&#248;yking enn det kvinner har hatt fram til slutten av 1990-talet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.48</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Tobacco and cardiovascular disease</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Tobakk og hjarte- og karsjukdomar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">4.02857</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Since 2000 there has been an increase in snus use.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>S&#230;rleg sidan 2000 har det vore ein auke i snusbruken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.08824</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>At the end of the 1990s, snus use was lower in the lower education group than in the other education groups, but the differences levelled out and then increased in parallel for some years.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>P&#229; slutten av 1990-talet var snusbruken l&#229;gare i gruppa med l&#229;g utdanning enn i dei andre utdanningsgruppene, men forskjellane jamna seg ut og auka deretter parallelt i nokre &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.93456</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>What challenges are there to contain Covid-19 outbreak in this type of workplace?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Kva utfordringar kan du vente under eit covid-19-utbrot p&#229; ein slik arbeidsplass?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.04687</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/hodelus/engelsk-english---foreldrebrev-om-hodeluskampanje.pdf.converted</prop>
+     <seg>Head lice are detected by combing the hair with a special fine-tooth comb (available from pharmacies).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/hodelus/foreldrebrev-hodelus-barnehage-nynorsk-031218.pdf.converted</prop>
+     <seg>Du oppdagar hovudlus ved &#229; greie h&#229;ret med ein lusekam (finst p&#229; apotek).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.09739</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In 2014, 93 per cent reported that they never or almost never stayed in a room in the home where someone smoked, while six per cent reported that they lived in such rooms (Statistics Norway, 2016).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I 2014 rapporterte 93 prosent av dei spurte at dei aldri eller nesten aldri oppheldt seg i eit rom i heimen der det blei r&#248;ykt, mens seks prosent rapporterte at dei dagleg oppheldt seg i slike rom (SSB, 2016).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.10645</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Data about pregnant women are available from the Medical Birth Registry, see the section on smoking among pregnant women.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Data om gravide er henta fr&#229; Medisinsk f&#248;dselsregister, sj&#229; avsnittet om r&#248;yking blant gravide.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.86316</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/giftinformasjonen/giftige-sopper---engelsk-2015.pdf.converted</prop>
+     <seg>After a minimum period of 6 hours, an explosive, watery diarrhoea,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/giftinformasjonen/giftige-sopper---nynorsk.pdf.converted</prop>
+     <seg>Etter minst 6 timar kjem kraftig, vasstynn diar&#233;, magesmerter og oppkast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.20912</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>At the same time as the decline in smoking, the attitudes towards smoking indoors have changed.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Samtidig med nedgangen i r&#248;yking har haldningane til det &#229; r&#248;ykje innand&#248;rs endra seg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">3.42653</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>A total of 3 per cent smoked at the end of pregnancy in 2015.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Totalt var det 3 prosent som r&#248;ykte ved slutten av svangerskapet i 2015.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.00183</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Daily smoking is equally common among women and men when we see all age groups combined.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Dagleg r&#248;yking er like vanleg blant kvinner og menn n&#229;r vi ser alle aldersgrupper samla.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">3.23333</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>The industrial plant premises are located 4 kilometres away from inhabited areas of the municipality.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Industrianlegget ligg omtrent 4 kilometer fr&#229; byggefelt og andre busette omr&#229;der.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.27143</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>See section on tobacco and impact on the foetus below.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Sj&#229; avsnitt om tobakk og fosterskadar nedanfor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.11807</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The risk of lung cancer begins to decrease within one to four years after quitting.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Risikoen for lungekreft begynner &#229; minske i l&#248;pet av eitt til fire &#229;r etter at ein har slutta &#229; r&#248;ykje.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.32832</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Snus use among young people has been a trend since the turn of the millennium, with one group beginning with snus without taking the smoking route first (Wiium, 2009).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Snusbruk blant unge har vore ein trend sidan &#229;rtusenskiftet, og ein del begynner rett p&#229; snus utan &#229; g&#229; vegen om r&#248;yking (Wiium, 2009).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.52</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>However, the difference between the groups has decreased in recent years and by 2017 the groups were of similar size.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Forskjellen mellom gruppene har imidlertid blitt mindre dei siste &#229;ra, og i 2017 var gruppene like store.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">3.07836</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Half of all smokers die earlier than they would as non-smokers (Peto, 1994).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Halvparten av r&#248;ykjarane d&#248;yr tidlegare enn dei ville gjort som ikkje-r&#248;ykarar (Peto, 1994).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.01088</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/engelsk-english_hjemme-i-isolasjon-eller-karantene-.pdf.converted</prop>
+     <seg>If you are told that you have coronavirus, the municipality will call you about "contact tracing.&#8221;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/nynorsk_hjemme-i-isolasjon-eller-karantene.pdf.converted</prop>
+     <seg>Om du f&#229;r beskjed om at du har korona, ringjer kommunen deg for &#229; gjere det vi kallar for &#171;smittesporing&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.31069</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>More than half of the former daily smokers managed to quit either on their first or second attempts, while the remainder tried several times before they succeeded (Directorate of Health, 2013).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Over halvparten av tidlegare daglegr&#248;ykjarar har greidd &#229; slutte enten p&#229; f&#248;rste eller andre fors&#248;k, mens resten pr&#248;vde fleire gonger f&#248;r dei lykkast (Helsedirektoratet, 2013).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.27857</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Men have had a steeper decline in mortality in cardiovascular disease than women.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Menn har hatt ein brattare nedgang i d&#248;delegheit ved hjarte- og karsjukdom enn kvinner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.1345</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/engelsk-english_hjemme-i-isolasjon-eller-karantene-.pdf.converted</prop>
+     <seg>The same applies if you travel to Norway from many other countries.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/nynorsk_hjemme-i-isolasjon-eller-karantene.pdf.converted</prop>
+     <seg>Det same gjeld om du reiser til Noreg fr&#229; dei fleste andre land.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.15135</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>We do not have information about their use of snus.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Vi har ikkje informasjon om bruken av snus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.685</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The figures began to decline for both sexes in line with various systematic measures, see Figure 4.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Tala begynte &#229; peike nedover for begge kj&#248;nn i takt med ulike systematiske tiltak, sj&#229; figur 4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.03462</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Among women, smoking increased much slower.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Blant kvinner auka r&#248;ykinga mykje langsamare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">2.45711</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The highest percentage of daily smokers is found among men from Poland and Turkey, 35-36 per cent.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Den h&#248;gaste andelen daglegr&#248;ykjarar finn vi blant menn fr&#229; Polen og Tyrkia, her er andelen 35-36 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.69064</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Almost no women from Afghanistan, Pakistan, Sri Lanka, Eritrea and Somalia smoke.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Nesten ingen kvinner fr&#229; Afghanistan, Pakistan, Sri Lanka, Eritrea og Somalia r&#248;ykjer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.28421</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Snus also increases the risk of growth reduction and premature birth.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Ogs&#229; snus aukar risikoen for vekstreduksjon og for tidleg f&#248;dsel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.27602</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Tobacco can be chewed, smoked or placed under the lip in small, moist clumps.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Tobakk kan tyggjast, r&#248;ykjast eller brukast som snus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">3.50883</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Smoking in pregnancy is most widespread (Cupul-Uicab, 2012)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>R&#248;yking i svangerskapet er mest utbreidd (Cupul-Uicab, 2012)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.25</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/engelsk-english_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>&#8226; The child should be</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/nynorsk_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>&#8226; Barnet b&#248;r testast for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.53021</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>When the harmful effects became known, this group quit first (Lund, 1996).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>D&#229; skadeverknadene etter kvart blei kjende, var det ogs&#229; denne gruppa som slutta f&#248;rst (Lund, 1996).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.09945</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Data are missing for some counties.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Data manglar for nokre fylke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.18537</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>This applies both in the workplace and in the home.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Dette gjeld b&#229;de p&#229; arbeidsplassen og i heimen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.39106</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Those who have smoked cigarettes since early in life, but quit when they were 30-50 years old, gain between 6 and 10 years of life compared to those who continued to smoke (Jha, 2014).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Dei som har r&#248;ykt sigarettar sidan tidleg i vaksenlivet, men som sluttar n&#229;r dei er 30-50 &#229;r, vinn mellom 6 og 10 &#229;rs levetid samanlikna med dei som held fram med &#229; r&#248;ykje (Jha, 2014).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.24286</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/ac30cf7739204011a266e8d3dc4f2bec/informasjonsskriv-til-pasienten_phv_final_en2.pdf.converted</prop>
+     <seg>your browser (do not use Google or other search engines):</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/ac30cf7739204011a266e8d3dc4f2bec/informasjonsskriv-til-pasienten_phv_nynorsk2.pdf.converted</prop>
+     <seg>skriv f&#248;lgande direkte i nettlesaren (ikkje bruk Google eller andre s&#248;kesider):</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.87693</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In the period 2012-2014, 2.4 per cent used snus at the start and 1.7 per cent at the end of pregnancy.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I perioden 2012-2014 var det 2,4 prosent som brukte snus i starten og 1,7 prosent i slutten av svangerskapet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">4.08824</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>to circulate among humans in late 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>koronavirus som fyrst sirkulere blant menneske p&#229; slutten av 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.33429</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The decline in smoking in the population has also led to a decline in the number of people exposed to passive smoking.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Nedgangen i r&#248;yking i befolkninga har ogs&#229; f&#248;rt til ein nedgang i talet p&#229; personar som blir utsette for passiv r&#248;yking.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">3.27342</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In 1980 there were 721 million daily smokers in the world and in 2012 there were 967 million (Ng, 2014).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I 1980 var det 721 millionar daglegr&#248;ykjarar i verda og i 2012 heile 967 millionar (Ng, 2014).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.14118</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/County_Public_Health_Survey_SFJ_2019.pdf.converted</prop>
+     <seg>Don't include walking.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/Skjema_Hordaland_FHUS_2018_nyn.pdf.converted</prop>
+     <seg>Ikkje ta med gange.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.40673</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The proportion who use snus daily is highest in Finnmark (13 per cent) and Tr&#248;ndelag (12 per cent) and lowest in the Agder counties with 7 per cent, see Figure 3a (NIPH, 2018).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Andelen som brukar snus dagleg er h&#248;gast i Finnmark (13 prosent) og Tr&#248;ndelag (12 prosent) og l&#229;gast i Aust- og Vest-Agder med 7 prosent, sj&#229; figur 3a (FHI, 2018).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.32296</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The risk of having a stillborn child was 0.25 per cent among non-tobacco users, 0.40 per cent in snus users and 0.46 per cent among smokers (Baba, 2014).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Risikoen for &#229; f&#229; eit d&#248;df&#248;dt barn var 0,25 prosent hos ikkje-tobakksbrukarar, 0,40 prosent hos snusbrukarar og 0,46 prosent hos r&#248;ykjarar (Baba, 2014).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.25884</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Nevertheless, there is a much higher proportion among those with low education who smoke at the beginning of pregnancy (21 per cent) than among those with a high education (2 per cent) (Grotvedt, 2017).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Likevel er det framleis ein langt st&#248;rre andel blant dei med l&#229;g utdanning som r&#248;ykjer i byrjinga av svangerskapet (21 prosent), enn blant dei med h&#248;g utdanning (2 prosent) (Gr&#248;tvedt, 2017).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.66615</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_10kl_engelsk_200421.pdf.converted</prop>
+     <seg>The Norwegian Childhood Immunisation Programme offers pupils in 10th grade(15&#8211;16-years-old) a booster dose</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_10kl_nynorsk_2021.pdf.converted</prop>
+     <seg>I det nasjonale vaksinasjonsprogrammet f&#229;r elevar i 10. klasse (15&#8211;16 &#229;r) tilbod om ein oppfriskingsdose av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.13685</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Children and adolescents who are exposed to passive smoking are at greater risk of respiratory infections, ear problems and asthma, particularly for children under 2 years of age, regardless of whether there are one or more smokers in the household.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Barn og unge som blir utsette for passiv r&#248;yking, har st&#248;rre risiko for &#229; f&#229; luftvegsinfeksjonar, &#248;yreproblem og astma. Dette gjeld s&#230;rleg for barn under 2 &#229;r og gjeld enten det er &#233;in eller fleire i hushaldet som r&#248;ykjer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">2.675</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The large decline in smoking among pregnant applies to all educational groups, and there has been an average decline since 1999.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Den store nedgangen i r&#248;yking blant gravide gjeld for alle utdanningsgrupper, og det har vore ein jamn nedgang heilt sidan 1999.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.32569</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>3 Omr&#229;de for smittevern, milj&#248; og helse Case study for facilitated training fhi.no The best way to prepare for a crisis is to develop a</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>3 Omr&#229;de for smittevern, milj&#248; og helse Kasusstudie for organisert oppl&#230;ring fhi.no Den beste m&#229;ten &#229; f&#248;rebu seg p&#229; ei krise er &#229; utarbeida</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.49783</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>There has been a major decline in smoking among pregnant women.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Det har vore ein stor nedgang i r&#248;yking blant gravide.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.14896</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Cancer develops over a long time, and we cannot know how today's snus use will affect how many cancer cases we will have in future.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Kreft utviklar seg over lang tid, og vi kan ikkje vite om dagens snusbruk vil verke inn p&#229; kor mange krefttilfelle vi f&#229;r i framtida.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">2.28983</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>shows tobacco use among young people aged 16-24, with dual users shown as own groups and daily and occasionally users combined, 2013-2015.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>viser tobakksbruk blant unge 16-24 &#229;r, med dobbeltbrukarar vist som eiga gruppe og dagleg og av og til-bruk sl&#229;tt saman, 2013-2015.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">2.29559</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>A few cigarettes per day can cause the risk of growth reduction in the foetus to double, and with larger smoking doses, the risk increases further (see Figure 15).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Nokre f&#229; sigarettar per dag f&#248;rer til at risikoen for vekstreduksjon hos fosteret blir dobla, og med st&#248;rre r&#248;ykedosar aukar risikoen ytterlegare (sj&#229; figur 15).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">2.21762</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Among young men in the 25-44 age group, snus use is much more common than smoking for men, and in 2017 it was more common for women to use snus daily than to smoke daily (9 and 8 per cent, respectively).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>&#210;g blant yngre menn i alderen 25-44 &#229;r er snusbruk no mykje vanlegare enn r&#248;yking for menn, og i 2017 vart det vanlegare for kvinner i same aldersgruppe &#229; bruka snus dagleg enn &#229; r&#248;ykje dagleg (hhv 9 og 8 prosent).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">4.05152</prop>
+    <prop type="score-bicleaner">0.589</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Around 1950 or earlier, the situation was reversed.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I tida rundt 1950 eller enno tidlegare var situasjonen omvendt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The proportion of daily smokers at the end of pregnancy.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Andelen som r&#248;ykjer dagleg i slutten av svangerskapet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.01818</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The questions about smoking habits are commissioned by the Norwegian Institute of Public Health.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Sp&#248;rsm&#229;la om r&#248;ykjevanar blir stilt p&#229; vegne av Folkehelseinstituttet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">3.87692</prop>
+    <prop type="score-bicleaner">0.599</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>26 per cent of those with basic school education smoke daily.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>26 prosent av personar med grunnskuleutdanning r&#248;ykjer dagleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.11282</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>We still do not have national statistics for snus use in pregnancy.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Vi har enno ikkje landsstatistikk for snusbruk i svangerskapet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.47</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In Norway it is estimated that over 6,000 died of smoking in 2015.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I Noreg er det rekna ut at over 6000 d&#248;ydde av r&#248;yking i 2015.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">2.53512</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The number of those exposed to passive smoking in the home dropped from 20 per cent in 2005 to less than 10 per cent in 2012 (Directorate of Health, 2013).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Talet p&#229; dei som blir utsette for passiv r&#248;yking i heimen, gjekk ned fr&#229; 20 prosent i 2005 til under 10 prosent i 2012 (Helsedirektoratet, 2013).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">4.21742</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Daily smokers in age groups between 16 and 74 years, 2008 - 2016.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Daglegsnusarar i aldersgrupper mellom 16 og 74 &#229;r, 2008 - 2016</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.36909</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Occasional smokers have a longer education than daily smokers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Av og til-r&#248;ykjarane har lengre utdanning enn daglegr&#248;ykjarane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.44718</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>By the mid-1950s, between 25 and 30 per cent smoked.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Midt p&#229; 1950-talet r&#248;ykte mellom 25 og 30 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.78462</prop>
+    <prop type="score-bicleaner">0.617</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>increases the risk of cardiovascular disease.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>aukar risikoen for hjarte- og karsjukdomar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">2.69764</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In 2005, almost every sixth (16 per cent) pregnant women smoked at the beginning of pregnancy and almost every tenth (9 per cent) at the end of pregnancy.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I 2005 r&#248;ykte nesten kvar sjette (16 prosent) gravide kvinne i starten av svangerskapet og nesten kvar tiande (9 prosent) i slutten av svangerskapet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.90211</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Daily smoking in the Nordic countries 2000-2015.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Dagleg r&#248;yking i dei nordiske landa 2000-2015. Kjelde:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">2.07598</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>SARS-CoV-2 virus which causes COVID-19 disease. It is a novel coronavirus that began</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>SARS-CoV-2-viruset er viruset som f&#248;rer til covid-19-sjukdom. Det er eit nytt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">3.62813</prop>
+    <prop type="score-bicleaner">0.597</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The figures are from the Ungdata-studies in all counties in the period 2014-2016.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Tala er fr&#229; Ungdata-unders&#248;kingar i alle fylke i perioden 2014-2016.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.03286</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/ac30cf7739204011a266e8d3dc4f2bec/informasjonsskriv-til-pasienten_phv_final_en2.pdf.converted</prop>
+     <seg>Participation in the survey is voluntary.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/ac30cf7739204011a266e8d3dc4f2bec/informasjonsskriv-til-pasienten_phv_nynorsk2.pdf.converted</prop>
+     <seg>Det er frivillig &#229; delta i unders&#248;kinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">3.418</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In the total 16-74 year age group, 6 per cent of men and 2 per cent of women are dual users.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I heile aldersgruppa 16-74 &#229;r er 6 prosent av mennene og 2 prosent av kvinnene dobbeltbrukarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">2.33299</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Figure 13 shows that Finland has had the weakest decline in smoking in the last decade but differences in the Nordic countries for percentage of daily smokers is now less than before (Directorate of Health, 2013).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Figur 13 viser at Finland har hatt den svakaste nedgangen i r&#248;yking dei siste ti&#229;ra, men forskjellane i Norden n&#229;r det gjeld prosent daglegr&#248;ykjarar, er no mindre enn f&#248;r (Helsedirektoratet, 2013).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.05992</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Passive smoking, workplace pollution, radon gas in the residence, and outdoor air pollution can also contribute to the increased risk of lung cancer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Passiv r&#248;yking, forureining p&#229; arbeidsplassen, radon i bustaden og utand&#248;rs luftforureining kan &#242;g bidra til auka risiko for lungekreft.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">3.12142</prop>
+    <prop type="score-bicleaner">0.531</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In all immigrant groups, the proportion of men who smoked daily was 26 per cent and 10 per cent for women.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I alle innvandrargrupper samla var andelen daglegr&#248;ykjarar no 26 prosent for menn og 10 prosent for kvinner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.64451</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Norway has joined the World Health Organization's Non-communicable Disease Strategy which aims for a reduction of 25 percent in premature death from the four major non-communicable public diseases by 2025.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Noreg har slutta seg til Verdas helseorganisasjons strategi for ikkje-smittsame sjukdomar (NCD-strategien) der m&#229;let er at det skal bli 25 prosent nedgang i for tidlig d&#248;d av dei fire store ikkje-smittsame folkesjukdomane innan 2025.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">3.44007</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The proportion was higher among the youngest women (Rygh, 2016).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Andelen var h&#248;gare blant dei yngste (Rygh, 2016).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">3.48</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Figure 12 shows the development of daily smoking among pregnant women by the end of pregnancy.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Figur 12 viser utviklinga i dagleg r&#248;yking blant gravide ved slutten av svangerskapet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">2.27</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/ac30cf7739204011a266e8d3dc4f2bec/informasjonsskriv-til-pasienten_phv_final_en2.pdf.converted</prop>
+     <seg>From 2020, all patients who are admitted to mental health care institutions will be invited to</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/ac30cf7739204011a266e8d3dc4f2bec/informasjonsskriv-til-pasienten_phv_nynorsk2.pdf.converted</prop>
+     <seg>Fr&#229; og med 2020 vert alle pasientar som er innlagd ved institusjonar i psykisk helsevern inviterte til &#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">3.84485</prop>
+    <prop type="score-bicleaner">0.603</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Figures are from 2013-2017, for the 16-74 year age groups.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Tala er fr&#229; 2013-2017, og gjeld aldersgruppa 16-74 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.045</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Smoking is the biggest risk factor for lost life years in populations.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>R&#248;yking er den st&#248;rste risikofaktoren for tapte leve&#229;r i befolkninga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.54737</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>From the turn of the century we have seen a decline in smoking for both sexes, see figure 5a.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Fr&#229; tusen&#229;rsskiftet har vi hatt ein jamn nedgang i r&#248;yking i alle aldersgrupper, sj&#229; figur 5a.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">2.73291</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Also among men in the 25-44 year age group, snus use is significantly more common than smoking, see figure 1a and 1b.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Ogs&#229; blant menn i aldersgruppa 25-44 &#229;r er snus betydeleg vanlegare enn r&#248;yk, sj&#229; figurane 1a og 1b.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">4.39091</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Daily smoking by education in the period 2005-2017.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Dagleg r&#248;yking etter utdanning i perioden 2005&#8211;2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">2.39022</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The absolute risk is low, according to numbers based on 850 000 births in the Swedish Medical Birth Registry.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Den absolutte risikoen er l&#229;g, viser tal basert p&#229; 850 000 f&#248;dsler i det svenske medisinske f&#248;dselsregisteret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">2.86783</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The lowest proportion is found among men from Sri Lanka, Eritrea and Afghanistan (7-9 per cent).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Den l&#229;gaste andelen finn vi blant menn fr&#229; Sri Lanka, Eritrea og Afghanistan (7 - 9 prosent).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">3.66471</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Snus is the most common tobacco product used by young people in the 16-24 year age group.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Snus er det vanlegaste tobakksproduktet blant unge i aldersgruppa 16-24 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">2.775</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>For Norwegian women, the average age of smoking debut has fallen from 20 years in 1980 to about 18 years by 2015.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>For norske kvinner har gjennomsnittlig debutalder for r&#248;yking g&#229;tt ned fr&#229; 20 &#229;r i 1980 til cirka 18 &#229;r i 2015.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.02429</prop>
+    <prop type="score-bicleaner">0.563</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The Troms&#248; study confirms this picture.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Troms&#248;-studien bekreftar dette bildet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">1.95873</prop>
+    <prop type="score-bicleaner">0.559</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Status of tobacco use in Norway</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Status for bruk av tobakk i Noreg i dag</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.95722</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/engelsk-english_hjemme-i-isolasjon-eller-karantene-.pdf.converted</prop>
+     <seg>If you are told to stay at home in isolation or quarantine Most people who have coronavirus (COVID-19) only have mild symptoms, but some can become very sick and some may die.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/nynorsk_hjemme-i-isolasjon-eller-karantene.pdf.converted</prop>
+     <seg>Dei fleste som f&#229;r korona (covid-19) f&#229;r berre milde plager, men nokre kan bli sv&#230;rt sjuke og i verste fall d&#248;y.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">3.26613</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The proportion of women who use snus daily in the county, age group 16-44 years.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Andelen kvinner som brukar snus dagleg i fylka, aldersgruppa 16-44 &#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.9952</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The occasional use of cigarettes has been fairly stable at around 10 per cent for men and somewhat lower for women of all age groups combined, despite the fact that daily smoking has declined.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Av og til-bruk av sigarettar har halde seg noks&#229; stabilt p&#229; rundt 10 prosent for menn og noko l&#229;gare for kvinner i alle aldersgrupper samanlagt, til tross for at dagleg r&#248;yking har g&#229;tt jamt ned.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.10892</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Data from the Norwegian Mother and Child Cohort Study show that a woman who was exposed to smoking as a foetus has an increased risk of obesity, high blood pressure and diabetes in adulthood.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Data fr&#229; Den norske mor og barn-unders&#248;kinga viser at ei kvinne som sj&#248;lv var utsett for r&#248;yking som foster, har auka risiko for &#229; slite med fedme, h&#248;gt blodtrykk og diabetes i vaksen alder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">2.80458</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>It can take 20-40 years to develop lung cancer from the age when smoking starts.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Det tek gjerne 20&#8211;40 &#229;r &#229; utvikle lungekreft fr&#229; det tidspunktet ein begynner &#229; r&#248;ykje.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.37814</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_10kl_engelsk_200421.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_2kl_engelsk_200421.pdf.converted</prop>
+     <seg>For more information go to https://www.fhi.no/en/id/vaccines/childhood-immunisation-programme/</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_10kl_nynorsk_2021.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_2kl_nynorsk_2021.pdf.converted</prop>
+     <seg>barnet har hatt ein eller fleire av sjukdomane.Meir informasjon finst p&#229; nettsida https://www.fhi.no/om-bvp</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.38158</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In addition, smoking leads to impaired health as a consequence of these diseases (NIPH, 2017a).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I tillegg bidreg r&#248;yking til redusert helse som f&#248;lgje av desse sjukdomane (FHI, 2017a).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">2.52365</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/engelsk-english_hjemme-i-isolasjon-eller-karantene-.pdf.converted</prop>
+     <seg>Contact a doctor or the emergency out-of-hours clinic (telephone 116 117) if you feel very unwell or need medical help.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/nynorsk_hjemme-i-isolasjon-eller-karantene.pdf.converted</prop>
+     <seg>Kontakt lege eller legevakt (telefon 116 117) om du f&#248;ler deg veldig sjuk eller treng medisinsk hjelp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.05455</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In addition, when tobacco is smoked, other harmful substances are released.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>N&#229;r tobakk blir r&#248;ykt, blir det i tillegg frigjort ei rekkje andre helseskadelege stoff.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">2.45053</prop>
+    <prop type="score-bicleaner">0.511</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>From a country-representative annual sample of 8000 aged 16-74 years, 55-65 per cent agree to participate.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Av eit landsrepresentativt utval p&#229; 8000 personer per &#229;r i alderen 16-74 &#229;r seier 55 - 65 prosent ja til &#229; delta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">1.11783</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>It is possible that future studies can give a good answer to this as methods for measuring dependence will also be better adapted to the use of snus.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Det er mogleg at framtidige studiar kan gi eit betre svar p&#229; dette, etter kvart som metodane for &#229; m&#229;le avhengigheit ogs&#229; blir betre tilpassa snusbruk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.03065</prop>
+    <prop type="score-bicleaner">0.559</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Other cancerous diseases are also associated with tobacco use, see fact box.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Ogs&#229; andre kreftsjukdomar er forbunde med tobakksbruk, sj&#229; faktaboks.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1.47625</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In the figures, a socioeconomic status is used, similar to the family affluence scale used in the international HBSC study in which Norway participates.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I figurane er det brukt eit m&#229;l p&#229; sosio&#248;konomisk status som liknar p&#229;&#171;family affluence scale&#187; i den internasjonale HBSC-studien som Noreg deltar i.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.12963</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>&#8226; The rather long infectious period and the fact that an infected person can transmit the disease</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>&#8226; Sjukdommen kan spreie seg raskt fr&#229; ein smitta person om kontrolltiltak ikkje vert sett i verk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">3.08353</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In 2016, a new living conditions survey was conducted among immigrants (Statistics Norway, 2017).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I 2016 blei det gjennomf&#248;rt ei ny levek&#229;rsunders&#248;king blant innvandrarar (SSB, 2017).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.10914</prop>
+    <prop type="score-bicleaner">0.569</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/e6b5660fc35740c8bb2a32bfe0cc45d1/vedlegg/nasjonale-og-regionale-rapporter/2020-10-28-national-corona-report-including-test-data.pdf.converted</prop>
+     <seg>We also estimate the delay d.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/8ccdc21dc1d14d32965a3c82fff1054a/vedlegg/nynorsk_vaksine_moderna.pdf.converted</prop>
+     <seg>Vaksinen er gratis og frivillig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">3.83276</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In the whole 16-74 year age group, approximately 70 per cent are tobacco-free.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I heile aldersgruppa 16-74 &#229;r er no cirka 70 prosent tobakksfrie.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">3.71538</prop>
+    <prop type="score-bicleaner">0.521</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/County_Public_Health_Survey_SFJ_2019.pdf.converted</prop>
+     <seg>Only include activities that have lasted at least 10 minutes at a time.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/Skjema_Hordaland_FHUS_2018_nyn.pdf.converted</prop>
+     <seg>Ta berre med aktivitetarsom varer i minst 10 minutt i strekk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">3.13469</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>By 2015 there were still the most daily smokers among the youngest, but there is little difference between the age groups.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I 2015 var det fortsatt flest daglegr&#248;ykjarar blant dei yngste, men det er liten forskjell mellom aldersgruppene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">3.8</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Nearly half of heavy smokers die before they reach 70 years.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>N&#230;r halvparten av storr&#248;ykjarane d&#248;yr f&#248;r dei fyller 70 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">3.11775</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The relationship between daily smoking and risk (OR) for reduced foetal growth 1999&#8211;2013</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Samanhengen mellom dagleg r&#248;yking og risikoen (OR) for redusert vekst hos fosteret 1999&#8211;2013</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">2.94881</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Cardiovascular disease used to be the most frequent cause of death among smokers (Vollset, 2006).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Hjarte- og karsjukdom var tidlegare den klart hyppigaste d&#248;ds&#229;rsaka blant r&#248;ykjarar (Vollset, 2006).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">2.84762</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/barnevaksinasjonsprogrammet/flyer-barnevaksinasjonsprogrammet_eng.pdf.converted</prop>
+     <seg>After vaccination you should wait 20 minutes before leaving the health centre.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/barnevaksinasjonsprogrammet/flyer-barnevaksinasjonsprogrammet_nn.pdf.converted</prop>
+     <seg>Etter vaksinasjon b&#248;r ein vente 20 minutt f&#248;r ein g&#229;r fr&#229; helsestasjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">1.02857</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/engelsk-english_hjemme-i-isolasjon-eller-karantene-.pdf.converted</prop>
+     <seg>You should not go to school, work, or participate in other activities.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/nynorsk_hjemme-i-isolasjon-eller-karantene.pdf.converted</prop>
+     <seg>Du skal ikkje g&#229; p&#229; skole, jobb, eller delta p&#229; andre aktivitetar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.74677</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>From July 2017, vaping of e-cigarettes, both with and without nicotine-containing liquids, are included in the Tobacco Control Act so that in places where smoking is forbidden, vaping will also be forbidden.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>juli 2017 er e-sigaretter, b&#229;de med og utan nikotin, omfatta av r&#248;ykelova slik at det er forbode &#229; dampe alle stader der det no er forbode &#229; r&#248;yke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.03552</prop>
+    <prop type="score-bicleaner">0.603</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_10kl_engelsk_200421.pdf.converted</prop>
+     <seg>In the Childhood Immunisation Programme,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_10kl_nynorsk_2021.pdf.converted</prop>
+     <seg>I vaksinasjonsprogrammet gir ein tre dosar med slik vaksine</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">4.78846</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>The remaining 70 % employees are temporary foreign workers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Resterande 70 prosent er utanlandske gjestearbeidstakarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">2.67391</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>While 25 per cent of workers were exposed to passive smoking at work in 2002, this was 5 per cent 10 years later.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Mens 25 prosent av dei yrkesaktive vart utsette for passiv r&#248;yking p&#229; jobb i 2002, gjaldt dette 5 prosent 10 &#229;r seinare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.04455</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/brukererfaring/rehab--pasienters-erfaringer-med-rehabiliteringsoppholdet-2019_engelsk-final.pdf.converted</prop>
+     <seg>rehabilitation institution/ward where you have been staying,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/brukererfaring/rehab--pasienters-erfaringer-med-rehabiliteringsoppholdet-2019_nynorsk-final.pdf.converted</prop>
+     <seg>fr&#229; opphaldet ved rehabiliteringsinstitusjonen/-avdelinga,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">2.17188</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The decline in smoking can account for 13 per cent of the decline in coronary heart disease from 1994 to 2008, while positive trends in cholesterol, blood pressure and physical activity have also been important (Mannsverk, 2016).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Nedgang i r&#248;yking kan &#229;leine tilskrivast 13 prosent av nedgangen i koronar hjartesjukdom fr&#229; 1994 til 2008, mens gunstig utvikling av kolesterol, blodtrykk og fysisk aktivitet ogs&#229; har hatt stor betydning (Mannsverk, 2016).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">3.01558</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Among the youngest (16-24 years), 13 per cent of men and 7 per cent of women are dual users.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Blant dei yngste (16&#8211;24 &#229;r) er 13 prosent av mennene og 7 prosent av kvinnene dobbeltbrukarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">1.08104</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Data from annual surveys in Statistics Norway are the main basis for estimating how many people smoke and use snus in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Data fr&#229;&#229;rlege sp&#248;rjeunders&#248;kingar i Statistisk sentralbyr&#229; er hovedgrunnlaget for &#229; ansl&#229; kor mange som r&#248;ykjer og brukar snus i Noreg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.02541</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/County_Public_Health_Survey_SFJ_2019.pdf.converted</prop>
+     <seg>On how many of the last 7 days did you walk for at least 10 minutes at a time?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/Skjema_Hordaland_FHUS_2018_nyn.pdf.converted</prop>
+     <seg>Kor mange dagar i l&#248;pet av dei siste 7 dagane gjekk du i minst 10 minutt i strekk?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">2.71645</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>The global disease burden project has estimated that 120 deaths in Norway could be attributed to passive smoking in 2015.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Det globale sjukdomsb&#248;r-prosjektet har rekna ut at 120 d&#248;dsfall i Noreg kunne tilskrivast passiv r&#248;yking i 2015.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">1.21626</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/engelsk-english_hjemme-i-isolasjon-eller-karantene-.pdf.converted</prop>
+     <seg>If you have coronavirus, you will be told to isolate.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/nynorsk_hjemme-i-isolasjon-eller-karantene.pdf.converted</prop>
+     <seg>Om du har korona f&#229;r du beskjed om &#229; vere i isolasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.14868</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Among women, the proportion of daily smokers was the highest among immigrants from Poland, Turkey and Bosnia-Herzegovina (about one in five).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Blant kvinner var andelen daglegr&#248;ykjarar st&#248;rst blant innvandrarar fr&#229; Polen, Tyrkia og Bosnia-Hercegovina (cirka ein av fem).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">1.74337</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Access to snus cannot replace the usual interventions against smoking (information, restriction and help to quit) but when good anti-smoking programmes are established, snus can result in a significant reduction in smoking (Lund, 2014).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Tilgang p&#229; snus kan ikkje erstatte dei vanlege tiltaka mot r&#248;yking (opplysning, restriktive tiltak og tilbod om hjelp til avvenning), men n&#229;r gode program mot r&#248;yking er etablert, bidreg tilgang p&#229; snus til at ein f&#229;r redusert r&#248;ykinga ytterlegere (Lund, 2014).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">3.28163</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>Independently, the employer starts mass-screening for COVID-19 of foreign workers at the industrial plant.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Samtidig startar arbeidsgjevaren massescreening for covid-19 blant utanlandske arbeidarar ved industrianlegget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">1.41635</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In the Nordic countries, Denmark and Finland have the most daily smokers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I Norden er det Danmark og Finland som har flest daglegr&#248;ykjarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">2.87679</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>When the mother smokes both during and after pregnancy, it increases the risk of cot death (Zhang, 2013).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>N&#229;r mor r&#248;ykjer b&#229;de under og etter svangerskapet, gir det auka risiko for krybbed&#248;d (Zhang, 2013).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">2.61667</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>There has been a strong decline in the percentage of pregnant women who smoke, this has more than halved from 2005 to 2015, see Figure 12.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Det har vore ein sterk nedgang i prosentandelen gravide som r&#248;ykjer, andelen er meir enn halvert fr&#229; 2005 til 2015, sj&#229; figur 12.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">3.42173</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>By 2017, there were 29 per cent in the age group 16-74 years who smoked or used snus.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I 2017 var det til saman 29 prosent i aldersgruppa 16-74 &#229;r som r&#248;ykte eller brukte snus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">1.3471</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Nevertheless, there is also the opposite finding; that it was harder to quit cigarettes than snus (Fagerstrom, 2012).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Likevel er ogs&#229; det motsette funne; at det var vanskelegere &#229; slutte med sigarettar enn med snus (Fagerstrom, 2012).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">2.92427</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Half of the patients will be under 75 years at the time of diagnosis (Cancer Registry, 2016a).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Halvparten av pasientane vil vere under 75 &#229;r ved diagnosetidspunktet (Kreftregisteret, 2016a).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">2.83125</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>In the period from 2005 to 2014, each year between 4 500 and 10 000 young people aged 16-24 became daily smokers (Ved&#248;y, 2015).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I perioden 2005-2014 var det kvart &#229;r mellom 4 500 og 10 000 unge i alderen 16-24 som blei dagleg-r&#248;ykarar (Ved&#248;y, 2015).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">2.9877</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Figure 8 shows that there has been a decrease in daily smoking in all three education groups in the last 15-20 years, but differences are still large.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Figur 8 viser at det har vore nedgang i dagleg r&#248;yking i alle dei tre utdanningsgruppene dei siste 15&#8211;20 &#229;ra, men forskjellane er framleis store.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/engelsk-english_hjemme-i-isolasjon-eller-karantene-.pdf.converted</prop>
+     <seg>You cannot go out.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/9648bb76836841468f9f11022d2e0cf8/vedlegg/nynorsk_hjemme-i-isolasjon-eller-karantene.pdf.converted</prop>
+     <seg>Du kan ikkje g&#229; ut.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">4.265</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Daily smoking (r&#248;yking) and snus use among women of different age groups 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Dagleg r&#248;yking og snusbruk blant kvinner i ulike aldersgrupper 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">1.88218</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/barnevaksinasjonsprogrammet/flyer-barnevaksinasjonsprogrammet_eng.pdf.converted</prop>
+     <seg>above 39&#730;C and/or poor general health, this can be a sign of a serious illness and is not necessarily</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/barnevaksinasjonsprogrammet/flyer-barnevaksinasjonsprogrammet_nn.pdf.converted</prop>
+     <seg>Dersom barnet f&#229;r feber over 39 &#730;C og/eller redusert allmenntilstand, kan dette vere teikn p&#229; alvorleg sjukdom og treng ikkje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">3.06898</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>For all EU countries, the proportion of daily smokers among men is 27 per cent.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>For alle EU-land samla er andelen daglegr&#248;ykjarar blant menn i gjennomsnitt 27 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">4.25789</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Daily smoking (r&#248;yking) and snus use among men of different age groups 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Dagleg r&#248;yking og snusbruk blant menn i ulike aldersgrupper 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">1.4</prop>
+    <prop type="score-bicleaner">0.511</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>About tobacco and nicotine</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Om tobakk og nikotin</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">1.09552</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_10kl_engelsk_200421.pdf.converted</prop>
+     <seg>flammation of the brain (encephalitis) and can result in permanent paralysis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_10kl_nynorsk_2021.pdf.converted</prop>
+     <seg>domen kan gi hjernebetennelse (encefalitt) og kan f&#248;re til varige lammingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">3.46477</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>Barracks are located at walking distance from the plant (see Figure 1).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Brakkene ligger i gangavstand fr&#229; anlegget (sj&#229; figur 1).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">2.4631</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Since the previous living conditions survey among immigrants 10 years ago, there has been a stronger decline in the proportion of smokers in the total population than in the immigrant population.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Sidan forrige levek&#229;rsunders&#248;king blant innvandrarar for 10 &#229;r sidan har det vore ein sterkare nedgang i andelen r&#248;ykjarar i befolkninga totalt enn det har vore i innvandrarbefolkningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">1.15843</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>to others before symptom onset means that the disease can spread rapidly from one single infected person if control measures are not implemented early on.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>tidleg sidan smitteperioden kan vere noks&#229; lang og ein smitta person kan smitte andre f&#248;r symptomdebut.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/giftinformasjonen/giftige-sopper---engelsk-2015.pdf.converted</prop>
+     <seg>The base of the stem is bulbous.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/giftinformasjonen/giftige-sopper---nynorsk.pdf.converted</prop>
+     <seg>Foten p&#229; stilken er oppsvulma.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">2.84226</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Daily use of snus among adults (25-74 years) by education level in the period 2008-2017.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Dagleg bruk av snus blant vaksne (25-74 &#229;r) etter utdanning i perioden 2008&#8211;2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">2.12933</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>The infectious period is estimated to last for 8-10 days in moderate cases requiring hospitalization, and up to an average of 2 weeks in severe cases.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Den smittsame perioden er truleg 8-10 dagar i moderate tilfelle (som krev sjukehusinnlegging), og opp til eit snitt p&#229; 2 veker i meir alvorlege tilfelle.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">2.93783</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>It has been estimated that one contagious person can infect an average of 2-3</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Det er ansl&#229;tt at ein smittsam person kan smitte 2-3 andre personar i snitt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">3.07995</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>, almost 30 per cent of Norwegian men smoked but very few women.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>r&#248;ykte knapt 30 prosent av norske menn, men sv&#230;rt f&#229; kvinner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">2.89167</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/case-study---covid-19-outbreak-foreign-workers-27.04.2021.pdf.converted</prop>
+     <seg>Following the positive test results, 16 school children and a group of kindergarten pupils are placed in quarantine.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Etter dei positive testresultata blir 16 skuleungdommar og ei gruppe barnehageelever sett i karantene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">2.50273</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>This may cause teeth to loosen and change position (Norwegian Directorate of Health, 2015).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Det kan f&#248;re til at ein f&#229;r lause tenner og endra tannstilling (Helsedirektoratet, 2015).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">1.66825</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_2kl_engelsk_200421.pdf.converted</prop>
+     <seg>The Norwegian Childhood Immunisation Programme offers pupils in 2nd grade (7&#8211;8 years of age) a booster dose of</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_2kl_nynorsk_2021.pdf.converted</prop>
+     <seg>I det nasjonale vaksinasjonsprogrammet f&#229;r elevar i 2. klasse (7&#8211;8 &#229;r) tilbod om ein oppfriskingsdose av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">1.09697</prop>
+    <prop type="score-bicleaner">0.519</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>: Currently, we know that smoking gives a much higher risk of cancer than snus.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Per i dag veit vi at sigarettr&#248;yking gir mykje h&#248;gare risiko for kreft enn det snus gjer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="170" datatype="Text">
+    <prop type="score-hunalign">1.08657</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_2kl_engelsk_200421.pdf.converted</prop>
+     <seg>inflammation of the brain (encephalitis) and can result in permanent paralysis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/skolevaksine/oppdaterte-skjemaer/tid-for-dtp-ipv-vaksine_2kl_nynorsk_2021.pdf.converted</prop>
+     <seg>domen kan gi hjernebetennelse (encefalitt) og kan f&#248;re til varige lammingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="171" datatype="Text">
+    <prop type="score-hunalign">3.76341</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>At the highest levels, about 70 per cent of men smoked.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>P&#229; det meste r&#248;ykte om lag 70 prosent av mennene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="172" datatype="Text">
+    <prop type="score-hunalign">3.23898</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>About 30 per cent of adults use tobacco, either as cigarettes or snus.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>I den vaksne befolkninga brukar cirka 30 prosent tobakk, enten som r&#248;yk eller snus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="173" datatype="Text">
+    <prop type="score-hunalign">1.23987</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fhi.no/en/op/hin/lifestyle/royking-og-snusbruk-i-noreg/</prop>
+     <seg>It takes decades to develop cancer as a consequence of smoking and even if there has been a decrease in the percentage of women who smoke, it will also take a long time before the figures for morbidity and mortality decline for women.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/nettpub/hin/levevaner/royking-og-snusbruk-i-noreg/</prop>
+     <seg>Det tek fleire ti&#229;r &#229; utvikle kreft som f&#248;lgje av r&#248;yking, og sj&#248;lv om det lenge har vore ein nedgang i prosentdelen kvinner som r&#248;ykjer, tar det lang tid f&#248;r tal for sjukelegheit og d&#248;delegheit g&#229;r ned ogs&#229; blant kvinner.</seg>
+    </tuv>
+   </tu>
+ </body>
+</tmx>

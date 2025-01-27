@@ -1,0 +1,877 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T035705" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.23662</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>&#8226; Suppliers must find it commercially attractive to offer new drugs and solutions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Det skal v&#230;re forretningsmessig interessant for leverand&#248;rer &#229; tilby nye legemidler og l&#248;sninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.28182</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>More effective implementation of procured agreements will contribute to equal and quick access to effective drugs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Bedre implementering vil bidra til likeverdig og rask tilgang til effektive legemidler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.39455</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>By developing good and realistic requirements and implementing them in cooperation with the HTs, the market and the relevant authorities.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Utvikle gode og realistiske krav og implementere i samarbeid med HF, markedet og myndigheter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.1026</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>The INQ is what will provide the best foundation for volume in procurements.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>Det er INQ som gir det beste grunnlaget for volum i anskaffelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.26604</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The expenditure for 2020 is expected to exceed NOK 10 billion.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>I 2020 forventes det at utgiftene vil v&#230;re over 10 milliarder kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.19538</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The Pharmaceutical Strategy of the Sykehusinnkj&#248;p HF underpins its goals.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Sykehusinnkj&#248;p HF legemiddelstrategi bygger opp under foretakets form&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>By using a procurement process that is optimal in the case at hand.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Benytte innkj&#248;psprosess som er optimal i det enkelte tilfellet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.39011</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Differentiated procurements will contribute to equal and quick access to effective drugs, at the lowest possible price.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Differensierte innkj&#248;p skal bidra til likeverdig og rask tilgang til effektive legemidler, til lavest mulig pris.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.57333</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>This will be reflected, to an ever increasing extent, in the budgets of the health trusts until the transfer is complete in 2022.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Dette vil gi stadig st&#248;rre utslag p&#229; helseforetakenes budsjetter frem til overf&#248;ringen er ferdig i 2022.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.29464</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Sykehusinnkj&#248;p HF will be Norway&#8217;s leading procurement agency.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Sykehusinnkj&#248;p HF skal v&#230;re landets fremste anskaffelsesorgan.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.16518</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>: Identifying contents per ME, as this may vary between suppliers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>Identifisere innhold per ME, ettersom dette kan variere mellom leverand&#248;rer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.06364</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Good pharmaceutical procurement can give the specialised health service quick access to effective pharmaceuticals at the lowest possible price, thereby facilitating more extensive pharmaceutical treatment or prioritisation of other important healthcare objectives.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Gode innkj&#248;p av legemidler kan sikre spesialisthelsetjenesten rask tilgang til effektive legemidler til lavest mulig pris, og dermed legge til rette for mer legemiddelbehandling eller prioritering av andre viktige helseform&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">3.23196</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>There are 50 pharmaceuticals (1.5 % of all drugs), which stand for 70 % of the pharmaceutical costs in the specialised health service in 2016.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>50 legemidler (1,5 % av legemidlene) st&#229;r for 70 % av det legemiddelkostnaden i spesialisthelsetjenesten i 2016.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.12194</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The illustration below shows the development in the pharmacy retail prices and contractual pharmacy retail prices (where a discounted contractual pharmacy retail price) makes a growth in patient treatment activities possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Illustrasjonen nedenfor viser utviklingen i listepris (apotekenes utsalgspris) og avtalepris (rabatert utsalgspris i apotek der avtalene til kategori legemidler ligger til grunn) gir rom for &#229;&#248;ke pasientbehandlingen med i spesialisthelsetjenesten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.15879</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>: Identifying content per ME, as this may vary between suppliers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>Identifisere innhold per ME, ettersom dette kan variere mellom leverand&#248;rer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.05476</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/Documents/Om%20oss/Samfunnsansvar/Etiske%20retningslinjer%20Sykehusinnkj%c3%b8p%20ENGLISH.pdf.converted</prop>
+     <seg>If personal views are being presented, this must be made clear.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/Documents/Om%20oss/Samfunnsansvar/samarbeidsavtale_LFH_helsesor-ost_RHF2014.pdf.converted</prop>
+     <seg>Samarbeidsprosjekter og oppdragsforskning skal forankres og godkjennes av administrerende direkt&#248;r i helsehelseforetaket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.12006</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Action plans will be prepared for each focus area and will be followed up on annually through the Pharmaceutical Division&#8217;s business plan.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>For hvert satsingsomr&#229;de vil det utarbeides tiltaksplaner som f&#248;lges opp &#229;rlig gjennom divisjon legemidler sin virksomhetsplan.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.36678</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>It also limits the cost increase. In 2018, it contributed to making available resources corresponding to NOK 4.7 billion.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Det begrenser ogs&#229; kostnadsveksten og bidro i 2018 med frigj&#248;ring av ressurser tilsvarende 4,7 milliarder NOK.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.06646</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Elements that are highlighted include LIS specialist groups, LIS contacts, LIS specialist seminars and dialogue meetings with the pharmaceutical industry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Elementer som trekkes frem er LIS-spesialistgrupper, LIS-kontakter, LIS-spesialistseminarer og dialogm&#248;ter med markedet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.28707</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>A good dialogue regarding the process in New Methods and the procurement process will contribute to equal and quick access to effective drugs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>God dialog mellom prosessen i Nye Metoder og anskaffelsesprosessen vil bidra til likeverdig og rask tilgang til effektive legemidler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.15385</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The focus areas will help the Pharmaceutical Division to manage the responsibility for pharmacetuical procurements according to the needs of the specialised health service.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Satsingsomr&#229;dene skal bidra til at divisjon legemidler forvalter ansvaret for &#229; kj&#248;pe innlegemidler i henhold til spesialisthelsetjenestens behov.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.775</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>For example, a pack (ME) of sterile sponges that for one supplier contains 5 sponges (INQ = 5), and for another contains 3 sponges (INQ = 3).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>Eksempelvis en pakke (ME) med sterile tupfere som hos en leverand&#248;r inneholder 5 tupfere (INQ = 5), og hos en annen 3 tupfere (INQ = 3).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.38361</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>If relevant, the contract number it naturally belongs to, but which is not registered in &#8220;Innkj&#248;psportalen&#8221; (hstat.no).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>Eventuelt det avtalenummeret den naturlig tilh&#248;rer, men som ikke er registrert i Innkj&#248;psportalen (hstat.no).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.04112</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>INQ, combined with metric measurements where this is relevant, is what gives the best foundation for volume in procurements.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>Det er INQ, kombinert med metrisk m&#229;l der det er aktuelt, som gir det beste grunnlaget for volum i anskaffelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">3.29577</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>This is a reduction of 35 % compared to the maximum pharmacy retail price (max. AUP).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Dette er 35 prosent reduksjon sammenliknet med apotekenes maksimale utsalgspris.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.54111</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>A more consistent transition to pharmaceuticals which are more reasonably priced and technically equivalent has a savings potential of additional NOK 1 billion.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Mer konsekvent etterlevelse av overgang til legemidler som er rimeligere og faglig likeverdige, har et besparelsespotensial p&#229; ytterligere 1 milliard NOK.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.55268</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>Decimal figure, greater than 0</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>Desimaltall, st&#248;rre enn 0. Metrisk m&#229;l (SI-systemet)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.96968</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The Pharmaceutical Procurement Cooperation (hereafter referred to with the Norwegian abbreviation LIS) has been responsible for procuring pharmaceuticals for the specialised health service since 1995.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Legemiddelinnkj&#248;pssamarbeidet (LIS) har siden 1995 hatt ansvar for &#229; konkurranseutsatte legemidler for spesialisthelsetjenesten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.08645</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The goal is a strategic direction and an ambition that keeps with mission and governing documents from the RHAs and political documents from the Norwegian Ministry of Health and Care Services (hereafter referred to with the Norwegian abbreviation HOD).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>M&#229;let er en strategisk retning med en ambisjon som er i tr&#229;d med oppdrags- og styringsdokumenter fra de regionale helseforetakene (RHF) og politiske dokumenter fra Helse- og omsorgsdepartementet (HOD).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.77273</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Why will it be implemented?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Hvorfor skal det gj&#248;res?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.10714</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The Pharmaceutical Strategy aims to set the tone for a good business dialogue between the specialised healthcare service and the pharmaceutical industry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Legemiddelstrategien skal gi retning til god forretningsmessig dialog mellom spesialisthelsetjenesten og legemiddelmarkedet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.20893</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>During the transfer of operations, LIS was assigned to the Pharmaceutical Division.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Ved virksomhetsoverdragelsen ble LIS til divisjon legemidler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.025</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Systems for good procurements have contributed to material benefits for the specialised health service for two decades.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Systemer for gode innkj&#248;p har gjennom to ti&#229;r bidratt til betydelige gevinster for spesialisthelsetjenesten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.13896</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/Documents/Legemidler/Joint%20Nordic%20procurement/Annex%202%20(evaluation%20method)%20-%202020-2.620.b.pdf.converted</prop>
+     <seg>Evaluation of the other sub-criteria</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/Documents/Styrem%C3%B8ter/2017/Styrem%C3%B8te%201.%20september%202017/Sak-068-2017-Status-for-arbeidet-med-plan-for-omstilling-i-Sykehusinnkj%C3%B8p-HF_23.08.2017-kl-21.00.pdf.converted</prop>
+     <seg>I tillegg er stabsleder konstituert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.57211</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>More extensive and better patient treatment through good pharmaceutical procurements.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Mer og bedre pasientbehandling gjennom gode innkj&#248;p av legemidler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.005</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Procuring pharmaceuticals in new and efficient ways</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Kj&#248;pe inn legemidler p&#229; nye og effektive m&#229;ter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">4.25435</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The focus areas are prioritised on the basis of 19 hypotheses.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Satsingsomr&#229;dene er prioritert ut fra 19 hypoteser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.68261</prop>
+    <prop type="score-bicleaner">0.748</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Ensuring responsible procurements</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Sikre ansvarlige innkj&#248;p</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.43232</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Electronic systems for prescription support can ensure that the benefits are realised through good implementation and compliance with agreements and recommendations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Elektroniske systemer for forskrivningsst&#248;tte kan sikre gevinstrealisering gjennom god implementering og etterlevelse av avtaler og anbefalinger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>This is referred to as a steadily growing &#8220;healthcare gap&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Dette omtales som et stadig &#248;kende "helsegap".</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.29032</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The purpose of the Pharmaceutical Strategy is to live up to the assignments and orders given by the RHTs to Sykehusinnkj&#248;p HF for pharmaceuticals.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Legemiddelstrategiens form&#229;l er &#229; etterleve de regionale helseforetakenes oppdrag og bestilling til Sykehusinnkj&#248;p HF innen legemiddelomr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.94485</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>For individually-packaged goods, the smallest unit will often be equal to the lowest mutable use unit, giving INQ = 1 (for example, a single packed syringe that cannot be broken down into multiple syringes).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>For enkeltpakkede varer vil oftest minste enhet v&#230;re lik minste nedbrytbare forbruksenhet, noe som gir INQ = 1 (eksempelvis for en enkeltpakket spr&#248;yte som ikke kan brytes ned i flere spr&#248;yter).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.11165</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>There is a growing discrepancy between what is medically possible and the resources that are available.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Det er et &#248;kende misforhold mellom hva som er medisinsk mulig og ressursene som st&#229;r til r&#229;dighet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.82924</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>Number of ME sold = number of bottles sold, INQ = 0.7, metric measurement = litre (LTR).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>Antall ME solgt = antall flasker solgt, INQ = 0,7, metrisk m&#229;l = liter (LTR).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.77273</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>How will it be implemented?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Hvordan skal det gj&#248;res?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.07232</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Additional venues to exchange experience and facilitate discussions should be established between the specialist health service and the pharmaceutical industry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Det b&#248;r etableres flere gode arenaer for erfaringsutveksling og diskusjon mellom fagmilj&#248;ene i spesialisthelsetjenesten og markedet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.175</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Adapt procurements to the different life cycle stages of the pharmaceuticals.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Tilpasse innkj&#248;p til fasene i legemidlers livssyklus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.32889</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Through several years of structured work, Sykehusinnkj&#248;p HF has built an effective system for cooperation with professionals in the specialised health service and suppliers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Gjennom strukturert arbeid i flere &#229;r har Sykehusinnkj&#248;p bygget opp et effektivt system for samhandling med fagmilj&#248;ene i spesialisthelsetjenesten og leverand&#248;rer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.71035</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>For example, a tube of cream (ME) that contains 50 grams (GRM) from one supplier, 70 grams (GRM) from another supplier.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>Eksempelvis en tube med krem (ME) som hos en leverand&#248;r inneholder 50 gram (GRM), og hos en annen leverand&#248;r 70 gram (GRM).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.52259</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Moreover, the figure shows how good procurements increasingly reduces drug expenditure and facilitates more extensive and better patient treatment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Videre viser figuren hvordan gode anskaffelser i &#248;kende grad reduserer legemiddelutgiftene og legger til rette for mer og bedre pasientbehandling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.37335</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>: The contract number the article is registered with in &#8220;Innkj&#248;psportalen&#8221; (hstat.no) and/or is applied to the contract.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>Det avtalenummeret artikkelen er registrert med i Innkj&#248;psportalen (hstat.no) og/eller er p&#229;f&#248;rt avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.2561</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Procuring pharmacetuicals in new and efficient ways:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>KJ&#248;pe inn legemidler p&#229; nye og effektive m&#229;ter:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">4.57673</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The work with the Pharmaceutical Strategy was launched in November 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Arbeidet med legemiddelstrategien startet i november 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.18957</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>As a result, the Sykehusinnkj&#248;p HF must act in a coordinated and coherent manner, in cooperation with the specialised health services.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Den skal resultere i at Sykehusinnkj&#248;p HF ut&#248;ver sin rolle innenfor legemiddelomr&#229;det p&#229; en koordinert og samstemt m&#229;te, i samarbeid med spesialisthelsetjenesten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">3.0225</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>This is the first category strategy of the 13 procurement categories for which The Norwegian Hospital Procurement Trust is responsible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Det er den f&#248;rste kategoristrategien av de 13 innkj&#248;pskategoriene som Sykehusinnkj&#248;p har ansvaret for.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">3.40672</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The Pharmaceutical strategy was passed by the board of The Norwegian Hospital Procurement Trust in the fall of 2018.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Legemiddelstrategien ble vedtatt h&#248;sten 2018 av styret i Sykehusinnkj&#248;p HF.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.11214</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>INQ must be a whole number.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>INQ m&#229; v&#230;re et heltall.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.09595</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDocEn</prop>
+     <seg>In these cases, INQ will be the number of grams (GRM), metres (MTR) or litres (LTR) per ME.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://leverandor.sykehusinnkjop.no/Statistics/Info/GetInfoDoc</prop>
+     <seg>I disse tilfellene vil INQ v&#230;re antall gram (GRM), meter (MTR) eller liter (LTR) per ME.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.5215</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>This is also observed in the statistics of the Norwegian Pharmacy Association, which indicates that the average maximum price for the 20 most expensive drug packages has increased with 260 % from 2010 to 2018.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Dette vises ogs&#229; i statistikken fra Apotekerforeningen, som viser at gjennomsnittlig maksimalpris for de 20 dyreste legemiddelpakningene har &#248;kt med 260 % fra 2010 til 2018.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.1086</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The requirements regarding corporate social responsibility must contribute to realising significant social benefits.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Krav til samfunnsansvar skal ogs&#229; bidra til &#229; realisere betydelige samfunnsgevinster.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.10666</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Facilitate good cooperation between the different participants to ensure compliance with the agreements.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Sikre god samhandling mellom akt&#248;rene, slik at inng&#229;tte avtaler etterleves.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.07816</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/Documents/Om%20oss/Samfunnsansvar/Etiske%20retningslinjer%20Sykehusinnkj%c3%b8p%20ENGLISH.pdf.converted</prop>
+     <seg>Suppliers must be confident that Sykehusinnkj&#248;p is acting in accordance with good business practice, with confidentiality and professional secrecy where this should be exercised, and with transparency and openness where the rules require it.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/Documents/Om%20oss/Samfunnsansvar/samarbeidsavtale_LFH_helsesor-ost_RHF2014.pdf.converted</prop>
+     <seg>Samarbeid om kompetanseutvikling mellom helsehelseforetak og leverand&#248;rer skal v&#230;re preget av ryddighet, &#229;penhet og transparent og v&#230;re godkjent av helsehelseforetakets ledelse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.1145</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The Pharmaceutical Division is one of six divisions in Sykehusinnkj&#248;p HF and is entrusted with the following main tasks:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Divisjon legemidler er en av seks divisjoner i Sykehusinnkj&#248;p HF, og har f&#248;lgende hovedoppgaver:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.1525</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>The Strategy would build on the Sykehusinnkj&#248;p HT's vision, objectives and values and on the methodology for preparing a category strategy drawn up in the &#8220;National Coordination and Standardisation&#8221; project (referred to in Norwegian with the abbreviation NSSIL).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Strategien skulle bygge p&#229; Sykehusinnkj&#248;p HF sin visjon, m&#229;l og verdier og metodikken for etablering av kategoristrategi utarbeidet i prosjekt "Nasjonal samhandling og standardisering" (NSSIL).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.01389</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Pharmaceuticals are key to the modern healthcare, and proper use of pharmaceuticals can generate substantial health benefits for patients.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Legemidler er sentrale i den moderne helsetjenesten og riktig bruk av legemidler kan gi store helsegevinster for pasientene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.12742</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/Documents/Om%20oss/Samfunnsansvar/Etiske%20retningslinjer%20Sykehusinnkj%c3%b8p%20ENGLISH.pdf.converted</prop>
+     <seg>Managers have a special responsibility for observing the code of conduct and must appear as good role models.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/Documents/Om%20oss/Samfunnsansvar/samarbeidsavtale_LFH_helsesor-ost_RHF2014.pdf.converted</prop>
+     <seg>Med service informasjon og oppl&#230;ring i bruk anses informasjon og r&#229;dgivning om daglig drift/h&#229;ndtering og service av medisinsk utstyr og materiell som allerede anvendes i helseforetaket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.34872</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://sykehusinnkjop.no/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf</prop>
+     <seg>Moreover, the figure illustrates how good procurements increasingly reduces pharmaceutical expenditure and facilitates more extensive and better patient treatment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://sykehusinnkjop.no/legemiddelstrategien-i-sykehusinnkjop-hf</prop>
+     <seg>Videre viser figuren hvordan gode anskaffelser i &#248;kende grad reduserer legemiddelutgiftene og legger til rette for mer og bedre pasientbehandling.</seg>
+    </tuv>
+   </tu>
+ </body>
+</tmx>

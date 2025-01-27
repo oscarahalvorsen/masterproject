@@ -1,0 +1,930 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T172751" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">3</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>naden, men dette er ikke regulert gjennom verdipapirhan-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>naden, men dette er ikkje regulert gjennom verdipapirhan-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.7375</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <seg>N&#229;r unders&#248;kelsene har fastsl&#229;tt at det er grunn til mistanke om at sedlene kan stamme</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <seg>N&#229;r unders&#248;kingane har slege fast at det er grunn til mistanke om at setlane kan stamme</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.62109</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <seg>innleveringen kan stamme fra straffbare handlinger, jfr.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <seg>innleveringa kan stamme fr&#229; straffbare handlingar, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">3.14211</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>Det felles juridiske rammeverket og samarbeidet i Direktivet har &#242;g krav om at en ny type institusjonar,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>Det felles juridiske rammeverket og samarbeidet i Direktivet har &#242;g krav om at ein ny type institusjonar,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">4.425</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>beidde f&#248;r den norske gjennomf&#248;ringa av direktivet, oversyn fr&#229; mars 2010 vart direktivet gjennomf&#248;rt i 16 dr&#248;ftar ikke tidsbruk ved valutaveksling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>beidde f&#248;r den norske gjennomf&#248;ringa av direktivet, oversyn fr&#229; mars 2010 vart direktivet gjennomf&#248;rt i 16 dr&#248;ftar ikkje tidsbruk ved valutaveksling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">5.75455</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>I 2005 blei det gitt en s&#230;rskild definisjon av innside-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>I 2005 blei det gitt ein s&#230;rskild definisjon av innside-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">3.15</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>&#8226; kvaliteten og prisen p&#229; verdipapirf&#248;retaka sine m&#229; det i alle h&#248;ve vere et sp&#248;rsm&#229;l som en kan overlate</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>&#8226; kvaliteten og prisen p&#229; verdipapirf&#248;retaka sine m&#229; det i alle h&#248;ve vere eit sp&#248;rsm&#229;l som ein kan overlate</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>Det er et poeng &#229; hindre misbruk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>Det er eit poeng &#229; hindre misbruk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.63333</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>Stempel, dato og signatur av Norges Bank</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>Stempel, dato og signatur av Noregs Bank</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.75455</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <seg>Har politiet bedt om &#229; f&#229; sedlene som bevismateriale?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <seg>Har politiet bede om &#229; f&#229; setlane som bevismateriale?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">3.21429</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>F&#248;rst etter dette kontrakt gjeld prisen p&#229; et tonn laks levert i ei veke som kan en vurdere utviding med fleire fiskeslag som under-her vart kalla L (for leveringsveke).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>F&#248;rst etter dette kontrakt gjeld prisen p&#229; eit tonn laks levert i ei veke som kan ein vurdere utviding med fleire fiskeslag som under-her vart kalla L (for leveringsveke).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>Ofte vil banken ikke</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>Ofte vil banken ikkje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">3.19286</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>Andre akt&#248;rar blir ikke kvar sin oppgjerssentral som har konsesjon for &#229; drive stilte overfor det same kravet, men selskap som ikke er regulerte marknadsplassar13.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>Andre akt&#248;rar blir ikkje kvar sin oppgjerssentral som har konsesjon for &#229; drive stilte overfor det same kravet, men selskap som ikkje er regulerte marknadsplassar13.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>Det er et sterkt &#248;nske om</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>Det er eit sterkt &#248;nske om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">4.425</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>har en fast feriestad eller faste arbeidsoppdrag i et fram til midten av september 2009, og regjeringa gjorde anna land).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>har ein fast feriestad eller faste arbeidsoppdrag i eit fram til midten av september 2009, og regjeringa gjorde anna land).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">3.13333</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>Det er alt i gang Ikke minst r&#248;ynslene fr&#229; den internasjonale finansielle arbeid p&#229; to felt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>Det er alt i gang Ikkje minst r&#248;ynslene fr&#229; den internasjonale finansielle arbeid p&#229; to felt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.51842</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>for at utbetaling skal kunne gjennomf&#248;res.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>for at det skal kunne gjennomf&#248;rast utbetaling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">3.05</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>til &#229; gjelde alle valutaer og betalingar der berre en av</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>til &#229; gjelde alle valutaer og betalingar der berre ein av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">3</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>en lovfest sluttdato for dei nasjonale systema for euro-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>ein lovfest sluttdato for dei nasjonale systema for euro-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>Et viktig sp&#248;rsm&#229;l for store internasjonale</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>Eit viktig sp&#248;rsm&#229;l for store internasjonale</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">3.14211</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>P&#229; dette punktet kan en ikke vente effektivisering finansielle instrument, ikke minst innan E&#216;S-omr&#229;det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>P&#229; dette punktet kan ein ikkje vente effektivisering finansielle instrument, ikkje minst innan E&#216;S-omr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.18592</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>kopi av anmeldelsen og/ eller skademelding, samt adresse/telefonnummer til politi/lensmann og forsikringsselskap.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>bekrefta kopi av politimeldinga og / eller skademeldinga, i tillegg til adressa og telefonnummeret til politi/lensmann og forsikringsselskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">3.02727</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>En skj&#248;nar det betre ved &#229; sj&#229; p&#229; heile investerin-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>Ein skj&#248;nar det betre ved &#229; sj&#229; p&#229; heile investerin-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">3.06923</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>Det vil neppe ha har gjort dette til et brennbart tema.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>Det vil neppe ha har gjort dette til eit brennbart tema.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.10503</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sikkerhet-for-lan/fond_skjema_1-11_bm.pdf?v=03/09/2017122540&amp;ft=.pdf.converted</prop>
+     <seg>Fondet er etter vedtektene begrenset til kun &#229; investere i obligasjoner og sertifikater som er godkjent for deponering etter gjeldende</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sikkerhet-for-lan/fond_soknadsskjema_1-11_nn.pdf?v=03/09/2017122539&amp;ft=.pdf.converted</prop>
+     <seg>Fondet skal etter vedtektene berre investere i obligasjonar og sertifikat som er godkjende for deponering etter gjeldande</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">3.16957</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>I arbeidet med &#229; etablere en er det oppdrettsselskap, fiskeforedlarar og finansielle likvid marknad har marknadsplassen tett kontakt med meklarf&#248;retak.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>I arbeidet med &#229; etablere ein er det oppdrettsselskap, fiskeforedlarar og finansielle likvid marknad har marknadsplassen tett kontakt med meklarf&#248;retak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">3.28846</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sikkerhet-for-lan/fond_skjema_1-11_bm.pdf?v=03/09/2017122540&amp;ft=.pdf.converted</prop>
+     <seg>investere i verdipapirer utstedt av et selskap der banker eller andre finansinstitusjoner samlet eier mer enn 1/3 (unntak for</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sikkerhet-for-lan/fond_soknadsskjema_1-11_nn.pdf?v=03/09/2017122539&amp;ft=.pdf.converted</prop>
+     <seg>investere i verdipapir skrive ut av eit selskap der bankar eller andre finansinstitusjonar samla eig meir enn 1/3 (unntak</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.96667</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>kostnader, el er ved en kombinasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>kostnader, el er ved ein kombinasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>N&#229;r en investor &#248;nskjer &#229; kj&#248;pe</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>N&#229;r ein investor &#248;nskjer &#229; kj&#248;pe</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.8</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>En kan ikke lite p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>Ein kan ikkje lite p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.8337</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>Er tapet av pengene meldt politi/lensmann og eller forsikringsselskap?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>Er tapet av pengane meldt politi/lensmann og / eller forsikringsselskap?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.609</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>er etablert med en ambisjon om</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>er etablert med ein ambisjon om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">3.19655</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>av slik informasjon, og presiseringa av regelverket11 Det har ei tid vore interesse for &#229; etablere en marknad tyder p&#229; at Kredittilsynet meiner at handel med finan-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>av slik informasjon, og presiseringa av regelverket11 Det har ei tid vore interesse for &#229; etablere ein marknad tyder p&#229; at Kredittilsynet meiner at handel med finan-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.96667</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>Det andre er at formelen gjeld for en</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>Det andre er at formelen gjeld for ein</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>Om en kunde med konto i norske</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>Om ein kunde med konto i norske</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">4.74643</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>2 S&#248;kere utenfor Norge m&#229; oppgi b</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>2 S&#248;kjarar utanfor Noreg m&#229; opplyse om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">3.02727</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>Det kan leie til en betre prisstruktur, slik at</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>Det kan leie til ein betre prisstruktur, slik at</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">3.02727</prop>
+    <prop type="score-bicleaner">0.553</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>ter i fleire valutaer, disponibelt gjennom en og same</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>ter i fleire valutaer, disponibelt gjennom ein og same</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.20909</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>Kvittering ved personlig innlevering til Norges Banks hovedkontor i Oslo</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>Kvittering ved personleg innlevering til Noregs Banks hovudkontor i Oslo</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.78776</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <seg>fra straffbare handlinger - er saken oversendt til &#216;KOKRIM</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <seg>fr&#229; straffbare handlingar - er saka send over til &#216;KOKRIM</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.8</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>Det er ikke kl&#229;rt at</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>Det er ikkje kl&#229;rt at</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">3.06923</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>en norsk investor ved ei investering i Noreg bli 0,2 prosent,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>ein norsk investor ved ei investering i Noreg bli 0,2 prosent,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">3.15</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>&#8226; om det er et effektivt offentlegrettsleg tilsyn med med en stor b&#248;rs som syter for informasjon som enkelt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>&#8226; om det er eit effektivt offentlegrettsleg tilsyn med med ein stor b&#248;rs som syter for informasjon som enkelt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">3</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>I dei tilfella der oppgjerssentralen ikke st&#229;r for opp-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>I dei tilfella der oppgjerssentralen ikkje st&#229;r for opp-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">3</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>spreiing av informasjon og tilsyn med handelen kan en</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>spreiing av informasjon og tilsyn med handelen kan ein</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">3.14211</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>argument for at det neppe vil gi et samfunns&#248;konomisk pris, og valutaveksling er dermed likevel et kostbart</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>argument for at det neppe vil gi eit samfunns&#248;konomisk pris, og valutaveksling er dermed likevel eit kostbart</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.34076</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <seg>Har unders&#248;kelsene fastsl&#229;tt at det ikke er grunn til mistanke om at sedlene kan stamme</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <seg>Har unders&#248;kingane slege fast at det ikkje er grunn til mistanke om at setlane kan</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">3.06923</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>kan en f&#229; om det vert brukt og praktisert et sams infor-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>kan ein f&#229; om det vert brukt og praktisert eit sams infor-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.8</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>et halvt &#229;r framover.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>eit halvt &#229;r framover.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>Det same vil en reduksjon i valutamarginane</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>Det same vil ein reduksjon i valutamarginane</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">4.00065</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_bm_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>1 Kopi av gyldig legitimasjon (pass, f&#248;rerkort, bankkort m/bilde), skal vedlegges ved bel&#248;p over kr 10.000.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/forms/skjema_erstatning_nn_-feb_2016.pdf?v=03/09/2017122535&amp;ft=.pdf.converted</prop>
+     <seg>1 Kopi av gyldig legitimasjon (pass, f&#248;rarkort, bankkort m/bilde), skal leggjast ved n&#229;r bel&#248;pet er over kr 10.000.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">3.8</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <seg>1 Dersom unders&#248;kelsene har bekreftet at det er grunn til mistanke, vil Norges Bank kun ta i mot sedlene dersom saken er</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <seg>1 Dersom unders&#248;kingane har stadfest at det er grunn til mistanke, vil Noregs Bank berre ta i mot setlane dersom saka er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">3.16364</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>at banken at &#229;t kurtasjen vil f&#229; en st&#248;rre vinst gjennom til forventa avkastning ved ei investering i Sverige m&#229; vere</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>at banken at &#229;t kurtasjen vil f&#229; ein st&#248;rre vinst gjennom til forventa avkastning ved ei investering i Sverige m&#229; vere</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">3.15</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>hender om en konkurrent som tilbyr betre og bil egare ordren vert lagt inn i handelssystemet til handelen er</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>hender om ein konkurrent som tilbyr betre og bil egare ordren vert lagt inn i handelssystemet til handelen er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.66364</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_bokmal_mai2014.pdf.converted</prop>
+     <seg>Mener innleverende bank at alle n&#248;dvendige unders&#248;kelser og handlinger etter</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <seg>Meiner innleverande bank at alle naudsynte unders&#248;kingar og handlingar etter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">3.99231</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>Finansministerm&#248;tet i EU sitt R&#229;d (Ecofin) tenestedirektivet vil syte for ei sams legal ramme for bad i desember 2009 EU-kommisjonen om &#229; greie ut en eventuelle slike selskap i heile E&#216;S-omr&#229;det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>Finansministerm&#248;tet i EU sitt R&#229;d (Ecofin) tenestedirektivet vil syte for ei sams legal ramme for bad i desember 2009 EU-kommisjonen om &#229; greie ut ein eventuelle slike selskap i heile E&#216;S-omr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/c469c1f3931d4329ad2f032d6a5e91e8/penger_og_kreditt_1_10.pdf.converted</prop>
+     <seg>marknadsposisjonen til Mastercard og Visa ikke skal</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/ddaab970b3dd4344b91893d849cc8bb7/europeisk_betalingsmarknad_pk_1_10.pdf.converted</prop>
+     <seg>marknadsposisjonen til Mastercard og Visa ikkje skal</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/penger_og_kreditt_2006_4.pdf.converted</prop>
+     <seg>Om en summerer vinsten fr&#229; verksemda over</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/penger_og_kreditt/2006-04/norsk_bors.pdf.converted</prop>
+     <seg>Om ein summerer vinsten fr&#229; verksemda over</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">3</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>derivat kan for eksempel illustrerast ved en plan for</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>derivat kan for eksempel illustrerast ved ein plan for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>en forwardkontrakt p&#229; gjennomsnittspris per veke.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>ein forwardkontrakt p&#229; gjennomsnittspris per veke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">2.28462</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sikkerhet-for-lan/fond_skjema_1-11_bm.pdf?v=03/09/2017122540&amp;ft=.pdf.converted</prop>
+     <seg>regelverk for sikkerhet for l&#229;n i Norges Bank</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sikkerhet-for-lan/fond_soknadsskjema_1-11_nn.pdf?v=03/09/2017122539&amp;ft=.pdf.converted</prop>
+     <seg>regelverk for sikkerheit for l&#229;n i Noregs Bank.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.96667</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/245e285fe0c44ffb9290c072c8c95e31/penger_og_kreditt_4_2007.pdf.converted</prop>
+     <seg>Omsetninga ved FishEx dei f&#248;rste vekene er ikke</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/0cb429b1c58c4fba933951efece55341/varederivat_gunnvald_gronvik.pdf.converted</prop>
+     <seg>Omsetninga ved FishEx dei f&#248;rste vekene er ikkje</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

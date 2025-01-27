@@ -1,0 +1,990 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T192749" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.47885</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>I Trygderetten jobber vi tett p&#229; tvers av ulike faggrupper for &#229; treffe riktige kjennelser i de ankesakene vi behandler.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/jobb-i-trygderetten</prop>
+     <seg>I Trygderetten jobbar vi tett p&#229; tvers av ulike faggrupper for &#229; treffe dei rette avgjerdene i ankesakene vi behandlar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.66618</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>Du kan anke vedtaket til Trygderetten ved &#229; sende anken inn til instansen som fattet vedtaket (som regel NAV Klageinstans).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/korleis-ankar-eg-min-sak-til-trygderetten</prop>
+     <seg>Du kan anke vedtaket til Trygderetten ved &#229; sende det inn til instansen som fatta vedtaket (til d&#248;mes NAV Klageinstans).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.00093</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Juridisk kyndig rettsmedlem er dommer ved Trygderettens behandling av ankesaker administrerer ankesaken og leder den enkelte rett, som best&#229;r av to, tre eller fem dommere.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/jobb-i-trygderetten</prop>
+     <seg>Ein juridisk kyndig rettsmedlem er dommar n&#229;r Trygderetten behandlar ankesaker. Han administrerer ankesaka og leier den enkelte rett, som best&#229;r av to, tre eller fem dommarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">4.7</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/hvor-lang-er-saksbehandlingstiden</prop>
+     <seg>Trygderetten har en gjennomsnittlig saksbehandlingstid for alle saker p&#229; 12-14 m&#229;neder.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/kor-lang-tid-tek-saksbehandlinga</prop>
+     <seg>Trygderetten har ei gjennomsnittlig saksbehandlingstid for alle saker p&#229; 12-14 m&#229;nadar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Stillingstyper i Trygderetten</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/jobb-i-trygderetten</prop>
+     <seg>Stillingstypar i Trygderetten</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.00607</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/serviceerklaering</prop>
+     <seg>Det er f&#248;rst n&#229;r saken er mottatt i Trygderetten at saksbehandlingen hos oss starter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/serviceerklaering</prop>
+     <seg>Saksbehandlinga i Trygderetten startar f&#248;rst etter at saka er mottatt i Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.95271</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Medisinsk kyndig rettsmedlem har et s&#230;rlig ansvar for &#229; ta stilling til bevis av medisinsk karakter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/jobb-i-trygderetten</prop>
+     <seg>Ein medisinsk kyndig rettsmedlem har eit s&#230;rleg ansvar for &#229; ta stilling til bevis av medisinsk karakter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.83221</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>Skal du anke et vedtak fra Statens pensjonskasse (SPK)?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/korleis-ankar-eg-min-sak-til-trygderetten</prop>
+     <seg>Skal du anke eit vedtak fr&#229; Statens pensjonskasse (SPK)?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.96014</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Behandlingen i Trygderetten er i hovedsak skriftlig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Behandlinga i Trygderetten er i hovudsak skriftleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.46341</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Vedtak fra NAV og Helseklage kan ikke ankes til Trygderetten f&#248;r alle interne klagemuligheter er benyttet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Vedtak fr&#229; NAV og Helseklage kan ikkje ankast til Trygderetten f&#248;r alle interne klagemoglegheiter er nytta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.08889</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <seg>Les mer om saksbehandlingstid</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <seg>Les meir om saksbehandlingstid</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.43891</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Vi har et sterkt juridisk fagmilj&#248; og jobber kontinuerlig med intern kompetanseheving.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/jobb-i-trygderetten</prop>
+     <seg>Vi har eit sterkt juridisk fagmilj&#248; og jobbar kontinuerleg med intern kompetanseheving.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.78696</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/serviceerklaering</prop>
+     <seg>Behandlingstiden varierer noe for de ulike sakstyper.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/serviceerklaering</prop>
+     <seg>Behandlingstida varierer noko for ulike sakstypar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.00823</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Dette inneb&#230;rer at lagmannsretten kan pr&#248;ve Trygderettens saksbehandling, rettsanvendelse og bevisvurdering.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Dette inneber at lagmannsretten kan overpr&#248;ve saksbehandlinga, rettsbruken og bevisvurderinga til Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">4.195</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://trygderetten.no/index.php/en/trygderettens-historie</prop>
+     <seg>I 1987 ble lagmannsretten &#8211; istedenfor herreds- og byretten &#8211;gjort til f&#248;rste overpr&#248;vingsinstans i det alminnelige domstolshierarkiet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://trygderetten.no/nn/trygderetten-si-historie</prop>
+     <seg>I 1987 blei lagmannsretten &#8211; i staden for herads- og byretten &#8211; gjort om til f&#248;rste overpr&#248;vingsinstans i det alminnelege domstolshierarkiet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.47182</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/</prop>
+     <seg>Det er viktig at du gir opplysninger som er relevante for saken og klargj&#248;r dine synspunkter s&#229; godt som mulig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nn</prop>
+     <seg>Det er viktig at du gir opplysningar som er relevante for saka, og klargjer synspunkta dine s&#229; godt som r&#229;d.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.13115</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Retten kan pr&#248;ve alle sider av saken og selv treffe realitetsavgj&#248;relse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Retten kan pr&#248;ve alle sider av saka og sj&#248;lv treffe realitetsavgjerd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.46364</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-trygderetten</prop>
+     <seg>Oppgaven til Trygderetten er &#229; behandle anker over vedtak om enkeltpersoners rett til trygdeytelser og pensjoner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-trygderetten</prop>
+     <seg>Oppg&#229;va til Trygderetten er &#229; behandle anker over vedtak om enkeltpersonar sin rett til trygdeytingar og pensjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.43286</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/</prop>
+     <seg>Hvis du bruker advokat, m&#229; du i utgangspunktet betale regningen selv.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nn</prop>
+     <seg>Dersom du bruker advokat, m&#229; du i utgangspunktet betale rekninga sj&#248;lv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.70899</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Juridisk kyndig rettsmedlem er dessuten meddommer i ankesaker som i det vesentlig inneholder juridiske problemstillinger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/jobb-i-trygderetten</prop>
+     <seg>Ein juridisk kyndig rettsmedlem er dessutan meddommar i ankesaker som f&#248;rst og fremst inneheld juridiske problemstillingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.00491</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Saker som kan ankes til Trygderetten</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Saker som kan ankast til Trygderetten</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.29102</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>&#197;rsaken til dette er at instansen som har fattet vedtaket, skal f&#229; anledning til &#229; vurdere saken p&#229; nytt og eventuelt omgj&#248;re vedtaket.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>&#197;rsaka er at instansen som har fatta vedtaket, skal f&#229; h&#248;ve til &#229; vurdere saka p&#229; nytt og eventuelt gjere om vedtaket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.39444</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Dette kan for eksempel v&#230;re den som har f&#229;tt et avslag p&#229; en ytelse fra NAV eller SPK, og som ikke er enig i avslaget.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Dette kan til d&#248;mes vere den som har f&#229;tt avslag p&#229; ei yting fr&#229; NAV eller SPK, og som ikkje er samd i avslaget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.72957</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/</prop>
+     <seg>Hvis du &#248;nsker det kan du bruke advokat som prosessfullmektig, eller gi en annen person fullmakt til &#229; representere deg i sak for Trygderetten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nn</prop>
+     <seg>Dersom du &#248;nskjer det, kan du bruke advokat som prosessfullmektig, eller gi ein annan person fullmakt til &#229; representere deg i saka for Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.65693</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Anke p&#229; vedtak om offentlig tjenestepensjon leveres til Statens pensjonskasse (SPK), Kommunal landspensjonskasse (KLP) eller en kommunal pensjonskasse, som deretter sender anken videre til Trygderetten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Anke p&#229; vedtak om offentleg tenestepensjon skal leverast til Statens pensjonskasse (SPK), Kommunal landspensjonskasse (KLP) eller ei kommunal pensjonskasse, som deretter sender anken vidare til Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.28421</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/kontakt-oss</prop>
+     <seg>Informasjon om saksbehandlingstid finner du</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/kontakt-oss</prop>
+     <seg>Informasjon om saksbehandlingstid finn du</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.28916</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Her finner du informasjon om ankeprosessen og de juridiske rammene rundt Trygderettens arbeid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Her finn du informasjon om ankeprosessen og dei juridiske rammane rundt arbeidet til Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.42239</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>F&#229;r man ikke medhold, vil man i enkelte tilfeller likevel kunne f&#229; dekket kostnadene til advokat gjennom ordningen med fri rettshjelp.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Viss ein ikkje f&#229;r medhald, vil ein i enkelte tilfelle likevel kunne f&#229; dekt kostnadene til advokat gjennom ordninga med fri rettshjelp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.69259</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/</prop>
+     <seg>Hvis du f&#229;r medhold i anken, har du krav p&#229; &#229; f&#229; dekket n&#248;dvendige utgifter til prosessfullmektig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nn</prop>
+     <seg>Viss du f&#229;r medhald i anken, har du krav p&#229; &#229; f&#229; dekt n&#248;dvendige utgifter til prosessfullmektig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.94286</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Hvis vedtaket ikke blir omgjort, men blir st&#229;ende uendret etter at vedkommende instans har vurdert saken p&#229; nytt, sender ankemotparten saken til Trygderetten sammen med et oversendelsesbrev som presenterer b&#229;de den ankende parts og ankemotpartens begrunnelse og synspunkter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Dersom vedtaket ikkje blir gjort om, men blir st&#229;ande uendra etter at vedkomande instans har vurdert saka p&#229; nytt, vil ankemotparten sende saka til Trygderetten saman med eit oversendingsbrev som presenterer grunngjevinga og synspunkta til den ankande parten og ankemotparten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.91538</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Som det fremg&#229;r over, er det viktig at ankefristen overholdes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Som det g&#229;r fram over, er det viktig at ankefristen blir halden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.48222</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/</prop>
+     <seg>Vinner du ikke fram med anken, vil du etter s&#248;knad kunne f&#229; dekket utgifter til advokat eller rettshjelper gjennom ordningen for fri rettshjelp.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nn</prop>
+     <seg>Vinn du ikkje fram med anken, vil du etter s&#248;knad kunne f&#229; dekt utgifter til advokat eller rettshjelpar gjennom ordninga med fri rettshjelp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.1571</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://trygderetten.no/index.php/en/trygderettens-historie</prop>
+     <seg>Selv om Trygderettens etablering bygget p&#229; en domstolstankegang, ble den i praksis organisert etter en nemndsmodell, med et sekretariat (i Trygderetten kalt saksforberedere) som forberedte saken og laget et utkast til vedtak (i Trygderetten kalt kjennelse) som ble lagt frem for nemndsmedlemmene (i Trygderetten kalt rettsmedlemmer) til avgj&#248;relse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://trygderetten.no/nn/trygderetten-si-historie</prop>
+     <seg>Sj&#248;lv om etableringa av Trygderetten bygde p&#229; ein domstolstankegang, blei retten i praksis organisert etter ein nemndsmodell, med eit sekretariat (i Trygderetten kalla saksf&#248;rebuarar) som f&#248;rebudde saka og laga eit utkast til vedtak (i Trygderetten kalla orskurd) som blei lagt fram til avgjerd for nemndsmedlemmane (i Trygderetten kalla rettsmedlemmar).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/serviceerklaering</prop>
+     <seg>Avgj&#248;re sakene innen rimelig tid</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/serviceerklaering</prop>
+     <seg>Avgjere sakene innan rimelig tid</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.26087</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Anken b&#248;r ogs&#229; begrunnes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Anken b&#248;r ogs&#229; grunngjevast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.54474</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>I Trygderetten blir hver enkelt sak fordelt til en administrator.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>I Trygderetten blir kvar enkelt sak fordelt til ein administrator.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.79516</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nb/har-trygderetten-mottatt-min-anke</prop>
+     <seg>Trygderetten vil normalt prioritere &#229; behandle de eldste sakene f&#248;rst.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nn/har-trygderetten-fatt-anken-min</prop>
+     <seg>Trygderetten vil normalt prioritere &#229; behandle dei eldste sakene f&#248;rst.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Attf&#248;ringskyndig rettsmedlem er dommer ved Trygderettens behandling av ankesaker p&#229; linje med juridisk kyndig rettsmedlem (jurist).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/jobb-i-trygderetten</prop>
+     <seg>Ein attf&#248;ringskyndig rettsmedlem er, p&#229; line med juridisk kyndig rettsmedlem (jurist), dommar n&#229;r Trygderetten behandlar ankesaker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.37692</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Retten kan ogs&#229; i andre spesielle tilfeller settes med tre rettsmedlemmer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Retten kan ogs&#229; i andre spesielle tilfelle setjast med tre rettsmedlemmar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.9051</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Den som &#248;nsker rettslig pr&#248;ving av en kjennelse fra Trygderetten, m&#229; reise s&#248;ksm&#229;l for lagmannsretten i det lagd&#248;mmet hvor den ankende part har sitt alminnelige verneting.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Den som &#248;nskjer rettsleg pr&#248;ving av ei rettsavgjerd fr&#229; Trygderetten, m&#229; reise s&#248;ksm&#229;l for lagmannsretten i lagd&#248;met der den ankande parten har sitt alminnelege verneting.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.83291</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>Skal du anke et vedtak fra Kommunal landspensjonskasse (KLP)?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/korleis-ankar-eg-min-sak-til-trygderetten</prop>
+     <seg>Skal du anke eit vedtak fr&#229; Kommunal landspensjonskasse (KLP)?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">2.56378</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/serviceerklaering</prop>
+     <seg>Et vedtak vedr&#248;rende trygd eller pensjon kan ankes til Trygderetten etter at saken er endelig behandlet i den etat som har gjort vedtaket.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/serviceerklaering</prop>
+     <seg>Eit vedtak om trygd eller pensjon kan ankast til Trygderetten etter at saka er endelig behandla i den etaten som har gjort vedtaket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.69302</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>Du kan ikke sende anken direkte til Trygderetten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/korleis-ankar-eg-min-sak-til-trygderetten</prop>
+     <seg>Du kan ikkje sende anken direkte til Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.40455</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Rettslig pr&#248;ving av en kjennelse fra Trygderetten</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Rettsleg pr&#248;ving av ei rettsavgjerd fr&#229; Trygderetten</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.7413</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <seg>Dersom det foreligger nye opplysninger som er egnet til &#229; f&#248;re til et annet resultat i en avsagt kjennelse i Trygderetten, kan du begj&#230;re saken gjenopptatt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <seg>Dersom det ligg f&#248;re nye opplysningar som kan f&#248;re til eit anna resultat i ei avsagd rettsavgjerd i Trygderetten, kan du krevje at saka blir teken opp att.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.13333</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/</prop>
+     <seg>Trygderetten er et domstollignende forvaltningsorgan som skal treffe avgj&#248;relser om enkeltpersoners rettigheter til trygd og pensjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nn</prop>
+     <seg>Trygderetten er eit domstolliknande forvaltingsorgan som skal treffe avgjerder om rettane som ein enkeltperson har til trygd og pensjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.49605</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://trygderetten.no/index.php/en/trygderettens-historie</prop>
+     <seg>Det var et stort behov for mer forsvarlig saksbehandling p&#229; trygde- og pensjonsomr&#229;det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://trygderetten.no/nn/trygderetten-si-historie</prop>
+     <seg>Det var stort behov for ei meir forsvarleg saksbehandling p&#229; trygde- og pensjonsomr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.94433</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-trygderetten</prop>
+     <seg>Trygderetten er et domstollignende og uavhengig forvaltningsorgan organisert under Arbeids- og sosialdepartementet (ASD).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-trygderetten</prop>
+     <seg>Trygderetten er eit domstollignende og uavhengig forvaltningsorgan organisert under Arbeids- og sosialdepartementet (ASD).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.4</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Medisinsk kyndige medlemmer skal ha autorisasjon som lege.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Medisinsk kyndige medlemmar skal ha autorisasjon som lege.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.22416</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>S&#248;ksm&#229;let rettes mot det organet som var ankemotpart i saken for Trygderetten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>S&#248;ksm&#229;let skal rettast mot organet som var ankemotpart i saka for Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.92085</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Flertallet av sakene i Trygderetten settes med to rettsmedlemmer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Fleirtalet av sakene i Trygderetten blir sette med to rettsmedlemmar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.52943</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-trygderetten</prop>
+     <seg>Anken kan fremmes uten advokathjelp og uten kostnader i form av rettsgebyr.Mer informasjon kan du finne i trygderettsloven og i bestemmelsene om klage og anke i trygdesaker i folketrygdloven &#167; 21&#8209;12.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-trygderetten</prop>
+     <seg>Ein kan anke utan advokathjelp og utan kostnader i form av rettsgebyr. Du finn meir informasjon om dette i trygderettslova og i f&#248;resegnene om klage og anke i trygdesaker i folketrygdlova &#167; 21&#8209;12.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.4891</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-trygderetten</prop>
+     <seg>Sakene gjelder rettigheter og plikter etter lov om folketrygd, barnetrygd og krigspensjon, samt offentlige tjenestepensjonsordninger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-trygderetten</prop>
+     <seg>Sakene gjeld rettar og plikter etter lov om folketrygd, barnetrygd og krigspensjon, samt offentlege tenestepensjonsordningar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">2.56</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-trygderetten</prop>
+     <seg>En anke til Trygderetten skal settes frem for instansen som fattet vedtaket som &#248;nskes pr&#248;vd for Trygderetten (som regel NAV Klageinstans).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-trygderetten</prop>
+     <seg>Ein anke til Trygderetten skal setjast fram for instansen som fatta det vedtaket ein &#248;nskjer &#229; f&#229; pr&#248;vd for Trygderetten (som regel NAV Klageinstans).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">2.33012</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/serviceerklaering</prop>
+     <seg>Retten kan bestemme at din motpart skal betale de n&#248;dvendige utgifter du har i forbindelse med ankesaken der som vedtaket du har anket over blir endret til din fordel.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/serviceerklaering</prop>
+     <seg>Dersom vedtaket du har anka over blir endra til din fordel, kan Trygderetten avgjere at din motpart skal betale n&#248;dvendige utgifter du har hatt i samband med ankesaka.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">2.49864</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <seg>Dersom du mener forvaltningen har gjort formelle feil i behandlingen av saken din, kan du ogs&#229; klage kostnadsfritt til Sivilombudsmannen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <seg>Dersom du meiner at forvaltinga har gjort formelle feil i behandlinga av saka di, kan du ogs&#229; klage kostnadsfritt til Sivilombodet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">2.52</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Mange velger likevel &#229; bruke advokat.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Mange vel likevel &#229; bruke advokat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/statistikk</prop>
+     <seg>Mottatte ankesaker fordelt p&#229; ankemotpart</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/statistikk</prop>
+     <seg>Mottekne ankesaker fordelt p&#229; ankemotpart</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.43571</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nb/har-trygderetten-mottatt-min-anke</prop>
+     <seg>Saker som omhandler uf&#248;retrygd og arbeidsavklaringspenger vil ofte kreve at rett blir satt med b&#229;de medisinsk- og attf&#248;ringskyndig rettsmedlem.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nn/har-trygderetten-fatt-anken-min</prop>
+     <seg>Saker som omhandlar uf&#248;retrygd og arbeidsavklaringspengar vil ofte krevje at retten blir sett med b&#229;de medisinsk- og attf&#248;ringskyndig rettsmedlem.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>F&#248;rst n&#229;r NAV Klageinstans har behandlet klagen kan du g&#229; videre til Trygderetten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nn/korleis-ankar-eg-min-sak-til-trygderetten</prop>
+     <seg>F&#248;rst n&#229;r NAV Klageinstans har behandla klagen, kan du g&#229; vidare til Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">2.15714</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Medisinsk kyndig rettsmedlem er dommer ved Trygderettens behandling av ankesaker p&#229; linje med juridisk kyndig rettsmedlem (jurist).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/jobb-i-trygderetten</prop>
+     <seg>Ein medisinsk kyndig rettsmedlem er, p&#229; line med juridisk kyndig rettsmedlem (jurist), dommar n&#229;r Trygderetten behandlar ankesaker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.41075</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>F&#248;rst etter at saken har kommet til Trygderetten, kan Trygderetten kontaktes for eventuelle sp&#248;rsm&#229;l.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>F&#248;rst etter at saka er komen til Trygderetten, kan Trygderetten kontaktast for eventuelle sp&#248;rsm&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">2.02902</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Vedtak gjort av NAV Klageinstans, Helseklage eller en pensjonsinnretning om offentlig tjenestepensjon kan ankes til Trygderetten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Vedtak som NAV Klageinstans, Helseklage eller ein pensjonsordning har fatta om offentleg tenestepensjon, kan ankast til Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">2.48405</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>Har du for eksempel s&#248;kt om dagpenger fra NAV Arbeid og ytelser og f&#229;tt avslag, m&#229; du f&#248;rst p&#229;klage vedtaket til NAV Klageinstans.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nn/korleis-ankar-eg-min-sak-til-trygderetten</prop>
+     <seg>Dersom du til d&#248;mes har s&#248;kt om dagpengar fr&#229; NAV Arbeid og ytingar og f&#229;tt avslag, m&#229; du f&#248;rst klage p&#229; vedtaket til NAV Klageinstans.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.05029</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Ved muntlig anke m&#229; du m&#248;te opp p&#229; kontoret til den instansen som har fattet vedtaket, som da s&#248;rger for &#229; sette opp anken skriftlig og underskrive den sammen med deg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Ved munnleg anke m&#229; du m&#248;te opp p&#229; kontoret til instansen som fatta vedtaket. Sistnemnde vil d&#229; s&#248;rgje for &#229; setje opp anken skriftleg og skrive under p&#229; han saman med deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">2.46905</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/serviceerklaering</prop>
+     <seg>Retten skal s&#248;rge for at saken er tilstrekkelig opplyst.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/serviceerklaering</prop>
+     <seg>Retten skal syte for at saka er tilstrekkeleg opplyst.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">2.79595</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/serviceerklaering</prop>
+     <seg>Fristen for &#229; anke til Trygderetten er seks uker fra du har mottatt melding om vedtaket.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/serviceerklaering</prop>
+     <seg>Fristen for &#229; anke til Trygderetten er seks veker fr&#229; du har mottatt melding om vedtaket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.06451</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/</prop>
+     <seg>I hovedsak koster det ingenting &#229; anke en sak inn for Trygderetten. Velger du &#229; bruke advokat, kan du p&#229;dra deg utgifter knyttet til dette (se nedenfor).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <prop type="source-document">http://trygderetten.no/nn</prop>
+     <seg>Det kostar i prinsippet ingenting &#229; anke inn ei sak inn for Trygderetten, men viss du vel &#229; bruke advokat, kan du p&#229;dra deg utgifter knytt til dette (sj&#229; nedanfor).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">2.53667</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <seg>Hva kan jeg gj&#248;re dersom jeg f&#229;r avslag i Trygderetten?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/frequently-asked-questions</prop>
+     <seg>Kva kan eg gjere dersom eg f&#229;r avslag i Trygderetten?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">2.12125</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-trygderetten</prop>
+     <seg>I et rettssikkerhetsperspektiv er det derfor viktig at Trygderetten avgj&#248;r sakene innen rimelig tid og p&#229; en forsvarlig og tillitvekkende m&#229;te.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-trygderetten</prop>
+     <seg>I eit rettstryggleiksperspektiv er det difor viktig at Trygderetten avgjer sakene innan rimeleg tid og p&#229; ein forsvarleg og tillitsvekkande m&#229;te.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">2.67597</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>Hvis du er uenig i et vedtak du har f&#229;tt fra NAV Klageinstans, Helseklage eller fra en pensjonsinnretning (for eksempel SPK og KLP), kan du anke vedtaket til Trygderetten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/korleis-ankar-eg-min-sak-til-trygderetten</prop>
+     <seg>Dersom du er usamd i eit vedtak du har f&#229;tt fr&#229; NAV Klageinstans, Helseklage eller ei pensjonsinnretning (til d&#248;mes SPK og KLP), kan du anke vedtaket til Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.00677</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Dette gj&#248;res kun i saker som reiser prinsipielle sp&#248;rsm&#229;l og hvor det antas at rettens avgj&#248;relse kan bli bestemmende for praksis p&#229; et saksomr&#229;de.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>Dette blir berre gjort i saker som reiser prinsipielle sp&#248;rsm&#229;l og der ein g&#229;r ut fr&#229; at avgjerda til retten kan bli bestemmande for praksisen p&#229; eit saksomr&#229;de.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">2.08421</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>for mer informasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/om-ankeprosessen</prop>
+     <seg>for meir informasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">2.56909</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>Du har f&#229;tt et vedtak fra NAV Klageinstans, Helseklage, Statens pensjonskasse eller en annen pensjonskasse som du ikke er enig i.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://trygderetten.no/nn/korleis-ankar-eg-min-sak-til-trygderetten</prop>
+     <seg>Du har f&#229;tt eit vedtak fr&#229; NAV Klageinstans, Helseklage, Statens Pensjonskasse eller ein annan pensjonskasse som du ikkje er einig i.</seg>
+    </tuv>
+   </tu>
+ </body>
+</tmx>

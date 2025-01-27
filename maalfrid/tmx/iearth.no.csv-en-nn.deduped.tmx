@@ -1,0 +1,383 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T110510" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.16774</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/07/update-from-iearth/</prop>
+     <seg>Earlier this winter, we had a round where we asked for project ideas we that can continue with in the iEarth collaboration.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/04/07/oppdatering-fra-iearth/</prop>
+     <seg>Tidlegare i vinter hadde vi ein runde der vi etterspurte prosjektidear vi kan ta vidare i iEarth samarbeidet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.04278</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/06/08/update-from-iearth-may-june/</prop>
+     <seg>We are also close to defining the various PhD and Postdoctoral projects that will be launched under the iEarth umbrella.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/06/08/oppdatering-fra-iearth-mai-juni/</prop>
+     <seg>Vi n&#230;rmar oss ogs&#229; &#229; ferdigstille arbeidet med kva PhD og Postdoktor prosjekter vi vil setje i gang under iEarth paraplyen slik at vi kan lyse desse ut i l&#248;pet av sommaren med s&#248;knadsfrist i august/september.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.75541</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/07/update-from-iearth/</prop>
+     <seg>This will consist of the five professor 2 positions, five PhD projects and one postdoctoral fellow.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/04/07/oppdatering-fra-iearth/</prop>
+     <seg>Dette vil best&#229; av dei fem professor 2 stillingane, fem phd prosjekt og ein postdoktor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.20518</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/07/update-from-iearth/</prop>
+     <seg>Now it has been over three months since we learned that we have been granted SFU status.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/04/07/oppdatering-fra-iearth/</prop>
+     <seg>No har det g&#229;tt over tre m&#229;nader fr&#229; vi fekk vite at vi har f&#229;tt status som SFU.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.01469</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/06/08/update-from-iearth-may-june/</prop>
+     <seg>Anders Schomacker and Iver Martens at UiT constitute the program committee and if you have suggestions for content or theme, you should send them an email.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/06/08/oppdatering-fra-iearth-mai-juni/</prop>
+     <seg>Anders Schomacker og Iver Martens ved UiT utgjer programkomiteen og dersom du har forslag til innhald eller tema er det berre &#229; sende dei ein e-post.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.37885</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/06/08/update-from-iearth-may-june/</prop>
+     <seg>Update from iEarth &#8211; May/June</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/06/08/oppdatering-fra-iearth-mai-juni/</prop>
+     <seg>Oppdatering fr&#229; iEarth &#8211; mai/juni</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.22519</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/03/26/words-from-the-centre-leader-3/</prop>
+     <seg>In summary, a lot of exciting things have happened in spite of the corona, for example the establishment of iEDLF, the establishment of iEarth student organizations, a new national geohazard course, start-up of the first internal iEarth projects, establishment of a pedagogical group which included five 20% positions in educational research and five PhD positions, and finally but not last the start of a new internship course in Troms&#248;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2021/03/26/ord-fra-senterleiaren-mars-2021/</prop>
+     <seg>N&#229;r ein summerer opp s&#229; har det skjedd mykje spennande p&#229; tross av korona, til d&#248;mes etableringa iEDLF, etablering av iEarth studentorganisasjonar, nytt nasjonalt geofarekurs, gjennomf&#248;ring av den fyrste internprosjekt utlysinga, etablering av pedagogisk forkar gruppe som inkludert tilsetjing av fem 20% stillingar i utdanningsforsking og fem PhD stillingar og oppstart av praksiskurs i Troms&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.5697</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/03/26/words-from-the-centre-leader-3/</prop>
+     <seg>One exciting topic that in the program will be reports from the internal project that received money in 2020.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2021/03/26/ord-fra-senterleiaren-mars-2021/</prop>
+     <seg>Her skal vi f&#229; ein rapport fr&#229; intern prosjekta som fekk pengar i 2020.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.16868</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/18/words-from-the-leader/</prop>
+     <seg>This shows that iEarth can be the hub that can drive projects around the centre, something we want more of in 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/12/18/ord-fra-senterlederen-2/</prop>
+     <seg>Dette syner at iEarth kan vere navet som kan drive fram prosjekter kring senteret noko som vi ynskjer meir av i 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.15237</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/05/26/words-from-the-centre-leader-4/</prop>
+     <seg>Both Christian J&#248;rgensen, Sehoya Cotner and Vigdis Vandvik have written reader posts about this that are worth reading to get acquainted with the case.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2021/05/26/ord-fra-senterlederen-3/</prop>
+     <seg>B&#229;de Christian J&#248;rgensen, Sehoya Cotner og Vigdis Vanvik har skrevet lesarinnlegg om dette som er verdt &#229; lese for &#229; setje seg inn i saka.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.61101</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/18/words-from-the-leader/</prop>
+     <seg>This is an event regular event that will continue in 2021 and if you have something exciting going on with your own teaching, we are happy to accept suggestions for topics, we will start up again on 14 January.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/12/18/ord-fra-senterlederen-2/</prop>
+     <seg>Dette er eit arrangement vi vidaref&#248;rer i 2021 og dersom du har noko spennande p&#229; gang med eigen undervising tek vi gjerne imot forslag til tema, vi startar opp igjen den 14.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/05/26/words-from-the-centre-leader-4/</prop>
+     <seg>This is because Anne is moving to Stavanger with her family, something we are very sad for!</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2021/05/26/ord-fra-senterlederen-3/</prop>
+     <seg>Dette fordi Anne skal flytte til Stavanger med familien sin, noko vi er sv&#230;rt leie oss for!</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.42</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/18/words-from-the-leader/</prop>
+     <seg>Congratulations to Iver and thank you for your fantastic efforts!</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/12/18/ord-fra-senterlederen-2/</prop>
+     <seg>Gratulerer til Iver og takk for fantastisk innsats!</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.53571</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/06/08/update-from-iearth-may-june/</prop>
+     <seg>One important event for the iEarth consortium is the annual &#8220;Geolearning forum&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/06/08/oppdatering-fra-iearth-mai-juni/</prop>
+     <seg>Eit viktig arrangement for iEarth er det &#229;rlege &#171;Geolearning forum&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.0155</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/07/update-from-iearth/</prop>
+     <seg>Another issue is that the PhD positions are all &#8220;in-kind&#8221; positions from the partner institutions and thus the candidates will be appointed at various institutions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/04/07/oppdatering-fra-iearth/</prop>
+     <seg>Ei anna utfording er at phd stillingane alle er &#171;in-kind&#187; stillingar fr&#229; partner institusjonane og s&#229;leis vil kandidatane vere tilsett p&#229; ulike institusjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.7967</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/03/26/words-from-the-centre-leader-3/</prop>
+     <seg>On March 15, the application deadline for the second round of iEarth funding for internal projects expired.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2021/03/26/ord-fra-senterleiaren-mars-2021/</prop>
+     <seg>Den 15 marsk gjekk s&#248;knadsfristen ut for andre runde med finansiering av interne prosjekter under iEarth.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">5.38079</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/03/26/words-from-the-centre-leader-3/</prop>
+     <seg>Words from the centre leader &#8211; March 2021</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2021/03/26/ord-fra-senterleiaren-mars-2021/</prop>
+     <seg>Ord fr&#229; senterleiaren &#8211; mars 2021</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">4.3</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/07/update-from-iearth/</prop>
+     <seg>This will be delivered to DIKU by May 4</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/04/07/oppdatering-fra-iearth/</prop>
+     <seg>Denne skal leverast til DIKU innan 4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.16776</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/18/words-from-the-leader/</prop>
+     <seg>It is therefore very satisfying that we now have both a national student organization (directed by Serianna Kvar&#248;y) and local student organizations at the partner institutions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/12/18/ord-fra-senterlederen-2/</prop>
+     <seg>Det er difor sv&#230;rt gledeleg at vi no har b&#229;de ein nasjonal studentorganisasjon (leia av Serianna Kvar&#248;y) og lokale studentorganisasjonar p&#229; partner institusjonane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.19952</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/03/26/words-from-the-centre-leader-3/</prop>
+     <seg>At the end of the report, we look ahead to what we hope will happen next in 2021 within the various development areas.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2021/03/26/ord-fra-senterleiaren-mars-2021/</prop>
+     <seg>I slutten av rapporten ser vi framover p&#229; kva vi vonar skal skje vidare i 2021 innan dei ulike utviklingsomr&#229;da.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.44359</prop>
+    <prop type="score-bicleaner">0.571</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/06/08/update-from-iearth-may-june/</prop>
+     <seg>Between 40 and 50 people participated, and we have had good discussions after each session.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/06/08/oppdatering-fra-iearth-mai-juni/</prop>
+     <seg>Mellom 40 og 50 personar har delteke kvar gong og det har vore gode diskusjonar etter kvart innlegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.14608</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/18/words-from-the-leader/</prop>
+     <seg>In October, we had our annual Geolearning Forum, which was planned to take place in Troms&#248; but had to be turned into streamed keynote lectures and local workshops.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/12/18/ord-fra-senterlederen-2/</prop>
+     <seg>I oktober hadde vi v&#229;rt &#229;rleg Geolearning Forum som eigentleg skulle g&#229; i Troms&#248; med digitale keynote f&#248;redrag og lokale workshops.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.81688</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/03/26/words-from-the-centre-leader-3/</prop>
+     <seg>We received a total of 27 applications well distributed between the various institutions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2021/03/26/ord-fra-senterleiaren-mars-2021/</prop>
+     <seg>Vi fekk totalt inn 27 s&#248;knader godt fordelt mellom dei ulike institusjonane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.50414</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/18/words-from-the-leader/</prop>
+     <seg>Important milestones this year have been to set up a student organization, set up a research group with professor 2 competence, advertise PhD positions, arrange regular digital learning forums, and not least hold our annual Geolearning forum.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/12/18/ord-fra-senterlederen-2/</prop>
+     <seg>Viktige milep&#229;lar dette &#229;ret har vore &#229; f&#229; p&#229; plass ein studentorganisasjon, f&#229; p&#229; plass ei forskargruppe med professor 2 kompetanse, lyse ut PhD stillingar, arrangere jamlege digitale l&#230;ringsforum og ikkje minst halde v&#229;rt &#229;rlege Geolearning forum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.72281</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/05/26/words-from-the-centre-leader-4/</prop>
+     <seg>However, I still hope that you find time to follow the semester&#8217;s latest digital learning forum on Thursday 3 June, where several of our colleagues will share their experiences with using Jupyter Note books in teaching.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2021/05/26/ord-fra-senterlederen-3/</prop>
+     <seg>Vonar likevel at du finn tid til &#229; f&#248;lgje semesterets siste digital learning forum torsdag 3 juni der fleire av v&#229;re kollegaer vil dele sine erfaringar me d&#229; bruke Jupyter Noetbooks i undervisinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.24757</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/06/08/update-from-iearth-may-june/</prop>
+     <seg>Finally, June the 1st has passed and iEarth is officially a &#8220;Centre for excellence in education&#8221; (SFU)!</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/06/08/oppdatering-fra-iearth-mai-juni/</prop>
+     <seg>S&#229; var endeleg 1 juni passert og iEarth er offisielt eit &#171;Senter for fremragende undervising&#187; (SFU)!</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.03404</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/18/words-from-the-leader/</prop>
+     <seg>This week we got the good news that we received an award for the project &#8220;Geopraksis&#8221; lead by Iver Martens at UiT.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/12/18/ord-fra-senterlederen-2/</prop>
+     <seg>Denne veka fekk vi den gledeleg melding at vi fekk tildeling p&#229; prosjektet &#171;Geopraksis&#187; leia av Iver Martens ved UiT.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.28902</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/07/update-from-iearth/</prop>
+     <seg>In response to the closure of the universities, we established an &#8220;iEarth digital learning forum&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/04/07/oppdatering-fra-iearth/</prop>
+     <seg>Som ein respons p&#229; stenginga av universiteta etablerte vi eit &#171;iEarth digital learning forum&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.42209</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/07/update-from-iearth/</prop>
+     <seg>We hope to announce in the next month&#8217;s letter who will be &#8220;education chairs&#8221; and Professor 2 at the various institutions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://iearth.no/2020/04/07/oppdatering-fra-iearth/</prop>
+     <seg>Vi vonar &#229; annonsere i neste m&#229;nadsbrev kven som skal vere &#171;education chairs&#187; og professor 2 ved dei ulike institusjonane.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

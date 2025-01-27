@@ -1,0 +1,292 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221218T163323" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.04333</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>Politicians cannot instruct UNE in individual cases</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>Politikarane kan ikkje instruere UNE i enkeltsaker</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.14731</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>That is why politicians cannot overrule our decision in your appeal case.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>Derfor kan ikkje politikarane overpr&#248;ve det vi kjem til i klagesaka di.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.17885</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>UNE's work and decisions are very important to the National Police Immigration Service&#8217;s (PU) return work and the Directorate of Integration and Diversity&#8217;s (IMDi) settlement work.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>Arbeidet v&#229;rt og avgjerdene v&#229;re her i UNE har mykje &#229; seie for det arbeidet som blir gjort med retur i Politiets utlendingseining (PU) og busetjing i Integrerings- og mangfaldsdirektoratet (IMDi).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.10881</prop>
+    <prop type="score-bicleaner">0.611</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>Name (as it is registered in Norway):</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema_nynorsk.pdf.converted</prop>
+     <seg>Namn (slik det er registrert i Noreg):</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.2</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>Not everything is described in the rules.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>Det er ikkje alle sp&#248;rsm&#229;l som er skildra i regelverket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.02097</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>If your appeal is successful, then the UDI's rejection no longer applies.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>Dersom vi gir deg medhald i klaga di, gjeld ikkje avslaget fr&#229; UDI lenger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.014</prop>
+    <prop type="score-bicleaner">0.587</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-requesting-reversal.pdf.converted</prop>
+     <seg>In which country are you living?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/omgjeringsforespurnad_nynorsk.pdf.converted</prop>
+     <seg>Kva for land oppheld du deg i?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.01</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-requesting-reversal.pdf.converted</prop>
+     <seg>If you are living in Norway, would you like to stay here while UNE considers this request?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/omgjeringsforespurnad_nynorsk.pdf.converted</prop>
+     <seg>Dersom du oppheld deg i Noreg, &#248;nskjer du &#229; bli verande her medan UNE handsamar denne f&#248;respurnaden?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.71724</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>Form for submitting ID documents</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema_nynorsk.pdf.converted</prop>
+     <seg>Skjema for innsending av ID-dokumenter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.05238</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>We should also be prepared to be confronted with and reminded about these core values.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>Desse kjerneverdiane skal vi ogs&#229; tole &#229; bli konfronterte med og minte p&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.04286</prop>
+    <prop type="score-bicleaner">0.519</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>Tick which type of case the ID documents apply to:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema_nynorsk.pdf.converted</prop>
+     <seg>Kryss av for kva slags sak ID-dokumentet gjeld:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">3.204</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>Norwegian personal identity number (if you have been given this), 11 digits:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema_nynorsk.pdf.converted</prop>
+     <seg>F&#248;dselsnummer (dersom du har f&#229;tt eit i Noreg), 11 siffer:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.23288</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>Even though other people will consider your case, the same rules still apply.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>Sj&#248;lv om det er andre folk som ser p&#229; saka di, er det dei same reglane som gjeld.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.06008</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>UNE&#8217;s function is to ensure due process protection.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>UNE skal s&#248;rgje for rettstryggleiken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.11049</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>Date of birth (as it is registered in Norway):</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema_nynorsk.pdf.converted</prop>
+     <seg>F&#248;dselsdato (slik han er registrert i Noreg):</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.17722</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>By respectfulness, we mean that we should take you seriously and show understanding for who you are.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>Med respektfull meiner vi mellom anna at vi skal ta deg p&#229; alvor og vise forst&#229;ing for den du er.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.22487</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>If more than one family member sends in ID documents, one form must be completed by each person.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema_nynorsk.pdf.converted</prop>
+     <seg>Dersom fleire familiemedlemmar sender inn ID-dokument, m&#229; det fyllast ut eitt skjema per person.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.496</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>We also have a good overview and good knowledge of previous practice.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>Vi har ogs&#229; god oversikt og kunnskap om tidlegare praksis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.10423</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/form-for-submitting-id-documents.pdf.converted</prop>
+     <seg>The form must be sent together with the ID documents.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/id-skjema_nynorsk.pdf.converted</prop>
+     <seg>Skjemaet sender du inn saman med ID-dokumenta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">3.80945</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/fullmakt-eng.pdf.converted</prop>
+     <seg>1 Information about the person who is authorising another person</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/globalassets/skjemaer/fullmaktskjema_nynorsk.pdf.converted</prop>
+     <seg>1 Informasjon om deg som gjev fullmakt til ein annan person</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.575</prop>
+    <prop type="score-bicleaner">0.623</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>We also have to work efficiently.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>Vi skal ogs&#229; arbeide effektivt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.28052</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.une.no/en/about-une/this-is-une/</prop>
+     <seg>All cases considered by UNE have first been considered by the Directorate of Immigration (UDI).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.une.no/om-une/dette-er-une/</prop>
+     <seg>Alle saker vi behandlar i UNE, har f&#248;rst blitt behandla av Utlendingsdirektoratet (UDI).</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

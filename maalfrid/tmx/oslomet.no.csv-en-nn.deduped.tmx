@@ -1,0 +1,1616 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T152249" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.52056</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>By means of an app, researchers have mapped the types of adverts children and adolescents encounter on their phones when using Facebook, Instagram, Twitter and YouTube.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>Ved hjelp av ein app har forskarane kartlagt kva for reklamar barn og unge f&#229;r inn p&#229; mobilen sin n&#229;r dei brukar Facebook, Instagram, Twitter og Youtube.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.08802</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/PHBA/2021/H%C3%98ST</prop>
+     <seg>In advance of the defense, they hold two trial lectures, one on a topic decided by the evaluation committee, and one on a topic of their own choice.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/NORDO/2021/H%C3%98ST</prop>
+     <seg>L&#230;replanforst&#229;ing og kunnskap om vurdering er ein del av studiet, og studentane l&#230;rer &#229; evaluere arbeida til kvarandre og eigne arbeid og prestasjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.49697</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2019/H%C3%98ST</prop>
+     <seg>Production for online paper, radio, tv and print media.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Produksjon for nettavis, radio og tv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.03421</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Some of the tasks are individual; others are carried out in groups.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Studentane l&#248;ysar somme av oppg&#229;vene i grupper og andre individuelt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.26364</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/TANN3000/2021/H%C3%98ST</prop>
+     <seg>is capable of describing scientific methods of relevance to health Sciences</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MJ4200/2018/H%C3%98ST</prop>
+     <seg>kan filme og redigere VJ-innslag og nyheitsreportasjar for fjernsyn og internett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.11714</prop>
+    <prop type="score-bicleaner">0.625</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>The tasks are evaluated in groups.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>Oppg&#229;vene blir gjennomg&#229;tt i grupper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.13179</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>The tasks must be written in Norwegian, as the subject is about Norwegian language skills.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>Arbeidskrava skal leverast p&#229; norsk, d&#229; emnet er eit norskfagleg ferdigheitsfag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.07443</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/MALKD/2020/H%C3%98ST</prop>
+     <seg>When faculty approves the thesis outline, the student is assigned a supervisor for his thesis work.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/NORCO/2021/H%C3%98ST</prop>
+     <seg>Gjennom arbeid med vurdering av skriftlege og munnlege tekstar tileignar studentane seg kompetanse i &#229; evaluere eigne og andre sine arbeid og prestasjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.17508</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/IPH3030/2021/H%C3%98ST</prop>
+     <seg>discuss how to promote occupational health and to prevent occupational health hazards</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/KFKNU16100/2021/H%C3%98ST</prop>
+     <seg>kan rettleie og vurdere skriftleg tekstproduksjon hos elevar p&#229; p&#229; mellomtrinnet og ungdomstrinnet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.04268</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/PS9000/2021/H%C3%98ST</prop>
+     <seg>The course is a requirement for all candidates in the PhD programme in Social Sciences, OsloMet &#8211; Oslo Metropolitan University.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/LIG6400/2021/H%C3%98ST</prop>
+     <seg>Emnet diskuterer kva humanistiske og litteratursosiologiske perspektiv har &#229; seie for praksisfeltet og i bibliotek- og informasjonsvitskapen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.17362</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/MALKS/2021/H%C3%98ST</prop>
+     <seg>The concepts of behavior analysis are generic, and not exclusively relevant for specific target groups or populations.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/NORCO/2021/H%C3%98ST</prop>
+     <seg>er hovudomr&#229;da vidareutvikling av lese- og skriveferdigheiter, munnleg kommunikasjon, litteratur og litter&#230;r danning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.65781</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/BALV3500/2020/H%C3%98ST</prop>
+     <seg>A selection of at least 25% of the exam papers will be assessed by an external examiner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/BIB2300/2020/H%C3%98ST</prop>
+     <seg>Eit uttrekk p&#229; minst 25 prosent av oppg&#229;vene vert sensurert av to sensorar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.24098</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/PHBA/2021/H%C3%98ST</prop>
+     <seg>Students write a doctoral dissertation on the basis of their research.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/NORDO/2021/H%C3%98ST</prop>
+     <seg>Tilpassa oppl&#230;ring og den fleirkulturelle skulen er eit gjennomg&#229;ande perspektiv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.11638</prop>
+    <prop type="score-bicleaner">0.521</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/techneA/citationstylelanguage/download/ris?submissionId=2851&amp;publicationId=2241</prop>
+     <seg>AB - This paper discusses the case study Case Sveip, examining enhancement of students&#8217; design literacy for sustainability in craft-based design.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/techneA/citationstylelanguage/download/ris?submissionId=1911&amp;publicationId=1488</prop>
+     <seg>AB - Artikkelen ser p&#229; to ulike undervisningsopplegg der fagl&#230;rarstudentar i kunst og handverk arbeidde med installasjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.15999</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>The students shall develop further knowledge and skills acquired in the previous term, and they shall have a good command of the news reportage as a genre on distinct media platforms (web, tv and radio).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Studentane skal vidareutvikle kunnskapen og ferdigheitene dei tileigna seg i f&#248;rste semester, og skal meistre nyheitsreportasjen som sjanger p&#229; ulike medieplattformar (nett, tv og radio).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.02443</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/radopen/article/download/1528/1399/4693</prop>
+     <seg>texture in the image, measured on a standardized basis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/ungdomsforskning/article/download/1178/1048/3477</prop>
+     <seg>Sett i eit sosialiseringsperspektiv er dette eit interessant sp&#248;rsm&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.01622</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>When they promote unhealthy food and drink, it may influence consumption, attitudes and preferences", says Steinnes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>Reklame for usunn mat og drikke kan p&#229;verke b&#229;de inntak, haldningar og preferansar, seier Steinnes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.15862</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2019/H%C3%98ST</prop>
+     <seg>Solving individual and group based tasks, with feedback in groups.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Individuell og gruppebasert oppg&#229;vel&#248;ysing med tilbakemelding i grupper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.28846</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2020/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>Practical and theoretical learning forms are intertwined.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2020/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>Praktisk og teoretisk orientert undervisning g&#229;r hand i hand.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.41</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/download/2706/3257/12947</prop>
+     <seg>value of a design perspective for city makers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/download/2574/3055/11213</prop>
+     <seg>Forskingskoordinator ved EST, H&#248;gskolen i Oslo</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.14983</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>The scope is specified in the task formulations, or the students make agreements with the teacher.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Omfanget blir spesifisert i oppg&#229;vetekstane, eller studenten avtaler omfang med fagl&#230;raren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.014</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/QUTVVIET/2021/H%C3%98ST</prop>
+     <seg>Organisation and requirements</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/KFKNU16200/2021/H%C3%98ST</prop>
+     <seg>Spr&#229;khistorie og normering</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.57692</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>Grades from A to E for passed, and F for failed.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>Studentane f&#229;r bokstavkarakterar fr&#229; A til E for best&#229;tt og F for ikkje best&#229;tt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.07203</prop>
+    <prop type="score-bicleaner">0.567</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Some tasks are connected to media rotations, in which the students produce news for tv, radio and web.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Somme oppg&#229;ver er knytte til medierulleringar, der studentane produserer nyheiter for tv, radio og nett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.28378</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/RAD3000/2021/H%C3%98ST</prop>
+     <seg>search for relevant research, analyse these and apply to the findings in their assignment.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MJ4200/2018/H%C3%98ST</prop>
+     <seg>kan filme og redigere VJ-innslag og nyheitsreportasjar for fjernsyn og internett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.25161</prop>
+    <prop type="score-bicleaner">0.511</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/fleks/article/download/1683/1534/5189</prop>
+     <seg>interpreter offends public service user</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/information/article/download/3913/3529/15571</prop>
+     <seg>For Guttu sin del, med referanse til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.13282</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>WHO&#8217;s rules state that marketing of energy drinks to children and adolescents is not allowed.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>Barnet er hovudbrukar av eininga og dei installerte plattformane for sosiale medium.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.02222</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/UHPED6000/2021/H%C3%98ST</prop>
+     <seg>The project report can be submitted individually or in groups.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/KFKNU26100/2021/H%C3%98ST</prop>
+     <seg>Ny og utsett eksamen blir arrangert p&#229; same m&#229;te som ordin&#230;r eksamen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.02087</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>Steinnes and Haugr&#248;nning&#8217;s study is unable to verify that there is a direct link between unhealthy food marketing and child obesity.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>Steinnes og Haugr&#248;nning si unders&#248;king kan ikkje stadfeste ei direkte kopling mellom reklame for usunn mat og overvekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.725</prop>
+    <prop type="score-bicleaner">0.694</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/pp/citationstylelanguage/download/ris?submissionId=409&amp;publicationId=256</prop>
+     <seg>SE - Articles</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/arkiv/citationstylelanguage/download/ris?submissionId=917&amp;publicationId=655</prop>
+     <seg>SE - Fagartikkel</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.17321</prop>
+    <prop type="score-bicleaner">0.553</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/MALKS/2021/H%C3%98ST</prop>
+     <seg>Varied and student-active teaching methods are used in the program.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/NORCO/2021/H%C3%98ST</prop>
+     <seg>Studiet er eit kombinert nettbasert og samlingsbasert studium.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.13987</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2019/H%C3%98ST</prop>
+     <seg>The students shall develop further knowledge and skills acquired in the previous term, and they shall have a good command of the news reportage as a genre on distinct media platforms (web, tv, radio and print media).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Studentane skal vidareutvikle kunnskapen og ferdigheitene dei tileigna seg i f&#248;rste semester, og skal meistre nyheitsreportasjen som sjanger p&#229; ulike medieplattformar (nett, tv og radio).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.13469</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/RAD3000/2021/H%C3%98ST</prop>
+     <seg>The learning and teaching approach consists of group work supported by lectures, workshops and, self-studies.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MJ4200/2018/H%C3%98ST</prop>
+     <seg>Forelesningar (interne og eksterne), studentdrevne aktivitetar, redaksjonsbes&#248;k, oppl&#230;ring i kamera og redigeringsprogram, workshops, individuelt arbeid og rettleiing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.06596</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/MALKS/2020/H%C3%98ST</prop>
+     <seg>The program prepares the graduates for Ph.D. studies.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/KFKNU2/2021/H%C3%98ST</prop>
+     <seg>Spr&#229;k er grunnleggjande for tenking, forst&#229;ing, oppleving og kommunikasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.14231</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/BALV3500/2020/H%C3%98ST</prop>
+     <seg>All the exam papers will be assessed by an internal examiner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/BIB2300/2020/H%C3%98ST</prop>
+     <seg>Det vert nytta ein intern og ein ekstern sensor til sensurering av oppg&#229;vene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.10766</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/canvas</prop>
+     <seg>For OsloMet Summerschool and other programmes changes may occur.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/om/for-ansatte</prop>
+     <seg>Tilsette ved OsloMet loggar seg inn for personleg tilpassa innhald.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.61492</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/about/news/master-students-help-to-clean-the-oslo-fjord</prop>
+     <seg>The VEAS tunnel transports wastewater from more than 600,000 inhabitants in Oslo, B&#230;rum and Asker to the treatment plant at Bjerk&#229;s in Asker.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/no/om/nyheter/masterstudentar-hjelper-til-med-aa-reinse-oslofjorden</prop>
+     <seg>VEAS-tunnelen transporterer avl&#248;psvann fr&#229; meir enn 600 000 innbyggjarar i Oslo, B&#230;rum og Asker til reinseanlegget p&#229; Bjerk&#229;s i Asker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.18437</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>Many people call for better and more extensive regulation", says Steinnes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>Mange &#248;nskjer ei betre og meir omfattande regulering, fortel Steinnes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.21923</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/view/962</prop>
+     <seg>The article set its focus on change and training in textiles needlework teacher education.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/view/962</prop>
+     <seg>Artikkelen set fokus p&#229; endring og oppl&#230;ring i tekstil i handarbeidsl&#230;rarinneutdanninga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.11944</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/seminar/article/download/2513/2417/8482</prop>
+     <seg>They were less concerned than the boys with the need to include concepts and facts from the learning discourse in their stories.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/download/593/549/1496</prop>
+     <seg>For &#229; demonstrere korleis ein kan anvende dei teoretiske omgrepa vi nemnde ovanfor, skal vi no presentere to eksempel p&#229; multimodal skapande praksis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.17321</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/PHBA/2020/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/PHBA/2021/H%C3%98ST</prop>
+     <seg>The procedures regarding dissertation submission and defense are described in the regulations for the Ph.D. program.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/NORDO/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/KFKNU1/2021/H%C3%98ST</prop>
+     <seg>Dei skal dr&#248;fte vurderingskriterium og premissar for responsarbeid i studiet og i eigen praksis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.452</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/UHPED6000/2021/H%C3%98ST</prop>
+     <seg>Different teaching situations.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/KFKNU26100/2021/H%C3%98ST</prop>
+     <seg>er st&#248;dig i bokm&#229;l og nynorsk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">5.13587</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/PHUV9380/2020/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/PHUV9380/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/PHUV9380/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/PHUV9380/2020/H%C3%98ST</prop>
+     <seg>80 % attendance on the course.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/PHUV9390/2020/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/PHUV9390/2020/H%C3%98ST</prop>
+     <seg>Det er krav om 80 % oppm&#248;te.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.07579</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/ACIT4510/2021/H%C3%98ST</prop>
+     <seg>In case of failed exam or legal absence, the student may apply for a new or postponed exam.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/KFKNU26100/2021/H%C3%98ST</prop>
+     <seg>Ny og utsett eksamen blir arrangert p&#229; same m&#229;te som ordin&#230;r eksamen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.30463</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>"There is a link between excess weight and marketing of unhealthy food and drink", says Kamilla Knutsen Steinnes at Consumption Research Norway (SIFO), OsloMet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>&#8211; Det er ein samanheng mellom overvekt og reklame for usunn mat og drikke, seier Kamilla Knutsen Steinnes ved Forbruksforskingsinstituttet SIFO, OsloMet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.14348</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/KDM2400/2020/H%C3%98ST</prop>
+     <seg>The portfolio consist of:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/M1GNO1200/2021/H%C3%98ST</prop>
+     <seg>Form og omfang blir bestemt av fagl&#230;rar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.643</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MALKA217/2020/H%C3%98ST</prop>
+     <seg>The student can</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/M1GNO1100/2018/H%C3%98ST</prop>
+     <seg>Om spr&#229;k og l&#230;ring</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.02458</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>During the course, the students shall perform five mandatory tasks.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Studentane skal i l&#248;pet av emnet gjennomf&#248;re fem obligatoriske oppg&#229;ver.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.16739</prop>
+    <prop type="score-bicleaner">0.563</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>The tasks are approved by teachers during the course.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Oppg&#229;vene blir godkjende av fagl&#230;rarar undervegs i emnet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.12611</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/MSLPD/2020/V%C3%85R</prop>
+     <seg>The course will be taught in English.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/LSGGO/2019/H%C3%98ST</prop>
+     <seg>skriftleg, munnleg og digitalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.0061</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/download/3370/3649/16947</prop>
+     <seg>This can also benefit the plants they do not eat.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/download/962/1437/4779</prop>
+     <seg>Skulen tok eit ansvar for &#229; ta vare p&#229; tekstilkunnskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.26983</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/PHUV9410/2019/H%C3%98ST</prop>
+     <seg>The course consists of two parts.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/PHUV9390/2019/H%C3%98ST</prop>
+     <seg>&#197; vise sensibilitet og forst&#229;ing i m&#248;te med kjelder</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.01757</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/MAPD/2019/H%C3%98ST</prop>
+     <seg>The language skill requirements are listed on:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/NORDO/2021/H%C3%98ST</prop>
+     <seg>Oppl&#230;ring i tekstval st&#229;r difor sentralt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.15292</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>The students are required to solve four mandatory tasks - three written and one oral.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>Studentane skal l&#248;yse fire obligatoriske oppg&#229;ver - tre skriftlege og ei muntleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.05714</prop>
+    <prop type="score-bicleaner">0.587</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/peace-conflict-studies</prop>
+     <seg>see the web pages of Kulturstudier</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/aktiv-formidling</prop>
+     <seg>Lenke til studiesida i Studentportalen kjem.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">2.66114</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/BAL3100/2021/H%C3%98ST</prop>
+     <seg>At least 25% of the exam papers will be assessed by two examiners.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2021/H%C3%98ST</prop>
+     <seg>I tillegg blir eit utdrag p&#229; 25 prosent av svara sensurerte av ein ekstern sensor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.24545</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <seg>Practical and theoretical learning forms are intertwined.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2021/H%C3%98ST</prop>
+     <seg>Praktisk og teoretisk undervising g&#229;r hand i hand.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.71607</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/BIBV3310/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/BIBV3310/2021/H%C3%98ST</prop>
+     <seg>The external examiner grades a random sample consisting of approx. 25 per cent of the written exams.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/LIG6400/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/LIG6400/2020/H%C3%98ST</prop>
+     <seg>Eit uttrekk p&#229; minst 25 % av oppg&#229;vene sensurerast av to sensorar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.09048</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/UTVSD6000/2020/H%C3%98ST</prop>
+     <seg>The students should be able to:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/KFKNU16200/2021/H%C3%98ST</prop>
+     <seg>Munnleg framlegg gruppevis i plenum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.12427</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>The exam paper shall be written in Norwegian, as the subject is about Norwegian writing skills.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>Eksamenssvaret skal leverast p&#229; norsk, d&#229; emnet er eit norskfagleg ferdigheitsfag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.01137</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MINF6400/2021/H%C3%98ST</prop>
+     <seg>At least 25% of the exam papers will be assessed by two examiners. The grades awarded for the papers assessed by two examiners form the basis for determining the level for all the exam papers. Emneansvarlig</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/LIG6400/2020/H%C3%98ST</prop>
+     <seg>Eit uttrekk p&#229; minst 25 % av oppg&#229;vene sensurerast av to sensorar. Karakterane p&#229; dei oppg&#229;vene som er vurdert skal danne grunnlag for &#229; fastsetja niv&#229; p&#229; resten av oppg&#229;vene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.49032</prop>
+    <prop type="score-bicleaner">0.601</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/PHUV9410/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/PHUV9410/2020/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/PHUV9410/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/PHUV9410/2020/H%C3%98ST</prop>
+     <seg>Minor changes approved 27.04.2020.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/PHUV9390/2020/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/PHUV9390/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/PHUV9390/2021/H%C3%98ST</prop>
+     <seg>Redaksjonell endring 27.04.2020.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.1387</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/BALV3500/2020/H%C3%98ST</prop>
+     <seg>The course is based on lectures, group work, assignments, and literature.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/BIB2300/2020/H%C3%98ST</prop>
+     <seg>Arbeidsformene vekslar mellom forelesningar, praktiske &#248;vingar, blogging og sj&#248;lvstudium.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.36986</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>The content and deadline for each task will be announced in Canvas.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Innhald og tidsfristar for oppg&#229;vene blir kunngjorde gjennom Canvas.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.09187</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/SYKK1000/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/SYKP1000/2021/H%C3%98ST</prop>
+     <seg>The flipped classroom is used as a teaching method for part of the course.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/G1NOR3100/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/G1NOR3200/2018/H%C3%98ST</prop>
+     <seg>Handle og begrunne ut fr&#229; profesjonsetiske krav og utfordringar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.47653</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>distinctive features of different media platforms (tv, radio and web)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>s&#230;rtrekk ved ulike medieplattformer (tv, radio og nett)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.01067</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/about/news/master-students-help-to-clean-the-oslo-fjord</prop>
+     <seg>The winner team A panel of experts from Oslo, B&#230;rum and Asker municipalities and VEAS evaluated the results, and the winner team was a group with the students Marit &#216;ye Gjersdal, Andreas Kjernlie, Sergio Alejandro Sotres Romero and P&#229;l Anders Owren.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/no/om/nyheter/masterstudentar-hjelper-til-med-aa-reinse-oslofjorden</prop>
+     <seg>Eit ekspertpanel fr&#229; Oslo, B&#230;rum og Asker kommunar og VEAS evaluerte resultata, og vinnarteamet var studentgruppa Marit &#216;ye Gjersdal, Andreas Kjernlie, Sergio Alejandro Sotres Romero og P&#229;l Anders Owren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.12811</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <seg>Most tasks are evaluated in groups.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2021/H%C3%98ST</prop>
+     <seg>Oppg&#229;vene blir gjennomg&#229;tt i grupper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.21657</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>Many European countries, as well as Canada, are involved in the project, and Norway is first off the mark.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>Store delar av Europa, i tillegg til Canada, er involvert i prosjektet, og Noreg er f&#248;rst ute.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.06447</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2020/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>The students alternate between reading curriculum texts, attending plenary lectures, solving individual and group based tasks and evaluating these tasks in groups.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2020/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>Arbeidsformene vekslar mellom eigenstudium, plenumsforelesingar og individuell og gruppebasert oppg&#229;vel&#248;ysing med gjennomgang i grupper og plenum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.18927</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/view/505</prop>
+     <seg>I enjoyed the associations with card or board games that proceed from a set of rules.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/view/962</prop>
+     <seg>Artikkelen set fokus p&#229; endring og oppl&#230;ring i tekstil i handarbeidsl&#230;rarinneutdanninga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.682</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/nordiccie/citationstylelanguage/download/ris?submissionId=3314&amp;publicationId=2587</prop>
+     <prop type="source-document">https://journals.oslomet.no/index.php/seminar/citationstylelanguage/download/ris?submissionId=2527&amp;publicationId=2003</prop>
+     <prop type="source-document">https://journals.oslomet.no/index.php/seminar/citationstylelanguage/download/ris?submissionId=2466&amp;publicationId=1948</prop>
+     <prop type="source-document">https://journals.oslomet.no/index.php/rerm/citationstylelanguage/download/ris?submissionId=4675&amp;publicationId=4742</prop>
+     <seg>SE - Articles</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/ungdomsforskning/citationstylelanguage/download/ris?submissionId=1892&amp;publicationId=1469</prop>
+     <prop type="source-document">https://journals.oslomet.no/index.php/information/citationstylelanguage/download/ris?submissionId=614&amp;publicationId=417</prop>
+     <prop type="source-document">https://journals.oslomet.no/index.php/ungdomsforskning/citationstylelanguage/download/ris?submissionId=2567&amp;publicationId=2039</prop>
+     <seg>SE - Artikler</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.23438</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/programplan/INFORMATIK/2020/H%C3%98ST</prop>
+     <seg>The individual course descriptions will state the courses this concerns.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/M1GNO3100/2020/H%C3%98ST</prop>
+     <seg>kan bruke spr&#229;k- og tekstkunnskap aktivt i rettleiing av elevar i lese- og skriveprosessen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">2.625</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/757/638/479</prop>
+     <seg>Singal &amp; Jain 2012). The present thesis contributes to covering this gap in the literature.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/110/102/228</prop>
+     <seg>samhandlinga i intervjua ikkje blir presenterte for lesar (Potter &amp; Hepburn, 2012).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.25846</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/757/638/479</prop>
+     <seg>important policy dossiers, and I participated in disability conferences.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/110/102/228</prop>
+     <seg>suksess og ansvar, og for korleis rusproblemet blir forst&#229;tt og rusarbeidet utforma.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">2.80714</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/BIBV3600/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/BIBV3600/2021/H%C3%98ST</prop>
+     <seg>The external examiner grades a random sample consisting of approx. 25 per cent.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/LIG6400/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/LIG6400/2021/H%C3%98ST</prop>
+     <seg>Eit uttrekk p&#229; minst 25 % av oppg&#229;vene sensurerast av to sensorar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/PENG/2019/H%C3%98ST</prop>
+     <seg>On submission of the thesis, at least one of the articles must already be accepted for publication.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/programplan/KFKNU1/2021/H%C3%98ST</prop>
+     <seg>Dei skal dr&#248;fte vurderingskriterium og premissar for responsarbeid i studiet og i eigen praksis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.12143</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/757/638/479</prop>
+     <seg>vocational rehabilitation of disabled people.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/110/102/228</prop>
+     <seg>institusjonelle m&#229;lsetjingar og arbeidsm&#229;tar i NAV.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.27857</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2019/H%C3%98ST</prop>
+     <seg>Seminars and plenary lectures.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Seminar og forelesingar i plenum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">2.54675</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/view/962</prop>
+     <seg>Oslo Art and Design Education (University) College 1966&#8211;1994 &#8211; An educational institution with corporate responsibility and sustainability in focus</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/view/962</prop>
+     <seg>Statens l&#230;rer(h&#248;g)skole i forming Oslo 1966-1994 - ein utdanningsinstitusjon med samfunnsansvar og berekraft i fokus</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">3.28929</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>The written tasks should add up to about 8-15 pages altogether.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>Dei skriftlege oppg&#229;vene skal til saman vere p&#229; om lag 8-15 sider.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.31786</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2019/H%C3%98ST</prop>
+     <seg>can produce news for several media platforms (tv, radio, web and print media)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>kan lage nyheiter for ulike medieplattformer (tv, radio og nett)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.17826</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/ERGO1000/2019/H%C3%98ST</prop>
+     <seg>demonstrating knowledge of research and development in occupational sciences</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MJ4200/2018/H%C3%98ST</prop>
+     <seg>kan filme og redigere VJ-innslag og nyheitsreportasjar for fjernsyn og internett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.01868</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/757/638/479</prop>
+     <seg>failures concerning the implementation of disability policies.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/110/102/228</prop>
+     <seg>og klientposisjonar som blir aktualiserte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.24</prop>
+    <prop type="score-bicleaner">0.563</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/757/638/479</prop>
+     <seg>rational and calculative actors.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/110/102/228</prop>
+     <seg>ikkje sosionom og s&#229; vidare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.39082</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2019/H%C3%98ST</prop>
+     <seg>distinctive features of the different media platforms (tv, radio, web and print media)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>s&#230;rtrekk ved ulike medieplattformer (tv, radio og nett)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.73793</prop>
+    <prop type="score-bicleaner">0.613</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>Adverts for pizza, meat and fizzy drinks</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>Reklamar for pizza, kj&#248;tt og brus</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">2.53162</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>A random sample of at least 25 percent of the answers are in addition evaluated by an external examiner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Eit uttrekk p&#229; minst 25 prosent av svara blir i tillegg sensurerte av ekstern sensor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.58026</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>can produce news for several media platforms (tv, radio and web)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>kan lage nyheiter for ulike medieplattformer (tv, radio og nett)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.09024</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/download/2706/3257/12947</prop>
+     <seg>The coalitions described in this paper are, in a</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/download/2574/3055/11213</prop>
+     <seg>Tilh&#248;vet mellom akademisk disiplin og profesjon, og kunnskaps-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.16827</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>&#8211; Dr Kremlin Wickramasinghe, Acting Programme Manager for Nutrition, Physical Activity and Obesity, WHO Regional Office for Europe.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>Kremlin Wickramasinghe, fungerande leiar for omr&#229;da ern&#230;ring, fysisk aktivitet og overvekt ved WHOs Europa-kontor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">1.7</prop>
+    <prop type="score-bicleaner">0.631</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/fleks/citationstylelanguage/download/ris?submissionId=4168&amp;publicationId=4198</prop>
+     <seg>SE - Research articles</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/arkiv/citationstylelanguage/download/ris?submissionId=917&amp;publicationId=655</prop>
+     <seg>SE - Fagartikkel</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.11176</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>The researchers believe this number would be even higher if Snapchat and TikTok had been included.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>Enda meir ville dei f&#229;tt inn dersom Snapchat og TikTok var med, trur forskarane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.15556</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/757/638/479</prop>
+     <seg>the qualitative data, I encountered a few challenges worth mentioning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/110/102/228</prop>
+     <seg>m&#248;nster i korleis rusproblem og rusarbeid blir konstituerte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.0375</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2019/H%C3%98ST</prop>
+     <seg>rhetoric and argumentation</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>retorikk og argumentasjon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.00102</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/PARA1000/2019/H%C3%98ST</prop>
+     <seg>is capable of demonstrating basic communication skills</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/GLSM6300/2021/H%C3%98ST</prop>
+     <seg>er sikker munnleg spr&#229;kbrukar og st&#248; i skriftleg bokm&#229;l og nynorsk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.07237</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/757/638/479</prop>
+     <seg>concerning the employment of disabled people are not only popular in a developed country</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://skriftserien.oslomet.no/index.php/skriftserien/article/download/110/102/228</prop>
+     <seg>profesjonsut&#248;varen og klienten forst&#229;r problem og l&#248;ysingar p&#229;, og slik skape nye handlingsrom</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.21183</prop>
+    <prop type="score-bicleaner">0.501</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/programplan/MALKD/2020/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/programplan/MALKS/2020/H%C3%98ST</prop>
+     <seg>can conduct experiments and demonstrate working knowledge of the natural scientific Method</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/NORC6120/2021/H%C3%98ST</prop>
+     <seg>kan kartlegge og vurdere lese- og skriveferdigheiter og gi l&#230;ringsfremjande respons til elevar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.32857</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/pp/citationstylelanguage/download/ris?submissionId=409&amp;publicationId=256</prop>
+     <seg>JF - Professions and Professionalism</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/arkiv/citationstylelanguage/download/ris?submissionId=917&amp;publicationId=655</prop>
+     <seg>JF - Tidsskriftet Arkiv</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.01139</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>The child is the main user of the device and the social media platforms installed on it.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>Og reklame for energidrikk med gamingkarakterar, begge tydeleg retta mot barn og unge, seier Haugr&#248;nning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">1.09302</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/seminar/article/download/2513/2417/8482</prop>
+     <seg>It thus provides a theoretical basis for analysing how the boys and girls in this case study made use of digitally mediated signs in their story-telling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/download/593/549/1496</prop>
+     <seg>I dag er multimodalitet eit tverrfagleg omgrep, som blir anvendt innanfor ulike fagfelt som blant anna pedagogikk, kommunikasjonsfag, tekstvitskap, medievitskap og etnometodologi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">1.9303</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Production for online paper, radio and tv.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Produksjon for nettavis, radio og tv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.03846</prop>
+    <prop type="score-bicleaner">0.661</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/FYB1000/2020/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/PSYK1100/2020/H%C3%98ST</prop>
+     <seg>Teaching and learning methods</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/M1GNO1200/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/M1GNO1200/2018/H%C3%98ST</prop>
+     <seg>Vurdering og tilbakemelding</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">2.75357</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/BIBV3060/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/BIBV3040/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/BIBV3040/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/BIBV3060/2021/H%C3%98ST</prop>
+     <seg>The external examiner grades a random sample consisting of approx. 25 per cent of the exams.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/LIG6400/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/LIG6400/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/LIG6400/2020/H%C3%98ST</prop>
+     <seg>Eit uttrekk p&#229; minst 25 % av oppg&#229;vene sensurerast av to sensorar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.13462</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>The exam is a three day home exam consisting of two parts: a theoretical/analytical, curriculum-based paper (5-8 pages) and one of the course requirements that the student has carried out during the term.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/JB1400/2021/H%C3%98ST</prop>
+     <seg>Eksamen er ein tre dagars heimeeksamen som har to delar: ei teoretisk/analytisk, pensumrelatert oppg&#229;ve (5-8 sider) og eit av arbeidskrava studenten har gjennomf&#248;rt i l&#248;pet av semesteret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">2.61019</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/view/962</prop>
+     <seg>The school bore the name Oslo Art and Design Education College (SLFO) from 1966 to 1975 and Oslo Art and Design Education University College from 1975 to 1994.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://journals.oslomet.no/index.php/formakademisk/article/view/962</prop>
+     <seg>Skulen bar namnet Statens l&#230;rerskole i forming Oslo (SLFO) fr&#229; 1966 til 1975, s&#229; Statens l&#230;rerh&#248;gskole i forming Oslo fr&#229; 1975 til 1994.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">4.17143</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MABIO4700/2019/H%C3%98ST</prop>
+     <seg>minimum 80 % attendance at lectures and seminars</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/GLSM6100/2021/H%C3%98ST</prop>
+     <seg>For &#229; f&#229; avleggje eksamen blir det kravd minimum 80 prosent deltaking.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.01538</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/FLKM4410/2021/H%C3%98ST</prop>
+     <seg>reliability and validity issues</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/M1GNO1200/2018/H%C3%98ST</prop>
+     <seg>Vurdering og tilbakemelding</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">2.07903</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/about/news/master-students-help-to-clean-the-oslo-fjord</prop>
+     <seg>Associate professor Tiina Komulainen from OsloMet and postdoc Jakub Roemer for VEAS organized the Hackathon in cooperation with Oslo, B&#230;rum and Asker municipality, and University of South-Eastern Norway and University of Agder.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/no/om/nyheter/masterstudentar-hjelper-til-med-aa-reinse-oslofjorden</prop>
+     <seg>F&#248;rsteamanuensis Tiina Komulainen fr&#229; OsloMet og postdoktor Jakub Roemer for VEAS arrangerte konkurransen i samarbeid med Oslo, B&#230;rum og Asker kommunar, og Universitetet i S&#248;raust-Noreg og Universitetet i Agder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.00909</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/FKH1002/2021/H%C3%98ST</prop>
+     <seg>The coursework is assessed by the course teachers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/FK3900/2021/H%C3%98ST</prop>
+     <seg>Obligatorisk deltaking og framlegg p&#229; midtvegsseminar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.14066</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>knows basic perspectives, concepts and models within rhetoric, social semiotics and discourse analysis</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>kjenner grunnleggande perspektiv, omgrep og modellar innanfor retorikk, sosialsemiotikk og diskursanalyse</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.04557</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <seg>The students alternate between attending lectures and seminars, solving individual and group based tasks, evaluating these tasks in groups and in plenary, and reading curriculum texts alone or in student organized colloquiums.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <seg>Arbeidsformene vekslar mellom forelesingar og seminar i plenum, individuell og gruppebasert oppg&#229;vel&#248;ysing med gjennomgang i grupper og plenum, og studentorganiserte kollokviegrupper/pensumlesing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">2.44191</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/about/tkd/localization-of-the-faculty-of-technology-art-and-design</prop>
+     <seg>The technology departments at the Faculty of Technology, Art and Design (TKD) are now located in Pilestredet 35 in Oslo, the Department of Art, Design and Drama in Pilestredet park 33 in Oslo, and the Department of Product Design in Kunnskapsveien 55 in Kjeller outside Oslo.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/no/om/tkd/lokalisering-av-tkd</prop>
+     <seg>Teknologiinstitutta ved Fakultet for teknologi, kunst og design (TKD) er no lokaliserte i Pilestredet 35, Institutt for estetiske fag i Pilestredet park 33 og Institutt for produktdesign i Kunnskapsveien 55 p&#229; Kjeller.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">1.40192</prop>
+    <prop type="score-bicleaner">0.581</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>The students act as opponents for each other.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2018/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/MOK1000/2021/H%C3%98ST</prop>
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/MOK1000/2019/H%C3%98ST</prop>
+     <seg>Studentane skal vere opponentar for kvarandre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">1.07778</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/VERN2110/2020/H%C3%98ST</prop>
+     <seg>pretest when the course begins</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/GLSM6300/2022/H%C3%98ST</prop>
+     <seg>Deltaking p&#229; presentasjon og respons av sakprosabok.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.63206</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/programplan/INFORMATIK/2020/H%C3%98ST</prop>
+     <seg>Students must register for resit/rescheduled exams themselves.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/M1GNO3100/2020/H%C3%98ST</prop>
+     <seg>Arbeidskrav og deltaking i faglege aktivitetar knytt til FoU-oppg&#229;va</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>In Norway, the rules are less stringent.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>I Noreg er reglane mindre strenge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.16257</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/programplan/INFORMATIK/2021/H%C3%98ST/oppbygning</prop>
+     <seg>A programme supervisor is not an examiner, but someone who supervises the quality of the study programmes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/en/studier/-/studieinfo/emne/M1GNO3100/2021/H%C3%98ST</prop>
+     <seg>Studenten skal f&#248;rebu ein fagleg og didaktisk presentasjon med sj&#248;lvformulert problemstilling og val av fokus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1.29524</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.oslomet.no/en/research/featured-research/eight-out-of-ten-food-adverts-aimed-at-children-violate-who-guidelines</prop>
+     <seg>"Teenagers are especially exposed", Vilde Haugr&#248;nning adds.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.oslomet.no/forskning/forskningsnyheter/atte-av-ti-matreklamar-retta-mot-barn-bryt-whos-retningsliner</prop>
+     <seg>&#8211; Eksponeringa mot ten&#229;ringar er veldig h&#248;g, legg Vilde Haugr&#248;nning til.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.04</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/QUTVVIET/2021/H%C3%98ST</prop>
+     <seg>Introducing development studies</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://student.oslomet.no/studier/-/studieinfo/emne/KFKNU16200/2021/H%C3%98ST</prop>
+     <seg>kan skrive godt p&#229; nynorsk og bokm&#229;l</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

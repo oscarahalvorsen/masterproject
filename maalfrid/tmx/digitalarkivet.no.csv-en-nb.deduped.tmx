@@ -1,0 +1,976 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T134307" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">7.19655</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/35490</prop>
+     <seg>Landed property index for Nordlands amt 1838</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/35490</prop>
+     <seg>Matrikkel for Nordlands amt 1838</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.15854</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/search-names</prop>
+     <seg>, which accounts for the use of Olsen as family name in the 1900 and 1910 censuses.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/variantsok</prop>
+     <seg>, og her er alts&#229; Olsen brukt som slektsnavn i 1900- og 1910-tellingene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">7.20323</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/35474</prop>
+     <seg>Landed property index for Smaalenenes amt 1838</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/35474</prop>
+     <seg>Matrikkel for Smaalenenes amt 1838</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.6269</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/about-photo-archive</prop>
+     <seg>Non-commercial (NC) - May not be used for commercial purposes</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/about-photo-archive</prop>
+     <seg>verket kan ikke brukes i kommersielle sammenhenger (NC)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.11747</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/search-names</prop>
+     <seg>The name variant searches uses a database of names, developed by the name researcher Professor Gulbrand Alhaug from the University of Troms&#248;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/variantsok</prop>
+     <seg>Variants&#248;ket bruker et navneregister utarbeidet av navneforsker professor emeritus Gulbrand Alhaug, Universitetet i Troms&#248; - Norges arktiske universitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.99653</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/actors/115/carol-and-walter-ellefson</prop>
+     <seg>Carol and Walter Ellefson (1929-2014) have transcribed church records from Lone Rock, Little Rock and Oslo Norwegian Lutheran churches in Moody County, South Dakota.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/actors/115/carol-og-walter-ellefson</prop>
+     <seg>Carol og Walter Ellefson (1929-2014) har registrert kirkeb&#248;ker fra Lone Rock, Little Rock og Oslo Norsk-lutherske kirker i Moody County, S&#248;r-Dakota.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">5.27411</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>are restricted for 80 years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>er sperret i 80 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.21765</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143770</prop>
+     <seg>Nominated by Ritter Wladimir von Gniewosz-Olexow (Austria-Hungary).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/140830</prop>
+     <seg>Nominert av Ludwig von Bar (Tyskland).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">7.20323</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/35476</prop>
+     <seg>Landed property index for Hedemarkens amt 1838</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/35476</prop>
+     <seg>Matrikkel for Hedemarkens amt 1838</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.33041</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/search-names</prop>
+     <seg>In 1923, the first naming laws were introduced, and names became much more standardised than earlier.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/variantsok</prop>
+     <seg>I 1923 kommer den f&#248;rste navneloven, og personnavn blir mer standardiserte enn de har v&#230;rt f&#248;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.04544</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/church-books</prop>
+     <seg>During transcription, data from a list or event in a church book is entered according to a standard for church book registration (KYRRE in Norwegian).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/content/church-books</prop>
+     <seg>Under transkribering blir alle data fra en liste/handling i en kirkebok tastet etter en standard for kirkebokregistrering, Kyrre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.20468</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/about-photo-archive</prop>
+     <seg>If the photograph is public domain, or marked with the licenses "CC BY" or "CC BY-SA", then they may be used freely without restriction.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/about-photo-archive</prop>
+     <seg>Dersom fotografiet har falt i det fri eller er merket med lisensen CC BY eller CC BY-SA, kan fotografiene brukes fritt og deles videre uten restriksjoner p&#229; bruk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.14615</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143807</prop>
+     <seg>Nominated by Baron Clemens von Pirquet (Austria-Hungary).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/143807</prop>
+     <seg>Nominert av Baron Clemens von Pirquet (&#216;sterrike-Ungarn).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.215</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/40210</prop>
+     <seg>Trondheim stift. Tags</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/40210</prop>
+     <seg>Trondheim stift. Emneknagger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.17414</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/about-photo-archive</prop>
+     <seg>The only condition is that the author and copyright owner are accredited.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/about-photo-archive</prop>
+     <seg>Eneste vilk&#229;r er at opphavsperson og rettighetshaver krediteres.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">3.43115</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/church-books</prop>
+     <seg>The oldest church book in existence is from Andebu in Vestfold county and begins in 1623.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/content/church-books</prop>
+     <seg>Den eldste norske kirkeboka er fra Andebu i Vestfold og begynner i 1623.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.00312</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>Such checks are however, not prioritized.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>Dette er ikke en prioritert oppgave.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.40065</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/about-photo-archive</prop>
+     <seg>For this reason we have chosen to use CC-BY or CC BY-SA as much as possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/about-photo-archive</prop>
+     <seg>S&#229; langt det lar seg gj&#248;re benytter vi derfor lisensen CC BY eller CC BY-SA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.6432</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>in the church books is indexed by list type and year; e.g "Confirmations 1935".</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>I Digitalarkivet er hvert enkelt bilde av oppslag i kirkeb&#248;ker indeksert med listetype og &#229;rstall, for eksempel "Konfirmerte 1935".</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.74588</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143859</prop>
+     <seg>Nomination of William Randal Cremer (United Kingdom), Charles Albert Gobat (Switzerland), &#201;lie Ducommun (Switzerland), The Inter-Parliamentary Union (Switzerland) and The Permanent International Peace Bureau (Switzerland) for the Nobel Peace Prize for 1902.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/143859</prop>
+     <seg>Nominasjon til Nobels fredspris for 1902 av William Randal Cremer (Storbritannia), Charles Albert Gobat (Sveits), &#201;lie Ducommun (Sveits), Den interparlamentariske union (Sveits) og Det internasjonale fredsbyr&#229; (Sveits).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">3.64615</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143875</prop>
+     <seg>Nomination of The Union of French Women (L&#180;Union des femmes de France) (France) for the Nobel Peace Prize for 1902.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/143875</prop>
+     <seg>Nominasjon til Nobels fredspris for 1902 av The Union of French Women (L&#180;Union des femmes de France) (Frankrike).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">3.06799</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143807</prop>
+     <seg>Nomination of William Randal Cremer (United Kingdom), Chevalier Edouard Eug&#232;ne Descamps (Belgium), Charles Albert Gobat (Switzerland) and Baroness Bertha Sophie von Suttner (Austria-Hungary) for the Nobel Peace Prize for 1902.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/143807</prop>
+     <seg>Nominasjon til Nobels fredspris for 1902 av William Randal Cremer (Storbritannia), Chevalier Edouard Eug&#232;ne Descamps (Belgia), Charles Albert Gobat (Sveits) og Baronesse Bertha Sophie von Suttner (&#216;sterrike-Ungarn).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.93776</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/166241</prop>
+     <seg>Nomination of Aristide Pierre Henri Briand (France), Sir Joseph Austen Chamberlain (United Kingdom), Hans Luther (Germany) and Gustav Stresemann (Germany) for the Nobel Peace Prize for 1926.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/166240</prop>
+     <seg>Nominasjon til Nobels fredspris for 1926 av Edvard Bene&#353; (Tsjekkoslovakia), Aristide Pierre Henri Briand (Frankrike), Sir Joseph Austen Chamberlain (Storbritannia), Hans Luther (Tyskland) og Gustav Stresemann (Tyskland).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">3.2125</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>The principle of restricting these lists from 1930 is therefore strictly enforced.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>Prinsippet om at listene over f&#248;dte og d&#248;pte skal v&#230;re sperret fra og med 1930, m&#229; derfor praktiseres strengt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.94792</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/157435</prop>
+     <seg>Nominated by &#201;mile Arnaud (France).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/157435</prop>
+     <seg>Nominert av &#201;mile Arnaud (Frankrike).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.01</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>Deaths and burials</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>D&#248;de og begravde</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.1973</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/about-photo-archive</prop>
+     <seg>CC stands for "Creative Commons", an organisation which encourages the legal dissemination of copyrighted material.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/about-photo-archive</prop>
+     <seg>CC st&#229;r for Creative Commons, og er en ideell organisasjon som jobber for &#229; &#248;ke antallet &#229;ndsverk som alle lovlig kan dele med andre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.64175</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143756</prop>
+     <seg>Nomination of William Randal Cremer (United Kingdom), The Permanent International Peace Bureau (Switzerland) and Fr&#233;d&#233;ric Passy (France) for the Nobel Peace Prize for 1901.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/143707</prop>
+     <seg>Nominasjon til Nobels fredspris for 1901 av Baronesse Bertha Sophie von Suttner (&#216;sterrike-Ungarn), William Randal Cremer (Storbritannia) og Fr&#233;d&#233;ric Passy (Frankrike).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">5.90565</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/search-names</prop>
+     <seg>Einar Henry Olsen in the 1910 census</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/variantsok</prop>
+     <seg>Einar Henry Olsen i 1910-tellingen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.425</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/157434</prop>
+     <seg>Nominated by Cornelius Bernhard Hanssen (Norway).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/140840</prop>
+     <seg>Nominert av Bernhard Hanssen (Norge), J.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.11676</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/user-photo-archive</prop>
+     <seg>You will be sent an email asking you to confirm your e-mail address.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/user-photo-archive</prop>
+     <seg>Du vil deretter bli bedt om &#229; bekrefte e-postadressen din.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.42614</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/church-books</prop>
+     <seg>The organisation "Slekt og Data" (Family and Data) is a particularly large contributor.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/content/church-books</prop>
+     <seg>Foreningen Slekt og Data er en s&#230;rlig stor bidragsyter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.54286</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/taste</prop>
+     <seg>Diploma from Stokke, date.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/taste</prop>
+     <seg>Diplom fra Stokke, dat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">4.89394</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>are freely available up to, and including 1929.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>er fritt tilgjengelig til og med 1929.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.02188</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/church-books</prop>
+     <seg>Why are not all church books scanned?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/content/church-books</prop>
+     <seg>Hvorfor er ikke alle kirkeb&#248;ker skanna?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.52894</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>In some births and baptism lists, the priest may note information pertaining to the adopted child, including the identify of its biological parents. This information also carries of 100-year duty of confidentiality.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>I kirkeb&#248;kenes lister over f&#248;dte og d&#248;pte forekommer det at prestene har notert konkrete opplysninger om at et barn er adoptert og hvem de biologiske foreldrene er, og disse opplysningene er f&#248;lgelig taushetsbelagt i 100 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.64211</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/search-names</prop>
+     <seg>In the period between 1860 and 1920, naming customs shifted from patronymic naming (father's name) to family names (farm names or names ending with -sen).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/variantsok</prop>
+     <seg>I perioden 1860 til 1920 endres navneskikken fra patronymikon (farsnavn) til slektsnavn (g&#229;rdsnavn eller navn som slutter p&#229; -sen).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">3.16125</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143793</prop>
+     <seg>Nomination of &#201;lie Ducommun (Switzerland) and Baroness Bertha Sophie von Suttner (Austria-Hungary) for the Nobel Peace Prize for 1902.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/143793</prop>
+     <seg>Nominasjon til Nobels fredspris for 1902 av &#201;lie Ducommun (Sveits) og Baronesse Bertha Sophie von Suttner (&#216;sterrike-Ungarn).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">7.18889</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/35481</prop>
+     <seg>Landed property index for Neden&#230;s amt 1838</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/35481</prop>
+     <seg>Matrikkel for Neden&#230;s amt 1838</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.1</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/actors/900/the-norwegian-labour-movement-archives-and-library</prop>
+     <seg>Arbark is a member of the International Association of Labour History Institutions (IALHI).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/actors/900/arbeiderbevegelsens-arkiv-og-bibliotek</prop>
+     <seg>Arbark driver ogs&#229; et omfattende forsknings- og formidlingsarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">5.145</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/search-names</prop>
+     <seg>in the censuses from 1900 and 1910.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/variantsok</prop>
+     <seg>i f&#248;lge folketellingene 1900 og 1910:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.31082</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/actors/115/carol-and-walter-ellefson</prop>
+     <seg>In addition, they have made indexes to tomb stones of Bethania cemetery in Moody County, South Dakota.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/actors/115/carol-og-walter-ellefson</prop>
+     <seg>De har ogs&#229; registrert gravstener p&#229; Bethania kirkeg&#229;rd i Moody County, S&#248;r-Dakota.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.46882</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>We are also considering introducing a 60-year restriction on such lists for church books published prior to autumn 2016.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>Arkivverket vurderer &#229; innf&#248;re 60 &#229;rs sperring for lister med viede og trolovede, samt lysninger, ogs&#229; i kirkeb&#248;ker publisert f&#248;r h&#248;sten 2016.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.08182</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143859</prop>
+     <seg>Nominated by Hans Jakob Horst (Norway).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/143859</prop>
+     <seg>Nominert av Hans Jakob Horst (Norge).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.33194</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>Information regarding adoptions from 1935 or later, has also been found to occur in births and baptisms lists</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>Opplysninger om adopsjoner foretatt i 1935 eller senere kan ogs&#229; dukke opp i lister over f&#248;dte og d&#248;pte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.37727</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/search-names</prop>
+     <seg>How is the name variant search used?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/variantsok</prop>
+     <seg>Hvor brukes variants&#248;k?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.36774</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>In such cases, the national archives will restrict these individual pages of the births and baptisms lists prior to 1930.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>I slike tilfeller kan Arkivverket finne det n&#248;dvendig &#229; sperre enkeltbilder med f&#248;dte og d&#248;pte ogs&#229; f&#248;r 1930.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.29706</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/about-photo-archive</prop>
+     <seg>This is a free-text search, which means you can match against all information registered to a particular photo.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/about-photo-archive</prop>
+     <seg>Det er et friteksts&#248;k som s&#248;ker i all informasjon som er registrert til bildene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.2425</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/search-names</prop>
+     <seg>He was born on the 10th May, 1897 in Asker, and was named</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/variantsok</prop>
+     <seg>Han var f&#248;dt 10. mai 1897 i Asker, og het</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.75</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/actors/115/carol-and-walter-ellefson</prop>
+     <seg>About Carol and Walter Ellefson</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/actors/115/carol-og-walter-ellefson</prop>
+     <seg>Om Carol og Walter Ellefson</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.22474</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143875</prop>
+     <seg>Nominated by Achille Luchaire (France) and L&#233;on Victor Auguste Bourgeois (France).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/143875</prop>
+     <seg>Nominert av Achille Luchaire (Frankrike) og L&#233;on Victor Auguste Bourgeois (Frankrike).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.0539</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/church-books</prop>
+     <seg>In addition, millions of entries in the church books have been made searchable.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/content/church-books</prop>
+     <seg>I tillegg er millioner av personposter fra kirkeb&#248;kene s&#248;kbare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">3.12941</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/157419</prop>
+     <seg>Nomination of L&#233;on Victor Auguste Bourgeois (France), Pasquale Fiore (Italy), Adolf Richter (Germany) and for William Howard Taft (United States) the Nobel Peace Prize for 1913.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/157419</prop>
+     <seg>Nominasjon til Nobels fredspris for 1913 av L&#233;on Victor Auguste Bourgeois (Frankrike), Pasquale Fiore (Italia), Adolf Richter (Tyskland) og William Howard Taft (Forente Stater).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.09361</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/church-books</prop>
+     <seg>These books are scanned from the originals, which means the scans can be in colour as opposed to microfilm scans which are grayscale.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/content/church-books</prop>
+     <seg>Disse skannes fra original, og bildene er derfor i farger, mens bildene som er skanna fra mikrofilm, er i gr&#229;toner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.1556</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/about-photo-archive</prop>
+     <seg>If the photos are marked with the license "CC BY NC", then there are limitations on their usage for commercial purposes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/about-photo-archive</prop>
+     <seg>Er fotografiene merket med lisensen CC BY NC, er det restriksjoner p&#229; bruk til kommersielle form&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.27188</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/166241</prop>
+     <seg>Nominated by Wilhelm Keilhau (Norway).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/166240</prop>
+     <seg>Nominert av Frede Castberg (Norge).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">3.71823</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/165940</prop>
+     <seg>Nomination of Sir Edward Grey (Lord Grey of Falloden) (United Kingdom) for the Nobel Peace Prize for 1922.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/165940</prop>
+     <seg>Nominasjon til Nobels fredspris for 1922 av Sir Edward Grey (Lord Grey of Falloden) (Storbritannia).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.3094</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143772</prop>
+     <seg>Nominated by The Austrian Inter-Parliamentary Group (by Pirquet) (Austria-Hungary).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/140820</prop>
+     <seg>Nominert av Baron Clemens von Pirquet (&#216;sterrike-Ungarn).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.92633</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>Such attachments from after 1930 can be opened manually, however this requires that the national archives first check the content to ensure that the contained information can be made freely available.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>L&#248;se vedlegg etter 1930 kan &#229;pnes manuelt, men dette forutsetter at Arkivverket kan kontrollere og fastsl&#229; at opplysningene p&#229; de l&#248;se vedleggene kan publiseres fritt tilgjengelig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.2975</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/restricted-kb</prop>
+     <seg>From 1935, so called "full adoptions" were introduced, requiring the complete severance of contact with the biological parents.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/restricted-kb</prop>
+     <seg>Fra 1935 ble det mulig med s&#229;kalt "sterk" adopsjon, som betyr at b&#229;ndene mellom barnet og de biologiske foreldrene skulle brytes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">3.7244</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/100347</prop>
+     <seg>Tax List 1739-1743 for Senja and Troms bailiffs from the tax notes of bailiff T&#248;nder</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/100347</prop>
+     <seg>Skatteliste 1739-1743 for Senja og Troms fogderi fra fogd T&#248;nders skattenotater</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.11857</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/52598</prop>
+     <seg>Christian county, Valdres, Hadeland og Land bailiwick Tags</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/52598</prop>
+     <seg>Christian amt, Valdres, Hadeland og Land futed. Emneknaggar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">4.08784</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/165945</prop>
+     <seg>Nomination of Estanislas Severo Zeballos (Argentina) for the Nobel Peace Prize for 1922.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/165945</prop>
+     <seg>Nominasjon til Nobels fredspris for 1922 av Estanislas Severo Zeballos (Argentina).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.28101</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/about-photo-archive</prop>
+     <seg>CC-licensing is an international system for labelling of copyright protected material.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/about-photo-archive</prop>
+     <seg>CC-lisenser er et internasjonalt system for merking av opphavsrettslig beskyttet materiale.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">4.93563</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/100545</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/100548</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/100546</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/100547</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/100549</prop>
+     <seg>Landed property 1726 for Helgeland bailiff, including tenant farmers tax</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/100546</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/100547</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/100549</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/source/100545</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/source/100548</prop>
+     <seg>Jordebok 1726 for Helgeland fogderi, inkludert leilendingsskatt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.10592</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/church-books</prop>
+     <seg>under the search box on The Digital Archives front page.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/content/church-books</prop>
+     <seg>under s&#248;kefeltet p&#229; Digitalarkivets forside.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">3.14519</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/165944</prop>
+     <seg>Nomination of Edgar Algernon Robert Gascoyne (Viscount Cecil of Chelwood) (United Kingdom), Knut Hammarskj&#246;ld (Sweden), Baron Alb&#233;ric Rolin-Jacquemyns (Belgium), Th&#233;odore Eug&#232;ne C&#233;sar Ruyssen (France), Walter Sch&#252;cking (Germany) og James Brown Scott (United States) for the Nobel Peace Prize for 1922.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/165944</prop>
+     <seg>Nominasjon til Nobels fredspris for 1922 av Edgar Algernon Robert Gascoyne (Viscount Cecil of Chelwood) (Storbritannia), Knut Hammarskj&#246;ld (Sverige), Baron Alb&#233;ric Rolin-Jacquemyns (Belgia), Th&#233;odore Eug&#232;ne C&#233;sar Ruyssen (Frankrike), Walter Sch&#252;cking (Tyskland) og James Brown Scott (Forente Stater).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">3.15961</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/157435</prop>
+     <seg>Nomination of Adolf Richter (Germany), Henri Marie La Fontaine (Belgium), Ligue internationale de la Paix et de la Libert&#233; (International League for Peace and Freedom) (France) and The Peace Society (United Kingdom) for the Nobel Peace Prize for 1913.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/157435</prop>
+     <seg>Nominasjon til Nobels fredspris for 1913 av Adolf Richter (Tyskland), Henri Marie La Fontaine (Belgia), Ligue internationale de la Paix et de la Libert&#233; (Frankrike) og The Peace Society (Storbritannia).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">2.19409</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/157419</prop>
+     <seg>Nominated by Henri Marie La Fontaine (Belgium).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/157419</prop>
+     <seg>Nominert av Henri Marie La Fontaine (Belgia).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">3.69143</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/157415</prop>
+     <seg>Nomination of Richard Bartholdt (United States) for the Nobel Peace Prize for 1913.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/157415</prop>
+     <seg>Nominasjon til Nobels fredspris for 1913 av Richard Bartholdt (Forente Stater).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.16757</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/help</prop>
+     <seg>Help at hand on tugboat Vulcanus in Bergen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/help</prop>
+     <seg>Hjelpen er n&#230;r p&#229; slepeb&#229;ten Vulcanus i Bergen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.07921</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/church-books</prop>
+     <seg>Paper based church book-keeping was discontinued by the end of 2012, and the Norwegian Church now uses digital church books.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/content/church-books</prop>
+     <seg>Papirbasert kirkebokf&#248;ring ble avviklet ved utgangen av 2012, og Den norske kirke f&#248;rer n&#229; kun elektronisk kirkebok.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">3.93509</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/search-names</prop>
+     <seg>(Gertrude) has almost 170 variants, for example</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/content/variantsok</prop>
+     <seg>finst det omlag 170 varianter, for eksempel</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.96667</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/165944</prop>
+     <seg>Nominated by Hans Wehberg (Germany).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/165944</prop>
+     <seg>Nominert av Hans Wehberg (Tyskland).</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,1886 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T093440" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.09577</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>sick leave - unless the employee, employer or the sick-leave certifier finds this</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>- med mindre den ansatte, arbeidsgiveren eller den som sykmelder den ansatte mener</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.40918</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>In some cases you may combine AFP early retirement pension in the private sector with</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Du kan i visse tilfeller kombinere AFP i privat sektor med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>You cannot apply back in time.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Du kan ikke s&#248;ke tilbake i tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.04762</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>After &#8220;Fellesordning for AFP&#8221; has dealt with your application, it will be forwarded to NAV who will assess the final conditions and come to a decision.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Etter at Fellesordningen for AFP har behandlet s&#248;knaden din, blir den sendt videre til NAV som vurderer de siste vilk&#229;rene og gj&#248;r et endelig vedtak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.07391</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>In case of long-term and/or frequently recurring sickness absence, the employer may</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>Ved lange og/eller hyppig gjentakende sykefrav&#230;r, kan arbeidsgiver s&#248;ke NAV om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.24552</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>You cannot receive AFP in public sector in combination with retirement pension, disability pension, survivor&#8217;s pension or work assessment allowance from NAV.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Du kan ikke f&#229; AFP i offentlig sektor i kombinasjon med alderspensjon, uf&#248;retrygd, gjenlevendepensjon eller arbeidsavklaringspenger fra folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.09545</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/relatert-informasjon/electronic-submission</prop>
+     <seg>If you use Google Chrome browser, this browser uses the integrated PDF reader.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nav.no/no/lokalt/vest-viken/nyheter/reduserte-sykefravaeret-fra-14-til-5-prosent</prop>
+     <prop type="source-document">http://www.nav.no/no/lokalt/vest-viken/nyheter/reduserte-sykefravaeret-fra-14-til-5-prosent</prop>
+     <seg>Hun er ogs&#229; med i m&#248;ter om sykefrav&#230;rsoppf&#248;lging og holder kurs og oppl&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.78661</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/pension-guarantee</prop>
+     <seg>You may start collecting on your retirement pension before reaching the age of 67 if you have earned a pension that is equal to or greater than the pension guarantee level at 67 years of age.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/garantipensjon</prop>
+     <seg>Vilk&#229;ret for &#229; ta ut alderspensjon f&#248;r 67 &#229;r er at du m&#229; ha tjent opp en pensjon som minst tilsvarer ditt garantipensjonsniv&#229; ved 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.58864</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>, you must notify changes to your AFP provider.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>, skal du melde fra om endringer til din AFP-leverand&#248;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.39374</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>Always use the income that you have reported to the a-ordningen system in the months October, November, December 2020 as a basis when you make the calculation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>For denne kompensasjonsordningen skal du alltid legge til grunn inntekten som dere har innrapportert til a-ordningen i m&#229;nedene oktober, november, desember 2020, til grunn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">3.52273</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>is the employer&#8217;s responsibility and must be held within 7 weeks</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>er arbeidsgiverens ansvar og skal avholdes innen 7 ukers sykefrav&#230;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.02</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>If you have lived or worked abroad, you may also</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Har du bodd eller arbeidet i utlandet, kan du ogs&#229; ha</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.2049</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>The reimbursement is paid to the account number that you have registered with NAV.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Utbetalingene kommer til det kontonummeret som dere har registrert hos NAV.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.21486</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/pension-guarantee</prop>
+     <seg>You are considered a cohabitant partner if you and your partner have lived together twelve of the last 18 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/garantipensjon</prop>
+     <seg>Du regnes som samboer hvis du og din samboer har bodd samme i tolv av de siste 18 m&#229;nedene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.21355</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/1b5d0fb2-0ca9-4903-b63c-6b44ed26fbd1:ba26ea484ad271424323e8907b46d20830ef4484/vedlegg-til-soker-om-rettigheter-og-plikter-engelsk-juli-2018.pdf.converted</prop>
+     <seg>The information will state the type of claim, accrual period and the amount.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/2750670b-51ea-4a0f-8735-f3b34bef87bb:001c76fd5e1d2f182d45af9c7fbc89798d376b1e/rutine-for-kurante-krav-revidert-februar-2019.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/2750670b-51ea-4a0f-8735-f3b34bef87bb:001c76fd5e1d2f182d45af9c7fbc89798d376b1e/rutine-for-kurante-krav-revidert-februar-2019.pdf.converted</prop>
+     <seg>Krav fra og med konkurs&#229;pningsdagen og i perioden etter konkurs&#229;pning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">9.08824</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/903f6776-bdd4-4939-b99c-fc042ab2040c:331d2a6dba59cf6ed5efa44377aa6e28d37cb126/Oppf.sykmeldte%202019%20EN%20digital.pdf.converted</prop>
+     <seg>Dialogue meeting 1</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/7368f981-2971-4dc6-a474-46e6faeeb043:2a434013276f5033500d37749a2ed8702e69b970/stadig-flere-pa-trygd.pdf.converted</prop>
+     <seg>og attf&#248;ringspenger (fram til 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.99167</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>and have a state AFP, you must notify NAV if</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>og har statlig AFP, skal du melde fra til NAV hvis du</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.0319</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <seg>You are also entitled to a minimum pension at the ordinary rate if in twelve of the last 18 months you have co-habited with a person who</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/minste-pensjonsniva-tidligere-kalt-minstepensjon</prop>
+     <seg>Du har ogs&#229; rett til ordin&#230;r sats dersom du i tolv av de siste 18 m&#229;nedene har v&#230;rt samboer med person som</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.18026</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>If you are moving abroad and receiving AFP early retirement pension you may take your AFP early retirement pension with you.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Hvis du skal oppholde deg i utlandet og mottar AFP, kan du ta med deg AFP.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.07714</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/cea0d09d-680f-4484-8341-3ebdb8669376:68cf7f926f83e58bf11a48feb3a84566920d3229/navs-horizon-scan-2019.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/cea0d09d-680f-4484-8341-3ebdb8669376:68cf7f926f83e58bf11a48feb3a84566920d3229/navs-horizon-scan-2019.pdf.converted</prop>
+     <seg>contribute to increased polarisation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/b7651a81-4fbe-49f4-a8b9-c47bcc3720bf:1f5afa5df4d7f7e7f76159ac75ce680f2740ec74/fattigdomsrapporten-2017.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/b7651a81-4fbe-49f4-a8b9-c47bcc3720bf:1f5afa5df4d7f7e7f76159ac75ce680f2740ec74/fattigdomsrapporten-2017.pdf.converted</prop>
+     <seg>Prosjektet har vante, nyttige og bidrar til &#248;kt bevissthet og systema-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.5125</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>and have a state AFP, you must notify changes to</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>og har statlig AFP, skal du melde fra om endringer til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.13846</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>When should you apply?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>N&#229;r m&#229; du s&#248;ke?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.7122</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>You will receive reduced AFP if you have an employment income.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Du f&#229;r redusert AFP hvis du har arbeidsinntekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.80847</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>The regulations about receiving your AFP abroad are the same as for retirement pension for people born before 1954.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Reglene om &#229; ta med AFP til utlandet er de samme som for alderspensjon for personer f&#248;dt f&#248;r 1954.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.54599</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>You cannot combine AFP early retirement pension with disability pension from NAV.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Du kan ikke kombinere AFP med uf&#248;retrygd fra folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.48529</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>There are changes in your income (wages and self-employment income).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>f&#229;r endringer i inntekten din (l&#248;nns- og n&#230;ringsinntekt).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.28667</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/cea0d09d-680f-4484-8341-3ebdb8669376:68cf7f926f83e58bf11a48feb3a84566920d3229/navs-horizon-scan-2019.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/cea0d09d-680f-4484-8341-3ebdb8669376:68cf7f926f83e58bf11a48feb3a84566920d3229/navs-horizon-scan-2019.pdf.converted</prop>
+     <seg>decrease in the labour force participation rate in the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/b7651a81-4fbe-49f4-a8b9-c47bcc3720bf:1f5afa5df4d7f7e7f76159ac75ce680f2740ec74/fattigdomsrapporten-2017.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/b7651a81-4fbe-49f4-a8b9-c47bcc3720bf:1f5afa5df4d7f7e7f76159ac75ce680f2740ec74/fattigdomsrapporten-2017.pdf.converted</prop>
+     <seg>og ungdoms situasjon knyttet til oppvekst og utdan-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.39099</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>If you are receiving retirement pension already, you must apply for AFP early retirement pension directly to &#8220;Fellesordningen for AFP&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Hvis du allerede mottar alderspensjon m&#229; du s&#248;ke om AFP direkte til Fellesordningen for AFP.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.0611</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>If you leave your job before the time you want to draw AFP early retirement pension, you may lose the right to AFP early retirement pension.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Slutter du i jobben din f&#248;r det tidspunktet du &#248;nsker &#229; ta ut AFP, kan du miste retten til AFP.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.01291</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/tilleggsstonader/en</prop>
+     <seg>The amount you receive is also intended to cover work materials in connection with practical training or taking a trade certificate, such as flowers, metal, tools, personal protective equipment, workwear, etc.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/tilleggsstonader</prop>
+     <seg>Bel&#248;pet skal ogs&#229; dekke arbeidsmateriell n&#229;r du gjennomf&#248;rer praktisk oppl&#230;ring eller fagpr&#248;ve, som blomster, metaller, verkt&#248;y, verneutstyr, arbeidskl&#230;r og lignende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.16047</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>You will find paper application forms for AFP early retirement pension at</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Papirs&#248;knadsskjema for s&#248;knad om AFP finner du p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>If you are</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hvis du er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.71618</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <seg>Therefore, in practice, you will normally not qualify for the minimum pension level until you turn 67.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/minste-pensjonsniva-tidligere-kalt-minstepensjon</prop>
+     <seg>I praksis vil du derfor f&#248;rst ha rett til minste pensjonsniv&#229; fra du fyller 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.4561</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>You cannot receive AFP from the public sector if you are receiving or have received AFP from the private sector.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Du kan ikke motta AFP fra offentlig sektor hvis du mottar eller har mottatt AFP fra privat sektor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/903f6776-bdd4-4939-b99c-fc042ab2040c:331d2a6dba59cf6ed5efa44377aa6e28d37cb126/Oppf.sykmeldte%202019%20EN%20digital.pdf.converted</prop>
+     <seg>&#8226; in case of serious illness where it can be determined</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/7368f981-2971-4dc6-a474-46e6faeeb043:2a434013276f5033500d37749a2ed8702e69b970/stadig-flere-pa-trygd.pdf.converted</prop>
+     <seg>Den sterke befolkningsveksten knyttet til arbeids&#173;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.48</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>of sick leave. Dialogue meeting 1 is basically a meeting between the employee and the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>Dialogm&#248;te 1 er i utgangspunktet et m&#248;te mellom den ansatte og arbeidsgiveren,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.88611</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>If you have turned 70, you do not need to draw retirement pension as well.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Har du fylt 70 &#229;r trenger du ikke &#229; ta ut alderspensjon i tillegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.11667</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>Which AFP scheme applies to you depends on where in the public sector you are working.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hvilken AFP-ordning som gjelder for deg kommer an p&#229; hvor i offentlig sektor du jobber.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">3.89545</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/pension-guarantee</prop>
+     <seg>The pension guarantee is reduced by 80 percent of your earned pension balance.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/garantipensjon</prop>
+     <seg>Garantipensjonen avkortes med 80 prosent av opptjent pensjonsbeholdning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.27368</prop>
+    <prop type="score-bicleaner">0.710</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>follow-up plan must be conveyed to the sick-leave certifier.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>Oppf&#248;lgingsplanen skal formidles til den som har sykmeldt den ansatte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.27789</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>If you are a member of a municipal occupational pension fund you must contact this to find out when you must apply.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hvis du er medlem i en kommunal tjenestepensjonskasse m&#229; du ta kontakt med pensjonskassen din for &#229; f&#229; vite n&#229;r du m&#229; s&#248;ke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.4476</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>You may be entitled to AFP if you forfeit these benefits.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Du kan ha rett til AFP hvis du sier ifra deg disse ytelsene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.49862</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/903f6776-bdd4-4939-b99c-fc042ab2040c:331d2a6dba59cf6ed5efa44377aa6e28d37cb126/Oppf.sykmeldte%202019%20EN%20digital.pdf.converted</prop>
+     <seg>deadlines in the follow-up work.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/7368f981-2971-4dc6-a474-46e6faeeb043:2a434013276f5033500d37749a2ed8702e69b970/stadig-flere-pa-trygd.pdf.converted</prop>
+     <seg>Mottakere av rehabiliteringspenger, attf&#248;&#173;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">5.9625</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>under 65 and have a</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>under 65 &#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.04375</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>receive disability benefit and wants to apply for early retirement pensions (AFP) in the private sector</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>mottar uf&#248;retrygd og &#248;nsker &#229; s&#248;ke om AFP i privat sektor</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.06486</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>Application for AFP early retirement pension to &#8220;Fellesordningen for AFP&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>s&#248;knad om AFP til Fellesordningen for AFP.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.30665</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>Employees are not entitled to this &#8211; it is up to you as an employer to decide whether to allow this.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Arbeidstakeren har ikke krav p&#229; dette, det er du som arbeidsgiver som avgj&#248;r det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.27273</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/wage-guarantee-definitions</prop>
+     <seg>For example, contract settlement, commission or overtime pay.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/oppfolging/permittering-og-omstilling/lonnsgarantiordningen2/lonnsgaranti-begrepsforklaringer</prop>
+     <seg>Eksempler er akkordoppgj&#248;r, provisjon eller overtidsgodtgj&#248;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">4.17059</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>draw minimum 20 per cent national insurance retirement pension.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>tar ut minimum 20 prosent alderspensjon fra folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.26667</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/arbeid/en/dagpenger-og-eos</prop>
+     <seg>application for unemployment benefits.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nav.no/no/bedrift/tjenester-og-skjemaer/nav-og-altinn-tjenester/altinn-skjemaer-refusjoner-meldinger2/soknader-om-arbeidsmarkedstiltak-og-tilskudd-fra-nav</prop>
+     <seg>rettigheten til en s&#229;kalt &#171;enkelttjeneste&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.03163</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/903f6776-bdd4-4939-b99c-fc042ab2040c:331d2a6dba59cf6ed5efa44377aa6e28d37cb126/Oppf.sykmeldte%202019%20EN%20digital.pdf.converted</prop>
+     <seg>contents of the follow-up plan and clarify if any measures</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/7368f981-2971-4dc6-a474-46e6faeeb043:2a434013276f5033500d37749a2ed8702e69b970/stadig-flere-pa-trygd.pdf.converted</prop>
+     <seg>ansatte ble ikke inkludert i sykepengestatistikken f&#248;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.10409</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>You can obtain the application form from your employer, the State Pension Fund or from NAV or you can print the form out yourself at spk.no.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Opplysninger fra arbeidstaker til NAV ved s&#248;knad om avtalefestet pensjon (AFP) fra Statens pensjonskasse</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">3.2125</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <seg>If you support a spouse over the age of 60 and qualify for a</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/minste-pensjonsniva-tidligere-kalt-minstepensjon</prop>
+     <seg>Dersom du fors&#248;rger ektefelle over 60 &#229;r og fyller vilk&#229;rene for rett til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">2.18169</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>When the tax assessment for a calendar year is ready, NAV calculates the deferred settlement in the public sector for those who are under 65, and the State Pension Fund for those who are over 65.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>N&#229;r fastsettingen (tidligere skatteligningen) for et kalender&#229;r er klart, beregner NAV etteroppgj&#248;ret i statlig sektor for deg som er under 65 &#229;r, og Statens pensjonskasse for deg som er over 65 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">3.55714</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/pension-guarantee</prop>
+     <seg>The pension guarantee is paid in full to members who have participated in the scheme for 40 years or more.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/garantipensjon</prop>
+     <seg>Full garantipensjon f&#229;r du hvis du har 40 &#229;rs trygdetid eller mer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.33643</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>You must also notify if the person you are supporting has an income that exceeds</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Du m&#229; ogs&#229; melde fra hvis den du fors&#248;rger f&#229;r inntekter som overstiger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.15273</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>In the municipal sector, your AFP provider calculates the deferred settlement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>I kommunal sektor er det AFP-leverand&#248;ren din som beregner etteroppgj&#248;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.10591</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>If you draw AFP early retirement pension, you must draw 100 per cent, unlike retirement pension where you can choose your pension percentage.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Hvis du tar ut AFP m&#229; du alts&#229; ta ut 100 prosent, i motsetning til alderspensjonen der du kan velge &#229; ta ut gradert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.14135</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/employment-status-form-how-do-you-use-it</prop>
+     <seg>Information about the empolyment status form</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/c8c0e7ee-0b8c-422e-b16d-be0ab89352b7:5215b368a8dae75e952c984091aaf2b2272a394f/Informasjon%20om%20ekstraordin%C3%A6re%20tiltak%20til%20kommunene.pdf.converted</prop>
+     <seg>Vi har derfor satt i gang noen ekstra tiltak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">7.35714</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Exceptions from dialogue meeting 2</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>Unntak fra dialogm&#248;te 2</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.55</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/c68e4b40-2994-4f4a-be31-56c8f3303d8d:44f18eb6a3fab96d6de0abee99c21b45aa73b9bc/systematic-review.motivational-interviewing-2017.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/c68e4b40-2994-4f4a-be31-56c8f3303d8d:44f18eb6a3fab96d6de0abee99c21b45aa73b9bc/systematic-review.motivational-interviewing-2017.pdf.converted</prop>
+     <seg>Implications for research</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/c10ecce6-3cbb-4657-a142-8f6f5f8557bb:eca3d01a1b8d6bebd7c4a1155695cb5ba4eb69b4/roller-og-ansvar-forsok-med-nav-veileder.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/c10ecce6-3cbb-4657-a142-8f6f5f8557bb:eca3d01a1b8d6bebd7c4a1155695cb5ba4eb69b4/roller-og-ansvar-forsok-med-nav-veileder.pdf.converted</prop>
+     <seg>utfordringer oppst&#229;r, og p&#229; forebyggende tiltak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">4.41185</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>under 65 years of age, you must report changes in your income to NAV.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>under 65 &#229;r skal du melde fra om inntektsendringer til NAV.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">3.25</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Dialogue Meeting 1 need not be held if it is clearly unnecessary, for example:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>Dialogm&#248;te 1 trenger ikke gjennomf&#248;res dersom det er &#229;penbart un&#248;dvendig, for eksempel:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.19655</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/about-nav/relatert-informasjon/changing-your-bank-account-number-or-contact-details</prop>
+     <seg>The method of payment is stated in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/43bc11a3-cc1d-467a-967f-dffb1592984f:79f6754784fa26dfc7112fc15fc214b04446cb00/databehandleravtale-1711-med-utfyllbare-felter.pdf.converted</prop>
+     <seg>Form&#229;l og behandling av personopplysninger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.10345</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/retirement-pension-for-those-born-before-1954</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/retirement-pension-for-those-born-before-1954</prop>
+     <seg>pension rights from the deceased</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/1c213dc8-525f-4a5d-92e6-fc0e69542530:9078deab3a1f7dc2dea6229118ee256e6a11a4ee/demografi-og-sykefravaer.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/1c213dc8-525f-4a5d-92e6-fc0e69542530:9078deab3a1f7dc2dea6229118ee256e6a11a4ee/demografi-og-sykefravaer.pdf.converted</prop>
+     <seg>sterkest vekst i antall sysselsatte i kommende fem&#229;rs-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">2.66289</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>When you turn 67, your AFP is automatically converted to an ordinary retirement pension from your occupational pension scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>N&#229;r du blir 67 &#229;r, blir din AFP automatisk regnet om til en ordin&#230;r alderspensjon fra tjenestepensjonsordningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.13645</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/holiday-and-holiday-pay</prop>
+     <seg>Temporary lay-off and holiday</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://arbeidogvelferd.nav.no/journal/2018/1/p-1525/Flere_eldre_innvandrere_p%C3%A5_sosialhjelp_etter_kutt_i_supplerende_st%C3%B8nad</prop>
+     <seg>garanti i f&#248;rste vedtak om opphold.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.10087</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>online at &#8220;Din Pensjon&#8221; or by using a paper application form.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>i folketrygden elektronisk i Din Pensjon eller p&#229; papirskjema.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Systematic IA work involves close dialogue with the employee representatives, with an</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>Systematisk IA-arbeid inneb&#230;rer tett dialog med de tillitsvalgte, med vekt p&#229; fore-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.08485</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>Make sure you have registered an account number in Altinn!</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Pass p&#229; at dere har registrert kontonummer i Altinn!</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.00636</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Dialogue meetings are not required if the employee is on partial</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>Det er ikke krav om &#229; avholde dialogm&#248;ter ved gradert (delvis) sykmelding</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">8.45769</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Within 7 weeks</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>Senest innen 7 uker</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.25</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>What do you get?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hva kan du f&#229;?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.44375</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>in the public sector.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>i statlig sektor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">2.54762</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>If you are born in the years 1944 to 1947, your annual AFP early retirement pension will be 10, 20, 40 and 60 per cent respectively of the pension amount.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Hvis du er f&#248;dt i &#229;rene 1944 til 1947, skal &#229;rlig AFP utgj&#248;re henholdsvis 10, 20, 40 og 60 prosent av pensjonsbel&#248;pet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.11355</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>You may combine AFP early retirement pension with labour income without your pension being reduced.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Du kan kombinere AFP med arbeidsinntekt uten at pensjonen blir redusert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">2.22381</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>The pension is equivalent to what you would have received in national insurance retirement pension, without life expectancy adjustment, as if you had continued to work up to the age of 67.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Pensjonen tilsvarer det du ville f&#229;tt i alderspensjon fra folketrygden, uten levealdersjustering, som om du hadde fortsatt i arbeid fram til 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">2.25451</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>If you are born in 1948 or later and had the care of young children between the age of 0 - 7 before 1992, you can accumulate pension rights.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Hvis du er f&#248;dt i 1948 eller senere og hadde omsorg for sm&#229; barn mellom 0-7 &#229;r f&#248;r 1992, kan du f&#229; godskrevet pensjonsopptjening.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.14848</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>Please note that you cannot apply for public AFP online at &#8220;Din pensjon&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>V&#230;r oppmerksom p&#229; at du ikke kan s&#248;ke om offentlig AFP i nettjenesten Din pensjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.06678</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>You will not receive the allowance if your spouse has an income higher than the basic amount, is receiving disability pension or retirement pension or is entitled to full retirement pension, or is receiving AFP.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Du f&#229;r ikke tillegget hvis ektefellen har inntekt st&#248;rre enn grunnbel&#248;pet, mottar uf&#248;retrygd, mottar alderspensjon eller har rett til hel alderspensjon, eller mottar AFP.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">2.18642</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/disability-benefit-and-earning-an-old-age-pension</prop>
+     <seg>If you are 100% disabled, you will automatically receive your old-age pension when you turn 67.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/beregning-av-alderspensjon/beregning-av-alderspensjon-fodt-1963-eller-senere_kap</prop>
+     <seg>Om du tar ut 100 prosent pensjon fra 67 &#229;r vil garantipensjonen sikre at din samlede pensjon minst tilsvarer folketrygdens garanterte minsteytelse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.71429</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/employers/relatert-informasjon/reporting-occupational-injuries-and-illnesses</prop>
+     <seg>Reporting occupational injuries and illnesses</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nav.no/no/nav-og-samfunn/samarbeid/leger-og-andre-behandlere/om-sykmelding-for-leger/hjelpemidler-informasjon-for-leger</prop>
+     <seg>lese- og sekret&#230;rhjelp og f&#248;rerhund for blinde og synshemmede</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.216</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>employee agree that external assistance is appropriate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>stakeren er enige om at det er hensiktsmessig med ekstern ekspertbistand.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">3.83831</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>over 65 years of age, you must report changes in your income to the Norwegian Public Service Pension Fund.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>over 65 &#229;r skal du melde fra om inntektsendringer til Statens Pensjonskasse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.17778</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/retirement-pension-for-those-born-before-1954</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/retirement-pension-for-those-born-before-1954</prop>
+     <seg>How do you accumulate a retirement pension?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/1c213dc8-525f-4a5d-92e6-fc0e69542530:9078deab3a1f7dc2dea6229118ee256e6a11a4ee/demografi-og-sykefravaer.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/1c213dc8-525f-4a5d-92e6-fc0e69542530:9078deab3a1f7dc2dea6229118ee256e6a11a4ee/demografi-og-sykefravaer.pdf.converted</prop>
+     <seg>ningen i befolkningen endres.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.1401</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/employment-status-form-how-do-you-use-it/how-to-fill-out-the-employment-status-form-work-assessment-allowance_kap</prop>
+     <seg>Here you will find information about the various questions on the employment status form.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://arbeidogvelferd.nav.no/journal/2020/2/m-1079/Forskuddsutbetalinger_av_dagpenger_under_koronakrisen_%E2%80%93_1_av_3_dagpenges%C3%B8kere_mottok_forskudd_den_f%C3%B8rste_m%C3%A5neden</prop>
+     <seg>Ordningen med forskuddsutbetaling av dagpenger er automatisert og enklere enn ordin&#230;r saksbehandling av dagpenger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.36398</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>Who can receive AFP early retirement pension?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hvem kan f&#229; offentlig AFP?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.34571</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>will discuss the contents of the follow-up plan and clarify if any measures in the work-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>innholdet i oppf&#248;lgingsplanen og avklare om det er aktuelt med tiltak p&#229; arbeids-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.12243</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>If you have a contractual early retirement pension (AFP) with the Norwegian Public Service Pension Fund, you must report any changes in your income or termination of employment to the person responsible for your AFP pension.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hvis du har AFP fra Statens pensjonskasse, m&#229; du melde fra om endringer i inntekten din eller opph&#248;r av arbeidsforhold til den som har ansvar for din AFP.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">2.34148</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>If you draw AFP early retirement pension before you turn 67, you will receive a fixed increase up to and including the month you turn 67.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Hvis du tar ut AFP f&#248;r du fyller 67 &#229;r f&#229;r du et fast kronetillegg til og med m&#229;neden du fyller 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">4.42941</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>This applies from the month you turn 65.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Dette gjelder til og med den m&#229;neden du fyller 65.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">3.71448</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>must be held before the sickness absence as lasted 26 weeks.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>skal avholdes f&#248;r sykefrav&#230;ret har vart i 26 uker, og det er NAV som har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.19318</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/Travel-allowance</prop>
+     <seg>Some employers pay your travel expenses in advance.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/2408aa3e-640a-4dc8-bd50-980bb9ac33b1:0f2a3cdcaec70c01a40da923c93000b85156bdc0/halvannet-ar-i-arbeid-for-hvert-ar-som-pensjonist.pdf.converted</prop>
+     <seg>I Norge har for eksempel sysselsettingen i alders&#173;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">2.33787</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>The compensation you are obliged to pay is 70% of the basis for calculation of sickness benefit, limited upwards to 70% of 6 times the National Insurance</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Kompensasjonen du har plikt til &#229; utbetale, utgj&#248;r 70 prosent av sykepengegrunnlaget, begrenset oppad til 70 prosent av 6 ganger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.72692</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>Employees who have taken holiday (annual leave) after 29 January can have these days converted into working days.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Arbeidstakere som har tatt ut ferie etter 29. januar, kan f&#229; dagene omgjort til arbeidsdager.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.125</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/pension-guarantee</prop>
+     <seg>What can you receive?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/garantipensjon</prop>
+     <seg>Hva kan du f&#229;?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.14464</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/903f6776-bdd4-4939-b99c-fc042ab2040c:331d2a6dba59cf6ed5efa44377aa6e28d37cb126/Oppf.sykmeldte%202019%20EN%20digital.pdf.converted</prop>
+     <seg>provisions of the Health Personnel Act and therefore will</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/7368f981-2971-4dc6-a474-46e6faeeb043:2a434013276f5033500d37749a2ed8702e69b970/stadig-flere-pa-trygd.pdf.converted</prop>
+     <seg>smitteeffekter i sykefrav&#230;ret og uf&#248;repensjonering,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.45636</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>You can still apply for reimbursement for periods up to and including 25 September.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Du kan fortsatt kreve refusjon for perioder som g&#229;r til og med 25. september.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">3.78117</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>In week 16, the employer and the employee receive</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>I uke 16 f&#229;r arbeidsgiveren og den ansatte en melding fra NAV</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.24286</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/retirement-pension-for-those-born-before-1954</prop>
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/retirement-pension-for-those-born-before-1954</prop>
+     <seg>When and how do you apply for retirement pension?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/1c213dc8-525f-4a5d-92e6-fc0e69542530:9078deab3a1f7dc2dea6229118ee256e6a11a4ee/demografi-og-sykefravaer.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/1c213dc8-525f-4a5d-92e6-fc0e69542530:9078deab3a1f7dc2dea6229118ee256e6a11a4ee/demografi-og-sykefravaer.pdf.converted</prop>
+     <seg>forklares med sykefrav&#230;r i forbindelse med svangerskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">6.83077</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>Within 1 year,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>Senest innen 1 &#229;r,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">3.656</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>For more information about AFP after the age of 65, please contact your occupational pension scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Ta kontakt med tjenestepensjonsordningen for mer informasjon om AFP etter fylte 65 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.37387</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>If you receive graded AFP from public sector, you can receive sickness benefits in combination with graded AFP.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Mottar du gradert offentlig AFP, har du rett til sykepenger etter de vanlige reglene for sykepenger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">1.4697</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>and are a member of KLP or other municipal pension funds, you must contact your employer about how to apply and when you must apply.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hvis du er medlem i en kommunal pensjonskasse, m&#229; du kontakte arbeidsgiveren din om hvordan du s&#248;ker og n&#229;r du m&#229; s&#248;ke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">2.11054</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>If a previous period of living abroad means that you have less than 40 years insurance period, your basic pension and any special supplement will be correspondingly smaller.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hvis tidligere opphold i utlandet gj&#248;r at du har mindre enn 40 &#229;r trygdetid, blir grunnpensjonen og eventuelt s&#230;rtillegg tilsvarende mindre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">3.25714</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>This applies from the month after the month in which you turned 65.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Dette gjelder fra og med m&#229;neden etter at du har fylt 65 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.26087</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/employers/relatert-informasjon/reporting-occupational-injuries-and-illnesses</prop>
+     <seg>NAV has five report forms:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nav.no/no/nav-og-samfunn/samarbeid/leger-og-andre-behandlere/om-sykmelding-for-leger/hjelpemidler-informasjon-for-leger</prop>
+     <seg>I utdanning og i arbeidslivet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.04318</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/tilleggsstonader/en</prop>
+     <seg>You can receive this if you have impaired work capability.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/tilleggsstonader</prop>
+     <seg>Dette kan du f&#229; n&#229;r du har nedsatt arbeidsevne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">4.97143</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>are born in 1944 or later</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>er f&#248;dt i 1944 eller senere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">2.69722</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>If you are supporting a spouse who is 60 or older, you may be entitled to a dependant's/ spouse allowance in addition to AFP.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hvis du fors&#248;rger ektefelle som er 60 &#229;r eller eldre, kan du ha rett til fors&#248;rgingstillegg/ektefelletillegg i tillegg til AFP.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.02373</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/1b5d0fb2-0ca9-4903-b63c-6b44ed26fbd1:ba26ea484ad271424323e8907b46d20830ef4484/vedlegg-til-soker-om-rettigheter-og-plikter-engelsk-juli-2018.pdf.converted</prop>
+     <seg>You will receive an overview of this calculation from the administrator of the estate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/2750670b-51ea-4a0f-8735-f3b34bef87bb:001c76fd5e1d2f182d45af9c7fbc89798d376b1e/rutine-for-kurante-krav-revidert-februar-2019.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/2750670b-51ea-4a0f-8735-f3b34bef87bb:001c76fd5e1d2f182d45af9c7fbc89798d376b1e/rutine-for-kurante-krav-revidert-februar-2019.pdf.converted</prop>
+     <seg>Krav der det er gjort eller skal gj&#248;res fradrag for andre inntekter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.41591</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>You enter the account number in Altinn.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Du legger inn kontonummeret i Altinn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">3.39706</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>The entry ban expires on September 25, and the right to compensation ceases from the same time.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Innreiserestriksjonene opph&#248;rer 25. september, og retten til kompensasjon opph&#248;rer fra samme tidspunkt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">1.02</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>If you have a</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hvis du har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">1.252</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>This is how the scheme has worked:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Slik har ordningen fungert:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.35</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>The parties agree on two national objectives:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>lengde og hva som er hensiktsmessig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1.28256</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/cea0d09d-680f-4484-8341-3ebdb8669376:68cf7f926f83e58bf11a48feb3a84566920d3229/navs-horizon-scan-2019.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/cea0d09d-680f-4484-8341-3ebdb8669376:68cf7f926f83e58bf11a48feb3a84566920d3229/navs-horizon-scan-2019.pdf.converted</prop>
+     <seg>and incentives to be in paid employment, but it can physically demanding jobs towards the end of their</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/b7651a81-4fbe-49f4-a8b9-c47bcc3720bf:1f5afa5df4d7f7e7f76159ac75ce680f2740ec74/fattigdomsrapporten-2017.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/b7651a81-4fbe-49f4-a8b9-c47bcc3720bf:1f5afa5df4d7f7e7f76159ac75ce680f2740ec74/fattigdomsrapporten-2017.pdf.converted</prop>
+     <seg>alene og har mindre sosial kontakt enn de som ligger med midlertidige botilbud og i antallet sosialhjelps-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">4.55225</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>From 2025, no one will receive the supplement anymore.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Fra 2025 vil ingen lenger motta tillegget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1.04492</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>meet the conditions in &#8220;Fellesordning for AFP&#8221; - which concern conditions of employment, sickness benefit, redundancy, trade income, etc.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>oppfyller vilk&#229;rene i Fellesordningen for AFP &#8211; som gjelder ansettelsesforhold, sykepenger, permittering, n&#230;ringsinntekter med mer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.33226</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>You will not be reimbursed for compensation paid to foreign employees who are registered as living in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Der du som arbeidsgiver har permittert og utbetalt l&#248;nnspliktdager, har du ikke rett til kompensasjon for disse dagene, det vil si at permitteringen kan ikke reverseres.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">3.78696</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>This supplement will be phased out during 2023 and 2024.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Dette tillegget blir avviklet i l&#248;pet av 2023 og 2024.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">1.12318</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>which is the maximum period for sickness benefit, the NAV office will</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>som er maksimal tid for sykepenger, skal NAV-kontoret p&#229; ny</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">1.50606</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/tilleggsstonader/en</prop>
+     <seg>Cash-for-care benefit per month (if you receive)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/tilleggsstonader</prop>
+     <seg>Kontantst&#248;tte per m&#229;ned (hvis du f&#229;r)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">1.05369</prop>
+    <prop type="score-bicleaner">0.688</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>be entitled to pensions from other countries</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>rett til pensjoner fra andre land</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.27273</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>combination of AFP and employment income</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>kombinasjon av AFP og arbeidsinntekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">2.30939</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/pension-guarantee</prop>
+     <seg>The right to collect an early retirement pension prior to reaching the age of 67 is based on a deduction of one's pension and on the pension guarantee level at the age of 67.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/garantipensjon</prop>
+     <seg>For &#229; vurdere retten til uttak f&#248;r 67 &#229;r framskrives beregnet pensjon og garantipensjonsniv&#229; til 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/cea0d09d-680f-4484-8341-3ebdb8669376:68cf7f926f83e58bf11a48feb3a84566920d3229/navs-horizon-scan-2019.pdf.converted</prop>
+     <prop type="source-document">http://www.nav.no/_/attachment/download/cea0d09d-680f-4484-8341-3ebdb8669376:68cf7f926f83e58bf11a48feb3a84566920d3229/navs-horizon-scan-2019.pdf.converted</prop>
+     <seg>required to enter the labour market.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/b7651a81-4fbe-49f4-a8b9-c47bcc3720bf:1f5afa5df4d7f7e7f76159ac75ce680f2740ec74/fattigdomsrapporten-2017.pdf.converted</prop>
+     <prop type="source-document">https://www.nav.no/_/attachment/download/b7651a81-4fbe-49f4-a8b9-c47bcc3720bf:1f5afa5df4d7f7e7f76159ac75ce680f2740ec74/fattigdomsrapporten-2017.pdf.converted</prop>
+     <seg>frafall fra skole og sosiale arenaer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">7.45714</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>When you turn 65</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>N&#229;r du fyller 65 &#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.34241</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>If you are moving abroad and receiving AFP from the public sector, you must check whether you can</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hvis du skal oppholde deg i utlandet og mottar AFP i offentlig sektor, m&#229; du unders&#248;ke om du kan</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.96228</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>If you are receiving disability pension from NAV and want to draw AFP early retirement pension, you must forfeit your disability pension so that this will not be paid after the month you turn 62.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Hvis du har uf&#248;retrygd og &#248;nsker &#229; ta ut AFP, m&#229; du si fra deg uf&#248;retrygden slik at denne ikke blir utbetalt etter den m&#229;neden du fyller 62 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">1.42979</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/f23ca683-5251-4953-9096-b6a208aaa2cd:1f04e44d2d86e6cf8dd29a14546b798fc7ac2668/Oppf.sykmeldte%202019%20EN%20utskrift.pdf.converted</prop>
+     <seg>employer, but other parties may be summoned if this is appropriate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/_/attachment/download/29fc9015-4e46-4538-8c8d-5c478bb91a62:9f622e50d8d24eb6bbcb77b9ac83f508a84f18ec/Oppf.%20sykmeldte%202019%20BM%20utskrift.pdf.converted</prop>
+     <seg>men andre kan innkalles dersom det er hensiktsmessig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">1.30403</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>Remember to adjust the amount back to 100% after the entry ban is lifted, to ensure the employee&#8217;s basis for calculation in subsequent sickness benefit cases is correct.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Husk &#229; oppjustere bel&#248;pet til 100 prosent n&#229;r innreiseforbudet er over. Slik f&#229;r arbeidstakeren et riktig beregningsgrunnlag i en eventuell senere sak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.44773</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>have not previously received private or public AFP early retirement pension have not received disability pension from NAV after turning 62.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>ikke tidligere har mottatt privat eller offentlig AFP. ikke har mottatt uf&#248;retrygd fra folketrygden etter fylte 62 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">2.06057</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/basic-benefit</prop>
+     <seg>As of 1 June 2021, the right to basic benefit for those diagnosed with non-celiac disease will cease.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://arbeidogvelferd.nav.no/asset/2021/1/arbeid_og_velferd-2021-01_art-2.pdf.converted</prop>
+     <seg>ner-aa-se-effekten-av-vaksineringen-blant-eldre.// Arbeid og velferd // 1 // 2021// Ett &#229;r med Korona.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">1.49091</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>You may be entitled to a public AFP if you</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Du kan ha rett til offentlig AFP hvis du</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">1.962</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/relatert-informasjon/minimum-pension-level-previously-called-a-basic-pension</prop>
+     <seg>The criterion for drawing retirement pension before the age of 67 is that you must have accumulated pension rights that are at least equivalent to the minimum pension level.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/minste-pensjonsniva-tidligere-kalt-minstepensjon</prop>
+     <seg>Vilk&#229;ret for &#229; ta ut alderspensjon f&#248;r 67 &#229;r er at du m&#229; ha tjent opp en pensjon som minst tilsvarer minste pensjonsniv&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.19362</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>AFP in public sector in combination with other benefits</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>AFP i offentlig sektor i kombinasjon med andre ytelser</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">1.0875</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>You will also receive an AFP early retirement pension supplement of NOK 1,700 per month.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>I tillegg f&#229;r du et AFP-tillegg p&#229; 1 700 kroner per m&#229;ned.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">1.18218</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-public-sector</prop>
+     <seg>If you are receiving dependent&#8217;s allowance, you must notify of changes in other income that are part of the calculation basis.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor</prop>
+     <seg>Hvis du mottar fors&#248;rgingstillegg, m&#229; du melde fra om endringer i andre inntekter som inng&#229;r i beregningsgrunnlaget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.21429</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>Therefore, you may have to inquire with both when you require information on the AFP early retirement pension regulations and if you have queries about your application.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Det kan derfor hende at du m&#229; henvende deg til begge n&#229;r du vil ha informasjon om AFP-reglene og hvis du har sp&#248;rsm&#229;l om s&#248;knaden din.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">2.79705</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/benefits-and-services/relatert-informasjon/contractual-early-retirement-pension-afp-in-the-private-sector-from-2011</prop>
+     <seg>If you are born between 1944 and 1962, you will receive a life-long tax-free compensatory allowance.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011</prop>
+     <seg>Hvis du er f&#248;dt i &#229;rene fra 1944 til 1962, f&#229;r du et livsvarig skattefritt kompensasjonstillegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">1.03164</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nav.no/en/home/shortcuts/are-you-living-abroad-without-electronic-id-for-navs-digital-services</prop>
+     <seg>Previously you needed to visit a NAV office to identify yourself in case you lacked electronic ID.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nav.no/_/attachment/download/43bc11a3-cc1d-467a-967f-dffb1592984f:79f6754784fa26dfc7112fc15fc214b04446cb00/databehandleravtale-1711-med-utfyllbare-felter.pdf.converted</prop>
+     <seg>Frilanstolkene leverer tolketjeneste for d&#248;ve, h&#248;rselshemmede og d&#248;vblinde etter avtale med, og p&#229; vegne av, NAV.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">1.20363</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nav.no/en/home/benefits-and-services/entry-ban-during-the-pandemic--compensation-for-lost-income/entry-ban-during-the-pandemic-reimbursement-for-compensation</prop>
+     <seg>If you choose this option, it applies to all refunds you require from NAV.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.nav.no/no/bedrift/inkluderende-arbeidsliv/nyheter-fra-hele-landet/refusjon-ved-innreiseforbud-under-pandemien</prop>
+     <seg>Velger du dette alternativet, gjelder det for alle refusjoner du krever fra NAV.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

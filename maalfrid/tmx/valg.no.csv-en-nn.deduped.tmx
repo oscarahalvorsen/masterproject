@@ -1,0 +1,801 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T200335" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.53835</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/</prop>
+     <seg>Who has access to EVA?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/</prop>
+     <seg>Kven har tilgang til EVA?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.03554</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/grant-recipients/</prop>
+     <seg>We will interview deaf politicians, hearing politicians, debate issues, and explain contexts.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/tilskotsmottakarar/</prop>
+     <seg>Vi vil intervjue d&#248;ve politikarar, h&#248;yrande politikarar, debattere saker og forklare samanhengar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.08065</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/distribution-of-seats-at-large/</prop>
+     <seg>Once a county has been distributed a seat at large it is out of the competition.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/new-pagefordeling-av-utjamningsmandat/</prop>
+     <seg>N&#229;r eit fylke har f&#229;tt eit utjamningsmandat, er det ute av konkurransen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.27498</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/standing-for-election/lists-and-candidates-2021/</prop>
+     <seg>Here you will find an overview of which parties and candidates are standing for election in the 2021 parliamentary elections.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/stille-til-val/lister-og-kandidatar-2021/</prop>
+     <seg>Her finner du oversikt over kva for parti og kandidatar som stiller til val ved stortingsvalet 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.86694</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/</prop>
+     <seg>When you vote in a parliamentary election, you are helping to decide which 169 representatives will sit in Norway&#8217;s legislative, appropriating, and supervisory assembly for the next four years.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/</prop>
+     <seg>N&#229;r du r&#248;ystar ved stortingsval, er du med p&#229;&#229; avgjere kven dei 169 representantane er, som skal sitje i Noregs lovgjevande, l&#248;yvande og kontrollerande forsamling dei neste fire &#229;ra.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.03356</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/distribution-of-seats-at-large/</prop>
+     <seg>If the party did not win any constituency seats, one uses the actual total vote polled.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/new-pagefordeling-av-utjamningsmandat/</prop>
+     <seg>Dersom partiet ikkje har vunne noko distriktsmandat, bruker ein r&#248;ystetalet slik det er.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.03929</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/municipal-council-elections/electoral-counts-in-municipal-council-elections/</prop>
+     <seg>Example of electoral count in a municipality</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/kommunestyreval/valoppgjer-ved-kommunestyreval/</prop>
+     <seg>D&#248;me p&#229; valoppgjer i ein kommune</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.025</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/grant-recipients/</prop>
+     <seg>For the Parliamentary and Sami Parliamentary Elections 2021, we have provided support for initiatives such as easy-to-read web solutions, social media campaigns, information initiatives targeted at people in prison, and TV programmes and election guides.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/tilskotsmottakarar/</prop>
+     <seg>Til stortings- og sametingsvalet 2021 har vi gjeve st&#248;tte til blant anna lettlesne nettl&#248;ysingar, kampanjar i sosiale medium, informasjonstiltak retta mot innsette i fengsel og til TV-program og valaviser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.59375</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/for-voters/parliamentary-election-2021/voting-from-abroad/</prop>
+     <seg>You can vote from abroad or on Svalbard and Jan Mayen from 1 July.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/for-veljarar/stortingsvalet-2021/royste-fra-utlandet/</prop>
+     <seg>Det er mogleg &#229; r&#248;yste fr&#229; utlandet, Svalbard og Jan Mayen fr&#229; 1. juli.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.04189</prop>
+    <prop type="score-bicleaner">0.559</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/</prop>
+     <seg>Traffic to EVA is monitored and registered</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/</prop>
+     <seg>Trafikk mot EVA blir overvaka og registrert</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">4.24</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/distribution-of-seats-at-large/</prop>
+     <seg>Parliamentary elections are about electing 169 Storting representatives.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/new-pagefordeling-av-utjamningsmandat/</prop>
+     <seg>Stortingsval handlar om &#229; velje 169 stortingsrepresentantar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">3.16154</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/about-the-norwegian-directorate-of-elections/about-the-norwegian-directorate-of-elections/organization-and-management/</prop>
+     <seg>The Norwegian Electoral Directorate currently has 31 employees and is based in T&#248;nsberg</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-valdirektoratet/om-valdirektoratet/organisasjon-og-leiing/</prop>
+     <seg>Valdirektoratet har i dag 31 tilsette og heldt til i T&#248;nsberg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.18834</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/distribution-of-seats-at-large/</prop>
+     <seg>However, only parties that attract at least 4 per cent of the national vote can be awarded seats at large.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/new-pagefordeling-av-utjamningsmandat/</prop>
+     <seg>Men det er berre parti som oppn&#229;r ei oppslutning p&#229; minst 4 prosent av r&#248;ystene nasjonalt, som kan tildelast utjamningsmandat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.13316</prop>
+    <prop type="score-bicleaner">0.615</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/grant-recipients/</prop>
+     <seg>The foundation will publish special newspaper editions (paper, CD, online PDF, and online podcasts) about the Election 2021 specially designed for young people with reading and language difficulties.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/tilskotsmottakarar/</prop>
+     <seg>Gjev ut ei s&#230;rskilt avisutg&#229;ve (papir, CD, PDF p&#229; nett, podkast p&#229; nett) om valet 2021 spesielt tilrettelagd unge menneske med skrive- og spr&#229;kvanskar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.13247</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/grant-recipients/</prop>
+     <seg>Typical topics for election broadcasts include the electoral system, the parties, the election campaign, the issues, the profiles, and the conflicts.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/tilskotsmottakarar/</prop>
+     <seg>Typiske tema for valsendingane vil vere valordninga, partia, valkampen, sakene, profilane og konfliktane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.77857</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/</prop>
+     <seg>Election results before 21:00 on election dayResults from counts must not be published before all polling stations have closed to ensure no one is influenced.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/</prop>
+     <seg>Valresultat f&#248;r 21:00 p&#229; valdagen.For &#229; sikre at ingen blir p&#229;verka, skal ikkje resultat for oppteljingane opplysast f&#248;r alle vallokala stengjer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/</prop>
+     <seg>Is EVA secure?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/</prop>
+     <seg>Er EVA sikker?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">3.72404</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/distribution-of-seats-at-large/</prop>
+     <seg>Some 19 of these, one from each county, will hold a seat at large.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/new-pagefordeling-av-utjamningsmandat/</prop>
+     <seg>19 av desse, eitt fr&#229; kvart fylke, er utjamningsmandat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.12333</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/for-voters/parliamentary-election-2021/help-with-voting/help-and-assistance-in-the-polling-station/</prop>
+     <seg>If you are visually impaired or blind, cross-off ballot papers with guidance in Braille are available.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/for-veljarar/stortingsvalet-2021/hjelp-til-a-royste/hjelp-og-assistanse-i-vallokalet/</prop>
+     <seg>Dersom du har nedsett syn eller er blind, finst det avkryssingsr&#248;ystesetlar med rettleiarar i punktskrift.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.35744</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/</prop>
+     <seg>Those with access rights must identify themselves via the ID Portal (BankID, Buypass, etc.).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/</prop>
+     <seg>Dei som har tilgang, m&#229; identifisere seg via Id-porten (bankID, Buypass o.l.)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.15246</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/about-the-norwegian-directorate-of-elections/about-the-norwegian-directorate-of-elections/for-the-press/</prop>
+     <seg>We log the date, medium, first name and last name of the journalist, telephone number, email address, what the enquiry was about, and any email exchanges.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-valdirektoratet/om-valdirektoratet/pressesider/</prop>
+     <seg>Vi loggf&#248;rer dato, medium, f&#248;renamn og etternamn p&#229; journalist, telefonnummer, e-postadresse, kva saka gjeld og eventuell e-postutveksling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.08599</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/about-the-norwegian-directorate-of-elections/about-the-norwegian-directorate-of-elections/public-records/</prop>
+     <seg>In OEP you can see document details, order access to documents, and print out or store public records.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-valdirektoratet/om-valdirektoratet/postjournal/</prop>
+     <seg>I OEP kan du sj&#229; dokumentdetaljar, bestille innsyn i dokument og skrive ut eller lagre postjournalar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.28182</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/about-the-norwegian-directorate-of-elections/about-the-norwegian-directorate-of-elections/for-the-press/</prop>
+     <seg>listed by Difi for government adverts</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-valdirektoratet/om-valdirektoratet/pressesider/</prop>
+     <seg>listef&#248;rte i DIFI for statsannonsering</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">3.22941</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/sami-parliamentary-elections/</prop>
+     <seg>A total of 39 representatives are elected from across the entire country.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/sametingsval/</prop>
+     <seg>Til saman blir det valt 39 representantar fr&#229; heile landet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.09814</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/for-voters/parliamentary-election-2021/voting-in-advance/</prop>
+     <seg>If you vote in advance, you cannot vote again, even on election day.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/for-veljarar/stortingsvalet-2021/forehandsroyste/</prop>
+     <seg>Dersom du f&#248;rehandsr&#248;ystar, s&#229; kan du ikkje r&#248;yste p&#229; nytt, heller ikkje p&#229; valdagen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.58813</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/grant-recipients/</prop>
+     <seg>Series of short films produced by Stas Artist AS and the film company Panbdore Film AS.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/tilskotsmottakarar/</prop>
+     <seg>Programserie med sm&#229; korte filmar, produsert av Stas Artist AS og filmselskapet Panbdore Film AS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.03378</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/grant-recipients/</prop>
+     <seg>Information work targeting people in prison and former convicts about who can vote, how to vote, the parties standing for election, and why they should use their right to vote.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/tilskotsmottakarar/</prop>
+     <seg>Informasjonsarbeid retta mot innsette i fengsel og tidlegare straffed&#248;mte om kven som kan r&#248;yste, korleis dei r&#248;ystar, parti som stiller til val, og kvifor r&#248;ysteretten b&#248;r nyttast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.25946</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/grant-recipients/</prop>
+     <seg>They will interview all sides, looks at the numbers and data, and discuss their way to conclusions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/tilskotsmottakarar/</prop>
+     <seg>Dei skal intervjue alle sider, sj&#229; p&#229; tal og data, og dr&#248;fte seg fram til ein konklusjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.03298</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/grant-recipients/</prop>
+     <seg>The information will be disseminated through multilingual information films and radio adverts, meetings between prisoners and politicians 'on the inside', social studies workshops, and written information about the election.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/tilskotsmottakarar/</prop>
+     <seg>Informasjonen skal spreiast gjennom fleirspr&#229;kleg informasjonsfilm og radioinnslag, m&#248;te mellom innsette og politikarar &#171;p&#229; innsida&#187;, workshops i samfunnsl&#230;re og spreiing av skriftleg informasjon om valet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.03621</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/applying-for-grants/</prop>
+     <seg>Individuals, municipalities, county authorities, and political parties cannot apply for these grants.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/sokje-om-tilskot/</prop>
+     <seg>Einskildpersonar, kommunar, fylkeskommunar og politiske parti kan ikkje s&#248;kje om dette tilskotet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.75843</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/standing-for-election/submitting-list-proposals/</prop>
+     <seg>The Norwegian Directorate of Elections has, therefore, prepared templates for the submission of list proposals for the parliamentary election in 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/stille-til-val/levere-listeforslag/</prop>
+     <seg>Valdirektoratet har difor utarbeidd ein mal for innlevering av listeforslag til stortingsvalet 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.048</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/</prop>
+     <seg>The physical ballot papers will be held by, and available from, county authorities after the election.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/</prop>
+     <seg>R&#248;ystesetlane finst i papirutg&#229;ve og blir tekne vare p&#229; av fylkeskommunen etter valet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.375</prop>
+    <prop type="score-bicleaner">0.581</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/for-voters/parliamentary-election-2021/voting-from-abroad/</prop>
+     <seg>When is the deadline for voting?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/for-veljarar/stortingsvalet-2021/royste-fra-utlandet/</prop>
+     <seg>N&#229;r er fristen for &#229; r&#248;yste?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.12653</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/standing-for-election/submitting-list-proposals/</prop>
+     <seg>Once folded, the template consists of two standard pages (A4).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/stille-til-val/levere-listeforslag/</prop>
+     <seg>Ferdig bretta best&#229;r malen av to sider for standard (A4).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.05442</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/</prop>
+     <seg>The information is used as a basis for producing ballot papers and polling cards, as well as for determining how EVA provides system support to municipalities and county authorities for the reception of votes and counting of election results.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/</prop>
+     <seg>Informasjonen blir brukt som grunnlag for r&#248;ystesetlar og valkort, og han blir i tillegg avgjerande for korleis EVA gjev systemst&#248;tte til kommunar og fylkeskommunar for mottak av r&#248;ystegjevingar og oppteljing av valresultat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">6.9</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/standing-for-election/lists-and-candidates-2021/</prop>
+     <seg>Lists and candidates 2021</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/stille-til-val/lister-og-kandidatar-2021/</prop>
+     <seg>Lister og kandidatar 2021</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.19231</prop>
+    <prop type="score-bicleaner">0.559</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/for-voters/parliamentary-election-2021/voting-in-advance/</prop>
+     <seg>Will you be voting from abroad or on Svalbard?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/for-veljarar/stortingsvalet-2021/forehandsroyste/</prop>
+     <seg>Skal du r&#248;yste fr&#229; utlandet eller p&#229; Svalbard?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.11109</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/</prop>
+     <seg>The distribution of seats between the constituencies is recalculated every eight years based on the 19 constituencies' population and area.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/</prop>
+     <seg>Fordelinga av mandat mellom valdistrikta blir gjord kvart &#229;ttande &#229;r og rekna ut p&#229; bakgrunn av innbyggjartal og areal i dei 19 valdistrikta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.07273</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/standing-for-election/lists-and-candidates-2021/</prop>
+     <seg>The overview is based on data reported from the county municipalities via the EVA election system.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/stille-til-val/lister-og-kandidatar-2021/</prop>
+     <seg>Oversikta byggjer p&#229; data som er rapportert inn fr&#229; fylkeskommunane via valsystemet EVA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.27805</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/grant-recipients/</prop>
+     <seg>The main objective is to get more voters to use their right to vote in the parliamentary election in 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/tilskotsmottakarar/</prop>
+     <seg>Hovudm&#229;let er &#229; f&#229; fleire med r&#248;ysterett til &#229; bruke r&#248;ysteretten sin til stortingsvalet i 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.61429</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/grant-recipients/</prop>
+     <seg>The 'Ta Valget 2021' campaign is a broad-based campaign on YouTube, Instagram, Snapchat and TikTok involving fun, informative, and inspiring videos about the parties and parliamentary election.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/tilskotsmottakarar/</prop>
+     <seg>Ta Valget 2021-aksjonen er ei brei satsing p&#229; YouTube, Instagram, Snapchat og TikTok med morosam, informativ og inspirerande video om partia og stortingsvalet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.58137</prop>
+    <prop type="score-bicleaner">0.501</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/for-voters/parliamentary-election-2021/voting-from-abroad/</prop>
+     <prop type="source-document">https://www.valg.no/en/for-voters/parliamentary-election-2021/voting-in-advance/</prop>
+     <seg>The same rules apply on Svalbard and Jan Mayen Island that apply for voting abroad.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/for-veljarar/stortingsvalet-2021/royste-fra-utlandet/</prop>
+     <prop type="source-document">https://www.valg.no/nn-no/for-veljarar/stortingsvalet-2021/forehandsroyste/</prop>
+     <seg>Svalbard og Jan Mayen er omfatta av dei same reglane som utanriksr&#248;ystegjeving.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.44</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/about-the-norwegian-directorate-of-elections/about-the-norwegian-directorate-of-elections/public-records/</prop>
+     <seg>Searchable public records for the Norwegian Directorate of Elections are available via the Electronic Public Records (OEP).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-valdirektoratet/om-valdirektoratet/postjournal/</prop>
+     <seg>S&#248;kbar postjournal for Valdirektoratet er tilgjengeleg via Offentleg elektronisk postjournal (OEP).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.76135</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/municipal-council-elections/electoral-counts-in-municipal-council-elections/</prop>
+     <seg>If party A in the municipality mentioned above is voted for and there are two throwers on the ballot paper, then party A will receive 21 list votes, while the last two list votes will be given to the throwers' parties.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/kommunestyreval/valoppgjer-ved-kommunestyreval/</prop>
+     <seg>Om ein r&#248;yster p&#229; parti A i kommunen nemnt ovanfor og har to slengjarar p&#229; r&#248;ystesetelen, vil parti A alts&#229; f&#229; 21 lister&#248;yster, medan dei to siste lister&#248;ystene vil g&#229; til slengjarane sine parti.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.00049</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/about-the-norwegian-directorate-of-elections/about-the-norwegian-directorate-of-elections/for-the-press/</prop>
+     <seg>Use of the logo must comply with the rules for the use of the national coat of arms as laid down by Royal Decree.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-valdirektoratet/om-valdirektoratet/pressesider/</prop>
+     <seg>Bruk av logo m&#229; skje i samsvar med reglane for bruk av riksv&#229;pen som er fastsette i kongeleg resolusjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.96123</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/news/latest-news/information-leaflets-for-clubs-and-organisations/</prop>
+     <seg>The leaflet from the Norwegian Directorate of Elections provides voters with the most important information they need about the Parliamentary Election 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/aktuelt/aktuelle-saker/informasjonsbrosjyrar-til-lag-og-organisasjonar/</prop>
+     <seg>Informasjonsbrosjyren fr&#229; Valdirektoratet gjev veljarane den viktigaste informasjonen om stortingsvalet 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.73806</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/distribution-of-seats-at-large/</prop>
+     <seg>This calculation is carried out for all parties that should receive seats at large in all 19 constituencies.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/new-pagefordeling-av-utjamningsmandat/</prop>
+     <seg>Dette reknestykket blir gjort for alle parti som skal f&#229; utjamningsmandat i alle 19 valdistrikt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">3.375</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/grants-for-information-initiatives/applying-for-grants/</prop>
+     <seg>The application deadline is 15 November of that same year.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/tilskot-til-informasjonstiltak/sokje-om-tilskot/</prop>
+     <seg>S&#248;knadsfristen er 15. november same &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.04455</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/distribution-of-seats-at-large/</prop>
+     <seg>Next one takes the parties' total vote polled in the county.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/new-pagefordeling-av-utjamningsmandat/</prop>
+     <seg>Deretter tek ein utgangspunkt i r&#248;ystetalet partia har i fylka.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">4.28</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/municipal-council-elections/electoral-counts-in-municipal-council-elections/</prop>
+     <seg>Each ballot paper will thus represent 23 list votes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/kommunestyreval/valoppgjer-ved-kommunestyreval/</prop>
+     <seg>D&#229; vil kvar r&#248;ystesetel representere 23 lister&#248;yster.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.72432</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/distribution-of-seats-at-large/</prop>
+     <seg>This is done by calculating a new electoral count in which one distributes all of the 169 seats, although this time using the entire country as a single constituency.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/new-pagefordeling-av-utjamningsmandat/</prop>
+     <seg>Dette gjer ein gjennom &#229; rekne ut eit nytt valoppgjer der ein fordeler alle dei 169 mandata, men no med heile landet som &#233;in valkrins.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.20618</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/system-documentation-and-source-code/</prop>
+     <seg>EVA Skanning is an application that manages the machine counting of ballot papers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/systemdokumentasjon-og-kjeldekode/</prop>
+     <seg>EVA Skanning er applikasjonen som styrer den maskinelle oppteljinga av r&#248;ystesetlar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.19408</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/</prop>
+     <seg>The information held by EVA is also used as a basis for calculating forecasts and election results, which are published on valgresultat.no and provided to the media on election night.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/</prop>
+     <seg>I tillegg bruker ein informasjonen i EVA som grunnlag for berekning av prognosar og valresultat som blant anna blir publisert p&#229; valgresultat.no og gjeve til media p&#229; valkvelden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.28125</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/</prop>
+     <seg>Who has access to EVA and which functions they have access to are restricted</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/</prop>
+     <seg>Det er avgrensa kven som har tilgang til EVA og kva funksjonar ein har tilgang til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.09122</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/</prop>
+     <seg>The right to vote in parliamentary elections is based on universal suffrage, which means that the right to vote is not restricted on the basis of gender, religion, ethnicity, property ownership, or other distinctions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/</prop>
+     <seg>R&#248;ysteretten ved stortingsval er &#229;lmenn, noko som inneber at r&#248;ysteretten ikkje er innskrenka p&#229; bakgrunn av kj&#248;nn, religion, etnisitet, eigedomsinnehaving eller andre gruppeinndelingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.94526</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/distribution-of-seats-at-large/</prop>
+     <seg>Given how the Norwegian electoral system is designed, every vote counts in determining which party will receive one or more of the 19 seats at large.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/new-pagefordeling-av-utjamningsmandat/</prop>
+     <seg>Slik det norske valsystemet er, vil alle r&#248;yster telje med i &#229; avgjere kva for nokre parti som f&#229;r &#233;itt eller fleire av dei 19 utjamningsmandata.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.48235</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/system-documentation-and-source-code/</prop>
+     <seg>What is source code?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/systemdokumentasjon-og-kjeldekode/</prop>
+     <seg>Kva er kjeldekode?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">3.25238</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/municipal-council-elections/electoral-counts-in-municipal-council-elections/</prop>
+     <seg>In such a municipality, 23 representatives will be elected to the municipal council.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/kommunestyreval/valoppgjer-ved-kommunestyreval/</prop>
+     <seg>I ein slik kommune skal det veljast 23 representantar til kommunestyret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.66934</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/elections-in-norway/elections-to-the-storting--parliamentary-elections/distribution-of-seats-at-large/</prop>
+     <seg>The distribution process continues for the remaining counties and parties until all 19 seats at large have been distributed.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/vala-i-noreg/stortingsval/new-pagefordeling-av-utjamningsmandat/</prop>
+     <seg>Fordelinga held fram for dei andre fylka og partia til alle 19 utjamningsmandata er fordelte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/</prop>
+     <seg>Is the information in EVA secret?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/</prop>
+     <seg>Er informasjonen i EVA hemmeleg?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.valg.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/system-documentation-and-source-code/</prop>
+     <seg>The final application is EVA Resultat, which prepares election forecasts and election results as it receives them from EVA Admin.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.valg.no/nn-no/om-val/valgjennomforing/valsystemet-eva/systemdokumentasjon-og-kjeldekode/</prop>
+     <seg>Den siste applikasjonen er EVA Resultat som utarbeider valprognosar og valresultatet etter kvart som han f&#229;r dette fr&#229; EVA Admin.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

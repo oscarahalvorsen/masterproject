@@ -1,0 +1,720 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221218T173404" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.0493</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2019/_/attachment/download/e8ac3564-5b71-4e50-90fb-5c579aa21066:b7233a5875f0d2c73e9fb627225dbc2b7072554b/190305.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2019/_/attachment/download/e8ac3564-5b71-4e50-90fb-5c579aa21066:b7233a5875f0d2c73e9fb627225dbc2b7072554b/190305.pdf.converted</prop>
+     <seg>Perform hydrographic sampling along the AlterEco monitoring section in the northern North Sea.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Delt-kunnskap-og-erfaring/Groene-loeyve/Cermaq-Norway-AS/_/attachment/download/84b69d8d-0119-486e-84e2-8c3f87c32144:56697053d388a9c66206cb0743e9d20146c7eb50/cermaq-norway-2017-A.pdf.converted</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Delt-kunnskap-og-erfaring/Groene-loeyve/Cermaq-Norway-AS/_/attachment/download/84b69d8d-0119-486e-84e2-8c3f87c32144:56697053d388a9c66206cb0743e9d20146c7eb50/cermaq-norway-2017-A.pdf.converted</prop>
+     <seg>Postsmolt-utsett p&#229; Tuvan og Kr&#229;kevika har v&#230;rt utfordrende &#229; m&#229;le effekten av.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.29143</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/53a4ad7f-a0e8-43bc-96a6-175b3ee5d413:f13cbef669dcdab7bd900865f244ebade3b2da42/Aquatraz_pilot_faktaark_Engelsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/53a4ad7f-a0e8-43bc-96a6-175b3ee5d413:f13cbef669dcdab7bd900865f244ebade3b2da42/Aquatraz_pilot_faktaark_Engelsk.pdf.converted</prop>
+     <seg>water masses, do not enter the facility.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/db63adac-5b5b-4f9d-99c9-688eac4b0cb2:5b7b6a90994d5c33e335693a45808229048454af/Aquatraz_pilot_faktaark%20norsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/db63adac-5b5b-4f9d-99c9-688eac4b0cb2:5b7b6a90994d5c33e335693a45808229048454af/Aquatraz_pilot_faktaark%20norsk.pdf.converted</prop>
+     <seg>vannmassene, ikke kommer inn i anlegget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">5.02727</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>The earlier section 6 becomes the new section 13.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>Tidligere &#167; 6 blir ny &#167; 13.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.12811</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/53a4ad7f-a0e8-43bc-96a6-175b3ee5d413:f13cbef669dcdab7bd900865f244ebade3b2da42/Aquatraz_pilot_faktaark_Engelsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/53a4ad7f-a0e8-43bc-96a6-175b3ee5d413:f13cbef669dcdab7bd900865f244ebade3b2da42/Aquatraz_pilot_faktaark_Engelsk.pdf.converted</prop>
+     <seg>Aquatraz will improve fish health.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/db63adac-5b5b-4f9d-99c9-688eac4b0cb2:5b7b6a90994d5c33e335693a45808229048454af/Aquatraz_pilot_faktaark%20norsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/db63adac-5b5b-4f9d-99c9-688eac4b0cb2:5b7b6a90994d5c33e335693a45808229048454af/Aquatraz_pilot_faktaark%20norsk.pdf.converted</prop>
+     <seg>Aquatraz vil bedre dagens fiskehelse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.51044</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>&#167; 9 Prohibition against transhipments and the provision of supply and support services to and from other vessels using Norwegian vessels</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>&#167; 9 Forbud mot omlasting, forsynings- og st&#248;ttetjenester til og fra annet fart&#248;y med norsk fart&#248;y</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">3.755</prop>
+    <prop type="score-bicleaner">0.686</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>&#167; 5 Obtaining confirmation from the flag State and prohibition against landings</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>&#167; 5 Innhenting av bekreftelse fra flaggstat og forbud mot ilandf&#248;ring</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.93164</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>Transhipment and the provision of supply and support services to and from vessels that are subject to prohibitions pursuant to section 6 may also be prohibited in Norway&#8217;s territorial waters and the territorial waters around Jan Mayen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>Forbud kan ogs&#229; nedlegges mot omlasting, forsynings- og st&#248;ttetjenester i Norges territorialfarvann og territorialfarvannet ved Jan Mayen, til og fra fart&#248;y som er eller blir underlagt forbud etter &#167; 6.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">3.80507</prop>
+    <prop type="score-bicleaner">0.700</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>&#167; 11 Publication of lists of vessels subject to prohibitions</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>&#167; 11 Offentliggj&#248;ring av lister over fart&#248;y som er omfattet av forbud</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.02987</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/58e009c9-82eb-4b26-a124-e8293ff6a78b:bc3024e48752ce717a717de22ba4166a65661e7f/iFarm-midtveisrapport-%20fase-1.pdf.converted</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/58e009c9-82eb-4b26-a124-e8293ff6a78b:bc3024e48752ce717a717de22ba4166a65661e7f/iFarm-midtveisrapport-%20fase-1.pdf.converted</prop>
+     <seg>fin damage were generally similar between the iFarm and the associate cages.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/a8990fc1-fa8d-4a86-a17b-407f1cf73788:6679aec29dfea0f3d37b178fb69737233faa19eb/nordlaks-avslag-konvertering-utviklingstillatelser.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/a8990fc1-fa8d-4a86-a17b-407f1cf73788:6679aec29dfea0f3d37b178fb69737233faa19eb/nordlaks-avslag-konvertering-utviklingstillatelser.pdf.converted</prop>
+     <seg>I dette tilfellet scorer Havfarmen under Nordlaks sine interne m&#229;lsetninger for tilsvarende fiskegrupper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.14352</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2013/_/attachment/download/f77de447-7974-4252-815c-b490a47bb791:32d54a05e0116cffaad861e8f35a4540fb4f62a3/130107.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2013/_/attachment/download/f77de447-7974-4252-815c-b490a47bb791:32d54a05e0116cffaad861e8f35a4540fb4f62a3/130107.pdf.converted</prop>
+     <seg>photosynthetic efficiency of the natural phytoplankton community, which in turn will be used to</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Dokumenter/Hoeringer/Hoering-av-forslag-til-regelverk-for-aa-implementere-nytt-system-for-kapasitetsjusteringer-i-lakse-og-oerretoppdrett/_/attachment/download/4765ff96-631b-4fa1-bf45-d4dcf1d92c52:a0b5bae459d3834dbdb04c1acda8a7dd7142a2ab/hoering-produksjonsomrader-oppdrett-210916.pdf.converted</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Dokumenter/Hoeringer/Hoering-av-forslag-til-regelverk-for-aa-implementere-nytt-system-for-kapasitetsjusteringer-i-lakse-og-oerretoppdrett/_/attachment/download/4765ff96-631b-4fa1-bf45-d4dcf1d92c52:a0b5bae459d3834dbdb04c1acda8a7dd7142a2ab/hoering-produksjonsomrader-oppdrett-210916.pdf.converted</prop>
+     <seg>Departementet har ikke evaluert tilstanden i omr&#229;det spesielt, heller ikke effekten av de tiltakene som har v&#230;rt gjennomf&#248;rt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.18533</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Marine-litter/Retrieval-of-lost-fishing-gear/Lost-fishery-equipment-removed-from-the-seabed</prop>
+     <seg>This is a vicious spiral that we are helping to break through our annual clean-up expedition.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Areal-og-miljo/Nyheter/2020/100-tonn-fiskeredskap-fjernet-fra-havbunnen</prop>
+     <seg>Dette er en ond spiral som vi bidrar til &#229; bryte gjennom &#229;rlige opprenskingstokt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">3.22258</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>&#167; 6 Prohibition against landings, transhipments and processing of fish in Norwegian ports</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>&#167; 6 Forbud mot ilandf&#248;ring, omlasting og bearbeiding av fisk i norsk havn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.31722</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2018/_/attachment/download/c9015bef-284a-4b27-8f2b-c26658714848:a0a8648086a680a520fc9e15c5510155d2544b8a/180130.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2018/_/attachment/download/c9015bef-284a-4b27-8f2b-c26658714848:a0a8648086a680a520fc9e15c5510155d2544b8a/180130.pdf.converted</prop>
+     <seg>To ensure a proper functionality, the multisampler was tested during this cruise.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/bf00eace-99b3-4a5b-bff2-aba40a7d689d:9a437fa28f67438b62135b0b615600281378736e/norway-royal%20salmonASA-aker-ASA.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/bf00eace-99b3-4a5b-bff2-aba40a7d689d:9a437fa28f67438b62135b0b615600281378736e/norway-royal%20salmonASA-aker-ASA.pdf.converted</prop>
+     <seg>Denne bestemmelsen gjelder ikke for tillatelser til utvikling.&#187;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.91244</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>&#167; 2 Prohibition against landings of fish of joint interest to Norway and other states in specific cases</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>&#167; 2 Forbud mot ilandf&#248;ring av fisk av felles interesse med andre stater i bestemte tilfeller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">6.67143</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>The earlier section 5 is repealed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>Tidligere &#167; 5 oppheves.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">5.15948</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>&#167; 8 IUU vessel lists from regional fisheries management organisations</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>&#167; 8 Regionale fiskeriforvaltningsorganisasjoners IUU-lister</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.07532</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/53a4ad7f-a0e8-43bc-96a6-175b3ee5d413:f13cbef669dcdab7bd900865f244ebade3b2da42/Aquatraz_pilot_faktaark_Engelsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/53a4ad7f-a0e8-43bc-96a6-175b3ee5d413:f13cbef669dcdab7bd900865f244ebade3b2da42/Aquatraz_pilot_faktaark_Engelsk.pdf.converted</prop>
+     <seg>tearing holes in the net.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/db63adac-5b5b-4f9d-99c9-688eac4b0cb2:5b7b6a90994d5c33e335693a45808229048454af/Aquatraz_pilot_faktaark%20norsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/db63adac-5b5b-4f9d-99c9-688eac4b0cb2:5b7b6a90994d5c33e335693a45808229048454af/Aquatraz_pilot_faktaark%20norsk.pdf.converted</prop>
+     <seg>objekter som river hull i noten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.26522</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/53a4ad7f-a0e8-43bc-96a6-175b3ee5d413:f13cbef669dcdab7bd900865f244ebade3b2da42/Aquatraz_pilot_faktaark_Engelsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/53a4ad7f-a0e8-43bc-96a6-175b3ee5d413:f13cbef669dcdab7bd900865f244ebade3b2da42/Aquatraz_pilot_faktaark_Engelsk.pdf.converted</prop>
+     <seg>Seafarming Systems wants to resolve these issues through the Aquatraz project.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/db63adac-5b5b-4f9d-99c9-688eac4b0cb2:5b7b6a90994d5c33e335693a45808229048454af/Aquatraz_pilot_faktaark%20norsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/db63adac-5b5b-4f9d-99c9-688eac4b0cb2:5b7b6a90994d5c33e335693a45808229048454af/Aquatraz_pilot_faktaark%20norsk.pdf.converted</prop>
+     <seg>Disse problemstillingene vil Seafarming Systems l&#248;se gjennom Aquatraz-prosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.52597</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>The Directorate of Fisheries may prohibit on- and offloading and the provision of port, supply and support services in Norwegian ports to and from vessels that are subject to prohibitions pursuant to section 6.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>Fiskeridirektoratet kan nedlegge forbud mot lasting, lossing og havne-, forsynings- og st&#248;ttetjenester i norsk havn, til og fra fart&#248;y som er eller blir underlagt forbud etter &#167; 6.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">5.16667</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-relating-to-catch-documentation-for-bluefin-tuna-Thunnus-thynnus-bigeye-tuna-Thunnus-obesus-and-swordfish-Xiphias-gladius-090320</prop>
+     <prop type="source-document">https://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-relating-to-catch-documentation-for-bluefin-tuna-Thunnus-thynnus-bigeye-tuna-Thunnus-obesus-and-swordfish-Xiphias-gladius-090320</prop>
+     <seg>Section 1 Territorial extent and substantive scope</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-64-2009</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Gjeldende-J-meldinger/J-40-2014</prop>
+     <seg>&#167; 1 Stedlig og saklig virkeomr&#229;de</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">3.04934</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>&#167; 4 Prohibition against landings of fish taken in contravention of provisions of international agreements</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>&#167; 4 Forbud mot ilandf&#248;ring av fisk tatt i strid med bestemmelser i internasjonale avtaler</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.18151</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Dokumenter/Reguleringsmoetet2/November-2017/_/attachment/download/18cb0d58-76b7-407e-a8c9-791c3a507f3b:6536d7ff955c8a55b6101d02549ff53e4757ac57/Sak-20-2017-nvg-sild-saksdokument-vedlegg.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Yrkesfiske/Dokumenter/Reguleringsmoetet2/November-2017/_/attachment/download/18cb0d58-76b7-407e-a8c9-791c3a507f3b:6536d7ff955c8a55b6101d02549ff53e4757ac57/Sak-20-2017-nvg-sild-saksdokument-vedlegg.pdf.converted</prop>
+     <seg>The 2016 assessment is not included in these plots as it has been found to be erroneous.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Yrkesfiske/Dokumenter/Reguleringsmoetet2/November-2017/_/attachment/download/dd693db0-cf32-472a-b686-a730f89134f7:98159c9f491a1aa601057de8ffc5d2a07011cc38/Sak-20-2017-nvg-sild-saksdokument.pdf.converted</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Dokumenter/Reguleringsmoetet2/November-2017/_/attachment/download/dd693db0-cf32-472a-b686-a730f89134f7:98159c9f491a1aa601057de8ffc5d2a07011cc38/Sak-20-2017-nvg-sild-saksdokument.pdf.converted</prop>
+     <seg>Fisked&#248;deligheten i 2016 var godt under fisked&#248;dsrate for maksimalt langtidsutbytte (FMSY). Bestandens tilstand</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.03763</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2014/_/attachment/download/619ac9d1-0860-4074-85cb-8396c706bfd4:a2e0638694be9062ae872fe6fbd46c56e572a528/140123.pdf.converted</prop>
+     <prop type="source-document">http://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2014/_/attachment/download/619ac9d1-0860-4074-85cb-8396c706bfd4:a2e0638694be9062ae872fe6fbd46c56e572a528/140123.pdf.converted</prop>
+     <seg>Although we tried hardly it was not possible for us crossing the Lomonosov Ridge towards the west, towards Alpha Ridge.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/a939e063-4e85-47e2-a9c6-4f94cf7092cd:190a5b715e3a3b441a2c060ce0fcf1520d19ba6d/Grieg-Seafood-Rogaland-svar-p%C3%A5-klage.pdf.converted</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/a939e063-4e85-47e2-a9c6-4f94cf7092cd:190a5b715e3a3b441a2c060ce0fcf1520d19ba6d/Grieg-Seafood-Rogaland-svar-p%C3%A5-klage.pdf.converted</prop>
+     <seg>at Fiskeridirektoratet ikke fant at s&#248;ker hadde sannsynliggjort at konseptet kunne gjennomf&#248;res som planlagt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">4.71667</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-relating-to-catch-documentation-for-bluefin-tuna-Thunnus-thynnus-bigeye-tuna-Thunnus-obesus-and-swordfish-Xiphias-gladius-090320</prop>
+     <seg>Section 4 Duty to provide catch documents when engaging in domestic trade</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-64-2009</prop>
+     <seg>&#167; 4 Plikt til &#229; sende med fangstdokument ved innenlands omsetning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.08971</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Marine-litter/Retrieval-of-lost-fishing-gear/Lost-fishery-equipment-removed-from-the-seabed</prop>
+     <seg>Clean Nordic Ocean</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Areal-og-miljo/Nyheter/2020/100-tonn-fiskeredskap-fjernet-fra-havbunnen</prop>
+     <seg>fra Clean Nordic Ocean. Oppdatert:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.06925</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Marine-litter/Retrieval-of-lost-fishing-gear/Lost-fishery-equipment-removed-from-the-seabed</prop>
+     <seg>Over time, Norway has developed a system for coordinating between fishers and official bodies that works well.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Areal-og-miljo/Nyheter/2020/100-tonn-fiskeredskap-fjernet-fra-havbunnen</prop>
+     <seg>Norge har over tid bygget opp et system for samhandling mellom fiskere og forvaltning som fungerer godt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">3.77795</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/7fcb5f28-24a6-490a-a562-ec1a6eaa9ef7:6d391ff123b5752b9f1428245c9e0a18808cc8d2/avslag-utviklingstillatelse-albatros-technology.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/7fcb5f28-24a6-490a-a562-ec1a6eaa9ef7:6d391ff123b5752b9f1428245c9e0a18808cc8d2/avslag-utviklingstillatelse-albatros-technology.pdf.converted</prop>
+     <seg>The planned production is 10 000 tons per year.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/f22d57a2-6d5f-495d-9a6e-034e1db1ea63:9f68cbdf7d514763cefa569c2316aac80f242af9/Albatros-Technology-svar-p%C3%A5-klage.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/f22d57a2-6d5f-495d-9a6e-034e1db1ea63:9f68cbdf7d514763cefa569c2316aac80f242af9/Albatros-Technology-svar-p%C3%A5-klage.pdf.converted</prop>
+     <seg>Selskapet planlegger &#229; produsere 10 000 tonn laks per &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">5.68333</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-relating-to-catch-documentation-for-bluefin-tuna-Thunnus-thynnus-bigeye-tuna-Thunnus-obesus-and-swordfish-Xiphias-gladius-090320</prop>
+     <prop type="source-document">https://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-relating-to-catch-documentation-for-bluefin-tuna-Thunnus-thynnus-bigeye-tuna-Thunnus-obesus-and-swordfish-Xiphias-gladius-090320</prop>
+     <seg>Section 8 Completion of catch documentation</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-64-2009</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Gjeldende-J-meldinger/J-40-2014</prop>
+     <seg>&#167; 8 Utfylling av fangstdokument</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.12647</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Marine-litter/Retrieval-of-lost-fishing-gear/Lost-fishery-equipment-removed-from-the-seabed</prop>
+     <seg>The current international market situation for plastic recycling is difficult, however, as handling and removal are both costly processes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Areal-og-miljo/Nyheter/2020/100-tonn-fiskeredskap-fjernet-fra-havbunnen</prop>
+     <seg>Den internasjonale markedssituasjonen for &#171;plastforedling&#187; er vanskelig og h&#229;ndtering og demontering er kostbart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">3.54118</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Dokumenter/Reguleringsmoetet2/November-2017/_/attachment/download/18cb0d58-76b7-407e-a8c9-791c3a507f3b:6536d7ff955c8a55b6101d02549ff53e4757ac57/Sak-20-2017-nvg-sild-saksdokument-vedlegg.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Yrkesfiske/Dokumenter/Reguleringsmoetet2/November-2017/_/attachment/download/18cb0d58-76b7-407e-a8c9-791c3a507f3b:6536d7ff955c8a55b6101d02549ff53e4757ac57/Sak-20-2017-nvg-sild-saksdokument-vedlegg.pdf.converted</prop>
+     <seg>Recruitment estimates from assessments conducted before 2016 are not</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Yrkesfiske/Dokumenter/Reguleringsmoetet2/November-2017/_/attachment/download/dd693db0-cf32-472a-b686-a730f89134f7:98159c9f491a1aa601057de8ffc5d2a07011cc38/Sak-20-2017-nvg-sild-saksdokument.pdf.converted</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Dokumenter/Reguleringsmoetet2/November-2017/_/attachment/download/dd693db0-cf32-472a-b686-a730f89134f7:98159c9f491a1aa601057de8ffc5d2a07011cc38/Sak-20-2017-nvg-sild-saksdokument.pdf.converted</prop>
+     <seg>Feilen oppstod i forbindelse med metoderevisjonen i 2016.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.01954</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/58e009c9-82eb-4b26-a124-e8293ff6a78b:bc3024e48752ce717a717de22ba4166a65661e7f/iFarm-midtveisrapport-%20fase-1.pdf.converted</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/58e009c9-82eb-4b26-a124-e8293ff6a78b:bc3024e48752ce717a717de22ba4166a65661e7f/iFarm-midtveisrapport-%20fase-1.pdf.converted</prop>
+     <seg>comparing surface activity in the iFarm cages to other studies on standard and snorkel cages, surface</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/a8990fc1-fa8d-4a86-a17b-407f1cf73788:6679aec29dfea0f3d37b178fb69737233faa19eb/nordlaks-avslag-konvertering-utviklingstillatelser.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/a8990fc1-fa8d-4a86-a17b-407f1cf73788:6679aec29dfea0f3d37b178fb69737233faa19eb/nordlaks-avslag-konvertering-utviklingstillatelser.pdf.converted</prop>
+     <seg>Fiskeridirektoratet vurderer at d&#248;deligheten i Havfarmen har v&#230;rt generelt h&#248;y, ikke minst med tanke p&#229; at produksjonstiden har v&#230;rt kort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.02358</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>For the purpose of these regulations, fisheries management arrangements means agreed regulation of catches under the terms of an arrangement between other states or an association of states and Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>Med fiskeriforvaltningsarrangementer menes i denne sammenheng omforent regulering av bestander innenfor et arrangement mellom andre stater eller sammenslutning av stater og Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2014/_/attachment/download/aca9bfd4-4cdf-4f59-825a-ba509730daaa:280402a6fc07af1e1c3d756ab2dc1bad2461bd3a/131008.pdf.converted</prop>
+     <prop type="source-document">http://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2014/_/attachment/download/aca9bfd4-4cdf-4f59-825a-ba509730daaa:280402a6fc07af1e1c3d756ab2dc1bad2461bd3a/131008.pdf.converted</prop>
+     <seg>No methots were completed overnight.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Nyheter/2020/0120/Avklaringer-om-utviklingstillatelser/_/attachment/download/c6cbcbcd-4f46-449e-b67d-30676ed3d53b:a9b5b63c892a4253e710242f9bcd006d26334986/FishglobeAS-tilsagn-utviklingstillatelser.pdf.converted</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Nyheter/2020/0120/Avklaringer-om-utviklingstillatelser/_/attachment/download/c6cbcbcd-4f46-449e-b67d-30676ed3d53b:a9b5b63c892a4253e710242f9bcd006d26334986/FishglobeAS-tilsagn-utviklingstillatelser.pdf.converted</prop>
+     <seg>klarert for utviklingstillatelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.44587</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2018/_/attachment/download/b3e85114-20a0-4532-b2df-9ef2da2d2a9b:35d3408b783b45a38668404c9d522ac71c43d0e1/180524-rapport.pdf.converted</prop>
+     <seg>Conclusion The cruise in Skagerrak in July 2018 was aborted with only one successful multi-increment sediment collection.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Yrkesfiske/Dokumenter/Hoeringer/Jakt-paa-kystsel-i-2020/_/attachment/download/39c408de-3a0f-4ad7-857a-ac22395a7ea2:7e9ef1abd502dfd9a1b5126abb5b6a79ee813cdc/kystsel-2020-hoering-051119.pdf.converted</prop>
+     <seg>desember 2018 kvotene for &#229;rets jakt p&#229; havert og steinkobbe i samsvar med tilr&#229;dning fra Havforskningsinstituttet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.07344</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/53a4ad7f-a0e8-43bc-96a6-175b3ee5d413:f13cbef669dcdab7bd900865f244ebade3b2da42/Aquatraz_pilot_faktaark_Engelsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/53a4ad7f-a0e8-43bc-96a6-175b3ee5d413:f13cbef669dcdab7bd900865f244ebade3b2da42/Aquatraz_pilot_faktaark_Engelsk.pdf.converted</prop>
+     <seg>The operation of current netpen solutions, which often involves heavy, manual tasks, is risky for the technician, the fish and the external environment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/db63adac-5b5b-4f9d-99c9-688eac4b0cb2:5b7b6a90994d5c33e335693a45808229048454af/Aquatraz_pilot_faktaark%20norsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Kunnskap-fra-utviklingsprosjektene/_/attachment/download/db63adac-5b5b-4f9d-99c9-688eac4b0cb2:5b7b6a90994d5c33e335693a45808229048454af/Aquatraz_pilot_faktaark%20norsk.pdf.converted</prop>
+     <seg>Driftsoperasjonene ved dagens merdl&#248;sninger, ofte tunge manuelle oppgaver, er risikofylte for r&#248;kteren, fisken og det ytre milj&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">5.08333</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-relating-to-catch-documentation-for-bluefin-tuna-Thunnus-thynnus-bigeye-tuna-Thunnus-obesus-and-swordfish-Xiphias-gladius-090320</prop>
+     <seg>Section 5 Prohibition against import and landing from foreign vessels without catch documents</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-64-2009</prop>
+     <seg>&#167; 5 Forbud mot import og landing fra utenlandsk fart&#248;y uten fangstdokument</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.61714</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>The provisions of the first and second paragraphs do not apply to prohibitions laid down pursuant to section 5 or 8.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>Bestemmelsene i f&#248;rste og andre ledd gjelder ikke i forhold til forbud nedlagt med hjemmel i &#167;&#167; 5 eller 8.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.3532</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Marine-litter/Retrieval-of-lost-fishing-gear/Lost-fishery-equipment-removed-from-the-seabed</prop>
+     <seg>With 4745 metres of wire being recorded, we have unfortunately detected an increase in the amount of wire being left behind or dumped.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Areal-og-miljo/Nyheter/2020/100-tonn-fiskeredskap-fjernet-fra-havbunnen</prop>
+     <seg>- Med 4745 meter vaier, registrerer vi dessverre en oppgang i mengden vaier som er etterlatt og dumpet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.39251</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>&#167; 3 Prohibition against landings of fish taken in contravention of a desired harvesting pattern or if there is a risk of overfishing</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>&#167; 3 Forbud mot ilandf&#248;ring av fisk tatt strid med &#248;nsket beskatningsm&#248;nster eller ved fare for overfiske</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.84364</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/7fcb5f28-24a6-490a-a562-ec1a6eaa9ef7:6d391ff123b5752b9f1428245c9e0a18808cc8d2/avslag-utviklingstillatelse-albatros-technology.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/7fcb5f28-24a6-490a-a562-ec1a6eaa9ef7:6d391ff123b5752b9f1428245c9e0a18808cc8d2/avslag-utviklingstillatelse-albatros-technology.pdf.converted</prop>
+     <seg>The overall size of the barge will have a length of 195 m, a breadth of 55 m and a depth of 22 m.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/f22d57a2-6d5f-495d-9a6e-034e1db1ea63:9f68cbdf7d514763cefa569c2316aac80f242af9/Albatros-Technology-svar-p%C3%A5-klage.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/Akvakultur/Tildeling-og-tillatelser/Saertillatelser/Utviklingstillatelser/Brev-og-vedtak/_/attachment/download/f22d57a2-6d5f-495d-9a6e-034e1db1ea63:9f68cbdf7d514763cefa569c2316aac80f242af9/Albatros-Technology-svar-p%C3%A5-klage.pdf.converted</prop>
+     <seg>Lengden p&#229; anlegget er 195 meter, bredden 55 meter og dybden 22 meter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.28235</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Marine-litter/Retrieval-of-lost-fishing-gear/Lost-fishery-equipment-removed-from-the-seabed</prop>
+     <seg>In addition, hundreds of buoys and anchors were also found.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Areal-og-miljo/Nyheter/2020/100-tonn-fiskeredskap-fjernet-fra-havbunnen</prop>
+     <seg>I tillegg ble det registrert et hundretalls flytevak og anker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">5.08333</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-relating-to-catch-documentation-for-bluefin-tuna-Thunnus-thynnus-bigeye-tuna-Thunnus-obesus-and-swordfish-Xiphias-gladius-090320</prop>
+     <seg>Section 3 Duty to provide information for the completion of catch documents on landing</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Gjeldende-J-meldinger/J-40-2014</prop>
+     <seg>&#167; 3 Plikt til &#229; gi opplysninger til utfylling av fangstdokument ved landing</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">4.78696</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2020/_/attachment/download/61915d22-e388-4f29-8ed8-ae4935c099ac:d847b3f07a5eb2a82369aea6af22c1854b87a2ef/190611.pdf.converted</prop>
+     <prop type="source-document">https://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2020/_/attachment/download/61915d22-e388-4f29-8ed8-ae4935c099ac:d847b3f07a5eb2a82369aea6af22c1854b87a2ef/190611.pdf.converted</prop>
+     <seg>Deployment of 2 ADCP&#8217;s and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Areal-og-miljo/Nyheter/2019/Fraraader-havvindanlegg-ved-Soeroeya/_/attachment/download/bfce48de-3a65-407a-85f9-5df90817e056:8960396156e1b8a24f9a6b2fb7f7d795b04d3dc3/hoyringssvar-havvind-november-2019.pdf.converted</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Areal-og-miljo/Nyheter/2019/Fraraader-havvindanlegg-ved-Soeroeya/_/attachment/download/bfce48de-3a65-407a-85f9-5df90817e056:8960396156e1b8a24f9a6b2fb7f7d795b04d3dc3/hoyringssvar-havvind-november-2019.pdf.converted</prop>
+     <seg>Vi viser til deres brev av 2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.59611</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>The Directorate of Fisheries may prohibit the use of Norwegian vessels in transhipment operations and the provision of supply and support services to and from other vessels that are subject to prohibitions pursuant to section 6, 7 or 8.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>Fiskeridirektoratet kan nedlegge forbud mot omlasting, forsynings- og st&#248;ttetjenester til og fra annet fart&#248;y med norsk fart&#248;y n&#229;r det er eller blir nedlagt forbud rettet mot f&#248;rstnevnte fart&#248;y i medhold av &#167;&#167; 6, 7 og 8.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.03604</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>The Directorate of Fisheries may lay down prohibitions such as are mentioned in sections 6 and 7 applying to vessels that are included on regional fisheries management organisations&#8217; lists of vessels that have taken part in illegal, unreported and unregulated fishing activities.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>Fiskeridirektoratet kan nedlegge forbud som nevnt i &#167;&#167; 6 og 7 for fart&#248;y som er oppf&#248;rt p&#229; regionale fiskeriforvaltningsorganisasjoners lister over fart&#248;y som tar del i illegale, urapporterte eller uregulerte fiskeaktiviteter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">5.03333</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-relating-to-catch-documentation-for-bluefin-tuna-Thunnus-thynnus-bigeye-tuna-Thunnus-obesus-and-swordfish-Xiphias-gladius-090320</prop>
+     <seg>Section 6 Prohibition against export without catch documents</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-64-2009</prop>
+     <seg>&#167; 6 Forbud mot eksport uten fangstdokument</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">5.39286</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>&#167; 10 Relationship with flag States</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>&#167; 10 Forholdet til fart&#248;yenes flaggstat</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.267</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/Fisheries/Statistics/Booklets/_/attachment/download/fe592038-204d-4a27-815a-3c1335534909:60f2bb3999406739caa4aedb02e3595a79f909a8/nokkeltall-2013.pdf.converted</prop>
+     <seg>The Register of Norwegian Fishermen encompasses participants in seawater fisheries, or hunting of marine mammals.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Dokumenter/Reguleringsmoetet2/Juni-2015/_/attachment/download/254b7321-1eea-48f5-826c-19d5d03f67ab:0beded1303a85331cd854630c20da442cb4249ec/sak-3-2015-redskapsfleksibilitet-makrell-vedlegg-2-rapport.pdf.converted</prop>
+     <seg>&#197;rets makrellsesong for sn&#248;re- og garngruppen har v&#230;rt utfordrende, og m&#248;nsteret og tilgjengelighet har endret seg siden i fjor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.1825</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Marine-litter/Retrieval-of-lost-fishing-gear/Lost-fishery-equipment-removed-from-the-seabed</prop>
+     <seg>Equally, in 2019 we also discovered a dead humpback whale, which had become caught in ropes attached to pot traps.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Areal-og-miljo/Nyheter/2020/100-tonn-fiskeredskap-fjernet-fra-havbunnen</prop>
+     <seg>I likhet med 2019, ble det ogs&#229; i &#229;r registrert en d&#248;d kn&#248;lhval som satt fast i tau til teiner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.99665</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-regulations-of-6-August-1993-no.-802-relating-to-prohibitions-against-landings-of-fish</prop>
+     <seg>&#167; 7 Prohibition against on- and offloading and the provision of port, supply and support services</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-100-2007</prop>
+     <seg>&#167; 7 Forbud mot lasting, lossing og havne-, forsynings- og st&#248;ttetjenester</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.37353</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/Coastal-management/Marine-scientific-research/Cruises-2021/_/attachment/download/3fc6b3ee-6553-4451-b009-bdc62c3e283c:df612d80b81590c50e2109571e3d9c6e81b882f0/19.01.21.pdf.converted</prop>
+     <seg>Determination of temperature and salinity in the area of investigation Narrative (Fig. 1)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.fiskeridir.no/Akvakultur/Nyheter/2020/1120/utsatt-frist-for-landbaserte-anlegg</prop>
+     <seg>Frist for registrering av r&#248;mmingsteknisk rapport for landbaserte akvakulturanlegg er utsatt til 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.21497</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Marine-litter/Retrieval-of-lost-fishing-gear/Lost-fishery-equipment-removed-from-the-seabed</prop>
+     <seg>A dead seal was also found in one of the pots.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fiskeridir.no/Areal-og-miljo/Nyheter/2020/100-tonn-fiskeredskap-fjernet-fra-havbunnen</prop>
+     <seg>I tillegg ble det funnet en d&#248;d sel i en teine.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

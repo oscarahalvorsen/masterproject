@@ -1,0 +1,331 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T192410" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.55769</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/contact-us</prop>
+     <seg>through ID-porten (using MinID, BankID etc).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/kontakt-oss</prop>
+     <seg>Du logger deg p&#229; via ID-porten (MinID, BankID med mer).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.51667</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/career-and-vacancies</prop>
+     <seg>Vocational rehabilitation experts participate in about 35 per cent of the cases.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Det deltar attf&#248;ringskyndig rettsmedlem i omtrent 35 prosent av sakene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.00946</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/about-procedure-national-insurance-court</prop>
+     <seg>An appeal can be submitted in writing and orally.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Anke kan fremsettes skriftlig og muntlig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.06022</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/about-procedure-national-insurance-court</prop>
+     <seg>The public authority or pension fund that made the decision provide further information about this.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Instansen som har fattet avgj&#248;relsen, kan gi n&#230;rmere informasjon om dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.02701</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/about-procedure-national-insurance-court</prop>
+     <seg>In these cases, the appeal will be handled by a panel consisting of a doctor and a rehabilitation expert, in addition to the legal member (the administrator).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>I slike saker vil retten best&#229; av et medisinsk og/eller et attf&#248;ringskyndig rettsmedlem, i tillegg til administrator.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.47692</prop>
+    <prop type="score-bicleaner">0.702</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://trygderetten.no/en/node/32</prop>
+     <seg>Google Analytics and Privacy</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://trygderetten.no/nb/node/32</prop>
+     <seg>Google Analytics og personvern</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.18235</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/frequently-asked-questions</prop>
+     <seg>If you choose to use a lawyer, you may incur expenses related to this (see below).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <seg>Velger du &#229; bruke advokat, kan du p&#229;dra deg utgifter knyttet til dette (se nedenfor).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">3.49206</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/frequently-asked-questions</prop>
+     <seg>Currently, the average case processing time is between 12 and 14 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <seg>For tiden ligger gjennomsnittlig saksbehandlingstid p&#229; mellom 12 og 14 m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.01667</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/career-and-vacancies</prop>
+     <seg>Medical expert member of the court</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Medisinsk kyndig rettsmedlem</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.04731</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/frequently-asked-questions</prop>
+     <seg>If you believe the National Insurance Court has made formal errors in the processing of your case, you can also complain free of charge to the Civil Ombudsman.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <seg>Dersom du mener forvaltningen har gjort formelle feil i behandlingen av saken din, kan du ogs&#229; klage kostnadsfritt til Sivilombudsmannen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.86538</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/how-do-i-make-appeal-national-insurance-court</prop>
+     <seg>Do you wish to appeal a decision from Kommunal landspensjonskasse (KLP)?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>Skal du anke et vedtak fra Kommunal landspensjonskasse (KLP)?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.42895</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/how-do-i-make-appeal-national-insurance-court</prop>
+     <seg>Do you wish to appeal a decision from NAV Klageinstans?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>Skal du anke et vedtak fra NAV Klageinstans?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.07584</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/about-procedure-national-insurance-court</prop>
+     <seg>Decisions adopted by NAV Klageinstans, Helseklage and a number of pension funds can be appealed to the National Insurance Court.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Vedtak gjort av NAV Klageinstans, Helseklage eller en pensjonsinnretning om offentlig tjenestepensjon kan ankes til Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.1209</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/how-do-i-make-appeal-national-insurance-court</prop>
+     <seg>NAV Klageinstans) or insurance fund that made the decision you disagree with.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>En anke til Trygderetten skal normalt inngis til instansen (for eksempel NAV Klageinstans) som fattet vedtaket du er uenig i.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.014</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/career-and-vacancies</prop>
+     <seg>Judicial member of the court</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Stillingstyper i Trygderetten</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.02091</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/career-and-vacancies</prop>
+     <seg>The position of a deputy court member is an apprentisship position and covers the requirements for work practice and procedure to receive a lawyer's licence.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Rettsfullmektigstillingen er en oppl&#230;ringsstilling og dekker kravet til arbeidspraksis og prosedyre for advokatbevilling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.17463</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/about-procedure-national-insurance-court</prop>
+     <seg>This could be a person who has been refused a benefit by NAV Klageinstans or SPK.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Dette kan for eksempel v&#230;re den som har f&#229;tt et avslag p&#229; en ytelse fra NAV eller SPK, og som ikke er enig i avslaget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.07049</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/frequently-asked-questions</prop>
+     <seg>Please note that sensitive information should not be sent by e-mail.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <seg>Vi gj&#248;r oppmerksom p&#229; at sensitive opplysninger ikke b&#248;r sendes per e-post.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.06623</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/contact-us</prop>
+     <seg>for more information regarding this.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/kontakt-oss</prop>
+     <seg>for mer informasjon om hvordan du best gj&#248;r dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.05611</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/about-procedure-national-insurance-court</prop>
+     <seg>The majority of cases in the National Insurance Court are decided by a panel of two.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Flertallet av sakene i Trygderetten settes med to rettsmedlemmer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">3.47983</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/career-and-vacancies</prop>
+     <seg>Medical experts participate in about 70 per cent of the cases.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/jobb-i-trygderetten</prop>
+     <seg>Det deltar medisinsk kyndig rettsmedlem i omtrent 70 prosent av sakene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.2519</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/about-procedure-national-insurance-court</prop>
+     <seg>Decisions from public occupational pensions by the Government Pension Fund (SPK) and the Municipal National Pension Fund (KLP) can also be appealed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/om-ankeprosessen</prop>
+     <seg>Anke p&#229; vedtak om offentlig tjenestepensjon leveres til Statens pensjonskasse (SPK), Kommunal landspensjonskasse (KLP) eller en kommunal pensjonskasse, som deretter sender anken videre til Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.00385</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/frequently-asked-questions</prop>
+     <seg>Such a request is addressed to the public authority or insurance fund that made the decision you appealed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/frequently-asked-questions</prop>
+     <seg>En slik begj&#230;ring rettes til instansen som fattet vedtaket du brakte inn for Trygderetten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.47818</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://trygderetten.no/en/how-do-i-make-appeal-national-insurance-court</prop>
+     <seg>You have received a decision from NAV Klageinstans, Helseklage, Statens pensjonskasse or another pension fund that you do not agree with.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://trygderetten.no/nb/hvordan-anker-jeg-min-sak-til-trygderetten</prop>
+     <seg>Du har f&#229;tt et vedtak fra NAV Klageinstans, Helseklage, Statens pensjonskasse eller en annen pensjonskasse som du ikke er enig i.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.17907</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://trygderetten.no/en/node/32</prop>
+     <seg>For more information, please see the links below:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://trygderetten.no/nb/node/32</prop>
+     <seg>For mer informasjon, vennligst se lenkene nedenfor:</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

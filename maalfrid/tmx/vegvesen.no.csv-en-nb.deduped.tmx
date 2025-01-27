@@ -1,0 +1,2246 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T012922" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.06297</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/tachograph-inspections/</prop>
+     <seg>The Norwegian Public Roads Administration has developed an inspection system, which has improved the efficiency of all inspection activities along the roads.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/kontroll/</prop>
+     <seg>Statens vegvesen har utviklet et kontrollsystem, som har effektivisert all kontrollvirksomhet ute i trafikken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.15872</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/international-activities/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/international-activities/</prop>
+     <seg>National priority areas within research and development (R&amp;D) are to be improved through participation in international R&amp;D-fora.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/om-oss/om-organisasjonen/internasjonalt-arbeid/?lang=nn</prop>
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/internasjonalt-arbeid/?lang=nb</prop>
+     <seg>Nasjonale satsingsomr&#229;der innen forskning og utvikling (FoU) skal styrkes gjennom deltakelse i internasjonale FoU-fora.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.31429</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>When you watch a web page where we have embedded a YouTube video, YouTube (a Google service) may store cookies on your device.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>N&#229;r du ser p&#229; en nettside hvor vi har bygget inn en YouTube-video, kan YouTube (en Google-tjeneste) lagre informasjonskapsler p&#229; enheten din.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.34945</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/from-vision-to-reality-e39-alesund-molde.pdf.converted</prop>
+     <seg>Presentation title can be changed in "Headers and footers" in the menu below the "Insert" tab</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/fra-visjon-til-realitet-e39-alesund-molde.pdf.converted</prop>
+     <seg>Presentasjonstittel endres i "Topptekst og bunntekst" i menyen under "Sett inn"-fanen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.28065</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>The other side must be neutral grey.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Den andre siden skal v&#230;re n&#248;ytral gr&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.12058</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>It can for example be distinguished between classroom education and project work, or more prominently, between deductive and inductive approach to education and learning.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Vi kan f eks skille mellom klasseromsundervisning og prosjektarbeid, eller mer overordnet mellom en deduktiv og induktiv tiln&#230;rming til undervisning og l&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.0894</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>The reflective strip must emit white light.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Refleksb&#229;ndet skal avgi hvitt lys.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.10104</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2017-4-changes-to-the-requirements-for-general-roadwork-safety-plans.pdf.converted</prop>
+     <seg>The sign authority must justify a shorter validity period based on the differences in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2017-4-endring-av-krav-til-generelle-arbeidsvarslingsplaner.pdf.converted</prop>
+     <seg>Skiltmyndigheten skal begrunne en eventuell kortere gyldighetsperiode ut fra</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.36714</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>Evaluation can be done intermittently (formatively) or at the end (summatively).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Vurdering kan gj&#248;res underveis (formativt) eller avslutningsvis (summativt).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.09209</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/</prop>
+     <seg>Lanes with this sign may be used by the following vehicles:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/?lang=nb</prop>
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/</prop>
+     <seg>I felt med dette skiltet kan f&#248;lgende kj&#248;ret&#248;y kj&#248;re:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.4617</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/horinger/2017/17-95865-1-forslag-til-endringer-i-forerkortforskriften-20170915/2016-1945-eu.pdf.converted</prop>
+     <seg>This right remains until the driving licence expires.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/horinger/2015/2015012037-001-n302-frist-20150401/notat-siktkrav-i-handbok-n302-gml049-2013-04-10.pdf.converted</prop>
+     <seg>Det aktive kj&#248;ret&#248;yet er p&#229; h&#248;yde med det passive kj&#248;ret&#248;yet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.04866</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2017-4-changes-to-the-requirements-for-general-roadwork-safety-plans.pdf.converted</prop>
+     <seg>These plans can also be offered to contractors involved in short-term work that occurs regularly, such as vehicle rescue, clearing up after accidents involving wildlife, electrical operations, electricity or fibre breaks and the like.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2017-4-endring-av-krav-til-generelle-arbeidsvarslingsplaner.pdf.converted</prop>
+     <seg>Generelle arbeidsvarslingsplaner skal ogs&#229; kunne tilbys entrepren&#248;rer med arbeider som opptrer regelmessig, slik som bilberging, opprydding etter viltulykker, elektrodrift, str&#248;m- eller fiberbrudd, og liknende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.23906</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/nn/vegprosjekt/europaveg/e16banearnastanghelle/in-english/market-dialogue/</prop>
+     <seg>Invitation to dialogue meetings about the joint rail and road project Arna-Stanghelle</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/vegprosjekter/europaveg/e16banearnastanghelle/markedsdialog/</prop>
+     <seg>Invitasjon til marknadsdialog for fellesprosjektet Arna-Stanghelle</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.42051</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>The task must contain a problem the learner driver shall work through.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Oppgaven skal inneholde et problem som eleven skal finne ut av.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.14398</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>We use a number of web analysis tools, which can store cookies on your device when you use vegvesen.no.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Vi bruker flere webanalyseverkt&#248;y, som kan lagre informasjonskapsler p&#229; enheten din n&#229;r du bruker vegvesen.no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.14048</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>High visibility trousers must also be worn.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Det skal ogs&#229; benyttes synlighetsbukse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.11447</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>The instructors&#8217;/examiners&#8217; competence also provides a framework for the activity together with natural conditions (light/darkness, driving conditions).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>L&#230;rernes/sensorenes kompetanse vil ogs&#229; gi rammer for aktiviteten, sammen med naturgitte betingelser (lys/m&#248;rke, f&#248;reforhold).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.015</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/driving-time-and-rest-periods/24-hour-rest-stop-areas/</prop>
+     <seg>All rest stops have showers, toilet facilities and well-lit parking areas.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/kjoretoy/yrkestransport/kjore-og-hviletid/hvileplasser/</prop>
+     <seg>Alle plassene har dusj, toalett og belysning p&#229; parkeringsarealene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.2</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>Facebook&#8217;s privacy policy</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Retningslinjer for data (Facebook)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.34665</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2017-4-changes-to-the-requirements-for-general-roadwork-safety-plans.pdf.converted</prop>
+     <seg>Logbooks must be submitted to the sign authority every three months as a minimum.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2017-4-endring-av-krav-til-generelle-arbeidsvarslingsplaner.pdf.converted</prop>
+     <seg>Loggb&#248;ker skal innsendes skiltmyndighet minimum hver tredje m&#229;ned.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.045</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/digital-tachographs/</prop>
+     <seg>The tachograph head and the motion sensor communicate with each other.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/digital-fartsskriver/</prop>
+     <seg>Fartsskriveren og bevegelsessensoren kommuniserer med hverandre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">3.23855</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/from-vision-to-reality-e39-alesund-molde.pdf.converted</prop>
+     <seg>Re-zoned junction Vik and junction Julb&#248;en 2020/2021 for adaptation to new alignment /incremental construction</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/fra-visjon-til-realitet-e39-alesund-molde.pdf.converted</prop>
+     <seg>Omregulert kryss Vik og kryss Julb&#248;en 2020/2021 for tilpasning videre linje/ trinvis utbygging</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.26038</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>The information is subject to Hotjar's privacy policy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Opplysningene er underlagt Hotjars retningslinjer for personvern.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.92388</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>Signalling boards must have a total length of 40 cm, while the diameter of the sign disc must be 20 cm.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Stoppspak skal ha en total lengde p&#229; 40 cm, og en diameter p&#229; skiltdelen p&#229; 20 cm.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.28469</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://transportportal.atlas.vegvesen.no/en/write/add-data/</prop>
+     <seg>The National Data Catalogue uses the metadata standard DCAT-AP-NO, which is compatible with the European standard</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://transportportal.atlas.vegvesen.no/no/write/add-data/</prop>
+     <seg>Felles datakatalog bruker metadatastandarden DCAT-AP-NO, som er kompatibel med den europeiske standarden</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.07823</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>What the learner driver shall practice on and where, is established by fixed detailed objectives related to the different parts of the training.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Det er da fastsatt detaljerte m&#229;l for hva elevene skal &#248;ve p&#229; og hvor de skal &#248;ve, ogs&#229; underveis i oppl&#230;ringen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.12185</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/tachograph-inspections/</prop>
+     <seg>What company the driver has been driving for</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/kontroll/</prop>
+     <seg>Hvilken bedrift sj&#229;f&#248;ren har kj&#248;rt for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.25636</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>Questback is data processor and the NPRA is the data controller.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Questback er databehandler og Statens vegvesen behandlingsansvarlig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.21463</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/digital-tachographs/</prop>
+     <seg>The tachograph card is personal, it stores and transfers data from the tachograph.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/digital-fartsskriver/</prop>
+     <seg>Fartsskriverkortet er personlig, det lagrer og overf&#248;rer data fra fartsskriveren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.04062</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://ontologi.atlas.vegvesen.no/bridge/v440/core/doc/v440-owl-doc/v440_Ror_i_fylling_glattvegget_andre.html</prop>
+     <seg>Pipe in filling, smooth walled, other</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://ontologi.atlas.vegvesen.no/bridge/v440/core/doc/handbok/doc/pics/Hb-V440-148.html</prop>
+     <seg>Hvelv i fylling, glattvegget, andre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.09357</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>In the new curricula /the new regulations, the objectives are formulated for each step in the driver training.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>I de nye l&#230;replanene / den nye forskriften formuleres det m&#229;l for hvert trinn i f&#248;reroppl&#230;ringen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.1449</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>Some pages at vegvesen.no contain elements and contents from Facebook, for example from one of our Facebook pages.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Noen sider p&#229; vegvesen.no inneholder elementer og innhold fra Facebook, for eksempel fra en av v&#229;re Facebook-sider.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">4.27209</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/tachograph-inspections/</prop>
+     <seg>Manually entered data, pursuant to 1360/2002/EC</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/kontroll/</prop>
+     <seg>Manuelt registrerte data, i henhold til 1360/2002/EF</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.17051</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v851-english.pdf.converted</prop>
+     <seg>Sufficient practice must be added by means of driving lessons with a driving school, driving</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v271.pdf.converted</prop>
+     <seg>oversikten over hvilke masser som er lagret hvor, og hvor mye det er av ulike typer masser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.1875</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>The purpose of evaluation is to ensure that the formal curricula objectives are attained.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Form&#229;let med vurdering er &#229; sikre at m&#229;lene i den formelle l&#230;replanen er n&#229;dd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">5.38831</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/kontakt-oss/give-us-a-call/?lang=en</prop>
+     <seg>2 for other enquiries about driving licences</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/kontakt-oss/ring-oss/?lang=nb</prop>
+     <seg>2 for andre henvendelser om f&#248;rerkort</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.09222</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>In order to be able to learn how you use our web pages, we use tools for the analysis and measuring of search patterns and user behaviour.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>For &#229; kunne l&#230;re hvordan du bruker nettsidene, benytter vi verkt&#248;y til analyse og m&#229;ling av bruksm&#248;nstre og brukeratferd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">5.69714</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/</prop>
+     <seg>Traffic sign 511 End of high-occupancy vehicle lane</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/?lang=nb</prop>
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/</prop>
+     <seg>Trafikkskilt 511 Slutt p&#229; sambruksfelt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">6.66346</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/driving-time-and-rest-periods/24-hour-rest-stop-areas/</prop>
+     <seg>15 Stad, Vestland, 10 capacity</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/kjoretoy/yrkestransport/kjore-og-hviletid/hvileplasser/</prop>
+     <seg>15 Stad, Vestland, 10 plasser</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.6764</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/international-activities/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/international-activities/</prop>
+     <seg>The Barents Euro-Arctic Pan-European Transport Area (BEATA) focuses on transport cooperation in the Barents region and the NPRA assists the Ministry of Transport and Communications in protecting Norwegian interests.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/om-oss/om-organisasjonen/internasjonalt-arbeid/?lang=nn</prop>
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/internasjonalt-arbeid/?lang=nb</prop>
+     <seg>Barents Euro-Arctic Pan-European Transport Area (BEATA) skal ivareta transportsamarbeidet i Barentsregionen, og Statens vegvesen bist&#229;r Samferdselsdepartementet med &#229; ivareta norske interesser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.04155</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2017-4-changes-to-the-requirements-for-general-roadwork-safety-plans.pdf.converted</prop>
+     <seg>If the work that is to be carried out using a general roadwork safety plan comes into</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2017-4-endring-av-krav-til-generelle-arbeidsvarslingsplaner.pdf.converted</prop>
+     <seg>Dersom arbeidet som skal utf&#248;res under en generell arbeidsvarslingsplanen kommer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">5.0879</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/kontakt-oss/give-us-a-call/?lang=en</prop>
+     <seg>1 to book a session for a practical driving test</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/kontakt-oss/ring-oss/?lang=nb</prop>
+     <seg>1 for &#229; bestille time for f&#248;rerpr&#248;ve</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.04063</prop>
+    <prop type="score-bicleaner">0.706</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>Information cookies at vegvesen.no</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Informasjonskapsler p&#229; vegvesen.no</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">3.02171</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>The freedom learner drivers have had after 1995 to choose category B training scope and progression,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Den friheten elevene etter 1995 har til &#229; velge omfang og forl&#248;p av oppl&#230;ringen for klasse B, kan synes &#229; ha hatt noen uheldige konsekvenser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">6.28125</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>Figure 9 Didactic relationship model.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Figur 9 Didaktisk relasjonsmodell.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.917</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/</prop>
+     <seg>minibuses (up to 16 people) carrying at least seven passengers in addition to the driver</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/?lang=nb</prop>
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/</prop>
+     <seg>minibusser (inntil 16 personer) som frakter minst sju passasjerer i tillegg til sj&#229;f&#248;ren</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.10514</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/digital-tachographs/</prop>
+     <seg>The motion sensor is installed on the gearbox and records driving time and rest periods as well as speed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/digital-fartsskriver/</prop>
+     <seg>Bevegelsessensoren er montert p&#229; girkassen og registrerer kj&#248;re- og hviletid og fart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.18886</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>When a training course planning process requires a choice between mandatory training or summative evaluation as a steering factor, it is important to be aware of the fact that different goals are best quality assured by various means.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Hvis man ved planlegging av et oppl&#230;ringsforl&#248;p skal velge mellom obligatorisk oppl&#230;ring eller summativ vurdering som styringsfaktorer, er det viktig &#229; v&#230;re klar over at ulike m&#229;l kvalitetssikres best ved hjelp av ulike virkemidler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.49594</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/international-activities/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/international-activities/</prop>
+     <seg>EU related work is also carried out through participation in the United Nations Economic Commission for Europe (UNECE) and the European Committee for Standardization (CEN).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/om-oss/om-organisasjonen/internasjonalt-arbeid/?lang=nn</prop>
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/internasjonalt-arbeid/?lang=nb</prop>
+     <seg>EU-relatert arbeid skjer ogs&#229; gjennom deltakelse i FNs &#248;konomiske kommisjon for Europa (UNECE) og i den europeiske standardiseringsorganisasjonen (CEN).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.92642</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>Such &#8221;partial tests&#8221; have not, however, been included in the driver training that will be introduced in 2005.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Slike &#8221;del-eksamener&#8221; er imidlertid ikke innf&#248;rt i f&#248;reroppl&#230;ringen som innf&#248;res fra 2005.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.18889</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://ontologi.atlas.vegvesen.no/bridge/v440/core/doc/v440-owl-doc/v440_Overflatebehandling_Stal_System_3_Varmspr_aluminium_epoxy_polyuretan.html</prop>
+     <seg>aluminium + epoxy/polyuretan</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://ontologi.atlas.vegvesen.no/bridge/v440/core/doc/v440-owl-doc/v440_Overflatebehandling_Stal_System_1_Varmspr_aluminium_etsprimer_spesifikasjon_nr_115-118.html</prop>
+     <seg>aluminium + etsprimer + spesifikasjon nr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.228</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>Questback&#8217;s privacy policy</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Data privacy (engelsk, Questback)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">4.3</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/driving-time-and-rest-periods/24-hour-rest-stop-areas/</prop>
+     <seg>The list was last updated in October 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/kjoretoy/yrkestransport/kjore-og-hviletid/hvileplasser/</prop>
+     <seg>Listen ble sist oppdatert i oktober 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.07538</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/contracting-strategy-e39-alesund-molde-.pdf.converted</prop>
+     <seg>Two different alternatives for dividing the project have been prepared, as well as a third option without Kjerringsundet.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/kontraktstrategi-e39-alesund-molde-.pdf.converted</prop>
+     <seg>Det er utarbeidet to ulike alternativ for inndeling, samt et tredje uten utbygging av Kjerringsundet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.25385</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>Hotjar is data processor and the NPRA is the data controller.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Hotjar er databehandler og Statens vegvesen behandlingsansvarlig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.19464</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>A plastic pocket 6x9 cm in size for an ID card is permitted on the left sleeve.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Det tillates en plastlomme p&#229; 6x9 cm p&#229; venstre arm til ID-kort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.85172</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/</prop>
+     <seg>Cyclists, mopeds and other vehicles that cannot legally drive at more than 40 kilometres per hour do not have access to motorways or motor vehicle roads.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/?lang=nb</prop>
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/</prop>
+     <seg>Syklister, mopeder og andre kj&#248;ret&#248;y som ikke kan kj&#248;res lovlig i mer enn 40 kilometer i timen, f&#229;r ikke oppholde seg p&#229; motorvei eller motortrafikkvei.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.75263</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/</prop>
+     <seg>Traffic sign 508.1 Public transport lane for buses</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/?lang=nb</prop>
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/</prop>
+     <seg>Trafikkskilt 508.1 Kollektivfelt for buss</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.2</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>It is well known that educational methods have evolved and that today&#8217;s youth are used to acquiring knowledge differently from what was done 20 years ago.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Vi vet blant annet at metodebruken i skoleverket har utviklet seg, og at dagens ungdom er vant til en annen m&#229;te &#229; tilegne seg kunnskap p&#229; enn for 20 &#229;r siden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.00618</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>In the evaluation of theoretical knowledge, this wish is to a large extent achieved through standardized theory tests.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>I vurderingen av teorikunnskap er dette &#248;nsket i h&#248;y grad oppn&#229;dd gjennom standardiserte teoripr&#248;ver.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.20096</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>In addition, it can be differentiated between objective and subjective evaluation depending on what shall be evaluated, which criteria are available to evaluate against and which evaluation form is used.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Vi kan i tillegg differensiere mellom objektiv og subjektiv vurdering avhengig av hva vi skal vurdere, hvilke kriterier vi har &#229; vurdere opp mot og hvilken vurderingsform vi anvender.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.07917</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://transportportal.atlas.vegvesen.no/en/gen/roles/</prop>
+     <seg>NPRA has also the responsibility for support and other issues related to the portal.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://transportportal.atlas.vegvesen.no/no/gen/roles/</prop>
+     <seg>Statens vegvesen har dessuten ansvar for support og andre sp&#248;rsm&#229;l knyttet til portalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.78378</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/about-vegvesen.no/about-your-page/your-profile/?lang=en</prop>
+     <seg>Update your contact information (Norge.no)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/om-vegvesenno/om-din-side/din-profil/?lang=nb</prop>
+     <seg>Oppdater kontaktinformasjon (Norge.no)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">3.51316</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/using-a-non-eueea-driving-licence-in-norway/</prop>
+     <seg>on Road Traffic of 1968, and issued pursuant to this driving licence model.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/forarkort/har-forarkort/forerkort-i-og-utenfor-norge/bruk-av-forerkort-fra-land-utenfor-eu-eos-i-norge/</prop>
+     <seg>om veitrafikk av 1968, og utstedt etter denne f&#248;rerkortmodellen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.0951</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/using-a-non-eueea-driving-licence-in-norway/</prop>
+     <seg>Norway is bound by two international agreements on road traffic.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/forarkort/har-forarkort/forerkort-i-og-utenfor-norge/bruk-av-forerkort-fra-land-utenfor-eu-eos-i-norge/</prop>
+     <seg>Norge er bundet av to internasjonale avtaler om veitrafikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">3.4875</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/car-lights/?lang=en</prop>
+     <seg>The exception is cornering at low speed (10-20 km/h).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/bilens-lys/?lang=nb</prop>
+     <seg>Unntaket er kurvekj&#248;ring i lav hastighet (10&#8211;20 km/t).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.26038</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>The information is subject to Google's privacy policy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Opplysningene er underlagt Googles retningslinjer for personvern.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">2.06121</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/</prop>
+     <seg>If the public transport lane is on a motorway or motor vehicle road, the vehicle must have a speed capacity of at least 40 kilometres per hour to use this lane.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/?lang=nb</prop>
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/</prop>
+     <seg>Hvis kollektivfeltet er p&#229; en motorvei eller motortrafikkvei, m&#229; kj&#248;ret&#248;yet kunne kj&#248;re i minst 40 kilometer i timen for &#229; bruke feltet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.046</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>This creates a need to ensure that the objectives are met at each step.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Det skaper behov for &#229; sikre at m&#229;lene er n&#229;dd i hvert trinn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.10884</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-r310e.pdf.converted</prop>
+     <seg>All control measurements shall be carried out in accordance with the current regulations and descriptions of methodology.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v621.pdf.converted</prop>
+     <seg>Rekkverkene er ikke konstruert med tanke p&#229;motorsykler, og de ivaretar i liten grad motorsyklistenes sikkerhet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">3.28696</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>The sign part must meet requirements for a class 3 red reflective film on one side.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Skiltdelen skal p&#229; den ene siden tilfredsstille krav til r&#248;d refleksfolie klasse 3.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.09081</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>Combination of garments: It is possible to combine garments with a lower visibility class in order to achieve class 3 visibility.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Kombinasjon av plagg: Det er mulig &#229; kombinere plagg med en lavere synlighetsklasse for &#229; oppn&#229; synlighetsklasse 3.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.17245</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>Attempts should initially be made to obtain best possible agreement in the formulation of the objectives for all categories.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>I utgangspunktet b&#248;r man s&#248;ke &#229; f&#229; st&#248;rst mulig overensstemmelse i selve formuleringen av m&#229;lene for alle klasser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.19478</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>(This will often be appropriate on shorter sections as well.)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>(Dette vil ofte v&#230;re hensiktsmessig ogs&#229; p&#229; kortere strekninger).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.48</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>It must be simple to switch off and on.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Den skal enkelt kunne sl&#229;s av og p&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.04483</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/kontakt-oss/give-us-a-call/?lang=en</prop>
+     <seg>You received the reference number when you booked your appointment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/kontakt-oss/ring-oss/?lang=nb</prop>
+     <seg>For &#229; avbestille eller endre en time m&#229; du oppgi et referansenummer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">2.70571</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>On our web pages we carry out surveys using the Questback tool 2-4 times per year.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Via nettsidene gjennomf&#248;rer vi sp&#248;rreunders&#248;kelser ved hjelp av verkt&#248;yet Questback 2 til 4 ganger i &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.02381</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>The signalling board is held in the right hand and raised with the red side facing the traffic.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Stoppspaken holdes i h&#248;yre h&#229;nd og heves med den r&#248;de siden mot trafikken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.27727</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>The driving test is therefore not sufficient to quality assure the training.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>F&#248;rerpr&#248;ven er derfor ikke tilstrekkelig n&#229;r en vil kvalitetssikre oppl&#230;ringen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.06665</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/international-activities/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/international-activities/</prop>
+     <seg>Participation in European R&amp;D fora also gives us access to R&amp;D communities and findings in the USA.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/om-oss/om-organisasjonen/internasjonalt-arbeid/?lang=nn</prop>
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/internasjonalt-arbeid/?lang=nb</prop>
+     <seg>Deltakelse i europeiske FoU-fora gir samtidig tilgang til forskning og utviklingsmilj&#248;er og -resultater i USA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">2.03032</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/digital-tachographs/</prop>
+     <seg>The internal clock in the tachograph head uses Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/digital-fartsskriver/</prop>
+     <seg>Skriverenhetens interne klokke bruker Coordinated Universal Time (UTC) eller Greenwich Mean Time (GMT).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.14667</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>This is reflected in the content of future training.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Dette gjenspeiles i innholdet i den fremtidige oppl&#230;ringen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">2.01774</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2017-4-changes-to-the-requirements-for-general-roadwork-safety-plans.pdf.converted</prop>
+     <seg>General roadwork safety plans are not to be used for "long-term work" (with the exception of the general roadwork safety plan used as a basis in contingency plans, refer to Manual R611 "Traffic contingencies" (2015)).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2017-4-endring-av-krav-til-generelle-arbeidsvarslingsplaner.pdf.converted</prop>
+     <seg>Generelle arbeidsvarslingsplaner skal ikke benyttes ved &#171;fast arbeid&#187; (med unntak av de generelle arbeidsvarslingsplaner som legges til grunn i beredskapsplaner, jamf&#248;r H&#229;ndbok R611 &#171;Trafikkberedskap&#187; (2015)).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.62197</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/tachograph-inspections/</prop>
+     <seg>Start and end location (country) for each drive</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/kontroll/</prop>
+     <seg>Sted (land) for start og stopp for hver tur</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.09351</prop>
+    <prop type="score-bicleaner">0.694</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/digital-tachographs/</prop>
+     <seg>Data stored in the digital tachograph</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/digital-fartsskriver/</prop>
+     <seg>Data som lagres i den digitale fartsskriveren</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">5.35576</prop>
+    <prop type="score-bicleaner">0.696</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/kontakt-oss/give-us-a-call/?lang=en</prop>
+     <seg>3 for technical questions regarding vehicles</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/kontakt-oss/ring-oss/?lang=nb</prop>
+     <seg>3 for tekniske sp&#248;rsm&#229;l om kj&#248;ret&#248;y</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.12381</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/using-a-non-eueea-driving-licence-in-norway/</prop>
+     <seg>Do you need an international driving licence?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/forarkort/har-forarkort/forerkort-i-og-utenfor-norge/bruk-av-forerkort-fra-land-utenfor-eu-eos-i-norge/</prop>
+     <seg>Trenger du et internasjonalt f&#248;rerkort?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">2.92095</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/</prop>
+     <seg>minibuses (up to 16 people) carrying at least seven passengers in addition to the driver</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/?lang=nb</prop>
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/</prop>
+     <seg>minibusser (inntil 16 personer) som frakter minst sju personer i tillegg til sj&#229;f&#248;ren</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">2.52813</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/tachograph-inspections/</prop>
+     <seg>The tachograph in the vehicle will register the vehicle's activity in the last 365 days within the following areas:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/kontroll/</prop>
+     <seg>Fartsskriveren i kj&#248;ret&#248;yet vil registrere kj&#248;ret&#248;yets aktivitet de siste 365 dagene innen f&#248;lgende omr&#229;der:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.03193</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/digital-tachographs/</prop>
+     <seg>The tachograph head has a display with control buttons, two slots for tachograph cards, and a small printer for printing data on driving time and rest periods from either the tachograph head or the driver card.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/digital-fartsskriver/</prop>
+     <seg>Skriverenheten har et display med betjeningsknapper, to plasser for fartsskriverkort og en liten skriver for utskrift av kj&#248;re- og hviletidsdata fra enten skriverenheten eller sj&#229;f&#248;rkortet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.27123</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>Such summative evaluation shall in theory assure the quality of the candidate&#8217;s competence.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>En slik summativ vurdering skal i teorien kvalitetssikre kandidatenes kompetanse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">2.13632</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>We also use the tool Google Tag Manager together with Google Analytics.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Vi bruker ogs&#229; verkt&#248;yet Google Tag Manager sammen med Google Analytics.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">5.7</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/kontakt-oss/give-us-a-call/?lang=en</prop>
+     <seg>Press 2 for questions relating to driving licences</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/kontakt-oss/ring-oss/?lang=nb</prop>
+     <seg>Tast 2 for sp&#248;rsm&#229;l om f&#248;rerkort</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">3.88868</prop>
+    <prop type="score-bicleaner">0.690</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/kontakt-oss/give-us-a-call/?lang=en</prop>
+     <seg>1 for information about registration and ownership of vehicles</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/kontakt-oss/ring-oss/?lang=nb</prop>
+     <seg>1 for informasjon om registrering og eierforhold p&#229; kj&#248;ret&#248;y</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.27632</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/</prop>
+     <seg>Traffic sign 510.2 End of public transport lane</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/?lang=nb</prop>
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/</prop>
+     <seg>Trafikkskilt 510.2 Slutt p&#229; kollektivfelt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">2.86364</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/tachograph-inspections/</prop>
+     <seg>The driver card will store data about the following issues for at least the last 28 days:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/kontroll/</prop>
+     <seg>Sj&#229;f&#248;rkortet vil lagre data om f&#248;lgende hendelser i minst de siste 28 dagene:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">2.35265</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/permits/ecmt-permits/?lang=en</prop>
+     <seg>Albania, Armenia, Azerbaijan, Belarus, Bosnia-Herzegovina, Bulgaria, Croatia, Georgia, Germany, Macedonia, Moldova, Montenegro, Romania, Russia, Serbia, Switzerland, Turkey, Ukraine.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/transportloyver-og-tillatelser/cemt-tillatelser/?lang=nn</prop>
+     <seg>Albania, Armenia, Aserbajdsjan, Bosnia-Herzegovina, Georgia, Hviterussland, Kroatia, Makedonia, Moldova, Montenegro, Russland, Serbia, Sveits, Tyrkia og Ukraina.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.16235</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>When the traffic is to be stopped, the person must stand facing the traffic to be stopped.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>N&#229;r trafikken skal stoppes skal personen stille seg med front mot trafikken som skal stoppes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.38587</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/</prop>
+     <seg>Traffic sign 508.2 Public transport lane for buses and taxis</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/?lang=nb</prop>
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/</prop>
+     <seg>Trafikkskilt 508.2 Kollektivfelt for buss og drosje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.04417</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>Besides evaluation, a curriculum developer can also use mandatory training to ensure that training goals are attained.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Ved siden av vurdering kan en l&#230;replanutvikler ogs&#229; bruke obligatorisk oppl&#230;ring for &#229; sikre at oppl&#230;ringsm&#229;lene er n&#229;dd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">1.43139</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/from-vision-to-reality-e39-alesund-molde.pdf.converted</prop>
+     <seg>Presentation title can be changed in "Headers and footers" in the menu below the "Insert" tabJulb&#248;en - Molde, municipal sub-plan adopted 17 June</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/fra-visjon-til-realitet-e39-alesund-molde.pdf.converted</prop>
+     <seg>Presentasjonstittel endres i "Topptekst og bunntekst" i menyen under "Sett inn"-fanenJulb&#248;en - Molde, KDP vedtatt 17.juni</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">2.15091</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>NS-EN 471:2003+A1:2007 "High-visibility warning clothing for professional use" has been withdrawn and replaced by NS-EN ISO 20471:2013 "High visibility clothing &#8211; Test methods and requirements".</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>NS-EN 471:2003+A1:2007 &#171;Vernet&#248;y - Meget godt synlig vernet&#248;y til yrkesbruk&#187; er tilbaketrukket og er erstattet av NS-EN ISO 20471:2013 &#171;Sv&#230;rt synlig vernet&#248;y - Pr&#248;vingsmetoder og krav&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.19524</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>, product evaluation, takes place towards the end of the training process.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>, produktvurdering, finner sted avslutningsvis i oppl&#230;ringsforl&#248;pet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">1.02297</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/digital-tachographs/</prop>
+     <seg>The purpose of a digital tachograph is to ensure that the rules for driving time and rest periods are followed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/digital-fartsskriver/</prop>
+     <seg>Hensikten med digital fartsskriver er sikre at reglene for kj&#248;re- og hviletid f&#248;lges.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.01116</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/digital-tachographs/</prop>
+     <seg>Attempts to tamper with cables, or install other equipment between them, are recorded and stored in the head unit.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/digital-fartsskriver/</prop>
+     <seg>Fors&#248;k p&#229;&#229; tukle med kabler, eller montere annet utstyr mellom dem, blir registrert og lagret i skriverenheten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">1.29143</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/contracting-strategy-e39-alesund-molde-.pdf.converted</prop>
+     <seg>&#9679; Internal process for contracting strategy for the project carried out in the NPRA.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/kontraktstrategi-e39-alesund-molde-.pdf.converted</prop>
+     <seg>&#9679; Gjennomf&#248;rt intern prosess for kontraktstrategi for prosjektet i vegvesenet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.14879</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>It is therefore emphasized that it is the instructor&#8217;s knowledge about each individual learner driver that shall provide direction for choice of method.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Vi &#248;nsker derfor &#229; legge vekt p&#229; at det er trafikkl&#230;rerens kjennskap til den enkelte elev som skal gi retning i valg av metode.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.61989</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2017-4-changes-to-the-requirements-for-general-roadwork-safety-plans.pdf.converted</prop>
+     <seg>A risk assessment must be completed, refer to section 2.2.2.1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2017-4-endring-av-krav-til-generelle-arbeidsvarslingsplaner.pdf.converted</prop>
+     <seg>Det skal utf&#248;res en risikovurdering, jamf&#248;r 2.2.2.1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">1.96679</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>There must be a 50 mm wide reflective strip on the bottom part of the sleeve, a 50 mm wide reflective strip around the waist, and a 50 mm wide reflective strip which passes over both shoulders and down to the waist.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Det skal v&#230;re et 50 mm refleksb&#229;nd p&#229; nederste del av ermet, et 50 mm refleksb&#229;nd rundt midjen, samt et 50 mm refleksb&#229;nd som g&#229;r over begge skuldre og ned til midjen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.38214</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>The content is largely based on the GADGET matrix (see previous chapter).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Innholdet i den er i stor grad basert p&#229; GADGET-modellen (se tidligere kapittel).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.08462</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/norwegian-driving-licences-abroad/</prop>
+     <seg>It is a grey book with white pages in A6 format.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/forarkort/har-forarkort/forerkort-i-og-utenfor-norge/norske-forerkort-i-utlandet/</prop>
+     <seg>Det er et papirhefte i A6-format med gr&#229;tt omslag og hvite sider.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.41582</prop>
+    <prop type="score-bicleaner">0.704</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>It can be distinguished between mandatory attendance and mandatory objectives attainment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Vi kan gj&#248;re et skille mellom obligatorisk oppm&#248;te og obligatorisk m&#229;loppn&#229;else.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">6.26571</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/contracting-strategy-e39-alesund-molde-.pdf.converted</prop>
+     <seg>The working group recommends Alternative 1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/kontraktstrategi-e39-alesund-molde-.pdf.converted</prop>
+     <seg>Arbeidsgruppa anbefaler alternativ 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">2.37984</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/digital-tachographs/</prop>
+     <seg>It stores all data, such as on driving, resting, other work, inspections and repair work, for about 12 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/digital-fartsskriver/</prop>
+     <seg>Den lagrer alle data om blant annet kj&#248;ring, hvil, annet arbeid, utf&#248;rte kontroller og verkstedsarbeid i omtrent 12 m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">1.39756</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>It is what the student can after completed training that counts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Dette taler for bruk av hovedm&#229;l i oppl&#230;ringen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.04318</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/car-lights/?lang=en</prop>
+     <seg>You may not use fog lamps in combination with dipped headlights.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/bilens-lys/?lang=nb</prop>
+     <seg>Du kan ikke bruke t&#229;kelys i kombinasjon med n&#230;rlys.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1.38214</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/driving-licences/driver-training/theory-test/theory-tests-in-the-different-categories/</prop>
+     <seg>The theory test for the moped and snowmobile categories</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/forarkort/ta-forarkort/teoriprove/teoriproven-i-de-ulike-klassene/</prop>
+     <seg>Spesielt om teoripr&#248;ven for moped og sn&#248;scooter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.07517</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/about-vegvesen.no/about-the-website/?lang=en</prop>
+     <seg>Vegvesen.no and the services under Your Page have been made for and tested on the most frequently used web browsers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/fag/veg-og-gate/prosjektering-og-bygging/prosjektering/modellbaserte-vegprosjekter/modellbaserte-konkurransegrunnlag/</prop>
+     <seg>Brukes til tverrfaglig koordinering og kvalitetskontroll, og til presentasjoner for oppdragsgiver, beslutningstakere og publikum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1.23607</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>The reflective strip which passes over the shoulders must be centred on the shoulders.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Refleksb&#229;ndet som g&#229;r over skulderen skal v&#230;re sentrert p&#229; skulderen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.08227</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>In other curricula, the training progression is indicated through a number of secondary goals in addition to the main objective.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>I andre l&#230;replaner blir progresjonen i oppl&#230;ringen anvist gjennom en rekke delm&#229;l i tillegg til hovedm&#229;lene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">1.00556</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>Therefore a selection must be made.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Det m&#229; derfor gj&#248;res et utvalg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">2.73333</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>One person must not direct traffic manual y for a consecutive period of more than 2 hours without a break.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>En person skal ikke dirigere trafikken manuelt i mer enn 2 timer av gangen uten pause.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-n301e.pdf.converted</prop>
+     <seg>Colour on signs that are used to warn of roadworks</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-n300-del5.pdf.converted</prop>
+     <seg>og spesiel e skrifttyper skal hel er ikke brukes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">2.98207</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://transportportal.atlas.vegvesen.no/en/write/conform/</prop>
+     <seg>For delegated regulation 886/2013 on provision of safety related information the data and service provider shall submit a self-declaration of compliance to The Road Supervisory Authority.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://transportportal.atlas.vegvesen.no/no/write/conform/</prop>
+     <seg>For forordning 886/2013 leverer datatilbydere av trafikksikkerhetsrelatert informasjon sin samsvarserkl&#230;ring til Vegtilsynet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.13995</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>It is desired to steer the training through the new curricula / the new regulations without this leading to significant cost increases for students that already have had proper training.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Vi &#248;nsker gjennom de nye l&#230;replanene / den nye forskriften &#229; styre oppl&#230;ringen uten at dette skal f&#248;re til en vesentlig &#248;kning i kostnadene for de elevene som fra f&#248;r har tatt en god oppl&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">2.26084</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/car-lights/?lang=en</prop>
+     <seg>These should not provide light brighter than 0.7 lux at a height of 1.10 metres, measured 25 metres in front of the lamp.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/bilens-lys/?lang=nb</prop>
+     <seg>Disse skal ikke lyse sterkere enn 0,7 lux i en h&#248;yde p&#229; 1,10 meter, m&#229;lt 25 meter foran lykten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">1.02691</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>Reflectors: A 25 mm wide reflective strip must pass from the shoulders and down to the lower part of the sleeves, front and rear.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Refleks: Det skal g&#229; et 25 mm refleksb&#229;nd fra skuldrene og ned til nedre del p&#229; ermene, foran og bak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">1.17886</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v851-english.pdf.converted</prop>
+     <seg>This course is to help learners further develop their competence in avoiding accidents, and includes</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v271.pdf.converted</prop>
+     <seg>Opplegget for masseh&#229;ndtering m&#229; v&#230;re s&#229; ryddig og oversiktlig som mulig, og utfordringene m&#229; l&#248;ses</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.15532</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://ontologi.atlas.vegvesen.no/bridge/v440/core/doc/v440-owl-doc/v440_Skrastagbru_med_bjelker_to_tarn_ingen_opphengte_sidespenn.html</prop>
+     <seg>Cable-stayed bridge, with beams, two rooks, no suspended side spans</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://ontologi.atlas.vegvesen.no/bridge/v440/core/doc/v440-owl-doc/v440_Hengebru_med_bjelker_ingen_opphengte_sidespenn.html</prop>
+     <seg>Suspension bridge with beams, no suspended side spans Hengebru med bjelker, ingen opphengte sidespenn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.26386</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/horinger/2013/2012085289-081-frist-20131011/vedlegg-v-direktiv-201236eu.pdf.converted</prop>
+     <seg>If the motorcycle is powered by an internal combustion engine, the cylinder capacity of the engine shall be at</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/horinger/2017/16-135559-3-kontroll-pa-veg-20170327/16-135559-3-hoeringsnotat.pdf.converted</prop>
+     <seg>F&#248;reren av det kontrollerte kj&#248;ret&#248;yet skal motta ett eksemplar av rapporten, og denne skal, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">1.24543</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>Through Hotjar, we can see if users for example view and click on links, buttons, menus and form fields, and how far down they scroll on our pages.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Gjennom Hotjar kan vi blant annet se om brukerne ser og klikker p&#229; lenker, knapper, menyer og skjemafelter, og hvor langt ned brukerne skroller p&#229; sidene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">1.04923</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/?lang=en</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/the-public-transport-lane/</prop>
+     <seg>A lower panel may also specify other conditions, for example requiring at least one passenger in the vehicle.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/?lang=nb</prop>
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/kollektivfelt/</prop>
+     <seg>Underskilt kan ogs&#229; angi andre betingelser, for eksempel kreve at du har med minst &#233;n passasjer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.20462</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2017-4-changes-to-the-requirements-for-general-roadwork-safety-plans.pdf.converted</prop>
+     <seg>General roadwork safety plans shall not be approved by the person/persons with</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2017-4-endring-av-krav-til-generelle-arbeidsvarslingsplaner.pdf.converted</prop>
+     <seg>Generelle arbeidsvarslingsplaner skal ikke godkjennes av den/de som har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">1.29659</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/driving-time-and-rest-periods/to-whom-do-the-rules-apply/</prop>
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/driving-time-and-rest-periods/to-whom-do-the-rules-apply/?lang=en</prop>
+     <seg>vehicles with a maximum authorised speed not exceeding 40 kilometres per hourc. vehicles owned or hired without a driver by the armed services, civil defence services, fire services, and forces responsible for maintaining public order, when the carriage is undertaken as a consequence of the tasks assigned to these services and is under their controld.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/kjore-og-hviletid/hvem-er-omfattet/?lang=nn</prop>
+     <prop type="source-document">https://www.vegvesen.no/kjoretoy/yrkestransport/kjore-og-hviletid/hvem-er-omfattet/</prop>
+     <seg>kj&#248;ret&#248;yer der h&#248;yeste tillatte hastighet ikke overstiger 40 kilometer i timenc. kj&#248;ret&#248;yer som eies eller leies uten f&#248;rer av forsvaret, sivilforsvaret, brannvesenet og ordensmakten, n&#229;r transporten skjer i forbindelse med oppgaver som disse myndighetene har ansvaret for og st&#229;r under deres kontrolld. kj&#248;ret&#248;yer som brukes i forbindelse med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">1.17368</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/tachograph-inspections/</prop>
+     <seg>The use of driver cards, control cards, workshop cards and company cards</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/kontroll/</prop>
+     <seg>Bruk av sj&#229;f&#248;rkort, kontrollkort, verkstedkort og bedriftskort</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">1.04713</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://transportportal.atlas.vegvesen.no/en/write/add-data/</prop>
+     <seg>, where your roles at Altinn will be checked.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://transportportal.atlas.vegvesen.no/no/write/add-data/</prop>
+     <seg>, hvorp&#229; dine eventuelle roller i Altinn blir sjekket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.00122</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>The choice of evaluation form must be made in relation to chosen objectives and content as well as the educational framework and teaching and working methods being used.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Valg av vurderingsform m&#229; taes i relasjon til valg av m&#229;l og innhold samt rammer for undervisningen og anvendt undervisnings- og arbeidsmetode.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">1.36973</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>It can for example be less complicated to evaluate whether a student has achieved attitude objectives through mandatory training (formative evaluation) than through a final examination (summative evaluation).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Det kan for eksempel v&#230;re mindre komplisert &#229; vurdere om en elev har n&#229;dd holdningsm&#229;l gjennom obligatorisk oppl&#230;ring (formativ vurdering) enn gjennom en avsluttende eksamen (summativ vurdering).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">1.0533</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v851-english.pdf.converted</prop>
+     <seg>al ow him/her to start driving practice.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v271.pdf.converted</prop>
+     <seg>og plantedeler som kan spire.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.13235</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/using-a-non-eueea-driving-licence-in-norway/</prop>
+     <seg>Each of these agreements has a model for national driving licences and a model for international driving licences.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/forarkort/har-forarkort/forerkort-i-og-utenfor-norge/bruk-av-forerkort-fra-land-utenfor-eu-eos-i-norge/</prop>
+     <seg>Hver av avtalene har en modell for nasjonale f&#248;rerkort og en modell for internasjonale f&#248;rerkort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">6.23</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/kontakt-oss/give-us-a-call/?lang=en</prop>
+     <seg>Press 4 for switchboard enquiries</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/kontakt-oss/ring-oss/?lang=nb</prop>
+     <seg>Tast 4 for henvendelser til sentralbordet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">1.28393</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>The use of Questback is subject to Questback's privacy policy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Bruken er underlagt Questbacks retningslinjer for personvern.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">1.23018</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>In the &#8221;formal&#8221; driver training curriculum there is formulated a primary educational objective.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>I de &#8221;formelle&#8221; l&#230;replanene for f&#248;reroppl&#230;ring er det formulert hovedm&#229;l for undervisningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">1.21324</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>This can in principle be done both by summative and formative evaluation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Dette kan i prinsippet gj&#248;res b&#229;de ved summativ og formativ vurdering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">4.59905</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/contracting-strategy-e39-alesund-molde-.pdf.converted</prop>
+     <seg>A mix of alternatives 1 and 2 is possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/kontraktstrategi-e39-alesund-molde-.pdf.converted</prop>
+     <seg>Mulig med melloml&#248;sninger alternativ 1 og 2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">3.39939</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/kontakt-oss/give-us-a-call/?lang=en</prop>
+     <seg>4 to book an appointment at a Driver and Vehicle Licensing Office (traffikstasjon)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/kontakt-oss/ring-oss/?lang=nb</prop>
+     <seg>4 for &#229; bestille time i skranke ved en trafikkstasjon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">1.038</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/using-a-non-eueea-driving-licence-in-norway/</prop>
+     <seg>Driving licences from the UK</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/forarkort/har-forarkort/forerkort-i-og-utenfor-norge/bruk-av-forerkort-fra-land-utenfor-eu-eos-i-norge/</prop>
+     <seg>F&#248;rerkort fra Storbritannia</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">1.0825</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>We use the Google Analytics analysis tool to collect information about how users use our web pages, how they find their way, what they search for and what pages they use most frequently.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Vi bruker analyseverkt&#248;yet Google Analytics for &#229; samle opplysninger om hvordan brukerne bruker nettsidene, hvordan de finner fram, hva de s&#248;ker etter, og hvilke sider som blir mest brukt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/digital-tachographs/</prop>
+     <seg>Data is registered in UTC time.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/digital-fartsskriver/</prop>
+     <seg>Data registreres i UTC-tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">1.09292</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>You can choose whether or not to accept that vegvesen.no and the services we use can store cookies on your device.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Du velger selv om du samtykker til at vegvesen.no og tjenestene vi bruker, kan lagre informasjonskapsler p&#229; enheten din.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">1.12787</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/permits/ecmt-permits/?lang=en</prop>
+     <seg>The following award criteria apply to ECMT permits:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/transportloyver-og-tillatelser/cemt-tillatelser/?lang=nn</prop>
+     <seg>Tildelingskriterier for CEMT-tillatelse:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">1.31497</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-circular-2015-12-amendment-of-requirements-for-high-visibility-warning-clothing-and-signalling-boards-in-handbooks-n301-and-r310.pdf.converted</prop>
+     <seg>If the section is more than approximately 50 metres long, two people must direct the traffic.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/publikasjoner/na-rundskriv/na-rundskriv-2015-12-endring-av-krav-til-synlighetstoy-og-stoppspak-i-handbok-n301-og-r310.pdf.converted</prop>
+     <seg>Dersom strekningen er mer enn ca. 50 meter, skal det v&#230;re to personer til &#229; dirigere trafikken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">1.20085</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>The actual educational content is affected by the curriculum and its formulations of the objectives.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Innholdet i undervisningen p&#229;virkes av l&#230;replanen og dens/forskriftens m&#229;lformuleringer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">1.01447</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>When you visit a web page containing Facebook elements, Facebook may store cookies on your device.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>N&#229;r du bes&#248;ker en nettside som inneholder Facebook-elementer, kan Facebook lagre informasjonskapsler p&#229; enheten din.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">1.49011</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://transportportal.atlas.vegvesen.no/en/write/gdpr/</prop>
+     <seg>All data linked to from the portal must comply with the General Data Protection Regulations (GDPR) from EU.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://transportportal.atlas.vegvesen.no/no/write/gdpr/</prop>
+     <seg>Alle datasettene som portalen lenker til skal v&#230;re i samsvar med General Data Protection Regulations (GDPR).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">3.88667</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/tachographs-and-driver-cards/tachograph-inspections/</prop>
+     <seg>The speed that the vehicle has had in the last 24 hours</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/koyretoy/yrkestransport/fartsskriver-og-sjaforkort/kontroll/</prop>
+     <seg>Hastigheten som kj&#248;ret&#248;yet har hatt de siste 24 timene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">2.34728</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>For category B (the category with decidedly most learner drivers), the average youngster had in 2002 between 25 and 30 driving lessons of which 9.5 were mandatory.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>For klasse B (som er den klassen med desidert flest elever) har gjennomsnittseleven i 2002 mellom 25 og 30 kj&#248;retimer ved trafikkskole, hvorav 9,5 timer er obligatoriske.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">2.56553</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/contracting-strategy-e39-alesund-molde-.pdf.converted</prop>
+     <seg>&#9679; Alternative 1, the project is divided into 16 construction contracts.&#9679; Alternative 2, the project is divided into 6 construction contracts.&#9679; Alternative 3, Kjerringsundet has been removed from the project.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/vegprosjekter/utbygging/e39alesundmolde/vedlegg/leverandormote/kontraktstrategi-e39-alesund-molde-.pdf.converted</prop>
+     <seg>&#9679; Alternativ 1, prosjektet er delt opp til 16 entrepriser.&#9679; Alternativ 2, prosjektet er delt opp til 6 entrepriser.&#9679; Alternativ 3, Kjerringsundet er tatt ut av prosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">1.07826</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/car-lights/?lang=en</prop>
+     <seg>The main rule is that fog lamps are not allowed in combination with full-beam lights.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/trafikkinformasjon/langs-veien/trafikkregler/bilens-lys/?lang=nb</prop>
+     <seg>Det er i utgangspunktet ikke tillatt &#229; bruke t&#229;kelys i kombinasjon med fjernlys.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">1.14212</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v851-english.pdf.converted</prop>
+     <seg>Instructors are to give learners their recommendations as to whether they have the necessary</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v271.pdf.converted</prop>
+     <seg>viser henholdsvis planer for skilt og oppmerking og for signalanlegg, og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">1.02611</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>, a certain number (or minimum number) of hours of attendance will be required to gain approval for the discipline/course/training.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>vil man p&#229; forh&#229;nd bestemme et visst antall (eller minimumsantall) timer eleven m&#229; v&#230;re tilstede for &#229; f&#229; faget/kurset/utdannelsen godkjent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">1.42222</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/horinger/2014/2010013853-28-eets-forskriften-20141003/vedlegg-4-kommisjonsavgjoerelsen-engelsk.pdf.converted</prop>
+     <seg>to the reception of satellite signals.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/horinger/2018/17-203072-2-endringer-i-kjore--og-hviletidsforskriften-og-forslag-til-ny-forskrift-om-fartsskriververksteder-2018-04-30/eu-165-2014-fartsskriverforordningen-vedlegg-5.pdf.converted</prop>
+     <seg>effektivt og virkningsfullt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">1.23684</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>Driving instructors have also picked up this method.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Ogs&#229; trafikkl&#230;rere har tatt metoden i bruk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">5.1399</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/driving-time-and-rest-periods/24-hour-rest-stop-areas/</prop>
+     <seg>3 Koppang Shell, Stor-Elvdal, Innlandet, 13 capacity</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/kjoretoy/yrkestransport/kjore-og-hviletid/hvileplasser/</prop>
+     <seg>3 Koppang Shell, Stor-Elvdal, Innlandet, 13 plasser</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">1.32066</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858e.pdf.converted</prop>
+     <seg>Methodical choices can be made based on knowledge about the student(s), own view of education and knowledge, objectives and educational content.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/globalassets/fag/handboker/hb-v858.pdf.converted</prop>
+     <seg>Metodiske valg kan gj&#248;res p&#229; bakgrunn av kjennskap til eleven(e), eget undervisnings- og kunnskapssyn, m&#229;l og innhold i undervisningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">4.47541</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>Feedback is stored in the Optimizely publishing platform for 3 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Tilbakemeldingene lagres i publiseringsl&#248;sningen Optimizely i 3 m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">1.00727</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/using-a-non-eueea-driving-licence-in-norway/</prop>
+     <seg>In Norway, you can use a valid driving licence from any country for up to three months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/nn/forarkort/har-forarkort/forerkort-i-og-utenfor-norge/bruk-av-forerkort-fra-land-utenfor-eu-eos-i-norge/</prop>
+     <seg>Du kan bruke f&#248;rerkort fra alle land i Norge i inntil tre m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">5.76032</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/kontakt-oss/give-us-a-call/?lang=en</prop>
+     <seg>Press 1 for questions relating to vehicles</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/kontakt-oss/ring-oss/?lang=nb</prop>
+     <seg>Tast 1 for sp&#248;rsm&#229;l om kj&#248;ret&#248;y</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">5.7474</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/vehicles/professional-transport/driving-time-and-rest-periods/24-hour-rest-stop-areas/</prop>
+     <seg>E6 Biri travpark, Gj&#248;vik, Innlandet, 30 capacity</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/kjoretoy/yrkestransport/kjore-og-hviletid/hvileplasser/</prop>
+     <seg>E6 Biri travpark, Gj&#248;vik, Innlandet, 30 plasser</seg>
+    </tuv>
+   </tu>
+   <tu tuid="170" datatype="Text">
+    <prop type="score-hunalign">1.15864</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.vegvesen.no/en/about-us/about-us/privacy-policy-and-cookies/privacy-and-cookies-at-vegvesen.no/?lang=en</prop>
+     <seg>Google Analytics stores parts of a user&#8217;s IP address, but the final eight digits of the address is removed for the sake of data protection.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vegvesen.no/om-oss/om-organisasjonen/personvern/vegvesenno-informasjonskapsler/</prop>
+     <seg>Google Analytics lagrer deler av IP-adressen til brukerne, men siste oktett i adressen er fjernet av hensyn til personvernet.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

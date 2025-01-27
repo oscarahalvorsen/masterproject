@@ -1,0 +1,1221 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T052727" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.0787</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <seg>Firstly, as highlighted in a national vulnerability assessment, there are low-lying coastal areas of Norway that could be at risk owing to their important cultural and economic value (Aunan and Romstad, 2008).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <seg>Dette er understreket blant annet i en nasjonal s&#229;rbarhetsanalyse der det p&#229;pekes at det finnes lavtliggende kystn&#230;re omr&#229;der med stor &#248;konomisk og kulturell verdi i Norge (Aunan og Romstad, 2008).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.42174</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <seg>Type of subscription and pricing</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <seg>Type abonnement og priser</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.15091</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/future-sea-level-along-the-norwegian-coast/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/future-sea-level-along-the-norwegian-coast/</prop>
+     <seg>The ranges illustrate that the projections are not exact.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/framtidig-havniva-langs-norskekysten/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/framtidig-havniva-langs-norskekysten/</prop>
+     <seg>Det er usikkerhet i modelleringen av landheving, avsmelting av is og tilh&#248;rende gravitasjonseffekter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.9743</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>In cases where there are few satellites available, there may be a need to use an elevation mask lower than 10-15&#176; in order to detect as many satellites as possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>I de tilfellene der det er f&#229; satellitter tilgjengelig, kan det v&#230;re behov for &#229; benytte en elevasjonsmaske lavere enn 10-15&#176; for &#229; f&#229; med flest mulig satellitter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.78235</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>This also applies to correction services such as CPOS and DPOS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Dette gjelder ogs&#229; korreksjonstjenester som CPOS og DPOS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.08849</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/current-ice-sheet-changes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/current-ice-sheet-changes/</prop>
+     <seg>The satellite geodetic measurements indicate that the rate of ice loss from Greenland has increased since 1992.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/pagaende-isavsmelting/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/pagaende-isavsmelting/</prop>
+     <seg>I tillegg viser satellittm&#229;lingene at avsmeltingshastigheten fra Gr&#248;nland har &#248;kt siden 1992 og at omr&#229;det der is smelter om sommeren har blitt st&#248;rre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.25737</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Virtual GNSS observation data is then calculated for the point at which the GNSS receiver is located, and these are then sent to the user.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Det beregnes s&#229; virtuelle GNSS observasjonsdata for det punktet som GNSS-mottakeren befinner seg i, og disse sendes s&#229; til bruker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.02662</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Enter your username and password, and specify the mountpoint you wish to use from the table below.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Legg inn ditt brukernavn og passord, og spesifiser &#248;nsket mountpoint fra tabellen under.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/property/praktisk-tinglysing/witnesses/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/property/praktisk-tinglysing/witnesses/</prop>
+     <seg>This applies to spouses, parents, children or siblings.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/eiendom/praktisk-tinglysing/vitner/</prop>
+     <prop type="source-document">https://kartverket.no/eiendom/praktisk-tinglysing/vitner/</prop>
+     <seg>Dette gjelder ektefeller, foreldre, barn eller s&#248;sken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.78846</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <seg>This is an example from Sm&#248;la.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <seg>Dette er et eksempel fra Sm&#248;la.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.78103</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/future-sea-level-along-the-norwegian-coast/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/future-sea-level-along-the-norwegian-coast/</prop>
+     <seg>The vertical bars on the right side of the panels represent the most likely relative sea level rise and spread for 2081-2100.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/framtidig-havniva-langs-norskekysten/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/framtidig-havniva-langs-norskekysten/</prop>
+     <seg>Linjene lengst til h&#248;yre i hver figur angir mest sannsynlig verdi og spredning for &#229;rene 2081 til 2100.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.07273</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/current-ice-sheet-changes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/current-ice-sheet-changes/</prop>
+     <seg>GLOBAL SEA-LEVEL: The cumulative contribution of Greenland (green) and Antarctica (blue) to global sea-level change over 1992&#8211;2011.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/pagaende-isavsmelting/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/pagaende-isavsmelting/</prop>
+     <seg>Kumulativt bidrag fra Gr&#248;nland (gr&#248;nn kurve) og Antarktis (bl&#229; kurve) til det globale havniv&#229;et gjennom perioden 1992-2011.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.50088</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <seg>In the global setting, Norway is considered to have a low physical vulnerability to sea-level rise (Aunan and Romstad, 2008).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <seg>Norge er i utgangspunktet lite s&#229;rbart for havniv&#229;endringer sammenliknet med de fleste andre kystnasjoner (Aunan og Romstad, 2008).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.57604</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <seg>CPOS is available via the internet.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <seg>CPOS er tilgjengelig via Internett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.40526</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Poor satellite geometry can be detected through a high PDOP, while a low PDOP represents good satellite geometry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>En d&#229;rlig satellittgeometri vises gjennom en h&#248;y PDOP, mens en lav PDOP representerer en god satellittgeometri.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.24156</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <seg>It is changes in relative sea level that are of interest for coastal planning and adaption.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <seg>Det er forandringer i det relative havniv&#229;et som er av betydning for planlegging og tilpasning i kystsonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">3.75795</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <seg>Alternatively, you can choose the table view and 10-minute interval.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <seg>Eventuelt kan du velge tabell og 10-minuttsverdier.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.99451</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/se-havniva-i-kart--a-web-tool-for-mapping-storm-surge-and-sea-level-rise/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/se-havniva-i-kart--a-web-tool-for-mapping-storm-surge-and-sea-level-rise/</prop>
+     <seg>Mean High Water is calculated as the average of all the high water heights observed over a 19-year period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/se-havnivaendringer-og-ekstreme-vannstandsniva-i-kart/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/se-havnivaendringer-og-ekstreme-vannstandsniva-i-kart/</prop>
+     <seg>Middel h&#248;yvann (kystkonturen) er gjennomsnittet av alle h&#248;yvannene p&#229; et sted over en tidevannsperiode p&#229; 19 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.16073</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Other settings If it needs to be specified, transmission of the NMEA position to CPOS takes place every 10 seconds.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Hvis det m&#229; spesifiseres, skal utsendelse av NMEA-posisjon til CPOS skje hvert 10. sekund.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.1026</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <seg>How High Does a Pier Need to Be?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <seg>Hvor h&#248;y b&#248;r brygga v&#230;re?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.29024</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>If you have waited 2 minutes or more after connecting without achieving a fix solution, it is recommended that you disconnect and then reconnect.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Dersom man har ventet i 2 minutter eller mer etter at man koblet seg til uten &#229; f&#229; fix-l&#248;sning, anbefales det &#229; bryte tilkoblingen og koble til p&#229; nytt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.02273</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <seg>The customer must make sure that they have a mobile telephone subscription/SIM card that is compatible with mobile data usage in Sweden.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <seg>Kunden m&#229; selv s&#248;rge for &#229; ha et telefonabonnement/SIM-kort som kan benyttes for databruk i Sverige.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.94148</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <seg>You can then find out how high the deck of the pier is in relation to different water levels, such as the water level for &#8216;High water with 5 year return period&#8217;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <seg>Da finner du ut hvor h&#248;yt bryggedekket ligger i forhold til ulike vannstandsniv&#229;, for eksempel vannstandsniv&#229; for "H&#248;yvann med 5 &#229;rs gjentaksintervall".</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.1542</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Multipath interference occurs when the antenna receives a satellite signal that is reflected from a certain object located near the antenna, instead of the signal coming directly from the satellite.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Flerveisinterferens er at antenna mottar et satellittsignal som er reflektert fra en eller annen gjenstand i n&#230;rheten av antenna, i stedet for signalet som kommer direkte fra satellitten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.61167</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/milankovitch-and-paleo-sea-level-changes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/milankovitch-and-paleo-sea-level-changes/</prop>
+     <seg>(1879-1958) was a Serbian scientist who came up with the theory that long-term climate changes are governed by changes in how the Earth orbits around the Sun &#8211; now more commonly known as</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/milankovi-og-historiske-havnivaendringer/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/milankovi-og-historiske-havnivaendringer/</prop>
+     <seg>(1879-1958) var en serbisk forsker som lanserte teorien om at langtidssvingninger i jordas klima styres av forandringer i jordas bane rundt sola, ogs&#229; kjent som</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.71774</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <seg>GNSS receiver: Multi-frequency with input for RTCM format V2.3 or V3.1, and NMEA format output (GGA)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <seg>Fler-frekvent med inngang for RTCM- format V2.3 eller V3.1, og utgang for NMEA-format (GGA-melding)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.69618</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Therefore, you will never be more than 5 km from the point to which the reference data refers, providing you with the same amount of accuracy as long as you are within the coverage range.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Dermed vil du aldri befinne deg mer enn 5 km fra punktet som referansedataene refererer seg til, noe som gir deg tilsvarende lik n&#248;yaktighet s&#229; lenge du befinner deg innenfor dekningsomr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.1395</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>This means that one must ensure that the rover is set up and used correctly.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Dette betyr at en m&#229; forsikre seg om at roveren er satt opp og blir brukt p&#229; korrekt vis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.2429</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/current-ice-sheet-changes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/current-ice-sheet-changes/</prop>
+     <seg>Ice loss from Greenland is split approximately 50:50 between surface melting and outlet glacier discharge (van den Broeke et al., 2009).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/pagaende-isavsmelting/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/pagaende-isavsmelting/</prop>
+     <seg>50:50 mellom avsmelting fra breenes overflate og tap fra brearmene (van den Broeke et al., 2009). I Antarktis er det annerledes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.03364</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/observed-sea-level-changes-and-their-causes/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/observed-sea-level-changes-and-their-causes/</prop>
+     <seg>Observed rates of relative sea level change along the Norwegian coast show considerable spatial variability largely due to glacial isostatic adjustment (Simpson et al., 2015).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/observerte-havnivaendringer-og-deres-opphav/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/observerte-havnivaendringer-og-deres-opphav/</prop>
+     <seg>De permanente GNSS-stasjonene overv&#229;ker hvor raskt landjorda stiger. M&#229;linger av relative havniv&#229;endringer langs Norskekysten viser stor variasjon som f&#248;lge av landheving (Simpson et al., 2015).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.93571</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <seg>is for new customers who wish to test CPOS free of charge for a period of 1 month.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <seg>er for nye kunder som vil teste CPOS gratis i 1 m&#229;ned.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.57668</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/tides-and-water-level/permanent-tide-gauges/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/tides-and-water-level/permanent-tide-gauges/</prop>
+     <seg>The float gauge is the most common among the permanent tide gauges &#8211; 23 of the gauges belong to this category.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/lar-om-tidevann-og-vannstand/permanente-vannstandsmalere/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/lar-om-tidevann-og-vannstand/permanente-vannstandsmalere/</prop>
+     <seg>Flott&#248;rm&#229;leren er den vanligste blant de permanente &#8211; hele 23 av m&#229;lerne tilh&#248;rer denne kategorien.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.25545</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/se-havniva-i-kart--a-web-tool-for-mapping-storm-surge-and-sea-level-rise/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/se-havniva-i-kart--a-web-tool-for-mapping-storm-surge-and-sea-level-rise/</prop>
+     <seg>The data have a positional accuracy of 2 to 50 meters dependent on object type and the method used to determine position.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/se-havnivaendringer-og-ekstreme-vannstandsniva-i-kart/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/se-havnivaendringer-og-ekstreme-vannstandsniva-i-kart/</prop>
+     <seg>Posisjonen til objekter i dette datasettet har en presisjon p&#229; 2 til 50 meter, avhengig av objekttypen og metoden brukt for stedfesting.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.02479</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/future-sea-level-along-the-norwegian-coast/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/future-sea-level-along-the-norwegian-coast/</prop>
+     <seg>Regional changes in ocean density (thermal expansion).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/framtidig-havniva-langs-norskekysten/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/framtidig-havniva-langs-norskekysten/</prop>
+     <seg>regionale endringer i havets tetthet,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.40229</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>The GNSS receiver creates a fix solution based on its own observations that are combined with reference data from CPOS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>GNSS-mottakeren danner fix-l&#248;sning basert p&#229; egne observasjoner som sammenstilles med referansedata fra CPOS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.00696</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>As with all surveying, it is important to check all measurements and ensure consistency in order to document accuracy and avoid errors.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Som ved all landm&#229;ling er det viktig &#229; m&#229;le med kontroll og gj&#248;re overbestemmelse for &#229; kunne dokumentere n&#248;yaktigheten og sikre seg mot feil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.642</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <seg>When we add the value of the measured water level (198 cm), the calculation shows that the deck of the pier is 303 cm above Chart Datum.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <seg>N&#229;r vi plusser p&#229; verdien for m&#229;lt vannstand (198 cm), viser regnestykket at bryggedekket er 303 cm over sj&#248;kartnull.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.06634</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <seg>The CPOS service consists of correction data that is received in real time via an internet connection to the Norwegian Mapping Authority&#8217;s servers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <seg>CPOS-tjenesten best&#229;r av korreksjonsdata som mottas i sanntid via en internettoppkobling til Kartverkets servere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.1958</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Check that the correct correction format is selected (RTCM version).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Sjekk at riktig korreksjonsformat er valgt (RTCM-versjon).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.06364</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <seg>The pattern we see largely reflects spatial differences in changes to ocean temperatures.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <seg>M&#248;nsteret gjenspeiler i hovedsak romlig variasjon i endret sj&#248;temperatur.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.78909</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>A virtual reference station (VRS) is then created at this point.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Det dannes da en virtuell referansestasjon (VRS) i dette punktet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.30435</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <seg>Chart Datum: Zero level on nautical charts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <seg>Nullniv&#229;et i sj&#248;kartene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.44876</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>If possible, specify VRS (Virtual Reference Station) as the method.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Hvis mulig, spesifiser VRS (Virtuell referansestasjon) som metode.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.718</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Conditions affecting accuracy</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Forhold som p&#229;virker n&#248;yaktigheten</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.23906</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/tides-and-water-level/permanent-tide-gauges/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/tides-and-water-level/permanent-tide-gauges/</prop>
+     <seg>We have one radar gauge that is located in Hammerfest, and several mobile pressure gauges.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/lar-om-tidevann-og-vannstand/permanente-vannstandsmalere/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/lar-om-tidevann-og-vannstand/permanente-vannstandsmalere/</prop>
+     <seg>Vi har &#233;n radarm&#229;ler, plassert i Hammerfest, og flere mobile trykkm&#229;lere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.0192</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>&#8221; standard, which provides a recommendation on how satellite-based positioning should be carried out and where documentation of measurements is discussed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>&#8221; som gir en anbefaling om hvordan satellittbasert posisjonsbestemmelse b&#248;r utf&#248;res og hvor dokumentasjon av m&#229;linger omtales.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.15361</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <seg>The height of the pier in relation to Chart Datum= Water level above chart datum + measured value (deck of pier above surface of water)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <seg>H&#248;yden p&#229; brygga i forhold til sj&#248;kartnull= Vannstand over sj&#248;kartnull + m&#229;lt verdi (bryggedekk over vannflate)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.16735</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <seg>Relative sea level is the measure of the sea surface with respect to the seafloor and the shore.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <seg>Relative havniv&#229;endringer er et m&#229;l p&#229; hvordan havoverflatas h&#248;yde endrer seg i forhold til land.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.25862</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <seg>These changes represent a changing exposure or risk to our society.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <seg>Verkt&#248;yet er et hjelpemiddel for &#229; identifisere risikoomr&#229;der i kystsonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.48333</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <seg>An example from Sm&#248;la</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <seg>Eksempel fra Sm&#248;la:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.00289</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>In order to measure with a high degree of accuracy, a correct fix solution is required in CPOS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>For &#229; kunne m&#229;le med h&#248;y grad av n&#248;yaktighet er en i CPOS avhengig av &#229; ha en korrekt fix-l&#248;sning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.58101</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/current-ice-sheet-changes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/current-ice-sheet-changes/</prop>
+     <seg>SURFACE ELEVATION: Surface elevation changes for Antarctica and Greenland over the period 2003&#8211;2007.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/pagaende-isavsmelting/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/pagaende-isavsmelting/</prop>
+     <seg>ISKAPPER: H&#248;ydeforandringer i iskappene som dekker Gr&#248;nland og Antarktis over periode 2003 til 2007.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.18197</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <seg>Select the date when you measured the distance (from the surface of the water to the deck of the pier).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <seg>Velg dato for da du m&#229;lte avstanden (fra vannflaten til bryggedekket).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">3.02241</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <seg>We have measured that the deck of the pier is 105 cm higher than the surface of the water.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <seg>Vi har m&#229;lt at dekket p&#229; bryggen ligger 105 cm h&#248;yere enn vannflaten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.09465</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>At low signal strengths, data transmission may be interrupted.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Ved lav signalstyrke kan det bli brudd i dataoverf&#248;ringen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.18043</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Multipath interference can also be a problem in forests.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Flerveisinterferens kan ogs&#229; v&#230;re et problem i skog.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">2.08834</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/se-havniva-i-kart--a-web-tool-for-mapping-storm-surge-and-sea-level-rise/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/se-havniva-i-kart--a-web-tool-for-mapping-storm-surge-and-sea-level-rise/</prop>
+     <seg>The slider can be used to visualize sea levels beyond the levels recommended for coastal planning, e.g., long-term estimates of sea-level (after 2100).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/se-havnivaendringer-og-ekstreme-vannstandsniva-i-kart/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/se-havnivaendringer-og-ekstreme-vannstandsniva-i-kart/</prop>
+     <seg>Glidebryteren kan dermed brukes til &#229; illustrere usikkerheten og konsekvensene av havniv&#229;stigning p&#229; lang sikt (etter 2100).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.96429</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Height reference model (measurement in NN2000)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>H&#248;ydereferansemodell (m&#229;ling i NN2000)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.13669</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <seg>The subscription can be ordered via our order form.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <seg>Abonnementet bestilles via v&#229;rt bestillingsskjema.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.15</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/referanseniva/how-high-does-a-pier-need-to-be/</prop>
+     <seg>In addition, the tidal differences are crucial.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare/</prop>
+     <seg>I tillegg er tidevannsforskjellene avgj&#248;rende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.07806</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/observed-sea-level-changes-and-their-causes/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/observed-sea-level-changes-and-their-causes/</prop>
+     <seg>GLOBAL SEA-LEVEL: The tide gauge reconstruction (mustard) and altimetry observations (black) are taken from Church and White (2011).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/observerte-havnivaendringer-og-deres-opphav/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/observerte-havnivaendringer-og-deres-opphav/</prop>
+     <seg>Rekonstruert havniv&#229; basert p&#229; observasjoner fra vannstandsm&#229;lere (sennepsfarget linje) og altimetrisatellitter (svart linje) hentet fra Church and White (2011). B&#229;ndet rundt kurvene tilsvarer ett standardavvik.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.50345</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>The time it takes to calculate the fix solution is called initialisation time.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Tiden det tar &#229; beregne fix-l&#248;sning kalles initialiseringstid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">3.11447</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <seg>The picture above shows measured sea surface height changes over the period 1992 to 2018.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <seg>Figuren ovenfor viser endringer i havniv&#229;ets h&#248;yde m&#229;lt i forhold til jordsenteret ved hjelp av altimetrisatellitter over &#229;rene 1992 til 2018.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.044</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/property/praktisk-tinglysing/witnesses/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/property/praktisk-tinglysing/witnesses/</prop>
+     <seg>Documents that are signed abroad can be certified by a Norwegian foreign service official at an embassy or consulate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/eiendom/praktisk-tinglysing/vitner/</prop>
+     <prop type="source-document">https://kartverket.no/eiendom/praktisk-tinglysing/vitner/</prop>
+     <seg>Dokumenter som signeres i utlandet, kan bevitnes av en norsk utenrikstjenestemann ved en ambassade eller et konsulat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.06722</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>This user guide provides users of the Norwegian Mapping Authority&#8217;s positioning services with an overview of equipment setup, technical information and special conditions that apply when measuring/surveying with CPOS and DPOS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Denne brukerveiledningen gir brukere av Kartverkets posisjonstjenester en oversikt over oppsett av utstyr, teknisk informasjon og spesielle forhold som gjelder ved m&#229;ling med CPOS og DPOS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">3.28723</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>As a general rule, a PDOP of less than 4 is satisfactory.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>En tommelfingerregel er at en PDOP p&#229; under 4 er &#248;nskelig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.38864</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <seg>Independent of mobile base stations (RTK)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <seg>Uavhengig av mobil basestasjon (RTK)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.97792</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>CPOS and DPOS are network systems that use virtual reference stations (VRS).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>CPOS og DPOS er nettverkssystemer som benytter virtuelle referansestasjoner (VRS).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.43115</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <seg>Regarding mobile distribution (GSM/4G), it is assumed that the customer has a telephone subscription (such as a mobile data subscription) with a telecommunications company.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <seg>For distribusjon via mobil (GSM/4G) forutsettes at kunden har tegnet telefonabonnement (for eksempel dataabonnement) med en teleoperat&#248;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">3.3125</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <seg>In areas with approximately 35 km between SATREF PGS</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <seg>I omr&#229;der med ca. 35 km mellom SATREF PGS</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.32506</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/guide-to-cpos/</prop>
+     <seg>The CPOS system calculates a virtual reference station (VRS) based on data from permanent geodetic stations and the user&#8217;s position.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/hva-er-cpos/</prop>
+     <seg>CPOS-systemet beregner en virtuell referansestasjon (VRS) p&#229; bakgrunn av data fra permanente geodetiske stasjoner og brukers posisjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.07705</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Among other things, a lot of ionospheric disturbance can lead to a long initialisation time or that a fix solution is not achieved.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Blant annet kan spesielt mye uro i ionosf&#230;ren i perioder f&#248;re til lang initialiseringstid eller at fix-l&#248;sning ikke oppn&#229;s.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.13407</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>Check that you are using the correct IP address and IP port number.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Sjekk at du bruker riktig IP-adresse og IP-portnummer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.27342</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>For more information on the implementation and use of HREF, please contact your equipment supplier.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>For n&#230;rmere informasjon om implementering og bruk av HREF, kontakt din utstyrsleverand&#248;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.81909</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/milankovitch-and-paleo-sea-level-changes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/milankovitch-and-paleo-sea-level-changes/</prop>
+     <seg>Data from Petit et al. (1999) and EPICA community members (2004).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/milankovi-og-historiske-havnivaendringer/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/milankovi-og-historiske-havnivaendringer/</prop>
+     <seg>Seriene er hentet fra Petit et al. (1999) og forskermilj&#248;et EPICA (2004).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.40251</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>PDOP (Position Dilution of Precision) provides users with an indication of the satellite geometry of the available satellites.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>PDOP (Position Dilution of Precision) gir brukerne en indikasjon p&#229; satellittgeometrien for de tilgjengelige satellittene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">2.50704</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>When the user has moved 5 km from the virtual reference station, a new one is automatically generated.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>N&#229;r bruker har beveget seg 5 km fra den virtuelle referansestasjonen, genereres det automatisk en ny.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">2.8084</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/defining-sea-level-and-understanding-its-causes/</prop>
+     <seg>TRENDS: Sea-level trends over the years 1992&#8211;2018 based on measurements from the satellite radar altimeters TOPEX/Poseidon, Jason-1, Jason-2, and Jason-3.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/hvordan-definere-og-observere-havnivaendringer/</prop>
+     <seg>Endringer i havniv&#229;et over &#229;rene 1992 til 2018 observert med altimetrisatellittene TOPEX/Poseidon, Jason-1, Jason-2 og Jason-3.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">5.16346</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/property/inheritance-of-property/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/property/inheritance-of-property/</prop>
+     <seg>The registration fee for housing cooperative units is NOK 480.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/en/property/inheritance-of-property/overforing-ved-arv-skifte-og-uskifte/</prop>
+     <prop type="source-document">https://kartverket.no/en/property/inheritance-of-property/overforing-ved-arv-skifte-og-uskifte/</prop>
+     <seg>Tinglysingsgebyret for borettslagsandeler er 480 kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.18915</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <prop type="source-document">https://kartverket.no/en/on-land/posisjon/user-guide-positioning-services/</prop>
+     <seg>It is recommended that the GNSS receiver has been given sufficient time to determine its position (uncorrected) before connecting.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <prop type="source-document">https://kartverket.no/til-lands/posisjon/brukerveiledning-posisjonstjenester/</prop>
+     <seg>Det anbefales at man verifiserer at GNSS-mottakeren er kommet skikkelig i gang med posisjonsbestemmelsen (ukorrigert) f&#248;r man kobler til.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">5.69091</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/se-havniva/sea-level/what-happens-after-2100/</prop>
+     <prop type="source-document">https://kartverket.no/en/at-sea/se-havniva/sea-level/what-happens-after-2100/</prop>
+     <seg>What Happens After 2100?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.kartverket.no/til-sjos/se-havniva/havniva/hva-skjer-med-havnivaet-etter-2100/</prop>
+     <prop type="source-document">https://kartverket.no/til-sjos/se-havniva/havniva/hva-skjer-med-havnivaet-etter-2100/</prop>
+     <seg>Hva skjer med havniv&#229;et etter 2100</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

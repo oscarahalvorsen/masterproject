@@ -1,0 +1,434 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221219T071555" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.26875</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=744471</prop>
+     <seg>Det gis mulighet til kontinuasjonseksamen ved karakteren F.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722852</prop>
+     <seg>Det er h&#248;ve til kontinuasjonseksamen ved karakteren F.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.02727</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/ansatte/person?p_document_id=42284</prop>
+     <seg>Treng vi et biografisk leksikon til Ibsens brev?.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://uit.no/ansatte/narve.fulsas</prop>
+     <prop type="source-document">https://uit.no/ansatte/person?p_document_id=42284&amp;p_dimension_id=88147</prop>
+     <seg>Treng vi eit biografisk leksikon til Ibsens brev?.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.29268</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne/511349/nor-1120?ar=2018&amp;semester=V</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722516&amp;ar=2021&amp;semester=H</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=697198</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=511349</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722516</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=699820</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=697360</prop>
+     <seg>desember for emner som tilbys i v&#229;rsemesteret.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722519</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722526</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=620016</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722519&amp;ar=2021&amp;semester=H</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722525</prop>
+     <seg>desember for emne som blir gitt i v&#229;rsemesteret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.51299</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722516&amp;ar=2021&amp;semester=H</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722516</prop>
+     <seg>Emnet kan tas som enkeltemne og er et tilbud til internasjonale studenter (utvekslings- og gjestestudenter) som har norsk eller nordisk spr&#229;k og litteratur som studiefag ved et utenlandsk universitet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722519</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722519&amp;ar=2021&amp;semester=H</prop>
+     <seg>Emnet er eit tilbod til internasjonale studentar (utvekslings- og gjestestudentar) som har norsk eller nordisk spr&#229;k og litteratur som studiefag ved eit utanlandsk universitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.90508</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/adm2020/art?p_document_id=567769</prop>
+     <seg>F&#248;rst ut er lederne, og etter planen skal dette arbeidet starte i mars og v&#230;re ferdig i l&#248;pet av mai.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/adm2020/art?p_document_id=568976</prop>
+     <seg>F&#248;rst ut er leiarane, og etter planen skal dette arbeidet starte i mars og v&#230;re ferdig i l&#248;pet av mai.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.87857</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722685</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722685</prop>
+     <seg>Ved karakter F/ikke best&#229;tt tilbys kontinuasjonseksamen i begynnelsen av p&#229;f&#248;lgende semester.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=745745</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=745745</prop>
+     <seg>Ved karakter F/ikkje best&#229;tt blir det tilbydt kontinuasjonseksamen i byrjinga av p&#229;f&#248;lgande semester.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.12441</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=723090</prop>
+     <seg>Ved gyldig forfall tilbys utsatt eksamen i begynnelsen av p&#229;f&#248;lgende semester.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=745746</prop>
+     <seg>Ved gyldig forfall blir det tilbydt utsatt eksamen i byrjinga av p&#229;f&#248;lgande semester.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/ansatte/person?p_document_id=42284</prop>
+     <seg>Et nytt blikk p&#229; Ibsen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://uit.no/ansatte/narve.fulsas</prop>
+     <prop type="source-document">https://uit.no/ansatte/person?p_document_id=42284&amp;p_dimension_id=88147</prop>
+     <seg>Eit nytt blikk p&#229; Ibsen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.925</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://uit.no/nyheter/artikkel?p_document_id=647098&amp;p_dim=265634</prop>
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=647098</prop>
+     <seg>En forskningsgruppe skal se p&#229; fotballfysiologi, psykologi og medisin for &#229; f&#229; innsikt i disse helse-faktorene hos kvinnelige elitespillere.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=649564</prop>
+     <seg>Ei forskingsgruppe skal sj&#229; p&#229; fotballfysiologi, psykologi og medisin for &#229; f&#229; innsikt i desse helse-faktorane hj&#229; kvinnelege elitespelarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">5.95856</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722315</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=744471</prop>
+     <seg>januar for eksamen i h&#248;stsemesteret og 15.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722852</prop>
+     <seg>januar for eksamen i haustsemesteret og 15.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.4</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://uit.no/nyheter/artikkel?p_document_id=647098&amp;p_dim=265634</prop>
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=647098</prop>
+     <seg>&#8211; Fotball er Norges st&#248;rste idrett for kvinner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=649564</prop>
+     <seg>&#8211; Fotball er Noregs st&#248;rste idrett for kvinner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.18229</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://uit.no/nyheter/artikkel?p_document_id=647098&amp;p_dim=265634</prop>
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=647098</prop>
+     <seg>&#216;kt kunnskap om jenters fysiske forutsetninger i idretten er sv&#230;rt viktig b&#229;de for &#229; tilrettelegge i bredden, men ogs&#229; for &#229; henge med i den eksplosive utviklingen som skjer i toppfotballen internasjonalt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=649564</prop>
+     <seg>Auka kunnskap om dei fysiske f&#248;resetnadene til jenter i idretten er sv&#230;rt viktig b&#229;de for &#229; legga til rette i breidda, men &#242;g for &#229; henga med i den eksplosive utviklinga som skjer i toppfotballen internasjonalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.82692</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://uit.no/enhet/forsiden?p_dimension_id=210121</prop>
+     <seg>ISK tilbyr undervisning i allmenn spr&#229;kvitenskap, litteraturvitenskap, kunsthistorie, medie- og dokumentasjonsvitenskap, engelsk, kvensk og finsk, nordisk, russisk, samisk, spansk og tysk, som &#229;rsstudium, bachelor- eller mastergradsstudium.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/enhet/isk/utdanning</prop>
+     <seg>Vi tilbyr undervising i allmenn spr&#229;kvitskap, litteraturvitskap, kunsthistorie, medie- og dokumentasjonsvitskap, engelsk, kvensk og finsk, nordisk, russisk, samisk, spansk og tysk, som &#229;rsstudium, bachelor- eller mastergradsstudium.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.54062</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=699791</prop>
+     <seg>Se timeplan for mer detaljert informasjon om tidspunkt for undervisning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=620016</prop>
+     <seg>Sj&#229; timeplan for meir detaljert informasjon om tidspunkt for undervisning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.46333</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://uit.no/nyheter/artikkel?p_document_id=647098&amp;p_dim=265634</prop>
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=647098</prop>
+     <seg>Dette er et kvalitetsprosjekt som fyller et kunnskapshull, og har relevans for halve jordas befolkning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=649564</prop>
+     <seg>Dette er eit kvalitetsprosjekt som fyller eit kunnskapshol, og har relevans for halve jordas befolkning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.94969</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://uit.no/utdanning/emner/emne/735335/stv-6015</prop>
+     <seg>Etter best&#229;tt emne skal studentene ha f&#248;lgende l&#230;ringsutbytte:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne/722504/nor-6004</prop>
+     <seg>Etter best&#229;tt emne har studentane f&#248;lgande l&#230;ringsutbytte:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722516&amp;ar=2021&amp;semester=H</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722516</prop>
+     <seg>Pensumlitteraturen kan v&#230;re p&#229; norsk, skandinaviske spr&#229;k og/eller engelsk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722519</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722519&amp;ar=2021&amp;semester=H</prop>
+     <seg>Pensumlitteraturen kan vere p&#229; norsk, skandinaviske spr&#229;k og/eller engelsk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.62</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=643744</prop>
+     <seg>UiT vil ikke kreve dokumentasjon p&#229; ansettelsesforholdet, men dette er en forutsetning for at studentene kan gjennomf&#248;re sine arbeidskrav.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722504</prop>
+     <seg>UiT vil ikkje krevje dokumentasjon p&#229; tilsettingsforholdet, men dette er ein f&#248;resetnad for &#229; kunne gjennomf&#248;re arbeidskrava.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.19019</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://uit.no/nyheter/artikkel?p_document_id=647098&amp;p_dim=265634</prop>
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=647098</prop>
+     <seg>&#8211; Senteret vil ha et bredt forskerteam som vil forske p&#229; kvinnesport ved &#229; utvikle nye treningsopplegg som skal ivareta fysisk og mental helse i et langtidsperspektiv, og hindre skader og overtrening for kvinnelige fotballspillere.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=649564</prop>
+     <seg>&#8211; Senteret vil ha et breitt forskarteam som vil forska p&#229; kvinnesport ved &#229; utvikla nye treningsopplegg som skal ta vare p&#229; fysisk og mental helse i eit langtidsperspektiv, og hindra skadar og overtrening for kvinnelege fotballspelarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.65164</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722685</prop>
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722685</prop>
+     <seg>For n&#230;rmere informasjon om praksis, se egen praksisplan.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=745745</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=745745</prop>
+     <seg>For n&#230;rmare informasjon om praksis, sj&#229; eigen praksisplan.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.65126</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=647526</prop>
+     <prop type="source-document">http://uit.no/nyheter/artikkel?p_document_id=647526</prop>
+     <seg>&#8211; Det er en del av overgangen fra fossil til fornybar energi.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=649583</prop>
+     <seg>&#8211; Det er ein del av overgangen fr&#229; fossil til fornybar energi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne/511349/nor-1120?ar=2018&amp;semester=V</prop>
+     <prop type="source-document">https://uit.no/utdanning/program/610033/samisk_sprak-_og_litteraturvitenskap_-_master</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne/583202/spl-6000</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=744471</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722516&amp;ar=2021&amp;semester=H</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722521&amp;ar=2021&amp;semester=H</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne/643946/ped-3054</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722860</prop>
+     <prop type="source-document">http://uit.no/utdanning/emner/emne/671722/blu-2017?ar=2020&amp;semester=H</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne/671533/hif-1300</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne/643744/vid-6061</prop>
+     <prop type="source-document">http://uit.no/utdanning/emner/emne/735335/stv-6015</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=680300</prop>
+     <seg>Hva l&#230;rer du</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne/722518/nor-2024</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne/744321/nor-6005</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=620337</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722525&amp;ar=2021&amp;semester=H</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=620016</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722519&amp;ar=2021&amp;semester=H</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722526</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne/722504/nor-6004</prop>
+     <seg>Kva l&#230;rer du</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.91538</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=647526</prop>
+     <prop type="source-document">http://uit.no/nyheter/artikkel?p_document_id=647526</prop>
+     <seg>Flyene skal nemlig lades ved hjelp av energi fra egen solcellepark.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=649583</prop>
+     <seg>Flya skal nemleg ladast ved hjelp av energi fr&#229; eigen solcellepark.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.47636</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=451529</prop>
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=451529&amp;p_dim=88106</prop>
+     <seg>&#8211; Troms&#248;unders&#248;kelsen viser at vi nordmenn blir stadig sunnere.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=475504</prop>
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=475504&amp;p_dim=88106</prop>
+     <seg>&#8211; Troms&#248;unders&#248;kinga viser at vi nordmenn blir stadig sunnare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.175</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722521</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722521&amp;ar=2021&amp;semester=H</prop>
+     <seg>norsk eller et annet skandinavisk spr&#229;k.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722525</prop>
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722525&amp;ar=2021&amp;semester=H</prop>
+     <seg>Norsk eller eit anna skandinavisk spr&#229;k.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.29595</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/om/prosesser/portal/art?p_document_id=541938</prop>
+     <seg>Viserektorene skal bidra til &#229; l&#248;fte fram UiTs satsinger innen forskning og utdanning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/om/prosesser/portal/art?p_document_id=551600</prop>
+     <seg>Viserektorane skal bidra til &#229; l&#248;fte fram UiTs satsingar innan forsking og utdanning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=419298&amp;p_dim=88147</prop>
+     <seg>Senter for samiske studier</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://uit.no/nyheter/artikkel?p_document_id=377523</prop>
+     <seg>Senter for samiske studium</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">3.2</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=685429</prop>
+     <seg>&#8211; God dialog og samarbeid med nasjonalt, regionalt og lokalt politisk avgjerdsniv&#229; er et viktig bidrag for realisering av UiT sin strategi &#171;Drivkraft i nord&#187;,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=685429</prop>
+     <seg>&#8211; God dialog og samarbeid med nasjonalt, regionalt og lokalt politisk avgjerdsniv&#229; er eit viktig bidrag for realisering av UiT sin strategi &#171;Drivkraft i nord&#187;,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.61754</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=697198</prop>
+     <seg>juni for emner som tilbys i h&#248;stsemesteret.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722526</prop>
+     <seg>juni for emne som blir gitt i haustsemesteret.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

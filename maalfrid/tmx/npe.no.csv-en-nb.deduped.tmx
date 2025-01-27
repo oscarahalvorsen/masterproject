@@ -1,0 +1,565 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T013657" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.39167</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/risk-groups-for-dentists/</prop>
+     <seg>Specialists in oral surgery and oral medicine</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/informasjon-for-profesjonsgrupper/tannleger/risikogrupper-for-tannleger/</prop>
+     <seg>Spesialist i oral kirurgi og oral medisin</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.0944</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>For example, if you work full-time (100 percent) and receive a subsidy of 20 percent, this must be reported and you will have to pay 80 percent of the price for the professional group concerned.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/innmelding-og-oppdatering/hvem-har-meldeplikt/</prop>
+     <seg>For eksempel dersom du jobber 100 prosent og har 20 prosent driftstilskudd, meldes dette inn og du betaler da for 80 prosent av prisen for profesjonsgruppen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">4.525</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/prices-and-examples-of-registration/</prop>
+     <seg>20 percent subsidy - Registered as 0.8 FTE</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/priser-og-faktura/priser/</prop>
+     <seg>20 prosent driftstilskudd - Registreres som 0,8 &#229;rsverk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.04268</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/what-is-considered-healthcare-under-the-patient-injury-act/</prop>
+     <seg>If the potential for injury is major, it would normally fall under the definition of healthcare.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/avgrensninger-om-meldeplikten/hva-er-a-regne-som-helsehjelp-i-pasientskadeloven/</prop>
+     <seg>Dersom skadepotensialet er stort, vil det vanligvis falle inn under definisjonen av helsehjelp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.1401</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Funding-the-scheme/</prop>
+     <seg>This contribution is NOK 10,000, plus 10 percent of the remaining amount &#8211; subject to a maximum of NOK 100, 000.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/Om-NPE/Organisasjon/Finansiering-av-ordningen/</prop>
+     <seg>Egenandelen er p&#229; 10 000 kroner, pluss 10 prosent av det gjenst&#229;ende bel&#248;pet &#8211; maksimalt 100 000 kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.01044</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/Health-care-provider/behandling-av-pasientskadesaker/When-a-patient-incurs-an-injury/</prop>
+     <seg>For the patient to be awarded redress, the healthcare personnel must have been guilty of gross negligence.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/Erstatningssoker/utvalgte_skadeomraader/pandemrix/ti-ar-med-erstatninger-etter-vaksine-mot-svineinfluensa/</prop>
+     <seg>I de sju sakene der pasientene har f&#229;tt medhold, har personene f&#229;tt symptomer p&#229; sykdommen kort tid etter vaksinasjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.08718</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/what-is-considered-healthcare-under-the-patient-injury-act/</prop>
+     <seg>If healthcare is provided by someone who is not authorised healthcare personnel, any claims would fall outside of the patient injury scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/avgrensninger-om-meldeplikten/hva-er-a-regne-som-helsehjelp-i-pasientskadeloven/</prop>
+     <seg>Dersom helsehjelp utf&#248;res av noen som ikke er autorisert helsepersonell, s&#229; faller det utenfor pasientskadeordningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.71429</prop>
+    <prop type="score-bicleaner">0.710</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>Reimbursement from Helfo/NAV</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/innmelding-og-oppdatering/hvem-har-meldeplikt/</prop>
+     <seg>Refusjon fra Helfo/NAV</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.10893</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/risk-groups-for-dentists/</prop>
+     <seg>In the regulations, healthcare professionals are split into different risk groups.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/informasjon-for-profesjonsgrupper/tannleger/risikogrupper-for-tannleger/</prop>
+     <seg>I forskriften er helsepersonell inndelt i ulike risikogrupper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.03462</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/invoicing-and-payment-information/</prop>
+     <seg>Tax deductions for contributions paid to NPE</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/priser-og-faktura/faktura-og-betalingsinformasjon/</prop>
+     <seg>Skattefradrag for tilskudd som betales til NPE</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.0217</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/what-is-considered-healthcare-under-the-patient-injury-act/</prop>
+     <seg>If the treatment goes below the skin (invasive) and resources or uses methods that are normally reserved for authorised healthcare personnel, it will normally be considered healthcare.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/avgrensninger-om-meldeplikten/hva-er-a-regne-som-helsehjelp-i-pasientskadeloven/</prop>
+     <seg>Dersom behandlingen g&#229;r litt i dybden under huden (invasiv), og at det brukes midler eller metoder som normalt er forbeholdt autorisert helsepersonell, s&#229; vil vi normalt si at det er &#229; regne som helsehjelp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.23077</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/prices-and-examples-of-registration/</prop>
+     <seg>What is an FTE?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/priser-og-faktura/priser/</prop>
+     <seg>Hva er et &#229;rsverk?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.452</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/risk-groups-for-dentists/</prop>
+     <seg>Specialists in oral prosthetics</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/informasjon-for-profesjonsgrupper/tannleger/risikogrupper-for-tannleger/</prop>
+     <seg>Spesialist i oral protetikk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.20452</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/prices-and-examples-of-registration/</prop>
+     <seg>If the enterprise receives a partial subsidy, the difference between the position percentage and the subsidy must be registered (the examples below apply to 100 percent positions):</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/priser-og-faktura/priser/</prop>
+     <seg>Om virksomheten har delvis driftstilskudd, skal differansen mellom stillingsprosenten og driftstilskuddets st&#248;rrelse registreres (eksemplene under gjelder ved 100 prosent stilling):</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.33672</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/what-is-considered-healthcare-under-the-patient-injury-act/</prop>
+     <seg>If, alternative therapies are exclusively or predominantly provided, it will not be covered by the Patient Injury Act.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/avgrensninger-om-meldeplikten/hva-er-a-regne-som-helsehjelp-i-pasientskadeloven/</prop>
+     <seg>Om det utelukkende eller i hovedsak drives alternativ behandling, omfattes dette ikke av pasientskadeloven.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">4.60655</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/risk-groups-for-dentists/</prop>
+     <seg>General dentists and other dental specialists belong to group 5.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/informasjon-for-profesjonsgrupper/tannleger/risikogrupper-for-tannleger/</prop>
+     <seg>Allmenntannleger og &#248;vrige tannlegespesialister tilh&#248;rer gruppe 5.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.16374</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>However, in the event that a member organisation or NIF receives a report of an injury, the claim must be forwarded to NPE.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/kollektivavtaler/norges-idrettsforbund---saravtale/</prop>
+     <seg>F&#229;r likevel en medlemsorganisasjon eller NIF meldt en skade til seg, skal kravet formidles videre til NPE.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.00345</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>The agreement covers the cases where NIF has a duty to pay contributions to NPE.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/kollektivavtaler/norges-idrettsforbund---saravtale/</prop>
+     <seg>Avtalen omfatter de tilfellene der NIF har tilskuddsplikt til NPE.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.01429</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/administrative-procedure/use-of-solicitor/</prop>
+     <seg>When NPE will determine the compensation amount</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/Om-NPE/Organisasjon/arsrapporter/arsrapport-2018/lederen-har-ordet/</prop>
+     <seg>Vi har en konstruktiv og god dialog med departementet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">3.03667</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/prices-and-examples-of-registration/</prop>
+     <seg>For example, if you work 1.0 FTE (100 percent), you should register 0.5 FTE (50 percent) for the first year.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/priser-og-faktura/priser/</prop>
+     <seg>Dersom du for eksempel jobber 1,0 &#229;rsverk (100 prosent), registrerer du 0,5 &#229;rsverk (50 prosent) f&#248;rste &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.06038</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>If you leave NIF, you will be covered until the end of the calendar year.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/kollektivavtaler/norges-idrettsforbund---saravtale/</prop>
+     <seg>Dersom man melder seg ut av NIF, er man dekket ut kalender&#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.15579</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>Authorised healthcare personnel who undertake work on behalf of NIF have a duty to pay contributions to NPE for health services that they provide.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/kollektivavtaler/norges-idrettsforbund---saravtale/</prop>
+     <seg>Autorisert helsepersonell, som er sysselsatte av NIF, er tilskuddspliktig til NPE for helsetjenester de gir.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.02183</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>Examples include health personnel employed by directorates, supervisory authorities, insurance companies, NAV, chief medical officers, etc.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/innmelding-og-oppdatering/hvem-har-meldeplikt/</prop>
+     <seg>Eksempler p&#229; dette kan v&#230;re helsepersonell ansatt i direktorater, tilsyn, forsikringsselskap, NAV, fylkeslege osv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">3.68507</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/invoicing-and-payment-information/</prop>
+     <seg>The general rule for deductions is governed by Section 6-1 of the Tax Act.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/priser-og-faktura/faktura-og-betalingsinformasjon/</prop>
+     <seg>Hovedregelen om fradrag er regulert i skatteloven &#167; 6-1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">6.264</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/invoicing-and-payment-information/</prop>
+     <seg>The payment deadline is 30 days.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/priser-og-faktura/faktura-og-betalingsinformasjon/</prop>
+     <seg>Betalingsfrist er 30 dager.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.02428</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>If you only work as a GP, as a municipal employee or under an agreement with the municipality, you will come under the definition of a public health service and will not have to register your enterprise.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/innmelding-og-oppdatering/hvem-har-meldeplikt/</prop>
+     <seg>Jobber du bare som fastlege, som ansatt i kommunen, eller i henhold til avtale med kommunen, vil du komme inn under definisjonen offentlig helsetjeneste, og skal ikke melde inn virksomheten din.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.02391</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/prices-and-examples-of-registration/</prop>
+     <seg>Start-ups during the first half of the year: the full contribution will be payable.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/priser-og-faktura/priser/</prop>
+     <seg>Ved oppstart i f&#248;rste halv&#229;r betales fullt tilskudd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.17368</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/find-out-whether-you-are-obliged-to-register-with-npe/find-out-whether-you-are-obliged-to-register-with--npe/</prop>
+     <seg>More information on collective agreements</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/en/About-NPE/Organisation/Annual-reports/arsrapport-2018/tilskuddsordningen/</prop>
+     <seg>Vi holdt presentasjon for Tannlegenes praksiseierforening.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.06941</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>If you operate privately as well as in the public health service, you must register and pay contributions for the private component of your work.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/innmelding-og-oppdatering/hvem-har-meldeplikt/</prop>
+     <seg>Dersom du jobber privat i tillegg til offentlig, skal du registrere og betale for den private delen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.03714</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/administrative-procedure/use-of-solicitor/</prop>
+     <seg>submitting the documentation that we request</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/Om-NPE/Organisasjon/arsrapporter/arsrapport-2018/lederen-har-ordet/</prop>
+     <seg>Det gir oss utfordringer med budsjettrammen vi har til r&#229;dighet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.09636</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/risk-groups-for-dentists/</prop>
+     <seg>Dental specialists in oral surgery/medicine and prosthetics and dentists who work with implants must register in risk group 6a.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/informasjon-for-profesjonsgrupper/tannleger/risikogrupper-for-tannleger/</prop>
+     <seg>Tannlegespesialist innen oral kirurgi/medisin og protetikk, og tannleger som driver med implantat skal registreres i risikogruppe 6a.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">4.58468</prop>
+    <prop type="score-bicleaner">0.682</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/prices-and-invoice/prices-and-examples-of-registration/</prop>
+     <seg>5 percent position - Registered as 0.05 FTE</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/priser-og-faktura/priser/</prop>
+     <seg>5 prosent stilling - Registreres som 0,05 &#229;rsverk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.18696</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>NIF will quickly investigate any inquiries from NPE.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/kollektivavtaler/norges-idrettsforbund---saravtale/</prop>
+     <seg>NIF vil raskt avklare eventuelle henvendelser fra NPE.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.12708</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>When an injury is reported to NPE, it is important to determine whether the injury was sustained under circumstances covered by this agreement (or other registered enterprises).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/kollektivavtaler/norges-idrettsforbund---saravtale/</prop>
+     <seg>N&#229;r skade meldes NPE, er det blant annet viktig &#229; avklare om skaden er skjedd under omstendigheter som er omfattet av denne avtalen (eller andre tilmeldte virksomheter).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.03636</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>It is the party that employs (hires) a temporary member of staff that is responsible for registering and paying contributions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/innmelding-og-oppdatering/hvem-har-meldeplikt/</prop>
+     <seg>Det er den som sysselsetter (leier inn) en vikar som plikter &#229; melde inn og betale tilskudd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.20522</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/what-is-considered-healthcare-under-the-patient-injury-act/</prop>
+     <seg>The Patient Injury Act covers alternative therapies provided as part of ordinary health service.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/avgrensninger-om-meldeplikten/hva-er-a-regne-som-helsehjelp-i-pasientskadeloven/</prop>
+     <seg>Pasientskadeloven omfatter alternativ behandling som blir gjort integrert i ordin&#230;r helsetjeneste.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.04286</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>Enterprises that have health personnel in supervised practice who are members of an association which has a collective agreement need not register and pay contributions to NPE for these personnel.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/innmelding-og-oppdatering/hvem-har-meldeplikt/</prop>
+     <seg>Virksomheter som har helsepersonell i veiledet praksis eller turnus og som er medlem i en forening som har kollektivavtale med NPE, skal ikke melde og betale tilskudd til NPE for dette helsepersonellet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.06</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/collective-agreements/special-agreement/</prop>
+     <seg>NIF is a union for sports in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/kollektivavtaler/norges-idrettsforbund---saravtale/</prop>
+     <seg>NIF er en fellesorganisasjon for idretten i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.06795</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/globalassets/dokumenter-pdf-og-presentasjoner/eksterne-publikasjoner/artikler/int-j-qual-health-care-2015-smeby.pdf.converted</prop>
+     <seg>presents the distribution of medical spe-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/globalassets/dokumenter-pdf-og-presentasjoner/veiledere/veileder-til-forskrift-om-menerstatning-ved-pasientskader-godkjent-josu-med-forside--oppdatert230421.pdf.converted</prop>
+     <seg>For eksempel en endring av utseendet p&#229; en kj&#248;nnsleppe.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.04241</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/professional-groups/dentists/risk-groups-for-dentists/</prop>
+     <seg>All dentists carrying out implantation surgery and/or implantation prosthetics treatment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/informasjon-for-profesjonsgrupper/tannleger/risikogrupper-for-tannleger/</prop>
+     <seg>Alle tannleger som utf&#248;rer implantatkirurgisk og/eller implantatprotetisk behandling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.03696</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/registration-and-updates/who-has-a-duty-to-register/</prop>
+     <seg>The public sector pays contributions for all activity in the public health service.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/innmelding-og-oppdatering/hvem-har-meldeplikt/</prop>
+     <seg>Det offentlige betaler tilskudd for all virksomhet i offentlig helsetjeneste.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.47931</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/information-making-application-patient-injury/reporting-to-npe-or-county-governor/</prop>
+     <seg>Compensation for patient injury</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/en/information-compensation-claimants/Examples-/Kreftsykdommer/tykktarmskreft---forsinket-diagnose---avslag/</prop>
+     <seg>Hun fikk behandling for depresjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.01591</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.npe.no/en/contribution-scheme/limitations-to-the-registration-duty/what-is-considered-healthcare-under-the-patient-injury-act/</prop>
+     <seg>Here you can read more about the conditions that must be met for the treatment to be covered by the Patient Injury Act.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.npe.no/no/tilskuddsplikten/avgrensninger-om-meldeplikten/hva-er-a-regne-som-helsehjelp-i-pasientskadeloven/</prop>
+     <seg>Her kan du lese mer om vilk&#229;rene som m&#229; v&#230;re oppfylt for at behandlingen er dekket av pasientskadeloven.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,543 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T045642" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.08923</prop>
+    <prop type="score-bicleaner">0.615</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/368</prop>
+     <seg>This means that the learning powers in lessons will focus on openness and feedback, before traditional teaching methods (lectures).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/368</prop>
+     <seg>Dette betyr mellomanna at l&#230;rekreftene i periodar skal fokusere p&#229; tilgjenge og tilbakemelding, framfor tradisjonell undervising (f&#248;redrag).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.10182</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/OPS4301/507</prop>
+     <seg>discuss C2 challenges both nationally and within NATO operations.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/OPS4301/507</prop>
+     <seg>dr&#248;fte K2-utfordringar nasjonalt og i NATO-operasjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.06044</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/679</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>Beyond this, self-study under supervision will be the basis for a common methodological approach within the course.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/886</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <seg>Utover dette, s&#229; skal sj&#248;lvstudium under rettleiing ligge til grunn som felles metodisk tiln&#230;rming i emnet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.03889</prop>
+    <prop type="score-bicleaner">0.601</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <seg>Organisation and coordination</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <seg>Organisering og koordinering</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.16092</prop>
+    <prop type="score-bicleaner">0.531</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <seg>In particular, the topics of Naval English and Naval Leadership will be integrated into the other topics.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <seg>S&#230;rleg vil delemna sj&#248;milit&#230;r engelsk og sj&#248;milit&#230;rt leiarskap bli trekt inn i dei andre delemna.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.07406</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <seg>summarise a fundamental insight into the naval profession and ethical issues.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <seg>oppsummere grunnleggande innsikt i sj&#248;milit&#230;re fag- og yrkesetiske problemstillingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.06765</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/368</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <seg>Academic methods, theory of knowledge and decision theory provides a basis for critical thinking, an understanding of the premises and frameworks for the staff programmes and the operational processes of planning and decision-making, in addition to a providing a basis for further education at the Master&#8217;s level.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/368</prop>
+     <seg>Vitskaplege metodar, kunnskapsteori og avgjersleteori gir eit grunnlag for kritisk tenking, ei forst&#229;ing for premissa og rammene for stabsstudiane og dei operative plan- og avgjersleprosessane, samt eit grunnlag for &#229; g&#229; vidare p&#229; masterstudiane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.14036</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>This course builds on the common course from the first semester and aims to provide the cadets with knowledge and skills in order to understand the naval profession and demonstrate understanding of naval issues.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <seg>Emnet bygger p&#229; fellesemna i fyrste semester og har som f&#248;rem&#229;l &#229; tilf&#248;re kadettane kunnskapar og ferdigheitar for &#229; kunne forst&#229; den sj&#248;milit&#230;re profesjon og utvise skj&#248;nn i sj&#248;milit&#230;re problemstillingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.27108</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/OPS4301/507</prop>
+     <seg>discuss combat ability (capability), individually and complementary, limitations and possibilities.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/OPS4301/507</prop>
+     <seg>diskutere kampevne (kapabilitet), einskild og komplement&#230;rt, avgrensingar og moglegheiter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.02645</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>Written tasks and presentations must, for example, completed in English, and all training assignments and exercises will similarly be done in English within the subject of leadership.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <seg>gjerast p&#229; engelsk, alle &#248;vingsoppg&#229;ver og &#248;vingar skal likeeins brukast inn i leiarskapsfaget og/eller Sj&#248;makt og tryggleikleikstudier.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.57977</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/679</prop>
+     <seg>In course 5, the cadets will gain knowledge and skills that are the common building blocks in such exercise of judgment.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/886</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <seg>I emne 5 skal kadettane bli tilf&#248;rt kunnskapar og ferdigheitar som utgjer felles byggjesteinar i slik ut&#248;ving av skj&#248;nn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.21051</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>This means that the teachers at times will focus on mentoring and feedback, more than traditional teaching methods (lectures).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <seg>Dette betyr mellomanna at l&#230;rekreftene i periodar skal fokusere p&#229; tilgjenge og tilbakemelding, framfor tradisjonell undervising (f&#248;redrag).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.03729</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/368</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <seg>explain the rationale for, and an understanding of, the military planning and decision-making process</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/368</prop>
+     <seg>forklare rasjonale for og forst&#229; milit&#230;r plan- og avgjersleprosess</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.21818</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://video.forsvaret.no/fotoweb/</prop>
+     <seg>The download takes a while to process.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.forsvaret.no/aktuelt-og-presse/offentleg-journal</prop>
+     <seg>Har du fleire sp&#248;rsm&#229;l, kan du ta kontakt med oss.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.04923</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <seg>The course will primarily be implemented on missions with the HNoMS Statsraad Lehmkuhl.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <seg>Emnet vil i all hovudsak bli gjennomf&#248;rt p&#229; tokt med KNM Statsraad Lehmkuhl.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.10031</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/679</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>The teaching and development of individual and team-orientated leadership will provide the cadets with a personal, professional and ethical foundation for developing and exercising good naval leadership.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/886</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <seg>Samla skal undervisinga og utviklinga av individuell- og teamorientert leiarskap gi kadetten eit menneskeleg, fagleg og yrkesetisk grunnlag for &#229; utvikle og ut&#248;ve godt sj&#248;milit&#230;r leiarskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.10655</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/368</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <seg>utilise probability, statistical methods and simple mathematical modelling as tools for the solution of practical and technical military problems.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/368</prop>
+     <seg>nyttegjere seg av sannsynsrekning, statistiske metodar og enkel matematisk modellering som st&#248;tte til l&#248;ysing av praktiske og tekniske milit&#230;re problem.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.27537</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <seg>The cadets will be trained in English through written assignments and oral presentations within Naval Archimedes, and operational analyses will also be made in English.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <seg>Kadettane skal trenast i engelsk ved at skriftelege arbeider og munnlege presentasjonar i Naval Archimedes og i operasjonsanalyse skal gjerast p&#229; engelsk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.1655</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/679</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>In other words, a "happy ship" is also a ship where the individual completes his/her tasks alone or collaboratively without having to be guided and instructed constantly.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/886</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <seg>Eit &#171;happy ship&#187; er med andre ord ogs&#229; eit skip kvar den einskilde l&#248;yser sine oppg&#229;ver aleine og i samarbeid, utan &#229; m&#229;tte f&#229; f&#248;ringar og instruksar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.41726</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/368</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <seg>explain the difference between qualitative and quantitative methods and their strengths and limitations</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/368</prop>
+     <seg>forklare forskjellen p&#229; kvalitative og kvantitative metodar og deira styrker og avgrensingar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.07685</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>help create a learning environment that enables the unit/team to prepare and carry out maritime operations as a &#8220;happy ship&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <seg>bidra til &#229; skape eit l&#230;ringsmilj&#248; som set avdelinga/teamet i stand til &#229; f&#248;rebu og gjennomf&#248;re maritime operasjonar som eit &#171;happy ship&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.07352</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/368</prop>
+     <seg>The most important component of the course in promoting such an interdisciplinary approach is a practical problem-solving concept, EXER NAVAL ARCHIMEDES.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/368</prop>
+     <seg>Den viktigaste einskild komponenten i emnet for &#229; fremje ei slik tverrfagleg tiln&#230;rming er eit praktisk probleml&#248;ysingskonsept, EXER NAVAL ARCHIMEDES.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.246</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>, and the teaching will make use of the fact that we are at sea together.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <seg>Undervisninga skal difor nyttegjere det at ein er om bord.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.07781</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/679</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/368</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>This means that the individual cadet will both do his/her own work assignments and provide feedback to the other cadets under qualified supervision.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/680</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-elektronikk-og-data/studieplan/926</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/886</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/368</prop>
+     <seg>Dette inneber at den einskilde kadett b&#229;de skal laga eigne arbeider og gje tilbakemeldingar p&#229; dei andre kadettane under kvalifisert rettleiing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.10879</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <seg>exchange views and experiences in English with others within the subject area and through this, contribute to the development of effective forms of communication, and also improve on a shared consciousness.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <seg>utveksle synspunkt og erfaringar p&#229; engelsk med andre innanfor fagomr&#229;det og gjennom dette bidra til utvikling effektive kommunikasjonsformar og betre felles medvit.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.15036</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/679</prop>
+     <seg>We will discuss the domain of the sea, its theory and history (naval power and naval warfare), as well as place this within cultural and international surroundings (international politics).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/886</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <seg>Me vil l&#248;fte fram havdomenet, teori og historie (sj&#248;makt og sj&#248;krig), samt setje dette inn i kulturelle og internasjonale omgjevnader (internasjonal politikk).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.34431</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <seg>One in naval power (specific topic) and one in leadership (specific topic).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <seg>Eit i sj&#248;makt (spesifisert emne) og eit i leiarskap (spesifisert emne).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.10801</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/679</prop>
+     <seg>In addition, there will be a compendium in grammar, English Grammar.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/886</prop>
+     <seg>Kompendium med tekster og terminologi i sj&#248;milit&#230;r og maritim engelsk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.16316</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <seg>master clear and correct English pronunciation, as well as be able to read and understand relevant English literature in the naval and maritime field.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <seg>mestre tydeleg og korrekt engelsk uttale, samt kunne lese og forst&#229; relevant engelskspr&#229;kleg sj&#248;milit&#230;r og maritim faglitteratur.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.06063</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/368</prop>
+     <seg>The cadets will also expand their competence and skills in naval English, presentation techniques and academic writing.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/368</prop>
+     <seg>Kadettane skal ogs&#229; utvide sin kompetanse og sine ferdigheitar i sj&#248;milit&#230;r engelsk, presentasjonsteknikk og akademisk skriving.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.22978</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1302/368</prop>
+     <seg>The cadets will be trained in English through multiple written assignments and oral presentations within Naval Archimedes, and operational analyses will also be made in English.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1302/368</prop>
+     <seg>Kadettane skal trenast i engelsk ved at mange skriftelege arbeider og munnlege presentasjonar i Naval Archimedes og i operasjonsanalyse skal gjerast p&#229; engelsk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.14205</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/679</prop>
+     <seg>This course builds on the common course from the first semester and aims to provide the cadets with knowledge and skills in order to understand the naval profession and demonstrate discretion in naval issues.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/886</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <seg>Emnet bygger p&#229; fellesemna i fyrste semester og har som f&#248;rem&#229;l &#229; tilf&#248;re kadettane kunnskapar og ferdigheitar for &#229; kunne forst&#229; den sj&#248;milit&#230;re profesjon og utvise skj&#248;nn i sj&#248;milit&#230;re problemstillingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.24604</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>We will discuss the domain of the sea, its theory and history (naval power and naval warfare), as well as place this within its cultural and international environment (international politics).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <seg>Me vil l&#248;fte fram havdomenet, teori og historie (sj&#248;makt og sj&#248;krig), samt setje dette inn i kulturelle og internasjonale omgjevnader (internasjonal politikk).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.42538</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>In course 5, the cadets will gain knowledge and skills that are the common building blocks in the development of good judgement..</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <seg>I emne 5 skal kadettane bli tilf&#248;rt kunnskapar og ferdigheitar som utgjer felles byggjesteinar i slik ut&#248;ving av skj&#248;nn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.52461</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/OPS4301/507</prop>
+     <seg>talk about the Russian A2/AD strategy and the Bastion fortification.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/OPS4301/507</prop>
+     <seg>greie ut om russisk A2/AD og Bastionforsvaret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.21176</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-elektrofag/studieplan/886</prop>
+     <seg>Naval English (NE)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/program/milit%C3%A6re-studier-med-fordypning-i-ledelse-og-logistikk/studieplan/925</prop>
+     <seg>Sj&#248;milit&#230;r engelsk (SE)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.014</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/531</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/en/emne/MILM1301/679</prop>
+     <seg>Therefore, the teaching will ensure that the cadets are on board.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/886</prop>
+     <prop type="source-document">https://utdanning.forsvaret.no/nb/emne/MILM1301/531</prop>
+     <seg>Undervisninga skal difor nyttegjere det at ein er om bord.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

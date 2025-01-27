@@ -1,0 +1,164 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T181635" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.96667</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digdir.no/skate/skates-erfaringsrapport-2020/2321</prop>
+     <seg>Lytte til r&#229;d fra Skate og oppdatere handlingsplanen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/skate/skate-sin-erfaringsrapport-2020/3148</prop>
+     <seg>Lytte til r&#229;d fr&#229; Skate og oppdatere handlingsplanen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.19821</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digdir.no/informasjonssikkerhet/veileder-etablering/1120</prop>
+     <seg>Dersom motpart i utvekslingen av en e-postmelding ikke st&#248;tter denne spesifikasjonen, skal SMTP Service Extension for Secure SMTP over Transport Layer Security [RFC 3207] i opportunistisk modus brukes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/felleslosninger/grunnleggande-datakommunikasjon/1488</prop>
+     <seg>Dersom motpart i utvekslinga av ei e-postmelding ikkje st&#248;ttar denne spesifikasjonen skal SMTP Service Extension for Secure SMTP over Transport Layer Security (RFC 3207) i opportunistisk modus brukast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.28421</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digdir.no/skate/skates-erfaringsrapport-2020/2321</prop>
+     <seg>Mer deling av data og mer aktive departement</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/skate/skate-sin-erfaringsrapport-2020/3148</prop>
+     <seg>Meir deling av data og meir aktive departement</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digdir.no/skate/skates-erfaringsrapport-2020/2321</prop>
+     <seg>Kompetanse og digitaliseringsvennlig regelverk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/skate/skate-sin-erfaringsrapport-2020/3148</prop>
+     <seg>Kompetanse og digitaliseringsvennleg regelverk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.92276</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digdir.no/skate/skates-erfaringsrapport-2020/2321</prop>
+     <seg>I hoveddelen av rapporten vurderer Skate egen m&#229;loppn&#229;else i 2020, og oppsummerer r&#229;d Skate har gitt til regjeringens digitaliseringsarbeid gjennom &#229;ret.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/skate/skate-sin-erfaringsrapport-2020/3148</prop>
+     <seg>I hovuddelen av rapporten vurderer Skate eiga m&#229;loppn&#229;ing i 2020, og oppsummerer r&#229;d Skate har gitt til regjeringa sitt digitaliseringsarbeid gjennom &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.15115</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digdir.no/informasjonsforvaltning/faglig-arena-datadeling-og-informasjonsforvaltning/2892</prop>
+     <seg>Faglig arena er en etablert fast m&#248;teplass for de som er interessert i problemstillinger knyttet til informasjonsforvaltningsarbeid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/informasjonsforvaltning/fagleg-arena-datadeling-og-informasjonsforvaltning/3024</prop>
+     <seg>Fagleg arena for informasjonsforvaltning er ein fast m&#248;teplass for dei som er interessert i problemstillingar knyt til informasjonsforvaltningsarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.24555</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digdir.no/informasjonssikkerhet/veileder-etablering/1120</prop>
+     <seg>Det anbefales &#229; benytte transportsikring av e-post mellom e-post servere, b&#229;de ved sending av e-post til offentlige virksomheter og ved sending av e-post til innbyggere og n&#230;ringsliv.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/felleslosninger/grunnleggande-datakommunikasjon/1488</prop>
+     <seg>Det er anbefalt &#229; nytte transportsikring av e-post mellom e-post servarar, b&#229;de ved sending av e-post til offentlege verksemder og ved sending av e-post til innbyggarar og n&#230;ringsliv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.61146</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://samarbeid.digdir.no/digital-postkasse/digdircamp-sommerjobb-it-studenter/734</prop>
+     <seg>Er det mulig &#229; gi "dingser" som Alexa fra Amazon og Google Home tilgang til beskyttet informasjon gjennom ID-porten?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/digdir/digdircamp-sommarjobb-it-studentar/1133</prop>
+     <seg>Er det mogleg &#229; gi dingsar som Alexa fr&#229; Amazon og Google Home tilgang til beskytta informasjon gjennom ID-porten?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.01429</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digdir.no/skate/skates-erfaringsrapport-2020/2321</prop>
+     <seg>Fellesl&#248;sninger og nye modeller for samstyring</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/skate/skate-sin-erfaringsrapport-2020/3148</prop>
+     <seg>Fellesl&#248;ysingar og nye modellar for samstyring</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.54196</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digdir.no/felleslosninger/utveksling-av-tekstdokumenter/1500</prop>
+     <seg>Dette for i st&#248;rre grad &#229; sikre at dokumentet blir gjengitt korrekt ved visning av dokumentet, uavhengig av plattform som benyttes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/digitale-felleslosninger/publisering-av-tekstdokument/1494</prop>
+     <seg>Dette for i st&#248;rre grad &#229; sikre at dokumentet vert gitt att korrekt, uavhengig av kva plattform som vert nytta ved visning av dokumentet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.86651</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digdir.no/skate/skates-erfaringsrapport-2020/2321</prop>
+     <seg>Form&#229;l, historie, viktige grep fra regjeringen og nytt mandat for Skate</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/skate/skate-sin-erfaringsrapport-2020/3148</prop>
+     <seg>Form&#229;l, historie, viktige grep fr&#229; regjeringa og nytt mandat for Skate</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.37985</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digdir.no/informasjonsforvaltning/faglig-arena-informasjonsforvaltning/2431</prop>
+     <prop type="source-document">https://www.digdir.no/informasjonsforvaltning/faglig-arena-informasjonsforvaltning/2829</prop>
+     <seg>Faglig arena for informasjonsforvaltning er en etablert fast m&#248;teplass for de som er interessert i problemstillinger knyttet til informasjonsforvaltningsarbeid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digdir.no/informasjonsforvaltning/fagleg-arena-datadeling-og-informasjonsforvalning/2948</prop>
+     <prop type="source-document">https://www.digdir.no/informasjonsforvaltning/fagleg-arena-datadeling-og-informasjonsforvaltning/3005</prop>
+     <seg>Fagleg arena for informasjonsforvaltning er ein fast m&#248;teplass for dei som er interessert i problemstillingar knyt til informasjonsforvaltningsarbeid.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

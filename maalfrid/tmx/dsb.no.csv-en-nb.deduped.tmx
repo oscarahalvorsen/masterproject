@@ -1,0 +1,942 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T034052" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.12556</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/veiledere/guideline-to-host-nation-support-in-norway.pdf.converted</prop>
+     <seg>leaving Norway at the end of their contribution.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/veiledere/nasjonal_veileder_for_liaisonfunksjonen.pdf.converted</prop>
+     <seg>samordning og kommunikasjon er sentrale og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.21316</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>Act relating to Planning and the Processing of Building</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>Lov om planlegging og byggesaksbehandling</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.9254</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_engelsk_2019_trykkfilspreads.pdf.converted</prop>
+     <seg>installed a FG-approved stove guard.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_bokmal_2019_trykkfil_fogra39_spreads.pdf.converted</prop>
+     <seg>en FG-godkjent komfyrvakt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">3.3</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/contentassets/55e32832bd2b46408ad613916ade1c83/vedlegg-4--kvantitativ-2d-risikoanalyse-for-utvidet-anlegg-av-dnv-gl.pdf.converted</prop>
+     <seg>The resulting flash-fire has a maximum radius of about 2 m.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/contentassets/55e32832bd2b46408ad613916ade1c83/samtykkesoknad-datert-2020-04-21.pdf.converted</prop>
+     <seg>Pulverslokkeutstyr er plassert i anlegget. Figur 2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.12003</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/oppsummering_skagex11_evalueringsrapport.pdf.converted</prop>
+     <seg>Hence, the evaluation instead focuses on the assessment of the individuals&#8217; and team&#8217;s particular proficiency.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/oppsummering_skagex11_wayforward_rapport_no_offentlig.pdf.converted</prop>
+     <seg>Et EUCP-team kan skape en un&#248;dvendig forsinkelse i en akutt situasjon, og det virker ikke som om det kan tilf&#248;re noen merverdi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.02333</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/veiledere/guidance-to-municipal-preparedness-duty.pdf.converted</prop>
+     <seg>include the establishment of reception centres for</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/veiledere/tilsynsveileder_for_brann_og_redningsvesenet.pdf.converted</prop>
+     <seg>et p&#229;legg eller et tvangsmulktvedtak, klages inn for det</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.08964</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_report.pdf.converted</prop>
+     <seg>RISK AND VULNERABILITY ANALYSES CONNECTED TO</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_rapport.pdf.converted</prop>
+     <seg>kommunen og de kommunale virksomhetene &#8211; og ogs&#229; overfor</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.04167</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/barents_rescue_evaluationpdf.pdf.converted</prop>
+     <seg>must balance a number of considerations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/nrb_2015_delrapport_risikoanalyse_av_skoleskyting_i_nordland.pdf.converted</prop>
+     <seg>Dette kjennetegner store deler av Norge og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.27717</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>Furthermore, society's adaptation to climate change depends on knowledge as a basis for decision-making.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>Samfunnets tilpasning til klimaendringene er videre avhengig av kunnskap som grunnlag for beslutninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.22308</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_report.pdf.converted</prop>
+     <seg>for the development of Oslo's harbour.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_rapport.pdf.converted</prop>
+     <seg>Det er behov for en gjennomgang og styrking av vaktholdet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.09771</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>protection and preparedness work, the Ministry of Justice and Public Security&#8217;s coordination role, audit function and central crisis management;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>arbeid med samfunnssikkerhet og beredskap, Justis- og beredskapsdepartementets samordningsrolle, tilsynsfunksjon og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.15197</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/assessment_of_the_viking_sky_incident.pdf.converted</prop>
+     <seg>Norway has two joint rescue coordination centers, each with its own area of responsibility.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/elsikkerhet-els/elsikkerhet-magasinet/88.pdf.converted</prop>
+     <seg>Han holdt vinkelsliperen med den ene h&#229;nden samti-dig som han tok i jordspydet med den andre h&#229;nden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/horinger-og-konsekvensutredninger/inovyn/risikoanalyse-ineos.pdf.converted</prop>
+     <seg>Details of the scope of these modifications can be found in Appendix C.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/elsikkerhet-els/elsikkerhet-magasinet/2004-06-elsikkerhet-65.pdf.converted</prop>
+     <seg>utsettes videre at elektrofagarbeideren er ansatt i den aktuelle virksomheten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.19531</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>The potential impacts of climate change on these areas must be highlighted.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>Mulige konsekvenser av klimaendringene p&#229; fagomr&#229;dene m&#229; synliggj&#248;res.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.1</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/assessment_of_the_viking_sky_incident.pdf.converted</prop>
+     <seg>The National Health Preparedness Plan is a national framework for health sector preparedness.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/elsikkerhet-els/elsikkerhet-magasinet/88.pdf.converted</prop>
+     <seg>februar ble en elektromont&#248;r utsatt for str&#248;mgjennomgang da han skulle skifte en stikkontakt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.18333</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>increase the vulnerability of critical infrastructure.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>ekstremv&#230;r og gradvise klimaendringer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.10485</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/oppsummering_barents_rescue.pdf.converted</prop>
+     <seg>This could be a type of Training Day for the exercise.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/oppsummering_ovelse_oslo.pdf.converted</prop>
+     <seg>For en effektiv h&#229;ndtering av og oversikt over skadde,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.36691</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_report.pdf.converted</prop>
+     <seg>In the short term, the areas east of Akershus should be freed up.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_rapport.pdf.converted</prop>
+     <seg>og en videref&#248;ring av cruise- og fergetrafikk samt v&#229;t- og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.22683</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/hendelser/koronavirus/quarantine-hotel-service-for-visitors-to-norway-who-need-a-suitable-place-to-quarantine/</prop>
+     <seg>Municipalities with quarantine hotels and contact points</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/hendelser/koronavirus/tilbud-om-karantenehotell-for-innreisende-til-norge-med-behov-for-egnet-karantenested/</prop>
+     <seg>Kommuner med karantenehotell og kontaktpunkt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.06364</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_report.pdf.converted</prop>
+     <seg>Kongshavn, some of the area will be set aside for the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_rapport.pdf.converted</prop>
+     <seg>og &#248;vrig sikkerhet framst&#229;r i denne sammenhengen som knapt,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.18214</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_engelsk_2019_trykkfilspreads.pdf.converted</prop>
+     <seg>requirements for stove guards:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_bokmal_2019_trykkfil_fogra39_spreads.pdf.converted</prop>
+     <seg>Her setter myndighetene krav om komfyrvakt:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.08337</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/farlige-stoffer-npf/transport-av-farlig-gods/direktiv-2010-35_tped.pdf.converted</prop>
+     <seg>This documen-tation shall be kept for the period specified therein.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/farlige-stoffer-npf/vurdering-av-gjeldende-regelverk-for-lpg.pdf.converted</prop>
+     <seg>forst&#229;elsen av regelverket for &#248;vrig, og forholdet mellom de ulike akt&#248;rene i bransjen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.2211</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>new partnerships to further develop the agency's knowledge about the impacts of climate change on societal security and enhance its prevention and preparedness capacity.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>nye nettverk og partnerskap med relevante akt&#248;rer for &#229; videreutvikle kunnskap om og evnen til &#229; forebygge og h&#229;ndtere konsekvensene av klimaendringene p&#229; samfunnssikkerheten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.18125</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_report.pdf.converted</prop>
+     <seg>would be dealt with in a separate plan with its own impact</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_rapport.pdf.converted</prop>
+     <seg>overfor leietakere og brukere, med klare forventninger og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.70357</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/andre-rapporter/final-report-scandpower-2012.pdf.converted</prop>
+     <seg>"Case Tank facility - diesel":</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/andre-rapporter/retningslinjer-for-kvantitative-risikovurderinger-for-anlegg-som-handterer-farlig-stoff.pdf.converted</prop>
+     <seg>&#229;r i "alle punkter".</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.16019</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>The Regional and Local Risk Management unit in the Department of Analysis and National Preparedness is responsible for coordinating the agency-wide efforts in this respect.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>Ansvaret for koordinering av plattformen tillegges avdelingen Analyse og nasjonal beredskap ved enheten Regional og lokal sikkerhet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.22727</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/barents_rescue_evaluationpdf.pdf.converted</prop>
+     <seg>security (CIM) for the health sector.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/nrb_2015_delrapport_risikoanalyse_av_skoleskyting_i_nordland.pdf.converted</prop>
+     <seg>umiddelbar n&#230;rhet av skoleskyteren (sett ham)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.03421</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/veiledere/guideline-to-host-nation-support-in-norway.pdf.converted</prop>
+     <seg>A request in four steps</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/veiledere/nasjonal_veileder_for_liaisonfunksjonen.pdf.converted</prop>
+     <seg>I milit&#230;r sammenheng</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.00427</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/skagex11-evalueringsrapport.pdf.converted</prop>
+     <seg>At times there were several helicopters in the area in holding, and at other times there were no helicopters to airlift persons from Bohus.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/skagex11-way-forward-rapport_no-offentlig.pdf.converted</prop>
+     <seg>Her ble det ogs&#229; anbefalt at ledelsen av Nordisk RITS-forum b&#248;r f&#248;lge ledelsen av NORDRED slik at Sverige overtar ledelsen for neste tre&#229;rsperiode, og at arbeidet i forumet b&#248;r samordnes med RITS-samarbeidet innen EU.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.125</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_engelsk_2019_trykkfilspreads.pdf.converted</prop>
+     <seg>There are two types of stove guards:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_bokmal_2019_trykkfil_fogra39_spreads.pdf.converted</prop>
+     <seg>Det finnes to typer komfyrvakt:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.168</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/assessment_of_the_viking_sky_incident.pdf.converted</prop>
+     <seg>preparedness in the county.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/elsikkerhet-els/elsikkerhet-magasinet/88.pdf.converted</prop>
+     <seg>Det ble heller ikke benyttet AUS-tang.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.06774</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_report.pdf.converted</prop>
+     <seg>FJORD CITY RESOLUTION AND SYDHAVNA</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_rapport.pdf.converted</prop>
+     <seg>containervirksomhet skal flyttes til Sydhavna, som etableres</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">3.05286</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>DSB has been dealing with issues related to climate change adaptation since 2004.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>Klimatilpasning har v&#230;rt et tema i DSB fra 2004, delvis som oppf&#248;lging av S&#229;rbarhetsutvalget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.57603</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>NORWEGIAN DIRECTORATE FOR CIVIL PROTECTION 4 MEASURES To achieve the objective of this platform, all departments in DSB are to prioritize the following actions:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>DIREKTORATET FOR SAMFUNNSSIKKERHET OG BEREDSKAP 4 TILTAK For &#229; n&#229; denne plattformens m&#229;l, skal alle avdelinger prioritere f&#248;lgende tiltak:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.204</prop>
+    <prop type="score-bicleaner">0.688</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_engelsk_2019_trykkfilspreads.pdf.converted</prop>
+     <seg>Where can I get a stove guard?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_bokmal_2019_trykkfil_fogra39_spreads.pdf.converted</prop>
+     <seg>Hvor kan man skaffe seg en komfyrvakt?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.01</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/brann-og-redning-bre/alt-vi-kan-mot-brann/komfyrvaktkampanje-2017/folder-ulike-sprak/1700861-engelsk-folder-a5-hyopp.pdf.converted</prop>
+     <seg>Association of Chimney Sweeps (Feiermesternes landsforening), the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/brann-og-redning-bre/alt-vi-kan-mot-brann/komfyrvaktkampanje-2017/folder-ulike-sprak/1700861-samisk-folder-a5-hyopp.pdf.converted</prop>
+     <seg>Branninformasjonsforum, Feiermesternes landsforening, Norsk brannbefals</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.125</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>societal security, and thus improve the utilization of existing data to enable the integration of climate change concerns in the agency's regulatory responsibilities.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>p&#229; samfunnssikkerhet og forbedre utnyttelsen av eksisterende data for &#229; kunne innarbeide hensyn til klimaendringene i sin fagportef&#248;lje.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>DSB shall have an overview of the impacts of climate change on</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>DSB skal ha oversikt over konsekvensene av klimaendringene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.22683</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>Regulations relating to measures to prevent and limit the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>Forskrift om tiltak for &#229; forebygge og begrense</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.18667</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/kiks-ii_english_version.pdf.converted</prop>
+     <seg>dents or hazards, and that are not provided by bodies</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/risikostyring-i-digitale-verdikjeder.pdf.converted</prop>
+     <seg>st&#248;rrelser i den forstand at et brudd enten foreligger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_engelsk_2019_trykkfilspreads.pdf.converted</prop>
+     <seg>Stove guards connected via a cable to a</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_bokmal_2019_trykkfil_fogra39_spreads.pdf.converted</prop>
+     <seg>Komfyrvakt som kobles til via ledning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.076</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/risiko-sarbarhet-og-beredskap/skjema-og-vedlegg/merepuv/working-paper-sfrs.pdf.converted</prop>
+     <seg>It will be possible to provide the public transportation system with the available fuel</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/elsikkerhet-els/elsikkerhet-magasinet/elsikkerhet-nr.-93.pdf.converted</prop>
+     <seg>Mont&#248;ren skvatt til og drog til seg armen, og i den forbindelse kom borti skarpe kanter i tavlen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.53656</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/lover/farlige-stoffer/artikler/authorized-rock-blaster-certificate--applicants-from-other-eueea-countries/</prop>
+     <seg>It is important that you take into account a case processing time of approximately 2-3 months.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/lover/farlige-stoffer/artikler/soknad-om-bergsprengersertifikat-fra-annet-eueos-land/</prop>
+     <seg>Det er viktig at du tar h&#248;yde for en saksbehandlingstid p&#229; ca 2 &#8211; 3 m&#229;neder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">4.34262</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>From 2007 to 2013, DSB acted as the secretariat of the governmental committee for climate change adaptation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>Fra 2007 til 2013 var DSB regjeringens klimatilpasningssekretariat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.26939</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>security is threatened by the impacts of climate change.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>samfunnssikkerheten kan trues som f&#248;lge av klimaendringene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.01512</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>All departments shall report to the director annually.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>Avdelingene skal rapportere &#229;rlig til direkt&#248;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.26897</prop>
+    <prop type="score-bicleaner">0.682</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_engelsk_2019_trykkfilspreads.pdf.converted</prop>
+     <seg>type of stove guard is a required.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_bokmal_2019_trykkfil_fogra39_spreads.pdf.converted</prop>
+     <seg>er det krav om denne type komfyrvakt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.67931</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>NORWEGIAN DIRECTORATE FOR CIVIL PROTECTION 6 RESPONSIBILITIES All departments in DSB are responsible for following up this platform.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>DIREKTORATET FOR SAMFUNNSSIKKERHET OG BEREDSKAP 6 ANSVAR OG OPPF&#216;LGING Alle avdelinger i DSB er ansvarlig for oppf&#248;lging av denne plattformen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.16512</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/kiks-ii_english_version.pdf.converted</prop>
+     <seg>Care services include activities that aim to look after</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/risikostyring-i-digitale-verdikjeder.pdf.converted</prop>
+     <seg>er integritet som er den st&#248;rste bekymringen, kan</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.06</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>When designing exercises, DSB shall consider if it is possible to include climate change concerns.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>Ved utforming av &#248;velser skal DSB vurdere om hensyn til klimaendringer kan inkluderes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.1131</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/risiko-sarbarhet-og-beredskap/skjema-og-vedlegg/merepuv/working-paper-sfrs.pdf.converted</prop>
+     <seg>Each of these services is necessary for providing quality healthcare</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/elsikkerhet-els/elsikkerhet-magasinet/elsikkerhet-nr.-93.pdf.converted</prop>
+     <seg>Det fremg&#229;r at hendelsen ikke f&#248;rte til personskade og skadefrav&#230;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.22174</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_engelsk_2019_trykkfilspreads.pdf.converted</prop>
+     <seg>What is the price of a stove guard?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_bokmal_2019_trykkfil_fogra39_spreads.pdf.converted</prop>
+     <seg>Hva koster en komfyrvakt?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.37134</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/veiledere/guideline-to-host-nation-support-in-norway.pdf.converted</prop>
+     <seg>response, it is recommended that the contact person/</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/veiledere/nasjonal_veileder_for_liaisonfunksjonen.pdf.converted</prop>
+     <seg>liaisonens rolle(r) og oppgaver er, og ikke er, i tillegg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.02026</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/lover/farlige-stoffer/eksplosiver/soknader-om-eksplosivhandtering/blasting-professionals--recognition-of-professional-qualifications/</prop>
+     <seg>For example, if you apply for recognition as an authorized rock blaster, you are required to have received recognition as such in another EEA-state or Switzerland at the time of your application in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/lover/farlige-stoffer/eksplosiver/soknader-om-eksplosivhandtering/bergsprengning---godkjenning-av-yrkeskvalifikasjoner/</prop>
+     <seg>Dersom du for eksempel s&#248;ker om godkjenning av dine yrkeskvalifikasjoner som bergsprenger, forutsettes det at du allerede er bergsprenger i en annen E&#216;S-stat eller i Sveits p&#229; s&#248;knadstidspunktet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.59048</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_report.pdf.converted</prop>
+     <seg>&#8226; Sjurs&#248;ya will be regulated primarily for port activities, with</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_rapport.pdf.converted</prop>
+     <seg>oppf&#248;lging med utgangspunkt i behovet for mer helhetlig</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.21429</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/explosion-accident-during-mobile-production.pdf.converted</prop>
+     <seg>In the following figure, four different configurations</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/elsikkerhet-els/elsikkerhet-magasinet/2005-06-elsikkerhet-67.pdf.converted</prop>
+     <seg>Mont&#248;r utsatt for str&#248;mgjennomgang under feilretting i en koplingsboks</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.36875</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_engelsk_2019_trykkfilspreads.pdf.converted</prop>
+     <seg>approved by the FG Skadeteknikk, and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_bokmal_2019_trykkfil_fogra39_spreads.pdf.converted</prop>
+     <seg>kj&#248;pe komfyrvakter som er FG-godkjente,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.13622</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>This includes other public agencies, municipalities, research and education institutions, the insurance industry and other forums, such as the national platform for disaster risk reduction.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>Dette omfatter andre offentlige etater og fora, som Naturfareforum, kommuner, forsknings- og utdanningsinstitusjoner, forsikringsbransjen og andre private akt&#248;rer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.00505</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-engelsk-endelig-220917.pdf.converted</prop>
+     <seg>societal security, and thus improve the utilization of existing data to enable the agency to raise relevant issues in connection with its coordinating role.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/andre-boker/klimaplattform-endelig-180517.pdf.converted</prop>
+     <seg>p&#229; samfunnssikkerhet og forbedre utnyttelsen av eksisterende data for &#229; kunne stille relevante sp&#248;rsm&#229;l i forbindelse med etatens samordningsrolle.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.78114</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/lover/farlige-stoffer/artikler/authorized-rock-blaster-certificate--applicants-from-other-eueea-countries/</prop>
+     <seg>Recognition under the explosives regulation of 2002 chapter 14 applies to regulated professions, and is based on you already, in your country of origin, possessing the competence for which you are seeking recognition.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/lover/farlige-stoffer/artikler/soknad-om-bergsprengersertifikat-fra-annet-eueos-land/</prop>
+     <seg>Anerkjennelse i henhold til eksplosivforskriften av 2002 kapittel 14 gjelder for lovregulerte yrker, og baserer seg p&#229; at du allerede har den kompetansen du s&#248;ker om anerkjennelse for fra hjemlandet ditt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.05063</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/oppsummering_barents_rescue.pdf.converted</prop>
+     <seg>This is important to both the exercise management and the local level emergency management.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/oppsummering_ovelse_oslo.pdf.converted</prop>
+     <seg>Det tok uforholdsmessig lang tid for Justis- og politidepartementet &#229; formidle PSTs trusselvurderinger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.36136</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_engelsk_2019_trykkfilspreads.pdf.converted</prop>
+     <seg>and online stores, for example, on the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/contentassets/8fedfe4f861b4d0e822387e94d6c76cf/brosjyre_bokmal_2019_trykkfil_fogra39_spreads.pdf.converted</prop>
+     <seg>nettbutikker, for eksempel p&#229; nettsidene til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.258</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_report.pdf.converted</prop>
+     <seg>entailed the construction of a new quay on the south side of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_rapport.pdf.converted</prop>
+     <seg>til internasjonale reguleringer og standarder omtalt i kapittel</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.1775</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/kiks-ii_english_version.pdf.converted</prop>
+     <seg>order to rescue people from death or injury as a</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/risikostyring-i-digitale-verdikjeder.pdf.converted</prop>
+     <seg>v&#230;re et sp&#248;rsm&#229;l om skj&#248;nn om det foreligger brudd</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.40533</prop>
+    <prop type="score-bicleaner">0.712</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/menyartikler/english/internasjonalt/dsb-cooperation-under-the-eea-and-norway-grants/portugal--predefined-project-vulnerability-assessment-to-climate-change/</prop>
+     <seg>Portugal &#8211; Predefined Project vulnerability assessment to climate change</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/lover/risiko-sarbarhet-og-beredskap/artikler/internasjonalt/dsbs-arbeid-med-eos-midlene/portugal--prosjektsamarbeid----sarbarhetsanalyse-av-klimaendringer/</prop>
+     <seg>Portugal &#8211; Prosjektsamarbeid - s&#229;rbarhetsanalyse av klimaendringer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.18571</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/veiledere/guidance-to-municipal-preparedness-duty.pdf.converted</prop>
+     <seg>in the holistic RVA and the master contingency plan</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/veiledere-handboker-og-informasjonsmateriell/veiledere/tilsynsveileder_for_brann_og_redningsvesenet.pdf.converted</prop>
+     <seg>at de skal st&#229; i forhold til lovbruddets grovhet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.16667</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/risiko-sarbarhet-og-beredskap/skjema-og-vedlegg/merepuv/working-paper-sfrs.pdf.converted</prop>
+     <seg>Creation of new connection points for additional generators;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/elsikkerhet-els/elsikkerhet-magasinet/elsikkerhet-nr.-93.pdf.converted</prop>
+     <seg>Under arbeidet var koblingsboksen frakoblet og gjort spenningsl&#248;s.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.27984</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/barents_rescue_evaluationpdf.pdf.converted</prop>
+     <seg>for training to be better prepared.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/nrb_2015_delrapport_risikoanalyse_av_skoleskyting_i_nordland.pdf.converted</prop>
+     <seg>noen er blitt drept i to av klasserommene, kan det v&#230;re</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.04818</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/risiko-sarbarhet-og-beredskap/skjema-og-vedlegg/merepuv/working-paper-sfrs.pdf.converted</prop>
+     <seg>medical services including medical appliances will not be possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/elsikkerhet-els/elsikkerhet-magasinet/elsikkerhet-nr.-93.pdf.converted</prop>
+     <seg>Imidlertid viste det seg at en kabel i installasjonen fortsatt var spenningsf&#248;rende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.03225</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/assessment_of_the_viking_sky_incident.pdf.converted</prop>
+     <seg>problemsolving is that the actors are clear with respect to each other's roles and responsibilities.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/elsikkerhet-els/elsikkerhet-magasinet/88.pdf.converted</prop>
+     <seg>Det fremg&#229;r at l&#230;rlingen/hjelpearbeideren skulle foreta en tilkobling av en stikkontakt og at dette ble foretatt med spen-ning p&#229; anlegget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.1012</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_report.pdf.converted</prop>
+     <seg>&#8226; Further south, the Kongshavn area will be regulated for port</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/globalassets/dokumenter/rapporter/sydhavna_rapport.pdf.converted</prop>
+     <seg>Denne utredningen tar imidlertid ikke til orde for mer detaljert</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.57738</prop>
+    <prop type="score-bicleaner">0.732</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.dsb.no/lover/farlige-stoffer/artikler/authorized-rock-blaster-certificate--applicants-from-other-eueea-countries/</prop>
+     <seg>Please send all documentation together.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.dsb.no/lover/farlige-stoffer/artikler/soknad-om-bergsprengersertifikat-fra-annet-eueos-land/</prop>
+     <seg>Vennligst send all dokumentasjon samlet.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

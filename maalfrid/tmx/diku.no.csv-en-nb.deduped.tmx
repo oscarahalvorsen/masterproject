@@ -1,0 +1,1914 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T070154" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.12894</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/forskerskolen/study-plan-for-the-norwegian-artistic-research-programme-2019</prop>
+     <seg>The teaching provided in the Research Fellowship Programme consists of a project-specific training component worth 10 credits and an interdisciplinary training component worth 20 credits.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/forskerskolen/studieplan-stipendiatprogrammet-for-kunstnerisk-utviklingsarbeid-2019</prop>
+     <seg>Undervisningen best&#229;r av en prosjektspesifikk oppl&#230;ringsdel, som utgj&#248;r 10 studiepoeng og en fellesfaglig oppl&#230;ringsdel, som utgj&#248;r 20 studiepoeng.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.04091</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/content/download/1204/file/What-is-critical-reflection.pdf.converted</prop>
+     <seg>Regulations for the Research Fellowship Programme and the Procedure for Final</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/content/download/1234/file/Vassenden-Hva-er-kristisk-refleksjon-med-intro.pdf.converted</prop>
+     <seg>mellom kunstfag og (lokal)demokrati, og handler et stykke p&#229; vei om hvorvidt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.48203</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/narp-guidelines-2021</prop>
+     <seg>The Diku form (section 4) for budget must be used. The programme board might support the project with a lower grant than what is applied for.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/pku-utlysning-2021</prop>
+     <seg>Dikus budsjettmal (seksjon 4) m&#229; brukes. Programstyret har mulighet til &#229; gi tilslag p&#229; en lavere sum enn s&#248;ker har budsjettert med.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.04538</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/sfu/sfu-centers-for-excellence-in-education-call-2019.pdf.converted</prop>
+     <seg>&#8226; How is the proposed centre integrated into the institution&#8217;s wider efforts</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/digital-sikkerhet-i-helse-og-sosialfag/digital-sikkerhet-i-helse-og-sosialfag-utlysning-2019.pdf.converted</prop>
+     <seg>Utforskning og utnytting av teknologi og digitale l&#248;sninger er forventet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.27949</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>The research school is fully funded by the Norwegian Artistic Research Programme and is free for research fellows who have been approved.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Undervisningen er fullfinansiert av Program for kunstnerisk utviklingsarbeid, og er gratis for stipendiater som har f&#229;tt godkjent deltakelse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.3764</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>1 a), which allow processing of personal data when consent has been given to such processing. Subscription to newsletters etc.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>1 a) som tillater behandling n&#229;r det foreligger samtykke til dette. Abonnering p&#229; nyhetsbrev, bestilling av informasjonsmateriell o.l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.4598</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/artistic-research-spring-forum-2020-canceled</prop>
+     <seg>Due to the current Coronavirus outbreak, we unfortunately find it necessary to cancel the Artistic Research Spring Forum 2020.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/artistic-research-spring-forum-2020-avlyst</prop>
+     <seg>P&#229; grunn av situasjonen knyttet til koronaviruset har vi dessverre kommet frem til at at vi m&#229; avlyse Artistic Research Spring Forum 2020.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.09216</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>1 d) and f), which allow processing to secure our visitors&#8217; vital interests, and processing based on legitimate interests when this does not contradict central privacy interests.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>1 d) og f), som tillater behandling av opplysninger som er n&#248;dvendig for sikre den registrertes vitale interesser, samt for &#229; ivareta en berettiget interesse som veier tyngre enn hensynet til den enkeltes personvern.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.06719</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/call-for-proposals-centres-for-excellence-in-education-2022</prop>
+     <seg>The deadline for the annual report is March 1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/utlysning-av-sentre-for-fremragende-utdanning-2022</prop>
+     <seg>Frist for &#229; sende inn &#229;rsrapport er 1. mars.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.49535</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norpart-norwegian-partnership-programme-for-global-academic-cooperation/norway-and-sri-lanka-unlocking-potential-in-the-blue-economy</prop>
+     <seg>Jorge Santos, Project Coordinator from The Arctic University of Norway, talks warmly about the people behind Nor-Lanka Blue for the projects success.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/norpart-partnerskapsprogram-for-globalt-akademisk-samarbeid/norge-og-sri-lanka-skaper-potensiale-i-den-blaa-oekonomien</prop>
+     <seg>Jorge Santos, prosjektkoordinator fra UiT Norges arktiske universitet, roser menneskene bak Nor-Lanka Blue for at prosjektet er blitt vellykket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.03</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/intpart/intpart-result-review-2019-final-forweb.pdf.converted</prop>
+     <seg>and programs for</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/aarsrapport-for-siu-2017-2018.pdf.converted</prop>
+     <seg>generelt er h&#248;yt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.23926</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>A member from the board of the Norwegian Artistic Research Programme, as long as there are active fellows in the Fellowship programme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>En representant fra styret for Program for kunstnerisk utviklingsarbeid, s&#229; lenge det er stipendiater i Stipendiatprogrammet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.12348</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>In particular cases, it may nevertheless be that exceptions apply for certain documents and information, temporarily (postponement of access) or permanently (no access).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Likevel kan andre hensyn i enkelte tilfeller begrunne at innsyn i visse dokument og opplysninger begrenses, midlertidig (utsatt innsyn) eller permanent (innsynsnekt).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.02727</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/artistic-research-spring-forum-2021</prop>
+     <seg>Research fellows, supervisors, academic and administrative staff, and others concerned with artistic research.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/artistic-research-spring-forum-2021</prop>
+     <seg>Stipendiater, veiledere, faglig og administrativt ansatte p&#229; utdanningsinstitusjonene, samt andre som er interessert i kunstnerisk utviklingsarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/narp-guidelines-2021</prop>
+     <seg>Costs for use of infrastructure and equipment can be included in the application.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/pku-utlysning-2021</prop>
+     <seg>Kostnader til dekning av infrastruktur og til bruk av utstyr kan inng&#229; i s&#248;knaden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.065</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/about-diku/policy-documents</prop>
+     <seg>The UN Sustainable Development Goals make up the global framework for social development towards 2030 and will influence Diku&#8217;s work in the strategy period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/om-diku/politikk-og-styrende-dokumenter</prop>
+     <seg>FN sine b&#230;rekraftm&#229;l er den globale ramma for samfunnsutvikling fram mot 2030, og desse vil ogs&#229; prege arbeidet til Diku i strategiperioden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.19747</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>If the survey is not anonymous, Diku and its service providers may identify the respondents.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Dersom unders&#248;kelsen ikke er anonym, kan Diku og programvareleverand&#248;ren identifisere de som har besvart unders&#248;kelsen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.82857</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>In this vein, Diku require all persons asked to take part in our administrative decision-making processes to assess their own impartiality prior to commencement of their work, cf. the PAA, Section 8.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Som et ledd i dette, er det fast praksis i Diku at personer som skal delta i forvaltningsmessige vurderinger og avgj&#248;relser vurderer sin egen habilitet f&#248;r deltagelsen p&#229;begynnes, jf. forvaltningsloven &#167; 8.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">4.28393</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/norwegian-artistic-research-programme/norwegian-research-school-course-plan-2020-2021-1-.pdf.converted</prop>
+     <seg>A total workload of 125-150 hours, corresponding to 5 credits.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norwegian-artistic-research-programme/nasjonal-forskerskole-i-ku-kursplan-2021-2022-3-.pdf.converted</prop>
+     <seg>Arbeidsmengde totalt 125-150 timer, tilsvarende 5 studiepoeng.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/these-are-the-sfu-finalists</prop>
+     <seg>Chair of the Committee, Stephanie Marshall, noted: &#8220;The existing quality of education in the Centres comes across very strongly&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/her-er-sfu-finalistene</prop>
+     <seg>&#8211; Kvaliteten p&#229; den eksisterende utdanningen i sentrene kommer veldig tydelig frem, sier Stephanie Marshall, leder for komiteen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.66216</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>About Norwegian Artistic Research School</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Mer om Nasjonal forskerskole i kunstnerisk utviklingsarbeid</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">3.50714</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/these-are-the-sfu-finalists</prop>
+     <seg>All proposals with grades 5 or 6 will receive a site visit.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/her-er-sfu-finalistene</prop>
+     <seg>Alle s&#248;knader som fikk karakter 5 eller 6 f&#229;r institusjonsbes&#248;k.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.084</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/call-for-proposals-centres-for-excellence-in-education-2022</prop>
+     <prop type="source-document">https://diku.no/en/programmes/eurasia-programme</prop>
+     <seg>Which administrative decisions may be appealed?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/utlysning-av-sentre-for-fremragende-utdanning-2022</prop>
+     <prop type="source-document">https://diku.no/programmer/eurasiaprogrammet</prop>
+     <seg>Hvilke vedtak kan p&#229;klages?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">4.74167</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/22-applicants-for-centres-for-excellence-in-education-sfu</prop>
+     <seg>This is why the list now contains 21 applications.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/22-fagmiljoeer-oensker-status-som-senter-for-fremragende-utdanning</prop>
+     <seg>Derfor inneholder listen n&#229; 21 s&#248;knader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.15048</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/reports/what-is-critical-reflection</prop>
+     <seg>A question concerning artistic research, genre and the exercise of making narratives about one&#8217;s own work.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/rapporter/hva-er-kritisk-refleksjon</prop>
+     <seg>Et sp&#248;rsm&#229;l om kunstnerisk forskning, sjanger og the exercise of making narratives about one&#8217;s own work.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.22</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Ties which amount to conflicting interests</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Forhold som f&#248;rer til inhabilitet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.16974</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/guidelines-for-book-grants-hk-dir-2021</prop>
+     <seg>Material purchased via the grant scheme shal belong to and remain at the institution, and may only be lent to teachers and/or students.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/retningslinjer-for-bokstoette-hk-dir-2021</prop>
+     <seg>Materiell innkj&#248;pt via st&#248;tteordningen skal tilh&#248;re og forbli ved l&#230;restedet, og kan kun l&#229;nes ut til undervisere og/eller studenter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.24453</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/22-applicants-for-centres-for-excellence-in-education-sfu</prop>
+     <seg>Subsequent to the visits, the panel will submit a recommendation to the Diku board, the board will make a decision on appointment of new SFUs in December 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/22-fagmiljoeer-oensker-status-som-senter-for-fremragende-utdanning</prop>
+     <seg>Etter bes&#248;kene utarbeider ekspertkomiteen en innstilling for tildeling. Styret i Diku vil ta endelig beslutning om tildeling av SFU i desember 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.15789</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/research-fellows-annual-meeting</prop>
+     <seg>The meeting will be held on Zoom.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/moete-for-stipendiater2</prop>
+     <seg>M&#248;tet holdes p&#229; Zoom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.02978</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>We have entered a data processing agreement with the recruitment agency, ensuring that the information they receive and process in connection with personality tests is subjected to strict routines regarding access and confidentiality.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Vi har en databehandleravtale med bemanningsbyr&#229;et, som sikrer at opplysningene de mottar og behandler i forbindelse med personlighetstestingen er underlagt streng tilgangsstyring og taushetsplikt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">5.16591</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/these-are-the-sfu-finalists</prop>
+     <seg>21 proposals have become 8 finalists.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/her-er-sfu-finalistene</prop>
+     <seg>21 s&#248;knader har blitt til 8 finalister.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.53896</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/22-applicants-for-centres-for-excellence-in-education-sfu</prop>
+     <seg>Diku has received 22 applications from academic communities for status as Centres for Excellence in Education.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/22-fagmiljoeer-oensker-status-som-senter-for-fremragende-utdanning</prop>
+     <seg>Diku har mottatt 22 s&#248;knader om status som Senter for fremragende utdanning. Her er en oversikt over s&#248;kerne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.09318</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norpart-norwegian-partnership-programme-for-global-academic-cooperation/norway-and-sri-lanka-unlocking-potential-in-the-blue-economy</prop>
+     <seg>Norway and Sri Lanka unlocking potential in the Blue Economy</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/norpart-partnerskapsprogram-for-globalt-akademisk-samarbeid/norge-og-sri-lanka-skaper-potensiale-i-den-blaa-oekonomien</prop>
+     <seg>Norge og Sri Lanka skaper potensiale i den bl&#229; &#248;konomien</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.158</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>Submittal of various notes, reports, notifications etc.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Innsendelse av ulike redegj&#248;relser, rapporter, varslinger o.l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.22154</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>In some instances, we may nevertheless need more time to process petitions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>I enkelte tilfeller vil vi likevel kunne ha behov for mer tid til &#229; behandle innsynsbegj&#230;ringer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.34286</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/content/download/1204/file/What-is-critical-reflection.pdf.converted</prop>
+     <seg>important points in dealing with art and artistic experiences &#8211; if the knowledge</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/content/download/1234/file/Vassenden-Hva-er-kristisk-refleksjon-med-intro.pdf.converted</prop>
+     <seg>arsenalet, og &#8211; viktigere &#8211; hentes ut fra det kunstneriske arbeidet selv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.14706</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>This privacy policy describes how Diku collect and process</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Denne personvernerkl&#230;ringen angir hvordan Diku samler inn og bruker</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.39687</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/webinar-for-utforsk-2020-applicants</prop>
+     <seg>Join the applicant webinar for UTFORSK.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/soekerwebinar-for-utforsk-2020</prop>
+     <seg>Bli med p&#229; s&#248;kerwebinar for UTFORSK.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.52059</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Anne-Helen Mydland, University of Bergen (chair of the board)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Anne&#8208;Helen Mydland, Universitetet i Bergen (styreleder)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.94485</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/these-are-the-sfu-finalists</prop>
+     <seg>The panel selected 8 finalists, who will receive site visits in September 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/her-er-sfu-finalistene</prop>
+     <seg>Basert p&#229; kriteriene gitt i utlysningen, valgte komiteen ut de 8 finalistene som vil f&#229; institusjonsbes&#248;k i september 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.56696</prop>
+    <prop type="score-bicleaner">0.690</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/artistic-research-spring-forum-2021</prop>
+     <seg>The presentations will be held in Zoom.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/artistic-research-spring-forum-2021</prop>
+     <seg>Presentasjonene finner sted i Zoom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.28302</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Petitions for such access will be handled as soon as possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Begj&#230;ringer om partsinnsyn vil bli behandlet s&#229; raskt som mulig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.34167</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Pursuant to the Freedom of Information Act, all natural and legal persons will as a starting point have a right to access documents produced and processed by Diku, cf. the FIA, Section 3.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>offentleglova (offl.) &#167; 3. Nektelse av innsyn kan likevel skje hvor det foreligger s&#230;rskilt hjemmel for &#229; unnta dokument eller opplysninger fra slikt innsyn, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.83087</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/supervisors-seminar2</prop>
+     <seg>Statistics from 2016 shows that 34 percent of the fellows starting up in 2009 had not completed after six years, which is the goal the authorities have set for completing a ph.d.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/veilederseminar2</prop>
+     <seg>Tall fra 2016 viste at 34 prosent av 2009-kullet ikke hadde fullf&#248;rt etter seks &#229;r, som er m&#229;let myndighetene har satt for gjennomf&#248;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.02008</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>Below you will find a general overview over the various context where we collect such data, how the data is processed by us, and which rights you have in relation to our processing of data connected to your person.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Nedenfor gis en overordnet oversikt over hvilke sammenhenger vi samler inn slike opplysninger, hvordan opplysningene behandles av oss, og hvilke rettigheter du har i tilknytning til behandling av opplysninger som er knyttet til din person.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.46842</prop>
+    <prop type="score-bicleaner">0.728</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/narp-guidelines-2021</prop>
+     <seg>Not worthy of support</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/pku-utlysning-2021</prop>
+     <seg>ikke verdig for st&#248;tte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.08379</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/erasmus-student-charter-original_en-web.pdf.converted</prop>
+     <seg>.highlights your rights and obligations and tel s you what you can expect from your sending and receiving organisations at each step of your Erasmus+ experience.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Dette charteret beskriver hvilke rettigheter og forpliktelser du har, og hva du kan forvente fra hjemme- og vertsorganisasjonene f&#248;r, under og etter oppholdet som Erasmus+-student.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.01535</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <prop type="source-document">https://diku.no/en/programmes/call-for-proposals-centres-for-excellence-in-education-2022</prop>
+     <prop type="source-document">https://diku.no/en/programmes/eurasia-programme</prop>
+     <seg>An appeal must be submitted to Diku within the appeal deadline, and be signed by a person authorised to represent the person/institution named in the relevant administrative decision.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/utlysning-av-sentre-for-fremragende-utdanning-2022</prop>
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <prop type="source-document">https://diku.no/programmer/eurasiaprogrammet</prop>
+     <seg>En klage m&#229; fremsettes for Diku innen klagefristen, og v&#230;re signert av en person som har myndighet til &#229; representere den person/institusjon som er part i saken vedtaket gjelder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.44524</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>The information collected via Google Analytics, is stored on Google&#8217;s servers in the USA and is subject to</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Informasjonen som samles inn via Google Analytics, lagres p&#229; Googles servere i USA og er underlagt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.14214</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/eurasia-programme</prop>
+     <seg>What can you apply for?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eurasiaprogrammet</prop>
+     <seg>Hva kan du f&#229; st&#248;tte til?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.4521</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/narp-guidelines-2021</prop>
+     <seg>1 This requirement concerns the actual project implementation period, and salary expenses for the project coordinator</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/pku-utlysning-2021</prop>
+     <seg>1 Kravet om tilsetting er knyttet til selve perioden for prosjektgjennomf&#248;ringen, og midler til l&#248;nn for forsknings-leder</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">4.77692</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/narp-guidelines-2021</prop>
+     <seg>3 What can applicants apply for?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/pku-utlysning-2021</prop>
+     <seg>3 Hva kan det s&#248;kes st&#248;tte til?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.29327</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>1 e), which allow processing necessary for the performance tasks carried out in the public interest/exercise of official authority.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>1 e), som tillater behandling av opplysninger som er n&#248;dvendig for ut&#248;velse av offentlig myndighet. Dersom evalueringen inneb&#230;rer behandling av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.14992</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norpart-norwegian-partnership-programme-for-global-academic-cooperation/norway-and-sri-lanka-unlocking-potential-in-the-blue-economy</prop>
+     <seg>Sri Lankan student Achini Lakmali had an enjoyable experience as an exchange student in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/norpart-partnerskapsprogram-for-globalt-akademisk-samarbeid/norge-og-sri-lanka-skaper-potensiale-i-den-blaa-oekonomien</prop>
+     <seg>Studenten Achini Lakmali fra Sri Lanka har f&#229;tt godt utbytte av sin utveksling i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.2009</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>Diku will not share personal data received with any other party, and we will not use the information for any other purpose than that which the participants have been informed of.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Diku deler ikke opplysningene vi mottar med andre, og bruker ikke opplysningene til andre form&#229;l enn det som er angitt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.14857</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/erasmus-student-charter-original_en-web.pdf.converted</prop>
+     <seg>facilities during your mobility period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>av den opprinnelig planlagte perioden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">3.32727</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Partiality/conflicts may result in the decision being held to be invalid, cf. the PAA, Section 41. For more information regarding the appealing decision, please see right to appeal.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Inhabilitet vil kunne medf&#248;re at vedtaket er ugyldig, og at det m&#229; undergis en fornyet vurdering, jf. forvaltningsloven &#167; 41.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.20696</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/artistic-research-spring-forum-2021</prop>
+     <seg>Participation in five Artistic Research Forums (three project presentations) is mandatory for research fellows participating in the Norwegian Artistic Research School.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/artistic-research-spring-forum-2021</prop>
+     <seg>Deltakelse i fem Artistic Research Forum og tre prosjektpresentajsoner er obligatorisk for stipendiater som deltar i Nasjonal forskerskole i kunstnerisk utviklingsarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.09152</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/erasmus-student-charter-original_en-web.pdf.converted</prop>
+     <seg>In accordance with your Learning Agreement,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>aktiviteter du kan gjennomf&#248;re der.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">3.87115</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/22-applicants-for-centres-for-excellence-in-education-sfu</prop>
+     <seg>22 applicants for Centres for excellence in education (SFU)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/22-fagmiljoeer-oensker-status-som-senter-for-fremragende-utdanning</prop>
+     <seg>22 fagmilj&#248;er &#248;nsker status som Senter for fremragende utdanning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.03714</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>The information collected is the visitors&#8217; name, organization and phone number.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Informasjonen som samles inn er navn, organisasjonstilknytning og telefonnummer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">3.0765</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/22-applicants-for-centres-for-excellence-in-education-sfu</prop>
+     <seg>Diku has appointed the following members to the expert panel to evaluate SFU applications in 2019:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/22-fagmiljoeer-oensker-status-som-senter-for-fremragende-utdanning</prop>
+     <seg>Diku har oppnevnt f&#248;lgende medlemmer i ekspertkomiteen for &#229; vurdere SFU s&#248;kere i 2019:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.15101</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>You may request access to personal data that we store/process in relation to yourself;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Du kan kreve innsyn i opplysninger som vi lagrer/behandler og som gjelder deg;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.05188</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>You may, in certain circumstances, request that personal data about yourself is deleted;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Du kan i visse tilfeller kreve at opplysninger om deg blir slettet;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.15096</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/norwegian-artistic-research-programme/norwegian-research-school-course-plan-2020-2021-1-.pdf.converted</prop>
+     <seg>can describe the diversity in theories and methods in artistic research, and reflect on and argue for choices of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norwegian-artistic-research-programme/nasjonal-forskerskole-i-ku-kursplan-2021-2022-3-.pdf.converted</prop>
+     <seg>&#8226; kan gj&#248;re rede for teori- og metodemangfold i kunstnerisk utviklingsarbeid, og reflektere over og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.29327</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>1 e), which allow processing necessary for the performance tasks carried out in the public interest/exercise of official authority.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>1 e), som tillater behandling av opplysninger som er n&#248;dvendig for ut&#248;velse av offentlig myndighet. Dersom din henvendelse inneholder</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">2.76281</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>1 a), which allow processing of personal data when consent has been given to such processing.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>1 a) som tillater behandling n&#229;r det foreligger samtykke til dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">3.03081</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/noram-partnerskapsprorgrammet-for-nord-amerika/north-america-call-for-applications-2019-two-year-project-funding.pdf.converted</prop>
+     <seg>Applications will be evaluated on a scale from 1 (lowest) to 7 (highest).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/sfu/sfu-sentre-for-fremragende-utdanning-utlysning-2019.pdf.converted</prop>
+     <seg>Vurderingene gis p&#229; en skala fra 1 (lavest) til 7 (h&#248;yest), og det gis skriftlige tilbakemeldinger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.1855</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>You may, in certain circumstances, request that our processing of your personal data shall be limited;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Du kan i visse situasjoner kreve at behandlingen av opplysninger om deg blir begrenset;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.29327</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>1 e), which allow processing necessary for the performance tasks carried out in the public interest/exercise of official authority.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>1 e), som tillater behandling av opplysninger som er n&#248;dvendig for ut&#248;velse av offentlig myndighet. Dersom henvendelsen inneholder</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.03571</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/guidelines-for-book-grants-hk-dir-2021</prop>
+     <seg>Reimbursement is limited to documented expenses.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/retningslinjer-for-bokstoette-hk-dir-2021</prop>
+     <seg>Refusjon er begrenset til dokumenterte utlegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.516</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/narp-guidelines-2021</prop>
+     <seg>1 Eligibility criteria - requirements for an application to be considered</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/pku-utlysning-2021</prop>
+     <seg>kunstnerisk utviklingsarbeid 1 Formelle krav til s&#248;knaden</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.005</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/call-for-proposals-centres-for-excellence-in-education-2022</prop>
+     <seg>The overall aim of the Norwegian Centres for Excellence in Education (SFU) scheme is to develop excellent quality in higher education.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/utlysning-av-sentre-for-fremragende-utdanning-2022</prop>
+     <seg>Det overordnede m&#229;let med SFU-ordningen er &#229; stimulere til utvikling av fremragende kvalitet i h&#248;yere utdanning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">2.55169</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>The information will be stored as long as the cases are pending, and insofar the information is subject to the applicable rules regarding public access/archiving, the information will be stored for 25 years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Opplysningene lagres s&#229; lenge sakene er p&#229;g&#229;ende, og dersom sakene er journalpliktig vil opplysningene bli lagret i 25 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.29091</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>Evaluation of programmes and schemes</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Evaluering av programmer og ordninger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/narp-guidelines-2021</prop>
+     <seg>Diku is responsible for the Norwegian Artistic Research Programme (NARP).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/pku-utlysning-2021</prop>
+     <seg>Diku, Direktoratet for internasjonalisering og kvalitetsutvikling i h&#248;yere utdanning, forvalter Program for kunstnerisk utviklingsarbeid (PKU).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.11168</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>For more information on how to proceed to appeal an administrative decision, and on how such appeal will be handled by Diku, please see the section on Right of appeal.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>For mer informasjon om hvordan g&#229; frem for &#229; p&#229;klage et vedtak og hvordan klagesaken vil bli behandlet av Diku, vennligst se v&#229;r informasjon om klageadgang.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.04091</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>What is registered when you contact us?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Hva registreres n&#229;r du kontakter oss?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.96919</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>The ties/interests automatically deemed conflicting, are all related to the connection between the person partaking in the decision-making and one or more parties privy to that decision (for more information on who is regarded privy, please see the PAA Section 2, letter e).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>De forholdene som f&#248;rer til automatisk habilitet er alle knyttet til relasjonen mellom personen som skal delta i saksbehandlingen og &#233;n eller flere parter i saken (om begrepet &#171;part&#187;, se forvaltningsloven &#167; 2, bokstav e).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.29804</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>If any documents or information are subjected to access restrictions, our administrative decision letter will set out which documents/information is withheld and on what basis.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Det vil fremg&#229; av Dikus vedtak i innsynssaken din om visse dokument eller opplysninger omfattet av innsynsbegj&#230;ringen er utsatt/unntatt, og hvilket grunnlag dette i tilfelle har.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.09595</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/narp-guidelines-2021</prop>
+     <seg>What is the project&#8217;s artistic core and intention, and what are the expected outcomes?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/pku-utlysning-2021</prop>
+     <seg>Hva er prosjektets kunstneriske kjerne og intensjon, og hva er forventede resultater?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.28554</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>If you contact us via e-mail, we will store your request, our answers and your e-mail address.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Dersom du kontakter oss per e-post, vil vi lagre din henvendelse, v&#229;re svar og din e-postadresse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.00688</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>It is Dikus goal to provide as much access with regard to our work as possible, and that exceptions from the rights of access only shall be applied where they have sound legal basis and are considered strictly necessary.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Dikus m&#229;l er &#229; praktisere s&#229; mye offentlighet rundt v&#229;r forvaltning som mulig, og at unntak fra innsynsretten kun skal hvor det har hjemmel i lov eller forskrift, og anses strengt n&#248;dvendig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.53571</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/erasmus-student-charter-original_en-web.pdf.converted</prop>
+     <seg>factorily during your mobility period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Du kan benytte deg av nettverket av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.26182</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/artistic-research-spring-forum-2020-canceled</prop>
+     <seg>There will not be organised transportation from Gardermoen to Kl&#230;kken.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/artistic-research-spring-forum-2020-avlyst</prop>
+     <seg>Det g&#229;r rutebuss fra Oslo og flybuss fra Gardermoen til Kl&#230;kken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.23375</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Training is provided through seminars, conferences and in other relevant forums, and through contact with other research fellows and peers who work in the field of artistic research nationally and internationally.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Oppl&#230;ring skjer gjennom seminarer, konferanser og andre relevante fora, i m&#248;te med andre stipendiater og fagfeller som arbeider med kunstnerisk utviklingsarbeid nasjonalt og internasjonalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/erasmus-student-charter-original_en-web.pdf.converted</prop>
+     <seg>On your side,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Du p&#229; din side</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.04143</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>Processing of applications/nominations in relation to our programmes and schemes</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Behandling av s&#248;knader/nominasjoner i tilknytning til programmer og ordninger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.50844</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/erasmus-student-charter-original_en-web.pdf.converted</prop>
+     <seg>obligations of the Erasmus+ Grant Agreement that you have signed with your sending institution.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>i Erasmus+-stipendavtalen som du har inng&#229;tt med hjemmeinstitu-sjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">3.29483</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>The primary rules for assessing impartiality is the PAA, Section 6.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Den sentrale regel for &#229; vurdere habilitet er forvaltningsloven &#167; 6.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.06398</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Through the research school, the research fellows will acquire knowledge of and skills and competence in artistic research in accordance with the Norwegian Qualifications Framework for Lifelong Learning (NKR).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Gjennom forskerskolen skal stipendiater opparbeide seg kunnskap, ferdigheter og kompetanse om kunstnerisk utviklingsarbeid i tr&#229;d med Nasjonalt kvalifikasjonsrammeverk for livslang l&#230;ring (NKR).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">1.71818</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/erasmus-student-charter-original_en-web.pdf.converted</prop>
+     <seg>participating in Erasmus+ have</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>som deltar i Erasmus+ har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.35432</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/supervisors-seminar2</prop>
+     <seg>Senior adviser Kristine Moll&#248;-Christensen from the University of Oslo meets some of the Ph.d.-candidates who are stressed and feeling down.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/veilederseminar2</prop>
+     <seg>Seniorr&#229;dgiver Kristine Moll&#248;-Christensen i bedriftshelsetjenesten ved Universitetet i Oslo treffer noen av ph.d.-kandidatene som er stresset og nedfor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">2.51053</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/these-are-the-sfu-finalists</prop>
+     <seg>Although none of the applicants received a top grade, four were awarded 6 out of 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/her-er-sfu-finalistene</prop>
+     <seg>Selv om ingen av s&#248;kerne oppn&#229;dde toppkarakter, fikk fire av dem en score p&#229; 6 av 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.24074</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/artistic-research-spring-forum-2020-canceled</prop>
+     <seg>Research fellows, supervisors, academic and administrative staff and other concerned with artistic research.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/artistic-research-spring-forum-2020-avlyst</prop>
+     <seg>Stipendiater, veiledere, faglig og administrativt ansatte ved utdanningsinstitusjonene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.55042</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/narp-guidelines-2021</prop>
+     <seg>For further information on the programme or how to apply, please contact the NARP administration, see https://diku.no/en/programmes/norwegian-artistic-research-programme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/pku-utlysning-2021</prop>
+     <seg>For n&#230;rmere informasjon om programmet og s&#248;knadsprosess, ta kontakt med PKUs administrasjon, se https://diku.no/programmer/program-for-kunstnerisk-utviklingsarbeid</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.39309</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/arrangementer/ps8-staff-mobility</prop>
+     <seg>&#8226; Expected to contribute to the goals of Erasmus+ and the HEIs</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/arrangementer/ps6-erasmus-for-dummies</prop>
+     <seg>En introduksjon til Erasmus+ og mobilitetstiltakene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.6303</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norpart-norwegian-partnership-programme-for-global-academic-cooperation/norway-and-sri-lanka-unlocking-potential-in-the-blue-economy</prop>
+     <seg>Nor-Lanka Blue is an innovative research and education network in fisheries, aquaculture and aquatic sciences.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/norpart-partnerskapsprogram-for-globalt-akademisk-samarbeid/norge-og-sri-lanka-skaper-potensiale-i-den-blaa-oekonomien</prop>
+     <seg>Nor-Lanka Blue er et nyskapende forsknings- og utdanningsnettverk innen fiskeri, akvakultur og akvavitenskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.4375</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/norwegian-artistic-research-programme/norwegian-research-school-course-plan-2020-2021-1-.pdf.converted</prop>
+     <seg>Work and teaching methods:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norwegian-artistic-research-programme/nasjonal-forskerskole-i-ku-kursplan-2021-2022-3-.pdf.converted</prop>
+     <seg>Arbeids- og undervisningsform:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.09919</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>This requirement applies regardless of whether the person is an employee of Diku, or an externally sourced experts partaking in our administrative decision-making processes, and whether the decisions are made on an individual or collegial basis (committees, programme boards, expert panels, a.o.).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Dette gjelder uavhengig av om personen er en ansatt saksbehandler i Diku eller en ekstern fagperson som deltar i Dikus saksbehandling eller i avgj&#248;relse av slike saker, og om avgj&#248;relsene fattes individuelt eller gjennom kollegiale organ (komit&#233;er, programstyrer, ekspertgrupper, e.l.).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">8.04444</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/webinar-for-utforsk-2020-applicants</prop>
+     <seg>Webinar for UTFORSK 2020 Applicants</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/soekerwebinar-for-utforsk-2020</prop>
+     <seg>S&#248;kerwebinar for UTFORSK 2020</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>Evaluations of programmes and schemes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Evaluering av programmer og ordninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.6</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Public information and rights of access</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Offentlighet og innsyn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">1.07864</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norpart-norwegian-partnership-programme-for-global-academic-cooperation/norway-and-sri-lanka-unlocking-potential-in-the-blue-economy</prop>
+     <seg>&#8211; The key to Nor-Lanka Blue&#8217;s success was having partners we trust and who can adapt to sudden changes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/norpart-partnerskapsprogram-for-globalt-akademisk-samarbeid/norge-og-sri-lanka-skaper-potensiale-i-den-blaa-oekonomien</prop>
+     <seg>&#8211; N&#248;kkelen til suksessen bak Nor-Lanka Blue var &#229; ha partnere vi stoler p&#229; og som kan tilpasse seg plutselige forandringer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.00588</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/call-for-proposals-centres-for-excellence-in-education-2022</prop>
+     <seg>The English version of the call is therefore authoritative in the assessment of proposals.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/utlysning-av-sentre-for-fremragende-utdanning-2022</prop>
+     <seg>Den engelske utlysningsteksten er derfor f&#248;rende i vurderingen av s&#248;knadene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">1.6332</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>The provision separates between ties/interests which are automatically deemed conflicting, (Section 6, first paragraph), and ties/interests which, depending on the circumstances in the particular case, may be held to constitute such conflicts (Section 6, second paragraph).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Bestemmelsen skiller mellom tilknytningsforhold som leder til automatisk inhabilitet (&#167; 6, f&#248;rste avsnitt), og forhold som ut fra en n&#230;rmere vurdering kan lede til at inhabilitet konstateres (&#167; 6, annet avsnitt).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.30143</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Such exceptions may apply for one or more documents in their entirety, or for particular pieces of information included in documents forming part of one&#8217;s request for access.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Slike unntak kan gjelde for et eller flere dokument i sin helhet, eller for enkeltopplysninger i enkelte dokument som man har bedt om innsyn i.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.36429</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Norwegian Artistic Research School offers through seminars, meetings and conferences joint training for doctoral fellows in Artistic Research.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Nasjonal forskerskole i kunstnerisk utviklingsarbeid tilbyr gjennom seminarer, samlinger og konferanser fellesfaglig oppl&#230;ring for stipendiater i kunstnerisk utviklingsarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">1.43846</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/call-for-proposals-centres-for-excellence-in-education-2022</prop>
+     <seg>The seminar starts at 10.00 and ends by 11.15.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/utlysning-av-sentre-for-fremragende-utdanning-2022</prop>
+     <seg>M&#248;tet starter klokken 10.00 og avsluttes innen 11.15.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.07129</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>This information is stored on Diku&#8217;s local servers and is used to ensure the safety of our visitors in case of fire or similar.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Informasjonen lagres p&#229; Dikus servere og anvendes for &#229; sikre v&#229;re bes&#248;kende ved eventuelle tilfeller av brann o.l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">2.48071</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>1 f), which allow processing based on legitimate interests when this does not contradict central privacy interests.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>1 f), som tillater behandling av opplysninger som er n&#248;dvendig for &#229; vareta en berettiget interesse som veier tyngre enn hensynet til den enkeltes personvern.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.37143</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norpart-norwegian-partnership-programme-for-global-academic-cooperation/norway-and-sri-lanka-unlocking-potential-in-the-blue-economy</prop>
+     <seg>NORPART - Norwegian Partnership Programme for Global Academic Cooperation</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/norpart-partnerskapsprogram-for-globalt-akademisk-samarbeid/norge-og-sri-lanka-skaper-potensiale-i-den-blaa-oekonomien</prop>
+     <seg>NORPART - Partnerskapsprogram for globalt akademisk samarbeid</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.24808</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/guidelines-for-book-grants-hk-dir-2021</prop>
+     <seg>See HK-dir&#8217;s website for more information about the right to appeal.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/retningslinjer-for-bokstoette-hk-dir-2021</prop>
+     <seg>Se HK-dirs nettsider for mer informasjon om klageadgang.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">2.68723</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>For schemes concerning persons under 18 years, we may also request information from the persons&#8217; legal guardians.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>For ordninger som omfatter personer under 18 &#229;r, vil vi ogs&#229; kunne motta opplysninger om personens foresatte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">1.27059</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/guidelines-for-book-grants-hk-dir-2021</prop>
+     <seg>There is one application round each year, which wil be announced on HK-dir&#8217;s website for the Scheme for Norwegian Studies Abroad.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/retningslinjer-for-bokstoette-hk-dir-2021</prop>
+     <seg>Det gjelder &#233;n &#229;rlig s&#248;knadsfrist, som kunngj&#248;res p&#229; HK-dirs nettside for Ordningen for Norgeskunnskap i utlandet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.93714</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Camille Norment, Oslo National Academy of the Arts</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Camille Norment, Kunsth&#248;gskolen i Oslo</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">2.65924</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/narp-guidelines-2021</prop>
+     <seg>The NARP board will normally decide on project funding by the end of January 2022.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/pku-utlysning-2021</prop>
+     <seg>Det forventes at programstyret vil gj&#248;re vedtak om prosjekttildeling innen utgangen av januar 2022.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.14983</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>As such, the rules are a preventive measure, aimed at avoiding that the objectivity of administrative decision-making may be subjected to doubt.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Habilitetsreglene er slik sett preventivt innrettede ordensregler, som skal hindre at objektiviteten i saksbehandlingen kan trekkes i tvil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1.16445</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/norwegian-artistic-research-school-seminar-1</prop>
+     <seg>Welcome to the Norwegian Artistic Research School Seminar 1 at Voksen&#229;sen Kultur- og konferansehotell, November 4th - 6th.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid-seminar-1</prop>
+     <seg>Velkommen til stipendiatseminar 1 p&#229; Voksen&#229;sen Kultur- og konferansehotell, 4.-6. november. Last ned programmet her</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.0425</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/erasmus-student-charter-original_en-web.pdf.converted</prop>
+     <seg>dents, staff in your institution, journalists</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>du p&#229; tilfredsstillende vis har gjennomf&#248;rt i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">2.39308</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/artistic-research-spring-forum-2021</prop>
+     <seg>43 research fellows will present their projects (you can download the program above) in three parallel tracks.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/artistic-research-spring-forum-2021</prop>
+     <seg>43 stipendiater tilknyttet Nasjonal forskerskole i kunstnerisk utviklingsarbeid vil presentere prosjektene sine p&#229; forumet i tre paralelle spor (programmet kan lastes ned over).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">1.37143</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>Which rights do you have when Diku store and process personal data concerning yourself?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Hvilke rettigheter har du n&#229;r Diku oppbevarer og behandler personopplysninger om deg?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">1.24814</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norpart-norwegian-partnership-programme-for-global-academic-cooperation/norway-and-sri-lanka-unlocking-potential-in-the-blue-economy</prop>
+     <seg>Nor-Lanka Blue has helped establish a dialogue between Norway and Sri Lanka in the Blue Economy, not only at the academic level, but also between industry and government stakeholders.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/norpart-partnerskapsprogram-for-globalt-akademisk-samarbeid/norge-og-sri-lanka-skaper-potensiale-i-den-blaa-oekonomien</prop>
+     <seg>Nor-Lanka Blue har bidratt med &#229; etablere kontakten mellom Norge og Sri Lanka i den bl&#229;&#248;konomien, ikke bare p&#229; et akademisk niv&#229;, men ogs&#229; mellom industri og myndighetene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">1.14176</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>When we arrange seminars, webinars, conferences etc., Diku use various registration systems.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Ved arrangering av kurs, seminar og konferanser, anvender Diku registreringsl&#248;sninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.56923</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/these-are-the-sfu-finalists</prop>
+     <seg>Site visit indicates status.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/her-er-sfu-finalistene</prop>
+     <seg>"Site visit" indikerer finaliststatus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">2.0327</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>A person will also be held partial if his or her closest superior is deemed impartial (so called &#171;derived impartiality&#187;, cf. Section 6, third paragraph).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>En saksbehandler vil ogs&#229; bli konstatert inhabil dersom hans eller hennes n&#230;rmeste leder er inhabil (s&#229;kalt &#171;avledet inhabilitet&#187;, se &#167; 6, tredje avsnitt).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">1.02736</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/content/download/1204/file/What-is-critical-reflection.pdf.converted</prop>
+     <seg>Everyone who writes about one art form or another encounters these</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/content/download/1234/file/Vassenden-Hva-er-kristisk-refleksjon-med-intro.pdf.converted</prop>
+     <seg>I motsetning til dette kunne vi si at Sl&#229;ttebrekks arbeid med &#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">1.78882</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norpart-norwegian-partnership-programme-for-global-academic-cooperation/norway-and-sri-lanka-unlocking-potential-in-the-blue-economy</prop>
+     <seg>Diku will fund the project until 2023; however, curriculum development and digitisation initiatives will ensure the project continues to create enduring value beyond the life of this agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/norpart-partnerskapsprogram-for-globalt-akademisk-samarbeid/norge-og-sri-lanka-skaper-potensiale-i-den-blaa-oekonomien</prop>
+     <seg>Diku vil finansiere prosjektet under NORPART til 2023, men utvikling av l&#230;replanen og digitaliseringsinitiativ vil sikre at prosjektet har verdi ogs&#229; ut over livstiden til denne avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.58561</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/webinar-for-utforsk-2020-applicants</prop>
+     <seg>Norwegian accredited higher educational institutions can apply for funding through UTFORSK for collaboration with partners in Brazil, Canada, India, Japan, China, Russia, South Africa, South Korea, and the USA.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/soekerwebinar-for-utforsk-2020</prop>
+     <seg>Norske universiteter og h&#248;gskoler kan s&#248;ke om st&#248;tte gjennom UTFORSK for samarbeid med partnere i Brasil, Canada, India, Japan, Kina, Russland, S&#248;r-Afrika, S&#248;r-Korea og USA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.57809</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norpart-norwegian-partnership-programme-for-global-academic-cooperation/norway-and-sri-lanka-unlocking-potential-in-the-blue-economy</prop>
+     <seg>The Nor-Lanka Blue project constitutes a formal partnership between the Arctic University of Norway; the University of Jaffna from the Northern Province of Sri Lanka; the University of Ruhuna from the Southern Province of Sri Lanka; and the National Aquatic Research Agency (NARA).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/norpart-partnerskapsprogram-for-globalt-akademisk-samarbeid/norge-og-sri-lanka-skaper-potensiale-i-den-blaa-oekonomien</prop>
+     <seg>Nor-Lanka Blue-prosjektet utgj&#248;r et formelt partnerskap mellom UiT Norges arktiske universitet, University of Jaffna fra den nordlige provinsen av Sri Lanka, the University of Ruhuna fra den s&#248;rlige provinsen av Sri Lanka og the National Aquatic Research Agency (NARA).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>Ordering of various forms of printed information that we prepare and distribute.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Bestilling av ulike former for informasjonsmateriell vi utsteder og formidler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">4.75333</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/call-for-proposals-centres-for-excellence-in-education-2022</prop>
+     <seg>Call for Proposals Centres for Excellence in Education 2022</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/utlysning-av-sentre-for-fremragende-utdanning-2022</prop>
+     <seg>Utlysning av Sentre for fremragende utdanning 2022</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.06684</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <seg>Although no such ties/interest exist, a person may nevertheless be deemed partial/conflicted if there exist &#171;special circumstances&#187; which are &#171;apt to impair confidence in his impartiality&#187;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <seg>Dersom ingen slike automatisk inhabiliserende forhold foreligger, kan saksbehandleren likevel v&#230;re inhabil dersom det foreligger &#171;s&#230;regne forhold&#187; som er &#171;egnet til &#229; svekke tilliten til hans upartiskhet&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">1.00929</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/guidelines-for-book-grants-hk-dir-2021</prop>
+     <seg>HK-dir decides the amount to be awarded based an overal assessment of the application&#8217;s relative strengths and previous grants awarded to the institution in question.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/retningslinjer-for-bokstoette-hk-dir-2021</prop>
+     <seg>HK-dir fastsetter bel&#248;pet som tildeles basert p&#229; en helhetlig vurdering av s&#248;knadens relative styrke og tidligere tildelinger til den aktuelle institusjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">1.12584</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>The information will be stored as long as the cases are pending, and insofar the information is subject to the applicable rules regarding public access/archiving, the information will be stored for 25 years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>gjeldende arkivstandarder (NOARK). Opplysningene lagres s&#229; lenge sakene er p&#229;g&#229;ende, og dersom sakene er journalpliktig vil opplysningene bli lagret i 25 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">8.53636</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/media/diku-files/diku.no/programmer/pku/narp-guidelines-2021</prop>
+     <seg>4 Administrative process</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/pku/pku-utlysning-2021</prop>
+     <seg>4 Behandling av s&#248;knader</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.43214</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/guidelines-for-book-grants-hk-dir-2021</prop>
+     <seg>The reimbursement form and al receipts relating to the grant must be submitted to HK-dir within 30 May in the calendar year after the expiry of the application deadline.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/norgeskunnskap-i-utlandet-bokstoette/retningslinjer-for-bokstoette-hk-dir-2021</prop>
+     <seg>Refusjonsskjema med alle kvitteringer m&#229; v&#230;re innsendt senest innen 30. mai i det p&#229;f&#248;lgende kalender&#229;r etter s&#248;knadsfristens utl&#248;p.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">1.01146</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/call-for-proposals-centres-for-excellence-in-education-2022</prop>
+     <seg>Applications will be assessed by an international expert panel appointed by HK-dir, with expertise relevant to the call.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/utlysning-av-sentre-for-fremragende-utdanning-2022</prop>
+     <seg>S&#248;knaden vil bli vurdert av en internasjonal ekspertkomit&#233; oppnevnt av HK-dir, med relevant ekspertise for utlysningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">1.0813</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>Google Analytics and Siteimprove employ information cookies (small text files saved on the users&#8217; device) registering the user&#8217;s IP address and providing information regarding the user&#8217;s navigation on our sites.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Google Analytics og Siteimprove benytter informasjonskapsler/&#171;cookies&#187; (sm&#229; tekstfiler nettstedet lagrer p&#229; brukerens datamaskin) som registrerer brukernes IP-adresse, og som gir informasjon om brukernes bevegelser p&#229; nett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.11319</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>We nevertheless ask that you avoid sending information that you regard sensitive via e-mail, as we cannot guarantee that your e-mail service support TLS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>Vi ber likevel om at du ikke sender sensitive personopplysninger eller annen beskyttelsesverdig informasjon per e-post, da vi ikke kan garantere at din e-postleverand&#248;r st&#248;tter TLS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">4.87982</prop>
+    <prop type="score-bicleaner">0.700</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/events/artistic-research-spring-forum-2021</prop>
+     <seg>Editor Trond Lossius will present issue 5 of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/arrangementer/artistic-research-spring-forum-2021</prop>
+     <seg>I tillegg presenterer redakt&#248;r Trond Lossius utgave 5 av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">1.54405</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/privacy-policy</prop>
+     <seg>In what contexts do Diku collect personal data?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/personvernerklaering</prop>
+     <seg>N&#229;r samler Diku inn personopplysninger?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/these-are-the-sfu-finalists</prop>
+     <seg>(Consortium partners are not included in the list.)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/her-er-sfu-finalistene</prop>
+     <seg>(Konsortiumspartnere er ikke inkludert i listen.)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">2.70965</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/news/22-applicants-for-centres-for-excellence-in-education-sfu</prop>
+     <seg>The finalists will have an institutional visit by the panel in week 36 or 39.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/aktuelt/22-fagmiljoeer-oensker-status-som-senter-for-fremragende-utdanning</prop>
+     <seg>S&#248;kere som velges ut som finalister vil f&#229; institusjonsbes&#248;k av komiteen i uke 36 eller 39.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">1.29118</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/norwegian-artistic-research-school</prop>
+     <prop type="source-document">https://diku.no/en/programmes/call-for-proposals-centres-for-excellence-in-education-2022</prop>
+     <prop type="source-document">https://diku.no/en/programmes/eurasia-programme</prop>
+     <seg>On which grounds may an appeal be based?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/utlysning-av-sentre-for-fremragende-utdanning-2022</prop>
+     <prop type="source-document">https://diku.no/programmer/nasjonal-forskerskole-i-kunstnerisk-utviklingsarbeid</prop>
+     <prop type="source-document">https://diku.no/programmer/eurasiaprogrammet</prop>
+     <seg>Hvilke grunnlag kan en klage st&#248;ttes p&#229;?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">1.25294</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://diku.no/en/programmes/eurasia-programme</prop>
+     <seg>Guidance can be given on e-mail, phone or face-to face.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eurasiaprogrammet</prop>
+     <seg>Veiledning kan gj&#248;res p&#229; e-post, telefon eller ansikt til ansikt.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

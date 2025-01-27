@@ -1,0 +1,305 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T211300" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.16786</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>og &#229;rem&#229;lsstillinger og gjestel&#230;rere, alle med</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>og &#229;rem&#229;lsstillingar og gjestel&#230;rarar, alle med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.78636</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>demokratisk samfunn der verdier som ytringsfrihet,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>samfunn der verdiar som ytringsfridom, danning og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.58571</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>fremme et arbeidsmilj&#248; preget av inspirerende</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>fremme eit arbeidsmilj&#248; prega av inspirerande</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.23571</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>av kunst og kultur er &#229; bidra til utviklingen av et</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>kunst og kultur er &#229; bidra til utviklinga av eit demokratisk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.08571</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>&#197; bidra til utviklingen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>&#197; bidra til utviklinga av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">3.20909</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/events/450</prop>
+     <seg>Og har ikke det nettopp og med ordet h&#248;yring &#229; gjera, med andre ord det ordet vi bruker om dei offisielle samlingene som finn stad etter store katastrofer eller ulykker?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/en/events/450</prop>
+     <seg>Og har ikkje det nettopp og med ordet h&#248;yring &#229; gjera, med andre ord det ordet vi bruker om dei offisielle samlingene som finn stad etter store katastrofer eller ulykker?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.00095</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>Kunsth&#248;gskolen er en utdanningsinstitusjon med en</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>Kunsth&#248;gskolen er ein utdanningsinstitusjon med ein</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.09012</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>dannelse og respekt for estetiske erfaringer st&#229;r sentralt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>respekt for estetiske erfaringar st&#229;r sentralt. Gjennom</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.475</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>v&#229;re m&#229;l og prioriteringer</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>m&#229;la og prioriteringane v&#229;re</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.06429</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>i Oslo skal v&#230;re utadvendt og aktiv i m&#248;tet med det</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>vere utovervend og aktiv i m&#248;tet med det profesjonelle</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.28929</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>samarbeid, trivsel og mestring</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>samarbeid, trivsel og meistring</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.79063</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>&#248;ke publisering og synliggj&#248;ring av</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>auke publisering og synleggjering av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>Kunsth&#248;gskolen i Oslo skal bruke menneskelige og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>Kunsth&#248;gskolen i Oslo skal bruke menneskelege og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.08462</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>utvikling av kunstnerisk utviklingsarbeid</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>og utvikling av kunstnarisk utviklingsarbeid</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.285</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>videreutvikle attraktive arenaer for deling og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>vidareutvikle attraktive arenaer for deling</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.63333</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>ha en sammensetning av ansatte i faste stillinger</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>ha ei samansetjing av tilsette i faste stillingar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.66364</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>og utstillinger skapes et l&#230;ringsmilj&#248; som st&#229;r i et n&#230;rt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>det skapt eit l&#230;ringsmilj&#248; som st&#229;r i eit n&#230;rt forhold til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>tvers av avdelinger og seksjoner</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>tvers av avdelingar og seksjonar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.62564</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>stimulere og legge til rette for samarbeid p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>stimulere og leggje til rette for samarbeid p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.78421</prop>
+    <prop type="score-bicleaner">0.615</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>og motiverte ansatte</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>og motiverte tilsette</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.01429</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>kunstfaglig kompetanse som st&#248;tter opp om</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>kunstfagleg kompetanse som st&#248;ttar opp om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>rekruttere, utvikle og beholde godt kvalifiserte</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>rekruttere, utvikle og behalde godt kvalifiserte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.0678</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMTVfNzZfS0hpT19TdHJhdGVnaXNrX3BsYW5fYm9rbV9sLnBkZiJdXQ/KHiO_Strategisk_plan_bokm%C3%A5l.pdf.converted</prop>
+     <seg>Kunsth&#248;gskolens ulike fagfelt og ha en god balanse mellom aktiviteter og ressurser</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMTcvMDYvMjMvMTRfMDJfMjhfODQ3X0tIaU9fU3RyYXRlZ2lza19wbGFuX255bm9yc2sucGRmIl1d/KHiO_Strategisk_plan_nynorsk.pdf.converted</prop>
+     <seg>Kunsth&#248;gskolens ulike fagfelt og ha ein god balanse mellom aktivitetar og ressursar</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

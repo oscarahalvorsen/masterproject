@@ -1,0 +1,681 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T053550" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.38538</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/efs/contribution-of-nautical-information/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/efs/contribution-of-nautical-information/</prop>
+     <seg>Nautical information, including current notices, permanent corrections and temporary (T) and preliminary (P) notices to Norwegian nautical charts, as well as all amendments of a more permanent nature, are to be sent to efs@kartverket.no.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/til-sjos/efs/innmelding-av-rettelser-til-efs/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/efs/innmelding-av-rettelser-til-efs/</prop>
+     <seg>Nautisk informasjon og data for oppdatering i sj&#248;kart, som l&#248;pande meldingar (midlertidige (T) og forel&#248;pige (P) meldingar) og etablering, endringar og nedleggingar av permanent varigheit, skal meldast til efs@kartverket.no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.23333</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <seg>This takes place in collaboration with municipalities, other public agencies and private operators.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <seg>Det skjer i samarbeid med kommunar, andre offentlege etatar og private verksemder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.13758</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>When you chat with our customer services, you will need to supply a valid e-mail address.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>N&#229;r du chattar med kundesenteret v&#229;rt, m&#229; du oppgi ei gyldig e-postadresse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.48008</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/api-and-data/terms-of-use/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/api-and-data/terms-of-use/</prop>
+     <seg>For assistance, please send an email to the Norwegian Mapping Authority (post@kartverket.no).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/api-og-data/vilkar-for-bruk/</prop>
+     <prop type="source-document">https://www.kartverket.no/api-og-data/vilkar-for-bruk/</prop>
+     <seg>Send ein e-post til Kartverket (post@kartverket.no), s&#229; hjelper vi deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.19478</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>Common to all of these is that the e-mail address and the associated personal data are stored in a database at our newsletter provider;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Felles for alle desse er at e-postadressa og tilh&#248;yrande personopplysningar blir lagra i ein database hj&#229; nyheitsbrev-leverand&#248;ren v&#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.06878</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>The information from Google Analytics is stored on Google&#8217;s servers in the US and is administered in line with</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Informasjonen fr&#229; Google Analytics blir lagra p&#229; serverane til Google i USA og blir handsama i tr&#229;d med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.629</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <seg>We also have a large IT department.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <seg>Vi har ogs&#229; ei stor IT-avdeling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.03</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/efs/contribution-of-nautical-information/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/efs/contribution-of-nautical-information/</prop>
+     <seg>Delivery of data</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/til-sjos/efs/innmelding-av-rettelser-til-efs/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/efs/innmelding-av-rettelser-til-efs/</prop>
+     <seg>Leveranse av data</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.663</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/d-number_soknad_eng.pdf.converted</prop>
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/d-number_soknad_eng.pdf.converted</prop>
+     <seg>D-number is a personal identification number</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/globalassets/eiendom/skjema/d-nummer-soknad-nyn.pdf.converted</prop>
+     <prop type="source-document">https://kartverket.no/globalassets/eiendom/skjema/d-nummer-soknad-nyn.pdf.converted</prop>
+     <seg>S&#248;knad om D-nummer for tinglysing i grunnboka</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.65247</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>This happens automatically, and the e-mail addresses are not stored.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Dette skjer automatisk, og e-postadressene blir ikkje lagra.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.44324</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>All collected data is stored within the EU.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Alle data som blir samla inn, blir lagra innafor EU.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.10558</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <seg>The Cadastre and Land Registry is also responsible for the New Cadastre, the national property registry, which is continually updated in partnership with the municipalities.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <seg>Eigedomsdivisjonen har ogs&#229; ansvar for matrikkelen, det nasjonale eigedomsregisteret, som blir oppdatert fortl&#248;pande i samarbeid med kommunane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.23684</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>It is not possible to search for information on a person, one has to search for property ID.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Det er ikkje mogleg &#229; be om informasjon knytta til ein person, ein m&#229; be om informasjon knytta til ein eigedom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.01727</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>When you cancel your subscription, all of your information is deleted.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>N&#229;r du seier opp abonnementet, blir alle opplysningane sletta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.34135</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>The database is contained in the Apsis cloud solution, which is inside the EU.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Databasen ligg i Apsis&#8217; skyl&#248;ysing, som er innanfor EU.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.32036</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <seg>The Institute also measures and establishes a national reference frame for coordinates, geoid reference, height reference and post-glacial rebound.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <seg>Divisjonen m&#229;ler og fastset ogs&#229; nasjonale referanserammer for koordinatar, h&#248;gdereferanseflater, h&#248;gdegrunnlaget og landheving.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.09818</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/efs/contribution-of-nautical-information/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/efs/contribution-of-nautical-information/</prop>
+     <seg>Information can be delivered in various formats, such as SOSI, Shape or in the form of a map sketch with positions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/til-sjos/efs/innmelding-av-rettelser-til-efs/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/efs/innmelding-av-rettelser-til-efs/</prop>
+     <seg>Meldingar kan leverast p&#229; ulike format, til d&#248;mes SOSI, Shape eller i form av ei kartskisse og posisjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.06131</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <seg>The Norwegian Mapping Authority&#8217;s Hydrographic Service is responsible for preparing and updating nautical charts, and covers all marine and coastal waters in Norway and around Svalbard, as well as Norwegian areas in the Antarctic.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <seg>Sj&#248;divisjonen har ansvaret for &#229; utarbeide og vedlikehalde sj&#248;kart, og dekkjer alle hav- og kystomr&#229;da i Noreg og rundt Svalbard, i tillegg til norske omr&#229;de i Antarktis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.47749</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <seg>The Norwegian Hydrographic Service was established in 1932 and has operated as a division of the Norwegian Mapping Authority since 1986.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <seg>Norges Sj&#248;kartverk blei etablert i 1932, og har sidan 1986 vore ein divisjon i Kartverket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.04</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <seg>The Norwegian Mapping Authority is responsible for and provides the following:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <seg>Kartverket har ansvar for og skal levere f&#248;lgjande:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.09885</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>If we collect information from other registers such as the National Registry, the errors must be corrected there.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Dersom vi hentar informasjon fr&#229; andre registre som til d&#248;mes folkeregisteret, m&#229; feila rettast der.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.76591</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>Pursuant to the Archives Act Section 6, cf. Section 1, Kartverket is obliged to archive all communication that is of any cultural or research value or that contains any legal or administrative documentation.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Etter arkivlova paragraf 6 jamf&#248;r paragraf 1 pliktar Kartverket &#229; arkivere all kommunikasjon som har monaleg kulturelt eller forskningsmessig verdi eller som inneheld rettsleg eller viktig forvaltningsmessig dokumentasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.20873</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>Several of our publishing solutions use the cookie ASP.NET_SessionId to improve the reading experience when you, for example, navigate between different pages.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Fleire av publiseringsl&#248;ysingane v&#229;re nyttar informasjonskapselen ASP.NET_SessionId for &#229; betre lesaropplevinga n&#229;r du til d&#248;mes navigerer mellom ulike sider.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.34605</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/api-and-data/terms-of-use/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/api-and-data/terms-of-use/</prop>
+     <seg>This data can be used by people in various positions on the same premises as for other data.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/api-og-data/vilkar-for-bruk/</prop>
+     <prop type="source-document">https://www.kartverket.no/api-og-data/vilkar-for-bruk/</prop>
+     <seg>Dette er data som kan brukast som dei er i ulike tenester p&#229; same premiss som for &#248;vrige data.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.28947</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>Kartverket has therefore added a script (code) that removes the last digits from the IP address before the information is stored by Google.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Difor har Kartverket lagt til eit script (kode) som fjernar dei siste sifra fr&#229; IP-adressa f&#248;r informasjonen blir lagra hos Google.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.35882</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>The rules for processing a chat dialogue are the same as for e-mails.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Reglane for behandling av chat-dialog er dei same som for e-post.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.38697</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>Data that is collected via Questback is stored in Oracle's cloud services within the EU.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Data som blir innhenta via Questback, blir lagra i Oracles skyteneste innanfor EU.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.02354</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>to conduct surveys and to gather information from website visitors that have permitted the use of cookies.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>for &#229; utf&#248;re sp&#248;rjeunders&#248;kingar og samle inn informasjon fr&#229; bes&#248;kjande p&#229; nettsidene som tillet bruk av informasjonskapslar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.12096</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>The share service for web articles at kartverket.no can be used to forward tips or share articles from the website.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Delingstenesta for artiklar p&#229; kartverket.no kan brukast til &#229; vidaresende tips eller dele artiklar fr&#229; nettstaden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.13214</prop>
+    <prop type="score-bicleaner">0.521</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>It is possible to subscribe to several different newsletters from Kartverket, which are sent by e-mail.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Det er mogleg &#229; abonnere p&#229; fleire ulike nyheitsbrev fr&#229; Kartverket som blir sende ut via e-post.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.12899</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>The information we collect includes which internet provider is being used, which pages the user has visited, how long the user has been on the website, the type of computer and web browser being used, the screen resolution and which country the user is located in.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Informasjonen vi samlar inn, er kva for leverand&#248;r av nett brukaren nyttar, kva for sider brukaren har bes&#248;kt, kor lenge brukaren har vore p&#229; nettstaden, kva type maskin og nettlesar brukaren har nytta, skjermoppl&#248;ysing og landet brukaren er i.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.12143</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/api-and-data/terms-of-use/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/api-and-data/terms-of-use/</prop>
+     <seg>(geodataloven) with accompanying guidelines apply.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/api-og-data/vilkar-for-bruk/</prop>
+     <prop type="source-document">https://www.kartverket.no/api-og-data/vilkar-for-bruk/</prop>
+     <seg>med forskrifter og tilh&#248;yrande retningsliner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.18478</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>E-mail is processed in the same manner as incoming letters.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>E-post blir behandla p&#229; same m&#229;te som innkomne brev.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.06714</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>An IP address is defined as personal data because it can be traced to a specific computer and to a single individual.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Ei IP-adresse er definert som ei personopplysning fordi ho kan sporast til ei bestemt maskin og til ein enkeltperson.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.246</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>The cookies remember settings and gather statistical information.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Kapslane hugsar innstillingar og samlar inn statistikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.49002</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <seg>The division administers data from the Land Registry and the New Cadastre, and handles administrative tasks relating to the Norwegian Place Names Act and administrative borders.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <seg>Divisjonen forvaltar data fr&#229; grunnbok og matrikkel, og har forvaltingsoppg&#229;ver knytt til lov om stadnamn og administrative grenser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.43918</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>If you use the function to send a link via e-mail, we only use the specified e-mail address to forward the message.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Om du bruker funksjonen til &#229; sende lenke via e-post, nyttar vi berre dei oppgitte e-postadressene til &#229; sende meldinga vidare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.611</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/api-and-data/terms-of-use/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/api-and-data/terms-of-use/</prop>
+     <seg>APIs and services</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/api-og-data/vilkar-for-bruk/</prop>
+     <prop type="source-document">https://www.kartverket.no/api-og-data/vilkar-for-bruk/</prop>
+     <seg>API og tenester</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.4577</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>We therefore ask that you do not send your personal ID number or any information of a sensitive or confidential nature via e-mail.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Vi oppmodar deg difor til ikkje &#229; sende f&#248;dselsnummer eller teiepliktige, sensitive eller andre fortrulege opplysningar via e-post.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.14327</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/api-and-data/satellite-and-positiong-data/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/api-and-data/satellite-and-positiong-data/</prop>
+     <seg>The Norwegian Mapping Authority has over 250 geodetic stations spread across the entire country that receive and forward satellite observations.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/api-og-data/satellittdata/</prop>
+     <prop type="source-document">https://kartverket.no/api-og-data/satellittdata/</prop>
+     <seg>satellittdata.no Kartverket har over 250 geodetiske stasjonar spreidd over heile landet som tar imot og vidaresender satellittobservasjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.26638</prop>
+    <prop type="score-bicleaner">0.567</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/at-sea/efs/contribution-of-nautical-information/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/at-sea/efs/contribution-of-nautical-information/</prop>
+     <seg>The Norwegian Mapping Authority prefers that coordinates be specified in WGS84 datum.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kartverket.no/til-sjos/efs/innmelding-av-rettelser-til-efs/</prop>
+     <prop type="source-document">https://www.kartverket.no/til-sjos/efs/innmelding-av-rettelser-til-efs/</prop>
+     <seg>Kartverket f&#248;retrekk at koordinat er oppgjeve i WGS84 datum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.26538</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <seg>The Geodetic Institute is responsible for national geodetic information on which all positioning, measuring, mapping and earth observation is based.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <seg>Geodesidivisjonen har ansvar for det nasjonale geodetiske grunnlaget, som er grunnlaget for all fastsetjing av posisjon, oppm&#229;ling, kartlegging og jordobservasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>If you want more information about the processing of personal data by Kartverket, you can use the contact information at the bottom of this page.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Dersom du &#248;nskjer meir informasjon om Kartverkets behandling av personopplysningar, kan du bruke kontaktinformasjonen nedst p&#229; denne sida.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.08214</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/what-we-do/</prop>
+     <seg>The division is also responsible for information about navigable waterways, tidal waters and currents.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/kva-kartverket-gjer/</prop>
+     <seg>Divisjonen er ogs&#229; ansvarleg for informasjon om farvatn, tidevatn og havstraumar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.29236</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <prop type="source-document">https://kartverket.no/en/about-kartverket/data-protection-policy/</prop>
+     <seg>The personal data being processed is primarily name, address and personal ID number associated with the rights an individual has in property, or in connection with enterprises registered in the cadastral register.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.kartverket.no/om-kartverket/personvern/</prop>
+     <prop type="source-document">https://kartverket.no/om-kartverket/personvern/</prop>
+     <seg>Personopplysningar som blir behandla er f&#248;rst og fremst namn, adresse og f&#248;dselsnummer knytta til rettar som ein person har i eigedom, eller knytta til verksemder registrert i matrikkelen.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

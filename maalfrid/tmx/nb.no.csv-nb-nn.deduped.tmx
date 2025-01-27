@@ -1,0 +1,136 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221218T205046" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.42579</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nb.no/hva-skjer/kortfilmkveld-dystopi-det-framande-og-menneskemaskiner/</prop>
+     <seg>The Factory er en steampunk-, science fiction-kortfilm som handlar om en mann, en robot og en kyborg som arbeider p&#229; en brusfabrikk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/hva-skjer/kortfilmkveld-dystopi-det-framande-og-menneskemaskiner/?ical=1</prop>
+     <seg>The Factory er ein steampunk-\, science fiction-kortfilm som handlar om ein mann\, ein robot og ein kyborg som arbeider p&#229; ein brusfabrikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.05</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nb.no/hva-skjer/framtida-pa-nrk-to-frittstaande-episodar-fra-nrks-science-fiction-serie-fra-1970-71/</prop>
+     <seg>En rakett blir bygd for &#229; kome tilbake til jorda.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/hva-skjer/framtida-pa-nrk-to-frittstaande-episodar-fra-nrks-science-fiction-serie-fra-1970-71/?ical=1</prop>
+     <seg>Ein rakett blir bygd for &#229; kome tilbake til jorda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">3.23023</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nb.no/hva-skjer/kortfilmkveld-tilbake-men-til-kva-slags-natur/</prop>
+     <seg>Det blir et kappl&#248;p mellom denne ballen sitt fall mot jorda (ballen endrar seg undervegs til en jordklode) og en fugl som i aukande panikk plukkar fj&#248;r fr&#229; eige bryst for &#229; lage et reir for &#229; redde ballen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/hva-skjer/kortfilmkveld-tilbake-men-til-kva-slags-natur/?ical=1</prop>
+     <seg>Det blir eit kappl&#248;p mellom denne ballen sitt fall mot jorda (ballen endrar seg undervegs til ein jordklode) og ein fugl som i aukande panikk plukkar fj&#248;r fr&#229; eige bryst for &#229; lage eit reir for &#229; redde ballen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">3.05</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nb.no/hva-skjer/kortfilmkveld-dystopi-det-framande-og-menneskemaskiner/</prop>
+     <seg>En kan sj&#229; filmen som en konsekvens av dagens utvikling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/hva-skjer/kortfilmkveld-dystopi-det-framande-og-menneskemaskiner/?ical=1</prop>
+     <seg>Ein kan sj&#229; filmen som ein konsekvens av dagens utvikling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.20714</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nb.no/hva-skjer/tvisynt-og-framsynt-farsethas-vesaas-grepstad-skre/</prop>
+     <seg>En tankens h&#230;rmann av Olav Vesaas kjem i h&#248;ve Vinje-jubileet i ny utg&#229;ve, og direkt&#248;r i Nynorsk kultursentrum Ottar Grepstad har samla en bibliografi over alle Vinjes skrifter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/hva-skjer/tvisynt-og-framsynt-farsethas-vesaas-grepstad-skre/?ical=1</prop>
+     <seg>Ein tankens h&#230;rmann av Olav Vesaas kjem i h&#248;ve Vinje-jubileet i ny utg&#229;ve\, og direkt&#248;r i Nynorsk kultursentrum Ottar Grepstad har samla ein bibliografi over alle Vinjes skrifter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.00698</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nb.no/besok/omvising-i-nasjonalbiblioteket/omvising-i-kartsenteret/</prop>
+     <seg>skole@nb.no Personer som har luftveissymptomer eller andre symptomer p&#229; covid-19, eller personer som er i karantene eller isolasjon, skal holde seg hjemme. Omvisingar</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/besok/omvising-i-nasjonalbiblioteket/omvising-i-opplyst/</prop>
+     <seg>Personar som har luftvegssymptom eller andre symptom p&#229; covid-19, eller personar som er i karantene eller isolasjon, skal halde seg heime.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.96667</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nb.no/hva-skjer/den-brysomme-mannen-filmvisning/</prop>
+     <seg>P&#229; overflata har Andreas et perfekt liv.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/hva-skjer/den-brysomme-mannen-filmvisning/?ical=1</prop>
+     <seg>P&#229; overflata har Andreas eit perfekt liv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.42919</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nb.no/hva-skjer/kortfilmkveld-byen-og-dehumaniseringa-av-samfunnet/</prop>
+     <seg>Omplassering er en &#171;kvardags-science fiction&#187; som tar f&#248;re seg samlivsproblem i ei tenkt n&#230;r framtid der overfolking av jorda krev ekstreme tiltak.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/hva-skjer/kortfilmkveld-byen-og-dehumaniseringa-av-samfunnet/?ical=1</prop>
+     <seg>Omplassering er ein &#171;kvardags-science fiction&#187; som tar f&#248;re seg samlivsproblem i ei tenkt n&#230;r framtid der overfolking av jorda krev ekstreme tiltak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">3.10881</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nb.no/hva-skjer/den-nye-innlandsisen/</prop>
+     <seg>I dag har vi Middelhavet som parallell, et hav der titusen av menneske p&#229; flukt har drukna, en innlandsis, ikke p&#229; verdskartet, men i hjarta til folk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/hva-skjer/den-nye-innlandsisen/?ical=1</prop>
+     <seg>I dag har vi Middelhavet som parallell\, eit hav der titusen av menneske p&#229; flukt har drukna\, ein innlandsis\, ikkje p&#229; verdskartet\, men i hjarta til folk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.83846</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nb.no/hva-skjer/den-nye-innlandsisen/</prop>
+     <seg>Du treng ikke hente billett for &#229; se den digitale sendinga.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nb.no/hva-skjer/den-nye-innlandsisen/?ical=1</prop>
+     <seg>Du treng ikkje hente billett for &#229; se den digitale sendinga.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

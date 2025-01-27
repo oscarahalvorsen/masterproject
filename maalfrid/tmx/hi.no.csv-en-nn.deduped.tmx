@@ -1,0 +1,1722 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T224840" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.02532</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2021/january/mackerel-and-salmon-had-different-diets</prop>
+     <seg>Overlap between salmon and mackerel, but not salmon and herring</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2021/januar/makrell-og-laks-at-ulikt</prop>
+     <seg>Laks og makrell overlappa, men ikkje laks og sild</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.76604</prop>
+    <prop type="score-bicleaner">0.543</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kronprinshaakon.hi.no/en/projects/crimac/news/new-project-manager-for-crimac</prop>
+     <seg>Marine researcher Nils Olav Handegard takes the helm after Egil Ona.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kronprinshaakon.hi.no/crimac-senter-for-forskningsdrevet-innovasjon/nyheter/ny-prosjektleiar-i-crimac</prop>
+     <seg>Havforskar Nils Olav Handegard tar over roret etter Egil Ona.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.076</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/august/satellite-tagging-20-bluefin-tuna-the-search-is-on</prop>
+     <seg>Immediately several fishing boats in &#216;ygarden made an about turn and headed for the same place.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/august/storje-leitinga-er-i-gang</prop>
+     <seg>Samtidig gjorde fleire b&#229;tar i &#216;ygarden heilomvending og flokka seg til same posisjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.44</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2021/january/mackerel-and-salmon-had-different-diets</prop>
+     <seg>Sometimes even in the same trawl net&#8221;, says Utne.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2021/januar/makrell-og-laks-at-ulikt</prop>
+     <seg>Nokre gonger i same tr&#229;lhal, seier Utne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.26613</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>But today obesity and malnutrition have become bigger problems, even in Africa.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Men i dag er overvekt og feilern&#230;ring eit st&#248;rre problem, sj&#248;lv i Afrika.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.02775</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/october/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>This year&#8217;s Norwegian fishery for bluefin tuna is over, with only around a quarter of the 239-tonne quota caught.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/oktober/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Lorentzen Det norske fisket etter makrellst&#248;rje n&#230;rmar seg slutten for i &#229;r, med om lag ein fjerdedel av kvota p&#229; totalt 239 tonn fanga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.61303</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/october/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>The fishing expedition started in M&#229;l&#248;y at the end of September and covered the area between V&#230;rlandet and Sands&#248;ya island.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/oktober/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Toktet starta ved M&#229;l&#248;y i slutten av september og dekka omr&#229;de mellom V&#230;rlandet og Sands&#248;ya.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.09091</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/august/satellite-tagging-20-bluefin-tuna-the-search-is-on</prop>
+     <seg>Because we need their unique skills&#8221;, says Keno Ferter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/august/storje-leitinga-er-i-gang</prop>
+     <seg>For dette krev unik kompetanse, seier Keno Ferter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.10919</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2017/mars/kongen-og-presidenten-pa-merkedugnad-for-makrellen</prop>
+     <seg>The mark and recapture method with RFID technology was developed by the Institute of Marine Research and has been in use since 2011.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2017/03/kongen-og-presidenten-pa-merkedugnad-for-makrellen</prop>
+     <seg>Merke-gjenfangst-metoden med RFID-teknologi er utvikla p&#229; Havforskingsinstituttet, og har vore i bruk sidan 2011 (sj&#229; heile merkeprosessen i biletserie nedst i saka).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.01032</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2021/january/mackerel-and-salmon-had-different-diets</prop>
+     <seg>We also found little geographical overlap between the herring and salmon, and no correlation between the fluctuations in the size of the various stocks&#8221;, says scientist Kjell Rong Utne, when summing up their conclusions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2021/januar/makrell-og-laks-at-ulikt</prop>
+     <seg>I tillegg fann vi liten geografisk overlapping mellom sild og laks, og heller ingen samanheng mellom svingingane dei ulike bestandane har hatt, summerer havforskar Kjell Rong Utne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">3.72336</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/september/scientists-uncover-the-home-of-bluefin-tuna-in-the-north-atlantic</prop>
+     <seg>Around 13 percent come from unknown spawning grounds&#8221;, says N&#248;ttestad.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/september/har-spora-heimen-til-makrellstorjer-i-nord-atlanteren</prop>
+     <seg>Om lag 13 prosent kjem fr&#229; ukjende gyteomr&#229;de, seier N&#248;ttestad.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.15341</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Lake Victoria, Kenya, autumn 2019: Marian Kjellevold, a researcher at the Institute of Marine Research, can see antelopes, zebras and monkeys through the window as the car passes through the rolling savannah.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Victoriasj&#248;en, Kenya, hausten 2019: HI-forskar Marian Kjellevold kan sj&#229; antiloper, sebra og apekattar ut bilvindauga, p&#229; duvande savannar som glir forbi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.11775</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/october/delousing-agent-kept-juvenile-lobsters-from-finding-shelter</prop>
+     <seg>In the first run, the control group spent just over five minutes to take shelter on average.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/oktober/lusemiddel-hindra-hummaryngel-i-a-skjule-seg</prop>
+     <seg>I f&#248;rste gjennomf&#248;ring, brukte kontrollgruppa i snitt litt over fem minutt p&#229; &#229; s&#248;ke tilflukt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.22208</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/january/learning-to-reveal-the-secrets-of-the-sea</prop>
+     <seg>This was the fourth time this course was held on G.O. Sars, and Ona believes that Osterfjorden is an ideal location.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/januar/ices-akustikk-kurs-sars</prop>
+     <seg>Sars&#187; vart arrangert for fjerde gong, og Ona meiner Osterfjorden er ein ideell lokalitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.0827</prop>
+    <prop type="score-bicleaner">0.501</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/february/flesh-of-fish-turned-liquid-by-parasite</prop>
+     <seg>On Iceland, a kind of Kudoa has been found in lumpfish used as cleaner fish in fish farms&#8221;, explains Giulietti.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/februar/kudoa-gjer-fiskekjott-flytande</prop>
+     <seg>P&#229; Island er det beskrive ein kudoa-art i rognkjeks som er reinsefisk i oppdrettsanlegg, fortel havforskar Giulietti.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.1786</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/february/flesh-of-fish-turned-liquid-by-parasite</prop>
+     <seg>Post-mortem, the Kudoa parasites start producing enzymes that &#8220;digest&#8221; the fish&#8217;s flesh.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/februar/kudoa-gjer-fiskekjott-flytande</prop>
+     <seg>Post-mortem begynner Kudoa-parasitten &#229; produsere enzym som &#171;ford&#248;yer&#187; fiskekj&#248;ttet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.11667</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kronprinshaakon.hi.no/en/projects/crimac/news/new-project-manager-for-crimac</prop>
+     <seg>See also the latest CRIMAC newsletter by project manager Nils Olav:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kronprinshaakon.hi.no/crimac-senter-for-forskningsdrevet-innovasjon/nyheter/ny-prosjektleiar-i-crimac</prop>
+     <seg>Les ogs&#229; siste nyheitsbrev fr&#229; Nils Olav:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.00358</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/august/research-continues-into-the-mysterious-cod-at-jan-mayen</prop>
+     <seg>When &#8220;Geir II&#8221; returns home with the samples, researchers will set about analysing their genetic material and otoliths, which tell us their age.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/august/forskar-vidare-pa-jan-mayen-torsken</prop>
+     <seg>N&#229;r &#171;Geir II&#187; kjem heim med pr&#248;vane, set forskarane i gang &#229; analysere genetikken og &#248;yresteinane deira.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.43574</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/september/scientists-uncover-the-home-of-bluefin-tuna-in-the-north-atlantic</prop>
+     <seg>Notably, a significant proportion of the fish caught in the Gulf of Mexico come from the Mediterranean&#8221;, says Leif N&#248;ttestad.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/september/har-spora-heimen-til-makrellstorjer-i-nord-atlanteren</prop>
+     <seg>S&#230;rleg i Mexicogolfen er betydelege delar av fangstane eigentleg st&#248;rje fr&#229; Middelhavet, seier Leif N&#248;ttestad.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.60667</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2021/january/mackerel-and-salmon-had-different-diets</prop>
+     <seg>While the stomach analyses used in this study were from 2008 and 2009, the biggest increase in the mackerel population occurred after 2010.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2021/januar/makrell-og-laks-at-ulikt</prop>
+     <seg>Mens mageanalysane i denne studien er fr&#229; 2008 og 2009, tok makrellbestanden seg verkeleg opp etter 2010.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.45323</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/august/satellite-tagging-20-bluefin-tuna-the-search-is-on</prop>
+     <seg>Team 13 have observed bluefin tuna at the surface.&#8221;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/august/storje-leitinga-er-i-gang</prop>
+     <seg>Team 13 har observert makrellst&#248;rje i overflata. Publisert: Oppdatert:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.46</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/april/successful-takeover-puts-capelin-and-warrior-shrimps-on-the-menu</prop>
+     <seg>That&#8217;s the concept behind neo-Nordic cuisine&#8221;, explains Lysverket&#8217;s head chef Christopher Haatuft.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/april/vellykka-med-panserreker-og-sjopolser</prop>
+     <seg>Det er tanken bak det neo-nordiske kj&#248;kkenet, forklarar kj&#248;kkensjef Christopher Haatuft p&#229; Lysverket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.03115</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/october/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>Scientist Caroline Durif with an eel that is probably around 30 years old, based on what we know about size and growth rates.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mai/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>Forskar Caroline Durif med &#229;l som truleg er rundt 30 &#229;r, ut fr&#229; det vi veit om storleik og vekst.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.16207</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/october/chronicle-part-of-our-ocean-is-dying</prop>
+     <seg>The kelp-dominated Great Southern Reef contributes as much as $10 billion to the country&#8217;s economy each year, almost twice as much as the Great Barrier Reef.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/november/delar-av-havet-er-i-ferd-med-a-doy</prop>
+     <seg>Det taredominerte Great Southern Reef skaper statleg verdi p&#229; heile 10 milliardar dollar kvart &#229;r, n&#230;r dobbelt s&#229; mykje som det meir kjende Great Barrier Reef.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.44253</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/october/delousing-agent-kept-juvenile-lobsters-from-finding-shelter</prop>
+     <seg>The 19 that took part in this experiment were the ones that survived and which appeared to be physically fine.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/oktober/lusemiddel-hindra-hummaryngel-i-a-skjule-seg</prop>
+     <seg>Dei 19 som deltok i dette eksperimentet, var dei som overlevde og s&#229;g fysisk up&#229;verka ut.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.05425</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/april/successful-takeover-puts-capelin-and-warrior-shrimps-on-the-menu</prop>
+     <seg>Marine researchers took over the famous Bergen restaurant Lysverket for one evening.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/april/vellykka-med-panserreker-og-sjopolser</prop>
+     <seg>Havforskarane &#171;kuppa&#187; Bergensrestauranten Lysverket for ein kveld.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.00588</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/january/fiska-meir-rundt-hummarreservatet</prop>
+     <seg>Their number almost tripled over the same four-year period&#8221;, says Kleiven.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/januar/fiska-meir-rundt-hummarreservatet</prop>
+     <seg>Mengda hummar der har n&#230;rmast tredobla seg p&#229; dei same fire &#229;ra, seier Kleiven.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/january/learning-to-reveal-the-secrets-of-the-sea</prop>
+     <seg>&#8220;You can change the settings of the sonar and immediately see how it affects the results&#8221;, adds Elor Sepp from the Estonian Marine Institute.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/januar/ices-akustikk-kurs-sars</prop>
+     <seg>&#8211; Du kan endra innstillingane p&#229; ekkoloddet og sj&#229; med ein gong korleis det p&#229;verkar resultatet, supplerer Elor Sepp fr&#229; instituttet for havforsking i Estland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.04189</prop>
+    <prop type="score-bicleaner">0.587</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Samples are analysed in Norway and Germany</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Pr&#248;vane blir analyserte i Noreg og Tyskland</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.87778</prop>
+    <prop type="score-bicleaner">0.541</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/august/satellite-tagging-20-bluefin-tuna-the-search-is-on</prop>
+     <seg>Satellite tagging 20 bluefin tuna: The search is on</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/august/storje-leitinga-er-i-gang</prop>
+     <seg>Leitinga er i gang Skal satellittmerke 20 makrellst&#248;rjer: Leitinga er i gang</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/resources/Brosjyre-engelsk-2020-2021-til-web.pdf.converted</prop>
+     <seg>the ocean and cryosphere, which warns of</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/resources/Brosjyre-2020-2021-til-web.pdf.converted</prop>
+     <seg>spesialrapporten sin om hav og is,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.74751</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/september/scientists-uncover-the-home-of-bluefin-tuna-in-the-north-atlantic</prop>
+     <seg>Currently a dividing line is drawn in the middle of the Atlantic at 45 degrees west.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/september/har-spora-heimen-til-makrellstorjer-i-nord-atlanteren</prop>
+     <seg>I dag er det streka opp ei skiljelinje midt i Atlanterhavet p&#229; 45 grader vest.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.07872</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/june/derfor-blir-fjorden-gron</prop>
+     <seg>&#8220;There doesn&#8217;t necessarily need to be as much of it as you might think, because Ehux, as we call it, sheds lots of calcium carbonate scales into the surrounding water&#8221;, says the plankton researcher Lars-Johan Naustvoll.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/juni/derfor-blir-fjorden-gron</prop>
+     <seg>&#8211; Det treng ikkje n&#248;dvendigvis vere s&#229; store mengder som det ser ut til, for Ehux, som vi kallar den, n&#230;rmast drysser om seg med kalkplater til vatnet rundt, seier planktonforskar Lars-Johan Naustvoll.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.11252</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/october/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Bluefin tuna are hard to catch &#8211; marine scientists want to help</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/oktober/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Makrellst&#248;rje er ikkje lett &#229; fiske &#8211; havforskarane vil hjelpe</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.325</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Including in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Ogs&#229; i Noreg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.22112</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/temasider/ocean-and-coast/plastic-litter-in-the-oceans</prop>
+     <seg>Another source is waste from the petroleum industry and shipping, and the third one is waste from land.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/temasider/hav-og-kyst/plastsoppel-i-havet</prop>
+     <seg>Ei anna kjelde er s&#248;ppel fr&#229; petroleumsindustri og shipping, og til sist kjem avfall fr&#229; land.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.48571</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/january/learning-to-reveal-the-secrets-of-the-sea</prop>
+     <seg>Osterfjorden is an ideal location for learning about broadband acoustics, according to course instructor Egil Ona.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/januar/ices-akustikk-kurs-sars</prop>
+     <seg>Osterfjorden er ein ideell lokalitet for akustikkurs, meiner kursansvarleg Egil Ona.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>&#8220;Our job is to analyse the nutritional value of the fish, and to look for unwanted substances&#8221;, explains Kjellevold.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>&#8211; V&#229;rt oppdrag er &#229; kartlegga n&#230;ringsinnhaldet i fisken, og ogs&#229; sjekka etter uynskte stoff, forklarar Kjellevold.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.29464</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>The classic road trip for tourists in East Africa, in other words.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>S&#229; langt &#8211; ein klassisk &#171;road trip&#187; for ein turist i Aust-Afrika.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">4.11818</prop>
+    <prop type="score-bicleaner">0.589</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/september/scientists-uncover-the-home-of-bluefin-tuna-in-the-north-atlantic</prop>
+     <seg>185 bluefin tuna caught between 2013 and 2017 were analysed.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/september/har-spora-heimen-til-makrellstorjer-i-nord-atlanteren</prop>
+     <seg>185 makrellst&#248;rjer fanga mellom 2013-2017 er analysert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.015</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/october/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>This causes its muscles to relax and means that it doesn&#8217;t produce lactic acid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/oktober/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Resultatet er at musklane slappar av og ikkje produserer mj&#248;lkesyre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/october/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Vibeke Helene delivers its catch to the landing facility at Sandshamn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/oktober/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>"Vibeke Helene" leverer fangsten p&#229; mottaket i Sandshamn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">3.68954</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/october/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>The following day they caught 29 tuna with an average weight of 260 kilos.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/oktober/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Dagen etterp&#229; tok dei 29 st&#248;rjer med snittvekt p&#229; 260 kilo.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.4392</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/august/research-continues-into-the-mysterious-cod-at-jan-mayen</prop>
+     <seg>He has secured DNA samples from around 150 cod, and recorded their age, sex and stomach contents.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/august/forskar-vidare-pa-jan-mayen-torsken</prop>
+     <seg>Han har tatt DNA-pr&#248;ver, registrert alder, kj&#248;nn og mageinnhald av om lag 150 utvalde torskar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.53335</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>But Marian and her travel companion, the German research scholar Laura Wessels, are not tourists &#8211; they&#8217;re researchers, and they&#8217;re here to study a small, but vital, freshwater fish.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Men Marian og reisefylgjet, den tyske doktorgradsstipendiaten Laura Wessels, er ikkje turistar &#8211; men forskarar, og dei er her p&#229; grunn av ein liten, men livsviktig, ferskvassfisk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.34182</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/october/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>New analyses performed by Durif and her colleagues on 800 of the same eels found that on average they were twice as old as that.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mai/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>Nye analyser som Durif og kollegaane har gjort av 800 av dei same &#229;lane, viser at dei i snitt var dobbelt s&#229; gamle.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.17909</prop>
+    <prop type="score-bicleaner">0.543</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/october/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>In 2014 the eel was moved from being &#8216;critically endangered&#8217; to &#8216;vulnerable&#8217; on the Norwegian red list.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mai/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>I 2014 blei &#229;len vurdert som &#171;s&#229;rbar&#187; og ikkje lenger &#171;kritisk truga&#187; p&#229; den norske raudlista.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.08947</prop>
+    <prop type="score-bicleaner">0.553</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/temasider/ocean-and-coast/plastic-litter-in-the-oceans</prop>
+     <seg>Waves and friction also wear down the plastic, causing it to gradually disintegrate into smaller pieces.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/temasider/hav-og-kyst/plastsoppel-i-havet</prop>
+     <seg>Ogs&#229; b&#248;lgjer og friksjon t&#230;rer p&#229; plasten slik at han kan smuldre opp og gradvis bli til mindre plastbitar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.81</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/october/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>&#8220;The average eel was 19 years old when it migrated to spawn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mai/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>&#8211; Gjennomsnitts&#229;lene var 19 &#229;r d&#229; dei vandra ut for &#229; gjere seg klar til &#229; gyte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.17273</prop>
+    <prop type="score-bicleaner">0.591</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/january/learning-to-reveal-the-secrets-of-the-sea</prop>
+     <seg>Photo: Christine Fagerbakke / Institute of Marine Research</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/januar/ices-akustikk-kurs-sars</prop>
+     <seg>Foto: Christine Fagerbakke / Havforskingsinstituttet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">3.82781</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/june/derfor-blir-fjorden-gron</prop>
+     <seg>By comparison, a strand of hair is around 75 micrometres thick.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/juni/derfor-blir-fjorden-gron</prop>
+     <seg>Til samanlikning er eit h&#229;rstr&#229; rundt 75 mikrometer tjukt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.86324</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/october/delousing-agent-kept-juvenile-lobsters-from-finding-shelter</prop>
+     <seg>Teflubenzuron has been found on the seabed 1,100 metres away from fish farms&#8221;, says Ann-Lisbeth Agnalt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/oktober/lusemiddel-hindra-hummaryngel-i-a-skjule-seg</prop>
+     <seg>Teflubenzuron er funne i havbotnen 1100 meter fr&#229; oppdrettsanlegg, seier Ann-Lisbeth Agnalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.21011</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/august/research-continues-into-the-mysterious-cod-at-jan-mayen</prop>
+     <seg>It was last year that the longliner &#8220;Loran&#8221; hauled in 450 tonnes of cod in the far northwest of the Norwegian Sea.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/august/forskar-vidare-pa-jan-mayen-torsken</prop>
+     <seg>Det var i fjor at lineb&#229;ten &#171;Loran&#187; gjorde eit varp p&#229; 450 tonn torsk s&#229; langt nordvest du kjem i Norskehavet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.08953</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/october/delousing-agent-kept-juvenile-lobsters-from-finding-shelter</prop>
+     <seg>They explored the whole space, found the shelter and walked straight in&#8221;, explains Alessandro Cresci, main author of the newly published article.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/oktober/lusemiddel-hindra-hummaryngel-i-a-skjule-seg</prop>
+     <seg>Dei utforskar heile rommet, finn skjulet og g&#229;r rett inn i det, fortel Alessandro Cresci, hovudforfattar bak den nye studien.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.37959</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/april/successful-takeover-puts-capelin-and-warrior-shrimps-on-the-menu</prop>
+     <seg>Lysverket is one of the most respected restaurants in Bergen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/april/vellykka-med-panserreker-og-sjopolser</prop>
+     <seg>Lysverket er blant dei best renommerte restaurantane i Bergen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.44</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/june/derfor-blir-fjorden-gron</prop>
+     <seg>Emiliania Huxleyi is around 5 micrometres, or 5 thousandths of a millimetre, long.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/juni/derfor-blir-fjorden-gron</prop>
+     <seg>Emiliania Huxleyi er om lag 5 mikrometer stor, det vil seie 5 tusendelar av ein millimeter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.13012</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/january/learning-to-reveal-the-secrets-of-the-sea</prop>
+     <seg>Ona, who is one of the course instructors, has himself helped to develop the new echo sounder, which is the result of a partnership between Kongsberg Maritime (which owns the distinguished brand Simrad) and the IMR &#8211; one dating right back to a post-war push to develop industry and marine research.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/januar/ices-akustikk-kurs-sars</prop>
+     <seg>Forskar og kursleiar Ona har sj&#248;lv vore med p&#229; utviklinga av det nye ekkoloddet, som vart utf&#248;rt i samarbeid mellom Kongsberg Maritime (som eig den tradisjonsrike merkevara Simrad) og HI &#8211; eit samarbeid som g&#229;r tilbake til oppbygginga av industri og havforsking etter andre verdskrigen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.44255</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/february/flesh-of-fish-turned-liquid-by-parasite</prop>
+     <seg>By squeezing 3000 specimen, they found soft flesh and Kudoa in 0,33 percent.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/februar/kudoa-gjer-fiskekjott-flytande</prop>
+     <seg>Ved &#229; klemme p&#229; 3000 fisk, fann dei kudoa i 0,33 prosent. (Foto:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.11288</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/february/flesh-of-fish-turned-liquid-by-parasite</prop>
+     <seg>The parasite responsible appears to be same species found in Norwegian mackerel.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/februar/kudoa-gjer-fiskekjott-flytande</prop>
+     <seg>Parasitten ser ut til &#229; vere av same art som den vi finner i norsk makrell.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.77273</prop>
+    <prop type="score-bicleaner">0.553</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kronprinshaakon.hi.no/en/projects/crimac/news/new-project-manager-for-crimac</prop>
+     <seg>Now, Nils Olav Handegard takes over as project manager.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kronprinshaakon.hi.no/crimac-senter-for-forskningsdrevet-innovasjon/nyheter/ny-prosjektleiar-i-crimac</prop>
+     <seg>No tar Nils Olav Handegard over som prosjektleiar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.0688</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/may/big-claws-good-for-lobster-sex-life,-potentially-fatal-in-the-fishing-season</prop>
+     <seg>&#8220;The very thing that makes male lobsters a hit with the ladies, turns out to be potentially fatal to them in the fishing season&#8221;, says Even Moland.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/mai/store-klor-godt-for-sexlivet-men-livsfarleg-i-fiskesesongen</prop>
+     <seg>&#8211; Det som gjer hummar-hannane attraktive blant damene, viser seg &#229; vere livsfarleg for dei i teinefisket, seier Even Moland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.07237</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/january/learning-to-reveal-the-secrets-of-the-sea</prop>
+     <seg>Researcher and course instructor Egil Ona checks the echo sounder's power supply.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/januar/ices-akustikk-kurs-sars</prop>
+     <seg>Forskar og kursleiar Egil Ona sjekkar at straumforsyninga til ekkoloddet fungerer som det skal.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">3.00031</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/january/fiska-meir-rundt-hummarreservatet</prop>
+     <seg>Since the creation of the lobster reserve in 2012, marine scientists have monitored the lobsters closely.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/januar/fiska-meir-rundt-hummarreservatet</prop>
+     <seg>Sidan opprettinga av hummarreservatet i 2012 har havforskarane f&#248;lgt hummaren tett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.06857</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/january/learning-to-reveal-the-secrets-of-the-sea</prop>
+     <seg>The ship&#8217;s echo sounder, a Simrad EK80, is a completely different and more advanced piece of equipment than the ones you find on more traditional vessels.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/januar/ices-akustikk-kurs-sars</prop>
+     <seg>Ekkoloddet p&#229; skipet, Simrad EK80, er nemleg noko heilt anna og meir avansert enn det ein finn p&#229; meir tradisjonelle fart&#248;y.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">3.45357</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/october/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>Some were as old as 30&#8221;, she says.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mai/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>Enkelte av dei var s&#229; gamle som 30, seier ho.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.76296</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2021/january/mackerel-and-salmon-had-different-diets</prop>
+     <seg>Finally, the scientists used statistical data from the period 1982-2017 to look for a link between the number of salmon returning to their home rivers, and the size of the herring, mackerel and blue whiting stocks.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2021/januar/makrell-og-laks-at-ulikt</prop>
+     <seg>Til slutt brukte forskarane statistikk fr&#229; perioden 1982-2017 for &#229; sj&#229; etter ein samanheng mellom mengda laks som kom heim til elva si, og bestandsstorleiken til sild, makrell og kolmule.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.01067</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/temasider/ocean-and-coast/plastic-litter-in-the-oceans</prop>
+     <seg>, between banks and in ravines, and some areas have up to six tonnes of litter per square kilometre.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/temasider/hav-og-kyst/plastsoppel-i-havet</prop>
+     <seg>, mellom bankane og i ravinar, og nokre stader finn ein opp i seks tonn s&#248;ppel per kvadratkilometer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.05714</prop>
+    <prop type="score-bicleaner">0.571</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kronprinshaakon.hi.no/en/projects/crimac/news/new-project-manager-for-crimac</prop>
+     <seg>Marine researcher Egil Ona made sure the centre is well set off.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kronprinshaakon.hi.no/crimac-senter-for-forskningsdrevet-innovasjon/nyheter/ny-prosjektleiar-i-crimac</prop>
+     <seg>Havforskar og ekko-ringrev Egil Ona har s&#248;rga for at senteret har kome godt i gang.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.19308</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Malnutrition is a bigger problem than hunger in the world today.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Feilern&#230;ring er eit st&#248;rre problem enn svolt i verda i dag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.90962</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/august/research-continues-into-the-mysterious-cod-at-jan-mayen</prop>
+     <seg>&#8220;Geir II&#8221; departed &#197;lesund on 30 July and is expected back at the turn of the month August/September.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/august/forskar-vidare-pa-jan-mayen-torsken</prop>
+     <seg>&#171;Geir II&#187; drog fr&#229; &#197;lesund 30. juli og er venta tilbake i m&#229;nadsskiftet august/september.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.53117</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/february/flesh-of-fish-turned-liquid-by-parasite</prop>
+     <seg>The Kudoa thyrsites is a microscopic myxosporean parasite.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/februar/kudoa-gjer-fiskekjott-flytande</prop>
+     <seg>Kudoa thyrsites er mikroskopiske myxosporidiar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.08791</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/october/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>It is mainly fish that they locate with sonar that they are able to encirle and catch in their nets&#8221;, says Sistiaga.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/oktober/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Det var fisken dei f&#248;rst og fremst s&#229;g p&#229; sonaren som let seg fange med nota, fortel Sistiaga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.83469</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/august/research-continues-into-the-mysterious-cod-at-jan-mayen</prop>
+     <seg>&#8220;DNA testing of Loran&#8217;s first catch showed that around 60 percent of it consisted of Northeast Arctic cod, or &#8220;skrei&#8221; as it is known in northern Norway&#8221;, says marine scientist Bjarte Bogstad.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/august/forskar-vidare-pa-jan-mayen-torsken</prop>
+     <seg>&#8211; DNA-pr&#248;ver av den f&#248;rste fangsten til &#171;Loran&#187; viste at om lag 60 prosent var nordaustarktisk torsk, eller skrei som vi kallar fisken i Nord-Norge, fortel havforskar Bjarte Bogstad.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.93349</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/january/learning-to-reveal-the-secrets-of-the-sea</prop>
+     <seg>He was one of 20 students from 12 different countries who attended the course on broadband acoustics organised by the International Council for Exploration of the Seas (ICES).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/januar/ices-akustikk-kurs-sars</prop>
+     <seg>Bergensaren var ein av 20 studentar fr&#229; 12 ulike nasjonar som deltok p&#229; kurset i breibandakustikk i regi av det internasjonale havforskingsr&#229;det ICES.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.86923</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>, led by Professor Jeppe Kolding at the University of Bergen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>, som blir leia av professor Jeppe Kolding ved Universitetet i Bergen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/october/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>It is widely used in commercial angling for bluefin tuna in other countries.)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/oktober/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Det er utbreidd i kommersielt stongfiske etter makrellst&#248;rje i andre land.)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.87635</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/march/kaja-har-mogleg-verdsrekord-i-laksegyting</prop>
+     <seg>&#8220;In total, Kaja laid around 33,350 eggs, which assuming the normal survival rate in the river would produce 1,000 smolts, 50 of which would reach spawning age.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/november/kaja-har-mogleg-verdsrekord-i-laksegyting</prop>
+     <seg>&#8211; Til saman har &#171;Kaja&#187; lagt rundt 33.350 egg, som med normal overleving i elva vil gi rundt 1.000 smolt og fr&#229; desse, 50 gytefiskar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.0697</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/august/research-continues-into-the-mysterious-cod-at-jan-mayen</prop>
+     <seg>The Ministry of Trade, Industry and Fisheries issued a special quota for scientific fishing in the area, half of which went to &#8220;Geir II&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/august/forskar-vidare-pa-jan-mayen-torsken</prop>
+     <seg>N&#230;rings- og fiskeridepartementet lyste ut ei eiga kvote for kartleggingsfiske i omr&#229;det, blant anna til &#171;Geir II&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.02</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/hi/om-oss/ansatte/ozlem-yilmaz</prop>
+     <seg>Biology of Reproduction</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/november/havtiaret-fra-prat-til-handling</prop>
+     <seg>n&#230;ringsverdi og helse</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">4.28038</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/january/fiska-meir-rundt-hummarreservatet</prop>
+     <seg>Here Alf Ring Kleiven is doing experimental fishing in 2013.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/januar/fiska-meir-rundt-hummarreservatet</prop>
+     <seg>Her er Alf Ring Kleiven p&#229; pr&#248;vefiske i 2013.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.08872</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2017/mars/kongen-og-presidenten-pa-merkedugnad-for-makrellen</prop>
+     <seg>Basically, that means we can use the number of fish tagged, scanned and recaptured to estimate the size of the population in the release year, explains Aril Slotte.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2017/03/kongen-og-presidenten-pa-merkedugnad-for-makrellen</prop>
+     <seg>Kort fortald betyr det at ut fr&#229; gitte tal p&#229; merkt, skanna og gjenfanga fisk, s&#229; kan vi berekna bestandsstorleiken i utsettings&#229;ret, forklarar Aril Slotte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.63673</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>As well as the Institute of Marine Research, the project partners include institutions in Uganda, Ghana, Kenya, Germany and Netherlands.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>I tillegg til Havforskningsinstituttet, er institusjonar fr&#229; Uganda, Ghana, Kenya, Tyskland og Nederland samarbeidspartnarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.341</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/october/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>But in the River Imsa in Rogaland, the eels are caught on their way out to sea.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mai/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>Men i elva Imsa i Rogaland blir &#229;lane fanga p&#229; veg ut i sj&#248;en.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.69474</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/april/successful-takeover-puts-capelin-and-warrior-shrimps-on-the-menu</prop>
+     <seg>&#216;ystein S&#230;le and head chef Christopher Haatuft are taking orders.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/april/vellykka-med-panserreker-og-sjopolser</prop>
+     <seg>Havforskar &#216;ystein S&#230;le og kj&#248;kkensjef Christopher Haatuft held styr p&#229; bestillingane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.22014</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/october/delousing-agent-kept-juvenile-lobsters-from-finding-shelter</prop>
+     <seg>They appear to get a kind of arthritis and find it difficult to walk around&#8221;, says marine scientist Ann-Lisbeth Agnalt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/oktober/lusemiddel-hindra-hummaryngel-i-a-skjule-seg</prop>
+     <seg>Han ser ut som han f&#229;r ein slags leddgikt og problem med &#229; ta seg fram i terrenget, seier havforskar Ann-Lisbeth Agnalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.14783</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/april/successful-takeover-puts-capelin-and-warrior-shrimps-on-the-menu</prop>
+     <seg>Researcher Martin Wiech is serving red sea cucumber.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/april/vellykka-med-panserreker-og-sjopolser</prop>
+     <seg>Havforskar Martin Wiech serverer raud sj&#248;p&#248;lse til gjestane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">3.84545</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/may/big-claws-good-for-lobster-sex-life,-potentially-fatal-in-the-fishing-season</prop>
+     <seg>24 of 100 tagged lobsters survived the fishing season.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/mai/store-klor-godt-for-sexlivet-men-livsfarleg-i-fiskesesongen</prop>
+     <seg>24 av 100 merkte humrar kom seg gjennom fiskesesongen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.07163</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/october/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Fish capture researcher Manu Sistiaga boarded the purse seiner "Vibeke Helene" to document the fishery and learn about the challenges involved.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/oktober/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Fangstforskar Manu Sistiaga gjekk derfor om bord p&#229; ringnotb&#229;ten &#171;Vibeke Helene&#187; for &#229; dokumentere fiskeriet og finne utfordringane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.17115</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2021/january/mackerel-and-salmon-had-different-diets</prop>
+     <seg>, the mackerel ate other prey.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2021/januar/makrell-og-laks-at-ulikt</prop>
+     <seg>For eksempel tobislarver vest for Irland og Skottland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.12022</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/september/scientists-uncover-the-home-of-bluefin-tuna-in-the-north-atlantic</prop>
+     <seg>&#8220;Data from satellite tags indicate a possible spawning ground off Madeira.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/september/har-spora-heimen-til-makrellstorjer-i-nord-atlanteren</prop>
+     <seg>&#8211; Ved hjelp av data fr&#229; satellittmerke, ser vi eit mogleg gyteomr&#229;de utanfor Madeira.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.06667</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/september/scientists-uncover-the-home-of-bluefin-tuna-in-the-north-atlantic</prop>
+     <seg>The researchers already knew that the world&#8217;s biggest tuna has spawning grounds in both the Gulf of Mexico and the Mediterranean.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/september/har-spora-heimen-til-makrellstorjer-i-nord-atlanteren</prop>
+     <seg>Forskarane visste fr&#229; f&#248;r at verdas st&#248;rste tunfisk har gyteomr&#229;de i b&#229;de Mexicogolfen og i Middelhavet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">2.62948</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2021/january/mackerel-and-salmon-had-different-diets</prop>
+     <seg>Over the course of nine scientific surveys in 2008 and 2009, the researchers analysed the stomach contents of 750 young salmon, 678 mackerel and 204 herring caught between Ireland and Svalbard.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2021/januar/makrell-og-laks-at-ulikt</prop>
+     <seg>Over ni forskingstokt i 2008 og 2009 analyserte forskarane mageinnhaldet til 750 unglaks, 678 makrell og 204 sild fanga mellom Irland og Svalbard.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">2.61211</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/august/research-continues-into-the-mysterious-cod-at-jan-mayen</prop>
+     <seg>The fishing vessel &#8220;Geir II&#8221; is on its second trip to Jan Mayen, and it has a scientific quota of 400 tonnes of cod.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/august/forskar-vidare-pa-jan-mayen-torsken</prop>
+     <seg>Fiskeb&#229;ten &#171;Geir II&#187; er no p&#229; sin andre tur til Jan Mayen med ei kartleggingskvote p&#229; 400 tonn torsk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.94267</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/september/scientists-uncover-the-home-of-bluefin-tuna-in-the-north-atlantic</prop>
+     <seg>&#8220;Fresh DNA testing shows that 83 percent of the tuna caught in Norway come from the Mediterranean, while just a few come from the Gulf of Mexico.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/september/har-spora-heimen-til-makrellstorjer-i-nord-atlanteren</prop>
+     <seg>&#8211; Ferske DNA-analyser viser at 83 prosent av st&#248;rjene fanga i Norge kjem fr&#229; Middelhavet, og i tillegg kjem det nokre slengarar fr&#229; Mexicogolfen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.11807</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2017/mars/kongen-og-presidenten-pa-merkedugnad-for-makrellen</prop>
+     <seg>Since 2011, over 250,000 mackerels have been electronically tagged and released back into the sea.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2017/03/kongen-og-presidenten-pa-merkedugnad-for-makrellen</prop>
+     <seg>Sidan 2011 er over 250 000 makrellar merkte elektronisk og sleppt ut igjen i havet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.28333</prop>
+    <prop type="score-bicleaner">0.563</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2021/january/mackerel-and-salmon-had-different-diets</prop>
+     <seg>All of the fish ate some amphipods and krill.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2021/januar/makrell-og-laks-at-ulikt</prop>
+     <seg>Alle fiskane &#229;t litt tanglopper og krill.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.0431</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/october/delousing-agent-kept-juvenile-lobsters-from-finding-shelter</prop>
+     <seg>But we must assume that the effects of teflubenzuron on their bodies are the same.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/oktober/lusemiddel-hindra-hummaryngel-i-a-skjule-seg</prop>
+     <seg>Men effekten av teflubenzuron i kroppen deira m&#229; vi anta er den same.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.02259</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/june/derfor-blir-fjorden-gron</prop>
+     <seg>(Photo credit: Stig Bjarte Haugen / Institute of Marine Research)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/juni/derfor-blir-fjorden-gron</prop>
+     <seg>(Foto: Stig Bjarte Haugen / Havforskningsinstituttet)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.07179</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/october/delousing-agent-kept-juvenile-lobsters-from-finding-shelter</prop>
+     <seg>These important findings support the new limits on the use of teflubenzuron&#8221;, says Agnalt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/oktober/lusemiddel-hindra-hummaryngel-i-a-skjule-seg</prop>
+     <seg>Dette er viktige funn som st&#248;tter opp under dei nye begrensningane for bruken av teflubenzuron, seier Agnalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.47308</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/temasider/ocean-and-coast/plastic-litter-in-the-oceans</prop>
+     <seg>Around 80 percent of marine litter is made of plastic.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/temasider/hav-og-kyst/plastsoppel-i-havet</prop>
+     <seg>Oppdatert: Om lag 80 prosent av s&#248;ppelet i havet er plast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">3.29444</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/august/satellite-tagging-20-bluefin-tuna-the-search-is-on</prop>
+     <seg>&#8220;The pop-up tag releases from the bluefin tuna after 365 days.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/august/storje-leitinga-er-i-gang</prop>
+     <seg>&#8211; Pop-up-merket slepper taket fr&#229; st&#248;rja etter 365 dagar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">1.05686</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/april/successful-takeover-puts-capelin-and-warrior-shrimps-on-the-menu</prop>
+     <seg>Together with head chef Christopher Haatuft, a team of food-loving marine scientists selected raw ingredients from the sea that are either unknown to most people, or not normally eaten for other reasons.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/april/vellykka-med-panserreker-og-sjopolser</prop>
+     <seg>Saman med kj&#248;kkensjef Christopher Haatuft fann eit gastronomisk havforskarteam fram r&#229;varer fr&#229; sj&#248;en som anten er ukjende for folk flest, eller ikkje vert eten av andre grunnar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">2.47753</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/march/kaja-har-mogleg-verdsrekord-i-laksegyting</prop>
+     <seg>This is the only photo we have of &#8220;Kaja&#8221;, or rather of one of her scales, taken in 2018.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/november/kaja-har-mogleg-verdsrekord-i-laksegyting</prop>
+     <seg>Dette er det einaste bildet vi har av &#171;Kaja&#187;, eller eit av skjela hennar tatt i 2018.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">1.15732</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kronprinshaakon.hi.no/en/projects/crimac/news/new-project-manager-for-crimac</prop>
+     <seg>Handegard has his background in acoustics, technology and information technology.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kronprinshaakon.hi.no/crimac-senter-for-forskningsdrevet-innovasjon/nyheter/ny-prosjektleiar-i-crimac</prop>
+     <seg>Handegard har bakgrunn innan akustikk, teknologi og datateknologi brukt opp mot fiskeriforvaltning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.20598</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/temasider/ocean-and-coast/plastic-litter-in-the-oceans</prop>
+     <seg>Marine litter is produced by activities both on land and at sea, and globally most of it comes from land.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/temasider/hav-og-kyst/plastsoppel-i-havet</prop>
+     <seg>S&#248;ppel i havet kjem fr&#229; aktivitetar b&#229;de p&#229; land og til havs, og p&#229; verdsbasis kjem det meste fr&#229; land.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">5.44286</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://kronprinshaakon.hi.no/en/projects/crimac/news/new-project-manager-for-crimac</prop>
+     <seg>The project lasts until 2028.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://kronprinshaakon.hi.no/crimac-senter-for-forskningsdrevet-innovasjon/nyheter/ny-prosjektleiar-i-crimac</prop>
+     <seg>Senteret varer fram til 2028.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">2.74678</prop>
+    <prop type="score-bicleaner">0.559</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/february/flesh-of-fish-turned-liquid-by-parasite</prop>
+     <seg>Within 24&#8211;36 hours, it has turned liquid, becoming a slimy fish porridge.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/februar/kudoa-gjer-fiskekjott-flytande</prop>
+     <seg>Etter 24-36 timar er det omgjort til flytande masse, ein slimete fiskegraut.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.11429</prop>
+    <prop type="score-bicleaner">0.603</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/february/flesh-of-fish-turned-liquid-by-parasite</prop>
+     <seg>Nothing is random in evolution.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/februar/kudoa-gjer-fiskekjott-flytande</prop>
+     <seg>Ingenting er tilfeldig i evolusjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">1.029</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2021/january/mackerel-and-salmon-had-different-diets</prop>
+     <seg>Further research will put us in a better position to say to what extent diets and competition have varied over time&#8221;, says Utne.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2021/januar/makrell-og-laks-at-ulikt</prop>
+     <seg>Vidare forsking vil kunne gi sterkare grunnlag for &#229; seie noko om diett og konkurranse har variert over tid, sier Utne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">3.48791</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/may/big-claws-good-for-lobster-sex-life,-potentially-fatal-in-the-fishing-season</prop>
+     <seg>Between Arendal and Grimstad, researchers tagged 100 lobsters with acoustic transmitters.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/mai/store-klor-godt-for-sexlivet-men-livsfarleg-i-fiskesesongen</prop>
+     <seg>Mellom Arendal og Grimstad merkte forskarane 100 humrar med akustiske sendarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.12714</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/march/kaja-har-mogleg-verdsrekord-i-laksegyting</prop>
+     <seg>Salmon parr in the River Etneelva &#8211; perhaps one of Kaja&#8217;s descendants?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/november/kaja-har-mogleg-verdsrekord-i-laksegyting</prop>
+     <seg>Lakseparr i Etneelva - kanskje ein av "Kaja" sine etterkommarar?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">2.29032</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/october/chronicle-part-of-our-ocean-is-dying</prop>
+     <seg>Opinion in Washington Post 23.10.18</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/november/delar-av-havet-er-i-ferd-med-a-doy</prop>
+     <seg>Kronikk i Washington Post 23.10.18</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">2.74421</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/temasider/ocean-and-coast/plastic-litter-in-the-oceans</prop>
+     <seg>This is equivalent to an average of around 200 kg of litter per square kilometre for the whole area it covers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/temasider/hav-og-kyst/plastsoppel-i-havet</prop>
+     <seg>Dette gir ei gjennomsnittleg mengde s&#248;ppel p&#229; rundt 200 kilo per kvadratkilometer for heile kartleggingsomr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">1.02368</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>&#8220;In the old days, we just talked about food supply, because food was food.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>&#8211; I gamle dagar snakka ein berre om matforsyning, fordi mat var mat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">2.47826</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>The capital is a long drive from the fishery in Lake Victoria &#8211; around 265 km from Kisumu and 135 km from Nakuru.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Hovudstaden ligg ein god k&#248;yretur fr&#229; fisket i Victoriasj&#248;en &#8211; om lag 265 kilometer fr&#229; Kisumu og 135 kilometer fr&#229; Nakuru.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.17413</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/august/satellite-tagging-20-bluefin-tuna-the-search-is-on</prop>
+     <seg>A data logger collects depth, temperature and light level data that is transmitted back to base via satellite&#8221;, explains project manager Keno Ferter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/august/storje-leitinga-er-i-gang</prop>
+     <seg>Det er ein ferdsskrivar som samlar inn data om djup, temperatur og lysniv&#229; som den sender heim via satellitt, fortel prosjektleiar Keno Ferter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">2.83481</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/november/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Kjellevold and Wessels split each sample into two &#8211; 120 grams for Norway and 120 grams for Germany.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mars/liten-fisk-kan-vera-avgjerande-vitaminbjorn-for-austafrikanske-born</prop>
+     <seg>Kjellevold og Wessels delte kvar pr&#248;ve i to &#8211; 120 gram skulle til Noreg, 120 gram til Tyskland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.47857</prop>
+    <prop type="score-bicleaner">0.563</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/october/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>The fish are bled and then subjected to the Japanese ikejime technique&#8221;, says Sistiaga.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/oktober/makrellstorje-er-ikkje-lett-a-fiske-havforskarane-vil-hjelpe</prop>
+     <seg>Fiskane blei bl&#248;gga og behandla med japansk ikejime-teknikk, seier Sistiaga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1.42301</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/january/learning-to-reveal-the-secrets-of-the-sea</prop>
+     <seg>&#8220;If something doesn&#8217;t work, you can see what is wrong &#8211; and then try to correct it&#8221;, says Muriel Dunn, a PhD student at Memorial University in Newfoundland on the east coast of Canada.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/januar/ices-akustikk-kurs-sars</prop>
+     <seg>&#8211; Viss noko ikkje fungerer, kan du sj&#229; kva som er gale &#8211; og s&#229; pr&#248;va &#229; retta det opp, seier Muriel Dunn, PhD-student ved Memorial University i Newfoundland p&#229; austkysten av Canada.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">3.26739</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/june/derfor-blir-fjorden-gron</prop>
+     <seg>(This story was first published in another version in 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/juni/derfor-blir-fjorden-gron</prop>
+     <seg>(Vi publiserte f&#248;rst ein versjon av denne saka i 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">1.04557</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/august/research-continues-into-the-mysterious-cod-at-jan-mayen</prop>
+     <seg>This time the cod were in shallower waters than when &#8220;Geir II&#8221; did its first survey in the spring.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/august/forskar-vidare-pa-jan-mayen-torsken</prop>
+     <seg>Torsken stod denne gongen p&#229; langt grunnare vatn enn d&#229; &#171;Geir II&#187; gjekk p&#229; sin f&#248;rste kartleggingstur i v&#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">1.13714</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/resources/publikasjoner/rapport-fra-havforskningen/2016/antarctic_krill_survey_at_south_orkney_islands_2016.pdf.converted</prop>
+     <seg>in global economics and politics.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/september/far-hjelp-til-a-leite-etter-fisk-i-polhavet</prop>
+     <seg>Hjelper HI med &#229; leite fisk i Polhavet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">1.11059</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/temasider/ocean-and-coast/deep-sea-creatures-mesopelagic-resources</prop>
+     <seg>Mesopelagic fish and other animals are small, fragile and decompose quickly.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/temasider/hav-og-kyst/dyr-pa-djupt-hav-mesopelagiske-ressursar</prop>
+     <seg>Mesopelagisk fisk og dyr er sm&#229;, toler lite og g&#229;r fort i oppl&#248;ysing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">1.54598</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/august/satellite-tagging-20-bluefin-tuna-the-search-is-on</prop>
+     <seg>Team 11 was probably closest to success on Sunday. After a day of trolling, they informed the IMR&#8217;s tagging boat that they had a fish on the line.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/august/storje-leitinga-er-i-gang</prop>
+     <seg>N&#230;rmast kom truleg lag 11 p&#229; s&#248;ndag, som etter ein dag med dorging rapporterte til HI sin merkeb&#229;t over radioen at dei hadde napp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.13808</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2021/january/mackerel-and-salmon-had-different-diets</prop>
+     <seg>Then they compared the diets of individuals caught in the same area during the same period.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2021/januar/makrell-og-laks-at-ulikt</prop>
+     <seg>Dei samanlikna dietten mellom individ fanga i same omr&#229;de og periode.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">2.20652</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/temasider/ocean-and-coast/deep-sea-creatures-mesopelagic-resources</prop>
+     <seg>There is now strong evidence that the estimate needs to be increased significantly &#8211; probably to at least 10 billion tonnes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/temasider/hav-og-kyst/dyr-pa-djupt-hav-mesopelagiske-ressursar</prop>
+     <seg>Det er no mykje som tyder p&#229; at anslaga m&#229; oppjusterast kraftig &#8211; truleg til 10 milliardar tonn, eller meir.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">1.37059</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/october/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>This has been done since 1975, to help us understand the eel population.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mai/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>Det har dei blitt sidan 1975, for &#229; gi kunnskap om bestanden. (Sj&#229; faktaboks om fiskefella i Imsa.)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">1.04137</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/april/successful-takeover-puts-capelin-and-warrior-shrimps-on-the-menu</prop>
+     <seg>He is credited with coining the phrase &#8220;neo-fjordic cuisine&#8221; as a Norwegian answer to &#8220;neo-Nordic cuisine&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/april/vellykka-med-panserreker-og-sjopolser</prop>
+     <seg>Han f&#229;r &#230;ra for &#229; ha sett namn p&#229; retninga &#171;neo fjordic&#187;, eit norsk svar p&#229; &#171;neo nordic&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.11257</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/october/delousing-agent-kept-juvenile-lobsters-from-finding-shelter</prop>
+     <seg>They timed how long it took the lobsters to find the shelter and enter it. 19 lobsters were given feed containing teflubenzuron until two weeks before the experiment, and 19 had a normal diet (the control group).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/oktober/lusemiddel-hindra-hummaryngel-i-a-skjule-seg</prop>
+     <seg>Dei tok tida humrane brukte fr&#229; startpunktet til dei fann skjulet og gjekk inn. 19 humrar fekk f&#244;r med teflubenzuron inntil to veker f&#248;r fors&#248;ket, og 19 gjekk p&#229; normal diett (kontrollgruppe).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">2.67083</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2018/august/satellite-tagging-20-bluefin-tuna-the-search-is-on</prop>
+     <seg>After a half-hour struggle and a 300-metre hard run, the fish was unfortunately lost.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2018/august/storje-leitinga-er-i-gang</prop>
+     <seg>Etter ein halvtimes kamp og utras p&#229; 300 meter, gjekk fisken dessverre av.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">3.74545</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2019/april/successful-takeover-puts-capelin-and-warrior-shrimps-on-the-menu</prop>
+     <seg>&#8220;In 2016, 815 million people in the world were chronically undernourished.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2019/april/vellykka-med-panserreker-og-sjopolser</prop>
+     <seg>&#8211; 2016 var 815 millionar menneske kronisk underern&#230;rte i verda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">2.45121</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.hi.no/en/hi/news/2020/october/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>Now Durif and her colleagues have ground down 800 of the otoliths to get clean cross sections and stained them with a special dye.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hi.no/hi/nyheter/2020/mai/alane-kjem-foerst-i-puberteten-som-nittenaringar</prop>
+     <seg>No har Durif og kollegaane slipt ned 800 av &#248;yresteinane til tverrsnitt og sett dei inn med eit spesielt fargestoff.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

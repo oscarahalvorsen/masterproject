@@ -1,0 +1,331 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T055345" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.20195</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/system-documentation-and-source-code/</prop>
+     <seg>EVA Skanning is an application that manages the machine counting of ballot papers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/om-valg/valggjennomforing/valgsystemet-eva/systemdokumentasjon-og-kildekode/</prop>
+     <seg>EVA Skanning er applikasjonen som styrer den maskinelle opptellingen av stemmesedler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.44396</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/about-the-norwegian-directorate-of-elections/about-the-norwegian-directorate-of-elections/public-records/</prop>
+     <seg>Searchable public records for the Norwegian Directorate of Elections are available via the Electronic Public Records (OEP).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/om-valgdirektoratet/om-valgdirektoratet/postjournal/</prop>
+     <seg>S&#248;kbar postjournal for Valgdirektoratet er tilgjengelig via Offentlig elektronisk postjournal (OEP).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.12185</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>Contact your municipality if you are not sure whether you are on the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>kommunen din dersom du er usikker p&#229; om du st&#229;r i manntallet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.59092</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/for-voters/parliamentary-election-2021/voting-from-abroad/</prop>
+     <seg>You can vote from abroad or on Svalbard and Jan Mayen from 1 July.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/for-velgere/stortingsvalget-2021/stemme-fra-utlandet/</prop>
+     <seg>Det er mulig &#229; stemme fra utlandet, Svalbard og Jan Mayen fra 1. juli.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.82267</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/about-the-norwegian-directorate-of-elections/about-the-norwegian-directorate-of-elections/public-records/</prop>
+     <seg>According to section 3 of the Freedom of Information Act, exemptions must be authorised by or pursuant to the Freedom of Information Act.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/om-valgdirektoratet/om-valgdirektoratet/postjournal/</prop>
+     <seg>Unntak fra Offentlighetsloven skal i f&#248;lge &#167; 3 ha hjemmel i eller medhold i offentlighetsloven.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.60167</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>You can vote in advance anywhere in the country from 10 August Who can vote?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>Du kan forh&#229;ndsstemme hvor som helst i landet fra 10.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.37143</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/for-voters/parliamentary-election-2021/voting-from-abroad/</prop>
+     <seg>The same rules apply on Svalbard and Jan Mayen Island that apply for voting abroad.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/for-velgere/stortingsvalget-2021/stemme-fra-utlandet/</prop>
+     <seg>Svalbard og Jan Mayen er omfattet av de samme reglene som utenriksstemmegivning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">3.16981</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/about-the-norwegian-directorate-of-elections/about-the-norwegian-directorate-of-elections/organization-and-management/</prop>
+     <seg>The Norwegian Electoral Directorate currently has 31 employees and is based in T&#248;nsberg</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/om-valgdirektoratet/om-valgdirektoratet/organisasjon-og-ledelse/</prop>
+     <seg>Valgdirektoratet har i dag 31 ansatte og holder til i T&#248;nsberg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.0311</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/elections2/grants-for-information-initiatives/grant-recipients/</prop>
+     <seg>The information will be disseminated through multilingual information films and radio adverts, meetings between prisoners and politicians 'on the inside', social studies workshops, and written information about the election.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/en/elections2/grants-for-information-initiatives/grant-recipients/tilskuddsmottakere-20192/</prop>
+     <seg>Informasjonen skal spres gjennom flerspr&#229;klig informasjonsfilm og radioinnslag, m&#248;ter mellom innsatte og politikere &#171;p&#229; innsiden&#187;, workshops i samfunnsl&#230;re og spredning av skriftlig informasjon om valget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.11278</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/system-documentation-and-source-code/</prop>
+     <seg>The final application is EVA Resultat, which prepares election forecasts and election results as it receives them from EVA Admin.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/om-valg/valggjennomforing/valgsystemet-eva/systemdokumentasjon-og-kildekode/</prop>
+     <seg>Den siste applikasjonen er EVA Resultat som utarbeider valgprognoser og valgresultatet etter hvert som den f&#229;r dette fra EVA Admin.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.46</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>Important information for voters</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>september i hvilken som helst kommune.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.60733</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>authorities or have not used ID-porten for 18 months, you will receive a paper polling card in the post.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>ID-porten p&#229; 18 m&#229;neder, f&#229;r du valgkortet p&#229; papir via brevpost. sametinget.no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.74545</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/system-documentation-and-source-code/</prop>
+     <seg>EVA Admin is the main support system for conducting elections for municipalities and county authorities.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/om-valg/valggjennomforing/valgsystemet-eva/systemdokumentasjon-og-kildekode/</prop>
+     <seg>EVA Admin er hovedst&#248;ttesytemet for valggjennomf&#248;ring for kommuner og fylkeskommuner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.47273</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>If you are in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>Dersom du er i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.48846</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/system-documentation-and-source-code/</prop>
+     <seg>What is system documentation?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/om-valg/valggjennomforing/valgsystemet-eva/systemdokumentasjon-og-kildekode/</prop>
+     <seg>Hva er systemdokumentasjon?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.02273</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>Where and when can you vote?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>N&#229;r og hvor kan du stemme?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">4.525</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>can be cast from Tuesday 10 August until and including</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>kan du gj&#248;re fra tirsdag 10.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.375</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/for-voters/parliamentary-election-2021/voting-from-abroad/</prop>
+     <seg>When is the deadline for voting?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/for-velgere/stortingsvalget-2021/stemme-fra-utlandet/</prop>
+     <seg>N&#229;r er fristen for &#229; stemme?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.18256</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/about-the-norwegian-directorate-of-elections/about-the-norwegian-directorate-of-elections/public-records/</prop>
+     <seg>In OEP you can see document details, order access to documents, and print out or store public records.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/om-valgdirektoratet/om-valgdirektoratet/postjournal/</prop>
+     <seg>I OEP kan du se dokumentdetaljer, bestille innsyn i dokumenter, samt skrive ut eller lagre postjournaler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.10345</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>Voting in your home municipality</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>Du kan stemme i hvilket som helst valglokale i kommunen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.53571</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>Are you ill or disabled?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>Er du syk eller uf&#248;r?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.77143</prop>
+    <prop type="score-bicleaner">0.696</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>you must vote from home.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>skal du stemme hjemmefra.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">3.13</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>Election day is Monday 13 September.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>Valgdagen er 13. september.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.4625</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/en/elections2/conduct-of-elections/eva--the-electronic-election-administration-system/system-documentation-and-source-code/</prop>
+     <seg>What is source code?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/om-valg/valggjennomforing/valgsystemet-eva/systemdokumentasjon-og-kildekode/</prop>
+     <seg>Hva er kildekode?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.04841</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_ny_en_original.pdf.converted</prop>
+     <seg>states where and when you can vote on election day.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://valgdirektoratet.no/globalassets/velgersider/informasjon-pa-flere-sprak/informasjonsbrosjyre_2021_bm_ny_original.pdf.converted</prop>
+     <seg>Valgkortet sendes til din digitale postkasse eller i Altinn.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

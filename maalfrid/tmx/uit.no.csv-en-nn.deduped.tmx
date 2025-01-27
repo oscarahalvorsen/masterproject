@@ -1,0 +1,526 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221219T064614" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.30903</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>&#8211; The MSCA programme is a continuous and solid process, which ensures that the participants are among the best researchers in the world.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>&#8211; MSCA-programmet er ein lang og solid prosess, og det sikrar at disse forskarane er blant dei beste i verda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.12021</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>Trude Fonneland had never applied for an EU grant but went for it and secured herself and her research group both a new colleague and new projects.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>Trude Fonneland hadde aldri s&#248;kt om EU-midlar, men heiv seg rundt og sikra b&#229;de seg sj&#248;lv og forskingsmilj&#248;et b&#229;de ein ny kollega og nye prosjekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.13435</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>&#8211; I had never applied for an EU-grant, and I assumed the application process was really complicated.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>&#8211; Eg hadde aldri s&#248;kt EU-midlar f&#248;r, og trudde s&#248;knadsprosessen var kjempeinnvikla.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.2915</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>The application to UiT is very brief, with just 5 points to fill out.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>januar. S&#248;knaden til UiT er sv&#230;rt kort, med berre 5 punkt &#229; fylle ut.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.33737</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>Brekke is impressed with the Arctic MSCA programme, especially with how well the participants are being supported.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>Brekke er godt n&#248;gd med Arctic MSCA-programmet, og spesielt kor godt forskingsrettleiarane vert f&#248;lgd opp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.05455</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://uit.no/utdanning/emner/emne/619084/his-3005</prop>
+     <seg>The students will learn:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne/744480/hif-2043</prop>
+     <seg>ogs&#229; engelsk og skandinavisk Eksamensspr&#229;k:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.25435</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>Fonneland can&#8217;t praise Mikalsen and her team enough:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>Fonneland kan ikkje f&#229; rost Mikalsen og faggruppa hennar nok:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.04516</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://uit.no/education/art?p_document_id=725367</prop>
+     <seg>Please note that for some course modules, the grades PASS/FAIL are given.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722518</prop>
+     <seg>Minst ein av tekstane skal vere skriven p&#229; bokm&#229;l og minst ein p&#229; nynorsk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">3.06977</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://en.uit.no/forskning/forskningsgrupper/gruppe?p_document_id=344565</prop>
+     <seg>The programme has evolved gradually and was until April 2010 dedicated to the period AD 1000-1600.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/forskning/forskningsgrupper/gruppe?p_document_id=344552</prop>
+     <seg>Og &#229; sj&#229; denne utviklinga i eit regionalt, nasjonalt og kontinentalt perspektiv.Programmet har utvikla seg gradvis og var til april 2010 konsentrert om perioden AD 1000-1600.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.1025</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722019</prop>
+     <seg>There will be no re-sit/ continuation exam for this course.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=744336</prop>
+     <seg>august for emne som vert gitt i v&#229;rsemesteret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.06008</prop>
+    <prop type="score-bicleaner">0.519</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722013</prop>
+     <seg>Language of instruction and examination: English.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722526</prop>
+     <seg>andre skandinaviske spr&#229;k og engelsk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">4.59697</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=670732</prop>
+     <seg>Bachelor's Thesis in Physics - 10 stp</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=372072</prop>
+     <seg>Spr&#229;k og tekst i sosiale medium - 10 stp</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.13791</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733464</prop>
+     <seg>The voter turnout this year was 49.31% in the group of permanent employees in lecture and research positions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733462</prop>
+     <seg>Valdeltakinga i &#229;r var p&#229; 49,31 % i gruppa fast tilsette i undervisning- og forskarstillingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.15811</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733464</prop>
+     <seg>The Ministry of Education and Research (KD) appoints four external members to the University Board, including the chairman.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733462</prop>
+     <seg>Kunnskapsdepartementet (KD) peikar ut fire eksterne medlemmar, inkludert styreleiar, til universitetsstyret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.15054</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=721711</prop>
+     <seg>The written exam is first graded, and this must be passed (grades A-E) in order to be presented for the oral examination/presentation.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722518</prop>
+     <seg>Ei semesteroppg&#229;ve som har f&#229;tt karakteren F (ikkje greidd), kan leverast inn til ny vurdering i omarbeidd form.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.36154</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>&#8211; It&#8217;s almost like a letter of intent, says Theresa Mikalsen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>&#8211; Det er mest som ein melding om interesse &#229; rekne, seier Theresa Mikalsen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">4.16757</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733464</prop>
+     <seg>That is six percentage points more than in 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733462</prop>
+     <seg>Det er seks prosentpoeng fleire enn i 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.17042</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>, which connects supervisors at UiT (professors or associate professors) with international postdoctoral candidates who can contribute to UiT projects.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>knyter rettleiarar (professor eller f&#248;rsteamanuensis) ved UiT saman med internasjonale postdoktor-kandidatar som kan bidra til UiT sine prosjekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.14939</prop>
+    <prop type="score-bicleaner">0.531</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>Fonneland was an inexperienced EU-applicant, but not anymore.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>Fonneland hadde ikkje mykje erfaring som EU-s&#248;kar, men det har ho i fullt monn no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.547</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>She&#8217;s a professor of cultural studies at</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>Ho er professor i kulturvitskap ved</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.55949</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733464</prop>
+     <seg>Tone Osnes will be the new board member from the technical/administrative staff, and Aase Tveito will be the new deputy member from the same date.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733462</prop>
+     <seg>Tone Osnes blir ny styremedlem fr&#229; teknisk/administrativt tilsette, og Aase Tveito rykker opp som varamedlem fr&#229; same dato.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.13043</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/ansatte/person?p_document_id=41924</prop>
+     <seg>HPV mRNA testing - longterm follow-up.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=744321</prop>
+     <seg>nynorsk Spr&#229;k p&#229; eksamen:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.29737</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>Marit Westergaard is a professor at the Department of Culture and Language and will soon be welcoming her fifth MSCA postdoc to Troms&#248;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>Marit Westergaard er professor ved Institutt for spr&#229;k og kultur og skal snart &#248;nske si femte MSCA-postdoktor velkommen til Troms&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.01949</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>&#8211; At first, I thought this would be very demanding and time consuming.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>&#8211; Eg tenkte f&#248;rst at dette var alt for krevjande og at det kom til &#229; g&#229; mykje tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">4.125</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>The application deadline is January 14th, 2022.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>S&#248;knadsfrist for p&#229;melding er 14. januar 2022.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.76538</prop>
+    <prop type="score-bicleaner">0.579</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733464</prop>
+     <seg>Karoline Sveen and Petter Nikolai R&#248;nning were chosen as deputies.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733462</prop>
+     <seg>Karoline Sveen og Petter Nikolai R&#248;nning vart valt som vara.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.40431</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>&#8211; They have been an amazing support!</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>&#8211; Dei har vore ein kjemperessurs!</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.16809</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>Arctic MSCA programme, including the application form here</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>Arctic MSCA-programmet med lenke til p&#229;melding her</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">3.48824</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>Then they all meet at a symposium at Campus Troms&#248; in June 2022.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>I juni 2022 skal alle m&#248;tast p&#229; et symposium ved UiT i Troms&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.375</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733464</prop>
+     <seg>In the group of technical / administrative employees, the turnout was 39.85%, which is an increase close to 2.5 percentage points from 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733462</prop>
+     <seg>I gruppa teknisk/administrativt tilsette var valdeltakinga p&#229; 39,85 %, noko som er opp n&#230;r 2,5 prosentpoeng fr&#229; i 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.04048</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>, are the EU reference programmes for doctoral and postdoctoral education.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>, er EUs referanseprogram for doktorgradar og postdoktor-utdanning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">3.27895</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=721770</prop>
+     <seg>Registration deadline for re-take examinations is January 15.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utskriftStudiekatalog?p_document_id=722856</prop>
+     <seg>Frist for oppmelding til kontinuasjonseksamen/utsett eksamen er 15.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.13308</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733464</prop>
+     <seg>According to the election rules, she will leave the board from the same date.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733462</prop>
+     <seg>I samsvar med valreglane sluttar ho i styret fr&#229; same dato.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.01341</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722013</prop>
+     <seg>The course uses a research-driven approach.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=722526</prop>
+     <seg>I syntaks l&#230;rer ein grunnleggande setningsanalyse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.34091</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>&#8211; Do you recommend others to apply to Arctic MSCA?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>&#8211; Vil du anbefale andre &#229; s&#248;ke Arctic MSCA?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">4.23721</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://uit.no/utdanning/emner/emne/643650/his-2002</prop>
+     <seg>9199-singular course at undergraduate level.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/utdanning/emner/emne?p_document_id=620016</prop>
+     <seg>S&#248;knadskode 9199 enkeltemner l&#229;gare niv&#229; (ikkje realfag).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">3.87973</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>Trude Fonneland and Laura Jonka-Aiko (nr 5 and 4 from the right) with their research group.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>Trude Fonneland og Laura Jonka-Aiko (nr 5 og 4 fr&#229; h&#248;gre) med forskingsgruppa deira.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.64209</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733464</prop>
+     <seg>The students have two members on the university board, and on May 20, Maren Irene G&#229;re Bakkevoll and Ole Andreas Myhrer Smith were elected as their representatives.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733462</prop>
+     <seg>Studentane har to medlemmar i universitetsstyret, og 20. mai vart Maren Irene G&#229;re Bakkevoll og Ole Andreas Myhrer Smith valt som representantane deira.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.40796</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757865</prop>
+     <seg>In 2019 her application for an EU grant through the MSCA program was approved, bringing in both a new colleague and a two-year project.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=757836</prop>
+     <seg>I 2019 fekk ho innvilga s&#248;knaden sin til EU-programmet MSCA og sikra seg b&#229;de ei ny kollega og eit to&#229;rig prosjekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.10905</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733464</prop>
+     <seg>The leadership of UiT looks forward to a good collaboration with elected and external representatives on the new board, says university director J&#248;rgen Fossland.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://uit.no/nyheter/artikkel?p_document_id=733462</prop>
+     <seg>Leiinga ved UiT ser fram til eit godt samarbeid med valde og eksterne representantar i det nye styret, seier universitetsdirekt&#248;r J&#248;rgen Fossland.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

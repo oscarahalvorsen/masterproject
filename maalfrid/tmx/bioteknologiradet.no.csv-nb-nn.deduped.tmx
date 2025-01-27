@@ -1,0 +1,333 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T075548" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2020/12/genialt2-2010.pdf.converted</prop>
+     <seg>derfor bruke en promotor som berre star-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2010/07/genialt_2_2010_gmo_torke.pdf.converted</prop>
+     <seg>derfor bruke ein promotor som berre star-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.02727</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2020/12/genialt2-2010.pdf.converted</prop>
+     <seg>bruker cella en RNA-tr&#229;d, som er en</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2010/07/genialt_2_2010_gmo_torke.pdf.converted</prop>
+     <seg>bruker cella ein RNA-tr&#229;d, som er ein</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.00546</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>for andre spr&#248;ytemidler, f&#248;re til at utviklingen av resistent ugress forsinkes?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>andre spr&#248;ytemiddel, f&#248;re til at utviklinga av resistent ugras blir forsinka?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.12488</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Finnes det regler for sameksistens der soyaen skal dyrkes, og f&#248;lges de slik at det</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Finst det reglar for sameksistens der maisen skal dyrkast, og blir dei f&#248;lgde slik at</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.96667</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2020/12/genialt2-2010.pdf.converted</prop>
+     <seg>linga p&#229; laboratoriet, men dette er ikke</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2010/07/genialt_2_2010_gmo_torke.pdf.converted</prop>
+     <seg>linga p&#229; laboratoriet, men dette er ikkje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">3.05</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2020/12/genialt2-2010.pdf.converted</prop>
+     <seg>en promotor fr&#229; ris som er p&#229; heile tida, i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2010/07/genialt_2_2010_gmo_torke.pdf.converted</prop>
+     <seg>ein promotor fr&#229; ris som er p&#229; heile tida, i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">3.06923</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2020/12/genialt2-2010.pdf.converted</prop>
+     <seg>med, kunne t&#248;rketoleranse vore en god om l&#248;yve til dyrking.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2010/07/genialt_2_2010_gmo_torke.pdf.converted</prop>
+     <seg>med, kunne t&#248;rketoleranse vore ein god om l&#248;yve til dyrking.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.63333</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>denne soyaen, og i tilfelle hvordan?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>denne maisen, og i tilfelle korleis?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.01939</prop>
+    <prop type="score-bicleaner">0.543</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>er mulig &#229; velge &#229; dyrke ikke-genmodifiserte vekster?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>det er mogleg &#229; velje &#229; dyrke ikkje-genmodifiserte vekstar?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2020/12/genialt2-2010.pdf.converted</prop>
+     <seg>Nemnda stiller &#242;g sp&#248;rsm&#229;l ved om en</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2010/07/genialt_2_2010_gmo_torke.pdf.converted</prop>
+     <seg>Nemnda stiller &#242;g sp&#248;rsm&#229;l ved om ein</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.41768</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_Bomull_T304-40_Bioteknologinemnda.pdf.converted</prop>
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>avlinger med ikke-genmodifiserte vekster?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2013/04/Hoyringssvar_EFSA_GMO_NL_2012_111_soya_SYHT0H2_Bioteknologinemnda.pdf.converted</prop>
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>avlingar med ikkje-genmodifiserte vekstar?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/2021/11/referat-fra-mote-i-bioteknologiradet-14-september-2021/</prop>
+     <seg>Fra r&#229;det m&#248;tte:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/2021/12/referat-fra-mote-i-bioteknologiradet-29-oktober-2021/</prop>
+     <seg>Fr&#229; r&#229;det m&#248;tte:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.08676</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Skapes det nye bindinger eller &#248;kt frihet i kontrakten som bonden signerer med</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Blir det skapt nye bindingar eller st&#248;rre fridom i kontrakten som bonden signerer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">3.13333</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2020/12/genialt2-2010.pdf.converted</prop>
+     <seg>mot t&#248;rke og ikke mot salt, varme eller Nemnda har valt &#229; vurdere fleire sider ved</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2010/07/genialt_2_2010_gmo_torke.pdf.converted</prop>
+     <seg>mot t&#248;rke og ikkje mot salt, varme eller Nemnda har valt &#229; vurdere fleire sider ved</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.89231</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_Bomull_T304-40_Bioteknologinemnda.pdf.converted</prop>
+     <seg>det er mulig &#229; velge &#229; dyrke ikke-genmodifiserte vekster?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2013/04/Hoyringssvar_EFSA_GMO_NL_2012_111_soya_SYHT0H2_Bioteknologinemnda.pdf.converted</prop>
+     <seg>at det er mogleg &#229; velje &#229; dyrke ikkje-genmodifiserte vekstar?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.21975</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Hvordan vil rotasjon mellom denne soyaplanten og andre sorter som er utviklet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Korleis vil rotasjon mellom denne maisplanten og andre sortar som er utvikla for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.96667</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2020/12/genialt2-2010.pdf.converted</prop>
+     <seg>en kan &#242;g bruke gen fr&#229; andre organis-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2010/07/genialt_2_2010_gmo_torke.pdf.converted</prop>
+     <seg>ein kan &#242;g bruke gen fr&#229; andre organis-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.49559</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_Bomull_T304-40_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Er det et system for erstatning hvis den genmodifiserte bomullen sprer seg til</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2013/04/Hoyringssvar_EFSA_GMO_NL_2012_111_soya_SYHT0H2_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Er det eit system for erstatning viss den genmodifiserte soyaen spreier seg til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.58928</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Har b&#248;ndene valgfrihet slik at det er mulig &#229; g&#229; tilbake til &#229; dyrke ikke-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Har b&#248;ndene valfridom slik at det er mogleg &#229; g&#229; tilbake til &#229; dyrke ikkje-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.42434</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Endres bruken av spr&#248;ytemidler og hvordan p&#229;virker det b&#248;ndenes/dyrkernes</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Blir bruken av spr&#248;ytemiddel endra, og korleis p&#229;verkar det helsa til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.90682</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Vil dyrking av denne soyaen f&#248;re til en omlegging av arealbruken slik at det f&#248;rer</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Vil dyrking av denne maisen gi omlegging av arealbruken slik at det f&#248;rer til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.41639</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>til endring av det biologiske mangfoldet?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>endring av det biologiske mangfaldet?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.48636</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Er det et system for erstatning hvis den genmodifiserte soyaen sprer seg til</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Er det eit system for erstatning viss den genmodifiserte maisen spreier seg til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2020/12/genialt2-2010.pdf.converted</prop>
+     <seg>har f&#229;tt et nytt gen fr&#229; jordbakterien</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2010/07/genialt_2_2010_gmo_torke.pdf.converted</prop>
+     <seg>har f&#229;tt eit nytt gen fr&#229; jordbakterien</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.92052</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/02/H%C3%B8ringssvar_SoyaFG72_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Har b&#248;ndene i omr&#229;det der soyaen skal dyrkes, tilgang til alternativ s&#229;vare?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.bioteknologiradet.no/filarkiv/2012/06/H%C3%B8yringssvar_mais_1507x59122xMON810xNK603_Bioteknologinemnda.pdf.converted</prop>
+     <seg>&#8211; Har b&#248;ndene i omr&#229;det der maisen skal dyrkast, tilgang til alternativ s&#229;vare?</seg>
+    </tuv>
+   </tu>
+ </body>
+</tmx>

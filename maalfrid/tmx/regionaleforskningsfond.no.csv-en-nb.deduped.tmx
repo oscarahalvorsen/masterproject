@@ -1,0 +1,127 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T091126" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.14514</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-vest/maler-og-dok.-hele-nettsiden/soknadsmalar-2021/ipn-template-for-partner-information-2021.docx.converted</prop>
+     <seg>Fill in one form per partner.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-vest/maler-og-dok.-hele-nettsiden/soknadsmalar-2021/ipo-mal-for-partneropplysninger-2021.docx.converted</prop>
+     <seg>Fyll ut ett skjema per partner</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.758</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-vest/maler-og-dok.-hele-nettsiden/soknadsmalar-2021/ipn-template-for-partner-information-2021.docx.converted</prop>
+     <seg>9-point font may be used for references and figure text.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-vest/maler-og-dok.-hele-nettsiden/soknadsmalar-2021/ipo-mal-for-partneropplysninger-2021.docx.converted</prop>
+     <seg>Det kan benyttes 9-punktsfont for referanser og figurtekster.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.68628</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-vest/maler-og-dok.-hele-nettsiden/soknadsmalar-2021/ipn-template-for-partner-information-2021.docx.converted</prop>
+     <seg>The page format must be A4 with portrait orientation, 2 cm margins, single line spacing and in Arial, Calibri or Times New Roman 11-point font (as used in this template).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-vest/maler-og-dok.-hele-nettsiden/soknadsmalar-2021/ipo-mal-for-partneropplysninger-2021.docx.converted</prop>
+     <seg>Formatet skal v&#230;re st&#229;ende A4 med 2 cm marg, enkel linjeavstand og 11-punkts Arial, Calibri eller Times New Roman (som benyttet i denne malen).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.0528</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/contentassets/99ff63d603c44902af76573411f8ee4d/popularvitenskapelig-artikkel-prosjekt-285196-boosted-supercapacitors-from-forestry-residues.pdf.converted</prop>
+     <seg>package 1, the defect level of the activated carbon was decreased via non-destructive activation through</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/contentassets/99ff63d603c44902af76573411f8ee4d/pop.-art.-simultaneous-mapping-of-microplastics-and-endotoxins-ivar-iks.pdf.converted</prop>
+     <seg>Pr&#248;vetakingen ble gjennomf&#248;rt ved &#229; bruke identisk pr&#248;vetakingsmoduler (figur 1) for b&#229;de endotoksin og mikroplast og pumper med kalibrert luftvoluminntak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">4.25</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-vest/maler-og-dok.-hele-nettsiden/soknadsmalar-2021/ipn-template-for-partner-information-2021.docx.converted</prop>
+     <seg>Part 1: Information about partners</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-vest/maler-og-dok.-hele-nettsiden/soknadsmalar-2021/ipo-mal-for-partneropplysninger-2021.docx.converted</prop>
+     <seg>Del 1: Informasjon om partner</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.44451</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-agder/prosjektbeskrivelse-samarbeidsprosjekter.docx.converted</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-agder/prosjektbeskrivelse-samarbeidsprosjekter-2021.docx.converted</prop>
+     <seg>It is permitted to use 9-point font for the list of references and figure captions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-innlandet/mal-for-prosjektbeskrivelse-hovedprosjekter-v2020---endelig-1.docx.converted</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-agder/mal-prosjektbeskrivelse-regionalt-innovasjonsprosjekt-2020.docx.converted</prop>
+     <seg>For referanseliste, tabeller og evt. figurtekst kan skriftst&#248;rrelse 9 benyttes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.51</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-agder/prosjektbeskrivelse-samarbeidsprosjekter.docx.converted</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-agder/prosjektbeskrivelse-samarbeidsprosjekter-2021.docx.converted</prop>
+     <seg>The page format must be A4 with 2 cm margins, single spacing and Arial, Calibri, Times New Roman or similar 11-point font.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-innlandet/mal-for-prosjektbeskrivelse-hovedprosjekter-v2020---endelig-1.docx.converted</prop>
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-agder/mal-prosjektbeskrivelse-regionalt-innovasjonsprosjekt-2020.docx.converted</prop>
+     <seg>Sideformat skal v&#230;re A4 med 2 cm marger, 11 pkt. skrift (Arial, Calibri og Times New Roman) og enkel linjeavstand.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.02692</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/en/rff-oslo/when-funding-has-been-granted/regional-innovation-project/Download/</prop>
+     <seg>Regional Innovation project</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.regionaleforskningsfond.no/more-og-romsdal/nar-du-har-fatt-finansiering/popularvitenskapelig-rapport/Download/</prop>
+     <seg>Tips til innhold og oppbygging:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.15</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-vest/maler-og-dok.-hele-nettsiden/soknadsmalar-2021/ipn-template-for-partner-information-2021.docx.converted</prop>
+     <seg>The form must also be filled in for the Project Owner (applicant).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.regionaleforskningsfond.no/siteassets/rff-vest/maler-og-dok.-hele-nettsiden/soknadsmalar-2021/ipo-mal-for-partneropplysninger-2021.docx.converted</prop>
+     <seg>Skjemaet fylles ogs&#229; ut for prosjektansvarlig (s&#248;ker)</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

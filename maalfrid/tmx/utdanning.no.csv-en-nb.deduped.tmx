@@ -1,0 +1,825 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221219T162253" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">4.0875</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>at least three semesters (minimum 80 ECTS) of concentrated work</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/spansk_og_latinamerikanske_studier_-_master</prop>
+     <seg>Graden m&#229; ha en faglig fordypning p&#229; minimum 80</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.03</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/northern_studies_-_bachelor</prop>
+     <seg>Apply the principles of academic integrity, values and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/elkraftteknikk_ingenior_-_bachelor_y-vei</prop>
+     <seg>Kandidaten har ferdigheter for bruk av elektronisk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.03723</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/biomedicine_-_master</prop>
+     <seg>alongside our researchers in one of our research groups.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/master_i_klinisk_sjukepleie_-_anestesisjukepleie</prop>
+     <seg>og behandlingstilbud blir sammenhengende p&#229; tvers av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.15385</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>write either a Master's Thesis or two article-length papers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/spansk_og_latinamerikanske_studier_-_master</prop>
+     <seg>studenten &#248;nsker &#229; skrive masteroppgave innen (spr&#229;k eller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.02333</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/biomedicine_-_master</prop>
+     <seg>contemporary problems and methods in biomedicine.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/master_i_klinisk_sjukepleie_-_anestesisjukepleie</prop>
+     <seg>Arbeidsformene veksler mellom forelesinger, seminar,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.20833</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/biomedicine_-_master</prop>
+     <seg>As a Master in Biomedicine the candidate&#8230;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/master_i_klinisk_sjukepleie_-_anestesisjukepleie</prop>
+     <seg>ut&#248;ver anestesisykepleie til pasienter pre-, per- og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.10608</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/northern_studies_-_bachelor</prop>
+     <seg>solutions, both oral and written, on challenges in the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/elkraftteknikk_ingenior_-_bachelor_y-vei</prop>
+     <seg>og praktiske problemstillinger vedr&#248;rende elkraftteknikk og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.29483</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/biomedicine_-_master</prop>
+     <seg>biomedicine and work independently with theoretical and practical</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/master_i_klinisk_sjukepleie_-_anestesisjukepleie</prop>
+     <seg>veiledning til pasienter, p&#229;r&#248;rende, studenter og medarbeidere i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.18846</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/visual_anthropology_-_master</prop>
+     <seg>The films produced at Visual Anthropology are well known for</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/filosofi_-_master</prop>
+     <seg>og etiske sp&#248;rsm&#229;l og sp&#248;rsm&#229;l om grunnlaget for vitenskapleg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.45102</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>qualification, in a language or linguistics, or a degree</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/spansk_og_latinamerikanske_studier_-_master</prop>
+     <seg>Opptakskravet til master i spansk og latinamerikanske studier er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.1456</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/northern_studies_-_bachelor</prop>
+     <seg>the third and fourth semester.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/elkraftteknikk_ingenior_-_bachelor_y-vei</prop>
+     <seg>og systemer som anvender IKT.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.18909</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/biomedicine_-_master</prop>
+     <seg>and experimental methods, and give you professional supervision</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/master_i_klinisk_sjukepleie_-_anestesisjukepleie</prop>
+     <seg>operasjonsavdelingen, og den siste som forlater pasienten ved</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.16087</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/visual_anthropology_-_master</prop>
+     <seg>can reflect critically on the use of different filmic</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/filosofi_-_master</prop>
+     <seg>Skal ha spesialisert kunnskap om det emnet og de filosofiske</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.37424</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/industrial_engineering_-_master</prop>
+     <seg>A Master of Science degree in Industrial Engineering will provide</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/integrert_bygningsteknologi_sivilingenior_-_master</prop>
+     <seg>For &#229; kunne forst&#229; en byggeprosess, v&#230;re i stand til &#229; analysere</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.01727</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/visual_anthropology_-_master</prop>
+     <seg>teach students how to produce knowledge about people's lives and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/filosofi_-_master</prop>
+     <seg>eller Facebook, ha politiske rettigheter og ansvar p&#229; lik linje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.02059</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/tourism_studies_-_master</prop>
+     <seg>social activities, close contact between lecturer and students</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/arkeologi_-_master</prop>
+     <seg>problemformulering, etablering av teoretisk og metodisk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.07666</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/tourism_studies_-_master</prop>
+     <seg>contribute to the students' development</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/psykisk_helsearbeid_-_master</prop>
+     <seg>p&#229; utdanningsinstitusjonens praksissteder, og ved bruk av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.08988</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/northern_studies_-_bachelor</prop>
+     <seg>assessments, case-study projects and in fieldwork, and by</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/elkraftteknikk_ingenior_-_bachelor_y-vei</prop>
+     <seg>formal- og realkompetansevurdering y-vei s&#248;kere fritak for til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.08145</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/peace_and_conflict_transformation_-_master</prop>
+     <seg>Exchange studies abroad will make you more attractive on the job</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ergoterapi_-_bachelor</prop>
+     <seg>viser at ergoterapi er en viktig og n&#248;dvendig profesjon i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.2375</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/tema/hjelp_og_veiledning/study_norway</prop>
+     <seg>Lagre i favoritter Study permit</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/tema/yrkesintervju/utstillingsdesigner</prop>
+     <seg>Lagre i favoritter Hvorfor valgte du dette yrket?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.00625</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/northern_studies_-_bachelor</prop>
+     <seg>Explain central concepts regarding the development of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/elkraftteknikk_ingenior_-_bachelor_y-vei</prop>
+     <seg>Kandidaten har kunnskap om teknologiens historie og utvikling</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.13519</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/visual_anthropology_-_master</prop>
+     <seg>is able to identify, analyze and discuss different</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/filosofi_-_master</prop>
+     <seg>Kan formidle egne filosofiske refleksjoner og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.25882</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/nordic_and_international_perspectives_teaching_and_learning</prop>
+     <seg>Knowledge about the region's S&#225;mi population today and in the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/spesialpedagogikk_inkludering_og_relasjoner_-oppvekst</prop>
+     <seg>og tilbud med utgangspunkt i forskning og erfaringsbasert</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.26809</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/nord.no/experience_english_language_and_literature_spring_package</prop>
+     <seg>A semester package study of English provides international</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/nord.no/engelsk_2_5-10._trinn_videreutdanning</prop>
+     <seg>kan finne fram til, forst&#229;, vise til og reflektere over</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/biomedicine_-_master</prop>
+     <seg>can explain current scientific theories and methods in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/master_i_klinisk_sjukepleie_-_anestesisjukepleie</prop>
+     <seg>postoperativt, og til pasienter som har v&#230;rt utsatt for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.13314</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/nordic_and_international_perspectives_teaching_and_learning</prop>
+     <seg>Knowledge about ethical questions concerning relations</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/spesialpedagogikk_inkludering_og_relasjoner_-oppvekst</prop>
+     <seg>Kan kommunisere konstruktivt i samhandling og i samarbeid med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.54571</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/hivolda.no/master_media_practices</prop>
+     <seg>of file alterations resulting in inferior quality.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/nmbu.no/veterinaermedisin_-_profesjonsstudium</prop>
+     <seg>sm&#229;dyrklinikk, produksjonsdyrklinikk og hesteklinikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.07443</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/nordic_and_international_perspectives_teaching_and_learning</prop>
+     <seg>This is a course intended to develop knowledge about and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/spesialpedagogikk_inkludering_og_relasjoner_-oppvekst</prop>
+     <seg>skal ogs&#229; v&#230;re en ressurs i veiledning, i forebyggende arbeid og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.18824</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>language and/or experience with independent project work</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/spansk_og_latinamerikanske_studier_-_master</prop>
+     <seg>akademisk arbeid innenfor spansk spr&#229;k/kultur/litteratur</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.05714</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uib.no/masters_programme_global_development_theory_and_practice_0</prop>
+     <seg>Specialisation in gender in global development</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/ph.d._i_akvatisk_biovitenskap</prop>
+     <seg>universitet, med utfyllende retningslinjer for ph.d i akvatisk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.02333</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/nord.no/experience_english_language_and_literature_spring_package</prop>
+     <seg>and translated into English, students develop skills in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/nord.no/engelsk_2_5-10._trinn_videreutdanning</prop>
+     <seg>levesett og mangfold i den engelskspr&#229;klige verden</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.27222</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/biomedicine_-_master</prop>
+     <seg>related to the translation of knowledge and methods of medical</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/master_i_klinisk_sjukepleie_-_anestesisjukepleie</prop>
+     <seg>kombinerer klinisk spesialkompetanse og analytisk kompetanse, og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.00909</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/hivolda.no/master_media_practices</prop>
+     <seg>applicants this amounts to an average grade of C or better.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/nmbu.no/veterinaermedisin_-_profesjonsstudium</prop>
+     <seg>praksis p&#229; alle disse arter, men i varierende grad.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.00833</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/fine_art_-_master</prop>
+     <seg>professionally in the field of fine arts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/sites/default/files/2021-10/Repertoarkrav2022%20alle%20instr.pdf.converted</prop>
+     <seg>sopranblokkfl&#248;yte el er G-altblokkfl&#248;yte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">6.27273</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>60 ECTS of coursework and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/spansk_og_latinamerikanske_studier_-_master</prop>
+     <seg>en masteroppgave p&#229; 60 stp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.288</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/biomedicine_-_master</prop>
+     <seg>and methods used in a chosen scientific discipline within</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/master_i_klinisk_sjukepleie_-_anestesisjukepleie</prop>
+     <seg>innleder, vedlikeholder og avslutter generell anestesi og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.08877</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/peace_and_conflict_transformation_-_master</prop>
+     <seg>pursue training in professions such as journalism and teaching.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ergoterapi_-_bachelor</prop>
+     <seg>rettigheter og deltakelse for barn, unge, voksne og eldre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.164</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/industrial_engineering_-_master</prop>
+     <seg>students with the knowledge and capabilities to use appropriate</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/integrert_bygningsteknologi_sivilingenior_-_master</prop>
+     <seg>og l&#248;se problemstillinger, samt lede og koordinere ulike</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.26327</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/northern_studies_-_bachelor</prop>
+     <seg>people&#180;s history and economy and regional development.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/elkraftteknikk_ingenior_-_bachelor_y-vei</prop>
+     <seg>informasjonsinnhenting og kontakt med fagmilj&#248;er og praksis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.08357</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/northern_studies_-_bachelor</prop>
+     <seg>questions based on new information on the development of the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/elkraftteknikk_ingenior_-_bachelor_y-vei</prop>
+     <seg>kraftbasert industri fungerer teknisk, &#248;konomisk og med hensyn p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.24194</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/industrial_engineering_-_master</prop>
+     <seg>fieldwork/research cruises and similar.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/integrert_bygningsteknologi_sivilingenior_-_master</prop>
+     <seg>karakteren eller som arbeidskrav.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.29265</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/industrial_engineering_-_master</prop>
+     <seg>courses and the number of credits in physics are included</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/integrert_bygningsteknologi_sivilingenior_-_master</prop>
+     <seg>inkludert i emnene som kan aksepteres.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.014</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/biomedicine_-_master</prop>
+     <seg>can analyze relevant issues connected with professional</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/master_i_klinisk_sjukepleie_-_anestesisjukepleie</prop>
+     <seg>opplevelse av anestesi, kirurgisk behandling og unders&#248;kelser</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.00263</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/arctic_adventure_tourism_-_bachelor</prop>
+     <seg>requirements in English</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/sosialantropologi_-_bachelor</prop>
+     <seg>nytt og uforst&#229;elig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.00333</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uib.no/masters_programme_global_development_theory_and_practice_0</prop>
+     <seg>either health promotion or gender and development.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/ph.d._i_akvatisk_biovitenskap</prop>
+     <seg>stillinger innen h&#248;yere forskningsbasert utdanning og for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.36646</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/peace_and_conflict_transformation_-_master</prop>
+     <seg>subsequently be approved as part of the degree.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ergoterapi_-_bachelor</prop>
+     <seg>forebyggende, behandlende og rehabiliterende arbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.02059</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/nord.no/experience_english_language_and_literature_spring_package</prop>
+     <seg>Apply knowledge and skills within the subject of English in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/nord.no/engelsk_2_5-10._trinn_videreutdanning</prop>
+     <seg>kan innhente og tilrettelegge informasjon om samfunnssp&#248;rsm&#229;l</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.12773</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/nordic_and_international_perspectives_teaching_and_learning</prop>
+     <seg>Nordic and International Perspectives on Teaching and Learning</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/spesialpedagogikk_inkludering_og_relasjoner_-oppvekst</prop>
+     <seg>Spesialpedagogikk, inkludering og relasjoner -oppvekst</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.28302</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/hivolda.no/master_media_practices</prop>
+     <seg>passed the course in English from Norwegian secondary school and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/ph.d._i_bedriftsokonomi</prop>
+     <seg>egne prosedyrer for ansettelse av vitenskapelig personell.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.04348</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/peace_and_conflict_transformation_-_master</prop>
+     <seg>assess the quality of theoretical and methodological</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/ergoterapi_-_bachelor</prop>
+     <seg>og endringer hos mottakere av ergoterapi, i helse- og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.24</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/biomedicine_-_master</prop>
+     <seg>development of methods in business, management and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/hvl.no/master_i_klinisk_sjukepleie_-_anestesisjukepleie</prop>
+     <seg>kvalifisert til &#229; veilede og undervise helsepersonell, og f&#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.152</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/tourism_studies_-_master</prop>
+     <seg>of theoretical understanding and reflection, which students will</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/arkeologi_-_master</prop>
+     <seg>&#229; finne og anvende relevant informasjon, og til &#229; jobbe med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.09554</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/nordic_and_international_perspectives_teaching_and_learning</prop>
+     <seg>priority to the diversity of the group, using geographical spread</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/spesialpedagogikk_inkludering_og_relasjoner_-oppvekst</prop>
+     <seg>Har inng&#229;ende kunnskap om og forst&#229;else for barn i vanskelige</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.035</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>- communicate scientific content at a high level</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/spansk_og_latinamerikanske_studier_-_master</prop>
+     <seg>studier, slik som tekstanalyse og feltarbeid</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.09903</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/nordic_and_international_perspectives_teaching_and_learning</prop>
+     <seg>for students of Nord University who are enrolled in the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/nord.no/spesialpedagogikk_inkludering_og_relasjoner_-oppvekst</prop>
+     <seg>og systemniv&#229; og kan bidra til &#229; st&#248;tte kollegaer faglig og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.36786</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/tourism_studies_-_master</prop>
+     <seg>Philosophy of Social Sciences, Qualitative and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/psykisk_helsearbeid_-_master</prop>
+     <seg>emne i forhold til utvikling av egen kompetanse, faglig og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.4617</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/tourism_studies_-_master</prop>
+     <seg>knowledge about how to balance environmental, economic, and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/psykisk_helsearbeid_-_master</prop>
+     <seg>i &#229; utforme, iverksette og evaluere helsefremmende og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.04167</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>The two papers cannot be in the same field.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/spansk_og_latinamerikanske_studier_-_master</prop>
+     <seg>har anledning til &#229; f&#248;lge undervisningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.11292</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/northern_studies_-_bachelor</prop>
+     <seg>group discussions, colloquiums, excursions, tutoring on writing</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/elkraftteknikk_ingenior_-_bachelor_y-vei</prop>
+     <seg>Med relevant yrkesfag som utgangspunkt, y-vei, gir vi ut i fra en</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.45</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/industrial_engineering_-_master</prop>
+     <seg>engineering and management positions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://utdanning.no/utdanning/uit.no/integrert_bygningsteknologi_sivilingenior_-_master</prop>
+     <seg>grunnlagsemner og spesialemner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.0028</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/norwegian_language_and_society_foreign_students_-_one_year_programme</prop>
+     <seg>The written part of the examination is censored externally.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/tema/yrkesintervju/duojar</prop>
+     <seg>Du m&#229; opps&#248;ke duoj&#225;rmilj&#248;er, bes&#248;ke konferanser, og alltid &#248;ke fagkunnskapen din.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.04412</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/northern_studies_-_bachelor</prop>
+     <seg>circumpolar north in order to describe the complex northern</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/elkraftteknikk_ingenior_-_bachelor_y-vei</prop>
+     <seg>Kandidaten har grunnleggende kunnskaper om elektriske og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.09429</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/theoretical_linguistics_-_master</prop>
+     <seg>combining linguistics and literature.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://utdanning.no/utdanning/uit.no/spansk_og_latinamerikanske_studier_-_master</prop>
+     <seg>fullf&#248;rt bachelorgrad i spansk og latinamerikanske studier, eller</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

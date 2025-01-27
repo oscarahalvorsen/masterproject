@@ -1,0 +1,292 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221218T162208" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.73478</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>The economic costs of diseases caused by occupational exposure vary between 2 and 6 % of an EU country&#8217;s GDP, and the total burden of disease in the population is approximately the same as the burden from urban air pollution or obesity.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>De &#248;konomiske kostnadene av arbeidsrelaterte sykdommer utgj&#248;r i snitt 2 &#8211; 6% av EU-lands BNP, og den totale sykdomsbyrden i befolkningen er p&#229; samme niv&#229; som for luftforurensing og fedme.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.66047</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/international-collaborations/</prop>
+     <seg>STAMI&#8217;s surveillance unit, NOA, is the national correspondent for EWCO.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/om-stami/internasjonalt-samarbeid/</prop>
+     <seg>STAMI ved NOA er nasjonal korrespondent for EWCO.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">3.46342</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/eksponering-vibrasjoner-fra-handholdt-verktoy-og-risiko-utviklingen-av-hand-armvibrasjonssyndrom-havs-blant-spesialiserte-veiarbeidere/</prop>
+     <seg>Time spent is normally between 10 and 40 minutes per hole.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/eksponering-vibrasjoner-fra-handholdt-verktoy-og-risiko-utviklingen-av-hand-armvibrasjonssyndrom-havs-blant-spesialiserte-veiarbeidere/</prop>
+     <seg>Tidsbruken varierer normalt fra 10 minutter til 40 minutter per hull.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.57895</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>The project is divided into 13 work packages. STAMI is particularly involved in the work packages 2, 3, 5, 7 and 9.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>Prosjektet er delt inn i 13 arbeidspakker, hvor STAMI er s&#230;rlig involvert i arbeidspakke 2, 3, 5, 7 og 9.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.18509</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/project-title-generation-protection-health-effects-nano-sized-dust-ferroalloy-industry-demaskus/</prop>
+     <seg>We aim to establish a human in vitro cell model to study neuroinflammatory responses to the particles provided by WP 1.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/generering-beskyttelse-fra-og-helseeffekter-av-stov-i-nano-storrelse-i-smelteverksindustrien-demaskus/</prop>
+     <seg>Vi tar sikte p&#229;&#229; etablere en human cellemodell til &#229; studere nevroinflammatoriske responser til partiklene samlet inn i Del 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">3.126</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/en-undersokelse-av-nervesystemet-hos-sveisere/</prop>
+     <seg>In addition, 22 persons of the cohort (manganism, PD and controls) were PET-scanned.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/en-undersokelse-av-nervesystemet-hos-sveisere/</prop>
+     <seg>Dessuten ble 22 personer i kohorten (manganisme, PD og kontroller) unders&#248;kt med PET-scan.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.18214</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/en-undersokelse-av-nervesystemet-hos-sveisere/</prop>
+     <seg>Also examined were 34 patients who had been diagnosed with manganism, and 24 patients who recently</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/en-undersokelse-av-nervesystemet-hos-sveisere/</prop>
+     <seg>Dessuten ble 34 pasienter med diagnostisert manganisme og 24 pasienter med nylig p&#229;vist idiopatisk Parkinson&#8217;s sykdom (PD) unders&#248;kt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.07805</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/eksponering-vibrasjoner-fra-handholdt-verktoy-og-risiko-utviklingen-av-hand-armvibrasjonssyndrom-havs-blant-spesialiserte-veiarbeidere/</prop>
+     <seg>Rock slope stabilizing with regard to mountain sides close to roads, railways or housing, are often carried out with work teams consisting of 2-3 people.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/eksponering-vibrasjoner-fra-handholdt-verktoy-og-risiko-utviklingen-av-hand-armvibrasjonssyndrom-havs-blant-spesialiserte-veiarbeidere/</prop>
+     <seg>Fjellsikringsjobber i forbindelse med sikring av fjellsider i tilknytning til vei, bane eller boliger utf&#248;res av arbeidslag med 2 &#8211; 3 personer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">3.675</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/project-title-generation-protection-health-effects-nano-sized-dust-ferroalloy-industry-demaskus/</prop>
+     <seg>WP 1: Dust formation mechanisms and kinetics</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/generering-beskyttelse-fra-og-helseeffekter-av-stov-i-nano-storrelse-i-smelteverksindustrien-demaskus/</prop>
+     <seg>Del 1: Mekanismer for st&#248;vdannelse og kinetikk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">3.08192</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/en-undersokelse-av-nervesystemet-hos-sveisere/</prop>
+     <seg>In this cross sectional study 137 welders and an equal number of controls have been examined.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/en-undersokelse-av-nervesystemet-hos-sveisere/</prop>
+     <seg>I denne tverrsnittsstudien ble 137 sveisere og et tilsvarende antall kontroller unders&#248;kt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.03696</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/eksponering-vibrasjoner-fra-handholdt-verktoy-og-risiko-utviklingen-av-hand-armvibrasjonssyndrom-havs-blant-spesialiserte-veiarbeidere/</prop>
+     <seg>The most important hand tools used are, power wrenches grinders and sledge hammers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/eksponering-vibrasjoner-fra-handholdt-verktoy-og-risiko-utviklingen-av-hand-armvibrasjonssyndrom-havs-blant-spesialiserte-veiarbeidere/</prop>
+     <seg>Viktigste h&#229;ndverkt&#248;y som benyttes er muttertrekker, vinkelsliper og slegge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">3.49895</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>The project consortium consists of 19 partners from 12 different countries.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>EPHOR er et unikt og ambisi&#248;st samarbeid mellom 19 partnere fra 12 forskjellige land.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/publication/speciation-of-fluoride-in-workroom-air-during-primary-production-of-aluminium/</prop>
+     <seg>Speciation of fluoride in workroom air du[...]</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/publikasjon/kartlegging-av-pah-ved-mosal-aluminium-lista-aluminiumsverk/</prop>
+     <seg>Kartlegging av PAH ved Mosal aluminium, L[...]</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.19698</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/senfolger-etter-lavspent-stromgjennomgang/</prop>
+     <seg>A follow-up study&#8221;, SCL-90 (Symptom Check List &#8211; 90), PTSS-10 (Post Traumatic Stress Symptoms-10 questions), and a question&#172;naire aimed at describing movement disorders. The health examinations are completed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/senfolger-etter-lavspent-stromgjennomgang/</prop>
+     <seg>En oppf&#248;lgingsunders&#248;kelse&#187;, SCL-90 (Symptom Check List &#8211; 90), PTSS-10 (Post Traumatisk Stress Symptom-10 sp&#248;rsm&#229;l), samt &#171;&#216;rebro-skjema&#187; for beskrivelse av plager i bevegelsesapparatet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">3.98549</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/eksponering-vibrasjoner-fra-handholdt-verktoy-og-risiko-utviklingen-av-hand-armvibrasjonssyndrom-havs-blant-spesialiserte-veiarbeidere/</prop>
+     <seg>80-90% of this time is used handling a rock drill.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/eksponering-vibrasjoner-fra-handholdt-verktoy-og-risiko-utviklingen-av-hand-armvibrasjonssyndrom-havs-blant-spesialiserte-veiarbeidere/</prop>
+     <seg>Av denne tiden utgj&#248;r 80-90 % boring med fjellbor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/senfolger-etter-lavspent-stromgjennomgang/</prop>
+     <seg>Final report to the funding source Confederation of Norwegian Business and Industry was completed in 2006.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/senfolger-etter-lavspent-stromgjennomgang/</prop>
+     <seg>Datainnsamling er avsluttet, og sluttrapport til NHOs Arbeidsmilj&#248;fond ble ferdigstilt i 2006.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">5.91731</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>Ingrid Sivesind Mehlum leads work package 5.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>Ingrid Sivesind Mehlum leder arbeidspakke 5.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.02407</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/en-undersokelse-av-nervesystemet-hos-sveisere/</prop>
+     <seg>The welders were carrying air pumps for individual sampling of contaminates in their work atmosphere.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/en-undersokelse-av-nervesystemet-hos-sveisere/</prop>
+     <seg>Sveiserne bar luftpumper for individuell innsamling av kontaminanter i arbeidsatmosf&#230;ren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.86773</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>EPHOR will generate new knowledge on the working life exposome by combining large-scale pooling of existing data (over 40 cohorts and 21 million study subjects) with new data collected in the project (case studies on respiratory health and health effects of night shift work).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>EPHOR vil frembringe ny kunnskap ved &#229; utnytte eksisterende datasett (over 40 kohorter som totalt inkluderer over 21 millioner personer) og data som samles inn i prosjektet (to casestudier, p&#229; henholdsvis luftveissykdommer og skiftarbeid).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.94211</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/en-undersokelse-av-nervesystemet-hos-sveisere/</prop>
+     <seg>had been diagnosed with idiopathic Parkinson&#8217;s Decease(PD). 96 welders, 96 controls and 27 patients with</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/en-undersokelse-av-nervesystemet-hos-sveisere/</prop>
+     <seg>96 sveisere, 96 kontroller og 27 pasienter med manganisme ble unders&#248;kt seks &#229;r tidligere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.1987</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/international-collaborations/</prop>
+     <seg>Is a network for experts on the working environment and occupational health.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/om-stami/internasjonalt-samarbeid/</prop>
+     <seg>Baltic Sea Network on Occupational Health and Safety (BSN) er et nettverk for eksperter innenfor arbeidsmilj&#248; og -helse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.18609</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://stami.no/en/project/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>Innovative methods for collection, storage, and interpretation of working life exposome data</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://stami.no/prosjekt/ephor-exposome-project-for-health-and-occupational-research/</prop>
+     <seg>Nyskapende metoder for innsamling, lagring og analyse av eksponering- og helsedata</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

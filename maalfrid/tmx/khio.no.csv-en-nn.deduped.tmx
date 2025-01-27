@@ -1,0 +1,487 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T210447" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.14327</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/stefan-herheim-appointed-adjunct-professor</prop>
+     <seg>&#8220;Stefan Herheim is Norway&#8217;s most famous and lauded opera director,&#8221; comments Tore Dingstad, dean of the Academy of Opera.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/stefan-herheim-blir-professor-ii-ved-khio</prop>
+     <seg>- Stefan Herheim er Noregs mest ber&#248;mte og meritterte operaregiss&#248;r, seier Tore Dingstad, dekan ved Operah&#248;gskolen, i ein kommentar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.97779</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/the-studio-house-in-arcueil</prop>
+     <seg>From November 2017, the house will be at the disposal of a new generation of students at KHiO for short periods of research and other study-related project work.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/atelierhuset-i-arcueil</prop>
+     <seg>Fr&#229; november 2017 blir huset stilt til r&#229;dvelde for ein ny generasjon studentar ved KHiO for kortare studieopphold eller prosjektarbeid relatert til studiet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.37738</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2021-academy-of-fine-art</prop>
+     <seg>I am very pleased to be awarded the one-year studio grant (FKDS) at Kunstnernes hus, to continue my artistic practices in Oslo.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2021-kunstakademiet</prop>
+     <seg>Eg er sv&#230;rt glad for &#229; ha f&#229;tt eit eitt&#229;rig studio-opphald (FKDS) ved Kunstnernes Hus, slik at eg kan halde fram med det kunstnarlege arbeidet mitt i Oslo.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.2899</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2021-academy-of-fine-art</prop>
+     <seg>Moreover, the project will be also participating in group exhibitions in Hong Kong, Prague and Oslo later.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2021-kunstakademiet</prop>
+     <seg>Seinare skal prosjektet mitt vere med i gruppeutstillingar i Hong Kong, Praha og Oslo.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.63448</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2019-academy-of-theatre</prop>
+     <seg>I&#8217;m heading off to the Teatret V&#229;rt theatre in Molde!</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2019-teaterhogskolen</prop>
+     <seg>&#8211; Eg skal til Teatret v&#229;rt i Molde!</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.0097</prop>
+    <prop type="score-bicleaner">0.591</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/ane-graff-dreg-til-venezia</prop>
+     <seg>Her sculptures and installations interrogate conventional and allegedly stable structures and classifications based on science and cultural practices.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/ane-graff-dreg-til-venezia</prop>
+     <seg>Skulpturane og installasjonane hennar utfordrar konvensjonelle og tilsynelatande stabile strukturar og klassifiseringar som er baserte p&#229; vitskapleg og kulturell praksis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">4.37378</prop>
+    <prop type="score-bicleaner">0.597</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/ane-graff-dreg-til-venezia</prop>
+     <seg>The commissioner of the 2019 Nordic Pavilion will be the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/ane-graff-dreg-til-venezia</prop>
+     <seg>Ansvarleg for Den nordiske paviljongen 2019 er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.72419</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/the-studio-house-in-arcueil</prop>
+     <seg>Thanks to donations from ten wealthy Norwegian art enthusiasts, in 1939 the National Academy of Fine Arts was able to purchase a studio house for use by &#8220;young art students&#8221; in the district of Arcueil, just south of Paris.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/atelierhuset-i-arcueil</prop>
+     <seg>Takka vere donasjonar fr&#229; ti formuande og kunstinteresserte nordmenn, kunne Statens kunstakademi i 1939 kj&#248;pe eit atelierhus til bruk &#171;for unge kunststuderande&#187; i kommunen Arcueil s&#248;r for Paris.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.06174</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2020-design</prop>
+     <seg>I have for instance participated in the Connecting Wool research project, where we explored the possibilities and potential of Norwegian wool.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2020-design</prop>
+     <seg>Blant anna har eg vore involvert i forskingsprosjektet Connecting Wool, der vi har utforska moglegheitene og potensialet i norsk ull.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">3.45556</prop>
+    <prop type="score-bicleaner">0.511</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/the-studio-house-in-arcueil</prop>
+     <seg>The Studio House has been in almost constant use since 1945/46.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/atelierhuset-i-arcueil</prop>
+     <seg>Atelierhuset har vore i samanhengande bruk fr&#229; 1945/46 og fram til i dag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.98718</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/ohlraun-to-braunschweig-university-of-art</prop>
+     <seg>Since 2007 Ohlraun has worked as Course Director for the master's course in Fine Art at</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/ohlraun-til-kunsthogskolen-i-braunschweig</prop>
+     <seg>Ohlraun har sidan 2007 jobba som Course Director for masterstudiet i biletkunst ved Piet Zwart Institute p&#229; Universitetet i Rotterdam.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.52625</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/ohlraun-to-braunschweig-university-of-art</prop>
+     <seg>Vanessa Ohlraun, dean at the Academy of Fine Art at Oslo National Academy of the Arts, will be the new Rector (Pr&#228;sidentin) at Braunschweig University of Art.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/ohlraun-til-kunsthogskolen-i-braunschweig</prop>
+     <seg>Vanessa Ohlraun, dekan ved avdeling Kunstakademiet ved Kunsth&#248;gskolen i Oslo, blir ny rektor ved Kunsth&#248;gkolen i Braunschweig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.21033</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2021-academy-of-fine-art</prop>
+     <seg>For this summer, I will present my graduation project at K4 Gallery as my first solo show in Oslo.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2021-kunstakademiet</prop>
+     <seg>I sommar skal eg presentere eksamensprosjektet mitt i K4 Galleri som den f&#248;rste soloutstillinga mi i Oslo.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.34072</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2021-academy-of-fine-art</prop>
+     <seg>Our graduation group exhibition &#8220;The Great Indoors" at Kunstnernes Hus is an unforgettable experience for me.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2021-kunstakademiet</prop>
+     <seg>Utstillinga som eksamensklassa hadde p&#229; Kunstnernes Hus, &#171;The Great Indoors&#187;, er noko eg aldri kjem til &#229; gl&#248;yme.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.16452</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2021-academy-of-fine-art</prop>
+     <seg>What is your key takeaway from KHiO?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2021-kunstakademiet</prop>
+     <seg>Kva er det viktigaste du tek med deg fr&#229; tida ved KHiO?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">5.4875</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/stefan-herheim-appointed-adjunct-professor</prop>
+     <seg>Since 2000 he has lived in Berlin.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/stefan-herheim-blir-professor-ii-ved-khio</prop>
+     <seg>Sidan 2000 bur han i Berlin.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.026</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/ane-graff-dreg-til-venezia</prop>
+     <seg>The materials keep interacting and forming new mixtures during the exhibition, denying the human control over them.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/ane-graff-dreg-til-venezia</prop>
+     <seg>Materiala p&#229;verkar kvarandre og formar nye blandingar gjennom utstillinga, og nektar oss &#229; ha menneskeleg kontroll over dei.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.98462</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMjEvMTEvMjQvOTRodWkxdm5pYV9LSGlPX3BsYWthdF8yMDIyX0E0X2VuZ2Vsc2sucGRmIl1d/KHiO%20plakat%202022%20A4%20engelsk.pdf.converted</prop>
+     <seg>theatre, and opera.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/system/resources/W1siZiIsIjIwMjEvMTEvMjUvMmhmbGg4anZ6Nl9LSGlPX3BsYWthdF8yMDIyX0E0X3NfbmFkc2ZyaXN0YXJfdjIucGRmIl1d/KHiO%20plakat%202022%20A4%20s%C3%B8nadsfristar%20v2.pdf.converted</prop>
+     <seg>dans og opera.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.04444</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2021-academy-of-fine-art</prop>
+     <seg>In addition, studying at KHiO expanded my network in Oslo and had the opportunities to participate in projects outside of school.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2021-kunstakademiet</prop>
+     <seg>Under studiet ved KHiO har eg dessutan utvida nettverket mitt i Oslo, og eg har f&#229;tt sjansen til &#229; delta i prosjekt utanom skulen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.43004</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2021-academy-of-fine-art</prop>
+     <seg>The film was presented in Skylight Gallery KHiO and an online interactive form.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2021-kunstakademiet</prop>
+     <seg>Filmen vart presentert i Skylight Gallery KHiO og interaktivt p&#229; nettet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.56888</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/the-studio-house-in-arcueil</prop>
+     <seg>Over the years, more than 500 artists have used the house to pursue their creative work and as a reasonably priced opportunity to seek inspiration away from their routine environments.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/atelierhuset-i-arcueil</prop>
+     <seg>Meir enn 500 kunstnarar har leigd seg inn i huset for &#229; kunne drive med kreativt arbeid og, for ein billeg penge, kunne opphalde seg og hente inspirasjon ein annan stad enn i sitt vante milj&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.66571</prop>
+    <prop type="score-bicleaner">0.601</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2021-academy-of-fine-art</prop>
+     <seg>Studying at KHiO 2021: Academy of Fine Art</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2021-kunstakademiet</prop>
+     <seg>&#197; studere p&#229; KHiO 2021: Kunstakademiet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.03037</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2019-academy-of-theatre</prop>
+     <seg>It was educational to do something so completely different, and I&#8217;m grateful for having been able to experience and work under such discipline.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2019-teaterhogskolen</prop>
+     <seg>Det var l&#230;rerikt &#229; gjere noko s&#229; heilt annleis, og eg er takksam for &#229; ha f&#229;tt oppleve og arbeide under slik disiplin.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.43121</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2019-academy-of-theatre</prop>
+     <seg>We put on The Robbers by Friedrich Schiller, as staged by a German artist duo, with Silvia Rieger directing and set designs and costumes by Laurent Pellissier.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2019-teaterhogskolen</prop>
+     <seg>Vi spelte &#171;Morderne&#187; etter Friedrich Schiller, sett i scene av ein tysk kunstnarduo, Silvia Rieger p&#229; regi og scenograf og kostymedesignar Laurent Pellissier.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.04503</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2019-academy-of-theatre</prop>
+     <seg>I&#8217;ve been given a role there in Romeo and Juliet, which is going to be staged by Simen Formo Hay, who graduated from the Academy as a director two years ago.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2019-teaterhogskolen</prop>
+     <seg>Der har eg ei rolle i Romeo og Julie, som skal settast i scene av Simen Formo Hay, som gjekk ut fr&#229; regilinja her p&#229; KHiO for to &#229;r sidan.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.23388</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/stefan-herheim-appointed-adjunct-professor</prop>
+     <seg>The Deutsche Oper Berlin has appointed him to direct Richard Wagner&#8217;s entire Der Ring des Nibelungen tetralogy in 2020, the first revival of the work in 35 years after G&#246;tz Friedrich&#8217;s legendary production in 1984.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/stefan-herheim-blir-professor-ii-ved-khio</prop>
+     <seg>Deutsche Oper Berlin har gitt han regiansvaret for Richard Wagners tetralogi &#8221;Der Ring des Nibelungen&#8221; i 2020, den f&#248;rste nyoppsetjinga av verket p&#229; 35 &#229;r etter G&#246;tz Friedrichs legendariske Ring fr&#229; 1984.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">4.17931</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/ohlraun-to-braunschweig-university-of-art</prop>
+     <seg>She began a new fixed term in 2015.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/ohlraun-til-kunsthogskolen-i-braunschweig</prop>
+     <seg>Ho tok fatt p&#229; eit nytt &#229;rem&#229;l i 2015.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.54071</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2020-design</prop>
+     <seg>My Master&#8217;s project was titled Fashion Farm and took its starting point from a family farm I inherited in 2018 when my father passed away.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2020-design</prop>
+     <seg>Masterprosjektet mitt heiter Fashion Farm og tar utgangspunkt i familiegarden eg arva i 2018 d&#229; faren min gjekk bort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.08791</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2019-academy-of-theatre</prop>
+     <seg>Bachelor&#8217;s in acting, the Academy of Theatre</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2019-teaterhogskolen</prop>
+     <seg>Bachelor i skodespelarfag, avdeling Teaterh&#248;gskolen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/events/72</prop>
+     <seg>at Oslo Kunstforening.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/events/72</prop>
+     <seg>p&#229; Oslo Kunstforening.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.37761</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/events/72</prop>
+     <seg>In addition to Yuka Oyama&#8217;s exhibition research fellows; Tina Jonsbu, Katrine K&#248;ster Holst, Merete R&#248;stad and Franz Schmidt invite you into their studio`s.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/events/72</prop>
+     <seg>I samband med Oslo Open innbyr ogs&#229; stipendiatane Tina Jonsbu, Katrine K&#248;ster Holst, Merete R&#248;stad og Franz Schmidt publikum til sine atleier ved Kunsth&#248;gskolen i Oslo.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">5.37097</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/stefan-herheim-appointed-adjunct-professor</prop>
+     <seg>Stefan Herheim was born in 1970 in Oslo.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/stefan-herheim-blir-professor-ii-ved-khio</prop>
+     <seg>Stefan Herheim er f&#248;dd i 1970 i Oslo.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.12987</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2021-academy-of-fine-art</prop>
+     <seg>For the past six years, I have educated in Hong Kong.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2021-kunstakademiet</prop>
+     <seg>Dei siste seks &#229;ra f&#248;r eg kom hit, studerte eg i Hong Kong.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.18125</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2021-academy-of-fine-art</prop>
+     <seg>What has it been like to study at KHiO?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2021-kunstakademiet</prop>
+     <seg>Korleis har det vore &#229; studere ved KHiO?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">3.0375</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2021-academy-of-fine-art</prop>
+     <seg>I started my study in KHiO in 2019 as my first time studying abroad.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2021-kunstakademiet</prop>
+     <seg>Eg begynte studiet ved KHiO i 2019, og det var f&#248;rste gongen eg studerte utanlands.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.43628</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/ohlraun-to-braunschweig-university-of-art</prop>
+     <seg>This is the result of the work of an outstanding and diverse staff, as well as innovative education formats, such as the new master's course &#171;Scenarios for Going Public&#187;, says Vanessa Ohlraun.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/ohlraun-til-kunsthogskolen-i-braunschweig</prop>
+     <seg>Dette er resultat av arbeidet til ein framragande og mangfaldig fagstab, og innovative undervisningsformer, som til d&#248;mes det nye masteropplegget &#171;Scenarios for Going Public&#187;, seier Vanessa Ohlraun.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.19257</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khio.no/en/about/news/studying-at-khio-2020-design</prop>
+     <seg>I made a DIY stool kit from surplus materials from Fellesverkstedet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://khio.no/om-kunsthogskolen-i-oslo/aktuelt/a-studere-pa-khio-2020-design</prop>
+     <seg>Eg har laga eit DIY-krakk-kit av restematerialar fr&#229; Fellesverksted.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

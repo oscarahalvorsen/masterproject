@@ -1,0 +1,2172 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T044204" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.1268</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/12/15/strammer-inn-mulighetene-for-a-fa-nodpass/</prop>
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/12/15/strammer-inn-mulighetene-for-a-fa-nodpass/</prop>
+     <prop type="source-document">https://www.politiet.no/en/aktuelt-tall-og-fakta/aktuelt/news/2021/12/15/strammer-inn-mulighetene-for-a-fa-nodpass/</prop>
+     <seg>Dersom en ved flere anledninger de siste fem &#229;rene har f&#229;tt flere n&#248;dpass, eller har mistet et n&#248;dpass, kan prosessen med &#229; f&#229; midlertidig pass ta tid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/en/aktuelt-tall-og-fakta/aktuelt/news/2021/12/17/strammar-inn-pa-utskriving-av-naudpass/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/12/17/strammar-inn-pa-utskriving-av-naudpass/</prop>
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/12/17/strammar-inn-pa-utskriving-av-naudpass/</prop>
+     <seg>Til d&#248;mes dersom ein ved fleire h&#248;ver dei siste fem &#229;ra har f&#229;tt fleire naudpass, eller har mista eit naudpass, kan prosessen med &#229; f&#229; mellombels pass ta tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.28571</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/tvangsdekning-tilbakelevering-og-tvangssalg/begjaring-om-tvangsdekning-i-verdipapirer-fondsaktiviteter-pengekrav-med-mer.pdf.converted</prop>
+     <seg>Vedlagt f&#248;lger kopi av:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/tvangsdekning-tilbakelevering-og-tvangssalg/kravsmal-om-tvangsdekning-i-verdipapir-fondsaktiva-pengekrav-med-mer.pdf.converted</prop>
+     <seg>Vedlagt f&#248;lgjer kopi av:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.36217</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-taushetsplikt.pdf.converted</prop>
+     <seg>Hvis du l&#248;ser PU fra taushetsplikten betyr det at du samtykker til at vi kan utlevere personopplysninger om deg og informasjon om utlendingssaken din.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-teieplikt.pdf.converted</prop>
+     <seg>Viss du l&#248;yser PU fr&#229; teieplikta betyr det at du samtykker til at vi kan utlevere personopplysningar om deg og informasjon om utlendingssaka di.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">3.18646</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/05-om-oss/schengen-information-system/begjaring-om-innsyn-i-schengen-informasjonssystem-sis.pdf.converted</prop>
+     <seg>oktober 1994 &#8226; Nasjonalt ID-kort utstedt innenfor E&#216;S-omr&#229;det &#8226; Asyls&#248;kerbevis supplert med navnetrekk og f&#248;dested &#8226; Norsk reisebrev for flyktninger (gr&#248;nt pass) &#8226; Norsk utlendingspass (bl&#229;tt pass) Dersom du har et norsk f&#248;dselsnummer eller et DUF-nummer ber vi om at dette oppgis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/05-om-oss/innsyn/forespurnad-om-innsyn-i-schengen-informasjonssystem.pdf.converted</prop>
+     <seg>oktober 1994 &#8226; Nasjonalt ID-kort utferda innanfor E&#216;S-omr&#229;det &#8226; Asyls&#248;kjarbevis supplert med namnetrekk og f&#248;destad &#8226; Norsk reisebrev for flyktningar (gr&#248;nt pass) &#8226; Norsk utlendingspass (bl&#229;tt pass) Dersom du har eit norsk f&#248;dselsnummer eller eit DUF-nummer, ber vi deg oppgi dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.225</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>Politiattest kan kun utstedes for de form&#229;l som f&#248;lger av lov eller forskrift gitt i medhold av lov.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>Politiattest kan berre utskrivast for dei f&#248;rem&#229;l som f&#248;lgjer av lov eller forskrift gitt i medhald av lov.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">5.20909</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>Den kriminelle lavalder i Norge er 15 &#229;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>Den kriminelle l&#229;galder i Noreg er 15 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.99121</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/20/ny-tjeneste-mobile-pass-og-id-kontor/</prop>
+     <prop type="source-document">https://www.politiet.no/en/aktuelt-tall-og-fakta/aktuelt/news/2021/08/20/ny-tjeneste-mobile-pass-og-id-kontor/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/20/ny-tjeneste-mobile-pass-og-id-kontor/</prop>
+     <seg>Det ligger ogs&#229; en oversikt over</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/en/aktuelt-tall-og-fakta/aktuelt/news/2021/08/26/passbussen-pa-veg-mot-more-og-romsdal/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/26/passbussen-pa-veg-mot-more-og-romsdal/</prop>
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/26/passbussen-pa-veg-mot-more-og-romsdal/</prop>
+     <seg>Det ligg ogs&#229; ei oversikt over</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.46</prop>
+    <prop type="score-bicleaner">0.541</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <seg>Blant annet blir du</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <seg>Blant anna har du</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---bokmal-2021.pdf.converted</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak-bm.pdf.converted</prop>
+     <seg>Mottaker av politiattest</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak.pdf.converted</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---nynorsk-2021.pdf.converted</prop>
+     <seg>Mottakar av politiattest</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.74723</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>omtrent like i alder og utvikling og den som blir</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>like i alder og utvikling og den som blir avbilda,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.72727</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/more-og-romsdal/rauma-mobilt-pass-og-id-kontor/</prop>
+     <seg>Du finner ledig time for dette stoppestedet ved &#229; klikke p&#229; den bl&#229; knappen over, og bla deg fremover i kalenderen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/more-og-romsdal/rauma-mobilt-pass-og-id-kontor/</prop>
+     <seg>Du finn ledig time for stoppestaden ved &#229; klikke p&#229; den bl&#229; knappen over og bla deg framover i kalenderen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.06</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/04-aktuelt-tall-og-fakta/narkotika/narkstat_1-halvar-2017.pdf.converted</prop>
+     <seg>Det kan dreie seg</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/04-aktuelt-tall-og-fakta/narkotika/narkstat_1-halvar-2018.pdf.converted</prop>
+     <seg>Det kan dreie seg om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.3775</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <seg>Vi &#248;nsker at alle skal ferdes trygt i trafikken</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <seg>Vi ynskjer at alle skal ferdast trygt i trafikken:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.21084</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/fullmakt-til-behandling-av-utlendingssaker.pdf.converted</prop>
+     <seg>dokumenter knyttet til min utlendingssak Jeg gir fullmektigen innsyn i alle saksdokumenter i forbindelse med min</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/fullmakt-til-behandling-av-utlendingssaker-nynorsk.pdf.converted</prop>
+     <seg>dokumenter knytt til mi utlendingssak Eg gir fullmektigen innsyn i alle saksdokumenter i samband med mi</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.98327</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utkastelse/varsel-okkupasjon-tvangsfullbyrdelsesloven-paragraf-4-18.pdf.converted</prop>
+     <seg>Undertegnede anser det som &#229;penbart at du ikke har rett til &#229; besitte leieobjektet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utkastelse/varsel-okkupasjon-tvangsfullforingslova-paragraf-4-18.pdf.converted</prop>
+     <seg>Underskrivaren ser det som openbert at du ikkje har rett til &#229; inneha leigeobjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.20271</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>bildedeling er veldig vanlig, kan enkelte kjenne p&#229; et</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>biletdeling er veldig vanleg, kan enkelte kjenne p&#229; eit</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.96667</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/more-og-romsdal/rauma-mobilt-pass-og-id-kontor/</prop>
+     <seg>Bilen har utstyr som gj&#248;r at du kan s&#248;ke om pass og nasjonalt ID-kort.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/more-og-romsdal/rauma-mobilt-pass-og-id-kontor/</prop>
+     <seg>Bilen har utstyr som gjer at du kan s&#248;ke om pass og nasjonalt ID-kort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.53209</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>Hvilken stilling, oppdrag eller verv s&#248;ker har f&#229;tt tilbud om eller er innstilt til</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>Kva stilling, oppdrag eller verv s&#248;kar har f&#229;tt tilbod om eller er innstilt til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.16136</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>press om &#229; gj&#248;re det samme.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>press om &#229; gjere det same.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.475</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/more-og-romsdal/rauma-mobilt-pass-og-id-kontor/</prop>
+     <seg>Mobilt pass&#8211; og ID-kontor (passbuss) er en bil som kj&#248;rer mellom ulike stoppesteder over hele Norge.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/more-og-romsdal/rauma-mobilt-pass-og-id-kontor/</prop>
+     <seg>Mobilt pass- og ID-kontor (passbuss) er ein bil som k&#248;yrer mellom ulike stoppestadar over heile Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.16466</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>nakenbilder el er film av noen som</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>nakenbilete el er film av nokon som</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.8</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/dokumenter/?side=56</prop>
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/dokumenter/?side=51</prop>
+     <seg>Bruk piltastene eller sveip for &#229; g&#229; opp eller ned.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/dokumenter/?side=51</prop>
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/dokumenter/?side=56</prop>
+     <seg>Bruk piltastane eller sveip for &#229; g&#229; opp eller ned.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.28636</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/skjema-for-klage-pa-tvangsforretning..pdf.converted</prop>
+     <seg>Du m&#229; dokumentere klagen:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/skjema-for-klage-pa-tvangsforretning.pdf.converted</prop>
+     <seg>Du m&#229; dokumentere klaga:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utkastelse/begjaring-om-fravikelse.pdf.converted</prop>
+     <seg>Kravet er spesifisert p&#229; eget vedlegg</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utkastelse/kravsmal-om-fraviking.pdf.converted</prop>
+     <seg>Kravet er spesifisert p&#229; eige vedlegg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.27353</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>F&#248;rst etterp&#229; oppdager de at de ikke har</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>F&#248;rst etterp&#229; oppdagar dei at dei ikkje har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.02913</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>Her skal arbeids-/oppdragsgiver oppgi hvilken lovbestemmelse el er forskriftsbestemmelse som gir arbeids-/oppdragsgiver hjemmel for &#229; kreve at s&#248;ker skal fremvise politiattest.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>Her skal arbeids-/oppdragsgivar fylle ut kva lovf&#248;resegn som gir arbeids-/oppdragsgivar heimel til &#229; krevja at s&#248;kar skal framvise politiattest.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.20909</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>De fleste ungdommer skj&#248;nner at det er d&#229;rlig gjort &#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>Dei fleste ungdommar skj&#248;ner at det er d&#229;rleg gjort &#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.24118</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>Erfaringer fra Norge og Europa viser at samarbeid mellom kriminelle sjelden skjer i faste organisasjoner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Erfaringar fr&#229; Noreg og Europa viser at samarbeid mellom kriminelle sjeldan skjer i faste organisasjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.29538</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>Teknologi gj&#248;r b&#229;de tradisjonelle og nyere former for kriminalitet mulig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Teknologi gjer b&#229;de tradisjonelle og nyare former for kriminalitet mogleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.17751</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-drive-handel-med-skytevapen.pdf.converted</prop>
+     <seg>s&#248;ker bevilling som nevnt i punktene a-b.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-driva-handel-med-skytevapen.pdf.converted</prop>
+     <seg>dei som s&#248;kjer bevilling som nemnt i punkt a-b.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.63333</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/formal-til-soknad-om-politiattest.pdf.converted</prop>
+     <seg>Godkjenning av fosterforeldre og private som tar imot</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/foremal-til-soknad-om-politiattest.pdf.converted</prop>
+     <seg>Godkjenning av fosterforeldre og private som tek imot</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">3.77712</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/05-om-oss/schengen-information-system/begjaring-om-innsyn-i-schengen-informasjonssystem-sis.pdf.converted</prop>
+     <seg>Foresatte/ verge kan p&#229; selvstendig grunnlag be om innsyn i opplysninger om den registrerte (barnet) frem til fylte 18 &#229;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/05-om-oss/innsyn/forespurnad-om-innsyn-i-schengen-informasjonssystem.pdf.converted</prop>
+     <seg>F&#248;resette/verje kan p&#229; sj&#248;lvstendig grunnlag be om innsyn i opplysningar om den registrerte (barnet) fram til fylte 18 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.69833</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak-bm.pdf.converted</prop>
+     <seg>Veileder for utfylling av s&#248;knadsskjema Informasjon om s&#248;ker av politiattest Punkt 1:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak.pdf.converted</prop>
+     <seg>Veileidar for utfylling av s&#248;knadsskjema Informasjon om s&#248;kar av politiattest Punkt 1:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.38386</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>V&#229;r erfaring er at en ikke uten videre kan stole p&#229; at det som en kj&#248;per som elsykkel tilfredsstiller disse kravene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>V&#229;r erfaring er at ein ikkje utan vidare kan stole p&#229; at det som ein kj&#248;per som elsykkel tilfredsstiller desse krava.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.54524</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---bokmal-2021.pdf.converted</prop>
+     <seg>Har du norsk pass som er utstedt etter 19.10.2020 trenger vi kopi av b&#229;de for- og baksiden av personaliasiden for &#229; f&#229; fullstendige opplysninger om deg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---nynorsk-2021.pdf.converted</prop>
+     <seg>Har du norsk pass som er utskriven etter 19.10.2020 treng vi kopi av b&#229;de for- og baksida av personalsidene for &#229; f&#229; fullstendige opplysningar av deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/gjeldsordning/soknad-om-gjeldsforhandling.pdf.converted</prop>
+     <seg>N&#229;r disse opplysningene er</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/gjeldsordning/soknad-om-gjeldsforhandling_nynorsk.pdf.converted</prop>
+     <seg>N&#229;r desse opplysningane er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.04423</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>Politiet vil blant annet vurdere hvordan gruppen er bygd opp.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Politiet vil mellom anna vurdere korleis gruppa er bygd opp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>vanlig type sykkel:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>vanleg type sykkel:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.42411</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>Nettverkene har ofte store ressurser.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Nettverka har ofte store ressursar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/formal-til-soknad-om-politiattest.pdf.converted</prop>
+     <seg>eller oppholde seg regelmessig der.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/foremal-til-soknad-om-politiattest.pdf.converted</prop>
+     <seg>eller opphalde seg regelmessig der.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.35568</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/fullmakt-til-behandling-av-utlendingssaker.pdf.converted</prop>
+     <seg>interneringssak Jeg gir fullmektigen innsyn i alle vedtak og avgj&#248;relser som treffes under oppholdet p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/fullmakt-til-behandling-av-utlendingssaker-nynorsk.pdf.converted</prop>
+     <seg>interneringssak Eg gir fullmektigen innsyn i alle vedtak og avgjerder som treffast under opphaldet p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.86818</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/04-aktuelt-tall-og-fakta/narkotika/narkstat_1-halvar-2017.pdf.converted</prop>
+     <seg>om ulike stofftyper, eller at beslagene er gjort p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/04-aktuelt-tall-og-fakta/narkotika/narkstat_1-halvar-2018.pdf.converted</prop>
+     <seg>ulike stofftypar, eller at beslaga er gjorde p&#229; ulike stader og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.75964</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>&#8226; Det er ikke greit at foreldre kjenner press p&#229; at "treig" sykkel er kjipt &#8226; Det er ikke greit at det blir statussymbol &#229; eie og bruke raske elsykler eller</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>&#8226; Det er ikkje greitt at foreldre kjenner press p&#229; at "treig" sykkel er kjipt &#8226; Det er ikkje greitt at det vert statussymbol &#229; eige og bruke raske elsyklar eller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.275</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>Det stilles krav til utstyr</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>Det vert stilt krav til utstyr</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.22857</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>veldig mange har al erede sett den og tatt skjermdumper av filmen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>veldig mange har al ereie sett han og teke skjermdumpar av filmen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.29189</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>syklende og g&#229;ende eller for alle kj&#248;ret&#248;y.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>syklande og g&#229;ande eller for alle k&#248;yrety.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.63333</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>Ved s&#248;knad per brev m&#229; s&#248;ker sende inn</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>Ved s&#248;knad per brev m&#229; s&#248;kar sende inn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.14615</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>delingen er en stor p&#229;kjenning for den det spres nakenbilder av.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>Det er ulovlig, og delinga er ei stor p&#229;kjenning for den avbilda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.5199</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-taushetsplikt.pdf.converted</prop>
+     <seg>Under kan du velge om fritaket for taushetsplikt skal kun gjelde for en bestemt person/journalist, en redaksjon eller generelt for alle journalister.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-teieplikt.pdf.converted</prop>
+     <seg>Under kan du velje om fritaket for teieplikt berre skal gjelde for ein person/journalist, ein bestemt redaksjon, eller generelt for alle journalistar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.09318</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/kontakt-oss/nod-sms/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/ost/fredrikstad-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/ost/ullensaker-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/tall-og-fakta/drapsoversikt/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/ost/moss-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/trondelag/trondheim-lufthavn-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/more-og-romsdal/heroy-og-sande-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/ost/indre-ostfold-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/nordland/oksnes-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/sor-vest/sokndal-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/vest/austevoll-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/sarorganene/politiets-utlendingsenhet/nasjonalt-ankomstsenter-rade/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/sarorganene/grensekommissariatet/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/sarorganene/okokrim/</prop>
+     <seg>Du f&#229;r dessverre ikke svar p&#229; tilbakemeldingen din.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/trondelag/trondheim-lufthavn-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/sarorganene/grensekommissariatet/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/ost/ullensaker-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/vest/austevoll-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/sor-vest/sokndal-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/nordland/oksnes-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/tall-og-fakta/drapsoversikt/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/sarorganene/okokrim/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/sarorganene/politiets-utlendingsenhet/nasjonalt-ankomstsenter-rade/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/ost/moss-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/ost/indre-ostfold-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/ost/fredrikstad-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/more-og-romsdal/heroy-og-sande-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/kontakt-oss/nod-sms/</prop>
+     <seg>Du f&#229;r dessverre ikkje svar p&#229; tilbakemeldinga di.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.48382</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>Her skal det fylles ut navn p&#229; den som med hjemmel i lov eller forskrift gitt i medhold av lov krever fremleggelse av politiattest.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>Her skal det fyllast ut namn p&#229; den som med heimel i lov eller forskrift gitt i medhald av lov krev framlegging av politiattest.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">2.29</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak-bm.pdf.converted</prop>
+     <seg>Form&#229;l med s&#248;knad om politiattest</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak.pdf.converted</prop>
+     <seg>F&#248;rem&#229;l med s&#248;knad om politiattest</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.20242</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>bildet videre til kompiser, som igjen deler videre.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>biletet vidare til kompisar, som igjen deler vidare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.94111</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/fullmakt-til-behandling-av-utlendingssaker.pdf.converted</prop>
+     <seg>utlendingsinternatet Jeg gir fullmektigen fullmakt til &#229; opptre p&#229; mine vegne overfor Politiets 3 Opplysninger om deg som gir fullmakt (fullmaktsgiver) Etternavn</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/fullmakt-til-behandling-av-utlendingssaker-nynorsk.pdf.converted</prop>
+     <seg>utlendingsinternatet Eg gir fullmektigen fullmakt til &#229; opptre p&#229; mine vegner overfor Politiet si utlendingseining 3 Opplysningar om deg som gir fullmakt (fullmaktsgivar) Etternamn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>F&#248;dselsnummer til s&#248;ker av politiattest</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>F&#248;dselsnummer til s&#248;kar av politiattest</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">2.46818</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>Det er derfor viktig &#229; p&#229;peke at de fleste ungdommer</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>Det er derfor viktig &#229; peike p&#229; at dei fleste ungdommar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">4.46322</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>eller per brev til Politiets enhet for vandelskontroll og politiattester, Postboks 113, 9951 Vard&#248;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>eller per brev til Politiets eining for vandelskontroll og politiattestar, Postboks 113, 9951 Vard&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.58571</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-drive-handel-med-skytevapen.pdf.converted</prop>
+     <seg>med senere endringer og tilh&#248;rende forskrifter</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-driva-handel-med-skytevapen.pdf.converted</prop>
+     <seg>med same endringar og tilh&#248;yrande forskrifter,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">5.3</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/skjema-for-klage-pa-tvangsforretning..pdf.converted</prop>
+     <seg>DEL II KLAGE P&#197; TREKK I INNTEKT 1 Opplysninger om deg</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/skjema-for-klage-pa-tvangsforretning.pdf.converted</prop>
+     <seg>DEL II KLAGE P&#197; TREKK I INNTEKT 1 Opplysningar om deg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.27143</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>det som spesielt gjelder:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>det som spesielt gjeld:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">3.38508</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---bokmal-2021.pdf.converted</prop>
+     <seg>Gyldig legitimasjon er pass, nasjonalt ID-kort, norsk bankkort med bilde, norsk f&#248;rerkort, Forsvarsdepartementets ID-kort (fra 2004), gyldig postens ID-kort utstedt etter 01.10.94, nasjonalt ID-kort utstedt innenfor E&#216;S-omr&#229;det, norsk reisebevis for flyktninger (gr&#248;nt pass), norsk utlendingspass (bl&#229;tt pass) og oppholdstillatelseskort (begge sider).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---nynorsk-2021.pdf.converted</prop>
+     <seg>Gyldig legitimasjon er pass, nasjonalt ID-kort, norsk bankkort med bilde, norsk f&#248;rarkort, Forsvarsdepartementets ID-kort (fr&#229; 2004), gyldig postens ID-kort utskriven etter 01.10.94, nasjonalt ID-kort utskriven innanfor E&#216;S-omr&#229;det, norsk reisebevis for flyktningar (gr&#248;nt pass), norsk utlendingspass (bl&#229;tt pass) og opphaldsl&#248;yvekort (begge sider).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.29032</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>Lovhjemmel for krav om politiattest</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>Lovheimel for krav om politiattest</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/formal-til-soknad-om-politiattest.pdf.converted</prop>
+     <seg>Barneomsorgsa Bekreftelse fra</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/foremal-til-soknad-om-politiattest.pdf.converted</prop>
+     <seg>Barneomsorgsa Stadfesting fr&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">2.25375</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/05-om-oss/schengen-information-system/begjaring-om-innsyn-i-schengen-informasjonssystem-sis.pdf.converted</prop>
+     <seg>SIS er et sentralt elektronisk informasjons- og etterlysningssystem, som benyttes til &#229; etterlyse og utveksle informasjon om personer og gjenstander over hele Schengenomr&#229;det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/05-om-oss/innsyn/forespurnad-om-innsyn-i-schengen-informasjonssystem.pdf.converted</prop>
+     <seg>SIS er eit sentralt, elektronisk informasjons- og etterlysingssystem landa bruker til &#229; etterlyse og utveksle informasjon om personar og gjenstandar over heile Schengen-omr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak-bm.pdf.converted</prop>
+     <seg>Navn p&#229; foretak</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak.pdf.converted</prop>
+     <seg>Namn p&#229; f&#248;retaket</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">2.54508</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>kopi av gyldig ID og form&#229;lsbekreftelse fra arbeids-/oppdragsgiver.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>kopi av gyldig ID og f&#248;rem&#229;lsstadfesting fr&#229; arbeids-/oppdragsgivar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">2.93706</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <seg>o Det er ikke lov til &#229; bruke elsparkesykler som er &#229; anse som motorvogn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <seg>o Det er ikkje lov til &#229; bruke elsparkesyklar som er &#229; sj&#229; p&#229; som motorvogn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>Politiet kan ogs&#229; i st&#248;rre grad bruke tvangsmidler etter</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Politiet kan ogs&#229; i st&#248;rre grad bruke tvangsmiddel etter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/formal-til-soknad-om-politiattest.pdf.converted</prop>
+     <seg>Fosterforeldre og private som tar i mot</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/foremal-til-soknad-om-politiattest.pdf.converted</prop>
+     <seg>Fosterforeldre og private som tek i mot</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">2.92089</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <seg>Det er stort skadepotensial med raske kj&#248;ret&#248;y og det er ditt ansvar som forelder eller</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <seg>Det er stort skadepotensial med raske k&#248;yrety og det er ditt ansvar som forelder eller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">2.29318</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---bokmal-2021.pdf.converted</prop>
+     <seg>Normalt er dette en arbeids- eller oppdragsgiver.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---nynorsk-2021.pdf.converted</prop>
+     <seg>Normalt er dette ein arbeids- eller oppdragsgivar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/05-om-oss/schengen-information-system/begjaring-om-innsyn-i-schengen-informasjonssystem-sis.pdf.converted</prop>
+     <seg>For privatpersoner er gyldig legitimasjon:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/05-om-oss/innsyn/forespurnad-om-innsyn-i-schengen-informasjonssystem.pdf.converted</prop>
+     <seg>For privatpersonar er gyldig legitimasjon:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">8.08696</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>87 prosent i aldersgruppen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>87 prosent i aldersgruppa</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.63333</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/en/rad/vold-i-nare-relasjoner/vold-mot-eldre/</prop>
+     <seg>Velg sted for &#229; se kontaktinformasjon og &#229;pningstider</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/en/rad/vold-i-nare-relasjoner/tvangsekteskap-kjonnslemlesting-og-streng-sosial-kontroll/</prop>
+     <seg>Vel stad for &#229; sj&#229; kontaktinformasjon og opningstider</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <seg>Om pliktene til g&#229;ende:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <seg>Om pliktene for g&#229;ande:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.925</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>noen som synes det er greit at vedkommende</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>som synest det er greitt at personen har biletet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>Dette gj&#248;r det enklere &#229; reise og &#229; transportere varer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Dette gjer det enklare &#229; reise og &#229; transportere varer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">2.35556</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-b.pdf.converted</prop>
+     <seg>Hvis du skal fremvise politiattesten din for utenlandske myndigheter krysser du av for hvilken type politiattest du skal fremvise, hvilket spr&#229;k politiattesten skal utstedes p&#229; og om du trenger legalisering/apostille.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-n.pdf.converted</prop>
+     <seg>Viss du skal framvise politiattesten din for utanlandske myndigheiter kryssar du av for korleis type politiattest du skal framvise, korleis spr&#229;k politiattesten skal utskrivast p&#229; og om du treng legalisering/apostille.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utlegg-og-forliksklage/skjema-for-opplysninger-om-utleggsforretning.pdf.converted</prop>
+     <seg>For informasjon om hva som trengs av dokumentasjon, g&#229; inn p&#229; www.politiet.no.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utlegg-og-forliksklage/skjema-for-opplysningar-om-utleggsforretning.pdf.converted</prop>
+     <seg>For informasjon om kva som trengs av dokumentasjon, g&#229; inn p&#229; www.politiet.no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">3.03913</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>Du m&#229; g&#229; av sykkelen og g&#229; over gangfeltet om du vil at trafikken (bilene) skal vike for deg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>Du m&#229; g&#229; av sykkelen og g&#229; over gangfeltet om du vil at trafikken (bilane) skal vike for deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">2.60095</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-taushetsplikt.pdf.converted</prop>
+     <seg>Dersom du har gyldig identitetsdokument (for eksempel pass), ber vi deg legge ved en kopi eller skanne dokumentet eller ta et bilde med for eksempel mobiltelefon og sende til PU som vedlegg til samtykkeerkl&#230;ringen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-teieplikt.pdf.converted</prop>
+     <seg>Dersom du har gyldig identitetsdokument (til d&#248;mes pass), ber vi deg legge ved ein kopi eller skanne dokumentet eller ta eit bilete med til d&#248;mes mobiltelefon og sende til PU som vedlegg til samtykkeerkl&#230;ringa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>bruke sykkelfelt p&#229; h&#248;yre side av veien.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>bruke sykkelfelt p&#229; h&#248;gre side av vegen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">2.12143</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>Dette kan v&#230;re at s&#248;ker skal ansettes i en stilling, utf&#248;re oppgaver som omfattes av krav om politiattest eller s&#248;ke om en tillatelse, godkjennelse mv.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>Dette kan vera at s&#248;kar skal tilsetjast i ei stilling, utf&#248;ra oppg&#229;ver som blir omfatta av krav om politiattest eller s&#248;ka om eit l&#248;yve, godkjenning mv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">2.28333</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>Og hva om bildet blir</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>Og kva om biletet blir</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">2.544</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utkastelse/begjaring-om-fravikelse.pdf.converted</prop>
+     <seg>Navn og telefonnummer til den som skal m&#248;te p&#229; fravikelsen:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utkastelse/kravsmal-om-fraviking.pdf.converted</prop>
+     <seg>Namn og telefonnummer til den som skal m&#248;te p&#229; fr&#229;vikinga:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>Det kan v&#230;re vanskelig for politiet &#229; finne elektroniske spor vi kan bruke.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Det kan vere vanskeleg for politiet &#229; finne elektroniske spor vi kan bruke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">2.775</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>deling ofte er straffbart.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>og deling ofte er straffbart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.89636</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>Nakenbilder og sexvideoer som deles p&#229; nett, er vanskelige</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>Nakenbilete og sexvideoar som blir delte p&#229; nett, er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.79302</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-b.pdf.converted</prop>
+     <seg>Bekreftelse p&#229; form&#229;l med s&#248;knad om politiattest</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-n.pdf.converted</prop>
+     <seg>Stadfesting av f&#248;rem&#229;l med s&#248;knad om politiattest</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">2.45727</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-taushetsplikt.pdf.converted</prop>
+     <seg>Hvis du fyller ut dette skjemaet kan PU gi informasjon til andre som ikke er part i utlendingssaken din, for eksempel journalister.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-teieplikt.pdf.converted</prop>
+     <seg>Viss du fyller ut dette skjemaet kan PU gi informasjon til andre som ikkje er part i utlendingssaka di, som til d&#248;mes journalistar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.77391</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>som ikke har gitt samtykke</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>som ikkje har gjeve samtykke</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">2.82937</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>Her er litt om hva som er lov og ikke lov.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>Her er litt om kva som er lov og ikkje lov.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">2.45</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <seg>det som spesielt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <seg>det som spesielt gjeld</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">2.39211</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-drive-handel-med-skytevapen.pdf.converted</prop>
+     <seg>e) Disse arter ammunisjon til teknisk bruk:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-driva-handel-med-skytevapen.pdf.converted</prop>
+     <seg>e) Desse typane ammunisjon til teknisk bruk:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">2.175</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <seg>uhell med elsparkesykler i h&#248;y fart.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <seg>uhell med elsparkesyklar i h&#248;g fart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.635</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-tillatelse-til-ervervsmessig-innforsel-av-vapen.pdf.converted</prop>
+     <seg>sted og dato</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/skjema-om-loyve-til-a-fore-inn-skytevapen.pdf.converted</prop>
+     <seg>stad og dato</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">2.538</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>Er det snakk om et samarbeid?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Er det snakk om eit samarbeid?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-drive-handel-med-skytevapen.pdf.converted</prop>
+     <seg>og ammunisjon til disse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-driva-handel-med-skytevapen.pdf.converted</prop>
+     <seg>og ammunisjon til desse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">2.49079</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/skjema-for-klage-pa-tvangsforretning..pdf.converted</prop>
+     <seg>har rett til &#229; f&#229; klagen pr&#248;vd for tingretten, hvis klagen til namsmannen ikke f&#248;rer frem.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/skjema-for-klage-pa-tvangsforretning.pdf.converted</prop>
+     <seg>dersom klagen til namsmannen ikkje f&#248;rar fram, har du rett til &#229; f&#229; klagen pr&#248;vd for tingretten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">2.68255</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <seg>kj&#248;ret&#248;yforskriften, trafikkreglene og forskrift om krav til sykkel.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <seg>k&#248;yrety, trafikkreglane og forskrift om krav til sykkel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">2.5428</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-taushetsplikt.pdf.converted</prop>
+     <seg>Det kan v&#230;re fordi informasjonen omhandler andre personer som ikke har l&#248;st oss fra taushetsplikten eller fordi det vil hindre oss i &#229; gj&#248;re jobben v&#229;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-teieplikt.pdf.converted</prop>
+     <seg>Det kan vere fordi informasjonen omhandler andre personar som ikkje har l&#248;yst oss fr&#229; teieplikta eller fordi det vil hindre oss i &#229; gjere jobben v&#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">2.694</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>For eksempel har Schengen-samarbeidet &#229;pnet grensene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>For eksempel har Schengen-samarbeidet opna grensene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">2.39167</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/pass-og-id-kort/fullmakt---soknad-om-pass-og-id-kort-bm.pdf.converted</prop>
+     <seg>fylle ut et skjema for hvert barn/umyndig</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/pass-og-id-kort/fullmakt---soknad-om-pass-og-id-kort-nn.pdf.converted</prop>
+     <seg>fylle ut eit skjema for kvart barn/umyndig</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">2.05571</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utkastelse/varsel-om-ubetalt-husleie.pdf.converted</prop>
+     <seg>Fravikelse kan unng&#229;s dersom leien med renter og utenrettslige kostnader blir betalt f&#248;r fravikelse gjennomf&#248;res.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utkastelse/varsel-om-ubetalt-husleige.pdf.converted</prop>
+     <seg>Fr&#229;viking kan unng&#229;ast dersom leiga med renter og utanrettslege kostnader blir betalt f&#248;r fr&#229;viking blir gjennomf&#248;rt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.98352</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/20/ny-tjeneste-mobile-pass-og-id-kontor/</prop>
+     <prop type="source-document">https://www.politiet.no/en/aktuelt-tall-og-fakta/aktuelt/news/2021/08/20/ny-tjeneste-mobile-pass-og-id-kontor/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/20/ny-tjeneste-mobile-pass-og-id-kontor/</prop>
+     <seg>p&#229; politiet.no som oppdateres fortl&#248;pende.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/en/aktuelt-tall-og-fakta/aktuelt/news/2021/08/26/passbussen-pa-veg-mot-more-og-romsdal/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/26/passbussen-pa-veg-mot-more-og-romsdal/</prop>
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/26/passbussen-pa-veg-mot-more-og-romsdal/</prop>
+     <seg>p&#229; politiet.no som vert oppdaterte fortl&#248;pande.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">2.595</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>Snakk med barna dine, still sp&#248;rsm&#229;l og fortell om konsekvensene av ulovlig bildedeling &#8211; slik kan du sette barnet ditt i stand til &#229; ta gode valg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>Snakk med borna dine, still sp&#248;rsm&#229;l og fortel om konsekvensane av ulovleg biletdeling &#8211; slik kan du sette barnet ditt i stand til &#229; ta gode val.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">2.36538</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>Det er uansett</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>Det er uansett forbode &#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.92803</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/politiet_delbart_bilderespons-2_a3_plakat_gul.pdf.converted</prop>
+     <seg>Det er ikke lov &#229; be om nakenbilder fra noen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/politiet_delbart_bilderespons_a3_plakat-nynorsk_gul.pdf.converted</prop>
+     <seg>Det er ikkje lov &#229; be om nakenbilde fr&#229; nokon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">1.48889</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>seksualiserte bilder til noen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>seksualiserte bilete til nokon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utkastelse/varsel-okkupasjon-tvangsfullbyrdelsesloven-paragraf-4-18.pdf.converted</prop>
+     <seg>(Ulike &#229;rsaker kan v&#230;re:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/utkastelse/varsel-okkupasjon-tvangsfullforingslova-paragraf-4-18.pdf.converted</prop>
+     <seg>(Ulike &#229;rsaker kan vere:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.92483</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-drive-handel-med-skytevapen.pdf.converted</prop>
+     <seg>skytev&#229;pen (Lovens &#167;&#167; 5 a og 5 b)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-driva-handel-med-skytevapen.pdf.converted</prop>
+     <seg>skytev&#229;pen (&#167;&#167; 5a og 5b i lova)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak-bm.pdf.converted</prop>
+     <seg>Sistnevnte attest eller utskrift m&#229; gi opplysninger om navn, adresse for forretningssted eller hovedkontor og eventuelt utenlandsk organisasjonsnummer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak.pdf.converted</prop>
+     <seg>Sistnemnte attest eller utskrift m&#229; gi opplysningar om namn, adresse for forretningsstad eller hovudkontor og eventuelt utanlandsk organisasjonsnummer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">2.43441</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak-bm.pdf.converted</prop>
+     <seg>S&#248;knadsskjema skal dateres og signeres av den som har signaturrett for foretaket.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak.pdf.converted</prop>
+     <seg>S&#248;knadsskjema skal daterast og signerast av den som har signaturrett for f&#248;retaket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">3.92158</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/gjeldsordning/soknad-om-gjeldsforhandling.pdf.converted</prop>
+     <seg>namsmyndighetene fullmakt til &#229; innhente opplysninger etter lovens &#167; 2-1, uten hinder av taushetsplikt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/gjeldsordning/soknad-om-gjeldsforhandling_nynorsk.pdf.converted</prop>
+     <seg>namsstyresmaktene fullmakt til &#229; innhente opplysningar etter &#167; 2-1 i lova, utan hinder av teieplikta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>p&#229; n&#230;rmeste politistasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>p&#229; n&#230;rmaste politistasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">2.43251</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/fullmakt-til-behandling-av-utlendingssaker.pdf.converted</prop>
+     <seg>Jeg gir fullmektigen innsyn i alle</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/fullmakt-til-behandling-av-utlendingssaker-nynorsk.pdf.converted</prop>
+     <seg>Eg gir fullmektigen innsyn i alle</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">2.4745</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>grensene for hvordan det er greit &#229; oppf&#248;re seg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>grensene for korleis det er greitt &#229; oppf&#248;re seg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">2.50771</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>Det er dermed dere selv og ingen andre som har ansvaret for at elsykkelen er i forskriftsmessig stand og ikke overstiger de maksimumsgrensene som er satt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>Derfor er det dykk og ingen andre som har ansvar for at elsykkelen er i forskriftsmessig stand og ikkje overstig dei maksimumsgrensene som er sett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">3.34254</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-b.pdf.converted</prop>
+     <seg>Gyldig legitimasjon er pass, nasjonalt ID-kort, norsk bankkort med bilde, norsk f&#248;rerkort, Forsvarsdepartementets ID-kort (fra 2004), gyldig postens ID-kort utstedt etter 01.10.94, nasjonalt ID-kort utstedt innenfor E&#216;S-omr&#229;det, norsk reisebevis for flyktninger (gr&#248;nt pass), norsk utlendingspass (bl&#229;tt pass) og oppholdstillatelseskort (begge sider).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-n.pdf.converted</prop>
+     <seg>Gyldig legitimasjon er pass, nasjonalt ID-kort, norsk bankkort med bilete, norsk f&#248;rarkort, Forsvarsdepartementets ID-kort (fr&#229; 2004), gyldig postens ID-kort utskriven etter 01.10.94, nasjonalt ID-kort utskriven innanfor E&#216;S-omr&#229;det, norsk reisebevis for flyktningar (gr&#248;nt pass), norsk utlendingspass (bl&#229;tt pass) og opphaldsl&#248;yvekort (begge sider).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">2.75882</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>kontroll over det de har delt &#8211; og da er det som regel for sent.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>kontroll over det dei har delt &#8211; og d&#229; er det som regel for seint.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">3.19286</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/more-og-romsdal/alesund-politistasjon/</prop>
+     <seg>Hvis han eller ho ikke har pass fr&#229; f&#248;r, m&#229; du f&#229; med annan gyldig legitimasjon eller stadfesta kopi (rett kopi) av denne.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/en/om/organisasjonen/police-districts/more-og-romsdal-politidistrikt/alesund-politistasjon/</prop>
+     <seg>Hvis han eller ho ikkje har pass fr&#229; f&#248;r, m&#229; du f&#229; med annan gyldig legitimasjon eller stadfesta kopi (rett kopi) av denne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">2.78966</prop>
+    <prop type="score-bicleaner">0.553</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>Slik er de kriminelle nettverkene</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Slik er dei kriminelle nettverka</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">3.97522</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>Selve definisjonen p&#229; hva som er lovlig elsykkel og elsparkesykkel st&#229;r i &#167; 2 i forskrift om krav til sykkel.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>Sj&#248;lve definisjonen p&#229; kva som er lovleg elsykkel og elsparkesykkel st&#229;r i &#167; 2 i forskrifta om krav til sykkel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">2.42063</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>Det gjelder ogs&#229; for kriminelle.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Det gjeld ogs&#229; for kriminelle.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">2.62424</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/kontakt-oss/nod-sms/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/ost/fredrikstad-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/ost/ullensaker-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/tall-og-fakta/drapsoversikt/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/ost/moss-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/trondelag/trondheim-lufthavn-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/more-og-romsdal/heroy-og-sande-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/ost/indre-ostfold-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/nordland/oksnes-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/sor-vest/sokndal-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/vest/austevoll-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/sarorganene/politiets-utlendingsenhet/nasjonalt-ankomstsenter-rade/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/sarorganene/grensekommissariatet/</prop>
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/sarorganene/okokrim/</prop>
+     <seg>Har du sp&#248;rsm&#229;l eller trenger du hjelp?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/trondelag/trondheim-lufthavn-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/sarorganene/grensekommissariatet/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/ost/ullensaker-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/vest/austevoll-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/sor-vest/sokndal-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/nordland/oksnes-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/tall-og-fakta/drapsoversikt/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/sarorganene/okokrim/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/sarorganene/politiets-utlendingsenhet/nasjonalt-ankomstsenter-rade/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/ost/moss-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/ost/indre-ostfold-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/ost/fredrikstad-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/more-og-romsdal/heroy-og-sande-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/kontakt-oss/nod-sms/</prop>
+     <seg>Har du sp&#248;rsm&#229;l, eller treng du hjelp?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">2.50723</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>Felles tiln&#230;rming og felles avtalte begrensninger er lettere &#229; fronte enn at hvert barn f&#229;r eget regelsett.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>Felles tiln&#230;rming og felles avtalte avgrensingar er lettare &#229; fronte enn at kvart barn f&#229;r eige regelsett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">2.51597</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>Ungdom m&#229; vite at de kan snakke med sine foresatte el er andre voksne de stoler p&#229;, hvis de er bekymret for noe som har</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>Ungdom m&#229; vite at dei kan snakke med dei f&#248;resette el er andre vaksne dei stoler p&#229;, viss dei er bekymra for noko som har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">1.15909</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak-bm.pdf.converted</prop>
+     <seg>Kopi av legitimasjon Firmaattest fra Br&#248;nn&#248;ysundregisteret er vedlagt s&#248;knad om politiattest.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak.pdf.converted</prop>
+     <seg>Kopi av legitimasjon Firmaattest fr&#229; Br&#248;nn&#248;ysundregisteret er vedlagt s&#248;knad om politiattest.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">2.82279</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-taushetsplikt.pdf.converted</prop>
+     <seg>Det betyr at vi ikke kan gi informasjon om barna dine, ektefellen din eller andre familiemedlemmer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-teieplikt.pdf.converted</prop>
+     <seg>Det betyr at vi ikkje kan gi informasjon om borna dine, ektefellen din eller andre familiemedlemmar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">2.95856</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>Ikke la dine bli del av skadestatistikken.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>Ikkje la dine bli del av skadestatistikken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">2.29333</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/gjeldsordning/soknad-om-gjeldsforhandling.pdf.converted</prop>
+     <seg>F&#248;r gjeldsforhandling etter loven kan &#229;pnes skal s.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/gjeldsordning/soknad-om-gjeldsforhandling_nynorsk.pdf.converted</prop>
+     <seg>F&#248;r gjeldsforhandling etter lova kan opnast, skal s.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">2.05652</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-drive-handel-med-skytevapen.pdf.converted</prop>
+     <seg>Jeg forplikter meg til &#229; rette meg samvittighetsfullt etter de bestemmelser som gjelder for</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-driva-handel-med-skytevapen.pdf.converted</prop>
+     <seg>Eg forpliktar meg til &#229; rette meg samvitsfullt etter dei reglane som gjeld for den</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.98271</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>Nettverkene bruker ofte lovlige virksomheter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Nettverka bruker ofte lovlege verksemder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/20/ny-tjeneste-mobile-pass-og-id-kontor/</prop>
+     <prop type="source-document">https://www.politiet.no/en/aktuelt-tall-og-fakta/aktuelt/news/2021/08/20/ny-tjeneste-mobile-pass-og-id-kontor/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/20/ny-tjeneste-mobile-pass-og-id-kontor/</prop>
+     <seg>S&#248;knadsprosessen er den samme som p&#229; et vanlig pass- og ID-kontor.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/en/aktuelt-tall-og-fakta/aktuelt/news/2021/08/26/passbussen-pa-veg-mot-more-og-romsdal/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/26/passbussen-pa-veg-mot-more-og-romsdal/</prop>
+     <prop type="source-document">https://www.politiet.no/aktuelt-tall-og-fakta/aktuelt/nyheter/2021/08/26/passbussen-pa-veg-mot-more-og-romsdal/</prop>
+     <seg>S&#248;knadsprosessen er den same som p&#229; eit vanlig pass- og ID-kontor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">2.00739</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak-bm.pdf.converted</prop>
+     <seg>For foretak som ikke er registrert i foretaksregisteret fremlegges utskrift fra enhetsregisteret.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak.pdf.converted</prop>
+     <seg>For f&#248;retak som ikkje er registrert i foretaksregisteret framleggas utskrift fr&#229; einingsregisteret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">2.085</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>bort dersom gutten/jenta har et nakenbilde av</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>dersom guten/jenta har eit nakenbilete av nokon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>Om pliktene til g&#229;ende:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>Om pliktene til g&#229;ande:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">2.47282</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>Hvis stillingen, oppdraget eller vervet er midlertidig, skal dato for opph&#248;r av stilling, oppdrag eller verv angis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>Viss stillinga, oppdraget eller vervet er mellombels, skal dato for opph&#248;yr av stilling, oppdrag eller verv fyllast ut.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---bokmal-2021.pdf.converted</prop>
+     <seg>Sted, dato og underskrift</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---nynorsk-2021.pdf.converted</prop>
+     <seg>Stad, dato og underskrift</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">2.57983</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-tillatelse-til-ervervsmessig-innforsel-av-vapen.pdf.converted</prop>
+     <seg>Tillatelse til &#229; drive handel med skytev&#229;pen, v&#229;pendeler eller ammunisjon er gitt av politimesteren i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/skjema-om-loyve-til-a-fore-inn-skytevapen.pdf.converted</prop>
+     <seg>L&#248;yve til &#229; drive handel med skytev&#229;pen, v&#229;pendelar eller ammunisjon er gitt av politimeisteren i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">1.77273</prop>
+    <prop type="score-bicleaner">0.591</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <seg>Mer om dette</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <seg>Meir om dette</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">2.39093</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/en/om/organisasjonen/police-districts/troms-politidistrikt/namsfogden-i-troms/</prop>
+     <seg>Om du ikke har en sak, kontakt oss p&#229; post.troms@politiet.no</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/en/om/organisasjonen/police-districts/more-og-romsdal-politidistrikt/namsfogden-i-alesund/</prop>
+     <seg>Om du ikkje har ei sak, kontakt oss p&#229; namsfogden.alesund@politiet.no</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">2.78929</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>Politiet har sett mange saker der ungdom sender et nakenbilde til</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>Politiet har sett mange saker der ungdom sender eit nakenbilete til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">2.41113</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-drive-handel-med-skytevapen.pdf.converted</prop>
+     <seg>Jeg har f&#248;lgende s&#230;rlige kvalifikasjoner for &#229; drive handel med skytev&#229;pen, v&#229;pendeler eller ammunisjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-driva-handel-med-skytevapen.pdf.converted</prop>
+     <seg>Eg har dei kvalifikasjonane som er naudsynte for &#229; drive handel med skytev&#229;pen, v&#229;pendelar eller ammunisjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/rad/organisert-kriminalitet/</prop>
+     <seg>De tilpasser seg raskt utviklingen i samfunnet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/rad/organisert-kriminalitet/</prop>
+     <seg>Dei tilpassar seg raskt utviklinga i samfunnet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">3.02727</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/more-og-romsdal/alesund-politistasjon/</prop>
+     <seg>Gi beskjed med en gong du er p&#229; plass.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/en/om/organisasjonen/police-districts/more-og-romsdal-politidistrikt/alesund-politistasjon/</prop>
+     <seg>Gi beskjed med ein gong du er p&#229; plass.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">2.33596</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-drive-handel-med-skytevapen.pdf.converted</prop>
+     <seg>den virksomhet som jeg s&#248;ker om &#229; f&#229; drive, og de p&#229;legg politiet gir om sikring mot tyveri.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-bevilling-til-a-driva-handel-med-skytevapen.pdf.converted</prop>
+     <seg>verksemda eg s&#248;kjer om &#229; f&#229; drive, og dei p&#229;legga politiet gir om sikring mot tjuveri.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">2.175</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>Ta skjermbilder og dokumenter hvem som har</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>Ta skjermbilete og dokumenter kven som har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">2.56634</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-taushetsplikt.pdf.converted</prop>
+     <seg>Politiets utlendingsenhet (PU) er bundet av lovp&#229;lagt taushetsplikt og kan derfor ikke gi informasjon vi har om deg eller saken din til andre uten at du samtykker til det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/pu/om-pu/skjema-for-fritak-av-teieplikt.pdf.converted</prop>
+     <seg>Politiet si utlendingseining (PU) er bunden av lovp&#229;lagt teieplikt og kan derfor ikkje gi informasjon vi har om deg eller saka di til andre utan at du samtykker til det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">2.07391</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/soknad-om-tillatelse-til-ervervsmessig-innforsel-av-vapen.pdf.converted</prop>
+     <seg>Dokument som viser verdien (kj&#248;pesummen) f&#248;lger vedlagt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/vapen/skjema-om-loyve-til-a-fore-inn-skytevapen.pdf.converted</prop>
+     <seg>Dokument som syner verdien (kj&#248;pesummen) er lagt ved</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">1.48696</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>ikke sender nakenbilder.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>ikkje sender nakenbilete.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">3.94286</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/om/organisasjonen/politidistrikter/more-og-romsdal/alesund-politistasjon/</prop>
+     <seg>S&#248;ker du om pass eller ID-kort med reiserett til barn og ungdom under 18 &#229;r, eller ID-kort uten reiserett til barn under 13 &#229;r, m&#229; minst en av foreldra m&#248;te opp saman med barnet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/en/om/organisasjonen/police-districts/more-og-romsdal-politidistrikt/alesund-politistasjon/</prop>
+     <seg>S&#248;ker du om pass eller ID-kort med reiserett til barn og ungdom under 18 &#229;r, eller ID-kort uten reiserett til barn under 13 &#229;r, m&#229; minst ein av foreldra m&#248;te opp saman med barnet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">2.14124</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/tvangsdekning-tilbakelevering-og-tvangssalg/begjaring-om-tvangssals-losore.pdf.converted</prop>
+     <seg>(Har saks&#248;kte betalt flere avdrag m&#229; dette spesifiseres p&#229; eget ark) Videre kreves saksomkostninger i denne saken og renter frem til betaling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/namsmann-og-forliksrad/tvangsdekning-tilbakelevering-og-tvangssalg/Kravsmal-om-tvangssal-lausore.pdf.converted</prop>
+     <seg>(Har den saks&#248;kte betalt fleire avdrag, m&#229; det spesifiserast p&#229; eige ark.) Vidare krev ein sakskostnader i denne saka og renter fram til betaling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">2.82812</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>Det er stort skadepotensial med raske kj&#248;ret&#248;y og det er ditt ansvar</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>Det er stort skadepotensial med raske k&#248;yrety og det er ditt ansvar som</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">2.8</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsparkesykkel-bokmal</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-elsykkel-1.pdf.converted</prop>
+     <seg>Usikker p&#229; hvordan du skal stille deg til lovverket satt opp mot det som barna vil?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sparkesykkel-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/more-og-romsdal/rad-om-el-sykkel-nynorsk.pdf.converted</prop>
+     <seg>Usikker p&#229; korleis du skal stille deg til lovverket sett opp mot det som barna vil?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">3</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/sor-ost/seljord-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/ost/aurskog-holand-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/nordland/svolvar-politistasjon/</prop>
+     <seg>Du f&#229;r dessverre ikke svar p&#229; tilbakemeldinga di.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/sor-ost/rjukan-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/ost/halden-politistasjon/</prop>
+     <prop type="source-document">https://www.politiet.no/nn/om/organisasjonen/politidistrikter/nordland/vest-lofoten-politistasjon/</prop>
+     <seg>Du f&#229;r dessverre ikkje svar p&#229; tilbakemeldinga di.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politattestbm</prop>
+     <seg>Navn p&#229; s&#248;ker av politiattest</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/kreve-politiattest-fornyet-vandelskontr/bekreftelse-pa-formal-med-politiattestnyn.pdf.converted</prop>
+     <seg>Namn p&#229; s&#248;kar av politiattest</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---bokmal-2021.pdf.converted</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak-bm.pdf.converted</prop>
+     <seg>Postnummer og sted</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/soknad-per-post/soknad-om-politiattest-for-foretak.pdf.converted</prop>
+     <prop type="source-document">https://www.politiet.no/globalassets/02-tjenester-admin/politiattest/underskriftskjema/underskriftsskjema-foresatte---nynorsk-2021.pdf.converted</prop>
+     <seg>Postnummer og stad</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">2.16667</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/05-om-oss/schengen-information-system/begjaring-om-innsyn-i-schengen-informasjonssystem-sis.pdf.converted</prop>
+     <seg>I slike tilfeller b&#248;r barnet informeres.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/05-om-oss/innsyn/forespurnad-om-innsyn-i-schengen-informasjonssystem.pdf.converted</prop>
+     <seg>I slike tilfelle b&#248;r barnet bli informert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">2.46643</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_bm.pdf.converted</prop>
+     <seg>videresende, men vet de at det er straffbart?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.politiet.no/globalassets/dokumenter/kripos/delbart/delbart_brosjyre_nn.pdf.converted</prop>
+     <seg>vidaresende, men veit dei at det er straffbart?</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,1228 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221218T231720" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.08318</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>The regulatory body may ask the applicant to provide additional information.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Reguleringsorganet kan be s&#248;keren om &#229; gi ytterligere opplysninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.43125</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>A principal purpose test may be requested by the following entities:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>F&#248;lgende enheter kan anmode om pr&#248;ving av hovedform&#229;l:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.01151</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/00_generell/english/pdf-files/guidance-for-application-for-safety-certificate-part-b.pdf.converted</prop>
+     <seg>The process of applying for a new safety certificate part B may be extensive, and the required documentation is comprehensive.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/tilsyn/tilsynsrapporter/2000-01.pdf.converted</prop>
+     <seg>Tilsynet vil likevel uttrykke forventing om at avvik vedr&#248;rende oppf&#248;lging og vedlikehold av hjul og aksler gis h&#248;y prioritet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.15909</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>unless incurred by operation of the train service;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>mindre de oppst&#229;r som en f&#248;lge av driften av togtjenesten,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.02497</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>The Operation Regulation &#167; 1-1 paragraph four and the ERTMS Operation Regulation &#167; 1-1 paragraph two both declare that TSI OPE supersedes national rules in case of conflict.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Det fremg&#229;r av togframf&#248;ringsforskriften &#167; 1-1 fjerde ledd og ERTMS-togframf&#248;ringsforskriften &#167; 1-1 annet ledd at TSI OPE g&#229;r foran bestemmelser i disse forskriftene ved eventuell motstrid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.87833</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>According to chapter 5, there are no interoperability constituents for the subsystem operation and traffic management.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Kapittel 5 angir at det ikke finnes noen samtrafikkomponenter for delsystemet drift og trafikkstyring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.17435</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>If it does not, it shall communicate its refusal to the party requesting confidentiality.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>I motsatt fall skal det melde sitt avslag til den parten som har anmodet om fortrolighet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.8636</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>Chapter 2 contains the essential definitions, and defines the types of personnel subject to health and qualifications requirements.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Kapittel 2 inneholder sentrale definisjoner og trekker grenser for hvilke typer personell det stil es helse- og kvalifikasjonskrav til.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.44074</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>Chapter 4 lists the functional and technical requirements and specifies the interfaces to the other subsystems.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Kapittel 4 angir de enkelte kravene til delsystemet og grensesnittene mot andre delsystemer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.634</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>The requirements of the TSI OPE apply to infrastructure managers and railway undertakings related to the operation of trains on the national railway network, see TSI chapter 2.2 and the Interoperability Regulation &#167; 7.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Kravene i TSIen gjelder if&#248;lge kapittel 2.2 "for infrastrukturforvaltninger og jernbaneforetak i forbindelse med drift av tog" p&#229; det nasjonale jernbanenettet, jf. samtrafikkforskriften &#167; 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.13362</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>In accordance with Articles 10 and 11 of Directive 2004/49/EC, railway undertakings and infrastructure managers must demonstrate compliance with the requirements of this TSI within their safety management system when applying for any new or amended safety certificate or safety authorisation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>I samsvar med artikkel 10 og 11 i direktiv 2004/49/EF m&#229; jernbaneforetaket og infrastrukturforvaltningen vise at de oppfyller kravene i denne TSI-en innenfor sine sikkerhetsstyringssystemer, n&#229;r de s&#248;ker om nye eller endrede sikkerhetssertifikater eller sikkerhetsgodkjenninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.33346</prop>
+    <prop type="score-bicleaner">0.706</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>Entities having the right to request for a principal purpose test</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Enheter med rett til &#229; anmode om pr&#248;ving av hovedform&#229;l</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.04143</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>(e) traction power of the motorised unit;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>e) den motordrevne enhetens trekkraft,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.22591</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>The text must be read with the normal EEA adaptations following from the EEA Agreement, especially Protocol 1 to the Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Teksten m&#229; leses med de normale E&#216;S-tilpasningene som f&#248;lger av E&#216;S-avtalen, s&#230;rlig protokoll 1 til avtalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.15005</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(e) information and documentation supporting explanations in (c) and (d).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>e) Opplysninger og dokumentasjon som underbygger forklaringene i bokstav c) og d).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.29032</prop>
+    <prop type="score-bicleaner">0.710</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>Result of the principal purpose test</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Resultat av pr&#248;ving av hovedform&#229;l</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.32805</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>b) Chapter 4.2.3.5 (Data recording) shall be implemented on new or significantly upgraded</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>b) Bestemmelsene i punkt 4.2.3.5 (Registrering av data) skal gjennomf&#248;res for nytt eller vesentlig</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.02568</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/00_generell/english/pdf-files/unofficial-translation-kjoretoyforskrift-en.pdf.converted</prop>
+     <seg>requirements laid down in these regulations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/tilsyn/tilsynsrapporter/2001-05.pdf.converted</prop>
+     <seg>Disse er ikke dekkende for Gardermobanen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.02447</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(a) whether the principal purpose of a rail service is to carry passengers between stations located in different Member</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>a) om hovedform&#229;let med en jernbanerute er persontransport mellom stasjoner i forskjellige medlemsstater,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.67843</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>It can be derived from the principle of loyalty expressed in Article 3 of the EEA Agreement that a situation in which the same rule or requirement are based both in an EEA legal act and a national rule should be avoided.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Lojalitetsplikten som f&#248;lger av E&#216;S-avtalens artikkel 3 inneb&#230;rer at det b&#248;r tilstrebes en situasjon der samme forhold ikke er regulert b&#229;de i en E&#216;S-rettsakt og i nasjonal lovgivning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.0125</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/den-fjerde-jernbanepakken/era-presentasjoner/4th-railway-package---type-authorisation-and-vehicle-apom.pdf.converted</prop>
+     <seg>All rights reserved</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/veiledning/veiledere/virkemiddelbruk/veileder-om-virkemiddelbruk---februar-2017.pdf.converted</prop>
+     <seg>Vilk&#229;r for lisens</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.03525</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>respecting the confidentiality of commercially sensitive information.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>forretningsmessig f&#248;lsomme opplysninger skal behandles fortrolig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.26346</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/00_generell/english/pdf-files/guidance-for-application-for-safety-certificate-part-b.pdf.converted</prop>
+     <seg>Application for an amended B-certificate</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/tilsyn/tilsynsrapporter/2000-01.pdf.converted</prop>
+     <seg>Arbeidsordre (arbeidskort) for vekselkontroll er ikke S-merket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.26287</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>If a principal purpose test reveals that the principal purpose of the proposed service is other than to carry passen&#173;gers between stations located in different Member States and a negative decision is taken, the economic equilibrium test shall be terminated by a decision referring to this negative decision on the principal purpose of the proposed service.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>pr&#248;ving av hovedform&#229;l avdekker at den foresl&#229;tte ruten har et annet hovedform&#229;l enn persontransport mellom stasjoner i forskjellige medlemsstater, og det treffes en negativ beslutning, skal pr&#248;vingen av &#248;konomisk likevekt avsluttes med en beslutning som viser til denne negative beslutningen om den foresl&#229;tte rutens hovedform&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.59759</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/andre-valg/skjemaer/jernbane/registrering-av-godkjent-kjoretoy/registrationform-vehicles_en.docx.converted</prop>
+     <seg>in conformity with Directive 2008/57/EC and applicable national legislation</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/andre-valg/skjemaer/jernbane/registrering-av-godkjent-kjoretoy/registreringsskjema-kjoretoy_nb.docx.converted</prop>
+     <seg>i samsvar med direktiv 2008/57/EF og gjeldende nasjonal lovgivning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.24621</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>(h) costs of track-side sensors, track-side communication equipment and signalling equipment if not directly incurred</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>h) kostnader tilknyttet sensorer og kommunikasjons- og signalutstyr langs sporet, dersom de ikke oppst&#229;r som en direkte f&#248;lge av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.12381</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(a) from the competent authority:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>a) fra vedkommende myndighet:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.07608</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>No thresholds should be determined in national legislative acts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Det b&#248;r ikke fastsettes noen terskelverdier i nasjonale lovbestemmelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.83421</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>The Member States must prepare a national implementation plan according to Article 3d (2).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Medlemsstatene er forpliktet til &#229; utarbeide en nasjonal gjennomf&#248;ringsplan etter artikkel 3d nr. 2 tilsvarende denne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.50278</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>If the regulatory body takes a decision referred to in point (b) of paragraph 1, the regulatory body shall requalify</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Dersom reguleringsorganet treffer en beslutning som nevnt i nr. 1 bokstav b), skal reguleringsorganet omgj&#248;re s&#248;knaden til en</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.11795</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(a) the applicant's name, address, legal entity, registration number (if appropriate);</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>a) S&#248;kerens navn, adresse, rettssubjekt, registreringsnummer (dersom det er relevant).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.03125</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(b) from the railway undertaking performing the public service contract:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>b) fra jernbaneforetaket som utf&#248;rer kontrakten om offentlig tjenesteyting:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.0426</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/en/railway/our-digital-conference-on-timely-topics/</prop>
+     <seg>In addition, Minister of Transport Knut Arild Hareide gives his greetings to the railway sector in a time affected by the pandemic.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/jernbane/nyheter/sjt-konferansen-pa-nett/</prop>
+     <seg>Dessuten gir samferdselsminister Knut Arild Hareide sin hilsen til bransjen i dette &#229;ret som ble s&#229; annerledes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.74094</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>In accordance with Article 10 of Directive 2012/34/EU, Member States have opened their market for international&#173;al rail passenger transport services provided by any railway undertaking licensed under the same Directive.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>I samsvar med artikkel 10 i direktiv 2012/34/EU har medlemsstatene &#229;pnet markedet for internasjonal persontransport med jernbane som ytes av jernbaneforetak med lisens i henhold til nevnte direktiv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.03333</prop>
+    <prop type="score-bicleaner">0.712</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/en/railway/our-digital-conference-on-timely-topics/</prop>
+     <seg>Security and safety</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/jernbane/nyheter/sjt-konferansen-pa-nett/</prop>
+     <seg>Sikkerhet og sikring</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.476</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/den-fjerde-jernbanepakken/era-presentasjoner/4th-railway-package---one-stop-shop.pdf.converted</prop>
+     <seg>Uncontrolled when printed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/tilsyn/tilsynsrapporter/2018-08.pdf.converted</prop>
+     <seg>det ble hyppige forsinkelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.25135</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>a) Chapter 4.2.2.6 (Train braking) shall be implemented on lines equipped with ERTMS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>a) Bestemmelsene i punkt 4.2.2.6 (Bremsing av toget) skal gjennomf&#248;res p&#229; strekninger som bygges ut</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.44024</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>commercially sensitive information, without delay and inform thereof the entities referred to in Article 5 or 10, as appropriate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>opplysninger, og underrette enhetene nevnt i artikkel 5 eller 10, alt etter hva som er relevant.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.10756</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>values for each such parameter, including variation to each such parameter where relevant, are objectively measured and recorded.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>hver av disse parametrene, herunder variasjon for hver slik parameter n&#229;r det er relevant, er fastsatt og registrert p&#229; en objektiv m&#229;te.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.17378</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>In accordance with Article 11 of Directive 2012/34/EU, Member States may limit the right of access to the market where that right would compromise the economic equilibrium of those public service contracts.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>I samsvar med artikkel 11 i direktiv 2012/34/EU kan medlemsstatene begrense retten til markedsadgang dersom denne retten vil kunne skade den &#248;konomiske likevekten i disse kontraktene om offentlig tjenesteyting.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.31021</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>TSI OPE is taken into Norwegian law with legal base in the Interoperability Regulation&#167; 3 paragraph six (now paragraph eight).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>TSI OPE er tatt inn i norsk rett med hjemmel i samtrafikkforskriften &#167; 3 sjette ledd (n&#229; &#229;ttende ledd).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.59273</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(b) any other interested competent authority with a right to limit access under Article 11of Directive 2012/34/EU;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>b) Enhver annen ber&#248;rt vedkommende myndighet med rett til &#229; begrense adgangen i henhold til artikkel 11 i direktiv 2012/34/EU.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.8493</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>Simplified controls as referred to in paragraphs 1 and 2 shall be applied independently from one another.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Forenklede kontroller som nevnt i nr. 1 og 2, skal anvendes uavhengig av hverandre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.25941</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>At the request of competent authorities or interested railway undertakings, the regulatory body referred to in Section 4 of Chapter IV of Directive 2012/34/EU should determine the prin&#173;cipal purpose of a proposed new service.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>P&#229; anmodning fra vedkommende myndigheter eller ber&#248;rte jernbaneforetak b&#248;r reguleringsorganet nevnt i avsnitt 4 i kapittel IV i direktiv 2012/34/EU fastsl&#229; hovedform&#229;let med en foresl&#229;tt ny rute.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.41917</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>&#171;The operation and traffic management subsystem is a functional subsystem according to Annex II to Directive 2008/57/EC.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>&#171;Delsystemet &#171;Drift og trafikkstyring&#187; er et funksjonelt delsystem som definert i vedlegg II til direktiv 2008/57/EF.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.70832</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/en/railway/our-digital-conference-on-timely-topics/</prop>
+     <seg>Reiers&#248;l-Johnsen and host Eirik Norman Hansen outline the themes of the other films presented here.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/jernbane/nyheter/sjt-konferansen-pa-nett/</prop>
+     <seg>Reiers&#248;l-Johnsen og programleder Eirik Norman Hansen temaene som skal belyses de kommende ukene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.20134</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(a) to carry passengers between stations located in different Member States; or</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>a) persontransport mellom stasjoner som ligger i forskjellige medlemsstater, eller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.05451</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/tillatelser/guideline-for-ccs-authorisation-v2.pdf.converted</prop>
+     <seg>Guideline for CCS Authorisation on Rail Freight Corridors</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/tilsyn/tilsynsrapporter/2001-06.pdf.converted</prop>
+     <seg>Tilsynet hadde ikke ytterligere sp&#248;rsm&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">4.125</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/en/railway/our-digital-conference-on-timely-topics/</prop>
+     <seg>Activity in 2021</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/jernbane/nyheter/sjt-konferansen-pa-nett/</prop>
+     <seg>Aktivitet i 2021 november:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.03824</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>This procedure shall be without prejudice to an appeal procedure against this decision as provided for in national law.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Denne framgangsm&#229;ten ber&#248;rer ikke en eventuell adgang til &#229; klage p&#229; denne beslutningen i samsvar med nasjonal lovgivning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.17736</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>Chapter 7.1 of the TSI sets the principles for the implementation:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Punkt 7.1 i TSIen oppstiller prinsippene for gjennomf&#248;ring:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.16262</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>If it does not, it shall communicate its refusal to the applicant requesting confidentiality.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>I motsatt fall skal det melde sitt avslag til den s&#248;keren som har anmodet om fortrolighet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.50716</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>There is therefore still a possibility that national rules will be part of Norwegian legislation in 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Det er derfor en mulighet for at det likevel vil v&#230;re fastsatte nasjonale regler i norsk lovgiving i 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">4.47692</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>Implementation plan for the TSI OPE 2015/995/EU</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Gjennomf&#248;ringsplan for TSI OPE 2015/995/EU</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.09104</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>In other words, it is when granting, revising and supervising the safety certificates of railway undertakings and safety authorisations of infrastructure managers that the Norwegian Railway Authority verify the conformity with the relevant requirements in the TSI.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Det er med andre ord ved tildeling av, fornyelse av og tilsyn med jernbaneforetak og infrastrukturforvalters sikkerhetssertifikater og sikkerhetsgodkjenninger at Statens jernbanetilsyn verifiserer samsvar med de relevante kravene i TSIen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.24255</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>The requesting entity shall provide the following information:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Den anmodende enheten skal gi f&#248;lgende opplysninger:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.0396</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>The economic analysis should focus on the economic impact of the proposed new service on the public service contract as a whole, including the services specifically affected, for its whole time-scale.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Den &#248;konomiske analysen b&#248;r fokusere p&#229; den &#248;konomiske virkningen av den foresl&#229;tte nye ruten p&#229; kontrakten om offentlig tjenesteyting i sin helhet, herunder de rutene som s&#230;rlig ber&#248;res, i hele dens varighet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.50109</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>Requests by the entities referred to in Article 5 or 10, as appropriate, for a principal purpose test or for an</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Anmodninger fra enhetene nevnt i artikkel 5 eller 10, alt etter hva som er relevant, om pr&#248;ving av hovedform&#229;l eller pr&#248;ving av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.21003</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>(a) train length and/or number of vehicles in the train;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>a) togets lengde og/eller antall kj&#248;ret&#248;yer i toget,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.36827</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>Entities having the right to request an economic equilibrium test</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Enheter med rett til &#229; anmode om pr&#248;ving av &#248;konomisk likevekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.63939</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>Furthermore, the latest version of the TSI OPE is a regulation, and shall therefore be implemented in Norwegian law "as such", see Article 7 (a) of the EEA Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Videre er det slik at den siste versjonen av TSI OPE er en forordning, og dermed skal gjennomf&#248;res i norsk rett &#171;som s&#229;dan&#187;, jf. E&#216;S-avtalens artikkel 7 bokstav a.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.36286</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>Chapter 7 contains the framework for the implementation of the TSI, hereunder the strategic guidelines.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Kapittel 7 angir rammer for gjennomf&#248;ringen av TSIen, herunder strategiske f&#248;ringer. Denne gjennomf&#248;ringsplanen skal ta hensyn til disse f&#248;ringene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.06683</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(a) competent authorities that have concluded public service contracts for rail transport in a geographical area affected</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>a) Vedkommende myndigheter som har inng&#229;tt kontrakter om offentlig tjenesteyting for jernbanetransport i et geografisk omr&#229;de som</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.01951</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/00_generell/english/pdf-files/guidance-for-application-for-safety-certificate-part-b.pdf.converted</prop>
+     <seg>When applying for an amended safety certificate the relevant documentation must be submitted.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/tilsyn/tilsynsrapporter/2000-01.pdf.converted</prop>
+     <seg>Det blir imidlertid opplyst at S-merkede forhold p&#229; flytoget blir kontrollert av lokf&#248;rer gjennom uttaksprosedyren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.11134</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>In the currently ongoing revision of the TSI OPE, the European Union Agency for Railways has expressed that Appendix I will list permitted national rules.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>I revisjonen av TSI OPE som for tiden p&#229;g&#229;r, har Det europeiske jernbanebyr&#229;et (EUAR) uttrykt at det i tillegg I skal listes opp de omr&#229;dene der det er tillatt med nasjonale regler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.34006</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>In the request, the requesting entity shall provide the following information:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Den anmodende enheten skal gi f&#248;lgende opplysninger i anmodningen:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">3.61579</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>Simplified controls shall be without prejudice to Articles 31 or 56 of Directive 2012/34/EU.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Forenklede kontroller skal ikke ber&#248;re artikkel 31 eller artikkel 56 i direktiv 2012/34/EU.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.1441</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>(d) network-wide overhead costs, including overhead salaries and pensions;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>d) felleskostnader for hele jernbanenettet, herunder til l&#248;nninger og pensjoner,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.04085</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>The principles for the conformity assessments of the rules in the TSI are to be found in clause 6.2.1:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Prinsippene for verifisering av samsvar med kravene i TSIen f&#248;lger av punkt 6.2.1:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.14412</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(c) the infrastructure manager in the geographical area covered by the proposed new international passenger service;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>c) Infrastrukturforvaltningen i det geografiske omr&#229;det som omfattes av den foresl&#229;tte nye internasjonale persontransportruten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.99934</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(1) &#8216;new international passenger service&#8217; means an international passenger service that is proposed to be introduced on</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>1) &#171;ny internasjonal persontransportrute&#187; en internasjonal persontransportrute som foresl&#229;s innf&#248;rt p&#229; markedet eller inneb&#230;rer en</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.21064</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/veiledning/veiledere/tillatelser/guidance-for-application-for-safety-certificate-part-b-march-2017.pdf.converted</prop>
+     <seg>(Regulations on vehicles on the national railway network) concerning</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/03_taubane/pdf/veiledning/veileder-risikostyring-taubane-fornoyelsesinnretninger-mars-2019.pdf.converted</prop>
+     <seg>VeiledningEtablering av bestemmelser og metodevalg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.19663</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(a) the requesting entity's name, address, legal entity, registration number (if appropriate);</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>a) Den anmodende enhetens navn, adresse, rettssubjekt, registreringsnummer (dersom det er relevant).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.24146</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>or the reconsideration of an economic equilibrium test.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>vurdering av en pr&#248;ving av &#248;konomisk likevekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.733</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>If the regulatory body takes a decision referred to in point (a) of paragraph 1, access to rail infrastructure shall be</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Dersom reguleringsorganet treffer en beslutning som nevnt i nr. 1 bokstav a), skal den foresl&#229;tte nye internasjonale</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.36234</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>(c) type of vehicle, in particular its unsprung mass;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>c) type kj&#248;ret&#248;y, s&#230;rlig dets uavfj&#230;rede masse,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.11342</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>In order to meet this requirement, entities requesting for such a test should be able to use standard request forms published by the regulatory bodies.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>For &#229; oppfylle dette kravet b&#248;r enheter som anmoder om slik pr&#248;ving, kunne benytte standardskjemaer som offentliggj&#248;res av reguleringsorganene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.9676</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>The first sentence shall not apply if the railway undertaking is reimbursed for those additional costs by the infrastructure manager or the diversion resulted from a coordination procedure in accordance with Article 46 of Directive 2012/34/EU.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>F&#248;rste punktum f&#229;r ikke anvendelse dersom jernbaneforetaket f&#229;r tilbakebetalt disse ekstra kostnadene fra infrastrukturforvalteren, eller dersom omdirigeringen skyldtes samordning i samsvar med artikkel 46 i direktiv 2012/34/EU.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.11964</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>stops, arrival times and connections as well as any deviations in frequency or in stops from the standard timetable, per direction;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>ankomsttider og forbindelser, samt eventuelle avvik i avgangsfrekvens eller stoppm&#248;nster i forhold til standardruteplanen, i begge retninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">2.63138</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>In this chapter these are considered together with the guidelines and principles from chapter 7 in the TSI.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>I dette avsnittet blir det dr&#248;ftet i sammenheng med de f&#248;ringene som ligger i TSIens kapittel 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.06326</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(g) justification that the principal purpose of the proposed passenger service is to carry passengers between stations</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>g) Underbygging av at hovedform&#229;let med den foresl&#229;tte ruten er persontransport mellom stasjoner i forskjellige medlemsstater.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.34679</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>(k) costs of electric supply equipment for traction current if not directly incurred by operation of the train service.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>k) kostnader tilknyttet str&#248;mforsyningsutstyr til kj&#248;restr&#248;m, dersom de ikke oppst&#229;r som en direkte f&#248;lge av driften av togtjenesten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.1377</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/en/railway/our-digital-conference-on-timely-topics/</prop>
+     <seg>Professor of Economics Christian Riis gives a lecture on competition in various sectors, with special emphasis on the railway sector.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/jernbane/nyheter/sjt-konferansen-pa-nett/</prop>
+     <seg>Professor i samfunns&#248;konomi Christian Riis holder et foredrag om konkurranse i ulike sektorer, med s&#230;rlig vekt p&#229; jernbanen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.60166</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>(l) costs related to the provision of information mentioned under item 1(f) of Annex II to Directive 2012/34/EU,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>l) kostnader i forbindelse med framlegging av opplysninger som nevnt i nr. 1 bokstav f) i vedlegg II til direktiv 2012/34/EU, med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.03544</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>(o) the part of the costs of maintenance and renewal of civil infrastructure that is not directly incurred by operation of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>o) den del av kostnadene til vedlikehold og fornyelse av sivil infrastruktur som ikke oppst&#229;r som en direkte f&#248;lge av driften av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.08485</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>Direct costs of operation of the train services that do not use electric supply equipment shall not include costs of using the electric supply equipment;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Direkte kostnader til drift av togtrafikk som ikke bruker str&#248;mforsyningsutstyr, skal ikke omfatte kostnader ved bruk av slikt utstyr,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.22431</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>(b) to carry passengers between stations located in the Member State where the regulatory body is established.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>b) persontransport mellom stasjoner som ligger i den medlemsstaten der reguleringsorganet er etablert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.07438</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>The requesting entity shall justify any proposed exclusion of commercially sensitive information.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Den anmodende enheten skal begrunne ethvert forslag om &#229; unnta forretningsmessig f&#248;lsomme opplysninger fra offentliggj&#248;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.89966</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/en/railway/our-digital-conference-on-timely-topics/</prop>
+     <seg>Major topics such as risk assessments, risk management and risk acceptance criteria are discussed in a conversation between our experts Geir-Rune Samstad and Trond &#216;ster&#229;s, with sector input from Lars Fredrik Andersen, formerly of CargoNet AS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/jernbane/nyheter/sjt-konferansen-pa-nett/</prop>
+     <seg>Store temaer som risikovurderinger, risikostyring og risikoakseptkriterier blir diskutert i samtale mellom Geir-Rune Samstad og Trond &#216;ster&#229;s i SJT og tidligere sikkerhetssjef Lars Fredrik Andersen i CargoNet AS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.36875</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-engelsk-versjon.pdf.converted</prop>
+     <seg>(j) track parameters, in particular radii;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-beregning-av-direkte-kostnader/forordning-2015-909-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>j) sporparametrer, s&#230;rlig radiene,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.01063</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>to carry passengers between stations located in different Member States;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>mellom stasjoner i forskjellige medlemsstater.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">1.12586</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-engelsk-versjon.pdf.converted</prop>
+     <seg>Assessment criteria should be determined in the methodology adopted by the regulatory body for the principal purpose test with regard to the specificities of rail transport in the Member State concerned.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/markedsovervaking/horinger/avsluttede-horinger/forskrift-om-nye-internasjonale-jernbanepassasjertjenester/forordning-869-2014-norsk-versjon-uoffisiell.pdf.converted</prop>
+     <seg>Det b&#248;r fastsettes vurderingskriterier i den metoden for pr&#248;ving av hovedform&#229;l som vedtas av reguleringsorganet p&#229; grunnlag av de s&#230;rlige forholdene for jernbanetransport i den ber&#248;rte medlemsstaten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">2.43649</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/implementation-plan-tsi-ope.pdf.converted</prop>
+     <seg>In chapter 6, the procedures for verifications and suitability for use are described.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/globalassets/02_jernbane/pdf-jernbane/nyheter/gjennomforingsplan-tsi-ope.pdf.converted</prop>
+     <seg>Kapittel 6 fastsetter hvilke prosedyrer som skal benyttes ved verifisering av samsvar og vurdering av bruksegnethet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.87625</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.sjt.no/en/railway/our-digital-conference-on-timely-topics/</prop>
+     <seg>He is joined by our experts Kemal Zulovic and Toril Elsa Torp.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sjt.no/jernbane/nyheter/sjt-konferansen-pa-nett/</prop>
+     <seg>Han f&#229;r bes&#248;k av SJTs Kemal Zulovic og Toril Elsa Torp.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

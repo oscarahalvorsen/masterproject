@@ -1,0 +1,215 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T011729" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/sykdom-og-agens/klassisk-svinepest</prop>
+     <prop type="source-document">https://www.vetinst.no/sykdom-og-agens/musepest</prop>
+     <seg>Smittestoff og smitteveier</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/sykdom-og-agens/laksepox</prop>
+     <prop type="source-document">https://www.vetinst.no/sykdom-og-agens/afrikansk-svinepest</prop>
+     <seg>Smittestoff og smittevegar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.05</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/nyheter/friskmelder-ni-elver-i-vefsnaregionen-for-gyrodactylus-salaris</prop>
+     <seg>- N&#229; som alle pr&#248;vene viser at lakseungene er frie for</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/nyheter/friskmelder-laerdalselvi-for-gyrodactylus-salaris</prop>
+     <seg>&#8211; No som alle pr&#248;vene viser at lakseungane er frie for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.75135</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/nyheter/friskmelder-ni-elver-i-vefsnaregionen-for-gyrodactylus-salaris</prop>
+     <seg>Utryddelse av parasitten medf&#248;rer ogs&#229; at risikoen for smittespredning til nye omr&#229;der reduseres.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/nyheter/friskmelder-laerdalselvi-for-gyrodactylus-salaris</prop>
+     <seg>Utrydding medf&#248;rer ogs&#229; at risikoen for smittespreiing til nye omr&#229;de vert redusert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.98375</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/nyheter/friskmelder-ni-elver-i-vefsnaregionen-for-gyrodactylus-salaris</prop>
+     <seg>er introdusert til Norge gjennom innf&#248;rsel av fremmed laks og regnbue&#248;rret minst fire ganger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/nyheter/friskmelder-laerdalselvi-for-gyrodactylus-salaris</prop>
+     <seg>Introdusert til Noreg gjennom innf&#248;rsel av framand laks og regnbogeaure, minst fire gongar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.97316</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/nyheter/friskmelder-ni-elver-i-vefsnaregionen-for-gyrodactylus-salaris</prop>
+     <seg>Veterin&#230;rinstituttet gjennomf&#248;rer behandling og program for overv&#229;king, friskmelding og reetablering av fisk p&#229; oppdrag for Mattilsynet og Milj&#248;direktoratet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/nyheter/friskmelder-laerdalselvi-for-gyrodactylus-salaris</prop>
+     <seg>Dei gjennomf&#248;rer behandling og program for overvaking, friskmelding og reetablering av fisk p&#229; oppdrag for Mattilsynet og Milj&#248;direktoratet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.73654</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <seg>fange opp &#248;kt forekomst av sjukdom eller d&#248;d i lokale hjorteviltstammer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <seg>f&#248;rekomst av sjukdom eller d&#248;d i lokale hjorteviltstammer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.78235</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/sykdom-og-agens/klassisk-svinepest</prop>
+     <seg>De vil vurdere om det skal tas pr&#248;ver for innsending til Veterin&#230;rinstituttet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/sykdom-og-agens/afrikansk-svinepest</prop>
+     <seg>Dei vil vurdera om det skal takast pr&#248;ver for innsending til Veterin&#230;rinstituttet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.52273</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <seg>programmet samle helsedata om hjortevilt gjennom st&#248;rre, systematiske innsamlinger og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <seg>helsedata om hjortevilt gjennom st&#248;rre, systematiske innsamlingar og granskingar (screening)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.29423</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/sykdom-og-agens/klassisk-svinepest</prop>
+     <seg>Ved &#248;nske om pr&#248;vetaking for kontroll/import/eksport etc.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/sykdom-og-agens/afrikansk-svinepest</prop>
+     <seg>Ved &#248;nskje om pr&#248;vetaking for kontroll/import/eksport etc.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.63333</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <seg>Programmet omfatter kartlegging og overv&#229;king av infeksjoner,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <seg>Programmet omfattar kartlegging og overvaking av infeksjonar,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <seg>HOP er bygd opp rundt fire hovedaktiviteter:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <seg>HOP er bygd opp rundt fire hovudaktivitetar:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.22857</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/nyheter/friskmelder-ni-elver-i-vefsnaregionen-for-gyrodactylus-salaris</prop>
+     <seg>Fylkesmannen i den respektive smitteregionen er tiltakshaver for bekjempelse av parasitten, samt bevaring og reetablering av fiskebestandene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/nyheter/friskmelder-laerdalselvi-for-gyrodactylus-salaris</prop>
+     <seg>Fylkesmannen i den respektive smitteregionen er tiltakshavar for behandlingsaksjonar mot parasitten, samt bevaring og reetablering av fiskebestandane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.74776</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <seg>immobilisering. Fordeling av innrapporterte dyr p&#229; art og kommune er vist i tabell 1 (vedlegg).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <seg>Fordelinga av innrapporterte dyr p&#229; art og kommune er vist i tabell 1 (vedlegg).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.46667</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/0bf3cbb2-00d4-4eb5-95bf-bc24c9f9854d:cffcbab89f1604139b4f63948775d7987c9f592f/HOP_aarsrapport_2003.pdf.converted</prop>
+     <seg>andre sjukdomstilstander og forekomst av milj&#248;gifter hos elg, hjort, r&#229;dyr, villrein, d&#229;hjort og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/overvaking/helseovervakingsprogrammet-for-vilt-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <prop type="source-document">https://www.vetinst.no/en/surveillance-programmes/cervids-and-musk-ox-hop/_/attachment/download/1a5f5587-bc2e-4da8-bda8-defb3f02f750:fbae6967aaff35b15ccac1b9bc2787a221ddcf30/HOP_aarsrapport_2002.pdf.converted</prop>
+     <seg>andre sjukdomstilstandar og f&#248;rekomst av milj&#248;gifter hj&#229; elg, hjort, r&#229;dyr, villrein og d&#229;hjort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.09318</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.vetinst.no/sykdom-og-agens/klassisk-svinepest</prop>
+     <seg>Vil du ha unders&#248;kt pr&#248;ver for klassisk svinepest?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.vetinst.no/sykdom-og-agens/afrikansk-svinepest</prop>
+     <seg>Vil du ha unders&#248;kt pr&#248;ver for afrikansk svinepest?</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

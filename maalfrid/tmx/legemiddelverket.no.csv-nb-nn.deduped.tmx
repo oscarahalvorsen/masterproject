@@ -1,0 +1,145 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T172951" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/M/LM07720%20MenQuadfi%20-%20meningokokkvaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/M/LM07720%20MenQuadfi%20-%20meningokokkvaksine.pdf.converted</prop>
+     <seg>Metodevarsling skal sikre at nye og viktige metoder for</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM10620%20Roxadustat%20til%20behandling%20av%20anemi.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM10620%20Roxadustat%20til%20behandling%20av%20anemi.pdf.converted</prop>
+     <seg>Metodevarsling skal sikre at nye og viktige metodar for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.085</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/M/LM07720%20MenQuadfi%20-%20meningokokkvaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/M/LM07720%20MenQuadfi%20-%20meningokokkvaksine.pdf.converted</prop>
+     <seg>For mer informasjon om</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM10620%20Roxadustat%20til%20behandling%20av%20anemi.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM10620%20Roxadustat%20til%20behandling%20av%20anemi.pdf.converted</prop>
+     <seg>For meir informasjon om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.89006</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/A/LM09121%20Anakinra%20ved%20covid19.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/A/LM09121%20Anakinra%20ved%20covid19.pdf.converted</prop>
+     <seg>Noen personer, s&#230;rlig barn, kan ha covid-19 uten &#229; utvikle symptomer, men de fleste syke f&#229;r milde luftveissymptomer som g&#229;r over uten behov for behandling i l&#248;pet av en til to uker.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM06520%20Remdesivir%20til%20behandling%20av%20COVID-19.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM06520%20Remdesivir%20til%20behandling%20av%20COVID-19.pdf.converted</prop>
+     <seg>Nokre personar, s&#230;rleg barn og yngre vaksne, kan ha covid-19 utan &#229; utvikle symptom, men dei fleste sjuke f&#229;r milde luftvegsymptom som g&#229;r over utan behov for behandling i l&#248;pet av ein til to veker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.78</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/A/LM09121%20Anakinra%20ved%20covid19.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/V/LM04421%20Vaksine%20mot%20herpes%20zoster%20%28Shingrix%29%20for%20%c3%a5%20forhindre%20HZ%20og%20PHN%20hos%20voksne%2018%20%c3%a5r%20og%20eldre.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/V/LM04421%20Vaksine%20mot%20herpes%20zoster%20%28Shingrix%29%20for%20%c3%a5%20forhindre%20HZ%20og%20PHN%20hos%20voksne%2018%20%c3%a5r%20og%20eldre.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/A/LM09121%20Anakinra%20ved%20covid19.pdf.converted</prop>
+     <seg>vil ikke medf&#248;re</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/S/LM03021%20Selumetinib%20til%20behandling%20av%20nevrofibromatose%20type%201.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM06520%20Remdesivir%20til%20behandling%20av%20COVID-19.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM06520%20Remdesivir%20til%20behandling%20av%20COVID-19.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/S/LM03021%20Selumetinib%20til%20behandling%20av%20nevrofibromatose%20type%201.pdf.converted</prop>
+     <seg>vil ikkje medf&#248;re</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.57738</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/M/LM07720%20MenQuadfi%20-%20meningokokkvaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/M/LM07720%20MenQuadfi%20-%20meningokokkvaksine.pdf.converted</prop>
+     <seg>identifikasjon av metoder, produksjon av metodevarsler og hvordan disse brukes, s</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM10620%20Roxadustat%20til%20behandling%20av%20anemi.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM10620%20Roxadustat%20til%20behandling%20av%20anemi.pdf.converted</prop>
+     <seg>identifikasjon av metodar, produksjon av metodevarsel og korleis desse blir brukt, s</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/V/LM04421%20Vaksine%20mot%20herpes%20zoster%20%28Shingrix%29%20for%20%c3%a5%20forhindre%20HZ%20og%20PHN%20hos%20voksne%2018%20%c3%a5r%20og%20eldre.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/V/LM04421%20Vaksine%20mot%20herpes%20zoster%20%28Shingrix%29%20for%20%c3%a5%20forhindre%20HZ%20og%20PHN%20hos%20voksne%2018%20%c3%a5r%20og%20eldre.pdf.converted</prop>
+     <seg>om metoden vil medf&#248;re bruk av ny diagnostisk metode Kommentar fra FHI:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/S/LM03021%20Selumetinib%20til%20behandling%20av%20nevrofibromatose%20type%201.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/S/LM03021%20Selumetinib%20til%20behandling%20av%20nevrofibromatose%20type%201.pdf.converted</prop>
+     <seg>om metoden vil f&#248;re til bruk av ny diagnostisk metode Kommentar fr&#229; FHI:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.54423</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/A/LM09121%20Anakinra%20ved%20covid19.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/A/LM09121%20Anakinra%20ved%20covid19.pdf.converted</prop>
+     <seg>D&#248;dsfall forekommer blant noen av de som blir alvorlig syke.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM06520%20Remdesivir%20til%20behandling%20av%20COVID-19.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM06520%20Remdesivir%20til%20behandling%20av%20COVID-19.pdf.converted</prop>
+     <seg>D&#248;dsfall f&#248;rekjem blant nokre av dei som blir alvorleg sjuke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.69538</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/M/LM07720%20MenQuadfi%20-%20meningokokkvaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/M/LM07720%20MenQuadfi%20-%20meningokokkvaksine.pdf.converted</prop>
+     <seg>norsk helsetjeneste blir identifisert og prioritert for metodevurdering.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM10620%20Roxadustat%20til%20behandling%20av%20anemi.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM10620%20Roxadustat%20til%20behandling%20av%20anemi.pdf.converted</prop>
+     <seg>norsk helseteneste blir identifisert og prioritert for metodevurdering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.68469</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/M/LM07720%20MenQuadfi%20-%20meningokokkvaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/M/LM07720%20MenQuadfi%20-%20meningokokkvaksine.pdf.converted</prop>
+     <seg>Metodevarsler som skal vurderes p&#229; nasjonalt niv&#229; i Bestil erforum RHF til spesialisthelsetjenesten publiseres</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM10620%20Roxadustat%20til%20behandling%20av%20anemi.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/LM10620%20Roxadustat%20til%20behandling%20av%20anemi.pdf.converted</prop>
+     <seg>Metodevarsel som skal bli vurderte p&#229; nasjonalt niv&#229; i Bestillerforum RHF til spesialisthelsetenesta blir publiserte</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,279 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T105225" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.31029</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>The general meeting of creditors is the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Skiftesamlinga er det &#248;vste organet under konkursen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.25161</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>Specific application forms must be</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Skuldnaren m&#229; sj&#248;lv be om gjeldsordning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.29091</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>will include debt relief for part of the debt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Som regel vil framlegget g&#229; ut p&#229; sletting av deler av gjelda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.21038</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>This sum is currently NOK 20 000. If it should prove that the debtor has enough money to cover the expenses, the sum will be reimbursed. There are a few exceptions to the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Bel&#248;pet er for tida kr 20 000. Bel&#248;pet blir betalt tilbake dersom det seinare viser seg at skuldnaren har nok pengar til &#229; dekkje alle utgifter som tingretten har hatt i samband med konkurskravet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.15385</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>Operations will then take place under the management of the estate.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Drifta skjer d&#229; under leiing av konkursbuet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.05568</prop>
+    <prop type="score-bicleaner">0.559</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>trustee, these people represent the board of trustees.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Saman med bustyraren er desse utsendingane medlemmer av bustyret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.62</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>pay a minimum of 25 % of the debts to all the creditors.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Lova krev at skuldnaren m&#229; betale minst 25 % av gjelda til samtlege kreditorane ved denne typen avtale.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.21412</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>This involves establishing a differentiation between the debtor as a person and</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Konkursbuet lagar eit skilje mellom skuldnaren som person og &#248;konomien hans.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.32932</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>and other personal items of use are not included in the estate of bankruptcy.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Klede og andre ting til personleg bruk g&#229;r ikkje inn i konkursbuet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.14545</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>initiative for debt reorganization.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Skuldnaren m&#229; sj&#248;lv krevje opning av gjeldsforhandling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.30877</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>The creditors committee consists of 1-3 representatives from the creditors. Together with the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>(Kva ei skiftesamling er, blir forklart i neste avsnitt.) Kreditorutvalet er sett saman av 1-3 utsendingar fr&#229; kreditorane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.24706</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>The trustee shall also ensure that the property is insured.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Bustyraren skal ogs&#229; syte for at det blir teikna forsikring for tinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.32282</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://img5.custompublish.com/getfile.php/3243290.2255.wtffrfeyvv/Konkursloven+oversatt+til+engelsk.pdf?return=www.konkursradet.no</prop>
+     <seg>This transfer shall occur at the lien's assumed market value at the date and time of transfer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://img5.custompublish.com/getfile.php/4494864.2255.piamjzjumwtlnn/Masteroppgave_2019_Tord_Sortland_oppdatert.pdf?return=www.konkursradet.no</prop>
+     <seg>Det kan i dette h&#248;vet argumenterast for at domenenamnet b&#248;r inng&#229; i panteretten, b&#229;de av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.01605</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>trustee will ensure that property does not in any way disappear, such as by</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Bustyraren skal passe p&#229; at tinga ikkje forsvinn, t.d.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.008</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>there is, he must first of all notify the bankruptcy court.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Bustyraren vurderer om det er grunn til &#229; vedta konkurskarantene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.16071</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>The Criminal Code also includes</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Ogs&#229; i straffelova finst det reglar om konkurs.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.07647</prop>
+    <prop type="score-bicleaner">0.531</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>discontinued because there are no means for distribution.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Konkursen blir dessutan formelt avslutta dersom det ikkje finst midlar til deling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.25714</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>accepted against the protests of the creditors.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>D&#229; blir ordninga vedteken mot protest fr&#229; kreditorane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.33004</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://img5.custompublish.com/getfile.php/3243290.2255.wtffrfeyvv/Konkursloven+oversatt+til+engelsk.pdf?return=www.konkursradet.no</prop>
+     <seg>Starting at this time, the asset shall be put at the lienholder's disposal.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://img5.custompublish.com/getfile.php/4494864.2255.piamjzjumwtlnn/Masteroppgave_2019_Tord_Sortland_oppdatert.pdf?return=www.konkursradet.no</prop>
+     <seg>samanhengen i kjenneteiknskomplekset, at sekund&#230;re forretningskjenneteikn vart inkludert i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.09881</prop>
+    <prop type="score-bicleaner">0.559</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>According to the Debt Reorganization and</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Brot p&#229; reglane blir straffa med b&#248;ter og fengsel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.1042</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.konkursradet.no/introduction-to-bankruptcy.5304842-300329.html?printable=1</prop>
+     <seg>It can also be compulsory if the arrangement is</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.konkursradet.no/innfoering-i-konkurs-nynorsk.308806.no.html</prop>
+     <seg>Gjeldsordninga kan ogs&#229; vera tvungen.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

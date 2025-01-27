@@ -1,0 +1,246 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T131304" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.03333</prop>
+    <prop type="score-bicleaner">0.581</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>The map is studied before a raid over France.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>Kartstudier f&#248;r eit tokt over Frankrike.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.10855</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>In May 1941, a holiday and recreational estate for the air force personnel was purchased.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>I mai 1941 blei det kj&#248;pt ein ferie- og rekreasjonseigedom for flyv&#229;penet sitt personell.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.27589</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>Except from squadron 333, the administrative archives of the other squadrons are for the time being not available for search in the directory.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>Med unnatak av 333 skvadron, er sakarkiva etter dei andre skvadronane f&#248;rebels ikkje tilgjengelege for s&#248;king i felleskatalogen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.23537</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>After restoring an old timber building, and building of a new one, the estate could house 150 men.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>Etter restaurering av ein gammal t&#248;mmerbygning og bygging av ein ny, hadde staden plass til 150 mann.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.56648</prop>
+    <prop type="score-bicleaner">0.567</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>In total 334 Norwegian pilots were killed during the war.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>Til saman miste 334 norske flygarar livet under krigen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.08988</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>Neither is the archive of the Department of Defense in London.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>Det er heller ikkje arkivet etter Forsvarsdepartementet i London.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.14187</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>In the 333 squadron&#8217;s other material you can find letters, authorization books, order books for flying, logbooks for airplanes and crew, administrative archive and watch journals.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>I 333 skvadron sitt arkiv finn ein elles brev, autorisasjonsb&#248;ker, ordreb&#248;ker for flyging, loggb&#248;ker for fly og besetningar, sakarkiv og vaktprotokollar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">3.28475</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>In the archive of squadron 333 there are several reports from air raides.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>I arkivet etter 333 skvadron finst det fleire rapportar fr&#229; flytokt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">3.45425</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>The Air Force joint command was established in March 1941 with Hjalmar Riiser-Larsen as the leader.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>Flyv&#229;pena sin felleskommando blei oppretta i mars 1941 med Hjalmar Riiser-Larsen som sjef.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">4.38214</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>The air force training camp was officially opened November 10th 1940.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>Flyv&#229;pena sin treningsleir blei offisielt opna 10. november 1940.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.46897</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>Relevant archives in Arkivportalen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>Relevante arkiv i Arkivportalen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">3.46283</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>Squadron 330 (the first squadron) was established in 1941 with a base on Iceland.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>330 skvadron (den f&#248;rste skvadronen) blei oppretta i 1941 med base p&#229; Island.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">3.28816</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>Then followed squadron 332 and squadron 333, which were localized at Woodhaven in Scotland.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>Sidan f&#248;lgde 332 skvadron og 333 skvadron som var lokaliserte ved Woodhaven i Skottland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.46818</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>Major Ole Reistad became in charge of the training centre &#8221;Little Norway&#8221; in Toronto.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>Major Ole Reistad blei sjef for treningssenteret &#8221;Little Norway&#8221; i Toronto.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.69643</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>In the Legation in Bern&#8217;s archive there is correspondence about missing Norwegian pilots in series D, box 63.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>I arkivet etter legasjonen i Bern er det korrespondanse om sakna norske flygarar i serie D, eske 63.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.91422</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <prop type="source-document">http://www.arkivverket.no/en/using-the-archives/world-war-ii/norway-in-exile</prop>
+     <seg>In the summer of 1940, Lieutenant Commander Hjalmar Riiser-Larsen was appointed leader of the Navy&#8217;s air force, and Bjarne &#216;en for the Army&#8217;s air force in Canada.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <prop type="source-document">https://www.arkivverket.no/utforsk-arkivene/andre-verdenskrig/norge-i-eksil/det-norske-flyvapenet-i-eksil</prop>
+     <seg>Sommaren 1940 blei kapteinl&#248;ytnant Hjalmar Riiser-Larsen utnemnd til sjef for Marinens flyvev&#229;pen, og Bjarne &#216;en for H&#230;rens flyvev&#229;pen i Canada.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

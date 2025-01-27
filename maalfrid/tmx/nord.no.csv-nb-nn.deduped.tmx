@@ -1,0 +1,818 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T005158" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.58257</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Begrensning av personopplysninger vil si at personopplysningene fortsatt blir lagret, men at mulighetene for videre bruk og behandling blir begrensede.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Avgrensing av personopplysningar vil seie at personopplysningane framleis blir lagra, men at h&#248;va for vidare bruk og behandling blir avgrensa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.67888</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Dersom Nord avdekker eller f&#229;r melding om sikkerhetsbrudd, behandles saken av institusjonens informasjonssikkerhetskoordinator (CISO) i henhold til gjeldende regelverk og rutiner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Om Nord avdekkjer eller f&#229;r melding om tryggingsbrot, behandlast saka av institusjonen sin informasjonstryggleikskoordinator (CISO) i samsvar med gjeldande regelverk og rutinar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.21962</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-egenbetaling-ved-Nord-universitet.pdf.converted</prop>
+     <seg>For bidrags- og oppdragsfinansierte studier (BOA), se egne retningslinjer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-egenbetaling-ved-Nord-universitet-nynorsk.pdf.converted</prop>
+     <seg>For bidrags- og oppdragsfinansierte studium (BOA), sj&#229; eigne retningslinjer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.63821</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Det er viktig at du begrunner hvorfor du &#248;nsker at personopplysningene blir slettet, og om mulig ogs&#229; opplyser om hvilke personopplysninger du &#248;nsker &#229; f&#229; slettet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Det er viktig at du grunngjev kvifor du &#248;nskjer at personopplysningane blir sletta, og om mogleg ogs&#229; opplyser om kva personopplysningar du &#248;nskjer &#229; f&#229; sletta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.12976</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>Universitetet skal stimulere til, og gjennom kurs og p&#229; andre m&#229;ter, tilby oppl&#230;ring og veiledning</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>Universitetet skal stimulere til, og gjennom kurs og p&#229; andre m&#229;tar, tilby oppl&#230;ring og vegleiing</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.382</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Dersom vi mottar en henvendelse fra deg om begrensing av personopplysninger, vil vi vurdere om lovens vilk&#229;r er oppfylte.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Om vi mottek ein f&#248;respurnad fr&#229; deg om avgrensing av personopplysningar, vil vi vurdere om vilk&#229;ra i lova er oppfylte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-honorering-av-eksterne-sensorer-ved-Nord-universitet.pdf.converted</prop>
+     <seg>Retningslinjer for honorering av eksterne sensorer ved Nord universitet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-honorering-av-eksterne-sensorer-ved-Nord-universitet-nynorsk.pdf.converted</prop>
+     <seg>Retningslinjer for honorering av eksterne sensorar ved Nord universitet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.04953</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>Studenter som deltar p&#229; kurs i samisk spr&#229;k og kultur skal kjenne til og kunne bruke fagspr&#229;k p&#229; samisk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>Studentar som deltar p&#229; kurs i samisk spr&#229;k og kultur, skal kjenne til og kunne bruke fagspr&#229;k p&#229; samisk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.06583</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Du har rett til &#229; se/f&#229; innsyn i alle personopplysninger som er registrert om deg ved Nord universitet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Du har rett til &#229; sj&#229;/f&#229; innsyn i alle personopplysningar som er registrerte om deg ved Nord universitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">4.60893</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-egenbetaling-ved-Nord-universitet.pdf.converted</prop>
+     <seg>over 30 studiepoeng - kr 4000 I tillegg skal det betales semesteravgift til studentsamskipnaden.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-egenbetaling-ved-Nord-universitet-nynorsk.pdf.converted</prop>
+     <seg>over 30 studiepoeng - kr 4000 I tillegg skal det betalast semesteravgift til studentsamskipnaden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.50678</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-vedtatt.pdf.converted</prop>
+     <seg>Det er tillatt &#229; understreke ord og hele eller deler av setninger, eller bruke tekstmark&#248;r, og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-nynorsk.pdf.converted</prop>
+     <seg>Det er tillate &#229; understreke ord og heile eller delar av setningar, eller bruke tekstmark&#248;r, og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.93636</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>Den enkelte forsker st&#229;r fritt til &#229; velge publiseringsspr&#229;k.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>Den enkelte forskar st&#229;r fritt til &#229; velje publiseringsspr&#229;k.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.6801</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Retten til sletting er ikke en ubetinget rett, og hvorvidt du har rett til sletting m&#229; vurderes i lys av personopplysningsloven og personvernforordningen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Retten til sletting er ikkje ein vilk&#229;rslaus rett, og kor vidt du har rett til sletting m&#229; vurderast i lys av personopplysningslova og personvernforordninga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.97168</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Dersom du mener vi ikke har behandlet personopplysningene p&#229; en korrekt og lovlig m&#229;te, eller hvis du mener at vi ikke har klart &#229; oppfylle dine rettigheter, har du mulighet til &#229; klage over behandlingen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Om du meiner vi ikkje har behandla personopplysningane p&#229; ein korrekt og lovleg m&#229;te, eller om du meiner at vi ikkje har klart &#229; oppfylle rettane dine, har du h&#248;ve til &#229; klage over behandlinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.00394</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Rett til &#229; klage over behandlingen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Rett til &#229; klage over behandlinga</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.04854</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>V&#230;r oppmerksom p&#229; at vi i enkelte tilfeller likevel kan gj&#248;re unntak fra sletting, for eksempel hvis vi er n&#248;dt til &#229; lagre personopplysningene for &#229; oppfylle en oppgave vi er p&#229;lagt etter universitets- og h&#248;yskoleloven, eller for &#229; ivareta viktige samfunnsinteresser.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Ver merksam p&#229; at vi i somme tilfelle likevel kan gjere unntak fr&#229; sletting, til d&#248;mes om vi er n&#248;ydde til &#229; lagre personopplysningane for &#229; oppfylle ei oppg&#229;ve vi er p&#229;lagd etter universitets- og h&#248;gskolelova, eller for &#229; ta hand om viktige samfunnsinteresser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.29032</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-vedtatt.pdf.converted</prop>
+     <seg>det er tillatt &#229; bruke flere farger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-nynorsk.pdf.converted</prop>
+     <seg>det er tillate &#229; bruke fleire farger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.16429</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Dersom du mener at personopplysningene er feil eller mangelfulle, eller har protestert mot behandlingen, har du rett til &#229; kreve at behandlingen av personopplysningene dine midlertidig blir begrenset.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Om du meiner at personopplysningane er feil eller mangelfulle, eller har protestert mot behandlinga, har du rett til &#229; krevje at behandlinga av personopplysningane dine mellombels blir avgrensa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.63333</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>, skal ogs&#229; gjelde for engelskspr&#229;klig kommunikasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>, skal ogs&#229; gjelde for engelskspr&#229;kleg kommunikasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.86957</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Det avgj&#248;rende for om en opplysning er en personopplysning er om opplysningene kan identifisere en konkret person.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Det avgjerande for om ei opplysning er ei personopplysning er om opplysningane kan identifisere deg som person.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.91696</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Du kan ha rett til &#229; fremme en innsigelse mot behandlingen, det vil si protestere mot behandlingen, dersom du har et s&#230;rskilt behov for &#229; f&#229; stanset behandlingen av personopplysningene dine.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Du kan ha rett til &#229; fremje ei innseiing mot behandlinga, det vil seie protestere mot behandlinga, om du har eit s&#230;rskild behov for &#229; f&#229; stoppa behandlinga av personopplysningane dine.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.16563</prop>
+    <prop type="score-bicleaner">0.531</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-egenbetaling-ved-Nord-universitet.pdf.converted</prop>
+     <seg>Det betales ogs&#229; avgift til Kopinor.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-egenbetaling-ved-Nord-universitet-nynorsk.pdf.converted</prop>
+     <seg>Det betalast ogs&#229; avgift til Kopinor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.48714</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-vedtatt.pdf.converted</prop>
+     <seg>b) Henvisninger til publiserte rettsavgj&#248;relser skal skje i den form som benyttes av</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-nynorsk.pdf.converted</prop>
+     <seg>b) Tilvisingar til publiserte rettsavgjerder skal skje i den forma som brukast av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.87143</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Personopplysninger er alle former for data, informasjon, opplysninger og vurderinger som kan knyttes til deg som enkeltperson.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Personopplysningar er alle former for data, informasjon, opplysningar og vurderingar som kan knytast til deg som enkeltperson.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.37281</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-vedtatt.pdf.converted</prop>
+     <seg>Det er tillatt &#229; korrigere egne henvisninger ved overstrykning eller korrekturlakk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-nynorsk.pdf.converted</prop>
+     <seg>Det er tillate &#229; korrigere eigne tilvisingar ved overstryking eller korrekturlakk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.542</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-vedtatt.pdf.converted</prop>
+     <seg>Retningslinjene gjelder for innarbeiding av tillatte hjelpemidler til eksamen ved Nord</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-nynorsk.pdf.converted</prop>
+     <seg>Retningslinjene gjeld for innarbeiding av tillatne hjelpemiddel til eksamen ved Nord</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.542</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-vedtatt.pdf.converted</prop>
+     <seg>Det er ikke tillatt &#229; innarbeide ordb&#248;ker som skal brukes som hjelpemiddel til eksamen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-nynorsk.pdf.converted</prop>
+     <seg>Det er ikkje tillate &#229; innarbeide ordb&#248;ker som skal brukast som hjelpemiddel til eksamen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.49709</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Vi gir ikke personopplysningene dine videre til andre med mindre det foreligger et lovlig grunnlag for slik utlevering.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Vi gjev ikkje personopplysningane dine vidare til andre med mindre det ligg f&#248;re eit lovleg grunnlag for slik utlevering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.57071</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>Informasjon til n&#229;v&#230;rende og potensielle studenter og ansatte skal utformes p&#229; engelsk og gj&#248;res</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>Informasjon til noverande og potensielle studentar og tilsette skal utformast p&#229; engelsk og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.03684</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-vedtatt.pdf.converted</prop>
+     <seg>inn i hjelpemidlene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-nynorsk.pdf.converted</prop>
+     <seg>limast inn i hjelpemidla.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.48624</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>I utgangspunktet blir ikke personopplysningene blir utlevert til land utenfor EU/E&#216;S, eller noen internasjonale organisasjoner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Dei fleste av personopplysningane blir ikkje utleverte til land utanfor EU/E&#216;S, eller nokre internasjonale organisasjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">3.90577</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-honorering-av-eksterne-sensorer-ved-Nord-universitet.pdf.converted</prop>
+     <seg>Eksterne sensorer som kommer fra stillinger utenfor universitets- og h&#248;gskolesektoren settes i l&#248;nnstrinn 64.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-honorering-av-eksterne-sensorer-ved-Nord-universitet-nynorsk.pdf.converted</prop>
+     <seg>Eksterne sensorar som kjem fr&#229; stillingar utanfor universitets- og h&#248;gskolesektoren setjast i l&#248;nstrinn 64.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.43377</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-egenbetaling-ved-Nord-universitet.pdf.converted</prop>
+     <seg>P&#229; studier der det inng&#229;r materialavgifter, skal dette dekkes av studenten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-egenbetaling-ved-Nord-universitet-nynorsk.pdf.converted</prop>
+     <seg>P&#229; studium der det inng&#229;r materialavgifter, skal dette dekkjast av studenten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.69036</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-vedtatt.pdf.converted</prop>
+     <seg>a) Henvisninger til lover og forskrifter skal kun inneholde tittel og/eller dato</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-nynorsk.pdf.converted</prop>
+     <seg>a) Tilvisingar til lover og forskrifter skal berre innehalde tittel og/eller dato (eventuelt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.8891</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Retten til &#229; protestere er ikke en ubetinget rett, og den avhenger av hva som er det rettslige grunnlaget for behandlingen, og om du har et s&#230;rskilt behov.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Retten til &#229; protestere er ikkje ein vilk&#229;rslaus rett, og han avheng av kva som er det rettslege grunnlaget for behandlinga, og om du har eit s&#230;rskilt behov.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.08846</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Rett til begrenset behandling</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Rett til avgrensa behandling</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-vedtatt.pdf.converted</prop>
+     <seg>innarbeidelser som markeringer og henvisninger til andre rettskilder.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-nynorsk.pdf.converted</prop>
+     <seg>innarbeidingar som markeringar og tilvisingar til andre rettskjelder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.04583</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>Omfanget av engelskspr&#229;klig informasjon skal ta hensyn til utenlandske ansattes og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>Omfanget av engelskspr&#229;kleg informasjon skal ta omsyn til at utanlandske tilsette</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.03817</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Dersom du &#248;nsker &#229; benytte deg av dine rettigheter, har sp&#248;rsm&#229;l eller behov for r&#229;dgivning omkring behandlinger av personopplysninger ved Nord, kan du ta kontakt p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Om du &#248;nskjer &#229; nytte deg av rettane dine, har sp&#248;rsm&#229;l eller behov for r&#229;dgjeving omkring behandlingar av personopplysningar ved Nord, kan du ta kontakt p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.0375</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Du kan ogs&#229; bli bedt om &#229; oppgi ytterligere informasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Du kan ogs&#229; bli beden om &#229; gje opp ytterlegare informasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.19412</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>av utenlandske ansatte og studenter til Nord universitet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>av utanlandske tilsette og studentar til Nord universitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.60924</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Som registrert har du krav p&#229; informasjon om hvordan Nord universitet behandler dine personopplysninger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Som registrert har du krav p&#229; informasjon om korleis Nord universitet behandlar personopplysningane dine.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.72105</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Det er viktig at du begrunner og eventuelt dokumenterer hvorfor du mener personopplysningene er feil eller mangelfulle.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Det er viktig at du grunngjev og eventuelt dokumenterer kvifor du meiner personopplysningane er feil eller mangelfulle.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.67651</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>Spr&#229;kutvalget kan, gjennom utfyllende retningslinjer, definere innhold som skal v&#230;re</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>Spr&#229;kutvalet kan, gjennom utfyllande retningsliner, definere innhald som skal vere</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Du kan ogs&#229; ta kontakt med behandlingsansvarlig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Du kan ogs&#229; ta kontakt med behandlingsansvarleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.98495</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Eksempler p&#229; slikt grunnlag vil typisk v&#230;re fordi du har samtykket til det, fordi utleveringen er n&#248;dvendig for &#229; oppfylle en avtale med deg eller det foreligger lovgrunnlag som p&#229;legger oss &#229; gi ut informasjonen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>D&#248;me p&#229; slikt grunnlag vil typisk vere fordi du har samtykt til det, fordi utleveringa er naudsynt for &#229; oppfylle ein avtale med deg eller det ligg f&#248;re lovgrunnlag som p&#229;legg oss &#229; gje ut informasjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">3.57002</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>For &#229; ha rett til &#229; kreve begrensing av dine personopplysninger, m&#229; vilk&#229;rene i personvernforordningen artikkel 18 v&#230;re oppfylte.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>For &#229; ha rett til &#229; krevje avgrensing av personopplysningane dine, m&#229; vilk&#229;ra i personvernforordninga artikkel 18 vere oppfylte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.60491</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>I andre tilfeller kan du ogs&#229; kreve en mer permanent begrensing av dine personopplysninger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>I andre tilfelle kan du ogs&#229; krevje ei meir permanent avgrensing av personopplysningane dine.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.66061</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Dersom vi behandler opplysninger om deg p&#229; grunnlag av ditt samtykke, kan du til enhver tid trekke tilbake samtykket.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Om vi behandlar opplysningar om deg p&#229; grunnlag av samtykke fr&#229; deg, kan du til ei kvar tid trekkje tilbake samtykket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.22035</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>Universitetet skal legge til rette for at samisk blir et aktuelt publiseringsspr&#229;k.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>Universitetet skal leggje til rette for at samisk blir eit aktuelt publiseringsspr&#229;k.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.35845</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-vedtatt.pdf.converted</prop>
+     <seg>c) Henvisninger til &#248;vrige hjelpemidler skal kun inneholde tittel og/eller sidetall.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Retningslinjer-for-innarbeiding-av-tillatte-hjelpemidler-til-eksamen-nynorsk.pdf.converted</prop>
+     <seg>c) Tilvisingar til andre hjelpemiddel skal berre innehalde tittel og/eller sidetal.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.91077</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Det vil si at behandlingen blir begrenset inntil vi eventuelt har rettet personopplysningene dine, eller har f&#229;tt vurdert om protesten din er berettiget.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Det vil seie at behandlinga blir avgrensa inntil vi eventuelt har retta personopplysningane dine, eller har f&#229;tt vurdert om protesten din er velgrunna.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.79538</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Du har ogs&#229; rett til &#229; f&#229; ufullstendige personopplysninger om deg supplert.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Du har ogs&#229; rett til &#229; f&#229; ufullstendige personopplysningar om deg supplerte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">2.14615</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>Engelskspr&#229;klig informasjon skal omfatte, men er ikke begrenset til, sentrale</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>Engelskspr&#229;kleg informasjon skal omfatte, men er ikkje avgrensa til, sentrale</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">2.14615</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>Hovedskiltingen p&#229; de st&#248;rste studiestedene skal v&#230;re p&#229; norsk og samisk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>Hovudskiltinga p&#229; dei st&#248;rste studiestadene skal vere p&#229; norsk og samisk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.70473</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/ansatte</prop>
+     <seg>Datatilsynet er ansvarlig for &#229; kontrollere at norske virksomheter overholder bestemmelsene i personopplysningsloven og personvernforordningen ved behandling av personopplysninger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/Sider/default.aspx</prop>
+     <prop type="source-document">https://www.nord.no/no/om-oss/personvern/</prop>
+     <seg>Datatilsynet er ansvarleg for &#229; kontrollere at norske verksemder overheld vilk&#229;ra i personopplysningslova og personvernforordninga ved behandling av personopplysningar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">2.06471</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>Nord universitet har et nasjonalt ansvar for lulesamisk og s&#248;rsamisk i h&#248;yere utdanning og forskning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>Nord universitet har eit nasjonalt ansvar for lulesamisk og s&#248;rsamisk i h&#248;gare utdanning og forsking.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.08588</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Spr%c3%a5kpolitiske-retningslinjer-vedtatt-i-styret-18-09-2018.pdf.converted</prop>
+     <seg>Universitetet skal formidle spr&#229;ktjenester, som spr&#229;koppl&#230;ring og kurs, spr&#229;kvask og oversettelse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nord.no/no/om-oss/lover-forskrifter-retningslinjer/Documents/Sprakpolitiske-retningsliner-nynorsk.pdf.converted</prop>
+     <seg>Universitetet skal formidle spr&#229;ktenester, som spr&#229;koppl&#230;ring og kurs, spr&#229;kvask og omsetjing.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

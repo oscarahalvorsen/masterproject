@@ -1,0 +1,972 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T194827" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.96215</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Tolletaten vil i perioden 2016 til 2020 systematisk bygge ut elektronisk utstyr med kamera og skiltgjenkjenning (ANPR) iht. Stortinget bevilgning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Tolletaten vil i perioden 2016 til 2020 systematisk byggje ut elektronisk utstyr med kamera og skiltgjenkjenning (ANPR) i samsvar med Stortingets l&#248;yving.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.29302</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/f92bbeeeb00943378e558a62bc62f823/rd-0031b.docx.converted</prop>
+     <seg>underkjenne hele blanketten eller deler av denne.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/f92bbeeeb00943378e558a62bc62f823/rd-0031n.docx.converted</prop>
+     <seg>underkjenne heile blanketten eller deler av han.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.24571</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/5f574570aa594e60839391ab884d04fa/rd-0083b.docx.converted</prop>
+     <seg>Foretaket har rutiner som sikrer kravene til tollagerregnskap og f&#248;ring av dette, ogs&#229; ved ferieavvikling og sykdom, f&#248;lges, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/5f574570aa594e60839391ab884d04fa/rd-0083n.docx.converted</prop>
+     <seg>F&#248;retaket har rutinar som sikrar krava til tollagerrekneskap og f&#248;ring av dette, ogs&#229; ved ferieavvikling og sjukdom, blir f&#248;lgde, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.84643</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-bokmal.pdf.converted</prop>
+     <seg>Har du med deg nye varer, skal du betale merverdiavgift og eventuell toll og s&#230;ravgifter for disse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-nynorsk.pdf.converted</prop>
+     <seg>Har du med deg nye varer, skal du betale meirverdiavgift og eventuell toll og s&#230;ravgifter for desse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.62464</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/f92bbeeeb00943378e558a62bc62f823/rd-0031b.docx.converted</prop>
+     <seg>Rubrikken for varebetegnelse/typebetegnelse skal v&#230;re fullstendig utfylt, slik at varen(e) kan identifiseres og eventuelt tarifferes dersom dette er n&#248;dvendig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/f92bbeeeb00943378e558a62bc62f823/rd-0031n.docx.converted</prop>
+     <seg>Rubrikken for varenemning/typenemning skal vere fullstendig utfylt, slik at varen(e) kan identifiserast og eventuelt tarifferast dersom dette er n&#248;dvendig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.2219</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/c13adcd5012d4df7bba6215955d4c519/tollvesenet_aarsmelding_2013_bm.pdf.converted</prop>
+     <seg>SeptemberI september ble en latvisk registrert begravelsesbil stoppet for tollkontroll p&#229; Svinesund.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/c13adcd5012d4df7bba6215955d4c519/arsmelding_2013_nynorsk.pdf.converted</prop>
+     <seg>SeptemberI september vart ein latvisk-registrert gravferdsbil stoppa for tollkontroll p&#229; Svinesund.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">4.21304</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Dette gjelder b&#229;de antall beslag og totalt volum som har &#248;kt fra 37,5 kilo i 2017 til 57,9 kilo i 2018.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Dette gjeld b&#229;de talet p&#229; beslag og totalt volum som har auka fr&#229; 37,5 kilo i 2017 til 57,9 kilo i 2018.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.02527</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>De st&#248;rste narkotika- og dopingbeslagene gir mest poeng, mens de st&#248;rste beslagene innen andre beslagvaregrupper gir noe mindre poeng.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Dei st&#248;rste narkotika- og dopingbeslaga gir mest poeng, medan dei st&#248;rste beslaga innan andre beslagvaregrupper gir noko mindre poeng.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.15442</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6f42a511af3e408bb371918e3f6e5e54/rd-0067b.docx.converted</prop>
+     <seg>Tolletaten vil i slike tilfeller ettersp&#248;rre informasjon om hva som gikk galt og vurdere hver enkelt sak p&#229; selvstendig grunnlag</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6f42a511af3e408bb371918e3f6e5e54/rd-0067n.docx.converted</prop>
+     <seg>Tolletaten vil i slike tilfelle sp&#248;rja etter informasjon om kva som gjekk gale og vurdere kvar enkelt sak p&#229; sj&#248;lvstendig grunnlag</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.24</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Hvert AOT-beslag f&#229;r en poengsum etter hvor stort beslaget er og i hvilken beslagvaregruppe det tilh&#248;rer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Kvart AOT-beslag f&#229;r ein poengsum etter kor stort beslaget er og i kva beslagvaregruppe det h&#248;yrer til.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.63333</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-b.docx.converted</prop>
+     <seg>Stempel og bindende underskrift samt fornavn og etternavn</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-n.docx.converted</prop>
+     <seg>Stempel og bindande underskrift, og f&#248;renamn og etternamn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.77595</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-b.docx.converted</prop>
+     <seg>Vi vil informere tollmyndighetene om ethvert forhold som oppst&#229;r etter at autorisasjonen ble gitt som kan p&#229;virke denne s&#248;knaden eller autorisasjonen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-n.docx.converted</prop>
+     <seg>Vi vil informere tollmyndigheitene om alle forhold som oppst&#229;r etter at autorisasjonen blei gitt som kan p&#229;verke denne s&#248;knaden eller autorisasjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.03617</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6d968efd5b644e16aeee9b3762138d38/rd-0084b.docx.converted</prop>
+     <seg>Foretaket er kjent med at hvis fastsatte vilk&#229;r ikke overholdes eller at de som tollagerholder p&#229; annen m&#229;te gj&#248;r seg skyldig i misbruk, kan tillatelsen suspenderes eller trekkes tilbake</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6d968efd5b644e16aeee9b3762138d38/rd-0084n.docx.converted</prop>
+     <seg>F&#248;retaket er kjent med at om fastsette vilk&#229;r ikkje blir haldne eller at dei som tollagerhaldar p&#229; annan m&#229;te gjer seg skyldig i misbruk, kan l&#248;yvet suspenderast eller trekkast tilbake</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.82468</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6f42a511af3e408bb371918e3f6e5e54/rd-0067b.docx.converted</prop>
+     <seg>Dersom du kan dokumentere at det er innbetalt for mye toll p&#229; grunn av en tekniske feil i l&#248;pet av betalingsprosessen, kan du s&#248;ke om refusjon uavhengig av oppm&#248;te.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6f42a511af3e408bb371918e3f6e5e54/rd-0067n.docx.converted</prop>
+     <seg>Dersom du kan dokumentere at det er innbetalt for mykje toll p&#229; grunn av ein teknisk feil i l&#248;pet av betalingsprosessen, kan du s&#248;kje om refusjon uavhengig av oppm&#248;te.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">4.29048</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Dette er en stor &#248;kning fra 2017 da verdien tilsvarte 14,2 millioner kroner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Dette er ein stor auke fr&#229; 2017 d&#229; verdien tilsvara 14,2 millionar kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.78621</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-b.docx.converted</prop>
+     <seg>&#197;rsregnskap, revidert og godkjent av generalforsamlingen samt innberettet Regnskapsregisteret.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-n.docx.converted</prop>
+     <seg>&#197;rsrekneskap, revidert og godkjent av generalforsamlinga og innrapportert til Rekneskapsregisteret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.88621</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Etterretning og et godt og n&#230;rt samarbeid med mange ulike myndigheter, b&#229;de nasjonalt og internasjonalt gir gode resultater b&#229;de i form av beslag og &#248;kt etterlevelse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Etterretning og eit godt og n&#230;rt samarbeid med mange ulike styresmakter, b&#229;de nasjonalt og internasjonalt gir gode resultat b&#229;de i form av beslag og auka etterleving.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">3.29504</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Det er ikke relevant &#229; sammenligne med resultater for 2016 da indikatoren ble endret fra og med 2017, og innholdet ikke lenger er sammenlignbart.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Det er ikkje relevant &#229; samanlikne med resultat for 2016 d&#229; indikatoren vart endra fr&#229; og med 2017, og innhaldet ikkje lenger er samanliknbart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">3.38542</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Dette er en dobling fra 2009 da denne l&#229; p&#229; 29,4 millioner kroner, noe som indikerer at ettersp&#248;rselen og markedet for omsetning av alkoholholdige drikkevarer og tobakksvarer er stort og &#248;kende</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Dette er ei dobling fr&#229; 2009 d&#229; denne l&#229;g p&#229; 29,4 millionar kroner, noko som indikerer at ettersp&#248;rselen og marknaden for omsetnad av alkoholhaldige drikkevarer og tobakksvarer er stort og aukande</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.40373</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>For de fleste narkotikatypene som kommer i pille- og/eller pulverform, utgj&#248;r beslag i post en forholdsvis stor andel av total beslaglagt mengde.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>For dei fleste narkotikatypane som kjem i pille- og/eller pulverform, utgjer beslag i post ein etter m&#229;ten stor del av total beslaglagd mengde.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.04474</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/f92bbeeeb00943378e558a62bc62f823/rd-0031b.docx.converted</prop>
+     <seg>krever dokumentasjon for at varene tidligere er utf&#248;rt fra landet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/f92bbeeeb00943378e558a62bc62f823/rd-0031n.docx.converted</prop>
+     <seg>krev dokumentasjon for at varene tidlegare er utf&#248;rte fr&#229; landet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">3.04667</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/f92bbeeeb00943378e558a62bc62f823/rd-0031b.docx.converted</prop>
+     <seg>Rubrikken for verdi er bare obligatorisk &#229; fylle ut n&#229;r det dreier seg om yrkesutstyr (av &#171;mindre verdi&#187;).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/f92bbeeeb00943378e558a62bc62f823/rd-0031n.docx.converted</prop>
+     <seg>Rubrikken for verdi er berre obligatorisk &#229; fylle ut n&#229;r det dreier seg om yrkesutstyr (av &#171;mindre verdi&#187;).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.9373</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-bokmal.pdf.converted</prop>
+     <seg>Du m&#229; ta med deg flyttegodset kort tid etter flytting til Norge, og du m&#229; levere erkl&#230;ringen samtidig som du fortoller flyttegodset.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-nynorsk.pdf.converted</prop>
+     <seg>Du m&#229; ta med deg flyttegodset kort tid etter flytting til Noreg, og du m&#229; levere erkl&#230;ringa samtidig som du fortollar flyttegodset.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">4.76386</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Tolletaten har i 2018 beslaglagt tobakksvarer med avgiftsunndragelse tilsvarende 35,1 millioner kroner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Tolletaten har i 2018 beslaglagt tobakksvarer med avgiftsunndraging p&#229; 35,1 millionar kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">3.29353</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Gjennom 2018 har det skjedd en voldsom &#248;kning i beslag av voldsprodukter i form av kniver, stikkv&#229;pen, sl&#229;sshansker, batonger og elektrosjokkv&#229;pen i postsendinger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Gjennom 2018 har det skjedd ein kraftig auke i beslag av valdsprodukt i form av knivar, stikkv&#229;pen, sl&#229;sshanskar, batongar og elektrosjokkv&#229;pen i postsendingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.9272</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-b.docx.converted</prop>
+     <seg>Vi vil f&#248;re fortegnelser over gjeldende transitteringer hvor v&#229;r Universalgaranti/garantifritak er benyttet og vil overv&#229;ke bruken av referansebel&#248;pet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-n.docx.converted</prop>
+     <seg>Vi vil f&#248;re lister over gjeldande transitteringar der vi har nytta Universalgaranti/garantifritaket v&#229;rt og vil overvake bruken av referansebel&#248;pet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.69754</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Dette kan indikere en dreining i modus fra innf&#248;rsel i st&#248;rre kvantum med transportmidler eller personer til innf&#248;rsel i mindre kvanta med post.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Dette kan indikere ei dreiing i modus fr&#229; innf&#248;rsel i st&#248;rre kvantum med transportmiddel eller personar til innf&#248;rsel i mindre kvanta med post.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.17848</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Det gj&#248;res forholdsvis f&#229; beslag av ammunisjon og skytev&#229;pen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Det er etter m&#229;ten f&#229; beslag av ammunisjon og skytev&#229;pen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.05673</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/5f574570aa594e60839391ab884d04fa/rd-0083b.docx.converted</prop>
+     <seg>Foretaket er kjent med at, som tollagerholder, er de ansvarlige for &#229; overholde tollovens forpliktelser i forbindelse med lagring eller annen disponering av ufortollet vare og kan anses som tollskyldner n&#229;r disse ikke overholdes, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/5f574570aa594e60839391ab884d04fa/rd-0083n.docx.converted</prop>
+     <seg>F&#248;retaket er kjent med at, som tollagerhaldar, er dei ansvarlege for &#229; overhalde pliktene i tollova i samband med lagring eller anna disponering av ufortolla vare og kan reknast som tollskuldnar n&#229;r desse ikkje blir haldne, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.66425</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-bokmal.pdf.converted</prop>
+     <seg>Sammen med denne erkl&#230;ringen skal du legge ved en liste over alle varene du har med deg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-nynorsk.pdf.converted</prop>
+     <seg>Saman med denne erkl&#230;ringa skal du leggje ved ei liste over alle varene du har med deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.1307</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Tilgangen til gode kontrollfasiliteter, som blant annet kontrollhaller, er avgj&#248;rende for kvaliteten i kontrollgjennomf&#248;ringen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Tilgangen til gode kontrollfasilitetar, som mellom anna kontrollhallar, er avgjerande for kvaliteten i kontrollgjennomf&#248;ringa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.37238</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Kampen mot den organiserte og alvorlige smuglingen har alltid h&#248;y prioritet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Kampen mot den organiserte og alvorlege smuglinga har alltid h&#248;g prioritet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.2952</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Tolletatens kontroll av blant annet legemidler er et viktig bidrag for &#229; motvirke denne trenden ved &#229; forhindre at disse kommer til omsetning i Norge.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Tolletatens kontroll av mellom anna legemiddel er eit viktig bidrag for &#229; motverke denne trenden ved &#229; forhindre at desse kjem til omsetnad i Noreg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.58166</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-bokmal.pdf.converted</prop>
+     <seg>Det er egne regler om tollfritak for brukt b&#229;t som du tar med deg n&#229;r du flytter til Norge.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-nynorsk.pdf.converted</prop>
+     <seg>Det er eigne regler om tollfritak for brukt b&#229;t som du tek med deg n&#229;r du flyttar til Noreg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.94417</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Dette arbeidet er ressurskrevende, og er avhengig av b&#229;de god etterretningsinformasjon og god kontrollgjennomf&#248;ring.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Dette arbeidet er ressurskrevjande, og er avhengig av b&#229;de god etterretningsinformasjon og god kontrollgjennomf&#248;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-b.docx.converted</prop>
+     <seg>Sted og dato</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-n.docx.converted</prop>
+     <seg>Stad og dato</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.84229</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-b.docx.converted</prop>
+     <seg>Legg ved en oversikt over samtlige personer i ledelsen i foretaket, foretakets juridiske representanter og personer i foretaket som er ansvarlig for oppgaver relatert til tollbehandlingen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-n.docx.converted</prop>
+     <seg>Legg ved ei oversikt over alle personar i leiinga i f&#248;retaket, f&#248;retaket sine juridiske representantar og personar i f&#248;retaket som er ansvarlege for oppg&#229;ver knytt til tollbehandlinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">3.21772</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Antall narkotikabeslag gjort p&#229; personer viser en jevn &#248;kning siden 2009, med et par mindre betydelige unntak, mens antall beslag gjort p&#229; transportmidler viser en generell &#248;kning, med variasjoner fra &#229;r til &#229;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Talet p&#229; narkotikabeslag gjort p&#229; personar viser ein jamn auke sidan 2009, med eit par mindre vesentlege unntak, medan talet p&#229; beslag gjort p&#229; transportmiddel viser ein generell auke, med variasjonar fr&#229; &#229;r til &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.07745</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/5e1a46e84f1445d79375b7573bf61821/rd-0082b.docx.converted</prop>
+     <seg>Foretaket er kjent med at hvis fastsatte vilk&#229;r ikke overholdes eller at de som tollagerholder p&#229; annen m&#229;te gj&#248;r seg skyldig i misbruk, kan tillatelsen suspenderes eller trekkes tilbake,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/5e1a46e84f1445d79375b7573bf61821/rd-0082n.docx.converted</prop>
+     <seg>F&#248;retaket er kjent med at om fastsette vilk&#229;r ikkje overhaldast eller at dei som tollagerholdar p&#229; annan m&#229;te gjer seg skyldig i misbruk, kan l&#248;yvet suspenderast eller trekkast tilbake,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.9883</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Tolletatens innsats motvirker at samfunnsskadelige varer n&#229;r forbruker eller det nasjonale markedet, og bidrar slik til innbyggernes sikkerhet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Innsatsen til Tolletaten motverkar at samfunnsskadelege varer n&#229;r forbrukarar eller den nasjonale marknaden, og bidrar slik til tryggleik for innbyggjarane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">3.43989</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Tall fra Folkehelseinstituttet for 2018 viser at flere d&#248;r av legemidler som inneholder opioider enn av heroin i Norge.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Tal fr&#229; Folkehelseinstituttet for 2018 viser at fleire d&#248;yr av legemiddel som inneheld opioidar enn av heroin i Noreg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">4.66998</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>i 2018, i hovedsak som f&#248;lge av ett stort beslag.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>i 2018, i hovudsak som f&#248;lgje av eitt stort beslag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">3.06298</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Antall AOT-poeng summert opp for alle AOT-beslag.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Talet p&#229; AOT-poeng summert opp for alle AOT-beslag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.38759</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>I disse vurderingene legger man vekt p&#229; risiko- og trusselvurderinger for det aktuelle geografiske omr&#229;det og den konkrete trafikkstr&#248;mmen, samt aktuelle ressurser, fasiliteter og utstyr som er til disposisjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>I desse vurderingane legg ein vekt p&#229; risiko- og trusselvurderingar for det aktuelle geografiske omr&#229;det og den konkrete trafikkstraumen, samt aktuelle ressursar, fasilitetar og utstyr som er til disposisjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">3.78</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/c13adcd5012d4df7bba6215955d4c519/tollvesenet_aarsmelding_2013_bm.pdf.converted</prop>
+     <seg>Tollerne ville likevel sjekke bilen litt n&#230;rmere og fant totalt473 liter brennevin og 20 000 sigaretter i aluminiumskisten som var bak i bilen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/c13adcd5012d4df7bba6215955d4c519/arsmelding_2013_nynorsk.pdf.converted</prop>
+     <seg>Tollarane ville likevel sjekke bilen litt n&#230;rare, og fann totalt473 liter brennevin og 20 000 sigarettar i aluminiumskista som var bak i bilen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.43952</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-b.docx.converted</prop>
+     <seg>Vi vil informere tollmyndighetene skriftlig dersom referansebel&#248;pet viser seg &#229; v&#230;re utilstrekkelig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-n.docx.converted</prop>
+     <seg>Vi vil informere tollmyndigheitene skriftleg dersom referansebel&#248;pet viser seg &#229; vere utilstrekkeleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.51739</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/f92bbeeeb00943378e558a62bc62f823/rd-0031b.docx.converted</prop>
+     <seg>Blanketten kan benyttes som legitimasjonsdokument for varer av mindre verdi som medbringes av reisende for bruk under midlertidig opphold i utlandet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/f92bbeeeb00943378e558a62bc62f823/rd-0031n.docx.converted</prop>
+     <seg>Blanketten kan nyttast som legitimasjonsdokument for varer av mindre verdi som blir tekne med av reisande for bruk under mellombels opphald i utlandet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">3.55145</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>I statsbudsjettet for 2016 bevilget Stortinget midler til utbygging av elektronisk tilstedev&#230;relse p&#229; alle landeveis grenseoverganger og fergekaier med utenlandstrafikk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>I statsbudsjettet for 2016 l&#248;yvde Stortinget midlar til utbygging av elektronisk n&#230;rv&#230;r p&#229; alle grenseovergangar p&#229; landeveg og ferjekaier med utanlandstrafikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">3.29504</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Fra 2000-tallet har det v&#230;rt en &#248;kning p&#229; 200 prosent i overdosed&#248;dsfall i Europa som en f&#248;lge av bruk av sterke smertestillende medikamenter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Fr&#229; 2000-talet har det vore ein auke p&#229; 200 prosent i overdosed&#248;dsfall i Europa som ein f&#248;lgje av bruk av sterke smertestillande medikament.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.65714</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-bokmal.pdf.converted</prop>
+     <seg>Du m&#229; ha v&#230;rt bosatt i utlandet sammenhengende i minst ett &#229;r for &#229; kunne ta med deg flyttegodset ditt uten &#229; betale toll og avgifter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-nynorsk.pdf.converted</prop>
+     <seg>Du m&#229; ha vore busett i utlandet samanhengande i minst eitt &#229;r for &#229; kunne ta med deg flyttegodset ditt utan &#229; betale toll og avgifter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.24571</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6d968efd5b644e16aeee9b3762138d38/rd-0084b.docx.converted</prop>
+     <seg>Foretaket har rutiner som sikrer kravene til tollagerregnskap og f&#248;ring av dette, ogs&#229; ved ferieavvikling og sykdom, f&#248;lges, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6d968efd5b644e16aeee9b3762138d38/rd-0084n.docx.converted</prop>
+     <seg>F&#248;retaket har rutinar som sikrar at krava til tollagerrekneskap og f&#248;ring av dette, ogs&#229; ved ferieavvikling og sjukdom, f&#248;lgjast, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">3.89368</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Under hovedm&#229;l 2 er det prioritert &#229; avdekke og stanse restriksjonsvarer for omr&#229;dene helse, milj&#248; og sikkerhet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Under hovudm&#229;l 2 er det prioritert &#229; avdekke og stoppe restriksjonsvarer for omr&#229;da helse, milj&#248; og tryggleik.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.25126</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Tolletaten er fysisk tilstede ved grenseoverganger p&#229; landevei, ved alle landets flyplasser med utenlandstrafikk, samt ved flere havner og p&#229; togruter med utenlandstrafikk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Tolletaten er fysisk tilstade ved grenseovergangar p&#229; landeveg, ved alle flyplassane med utanlandstrafikk, samt ved fleire hamner og p&#229; togruter med utanlandstrafikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">2.1176</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/5e1a46e84f1445d79375b7573bf61821/rd-0082b.docx.converted</prop>
+     <prop type="source-document">https://www.toll.no/contentassets/6d968efd5b644e16aeee9b3762138d38/rd-0084b.docx.converted</prop>
+     <prop type="source-document">https://www.toll.no/contentassets/5f574570aa594e60839391ab884d04fa/rd-0083b.docx.converted</prop>
+     <seg>Foretaket har rutiner som sikrer at kravene til tollagerhold til enhver tid, ogs&#229; ved ferieavvikling og sykdom, f&#248;lges, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/5f574570aa594e60839391ab884d04fa/rd-0083n.docx.converted</prop>
+     <prop type="source-document">https://www.toll.no/contentassets/6d968efd5b644e16aeee9b3762138d38/rd-0084n.docx.converted</prop>
+     <prop type="source-document">https://www.toll.no/contentassets/5e1a46e84f1445d79375b7573bf61821/rd-0082n.docx.converted</prop>
+     <seg>F&#248;retaket har rutinar som sikrar at krava til tollagerhald til ei kvar tid, ogs&#229; ved ferieavvikling og sjukdom, blir f&#248;lgde, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">2.32536</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Fysisk tilstedev&#230;relse p&#229; grensen er n&#248;dvendig for &#229; gjennomf&#248;re m&#229;lrettet kontroll.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Fysisk n&#230;rv&#230;r p&#229; grensa er n&#248;dvendig for &#229; gjennomf&#248;re m&#229;lretta kontroll.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">2.86353</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-bokmal.pdf.converted</prop>
+     <seg>Det er p&#229; grunn av tv-lisens og krav til kontroll av elektrisk utstyr som kommer til Norge.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-nynorsk.pdf.converted</prop>
+     <seg>Det er p&#229; grunn av tv-lisens og krav til kontroll av elektrisk utstyr som kjem til Noreg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">2.07745</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/5f574570aa594e60839391ab884d04fa/rd-0083b.docx.converted</prop>
+     <seg>Foretaket er kjent med at hvis fastsatte vilk&#229;r ikke overholdes eller at de som tollagerholder p&#229; annen m&#229;te gj&#248;r seg skyldig i misbruk, kan tillatelsen suspenderes eller trekkes tilbake,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/5f574570aa594e60839391ab884d04fa/rd-0083n.docx.converted</prop>
+     <seg>F&#248;retaket er kjent med at om fastsette vilk&#229;r ikkje overhaldast eller at dei som tollagerhaldar p&#229; annan m&#229;te gjer seg skyldig i misbruk, kan l&#248;yvet suspenderast eller trekkast tilbake,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>N&#229;r et objekt er valgt ut til kontroll benytter Tolletaten ulike verkt&#248;y som hunder, bodyskannere, bagasjer&#248;ntgen og skannere til transportmidler.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>N&#229;r Tolletaten vel ut eit objekt til kontroll, nyttar vi ulike verkt&#248;y som hundar, bodyskannarar, bagasjer&#248;ntgen og skannarar til transportmiddel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.43536</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6f42a511af3e408bb371918e3f6e5e54/rd-0067b.docx.converted</prop>
+     <seg>S&#248;knaden om tilbakebetaling blir behandlet av</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6f42a511af3e408bb371918e3f6e5e54/rd-0067n.docx.converted</prop>
+     <seg>S&#248;knaden om tilbakebetaling blir behandla av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.5375</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-bokmal.pdf.converted</prop>
+     <seg>Forklaring til erkl&#230;ringen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-nynorsk.pdf.converted</prop>
+     <seg>Forklaring til erkl&#230;ringa</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">2.20909</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/c13adcd5012d4df7bba6215955d4c519/tollvesenet_aarsmelding_2013_bm.pdf.converted</prop>
+     <seg>desember &#248;nsket tollerne p&#229; Svinesund &#229; stoppe en svenskregistrert varebil.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/c13adcd5012d4df7bba6215955d4c519/arsmelding_2013_nynorsk.pdf.converted</prop>
+     <seg>desember ville tollarane p&#229; Svinesund stoppe ein svenskregistrert varebil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.75035</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-bokmal.pdf.converted</prop>
+     <seg>Skal du ha med deg v&#229;pen eller ammunisjon, m&#229; du ha tillatelse fra politiet som du legger ved denne erkl&#230;ringen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-nynorsk.pdf.converted</prop>
+     <seg>Skal du ha med deg v&#229;pen eller ammunisjon, m&#229; du ha l&#248;yve fr&#229; politiet som du legg ved denne erkl&#230;ringa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.675</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-b.docx.converted</prop>
+     <seg>N&#229;r Tolletaten mottar garantierkl&#230;ringen vil du motta autorisasjonen, et garantireferansenummer og en adgangskode knyttet til garantireferansenummeret, samt et antall garantisertifikater.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-n.docx.converted</prop>
+     <seg>N&#229;r Tolletaten tek imot garantierkl&#230;ringa, f&#229;r du autorisasjonen, eit garantireferansenummer og ein tilgangskode knytt til garantireferansenummeret, i tillegg til fleire garantisertifikat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">2.7803</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>B&#229;de styrking av ressurser p&#229; etterretningsomr&#229;det, videre utnyttelse av ANPR, bruk av ulike verkt&#248;y p&#229; ulike niv&#229; i kontrollsammenheng og bemanning bidrar inn i etatens arbeid med &#229; beskytte samfunnet mot ulovlig inn- og utf&#248;rsel av varer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>B&#229;de styrking av ressursar p&#229; etterretningsomr&#229;det, vidare utnytting av ANPR, bruk av ulike verkt&#248;y p&#229; ulike niv&#229; i kontrollsamanheng og bemanning bidrar inn i etatens arbeid med &#229; verne samfunnet mot ulovleg inn- og utf&#248;rsel av varer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.94561</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>De st&#248;rste beslagsmengdene gj&#248;res fortsatt p&#229; transportmidler.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Dei st&#248;rste beslagsmengdene blir framleis gjort p&#229; transportmiddel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">2.34618</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Form&#229;let med grensekontroll er &#229; beskytte samfunnet mot ulovlig inn- og utf&#248;rsel av farlige og ulovlige varer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>F&#248;rem&#229;let med grensekontroll er &#229; verne samfunnet mot ulovleg inn- og utf&#248;rsel av farlege og ulovlege varer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">2.24031</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/5e1a46e84f1445d79375b7573bf61821/rd-0082b.docx.converted</prop>
+     <seg>Foretaket har rutiner som sikrer kravene til tollagerregnskap og f&#248;ring av dette, ogs&#229; ved ferieavvikling og sykdom, f&#248;lges, jf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/5e1a46e84f1445d79375b7573bf61821/rd-0082n.docx.converted</prop>
+     <seg>F&#248;retaket har rutinar som sikrar at krava til tollagerrekneskap og f&#248;ring av dette, ogs&#229; ved ferieavvikling og sjukdom, blir f&#248;lgde, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.13265</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/58ec3bceab4f4b15ac69f9e51498890b/rd_0066b_tilbakebetaling_fortollingsautomat.docx.converted</prop>
+     <seg>S&#248;knad om tilbakebetaling av toll p&#229; varer fortollet med fortollingsautomat</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/58ec3bceab4f4b15ac69f9e51498890b/rd_0066n_tilbakebetaling_fortollingsautomat.docx.converted</prop>
+     <seg>S&#248;knad om tilbakebetaling av toll p&#229; varer som er fortolla med fortollingsautomat</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">3.0913</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Kampen mot terror er viktig b&#229;de i et nasjonalt og et internasjonalt perspektiv.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Kampen mot terror er viktig b&#229;de i eit nasjonalt og eit internasjonalt perspektiv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">2.163</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Vi mener at dette ikke er et utrykk for mindre alkoholsmugling, men at smuglingen har funnet nye veier inn i landet og at flere av sakene er innenfor grensen for ileggelse av forenklet forelegg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Vi meiner at dette ikkje er eit uttrykk for mindre alkoholsmugling, men at smuglinga har funne nye vegar inn i landet og at fleire av sakene er innanfor grensa for &#229; skrive ut forenkla f&#248;relegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">4.24105</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Antall brukerdoser for narkotika og alkoholholdige drikkevarer er stabilt over mange &#229;r med en nedgang i 2018.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Talet p&#229; brukardosar for narkotika og alkoholhaldige drikkevarer er stabilt over mange &#229;r med ein nedgang i 2018.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.27097</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-b.docx.converted</prop>
+     <seg>P&#229; foresp&#248;rsel vil vi gj&#248;re dokumentasjonen i fm denne autorisasjonen tilgjengelig for tollmyndighetene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6e1ef36d324648bebe7f2fc1713dae14/soknad-om-universalgaranti-n.docx.converted</prop>
+     <seg>P&#229; f&#248;respurnad vil vi gjere dokumentasjonen i samband med denne autorisasjonen tilgjengeleg for tollmyndigheitene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">2.40901</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/tolletatens-arsrapport-2018.pdf.converted</prop>
+     <seg>Dette gj&#248;res gjennom synlig tilstedev&#230;relse som forebygger manglende etterlevelse, og ved &#229; stoppe de som ikke etterlever lover og regelverk for toll- og varef&#248;rsel.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3e270b06ccd44d848f35b7d0f95bf021/190305-endelig-arsrapport-2018_nn.pdf.converted</prop>
+     <seg>Dette gjer Tolletaten gjennom synleg n&#230;rv&#230;r som f&#248;rebyggjer manglande etterleving, og ved &#229; stoppe dei som ikkje etterlever lover og regelverk for toll- og varef&#248;rsel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">3.71379</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.toll.no/contentassets/6f42a511af3e408bb371918e3f6e5e54/rd-0067b.docx.converted</prop>
+     <seg>Med hjemmel i tolloven &#167; 12-11, s&#248;kes det om tilbakebetaling av for mye innbetalt toll etter bruk av Tolletatens app for fortolling av reisegods.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/6f42a511af3e408bb371918e3f6e5e54/rd-0067n.docx.converted</prop>
+     <seg>Med heimel i tollova &#167; 12-11, s&#248;kjer eg om tilbakebetaling av for mykje innbetalt toll etter bruk av Tolletatens app for fortolling av reisegods.</seg>
+    </tuv>
+   </tu>
+ </body>
+</tmx>

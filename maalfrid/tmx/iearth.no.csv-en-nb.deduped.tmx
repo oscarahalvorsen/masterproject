@@ -1,0 +1,2604 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T110255" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">3.29221</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/27/students-as-partners-workshop/</prop>
+     <seg>In 2019-2020 she was a Fulbright Scholar based at Elon University, North Carolina, USA.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/27/studenter-som-partnere-workshop/</prop>
+     <seg>I 2019-2020 mottok hun Fulbright stipend for opphold ved Elon University i Nord Carolina.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.36966</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/01/2068/</prop>
+     <seg>Last, Helge Drange (UiB) made a useful demo on how to make effective digital teaching using the software Kaltura and Zoom.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/01/vellykket-forste-seminar/</prop>
+     <seg>Avslutningsvis ble det demonstrert av Helge Drange (UiB) hvordan man kan effektivisere digital undervisning gjennom bruk av Kaltura og Zoom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.42747</prop>
+    <prop type="score-bicleaner">0.738</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/01/16/iearth-student-workshop-using-design-thinking/</prop>
+     <seg>iEarth student workshop using Design Thinking</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/01/16/iearth-student-workshop-med-design-thinking/</prop>
+     <seg>iEarth student workshop med Design Thinking</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.62208</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/contact/</prop>
+     <seg>Centre leader of SFU iEarth and leader of the national consortium since the beginning in 2016.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/kontakt/</prop>
+     <seg>Senterleder for SFU iEarth og har leda det nasjonale konsortiumet siden det ble opprettet i 2016.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.93644</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/19/diku-network-seminar/</prop>
+     <seg>All the SFUs in Norway where gathered, digitally, at the DIKU network seminar 11-12 of November.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/13/diku-nettverkssamling-11-12-november/</prop>
+     <seg>DIKU Nettverkssamling 11-12 november inviterte DIKU alle SFUene til nettverkssamling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.00835</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/02/20/meeting-in-the-iearth-consortium-tromso/</prop>
+     <seg>Representative from ProTed, Siw Sk&#248;vset, visited the meeting to tell about their SFU-work within teacher education.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/02/14/mote-i-iearth-konsortiet-tromso/</prop>
+     <seg>I tillegg fikk konsortiet bes&#248;k av Siw Sk&#248;vset fra ProTed som fortalte om deres arbeid med SFU innen l&#230;rerutdanningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.93651</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2017/04/03/meeting-in-the-iearth-consortium-oslo/</prop>
+     <seg>Meeting in the iEarth consortium, Oslo</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2017/04/03/mote-i-iearth-konsortiet-oslo/</prop>
+     <seg>M&#248;te i iEarth konsortiet, Oslo</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.08333</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/10/18/teachers-retreat-autumn-2018/</prop>
+     <seg>I addition, Christian J&#248;rgensen from Department of Biology, UiB, visited to give an inspiring talk about his own experiences with teaching and a workshop about writing practice.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/18/teachers-retreat-hosten-2018/</prop>
+     <seg>I tillegg var vi heldige &#229; f&#229; med oss Christian J&#248;rgensen fra Institutt for biologi ved UiB, med inspirerende foredrag om egen undervisning og workshop om skrivetrening.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.17273</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/06/04/iearths-digital-learning-forum-03-06-21/</prop>
+     <seg>iEarths Digital Learning Forum &#8211; Jypiter Notebook</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/06/04/iearths-digitale-laeringsforum-03-06-21/</prop>
+     <seg>iEarths Digitale L&#230;ringsforum &#8211; sharing session om bruken av Jupyter notebook i undervisning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.61518</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/24/flipped-classroom-seminar-23-04-2020/</prop>
+     <seg>, lecturer at UNSW Australia, shared her experiences with using flipped classroom teaching in a Physics 1-course.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/27/flipped-classroom-seminar-23-04-20/</prop>
+     <seg>, underviser ved UNSW Australia, delte sine erfaringer med &#229; bruke metoden omvendt undervisning i et Fysikk-1 kurs.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.68173</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/19/unis-learning-forum-2020/</prop>
+     <seg>th annual learning forum was arranged 27-29 October at UNIS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/19/unis-laeringsforum-2020/</prop>
+     <seg>Det &#229;rlige l&#230;ringsforumet p&#229; UNIS ble avholdt for syvende gang 27-29 oktober.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.88083</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/12/career-day-corona-style/</prop>
+     <seg>10 older students were invited to give the best possible answers to the student questions:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/12/karrieredag-koronastyle/</prop>
+     <seg>10 inviterte deltakere, og tidligere studenter, var invitert for &#229; svare best mulig p&#229; studentenes sp&#248;rsm&#229;l:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.38553</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/02/25/iearth-consortium-meeting-in-tromso/</prop>
+     <seg>of February, the iEarth consortium met in Troms&#248;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/02/25/iearth-konsortiummote-i-tromso/</prop>
+     <seg>februar m&#248;ttes iEarth konsortiet i Troms&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.04674</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/05/iearth-digital-learning-forum-05-11-2020/</prop>
+     <seg>This week we had the pleasure to hear from one of our professor II, Anders Ahlberg from the University in Lund.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/05/iearth-digitale-laeringsforum-05-11-2020/</prop>
+     <seg>Denne uken hadde vi den glede &#229; f&#229; h&#248;re fra en av v&#229;re professor IIere, Anders Ahlberg fra Universitetet i Lund.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/01/17/new-student-representative-from-uio/</prop>
+     <seg>I view iEarth as an opportunity to improve the educational program not just at UiO, but nation wide.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/01/17/ny-studentrepresentant-fra-uio/</prop>
+     <seg>Jeg ser p&#229; iEarth som en god mulighet &#229; v&#230;re med &#229; forbedre studiehverdagen ikke bare p&#229; UiO, men ogs&#229; for geologistudenter i hele Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.54979</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/30/seminar-in-digital-field-learning/</prop>
+     <seg>In addition, Harald Sodemann, professor at UiB, showed a video on how to use iPad tablet as a online whiteboard during teaching.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/30/seminar-in-digital-field-learning-2/</prop>
+     <seg>I tillegg viste Harald Sodemann, professor ved UiB, en film om hvordan man kan bruke iPad som online whiteboard i digital undervisning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">4.225</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/for-the-lecturer/resources/relevant-conferences/</prop>
+     <seg>took place in Bologna, Italy, from August 26th to 30th, 2019. Read more:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/for-underviseren/ressurser/relevante-konferanser/</prop>
+     <seg>holdt i Bologna, Italia, fra 26 &#8211; 30. august 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">3.82045</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/12/03/course-evaluation-arranged-by-students/</prop>
+     <seg>Be responsible for interviews with 5-6 fellow class mates</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/12/03/kursevaluering-arrangert-av-studenter/</prop>
+     <seg>Gjennomf&#248;re et intervju med 5-6 studenter fra kurset</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.21308</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/12/12/new-iearth-student-representatives-at-uit/</prop>
+     <seg>and I am a first year student from Lillehammer studying geology at UiT.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/12/12/nye-iearth-studenter-ved-uit/</prop>
+     <seg>og jeg er f&#248;rste&#229;rsstudent fra Lillehammer og studerer geologi ved UiT.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.14834</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/15/the-geopraksis-project-will-spend-6-3-million-nok-on-developing-internships-for-bachelor-students-in-the-coming-years/</prop>
+     <seg>In September DIKU published a call for up to 40 million NOK for projects leading to increase work relevance in education, strengthening student learning and facing the needs from industry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/12/15/geopraksis-prosjektet-skal-bruke-63-millioner-pa-utvikling-av-arbeidslivspraksis-for-bachelorstudenter-i-arene-som-kommer/</prop>
+     <seg>Diku lyste i september ut inntil 40 millioner kroner til prosjekter som skulle f&#248;re til &#248;kt arbeidsrelevans i utdanningene, styrke studentens l&#230;ring og m&#248;te arbeidslivets behov.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.06731</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/12/03/course-evaluation-arranged-by-students/</prop>
+     <seg>From left: Martha, Janosch, Nora and Anna</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/12/03/kursevaluering-arrangert-av-studenter/</prop>
+     <seg>Fra venstre: Martha, Janosch, Nora og Anna</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.29237</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>Several professors are involved and the second part of the field course is led by Jostein Bakke, professor at Department of Earth science, UiB.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>Flere undervisere er involvert og den andre delen av ekskursjonen ledes av Jostein Bakke, professor ved institutt for geovitenskap, UiB.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.00186</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/02/04/inauguration-of-the-unis-arctic-geology-department-alumni-club/</prop>
+     <seg>Membership of the Arctic Geology Alumni Club is now open to all former and present students and staff, and details about how to join will be annonuced on the Department of Arctic Geology- UniS Facebook page.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/02/04/1541/</prop>
+     <seg>Alle tidligere studenter og ansatte ved UniS kan n&#229; melde seg inn i Arctic Geology Alumni Club og detaljer om hvordan man kan melde seg inn vil bli annonsert p&#229; facebooksiden til Department of Arctic Geology- UniS</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.59394</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>The excursion guide takes the students on a 1-hour long journey through the geology of Western Norway, from Bergen to Stord.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>Ekskursjonen tar studentene med p&#229; en 1-timers lang reise gjennom geologien p&#229; Vestlandet, fra Bergen til Stord.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.64589</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/08/25/national-university-course-in-geohazards/</prop>
+     <seg>This week is the kick-off for a new, national course in geohazards at UiB, UiO and UiT.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/08/25/nasjonalt-universitetskurs-i-geofarer/</prop>
+     <seg>Denne uken g&#229;r startskuddet for et nytt, nasjonalt kurs i geofarer ved UiB, UiO og UiT.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.02308</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>, where Atle presented the making and used of the movies.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>, hvor Atle presenterte hvordan filmene ble laget og hvordan de skal brukes i undervisningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.48776</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/10/09/comment-to-the-national-budget-2019/</prop>
+     <seg>25 million NOK will hardly be enough for a new call for Centre of Excellence in Education (SFU).&#8221;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/09/kommentar-til-statsbudsjettet-2019/</prop>
+     <seg>25 millioner kroner holder knapt nok til &#229; lyse ut en ny runde av Sentre for fremragende utdanning (SFU).&#187;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.5011</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/08/new-national-student-leader/</prop>
+     <seg>iEarths first national student leader, Serianna Kvar&#248;y.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/08/ny-nasjonal-studentleder/</prop>
+     <seg>Ny nasjonal studentleder- Serianna Kvar&#248;y.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.26071</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/iearth-network/</prop>
+     <seg>&#8211; Department of Arctic Geology and Department of Arctic Geophysics at the University Centre in Svalbard (UNIS)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/iearth-nettverket/</prop>
+     <seg>&#8211; Avdeling for Arktisk geologi og Arktisk Geofysikk ved Universitetessenteret p&#229; Svalbard UNIS)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.27342</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/01/14/iearth-digital-learning-forum-14-01-2021/</prop>
+     <seg>Katarina M&#229;rtensson is senior lecturer and academic developer at Lund University, Sweden.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/01/14/iearths-digitale-laeringsforum-14-04-2021/</prop>
+     <seg>Katarina M&#229;rtensson er f&#248;rsteamenuensis og akademisk utvikler ved Universitetet i Lund, Sverige.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.27692</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/01/18/workshop-with-result-at-uit/</prop>
+     <seg>The topic of the workshop was flexible learning in higher education, active teaching processes and the use of &#8220;flipped classroom&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/01/18/workshop-med-result-pa-uit/</prop>
+     <seg>Temaet for workshopen var fleksibel l&#230;ring i h&#248;yere utdanning, aktive l&#230;ringsprosesser og bruk av &#8220;flipped classroom&#8221;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.87055</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/15/the-geopraksis-project-will-spend-6-3-million-nok-on-developing-internships-for-bachelor-students-in-the-coming-years/</prop>
+     <seg>The pilot project will start in January 2021 at UiT and will be followed up with a national pilot project in the fall of 2021.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/12/15/geopraksis-prosjektet-skal-bruke-63-millioner-pa-utvikling-av-arbeidslivspraksis-for-bachelorstudenter-i-arene-som-kommer/</prop>
+     <seg>Planen er &#229; igangsette det f&#248;rste pilotprosjektet med praksisordninger ved UiT v&#229;ren 2021, for deretter &#229; f&#248;lge opp med en nasjonal pilot allerede h&#248;sten 2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.5042</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/01/2068/</prop>
+     <seg>Anders Mattias Lundmark (UiO) presented an example of using such virtual field guides in practice in the Oslo area.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/01/vellykket-forste-seminar/</prop>
+     <seg>Anders Mattias Lundmark (UiO) fulgte opp med et eksempel p&#229; bruk av virtuelle feltguider i Oslo-feltet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.02143</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/alumni/</prop>
+     <seg>Department of Geoscience, University of Troms&#248;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/alumni/</prop>
+     <seg>Institutt for geovitenskap, Universitetet i Troms&#248;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.07143</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/for-the-lecturer/teachers-retreat-en/</prop>
+     <seg>More information about the program here:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/for-underviseren/geolearning-forum/</prop>
+     <seg>Mer informasjon se program her:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.14526</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/10/15/geolearning-forum-2020/</prop>
+     <seg>We hope that you enjoyed this event and that you will join us for the Geolearning Forum 2021, hopefully in person.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/10/16/geolearning-forum-2020-2/</prop>
+     <seg>Vi i iEarth h&#229;per dere som deltok ble inspirert og at dere vil bli med oss p&#229; Geolearning Forum 2021 som forh&#229;pentligvis vil v&#230;re en konferanse hvor vi alle kan m&#248;tes fysisk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.43763</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/30/seminar-in-digital-field-learning/</prop>
+     <seg>Today's iEarth Digital Learning Forum seminar addressed this challenge with the topic</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/30/seminar-in-digital-field-learning-2/</prop>
+     <seg>Dagens iEarth Digital Learning Forum seminar adresserte denne utfordringen og hadde tema</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.34026</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/our-projects/national-course-geohazards-in-norway/</prop>
+     <seg>A digital platform is being developed to provide the basis for activities, webinars and group work.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/vare-prosjekter/nasjonalt-fag-geofarer-i-norge/</prop>
+     <seg>En digital plattform skal legge grunnlaget for aktiviteter, webinarer og gruppearbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.78846</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/06/19/diku-funding-for-web-based-course-in-sustainability-and-climate-action/</prop>
+     <seg>We congratulate Kerim Hestnes Nisancioglu with DIKU funding!</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/06/19/diku-stotte-til-nettbasert-kurs-i-baerekraft-og-klimahandling/</prop>
+     <seg>Vi gratulerer Kerim Hestnes Nisancioglu med ny DIKU st&#248;tte!</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.17273</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>This spring has forced instructors to be creative.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>Denne v&#229;ren har tvunget undervisere til &#229; bli kreative.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.42359</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/10/30/words-from-the-centre-leader-2/</prop>
+     <seg>Then we have an exciting workshop that will take place on November 16 with Catherine Bovill who will be appointed as Professor 2 at GEO UiB.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/10/30/ord-fra-senterlederen/</prop>
+     <seg>S&#229; har vi en spennande workshop som finn stad den 16 november med Cathrine Bovill som vil bli tilsett som professor 2 ved GEO UiB,.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">3.12847</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/02/04/inauguration-of-the-unis-arctic-geology-department-alumni-club/</prop>
+     <seg>The next meeting will be held in conjunction with the Svaldbard Science Conference in Oslo in November 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/02/04/1541/</prop>
+     <seg>Nest m&#248;te vil bli avholdt i sammenheng med Svalbard Science Conference som holdes i Oslo november 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">4.04062</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/for-the-lecturer/teachers-retreat-en/</prop>
+     <seg>In September 2018, 30 teachers were gathered at Geilo for Teacher&#8217;s Retreat.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/for-underviseren/geolearning-forum/</prop>
+     <seg>I september 2018 samlet 30 undervisere seg p&#229; Geilo for Teacher&#8217;s Retreat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.01087</prop>
+    <prop type="score-bicleaner">0.698</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/01/16/geoeducation-at-mgwm2020/</prop>
+     <seg>Geoeducation at NGWM2020</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/01/16/geoundervisning-pa-ngwm2020/</prop>
+     <seg>Geoundervisning p&#229; NGWM2020</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.91176</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/24/iearth-digital-learning-forum-19-11-2020/</prop>
+     <seg>, is an associate professor at Lund University (Sweden) and has 30 years of experience in academic development.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/24/iearth-digitale-laeringsforum-19-11-2020/</prop>
+     <seg>, er Universitetslektor ved Universitetet i Lund og har 30 &#229;rs erfaring innen akademisk utvikling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>After cooperating with them, Atle has a few tips for those wanting to produce their own virtual field trips:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>Etter &#229; ha samarbeidet med dem har Atle noen tips til de som &#248;nsker &#229; produsere sine egne virtuelle feltkurs:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.05385</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/30/seminar-in-digital-field-learning/</prop>
+     <seg>Seminar in digital field learning</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/30/seminar-in-digital-field-learning-2/</prop>
+     <seg>Seminar i digital feltl&#230;ring</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.00357</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/02/04/inauguration-of-the-unis-arctic-geology-department-alumni-club/</prop>
+     <seg>Inauguration of the UNIS Arctic Geology Department Alumni Club</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/02/04/1541/</prop>
+     <seg>F&#248;rste m&#248;te i Arctic Geology Alumni Club</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.24149</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/27/iearth-presented-iver-martens/</prop>
+     <seg>Within iEarth, I am the PD leader for the work package that deals with community contact, practice schemes and alumni work.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/27/iearth-presentert-iver-martens/</prop>
+     <seg>Innenfor iEarth er jeg PD leder for arbeidspakken som tar for seg samfunnskontakt, praksisordninger og alumniarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">3.78235</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/15/the-geopraksis-project-will-spend-6-3-million-nok-on-developing-internships-for-bachelor-students-in-the-coming-years/</prop>
+     <seg>DIKU received 41 applications with a frame of 190.000.000 NOK.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/12/15/geopraksis-prosjektet-skal-bruke-63-millioner-pa-utvikling-av-arbeidslivspraksis-for-bachelorstudenter-i-arene-som-kommer/</prop>
+     <seg>Diku mottok 41 s&#248;knader, med en total ramme p&#229; 190.000.000.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.20602</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/08/25/national-university-course-in-geohazards/</prop>
+     <seg>The work is led by Mathilde B. S&#248;rensen, UiB, in cooperation with Jose Cepeda and Karianne Lille&#248;ren at UiO and Louise Vick at UiT.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/08/25/nasjonalt-universitetskurs-i-geofarer/</prop>
+     <seg>S&#248;rensen ved UiB, i samarbeid med Jose Cepeda og Karianne Lille&#248;ren ved UiO og Louise Vick ved UiT.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.0177</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/10/18/teachers-retreat-autumn-2018/</prop>
+     <seg>Other topics discussed were digital field teaching, writing practice, how to involve students in research, course evaluation, how and why to take use of our alumni network, and discussion around today&#8217;s geoscience curriculum.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/18/teachers-retreat-hosten-2018/</prop>
+     <seg>Andre tema var digital feltundervisning, skrivetrening, hvordan f&#229; studenter deltakende i forskning, emneevaluering, hvordan vi kan ta bedre nytte av alumninettverk og diskusjon rundt dagens geofaglige curriculum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">8.1</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/07/iearth-digital-learning-forum-26-11-2020/</prop>
+     <prop type="source-document">https://iearth.no/en/2018/12/12/new-iearth-student-representatives-at-uib/</prop>
+     <prop type="source-document">https://iearth.no/en/2020/12/15/the-geopraksis-project-will-spend-6-3-million-nok-on-developing-internships-for-bachelor-students-in-the-coming-years/</prop>
+     <prop type="source-document">https://iearth.no/en/2020/12/17/iearth-digital-learning-forum-mirjam-glessmer/</prop>
+     <prop type="source-document">https://iearth.no/en/2018/12/03/course-evaluation-arranged-by-students/</prop>
+     <prop type="source-document">https://iearth.no/en/2018/12/12/new-iearth-student-representatives-at-uit/</prop>
+     <seg>December 3, 2018</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/12/15/geopraksis-prosjektet-skal-bruke-63-millioner-pa-utvikling-av-arbeidslivspraksis-for-bachelorstudenter-i-arene-som-kommer/</prop>
+     <prop type="source-document">https://iearth.no/2018/12/12/nye-iearth-studenter-ved-uib/</prop>
+     <prop type="source-document">https://iearth.no/2020/12/07/iearths-digitale-laeringsforum-26-11-2020/</prop>
+     <prop type="source-document">https://iearth.no/2018/12/03/kursevaluering-arrangert-av-studenter/</prop>
+     <prop type="source-document">https://iearth.no/2020/12/17/2971/</prop>
+     <prop type="source-document">https://iearth.no/2018/12/12/nye-iearth-studenter-ved-uit/</prop>
+     <seg>desember 3, 2018</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.15304</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/06/02/successful-scientific-teaching-seminar/</prop>
+     <seg>of May, the Online Scientific Teaching Seminar earlier announced here on the webpage was held. 25 PhDs, Postdocs, researchers, associate professors, and professors from UiT, UiB and UiO met to discuss the practice of teaching and development.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/06/02/vel-gjennomfort-vitenskapelig-laeringsseminar/</prop>
+     <seg>Her deltok 25 PhDer, Postdoktorer, forskere, f&#248;rsteamanuensiser og professorer innen geovitenskapen fra UiT, UiB og UiO, som sammen diskuterte undervisningspraksis og -utvikling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.1277</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>But I think that with the combination of movies, assignments, online resources and some independent work in the field, we are as close as you can possibly get to achieving the same, Atle explains.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>Men jeg tror at med kombinasjonen av filmer, oppgaver, nettressurser og noe selvstendig arbeid i felt, kan vi komme n&#230;rt med &#229; oppn&#229; det samme, sier Atle.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.11584</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/03/06/new-winner-of-the-olav-thon-foundation/</prop>
+     <seg>Competence in marine geology and palaeoceanography will be achieved through research-based teaching, practice and making experiences in marine field and laboratory techniques.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/03/06/ny-tildeling-fra-olav-thon-stiftelsen/</prop>
+     <seg>Kompetanse i maringeologi og paleoseanografi skal oppn&#229;s gjennom forskningsbasert undervisning, trening og erfaring i marine felt og laboratorieteknikker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.03636</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/alumni/</prop>
+     <seg>Department of Earth science, University of Bergen</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/alumni/</prop>
+     <seg>Institutt for geovitenskap, Universitetet i Bergen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.11318</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/author/maj005/page/4/</prop>
+     <prop type="source-document">https://iearth.no/en/2018/10/18/teachers-retreat-autumn-2018/</prop>
+     <seg>Both scientific employees, PhD&#8217;s and students were present at Geilo.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/author/maj005/page/4/</prop>
+     <prop type="source-document">https://iearth.no/2018/10/18/teachers-retreat-hosten-2018/</prop>
+     <seg>B&#229;de vitenskapelig ansatte, stipendiater og studenter var tilstede.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.67882</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/development-areas/1-shaping-the-future/</prop>
+     <seg>Domain 1 focusses on the fundamental importance of geoscience education in the face of global challenges.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/utviklingsomrader/1-forme-fremtiden/</prop>
+     <seg>Omr&#229;de 1 fokuserer p&#229; viktigheten av geovitenskapelig utdanning i m&#248;te med globale utfordringer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.15565</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>&#8211; Absolutely, and there are already several online resources available that offer virtual field trips in various formats to different places in the world.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>&#8211; Absolutt, og det er flere nettressurser tilgjengelig for &#229; tilby virtuelle feltturer i forskjellige formater og forskjellige steder i verden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.58571</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/for-the-student/practical-curriculum/how-to-convert-your-fieldmove-data-to-arcgis/</prop>
+     <seg>How to convert your FieldMove data to ArcGIS</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/for-studenten-2/praktisk-pensum/hvordan-overfore-fieldmove-data-til-arcgis/</prop>
+     <seg>Hvordan overf&#248;re FieldMove data til ArcGIS</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.02375</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/19/diku-network-seminar/</prop>
+     <seg>In addition, Centre leader of COAST, Salman Nazir, shared how they work collaboratively and the Centre managers of ProTed and CEMPE shared their experiences on how it is to be in the final chapter of the centre period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/13/diku-nettverkssamling-11-12-november/</prop>
+     <seg>I tillegg var det innlegg fra Salman Nazir fra COAST samt vi fikk h&#248;re fra senterlederne i ProTed og CEMPE som er i en avsluttende fase av sin senter periode.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">2.20714</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/10/09/comment-to-the-national-budget-2019/</prop>
+     <seg>In the proposed budget, 250 million NOK has been set aside for the quality work in higher education for the next 4 years, where 85 million NOK is for 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/09/kommentar-til-statsbudsjettet-2019/</prop>
+     <seg>I det fremlagte statsbudsjettet har 250 millioner kroner blitt satt av til kvalitet for h&#248;yere utdanning for de neste 4 &#229;r, hvorav 85 millioner kroner kommer i 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.16739</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/alumni/</prop>
+     <seg>The alumni networks are open to all previous students, PhD-candidates and employees at your university.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/alumni/</prop>
+     <seg>Alumni p&#229; de ulike universitetene er &#229;pen for tidligere studenter og PhD-kandidater, samt ansatte ved instituttet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.21757</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/02/10/meet-our-the-iearth-phd-students/</prop>
+     <seg>My name is Jennie Lundqvist and I partly owe my PhD position at The Arctic University of Norway (UiT) to a starfish from the North Sea.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/03/12/bli-kjent-med-vare-phd-kandidater/</prop>
+     <seg>Jeg heter Jennie Lundqvist og det at jeg n&#229; har begynt som PhD kandidat ved UiT kan spores tilbake til en sj&#248;stjerne fra Nordsj&#248;en.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.4359</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/for-the-student/practical-curriculum/movies-threshold-terms/</prop>
+     <seg>&#8226; Spjeldn&#230;s, N. (2017) Geothermal energy, in: Store norske leksikon.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/for-studenten-2/praktisk-pensum/undervisningsfilmer-terskelbegrep/</prop>
+     <seg>&#8226; Spjeldn&#230;s, N. (2017) Geotermisk energi, i: Store norske leksikon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.39296</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/author/maj005/page/4/</prop>
+     <seg>Teachers Retreat, inspired by the model of bioCEED, is an iEarth initiative to create a place for geoscience [&#8230;]</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/author/maj005/page/4/</prop>
+     <seg>Teacher&#8217;s Retreat, etter modell fra bioCEED, er et initiativ av iEarth for &#229; kunne skape et samlingspunkt for geofaglige [&#8230;]</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.85538</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/01/2068/</prop>
+     <seg>of April at 10:15 with demos of the software V3Geo and EPOS-n Portal.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/01/vellykket-forste-seminar/</prop>
+     <seg>10.15 med demo av programvarene V3Geo og EPOS-n Portal.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">2.175</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/24/iearth-digital-learning-forum-24-09-2020/</prop>
+     <seg>iEarth Digital Learning Forum &#8211; Jan Alexis Nielsen</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/24/iearth-digitale-laeringsforum-24-09-2020/</prop>
+     <seg>iEarth Digitale L&#230;ringsforum &#8211; Jan Alexis Nielsen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.07203</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth-2-2/phd-projects-available-in-iearth/</prop>
+     <seg>Phd at the Department of Arctic Geology and Arctic Geophysics at UNIS:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/bli-phd-i-iearth/</prop>
+     <seg>PhD ved Institutt for arktisk geologi og arktisk geofysikk:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.78085</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/03/06/new-winner-of-the-olav-thon-foundation/</prop>
+     <seg>Kikki (Helga) Flesche Kleiven and Ulysses Ninnemann, both for the Department of Geoscience at UiB, got awarded 1.45 mill NOK from the Olav Thon Foundation to develop the student active learning in marine geology and palaeoceanography.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/03/06/ny-tildeling-fra-olav-thon-stiftelsen/</prop>
+     <seg>Kikki (Helga) Flesche Kleiven og Ulysses Ninnemann, begge fra Institutt for geovitenskap ved UiB, har f&#229;tt tildelt 1.45 mill fra Olav Thon Stiftelsen til &#229; utvikle studentaktiv l&#230;ring i maringeologi og paleoseanografi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">3.13767</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/01/29/iearth-digital-learning-forum-28-01-2021/</prop>
+     <seg>He holds a PhD in climate science from EAPS/MIT, and has been a professor at UiB since 2012.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/01/29/iearths-digitale-laeringsforum-28-01-2021/</prop>
+     <seg>Kerim har PhD i klimavitenskap fra EAPS/MIT, og har v&#230;rt professor ved UiB siden 2012.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.37134</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/02/10/meet-our-the-iearth-phd-students/</prop>
+     <seg>Meet Jennie Lundquist &#8211; iEarths new PhD student at UiT</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/03/12/bli-kjent-med-vare-phd-kandidater/</prop>
+     <seg>M&#248;t Jennie Lundqvist &#8211; iEarth sin nye PhD kandidat ved UiT</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.49063</prop>
+    <prop type="score-bicleaner">0.698</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/09/23/field-learning-evaluation-workshop/</prop>
+     <seg>Field learning evaluation workshop</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/09/23/workshop-om-evaluering-av-feltlaering/</prop>
+     <seg>Workshop om evaluering av feltl&#230;ring</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.12381</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/28/student-experience-with-digital-teaching/</prop>
+     <seg>Covid-19 changed the way we teach and how the students learn, and since March the students have been home following the teaching on digital platforms.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/28/studentenes-oppfatning-av-digital-undervisning/</prop>
+     <seg>N&#229;r Covid-19 forandret hverdagen til de fleste, ble ogs&#229; studentene v&#229;re p&#229;virket. Siden mars har de sittet hjemme og fulgt undervisning p&#229; digitale plattformer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.03333</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>&#8211; We try to engage the students to use local geology as examples.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>&#8211; Vi pr&#248;ver &#229; engasjere studentene i &#229; bruke eksempler fra sin lokale geologi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">8.07857</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/02/26/new-article-from-unis/</prop>
+     <prop type="source-document">https://iearth.no/en/2019/02/04/inauguration-of-the-unis-arctic-geology-department-alumni-club/</prop>
+     <prop type="source-document">https://iearth.no/en/2018/02/20/meeting-in-the-iearth-consortium-tromso/</prop>
+     <prop type="source-document">https://iearth.no/en/2019/02/14/presentation-of-student-films-at-laeringslaben/</prop>
+     <prop type="source-document">https://iearth.no/en/2020/02/27/seminar-with-lene-moller-madsen/</prop>
+     <prop type="source-document">https://iearth.no/en/2020/02/25/iearth-consortium-meeting-in-tromso/</prop>
+     <prop type="source-document">https://iearth.no/en/2021/02/22/iearth-digital-learning-forum-18-02-2021/</prop>
+     <seg>February 4, 2019</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/02/14/presentasjon-av-studentfilmer-hos-laeringslaben/</prop>
+     <prop type="source-document">https://iearth.no/2020/02/26/ny-artikkel-fra-unis/</prop>
+     <prop type="source-document">https://iearth.no/2019/02/04/1541/</prop>
+     <prop type="source-document">https://iearth.no/2020/02/25/iearth-konsortiummote-i-tromso/</prop>
+     <prop type="source-document">https://iearth.no/2021/02/22/iearths-digitale-laeringsforum/</prop>
+     <prop type="source-document">https://iearth.no/2018/02/14/mote-i-iearth-konsortiet-tromso/</prop>
+     <prop type="source-document">https://iearth.no/2020/02/27/seminar-med-lene-moller-madsen/</prop>
+     <seg>februar 4, 2019</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">2.44715</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/08/new-national-student-leader/</prop>
+     <seg>She has been involved in iEarth since 2018 and is therefore a natural choice as a first student leader.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/08/ny-nasjonal-studentleder/</prop>
+     <seg>Hun har v&#230;rt involvert i iEarth siden 2018, og har n&#229; f&#229;tt rollen som nasjonal leder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.14286</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/04/09/iearth-digital-learning-forum-08-04-2021/</prop>
+     <seg>iEarth Digital Learning Forum &#8211; The iEarth Special</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/04/09/iearths-digitale-laeringsforum-08-04-2021/</prop>
+     <seg>iEarths Digitale L&#230;ringsforum &#8211; iEarth Spesial</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.95877</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth-2-2/phd-projects-available-in-iearth/</prop>
+     <seg>PhD at the Department of Earth Science at UiB:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/bli-phd-i-iearth/</prop>
+     <seg>PhD ved Institutt for Geovitenskap ved UiB:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.88413</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/alumni/</prop>
+     <seg>: After registering, choose groups and search for &#8221;Institutt for geovitenskap, UiB&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/alumni/</prop>
+     <seg>Etter registrering velger man groups og s&#248;ker p&#229; &#8221;Institutt for geovitenskap, UiB&#8221;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.58571</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/05/iearth-digital-learning-forum-05-11-2020/</prop>
+     <seg>iEarth Digital Learning Forum- Anders Ahlberg</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/05/iearth-digitale-laeringsforum-05-11-2020/</prop>
+     <seg>iEarth Digitale L&#230;ringsforum &#8211; Anders Ahlberg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">2.14687</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth-2-2/phd-projects-available-in-iearth/</prop>
+     <seg>PhD at the Geophysical Institute at UiB:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/bli-phd-i-iearth/</prop>
+     <seg>PhD ved Geofysisk institutt ved UiB:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.2925</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/01/17/new-student-representative-from-uio/</prop>
+     <seg>We are delighted to welcome Eirik Vadstein Karlstad as an iEarth student representative at UiO.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/01/17/ny-studentrepresentant-fra-uio/</prop>
+     <seg>Vi &#248;nsker velkommen til Eirik Vadstein Karlstad som er ny iEarth studentrepresentant ved UiO</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.13545</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/02/14/presentation-of-student-films-at-laeringslaben/</prop>
+     <seg>iEarth and students Ingvild and Eline presented today the project &#8220;Educational movies &#8211; made for and by students&#8221; during L&#230;ringslaben&#8217;s breakfast meeting.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/02/14/presentasjon-av-studentfilmer-hos-laeringslaben/</prop>
+     <seg>iEarth og studentene Ingvild og Eline presenterte i dag prosjektet &#171;Undervisningsfilmer &#8211; laget av og for studenter&#187; under L&#230;ringslaben sin Labfrokost.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.44253</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/for-the-student/practical-curriculum/movies-threshold-terms/</prop>
+     <seg>&#8226; Rosvold, K., A. (2017) Geothermal power plant, in: Store norske leksikon.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/for-studenten-2/praktisk-pensum/undervisningsfilmer-terskelbegrep/</prop>
+     <seg>&#8226; Rosvold, K., A. (2017) Geotermisk kraftverk, i: Store norske leksikon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">3.18212</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/06/19/diku-funding-for-web-based-course-in-sustainability-and-climate-action/</prop>
+     <seg>He, together with Anders Mattias Lundmark, associate professor at UiO, received 4 mill NOK in the DIKU program &#8220;Fleksible utdanningstilbud&#8221; for their project</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/06/19/diku-stotte-til-nettbasert-kurs-i-baerekraft-og-klimahandling/</prop>
+     <seg>Han, sammen med Anders Mattias Lundmark, f&#248;rsteamanuensis ved UiO, mottok 4 mill NOK fra DIKU-programmet &#8220;Fleksible utdanningstilbud&#8221; for prosjektet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.15265</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/our-projects/national-course-geohazards-in-norway/</prop>
+     <seg>Geological and environmental hazards (i.e. earthquakes, landslides, floods, etc.) are a threat to society, and bound to increase in a changing climate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/vare-prosjekter/nasjonalt-fag-geofarer-i-norge/</prop>
+     <seg>Geologiske og naturlige farer (som jordskjelv, skred, flom osv.) er en trussel ovenfor de fleste samfunn, og som vi vil se hyppigere frekvens av i et endrende klima.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">2.38192</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/06/10/iearth-consortium-meeting/</prop>
+     <seg>In addition, time was found for a hike to Melderskin (1427 masl), a visit to the Steinpark (Rock Park) and the Rosendal Manor House, and a tour of the recently opened Folgefonna centre.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/06/07/iearth-konsortiet-mottes/</prop>
+     <seg>I tillegg ble b&#229;de fjelltur til Melderskin (1427 moh.), bes&#248;k i Steinparken og Baronihagen, og omvisning p&#229; Folgefonnsenteret sneket inn i agendaen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.17958</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/for-the-lecturer/resources/relevant-conferences/</prop>
+     <seg>The goal of the MNT-Conference was to promote the quality and the relevance of mathematics and natural science education through contributing to research based and scientific approach to teaching and learning &#8211; SoTL (Scholarship of teaching and Learning).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/for-underviseren/ressurser/relevante-konferanser/</prop>
+     <seg>MNT-konferansen hadde som form&#229;l &#229; fremme MNT-utdanningenes kvalitet og relevans gjennom &#229; bidra til forskningsbasert og vitenskapelige tiln&#230;rming til undervisning og l&#230;ring &#8211; SoTL (Scholarship of Teaching and Learning) &#8211; slik vi kjenner det fra forskning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/24/iearth-digital-learning-forum-19-11-2020/</prop>
+     <seg>th year and has inspired over 30 Swedish and Scandinavian institutions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/24/iearth-digitale-laeringsforum-19-11-2020/</prop>
+     <seg>Denne ordningen er n&#229; i sitt nittende &#229;r og har inspirert over 30 svenske og skandinaviske institusjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">1.23762</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/our-projects/national-course-geohazards-in-norway/</prop>
+     <seg>A unique feature of the course will be that students will benefit from the expertise of all partnering institutes (UiB, UiO, UiT, UNIS, NVE), exposing students to the research environment beyond their home institution and outside of academia.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/vare-prosjekter/nasjonalt-fag-geofarer-i-norge/</prop>
+     <seg>Et unikt element med kurset er at studenter vil dra nytte av ekspertisen til studieinstitusjoner utenfor sitt eget (UiB, UiO, UiT, UNIS, NVE), som eksponerer studenten for forskningsmilj&#248;er i hele landet, ogs&#229; utenfor akademia.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.4</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/30/seminar-in-digital-field-learning/</prop>
+     <seg>See the presentation of Atle Rotevatn below.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/30/seminar-in-digital-field-learning-2/</prop>
+     <seg>Se presentasjon til Atle Rotevatn under.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.27158</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/08/new-national-student-leader/</prop>
+     <seg>Her role as national leader will initially be to aid in the establishment of student chapters at UiB, UiT and UiO.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/08/ny-nasjonal-studentleder/</prop>
+     <seg>Her vil rollen i f&#248;rste omgang v&#230;re &#229; hjelpe til &#229; etablere de ulike lokallagene ved UiB, UiO og UiT, og videre holde de i gang.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.3104</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/01/2068/</prop>
+     <seg>Lena H&#229;kansson (UNIS) started with sharing thoughts and experiences using virtual field guides at Svalbard and how these beneficially can be used under the present circumstances.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/01/vellykket-forste-seminar/</prop>
+     <seg>Lena H&#229;kansson (UNIS) har jobbet med virtuelle feltguider og beskrev hvordan disse med fordel kan brukes s&#230;rlig under den n&#229;v&#230;rende situasjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.26154</prop>
+    <prop type="score-bicleaner">0.694</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/24/flipped-classroom-seminar-23-04-2020/</prop>
+     <seg>Find more information and link to the meeting</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/27/flipped-classroom-seminar-23-04-20/</prop>
+     <seg>Finn mer informasjon om seminaret og link til m&#248;tet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">2.0392</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/12/career-day-corona-style/</prop>
+     <seg>th of May, 37 students and invited &#8220;old&#8221; students met on Zoom.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/12/karrieredag-koronastyle/</prop>
+     <seg>mai m&#248;ttes 37 studenter og tidligere studenter p&#229; zoom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.27742</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/10/18/teachers-retreat-autumn-2018/</prop>
+     <seg>The head of department for geoscience from UiO, Brit Lisa Skjekv&#229;le, and vice dean for education at the MatNat faculty at UiB, Harald Walderhaug, came to talk about the future geoscience education and institutional changes to improve the bachelor programs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/18/teachers-retreat-hosten-2018/</prop>
+     <seg>Instituttleder ved institutt for geofag ved UiO, Brit Lisa Skjekv&#229;le, og Visedekan for utdanning ved Det matematisk-naturvitenskapelige fakultet ved UiB, Harald Walderhaug, var tilstede for &#229; snakke om den fremtidige geofaglige utdanningen og institusjonelle tiltak for &#229; forbedre bachelorutdanningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">2.94859</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/for-the-lecturer/teachers-retreat-en/</prop>
+     <seg>Due to the Covid-19 situation, the forum will be arranged with digital keynotes and local workshops.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/for-underviseren/geolearning-forum/</prop>
+     <seg>P&#229; grunn av Covid-19 situasjonen vil forumet holdes med digitale innlegg og lokale workshops.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.455</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/06/02/successful-scientific-teaching-seminar/</prop>
+     <seg>The course was arranged by the Department of Geosciences, UiO and KURT &#8211; Centre for Teaching and Learning in Sciences, together with the research school DEEP and iEarth.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/06/02/vel-gjennomfort-vitenskapelig-laeringsseminar/</prop>
+     <seg>Kurset denne gang var arrangert av Institutt for geofag, UiO, og KURT &#8211; Kompetansesenter for undervisning i realfag og teknologi, sammen med forskerskolen DEEP og iEarth.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">3.08385</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/10/22/lecturer-of-the-year-2020-department-of-geosciences-uio/</prop>
+     <seg>The geological student association at UiO has awarded Mattias Lundmark and Kristina Dunkel with the title Lecturer of the year 2020.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/10/22/arets-foreleser-pa-geovitenskapelig-institutt-uio-2020/</prop>
+     <seg>Geologisk fagutvalg ved UiO har utmerket Mattias Lundmark og Kristina Dunkel med tittelen &#197;rets Foreleser 2020.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/18/iearth-digital-learning-forum-17-09-2020/</prop>
+     <seg>iEarth Digital Learning Forum &#8211; Kikki Kleiven</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/18/iearth-digitale-laeringsforum-17-09-2020/</prop>
+     <seg>iEarth digitale L&#230;ringsforum- Kikki Kleiven</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.18421</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/05/07/iearth-digital-learning-forum-06-05-21/</prop>
+     <seg>Thursday 5th of May we had our 4 new PhD students present themselves for the iEarth community.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/05/07/iearths-digitale-laeringsforum-06-05-21/</prop>
+     <seg>P&#229; torsdag 5. mai inviterte vi v&#229;re 4 nye PhD studenter til &#229; komme &#229; introdusere seg for iEarth-milj&#248;et.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">1.2459</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/08/22/site-visit-preparations/</prop>
+     <seg>Now the testing is over and the real deal awaits the 25 th</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/08/22/forberedelser-til-site-visit/</prop>
+     <seg>N&#229; er general pr&#248;ven ferdig og da gjenst&#229;r bare site visit 25.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">2.23015</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2016/11/07/hoping-for-excellence-status/</prop>
+     <seg>&#8220;22 applicants became 9 finalists, and tonight it becomes clear who will become a centre of excellence in education.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2016/11/07/haper-pa-fremragende-status/</prop>
+     <seg>&#8220;22 s&#248;kere ble til 9 finalister, og i kveld blir det klart hvilke som blir fremragende sentre for utdanning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">4.8</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/10/22/lecturer-of-the-year-2020-department-of-geosciences-uio/</prop>
+     <seg>Lecturer of the year 2020, Department of Geosciences UiO</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/10/22/arets-foreleser-pa-geovitenskapelig-institutt-uio-2020/</prop>
+     <seg>&#197;rets foreleser p&#229; Geovitenskapelig institutt UiO 2020</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.04712</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/10/30/words-from-the-centre-leader-2/</prop>
+     <seg>Two weeks ago, we had the first hybrid Geolearning Forum with focus on student active learning and industry collaboration.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/10/30/ord-fra-senterlederen/</prop>
+     <seg>For to veker sidan hadde vi det fyrste hybrid Geolearning Forum med fokus p&#229; studentaktiv l&#230;ring og n&#230;ringslivsamarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.33143</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/01/2068/</prop>
+     <seg>Further, Joachim Jacobs (UiB) shared his plan of replacing a field course in structural geology with student doing independent fieldwork on self-chosen localities.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/01/vellykket-forste-seminar/</prop>
+     <seg>Videre viste Joachim Jacobs (UiB) til hvordan feltkurs kan erstattes med selvstendig og selv-valgte feltlokaliteter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">2.4042</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/10/09/comment-to-the-national-budget-2019/</prop>
+     <seg>&#8220;&#8230; of the 85 million NOK budgeted for in 2019, the government suggest to strengthen the arena for competition for incentives in higher education, now managed by Diku, with 25 million NOK.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/09/kommentar-til-statsbudsjettet-2019/</prop>
+     <seg>&#171;&#8230;av opptrappingen p&#229; 85 millioner i 2019, foresl&#229;r regjeringen &#229; styrke konkurransearenaen for incentiver i h&#248;yere utdanning, som forvaltes av Diku, med 25 millioner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.39559</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>Jostein Bakke is also centre leader for iEarth, where the focus this spring has been on adapting to the digital teaching.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>Jostein Bakke er ogs&#229; senterleder for SFU iEarth, hvor fokus denne v&#229;re ogs&#229; har v&#230;rt p&#229; &#229; tilpasse seg den digitale undervisningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.60934</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/category/iearth-digital-learning-forum/page/2/</prop>
+     <seg>Today's iEarth Digital Learning Forum seminar addressed this challenge with the topic Digital field learning.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/category/iearth-digitalt-laeringsforum/</prop>
+     <seg>Dagens iEarth Digital Learning Forum seminar adresserte denne utfordringen og hadde tema digital feltl&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">2.01625</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/09/23/field-learning-evaluation-workshop/</prop>
+     <seg>The workshop ran on September 18-19 at UNIS. The workshop was funded by bioCEED.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/09/23/workshop-om-evaluering-av-feltlaering/</prop>
+     <seg>Workshopen ble avholdt 18-19 september ved UNIS og ble finansiert av bioCEED.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.24146</prop>
+    <prop type="score-bicleaner">0.686</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/04/06/meet-the-iearth-research-group-anders-ahlberg/</prop>
+     <seg>Meet the iEarth Research Group &#8211; Anders Ahlberg</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/04/12/bli-kjent-med-iearths-forskningsgruppe-anders-ahlberg/</prop>
+     <seg>Bli kjent med iEarths forskningsgruppe &#8211; Anders Ahlberg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">1.08107</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/08/25/national-university-course-in-geohazards/</prop>
+     <seg>UiB and UiO will arrange a common excursion in Western Norway, whereas UiT will arrange a separate excursion in Northern Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/08/25/nasjonalt-universitetskurs-i-geofarer/</prop>
+     <seg>UiB og UiO vil avholde en felles ekskursjon p&#229; Vestlandet, mens UiT vil arrangere en egen ekskursjon i n&#230;rmilj&#248;et.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">2.25545</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/01/14/iearth-digital-learning-forum-14-01-2021/</prop>
+     <seg>She has been co-president of the International Society for the Scholarship of Teaching and Learning, and is currently co-editor of its international journal, Teaching &amp; Learning Inquiry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/01/14/iearths-digitale-laeringsforum-14-04-2021/</prop>
+     <seg>Hun har tidligere v&#230;rt co-president for International Society for the Scholarship of Teaching and Learning, og er n&#229;v&#230;rende co-editor for dens internasjonale journal, Teaching &amp; Learning Inquiry.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.11111</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/07/iearth-digital-learning-forum-26-11-2020/</prop>
+     <seg>How do we choose which topics are best suited to teach Earth system science at an intro-level?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/12/07/iearths-digitale-laeringsforum-26-11-2020/</prop>
+     <seg>Hvordan velger vi emner som passer best til &#229; undervise Earth system science p&#229; et introduksjonsniv&#229;?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1.54942</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/iearth-educational-research-publication-series/</prop>
+     <seg>The iEarth Educational Research Publication Series is a database for educational development projects that have received funding from iEarth.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/iearth-educational-research-publication-series-2/</prop>
+     <seg>iEarth Educational Research Publication Series er en database for alle prosjektene som har f&#229;tt tildelt midler fra iEarth for &#229; utvikle prosjekt innen utdanning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">2.01429</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/10/22/iearth-digital-learning-forum-22-10-2020/</prop>
+     <seg>iEarth Digital Learning Forum &#8211; Mattias Lundmark</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/10/22/iearth-digitale-laeringsforum/</prop>
+     <seg>iEarth Digitale L&#230;ringsforum &#8211; Mattias Lundmark</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1.13571</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/01/16/new-publication/</prop>
+     <seg>Reference and link to the article:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/01/16/ny-publikasjon/</prop>
+     <seg>Referanse og link til artikkel:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">2.23427</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/02/10/meet-our-the-iearth-phd-students/</prop>
+     <seg>Thanks to Karl Ljung at Lund University, I was given the opportunity to pursue a master&#8217;s degree in geo-DBER which I began in the fall of 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/03/12/bli-kjent-med-vare-phd-kandidater/</prop>
+     <seg>Takket v&#230;re Karl Ljung ved Universitetet i Lund fikk jeg muligheten til &#229; ta en mastergrad i geodidaktikk som jeg startet p&#229; i 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">1.08475</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/10/18/teachers-retreat-autumn-2018/</prop>
+     <seg>There were also time for a hike in the snow to Hallingskarvet and bowling.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/18/teachers-retreat-hosten-2018/</prop>
+     <seg>Det ble ogs&#229; tid til fjelltur i sn&#248; opp til Hallingskarvet og bowling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">3.94</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/05/05/congratulation-project-fund-recipients-of-spring-2021/</prop>
+     <seg>Congratulation project fund recipients of spring 2021!</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/iearth-prosjektmidler-prosjekter-som-fikk-stotte-varen-2021/</prop>
+     <seg>Disse prosjektene mottok st&#248;tte fra iEarth v&#229;r 2021</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">1.08473</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/01/07/new-network-coordinator-for-iearth/</prop>
+     <seg>Anne will coordinate the work towards the SFU application due in April, and contiue our work to support those now starting on their own SoTL projects.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/01/04/ny-nettverkskoordinator-for-iearth/</prop>
+     <seg>Anne vil koordinere arbeidet frem mot SFU s&#248;knaden som sendes i april, og jobbe videre som en viktig st&#248;ttespiller for de som n&#229; g&#229;r i gang med sine egne SOTL-prosjekter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">1.26522</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2016/11/07/hoping-for-excellence-status/</prop>
+     <seg>At the University of Bergen, one hopes that the geology project iEarth will be one of them.&#8221;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2016/11/07/haper-pa-fremragende-status/</prop>
+     <seg>Ved Universitetet i Bergen h&#229;per man at geologiprosjektet iEarth n&#229;r helt opp.&#8221;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.90481</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/01/16/new-publication/</prop>
+     <seg>The article &#8220;Digital fieldwork with Fieldmove &#8211; how do digital tools influence geoscience students&#8217; learning experience in the field?&#8221; is based on feedback from students during their fieldwork in the geological field mapping course at UiO.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/01/16/ny-publikasjon/</prop>
+     <seg>Artikkelen &#8220;Digital fieldwork with Fieldmove &#8211; how do digital tools influence geoscience students&#8217; learning experience in the field?&#8221; er basert p&#229; erfaringer fra studenter og undervisere gjennom deres feltarbeid som en del av kurset Geologisk feltkartlegging ved UiO.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">1.01989</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/15/the-geopraksis-project-will-spend-6-3-million-nok-on-developing-internships-for-bachelor-students-in-the-coming-years/</prop>
+     <seg>The department for Geosciences at UiT, the department for Earth sciences at UiO and UiB, NVE, Equinor and NGI applied in the fall of 2020 for financing to establish an internship progtam for bachelor students in Earth Science. Project leader Iver Martens, UiT</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/12/15/geopraksis-prosjektet-skal-bruke-63-millioner-pa-utvikling-av-arbeidslivspraksis-for-bachelorstudenter-i-arene-som-kommer/</prop>
+     <seg>Prosjekleder Iver Martens, UiT Institutt for geovitenskap ved UiT, geofagsinstituttene ved UiO og UiB, NVE, Equinor og NGI s&#248;kte h&#248;sten 2020 om finansiering til &#229; iverksette et internshipprosjekt for bachelorstudenter i geovitenskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">1.22857</prop>
+    <prop type="score-bicleaner">0.696</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/10/30/formal-opening-of-iearth-unis/</prop>
+     <seg>Formal opening of iEarth UNIS</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/10/30/apning-av-iearth-pa-unis/</prop>
+     <seg>&#197;pning av iEarth p&#229; UNIS</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">1.55042</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/for-the-lecturer/teachers-retreat-en/</prop>
+     <seg>Presentations of talks and workshops:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/for-underviseren/geolearning-forum/</prop>
+     <seg>Presentasjoner fra foredrag og workshops:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.70111</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/01/16/the-olav-thon-foundation-funds-icefinse-project/</prop>
+     <seg>Professor Kerim Nisancioglu and researcher Anne-Katrine Faber from the University of Bergen have received funding from the Olav Thon foundation&#8217;s support for student active learning for their IceFinse project.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/01/16/olav-thon-stiftelsen-stotte-til-icefinse/</prop>
+     <seg>Professor Kerim Nisancioglu og Forsker Anne-Katrine Faber fra Universitet i Bergen er mottakere av Olav Thon Stiftelsens st&#248;tte til studentaktiv l&#230;ring for deres IceFinse prosjekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.94286</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/17/iearth-digital-learning-forum-mirjam-glessmer/</prop>
+     <seg>This time it was Mirjam Glessmer from GEO-Tag der Natur, Hamburg, Germany that presented her talk:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/12/17/2971/</prop>
+     <seg>Denne gangen var det Mirjam Glessmer fra GEO-Tag der Natur, Hamburg, Tyskland som presenterte:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">1.00082</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/04/iearth-digital-learning-forum-how-to-apply-for-iearth-project-funding/</prop>
+     <seg>iEarth Digital Learning Forum &#8211; How to apply for iEarth Project funding</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/03/iearth-digitalt-laeringsforum-hvordan-soke-iearth-stotte-til-interne-prosjekter/</prop>
+     <seg>iEarth Digitalt L&#230;ringsforum &#8211; Hvordan s&#248;ke iEarth st&#248;tte til interne prosjekter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">1.5133</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/02/20/meeting-in-the-iearth-consortium-tromso/</prop>
+     <seg>Meeting in the iEarth consortium, Troms&#248;</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/02/14/mote-i-iearth-konsortiet-tromso/</prop>
+     <seg>M&#248;te i iEarth konsortiet, Troms&#248;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.6125</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/iearth-network/</prop>
+     <seg>&#8211; Department of Geoscience at the University of Troms&#248; &#8211; the Arctic University of Norway (UiT)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/iearth-nettverket/</prop>
+     <seg>&#8211; Institutt for geovitenskap ved Universitetet i Troms&#248; &#8211; Norges arktiske universitet (UiT)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">1.00154</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/07/iearth-digital-learning-forum-26-11-2020/</prop>
+     <seg>The students that follow the intro course in geoscience at the department in Oslo (GEO1100) will later specialize in geology, geography, or geophysics/climate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/12/07/iearths-digitale-laeringsforum-26-11-2020/</prop>
+     <seg>Studentene som f&#248;lger introduksjonskurset i geovitenskap ved UiO (GEO1100) skal senere spesialisere seg i geologi, geografi eller geofysikk/klima.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">3.23239</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/01/2068/</prop>
+     <seg>The seminar, with the topic of field learning in a digital teaching environment, had 57 participants.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/01/vellykket-forste-seminar/</prop>
+     <seg>Seminaret, med tema om feltundervisning i en digital hverdag, hadde 57 deltakere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">1.24196</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>Atle Rotevatn, professor at the Department of Earth science, UiB, decided that if the students can&#8217;t join for field work, the field experience needs to come to them.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>Atle Rotevatn, professor ved institutt for geovitenskap, UiB, bestemte seg for at om studentene ikke kan v&#230;re med i felt, m&#229; felt komme til studentene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.7986</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/28/meet-our-student-chapters/</prop>
+     <seg>Judith Vestre (bottom right) leader, Solveig Osjord (bottom middle) Head of SoMe and digital content, Tora Myklebust (bottom left) Head of GeOracle, Serianna Kvar&#248;y (top left) National leader, Sverre Soldal (top left) Head of courses and development</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/28/mot-vare-studentlag/</prop>
+     <seg>Judith Vestre (nede til h&#248;yre) leder, Solveig Osjord (midten nede) SoMe/digitalt ansvarlig, Tora Myklebust (nede til venstre) GeOrakel ansvarlig, Serianna Kvar&#248;y (oppe til venstre) Nasjonal leder, Sverre Soldal (oppe til h&#248;yre) Fagkritisk kontakt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">1.0337</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/01/16/the-olav-thon-foundation-funds-icefinse-project/</prop>
+     <seg>The field course encompasses glaciology, climate and ice-cores and will be developed over a three year period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/01/16/olav-thon-stiftelsen-stotte-til-icefinse/</prop>
+     <seg>Feltkurset vil omhandle glasiologi, klima og iskjerner og vil bli videreutviklet over en periode p&#229; tre &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">1.85736</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/12/career-day-corona-style/</prop>
+     <seg>Earlier, 9 of the invited presenters had recorded a short video presenting themselves and given a short introduction to their time as a student, their work and advices to present students.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/12/karrieredag-koronastyle/</prop>
+     <seg>I forkant hadde 9 av de tidligere studenter lagt ut en film for &#229; presentere seg selv for &#229; fortelle om studier, jobb og r&#229;d til n&#229;v&#230;rende studenter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.15577</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/alumni/</prop>
+     <seg>&#8211; a webpage with alumni information, e.g. practical information, events, member information, etc.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/alumni/</prop>
+     <seg>&#8211; en nettside med informasjon om alumninettverket, arrangementer, andre alumni og mye mer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">2.11025</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/19/unis-learning-forum-2020/</prop>
+     <seg>12 UNIS teachers lead collegial sharing sessions, sharing, raising questions and discussing different methods and challenges that are relevant for developing educational quality UNIS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/19/unis-laeringsforum-2020/</prop>
+     <seg>12 instrukt&#248;rer fra UNIS ledet kollegiale dele sesjoner hvor de delte erfaringer, fremhevet sp&#248;rsm&#229;l og diskuterte utfordringer som er relevante for utviklingen av utdannings kvalitet p&#229; UNIS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">1.92707</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>They have also been assigned with some independent field data collection that can be done outside, individually, or in small groups of 2-3 students, as long as they adhere to the guidelines from the health authorities concerning Covid-19, Atle continues.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>De har f&#229;tt utlevert en samling selvstendige feltoppgaver som skal jobbes med ute, individuelt eller i sm&#229; grupper p&#229; 2-3 studenter, s&#229; lenge de f&#248;lger helsemyndighetenes retningslinjer for smittevern ang&#229;ende Covid-19, fortsetter Atle.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">1.48</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/our-projects/national-course-geohazards-in-norway/</prop>
+     <seg>A scholarship of teaching and learning (SoTL) structure will be designed and implemented for the course.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/vare-prosjekter/nasjonalt-fag-geofarer-i-norge/</prop>
+     <seg>SoTL-prosjekt (Scholarchip of teaching and learning) skal designes og gjennomf&#248;res som en del av prosessen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">3.11611</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/02/14/presentation-of-student-films-at-laeringslaben/</prop>
+     <seg>Eline Skakstad og Ingvild Andersen, together with Thomas Viflot, have spent the fall semester creating 5 movies that are available on har</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/02/14/presentasjon-av-studentfilmer-hos-laeringslaben/</prop>
+     <seg>Eline Skakstad og Ingvild Andersen, sammen med Thomas Viflot, har brukt h&#248;sten p&#229; &#229; produsere 5 filmer tilgjengelig p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">2.61833</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/12/career-day-corona-style/</prop>
+     <seg>&#8211; Christian Haug Eide &#8211; UiB &#8211; Associate professor</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/12/karrieredag-koronastyle/</prop>
+     <seg>&#8211; Christian Haug Eide &#8211; UiB &#8211; F&#248;rsteamanuensis</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">1.30091</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2017/11/03/meeting-in-the-iearth-consortium-longyearbyen/</prop>
+     <seg>The iEarth consortium together with the department of Artic geology, UNIS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2017/11/03/1041/</prop>
+     <seg>iEarth konsortiet og avdeling for arktisk geologi, UNIS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/iearth-network/</prop>
+     <seg>at the University of Bergen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/iearth-nettverket/</prop>
+     <seg>ved Universitetet i Bergen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">2.12914</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/03/06/new-winner-of-the-olav-thon-foundation/</prop>
+     <seg>Their project, &#8220;Marine competence in the 21 st</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/03/06/ny-tildeling-fra-olav-thon-stiftelsen/</prop>
+     <seg>Prosjektet deres, &#8220; Marin kompetanse for det 21.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">1.17783</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/01/07/new-network-coordinator-for-iearth/</prop>
+     <seg>2019 is upon us and we in iEarth start the new year of by welcoming Anne Stensland as our new network coordinator.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/01/04/ny-nettverkskoordinator-for-iearth/</prop>
+     <seg>Vi begynner 2019 med ansettelsen av en ny nettverkskoordinator for iEarth og &#248;nsker velkommen til Anne Stensland. Bilde fra det fenomenale feltkurset &#171;regionalgeologisk feltkurs til vestlandet&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">1.45714</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>&#8211; Everyone has adapted to use Teams and Zoom in their teaching activities.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>&#8211; Alle har tilpasset seg til &#229; bruke Teams og Zoom i deres undervisningsaktiviteter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/11/iearth-digital-learning-forum-10-09-2020/</prop>
+     <seg>iEarth Digital Learning Forum 10.09</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/11/iearth-digitalt-laeringsforum-10-09-2020/</prop>
+     <seg>iEarth Digitale L&#230;ringsforum 10.09</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">2.915</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/05/07/iearth-digital-learning-forum-06-05-21/</prop>
+     <seg>Rafael Horota &#8211; PhD student at UNIS</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/05/07/iearths-digitale-laeringsforum-06-05-21/</prop>
+     <seg>Rafael Horota &#8211; PhD student ved UNIS</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">1.67307</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2017/04/03/meeting-in-the-iearth-consortium-oslo/</prop>
+     <seg>Knut M&#248;rken, whom informed about the InterAct process at the faculty at UiO, and Anders Malthe-S&#248;rensen, whom informed about CCSE work and student involvement, visited the meeting.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2017/04/03/mote-i-iearth-konsortiet-oslo/</prop>
+     <seg>Med bes&#248;k fra Knut M&#248;rken, som informerte om InterAct prosessen ved fakultetet i UiO, og Anders Malthe-S&#248;rensen, som informerte om CCSE sitt arnbeidet og hvordan de har jobbet med studentinvolvering, ble dette noen vellykkede dager.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">1.97621</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/01/29/iearth-digital-learning-forum-28-01-2021/</prop>
+     <seg>Recently, he has been engaged in the UiB task force planning for courses and field work on board the upcoming 18 month cruise with</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/01/29/iearths-digitale-laeringsforum-28-01-2021/</prop>
+     <seg>Nylig har han ogs&#229; v&#230;rt engasjert i UiB sin arbeidsgruppe som planlegger kursene og feltarbeidet ombord det 18 m&#229;neder lange toktet med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">1.77391</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/iearth-network/</prop>
+     <seg>&#8211; Department of Geoscience at the University of Oslo (UiO)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/iearth-nettverket/</prop>
+     <seg>&#8211; Institutt for geofag ved Universitetet i Oslo (UiO)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">1.47568</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/about-iearth/iearth-network/</prop>
+     <seg>&#8211; Department of Earth Science and the Geophysical Institute at the University of Bergen (UiB)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/om-iearth/iearth-nettverket/</prop>
+     <seg>&#8211; Institutt for geovitenskap og Geofysisk Institutt ved Universitetet i Bergen (UiB)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">1.165</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/28/phd-project-available-in-iearth/</prop>
+     <seg>PhD projects available in iEarth</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/28/sok-om-a-bli-phd-i-iearth/</prop>
+     <seg>S&#248;k om &#229; bli PhD i iEarth</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">1.17867</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/19/unis-learning-forum-2020/</prop>
+     <seg>BioCEED and iEarth introduced in which ways we envision that we will collaborate and be a resource for all of UNIS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/19/unis-laeringsforum-2020/</prop>
+     <seg>BioCEED og iEarth introduserte hvordan vi ser for et samarbeid og hvodan vi skal jobbe for &#229; sammen bli en ressurs for hele UNIS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">3.40957</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/01/16/geoeducation-at-mgwm2020/</prop>
+     <seg>In total, 9 presentation and 3 posters were presented.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/01/16/geoundervisning-pa-ngwm2020/</prop>
+     <seg>Sesjonen var godt bes&#248;kt og totalt inneholdt den 9 presentasjoner og 3 plakater.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">1.04176</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/12/12/new-iearth-student-representatives-at-uit/</prop>
+     <seg>and I study geology on my first year at UiT.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/12/12/nye-iearth-studenter-ved-uit/</prop>
+     <seg>fra UiT som studerer geologi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">1.54043</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/10/18/teachers-retreat-autumn-2018/</prop>
+     <seg>From September 26th to 28th, 29 lecturers from UiB, UiO, UiT and UNIS was gathered for Teacher&#8217;s Retreat for the first time.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/18/teachers-retreat-hosten-2018/</prop>
+     <seg>Fra 26 &#8211; 28. september ble for f&#248;rste gang 29 undervisere fra UiB, UiO, UiT og UNIS samlet p&#229; Geilo for Teacher&#8217;s Retreat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">1.365</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/event/iearth-digital-learning-forum-seminar/?ical=1</prop>
+     <seg>SUMMARY:iEarth digital learning forum seminar</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/event/seminar-det-viktigste-faget-a-skrive-laerebok-i-geografi-for-videregaende-skole/?ical=1</prop>
+     <seg>SUMMARY:Seminar &#171;Det viktigste faget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">1.13333</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>I therefore concluded that we needed to make a movie version of the field trip that we normally take our first-year students on every April, explains professor Atle Rotevatn.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>Derfor bestemte jeg mer for &#229; lage en film-versjon av felt-delen som vi vanligvis tar v&#229;re f&#248;rste&#229;rsstudenter med p&#229; hver april, forteller professor Atle Rotevatn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">2.03663</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>Professor Atle Rotevatn on top of Katttnakken with Bertin Holme Flateb&#248;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>Professor Atle Rotevatn p&#229; toppen av Katttnakken med Bertin Holme Flateb&#248; fra BRIK Kompetansefilm.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">1.45182</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/02/22/iearth-digital-learning-forum-18-02-2021/</prop>
+     <seg>Oda Bj&#248;rnsdatter and Ingvild Lorentzen have a long experience with this types of thinking, and the field of career learning.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/02/22/iearths-digitale-laeringsforum/</prop>
+     <seg>Oda Bj&#248;rnsdatter og Ingvild Lorentzen har lang erfaring med denne type tankevirksomhet og innenfor karriere l&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">1.07862</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/contact/</prop>
+     <seg>She is an iEarth education chair at the Geophysical Institute (UiB) and had recently completed the Postgraduate Certificate in Education (PGCE).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/kontakt/</prop>
+     <seg>p&#229; Geofysisk institutt (UiB) og har nylig fullf&#248;rt Praktisk-Pedagogisk Utdanning (PPU).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">1.42771</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/17/iearth-digital-learning-forum-mirjam-glessmer/</prop>
+     <seg>Mirjam is starting as Prof II within iEarth in January, connected to the Geophysical Institute at UiB.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/12/17/2971/</prop>
+     <seg>Mirjam begynner som Prof II i iEarth i januar, tilknyttet Institutt for Geofysikk ved UiB.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">1.27857</prop>
+    <prop type="score-bicleaner">0.682</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2016/08/20/geology-project-in-the-last-run-for-statues-of-excellence/</prop>
+     <seg>article was published at uib.no the 15.07.2016.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2016/07/20/geologiprosjekt-kjemper-om-elitestatus/</prop>
+     <seg>artikkelen ble publisert p&#229; uib.no den 15.07.2016.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">1.02882</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/09/23/field-learning-evaluation-workshop/</prop>
+     <seg>Previous guest master students from the AB and AG departments were invited for a two-day workshop in Longyearbyen to discuss and evaluate field learning based on their personal experiences from the UNIS courses.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/09/23/workshop-om-evaluering-av-feltlaering/</prop>
+     <seg>Tidligere master studenter fra begge institutt var invitert til en to-dagers workshop i Longyearbyen for &#229; diskutere og evaluere feltl&#230;ring basert p&#229; deres personlige erfaringer fra UNIS fagene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="170" datatype="Text">
+    <prop type="score-hunalign">1.90006</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/10/09/comment-to-the-national-budget-2019/</prop>
+     <seg>&#8220;Quality Culture in Higher Education&#8221; from 2017, one should hope and believe that the government was more ambitious in the forthcoming national budget.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/09/kommentar-til-statsbudsjettet-2019/</prop>
+     <seg>&#171;Kultur for kvalitet i h&#248;yere utdanning&#187; som kom i 2017 skulle man h&#229;pe og tro at regjeringen ville v&#230;rt mer ambisi&#248;se i det kommende statsbudsjettet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="171" datatype="Text">
+    <prop type="score-hunalign">3.46087</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/for-the-lecturer/resources/relevant-conferences/</prop>
+     <seg>In 2018, 73 talks were given with the tag &#8220;education&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/for-underviseren/ressurser/relevante-konferanser/</prop>
+     <seg>I 2018 var det blant annet 73 innlegg merket med &#8220;education&#8221;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="172" datatype="Text">
+    <prop type="score-hunalign">1.00048</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2017/04/03/meeting-in-the-iearth-consortium-oslo/</prop>
+     <seg>After two intense and productive days at UiO we got even further in our iEarth work.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2017/04/03/mote-i-iearth-konsortiet-oslo/</prop>
+     <seg>Vi hadde to intense og sv&#230;rt hyggelige dager ved UiO der vi fikk g&#229;tt igjennom mange viktige punkt for &#229; ta iEarth videre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="173" datatype="Text">
+    <prop type="score-hunalign">1.14914</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/08/new-national-student-leader/</prop>
+     <seg>We welcome the first national leader of the iEarth student organization &#8211; Serianna Kvar&#248;y</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/08/ny-nasjonal-studentleder/</prop>
+     <seg>iEarth sin studentorganisasjon har f&#229;tt sin f&#248;rste nasjonale leder &#8211; Serianna Kvar&#248;y.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="174" datatype="Text">
+    <prop type="score-hunalign">1.16222</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2019/09/23/field-learning-evaluation-workshop/</prop>
+     <seg>In this workshop we explored and evaluated students learning during the fieldwork component in the courses at the Arctic Geology (AG) and Arctic Biology (AB) departments at UNIS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2019/09/23/workshop-om-evaluering-av-feltlaering/</prop>
+     <seg>I denne workshopen har vi utforsket og evaluert studenters l&#230;ringsutbytte gjennom feltdelen av fag ved Arktisk Geologi (AG) og Arktisk Biologi (AB) ved UNIS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="175" datatype="Text">
+    <prop type="score-hunalign">1.12902</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2017/04/03/meeting-in-the-iearth-consortium-oslo/</prop>
+     <seg>&#8221; and how we can work with representatives from the industry in the iEarth process.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2017/04/03/mote-i-iearth-konsortiet-oslo/</prop>
+     <seg>&#187; og hvordan vi skal jobbe med n&#230;ringlivskontakter i iEarth-prosessen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="176" datatype="Text">
+    <prop type="score-hunalign">2.2</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/01/2068/</prop>
+     <seg>The next seminar will be held already the 2 nd</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/01/vellykket-forste-seminar/</prop>
+     <seg>Neste seminar blir holdt den 2. april kl.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="177" datatype="Text">
+    <prop type="score-hunalign">1.08525</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/11/01/issotl18-towards-a-learning-culture/</prop>
+     <seg>A big thanks to bioCEED for all the time they have put in to arranging this great event.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/31/iearth-tilstede-pa-issotl18/</prop>
+     <seg>Takk til bioCEED for all tid og krefter de har brukt til &#229; f&#229; til dette arrangementet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="178" datatype="Text">
+    <prop type="score-hunalign">1.49467</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/12/15/the-geopraksis-project-will-spend-6-3-million-nok-on-developing-internships-for-bachelor-students-in-the-coming-years/</prop>
+     <seg>Focus on employability, close collaboration with industry, integration, training in 21.st century skills will only increase in importance for the students in the coming years, states project leader Iver Martens, geophysicist at UiT, The Arctic University of Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/12/15/geopraksis-prosjektet-skal-bruke-63-millioner-pa-utvikling-av-arbeidslivspraksis-for-bachelorstudenter-i-arene-som-kommer/</prop>
+     <seg>Fokus p&#229; ansettbarhet, tett samarbeid med arbeidslivet, dynamikk og integrering, oppl&#230;ring i 21.st century skills blir bare viktigere og viktigere for studentene fremover, fastsl&#229;r prosjektleder Iver Martens, geofysiker ved UiT Norges Arktiske Universitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="179" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.694</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/03/06/new-winner-of-the-olav-thon-foundation/</prop>
+     <seg>New winner of the Olav Thon Foundation</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/03/06/ny-tildeling-fra-olav-thon-stiftelsen/</prop>
+     <seg>Ny tildeling fra Olav Thon Stiftelsen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="180" datatype="Text">
+    <prop type="score-hunalign">1.29318</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/01/20/atle-rotevatn-awarded-the-prize-for-outstanding-teaching-from-the-olav-thon-foundation/</prop>
+     <seg>article was published at uib.no on the 11.01.2018.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/01/07/atle-rotevatn-er-tildelt-pris-fra-olav-thon-stiftelsen-for-fremragende-undervisning/</prop>
+     <seg>artikkelen ble publisert p&#229; uib.no den 11.01.2018.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="181" datatype="Text">
+    <prop type="score-hunalign">2.38841</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/10/17/consortium-meeting-at-uio/</prop>
+     <seg>In addition, we are preparing for a potential call for Centre of Excellence in Education (SFU) in 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/17/konsortiummote-pa-uio/</prop>
+     <seg>I tillegg begynner vi n&#229; &#229; forberede oss p&#229; en potensiell SFU-utlysning i 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="182" datatype="Text">
+    <prop type="score-hunalign">6.89032</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/10/09/comment-to-the-national-budget-2019/</prop>
+     <seg>Comment to the national budget 2019</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/10/09/kommentar-til-statsbudsjettet-2019/</prop>
+     <seg>Kommentar til Statsbudsjettet 2019</seg>
+    </tuv>
+   </tu>
+   <tu tuid="183" datatype="Text">
+    <prop type="score-hunalign">4.59242</prop>
+    <prop type="score-bicleaner">0.690</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/for-the-lecturer/iearth-project-funding/iearth-project-funding-call-autumn-2020/</prop>
+     <seg>iEarth project funding &#8211; projects funded fall 2020</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/for-underviseren/iearth-prosjektmidler/iearth-prosjektmidler-utlysning-host-2020/</prop>
+     <seg>iEarth prosjektmidler &#8211; prosjekter som fikk st&#248;tte i 2020</seg>
+    </tuv>
+   </tu>
+   <tu tuid="184" datatype="Text">
+    <prop type="score-hunalign">1.44563</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2018/01/20/atle-rotevatn-awarded-the-prize-for-outstanding-teaching-from-the-olav-thon-foundation/</prop>
+     <seg>Atle Rotevatn awarded the prize for outstanding teaching from the Olav Thon Foundation</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2018/01/07/atle-rotevatn-er-tildelt-pris-fra-olav-thon-stiftelsen-for-fremragende-undervisning/</prop>
+     <seg>Atle Rotevatn er tildelt pris fra Olav Thon Stiftelsen for fremragende undervisning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="185" datatype="Text">
+    <prop type="score-hunalign">1.98469</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/05/05/congratulation-project-fund-recipients-of-spring-2021/</prop>
+     <seg>Congratulation project fund recipients of spring 2021! Written by</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/iearth-prosjektmidler-prosjekter-som-fikk-stotte-varen-2021/</prop>
+     <seg>iEarth prosjektmidler &#8211; prosjekter som fikk st&#248;tte v&#229;ren 2021</seg>
+    </tuv>
+   </tu>
+   <tu tuid="186" datatype="Text">
+    <prop type="score-hunalign">1.21958</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/18/iearth-master-thesis-writing-course/</prop>
+     <seg>An emphasis was also placed on the use of different software packages that are available at the university (e.g. Microsoft Word, CorelDraw and Mendeley).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/17/skrivekurs-for-masterstudenter/</prop>
+     <seg>Det ble ogs&#229; g&#229;tt gjennom hvordan man kan bruke de ulike programvarer som man har tilgjengelig p&#229; Universitetet (f.eks Microsoft Word, CorelDraw og Mendeley).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="187" datatype="Text">
+    <prop type="score-hunalign">1.06</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/04/28/free-spots-on-online-scientific-teaching-seminar/</prop>
+     <seg>See full program here:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/04/28/ledige-plasser-pa-undervisningsseminar/</prop>
+     <seg>Mer informasjon om program finner du her:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="188" datatype="Text">
+    <prop type="score-hunalign">1.45982</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/02/25/iearth-consortium-meeting-in-tromso/</prop>
+     <seg>In addition, student involvement and Professor II candidates connected to the iEarth progress domains were discussed, together with future PhD- and Post doc projects.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/02/25/iearth-konsortiummote-i-tromso/</prop>
+     <seg>I tillegg ble det diskutert kandidater til iEarth-tilknyttede Professor II stillinger, fremtidige PhD- og Post doc prosjekter, og retningslinjer for iEarth prosjektmidler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="189" datatype="Text">
+    <prop type="score-hunalign">1.07778</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>We intend to use parts of the videos later when we will introduce more student active learning methods in the course &#8220;GEOV101 &#8211; Introduction to Geology&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>Vi planlegger &#229; bruke deler av disse filmene senere n&#229;r vi skal introdusere mer studentaktive l&#230;ringsmetoder i kurset &#8220;GEOV101 &#8211; Innf&#248;ring i geologi&#8221;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="190" datatype="Text">
+    <prop type="score-hunalign">1.98045</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2021/02/22/iearth-digital-learning-forum-18-02-2021/</prop>
+     <seg>Several important skills and knowledge gaps in the zone between business and academia will be covered through 12 lectures, cases and seminars in the course.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2021/02/22/iearths-digitale-laeringsforum/</prop>
+     <seg>Flere viktige ferdigheter og kunnskaper som omfavnes av b&#229;de n&#230;ringslivet og akademia vil bli presentert gjennom 12 forelseninger, oppgaver og seminarer i l&#248;pet av kurset.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="191" datatype="Text">
+    <prop type="score-hunalign">1.07316</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2017/04/03/meeting-in-the-iearth-consortium-oslo/</prop>
+     <seg>A further and more specific description of our progress domains followed, where two new domains were defined &#8211; field learning and alumni &amp; outreach.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2017/04/03/mote-i-iearth-konsortiet-oslo/</prop>
+     <seg>I tillegg ble det bestemt &#229; definere v&#229;re utviklingsomr&#229;der videre, hvor to nye utviklingsomr&#229;der ogs&#229; ble lagt til &#8211; feltl&#230;ring og alumni &amp; outreach.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="192" datatype="Text">
+    <prop type="score-hunalign">3.53571</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/08/25/national-university-course-in-geohazards/</prop>
+     <seg>More than 50 students have signed up for the course.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/08/25/nasjonalt-universitetskurs-i-geofarer/</prop>
+     <seg>I alt har mer enn 50 studenter meldt seg p&#229; kurset.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="193" datatype="Text">
+    <prop type="score-hunalign">2.14393</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/24/iearth-digital-learning-forum-19-11-2020/</prop>
+     <seg>Currently he is preoccupied with the emergency transition to online teaching forced by covid-19 researching experiences made by teachers and by students.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/24/iearth-digitale-laeringsforum-19-11-2020/</prop>
+     <seg>I disse dager jobber han med transisjonen til digital undervisning tvunget frem av covid-19 og forsker p&#229; erfaringer gjort av b&#229;de undervisere og studenter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="194" datatype="Text">
+    <prop type="score-hunalign">1.20662</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/19/diku-network-seminar/</prop>
+     <seg>Another theme that was both presented and discussed in workshops was &#8220;dissemination&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/13/diku-nettverkssamling-11-12-november/</prop>
+     <seg>Et annet tema som b&#229;de ble presentert og diskutert i workshops var &#8220;spredning&#8221;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="195" datatype="Text">
+    <prop type="score-hunalign">1.48429</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/09/11/iearth-digital-learning-forum-10-09-2020/</prop>
+     <seg>This week in the iEDLF seminar series Education Chair at Geo-UiB, Bjarte Hannisdal presented Progress Domain 1, which he is in the lead of. This progress domain is titled &#8220;Shaping the future &#8211; meeting tomorrow&#8217;s societal Challenges &#8220;and incompasses mapping of competencies and generic skills.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/09/11/iearth-digitalt-laeringsforum-10-09-2020/</prop>
+     <seg>I denne ukens utgave av IEDLF delte Bjarte Hannisdal sine visjoner for iEarth sitt Utviklingsomr&#229;de 1 som han leder. Dette utviklingsomr&#229;de har f&#229;tt tittelen &#8220; Forming av fremtiden &#8211; &#229; m&#248;te morgendagens samfunnsmessige utfordringer&#8221; og inkluderer en plan for kartlegging av kompetanser og generiske ferdigheter i den geovitenskapelige utdanningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="196" datatype="Text">
+    <prop type="score-hunalign">1.21827</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/11/19/diku-network-seminar/</prop>
+     <seg>For this seminar, DIKU used a New innovative digital Conference platform called Gatherly.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/11/13/diku-nettverkssamling-11-12-november/</prop>
+     <seg>Til denne samlingen hadde DIKU tatt i bruk en innovativ digital konferanse plattform &#8211; Gatherly.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="197" datatype="Text">
+    <prop type="score-hunalign">1.0568</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/05/05/making-of-a-virtual-field-excursion/</prop>
+     <seg>&#8211; They will work with the assignments associated with the movies, which are focused on solving problems that help the students achieve the learning goals.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/05/05/a-lage-en-virtuell-ekskursjon/</prop>
+     <seg>&#8211; De skal jobbe med oppgaver relatert til filmen, med fokus p&#229; &#229; l&#248;se problemer som hjelper studentene &#229; n&#229; l&#230;ringsm&#229;lene for kurset.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="198" datatype="Text">
+    <prop type="score-hunalign">1.13887</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://iearth.no/en/2020/06/04/iearth-digital-learning-forum-blended-learning/</prop>
+     <seg>Below you find the presentation of Robert Grey as a PDF and recording from the seminar.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://iearth.no/2020/06/04/iearth-digitalt-laeringsforum-blandet-laering/</prop>
+     <seg>Under ligger presentasjonen til Robert Grey som PDF og som opptak.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,2367 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T153229" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.01429</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/bokmal_hva-er-smittestopp.pdf.converted</prop>
+     <seg>Bli med &#229; bringe hverdagen tilbake</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/nynorsk_hva-er-smittestopp.pdf.converted</prop>
+     <seg>Bli med &#229; bringe kvardagen attende</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.40625</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/norsk-bokmal_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>regler dere som familie m&#229; f&#248;lge videre</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/nynorsk_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>reglar de som familie m&#229; f&#248;lgje medan</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.4</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Gi anbefaling om prioriterte grupper til HOD.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- Gje tilr&#229;ding om prioriterte grupper til HOD.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.12167</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/bokmal_hva-er-smittestopp.pdf.converted</prop>
+     <seg>N&#229;r du er i n&#230;rheten av en person som ogs&#229; har appen p&#229; telefonen, sender telefonene signaler til hverandre.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/nynorsk_hva-er-smittestopp.pdf.converted</prop>
+     <seg>N&#229;r du er i n&#230;rleiken av ein person som ogs&#229; har appen p&#229; telefonen, sender telefonane signal til kvarandre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.84684</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.pdf.converted</prop>
+     <seg>Lokal IT-support m&#229; sikre teknisk tilrettelegging for de ulike virksomhetene som skal bruke SYSVAK-nett.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>Lokal IT-support m&#229; sikre teknisk tilrettelegging for dei ulike verksemdene som skal bruke SYSVAK-nett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.22046</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_bokmal_21.05.21--ren.pdf.converted</prop>
+     <seg>Helseforetakene m&#229; s&#248;rge for utstyr som trengs for vaksinering og forsvarlig lagring av</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>Helsef&#248;retaka m&#229; syte for utstyr som trengst for vaksinering og forsvarleg lagring av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.60103</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>Barn og unge har rett til et trygt og godt skolemilj&#248;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>Barn og unge har rett til eit trygt og godt skulemilj&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.49669</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Folkehelseinstituttet m&#229; holdes l&#248;pende oppdatert ved endringer i leveringsadresse for vaksine, samt ved endringer i navn, mobiltelefonnummer eller epostadresse til kontaktperson for levering av vaksine.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- Folkehelseinstituttet m&#229; haldast l&#248;pande oppdatert ved endringar i leveringsadresse for vaksine, og ved endringar i namn, mobiltelefonnummer eller e-postadresse til kontaktperson for levering av vaksine.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.62721</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_bokmal_21.05.21--ren.pdf.converted</prop>
+     <seg>Smittevernansvarlig lege m&#229; kunne kontaktes ved behov.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>Smittevernansvarleg lege m&#229; kunne kontaktast ved behov.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.98009</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>&#8226; Sykdommen kan spre seg raskt fra &#233;n smittet person hvis kontrolltiltak ikke iverksettes tidlig</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>&#8226; Sjukdommen kan spreie seg raskt fr&#229; ein smitta person om kontrolltiltak ikkje vert sett i verk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.02143</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>energi som foreldrene kan bruke p&#229; aktiviteter med barna.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>som foreldra kan bruke p&#229; aktivitetar med barna. &#216;konomiske</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>i kommunen i samarbeid med fastlegene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>i kommunen i samarbeid med fastlegane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.41532</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/norsk-bokmal_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>N&#229;r skal syke barn holdes hjemme fra</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/nynorsk_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>N&#229;r skal sjuke barn haldast heime fr&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-a4.pdf.converted</prop>
+     <seg>I familier med</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-4-5_nynorsk_a4-2.pdf.converted</prop>
+     <seg>I familiar med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.52921</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_bokmal_21.05.21--ren.pdf.converted</prop>
+     <seg>Alle meldinger til smittevernansvarlig lege skal g&#229; i kopi til leder/stedfortreder dersom slik kontaktinformasjon er gitt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>Alle meldingar til smittevernansvarleg lege skal g&#229; i kopi til leiar/vara dersom slik kontaktinformasjon er gjeven.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.492</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>&#8226; &#197; spesifisere hvor og hvor ofte man skal publisere oppdatert informasjon om situasjonen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>&#8226; &#197; spesifisere kor og kor ofte ein skal publisere oppdatert informasjon om situasjonen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.91149</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2014/rapport-om-svangerskapsavbrudd-for-2011-pdf2.pdf.converted</prop>
+     <seg>svangerskapsuke), er i utgangspunktet personidentifiserende og omfatter i tillegg til</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2014/rapport-om-svangerskapsavbrudd-for-2014-pdf.pdf.converted</prop>
+     <seg>svangerskapsveke), er i utgangspunktet personidentifiserande og omfattar i tillegg til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.41677</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>m&#248;teplasser for barn og unge, kan dette v&#230;re med p&#229; &#229; fremme</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>og m&#248;teplassar for barn og unge, kan dette vere med p&#229; &#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.6712</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.pdf.converted</prop>
+     <seg>sikre tilgang til kommunalt nettverk p&#229; - Tilpasse elektronisk og manuelt meldeskjema for alvorlige vaksinasjonsstedene, eller etablere hjemmekontorl&#248;sninger som kan medbringes til</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>sikre tilgang til kommunalt nettverk p&#229; - tilpasse elektronisk og manuelt meldeskjema for alvorlege vaksinasjonsstadene, eller etablere heimekontorl&#248;ysingar som kan takast med til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.66842</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/norsk-bokmal_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>&#8226; Barnet har anstrengt pust og/eller puster fortere enn vanlig n&#229;r det er i ro.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/nynorsk_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>&#8226; Barnet har anstrengt pust og/eller pustar fortare enn vanleg n&#229;r det er i ro.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.79474</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-a4.pdf.converted</prop>
+     <seg>behov for st&#248;e, omsorg og avlastning, b&#248;r dee likevel ivaretas.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-4-5_nynorsk_a4-2.pdf.converted</prop>
+     <seg>har behov for st&#248;e, omsorg og avlasng, b&#248;r dee likevel tas i vare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.02329</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>Forskning basert p&#229; unders&#248;kelsen vil bli publisert p&#229;Dersom du &#248;nsker &#229; klage p&#229; behandlingen av opplysningene dine, kan du sende klage tilDatatilsynet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokinga-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>www.fhi.no/studier/fhus/.Dersom du &#248;nsker &#229; klage p&#229; behandlinga av opplysningane dine, kan du sende klage til Datatilsynet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.73655</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>I l&#248;pet av denne perioden kan alle reisende som kom inn i landet unng&#229; karantene ved &#229; teste negativt to ganger med minst tre dagers mellomrom.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>I l&#248;pet av denne perioden kan alle reisande som kjem inn i landet unng&#229; karantene ved &#229; teste negativt to gonger med testing med minst tre dagars mellomrom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.96111</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <seg>Sykdommen skyldes meningokokkbakterier og smitter via spytt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <seg>Sjukdomen kjem av meningokokkbakteriar og smitter via spytt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.10679</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <seg>Klikk p&#229; knappen &#171;Neste side&#187; for &#229; komme til samtykkeerkl&#230;ring og sp&#248;rreskjema.Dette er en unders&#248;kelse om livskvalitet, helse, trivsel og andre forhold som har betydning for folke-helsen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <seg>Klikk p&#229; knappen &#171;Neste side&#187; for &#229; komme til samtykkeerkl&#230;ring og sp&#248;rjeskjema. Dette er ei under-s&#248;king om livskvalitet, helse, trivsel og andre forhold som har betyding for folkehelsa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.11667</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>mennesker hvis ingen kontrolltiltak er p&#229; plass.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>dersom ikkje kontrolltiltak er p&#229; plass.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">4.29412</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Samtidig starter arbeidsgiveren massescreening for covid-19 blant utenlandske arbeidere ved industrianlegget.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Samtidig startar arbeidsgjevaren massescreening for covid-19 blant utanlandske arbeidarar ved industrianlegget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.29703</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-bokmal-nettskjema.pdf.converted</prop>
+     <seg>Alle opplysningene vil bli behandlet uten navn og f&#248;dselsnummer eller andre direkte gjen-kjennende opplysninger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-nynorsk-nettskjema.pdf.converted</prop>
+     <seg>Alle opplysningane vil bli behandla utan namn og f&#248;dselsnummer eller andre direkte gjen-kjennande opplysningar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.79362</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>Et godt oppvekstmilj&#248; er viktig for at barn og unge skal</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>Eit godt oppvekstmilj&#248; er viktig for at barn og unge skal</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.34404</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Arbeiderne er frustrerte fordi de ikke vet hvor lenge de m&#229; v&#230;re i karantene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Arbeidarane er frustrerte fordi dei ikkje veit kor lenge dei m&#229; vere i karantene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.57949</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <seg>Anbefalingen gjelder ogs&#229; yngre og eldre ungdommer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <seg>Tilr&#229;dinga gjeld &#242;g yngre og eldre ungdomar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.9936</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-a4.pdf.converted</prop>
+     <seg>nye symptomer p&#229; luveisinfeksjon</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-4-5_nynorsk_a4-2.pdf.converted</prop>
+     <seg>nye symptom p&#229; luvegsinfeksjon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.97338</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/handhygiene/handhygiene-plakat-a4.pdf.converted</prop>
+     <seg>Hvis du selv er syk eller i kontakt med syke m&#229; du v&#230;re</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/dcc3a897c2124fbcb4ebea39683be54b/handhygiene_nynorsk_2020_print.pdf.converted</prop>
+     <seg>Dersom du sj&#248;lv er sjuk eller i kontakt med sjuke, m&#229; du vere</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Kommuneoverlegen kontakter personaldirekt&#248;ren ved anlegget.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Kommuneoverlegen kontaktar personaldirekt&#248;ren ved anlegget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.64331</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_bokmal_21.05.21--ren.pdf.converted</prop>
+     <seg>- Smittevernansvarlig lege har det faglige ansvaret og rapporterer til ansvarlig leder eller - Opprette kontakt med smittevernansvarlig lege i foretakene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>- Smittevernansvarleg lege har det faglege ansvaret og rapporterer til ansvarleg leiar eller - Opprette kontakt med smittevernansvarleg lege i f&#248;retaka.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.63333</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>Utstyret vil bli levert i to omganger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>Utstyret vil bli levert i to omgangar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.3426</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <seg>Meningokokk-typene C og Y har st&#229;tt for de fleste tilfellene av meningokokksykdom i denne aldersgruppen de senere &#229;rene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <seg>Meningokokk-typane C og Y har st&#229;tt for dei fleste tilfella av meningokokksjukdom i denne aldersgruppa dei seinare &#229;ra.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.57412</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/bokmal_hva-er-smittestopp.pdf.converted</prop>
+     <seg>&#8226; Hvis du ikke forst&#229;r spr&#229;ket, be noen om hjelp til &#229; forklare teksten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/nynorsk_hva-er-smittestopp.pdf.converted</prop>
+     <seg>&#8226; Dersom du ikkje forst&#229;r spr&#229;ket, be nokon om hjelp til &#229; forklare teksten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.20909</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_bokmal_21.05.21--ren.pdf.converted</prop>
+     <seg>- Kontaktperson m&#229; v&#230;re tilgjengelig ogs&#229; utenfor normal arbeidstid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>- Kontaktperson m&#229; vere tilgjengeleg ogs&#229; utanfor normal arbeidstid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.96667</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_bokmal_21.05.21--ren.pdf.converted</prop>
+     <seg>vaksine, samt transport innad i virksomheten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>vaksine, og for transport internt i verksemda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.74946</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Opprette kontakt med kommunelege/ smittevernlege i alle kommuner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- opprette kontakt med kommunelege/smittevernlege i alle kommunar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">2.47858</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_bokmal_21.05.21--ren.pdf.converted</prop>
+     <seg>- All informasjon fra Folkehelseinstituttet til helseforetaket vedr&#248;rende vaksinasjon g&#229;r til smittevernansvarlig lege dersom ikke annet er avtalt, med kopi til RHF og sykehusledelse</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>- All informasjon fr&#229; Folkehelseinstituttet til helsef&#248;retaket om vaksinasjon g&#229;r til smittevernansvarleg lege dersom ikkje anna er avtalt, med kopi til RHF og sjukehusleiing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.49</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/bokmal_hva-er-smittestopp.pdf.converted</prop>
+     <seg>dager uten at du trenger &#229; gj&#248;re noe.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/nynorsk_hva-er-smittestopp.pdf.converted</prop>
+     <seg>dagar utan at du treng &#229; gjere noko.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.0875</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/8ced53550bba41da90673d01407a66b3/plakat-munnbind_2020.10.05_0303.pdf.converted</prop>
+     <seg>Kast i n&#230;rmeste s&#248;ppelkasse</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/8ced53550bba41da90673d01407a66b3/plakat-munnbind_2020.10.05_nn_1111.pdf.converted</prop>
+     <seg>Kast i n&#230;raste s&#248;ppelkasse</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.23358</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <seg>Andre ganger kan bakteriene formere seg i blodet (blodforgiftning) og skade viktige organer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <seg>Andre gonger kan bakteriane formeire seg i blodet (blodforgifting) og skade viktige organ.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.23537</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <seg>alvorlig syk, for eksempel tett samv&#230;r med andre ungdommer over flere dager, festing, h&#248;yt alkohol forbruk, deling av flasker og sigaretter, aktiv eller passiv r&#248;yking og lite s&#248;vn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <seg>Slike aktivitetar er til d&#248;mes tett samv&#230;r med andre ungdomar over fleire dagar, festing, h&#248;gt alkoholforbruk, deling av flasker og sigarettar, aktiv eller passiv r&#248;yking og lite s&#248;vn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.36961</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Hva slags tilleggsinformasjon trenger du om arbeids- og bosituasjonen p&#229; industrianlegget og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Kva slags tilleggsinformasjon trenger du om arbeids- og bu-situasjonen p&#229; industrianlegget,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.50844</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Lage en detaljert plan for vaksinelevering til kommunene basert p&#229; prioriteringskriterier gitt av sentrale myndigheter og teoretisk tilgang p&#229; vaksine.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- Lage ein detaljert plan for vaksinelevering til kommunane basert p&#229; prioriteringskriterium gjevne av sentrale styresmakter og teoretisk tilgang p&#229; vaksine.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.43227</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-bokmal-nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>Du har rett til innsyn i hvilke opplysninger som er lagret om deg, og hva opplysningene er blitt brukttil</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-nynorsk-nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokinga-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>Du har rett til innsyn i kva opplysningar som er lagra om deg, og kva opplysningane er blitt bruktetil</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.27778</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <seg>Det kan ogs&#229; bli aktuelt &#229; sammenstille opplysninger fra folke-helseunders&#248;kelsen i Vestfold og Telemark med andre helseunders&#248;kelser, som for eksempel Dennorske mor, far og barn-unders&#248;kelsen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <seg>Det kan ogs&#229; bli aktuelt &#229; stille opplysingar fr&#229; folkehelseunders&#248;-kinga i Vestfold og Telemark med andre helseunders&#248;kingar, som til d&#248;mes Den norske mor, far ogbarn-unders&#248;kinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">4.90427</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>august var det rapportert om f&#229; covid-19 tilfeller i kommunen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>august var det f&#229; rapporterte covid-19 tilfelle i kommunen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.056</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/bokmal_hva-er-smittestopp.pdf.converted</prop>
+     <seg>Appen gir ikke informasjon om at det er du som er smittet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/nynorsk_hva-er-smittestopp.pdf.converted</prop>
+     <seg>Appen gjev ikkje informasjon om at det er du som er smitta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.28571</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_bokmal.pdf.converted</prop>
+     <seg>uker etter f&#248;rste dose.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_nynorsk.pdf.converted</prop>
+     <seg>veker etter f&#248;rste dose.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">2.01429</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>en kommunikasjonsplan, blant annet ved</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>ein kommunikasjonsplan, blant anna ved</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">2.0925</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_bokmal.pdf.converted</prop>
+     <seg>oppst&#229;r oftest innen to uker etter andre dose.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_nynorsk.pdf.converted</prop>
+     <seg>oppst&#229;r oftast innan to veker etter andre dose.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">2.45625</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Samtidig sier personaldirekt&#248;ren at informasjon om kontrolltiltak, testregimet, karantene og isolasjon har blitt kommunisert til ansatte b&#229;de direkte og gjennom underleverand&#248;rer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Samtidig seier personaldirekt&#248;ren at informasjon om kontrolltiltak, testregimet, karantene og isolasjon har vorte kommunisert til tilsette b&#229;de direkte og gjennom underleverand&#248;rar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">2.88746</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>Det er frivil ig &#229; delta Du kan trekke samtykket ditt n&#229;r som helst og be om at opplysningene blir slettet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokinga-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>Det er frivil ig &#229; deltaDu kan trekke samtykket ditt n&#229;r som helst og be om at opplysningane blir sletta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.73312</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5581a551e3cc46c9be61a0976da8b576/informasjonsskriv-influensa-pa-1-2-3-2021-2022-bokmal.pdf.converted</prop>
+     <seg>&#187; Enkelte f&#229;r feber, vondt i musklene eller f&#248;ler</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5581a551e3cc46c9be61a0976da8b576/informasjonsskriv-influensa-pa-1-2-3-2021-2022-nynorsk.pdf.converted</prop>
+     <seg>&#187; Enkelte f&#229;r feber, vondt i musklane eller f&#248;ler seg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.17231</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>samarbeid med andre kommuner, slik at man oppn&#229;r d&#248;gnkontinuerlig tilgjengelighet for leveranser og eventuelle viktige meldinger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>samarbeid med andre kommunar, slik at ein oppn&#229;r d&#248;gnkontinuerleg tilgang for leveransar og eventuelle viktige meldingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.62424</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-a4.pdf.converted</prop>
+     <seg>Kontakt lege om du er bekymret og barnet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-4-5_nynorsk_a4-2.pdf.converted</prop>
+     <seg>Kontakt lege om du er bekymra og barnet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">2.04667</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Personaldirekt&#248;ren informerer kommuneoverlegen om at noen ansatte ikke overholder karantenereglene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Personaldirekt&#248;ren informerer kommuneoverlegen om at nokre tilsette ikkje fyljer karantenereglane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.49803</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>Ved behov inng&#229; nye avtaler med aktuelle private akt&#248;rer som kan bist&#229; i vaksinasjonsarbeidet (vektertjenester, eiere av lokaler, IT-kompetanse, frivillige organisasjoner som sanitetsforeninger, Sivilforsvaret).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>Ved behov inng&#229; nye avtalar med aktuelle private akt&#248;rar som kan hjelpe til i vaksinasjonsarbeidet (vektartenester, eigarar av lokale, IT-kompetanse, frivillige organisasjonar som sanitetsforeiningar, Sivilforsvaret).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.02409</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_bokmal.pdf.converted</prop>
+     <seg>Risikoen for &#229; utvikle meningokokksykdom er lavere hvis du ikke deler flasker og glass med andre, f&#229;r nok s&#248;vn, har et lavt alkoholforbruk og unng&#229;r r&#248;yking.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_nynorsk.pdf.converted</prop>
+     <seg>Risikoen for &#229; utvikle meningokokksjukdom er l&#229;gare dersom du ikkje deler flasker og glas med andre, f&#229;r nok s&#248;vn, har eit l&#229;gt alkoholforbruk og unng&#229;r r&#248;yking.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">2.43989</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <seg>Form&#229;let er &#229; f&#248;lge utviklingen i helse, livskvalitet og levek&#229;r over tid og blant annetunders&#248;ke &#229;rsaker til sykdom.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <seg>F&#248;rem&#229;let er &#229; f&#248;lgje utviklinga i helse, livskvalitet og levek&#229;r over tid og blant annaunders&#248;ke &#229;rsaker til sjukdom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">2.69388</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <seg>Derfor er det denne vaksinetypen som prim&#230;rt anbefales.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <seg>Derfor er det denne vaksinetypen som prim&#230;rt er anbefalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.96014</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_bokmal.pdf.converted</prop>
+     <seg>Beskyttelsen mot alvorlig sykdom er god allerede tre</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_nynorsk.pdf.converted</prop>
+     <seg>Beskyttelsen mot alvorleg sjukdom er god allereie tre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">2.29286</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>De syke er ikke smittsomme i l&#248;pet av denne tiden.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Dei sjuke er ikkje smittsame i l&#248;pet av denne tida.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">2.29348</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-a4.pdf.converted</prop>
+     <seg>spedbarnet, selv om det kan v&#230;re vanskelig i praksis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-4-5_nynorsk_a4-2.pdf.converted</prop>
+     <seg>spedbarnet, sj&#248;lv om det kan vere vanskeleg i praksis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.90256</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <seg>/.Her finner du ogs&#229; kontaktinformasjon til behandlingsansvarlig, forskningsansvarlig og folkehelseinsti-tuttets personvernombud.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <seg>Herfinn du ogs&#229; kontaktinformasjon til behandlingsansvarleg, forskingsansvarleg og Folkehelseinstituttetsitt personvernombod.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">2.44124</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-bokmal-nettskjema.pdf.converted</prop>
+     <seg>I denne sammenheng kan det v&#230;re aktuelt &#229; hente innopplysninger fra andre registre i tillegg, for eksempel opplysninger om utdannelse, inntekt og trygde-ytelser fra registre som er forvaltet av Statistisk sentralbyr&#229;, forhold om bolig og n&#230;rmilj&#248; fra matrikke-len (eiendom) og kartdata, eller opplysninger om sykdom og behandling fra medisinske registre somKreftregisteret, Norsk pasientregister, Hjerte- og karregisteret.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-nynorsk-nettskjema.pdf.converted</prop>
+     <seg>I denne samanhengen kan det vere aktuelt &#229; hente inn opplys-ningar fr&#229; andre register i tillegg, til d&#248;mes opplysningar om utdanning, inntekt og trygdeytingar fr&#229; re-gister som er forvalta av Statistisk sentralbyr&#229;, forhold om bustad og n&#230;rmilj&#248; fr&#229; matrikkelen (eigen-dom) og kartdata, eller opplysningar om sjukdom og behandling fr&#229; medisinske register somKreftregisteret, Norsk pasientregister, Hjerte- og karregisteret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.6902</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-bokmal-nettskjema.pdf.converted</prop>
+     <seg>Det kan ogs&#229; bli aktuelt &#229; sammenstille opplysninger fra folkehelseunders&#248;kel-sen i Viken med andre helseunders&#248;kelser, som for eksempel Den norske mor, far og barn-unders&#248;-kelsen. Datainnsamlingen er hjemlet i forskrift om oversikt over folkehelsen &#167; 7.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-nynorsk-nettskjema.pdf.converted</prop>
+     <seg>Det kan ogs&#229; bli aktuelt &#229; stille opplysningar fr&#229; folkehelseunders&#248;kinga i Vikenopp mot opplysningar fr&#229; andre helseunders&#248;kingar, som for eksempel Den norske mor, far og barn-unders&#248;kinga.Datainnsamlinga er heimla i f&#248;reskrift om oversikt over folkehelsa &#167; 7.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.61455</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus.pdf.converted</prop>
+     <seg>Du b&#248;r f&#229; andre til &#229; handle for deg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus_nynorsk.pdf.converted</prop>
+     <seg>HEIMEISOLERINGDu b&#248;r f&#229; andre til &#229; handle for deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">2.4</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus.pdf.converted</prop>
+     <seg>Hold god avstand til andre voksne og eldre barn</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus_nynorsk.pdf.converted</prop>
+     <seg>Hald god avstand til andre vaksne og eldre barn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.89143</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Viruset sprer seg fra person til person via inn&#229;nding av luftdr&#229;per fra en smittet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Viruset spreier seg fr&#229; person til person via innanding av luftdr&#229;par fr&#229; ein smitta</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.77568</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus.pdf.converted</prop>
+     <seg>ikke er mulig, kan du gj&#248;re helt n&#248;dvendige</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus_nynorsk.pdf.converted</prop>
+     <seg>ikkje er mogleg, kan du gjere heilt n&#248;dvendige</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">2.92014</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/reservasjon-mot-bruk-av-biologisk-materiale-innsamlet-i-helsetjenesten-til-forskningsformal-uten-samtykke.pdf.converted</prop>
+     <seg>Etter loven, &#167; 28 kan de regionale komiteene for medisinsk og helsefaglig forskningsetikk godkjenne at medisinske forskningsprosjekter av stor samfunnsmessig interesse benytter biologisk materiale innsamlet fra pasienter i helsetjenesten uten at det innhentes samtykke fra hver pasient.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/skjema/reservasjon-mot-bruk-av-biologisk-materiale-innsamla-i-helsetenesta-til-forskingsformal-utan-samtykke-nynorsk.pdf.converted</prop>
+     <seg>Etter lova, &#167; 28 kan dei regionale komiteane for medisinsk og helsefaglig forskningsetikk godkjenna at medisinske forskningsprosjekt av stor samfunnsmessig interesse brukar biologisk materiale innsamla fr&#229; pasientar i helsetenesta utan at det blir innhenta samtykke fr&#229; kvar pasient.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.9581</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/8d05b03f4b614e9e93b2ecdc317610fc/hygieneplakat-smitte.pdf.converted</prop>
+     <seg>foran munn og nese beskytter andre n&#229;r du</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/8d05b03f4b614e9e93b2ecdc317610fc/hygieneplakat-nynorsk.pdf.converted</prop>
+     <seg>framfor munn og nase skjermar andre n&#229;r du</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">2.37692</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Kommunen er bekymret for situasjonen og erkl&#230;rer et utbrudd basert p&#229; den nasjonale definisjonen av minst to tilfeller som mistenkes &#229; ha felles kilde.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Kommunen er uroa over situasjonen og stadfestar eit utbrot basert p&#229; den nasjonale definisjonen av minst to tilfelle som er mistenkt &#229; ha felles kjelde.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">2.00491</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_bokmal.pdf.converted</prop>
+     <seg>For de som tidligere har gjennomg&#229;tt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_nynorsk.pdf.converted</prop>
+     <seg>For dei som tidlegare har gjennomg&#229;tt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">3</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.pdf.converted</prop>
+     <seg>- Ved mangel p&#229; journalsystem med elektronisk kommunikasjon til SYSVAK m&#229; SYSVAK-nett benyttes p&#229; norsk helsenett.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>- Ved mangel p&#229; journalsystem med elektronisk kommunikasjon til SYSVAK, m&#229; SYSVAK-nett nyttast p&#229; norsk helsenett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">2.35944</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Formidlingen av informasjon til de fleste ansatte ved industrianlegget m&#229; g&#229; gjennom disse underleverand&#248;rene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Formidlinga av informasjon til dei fleste tilsette ved industrianlegget m&#229; g&#229; gjennom desse underleverand&#248;rane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">2.65325</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.pdf.converted</prop>
+     <seg>- Utarbeide konkret og lokalt tilpasset informasjon til alt helsepersonell om vaksinene,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>- utarbeide konkret og lokalt tilpassa informasjon til alt helsepersonell om vaksinane,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.pdf.converted</prop>
+     <seg>kommunene om prioritert vaksinasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>kommunane om prioritert vaksinasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.99472</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>venner og f&#248;lge med p&#229; hva som skjer i lokalmilj&#248;et og ute i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>venner, finne nye venner og f&#248;lge med p&#229; kva som skjer i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">2.59055</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-a4.pdf.converted</prop>
+     <seg>, b&#248;r foreldre passe p&#229; at de ikke er te p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-4-5_nynorsk_a4-2.pdf.converted</prop>
+     <seg>, b&#248;r foreldre passe p&#229; at dei ikkje er te p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">2.67168</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>I en trygg familie f&#229;r barna omsorg og kjenner tillit, noe som er viktig n&#229;r de senere i livet skal skape gode relasjoner til andre mennesker.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>I ein trygg familie f&#229;r barna omsorg og kjenner tillit, noko som er viktig n&#229;r dei seinare i livet skal skape gode relasjonar til andre menneske.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">2.16276</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_bokmal_21.05.21--ren.pdf.converted</prop>
+     <seg>virksomhetsleder i andre helseforetak i opptaksomr&#229;det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>verksemdsleiar i andre helsef&#248;retak i opptaksomr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-bokmal-nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>Hva skjer med opplysningene dine?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-nynorsk-nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokinga-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>Kva skjer med opplysningane dine?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">2.35817</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Helsedirektoratet vil sende ut noen kj&#248;lebeholdere for oppbevaring/ transport av vaksiner innad i kommunen, og dette planlegges sendt ut f&#248;r vaksinene distribueres</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- Helsedirektoratet vil sende ut nokre kj&#248;lebehaldarar for oppbevaring/ transport av vaksinar internt i kommunen, og dette er planlagt sendt ut f&#248;r vaksinane blir distribuerte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.58992</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Tidligere utbrudd i nabokommunene har vist hvor utfordrende kommunikasjonen kan v&#230;re med &#248;kt medieoppmerksomhet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Tidlegare utbrot i nabokommunar har vist kor utfordrande kommunikasjonen kan vere med auka mediemerksemd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">2.17443</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>I denne sammenheng kan det v&#230;re aktuelt &#229;hente inn opplysninger fra andre registre i til egg, for eksempel opplysninger om utdannelse, inntekt ogtrygdeytelser fra registre som er forvaltet av Statistisk sentralbyr&#229;, el er opplysninger om sykdom ogbehandling fra medisinske registre som Kreftregisteret, Norsk pasientregister, Hjerte- og karregisteret.Innhenting av til eggsopplysninger er ogs&#229; n&#248;dvendig for &#229; utf&#248;re kvalitetskontrol og for &#229; kunne gj&#248;rebest mulige analyser. Opplysninger fra folkehelseunders&#248;kelsen i M&#248;re og Romsdal vil ogs&#229; kunne inng&#229; i en samletfolkehelseunders&#248;kelse for hele landet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokinga-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>I denne samanhengen kan det vere aktuelt &#229; hente innopplysningar fr&#229; andre register i til egg, til d&#248;mes opplysningar om utdanning, inntekt og trygdeytingarfr&#229; register som er forvalta av Statistisk sentralbyr&#229;, el er opplysningar om sjukdom og behandling fr&#229;medisinske register som Kreftregisteret, Norsk pasientregister, Hjerte- og karregisteret.Til eggsopplysingar fr&#229; andre register er ogs&#229; n&#248;dvendige for &#229; utf&#248;re kvalitetskontrol og for &#229; kunnegjere best mogelege analysar.Opplysningar fr&#229; folkehelseunders&#248;kinga i M&#248;re og Romsdal vil ogs&#229; kunne inng&#229; i ei samlafolkehelseunders&#248;king for heile landet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">2.89375</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/bokmal_hva-er-smittestopp.pdf.converted</prop>
+     <seg>&#8226; Du kan slette informasjon om deg selv i appen n&#229;r du vil.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/nynorsk_hva-er-smittestopp.pdf.converted</prop>
+     <seg>&#8226; Du kan slette informasjon om deg sj&#248;lv i appen n&#229;r du vil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">2.41765</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/bokmal_hva-er-smittestopp.pdf.converted</prop>
+     <seg>Du kan ogs&#229; velge om du vil gi beskjed til andre dersom du er smittet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/nynorsk_hva-er-smittestopp.pdf.converted</prop>
+     <seg>Du kan ogs&#229; velje om du vil gje melding til andre dersom du er smitta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.78</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/norsk-bokmal_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>Kommunen vil gi deg beskjed om hvilke</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/nynorsk_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>Kommunen vil gje deg melding om kva</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.623</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-a4.pdf.converted</prop>
+     <seg>nyf&#248;dte og spedbarn</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-4-5_nynorsk_a4-2.pdf.converted</prop>
+     <seg>nyf&#248;dde og spedbarn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">2.69032</prop>
+    <prop type="score-bicleaner">0.569</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/8d05b03f4b614e9e93b2ecdc317610fc/hygieneplakat-smitte.pdf.converted</prop>
+     <seg>n&#229;r du m&#229; hoste eller nyse og ikke har</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/8d05b03f4b614e9e93b2ecdc317610fc/hygieneplakat-nynorsk.pdf.converted</prop>
+     <seg>n&#229;r du m&#229; hoste eller nyse og ikkje har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.93145</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_bokmal.pdf.converted</prop>
+     <seg>Noen kommuner og fylker tilbyr gratis vaksinasjon av ungdomsgrupper.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_nynorsk.pdf.converted</prop>
+     <seg>Nokre kommunar og fylke tilbyr gratis vaksinasjon til ungdomsgrupper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">2.26811</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>&#197; l&#230;re elevene strategier for probleml&#248;sning, samarbeid og kommunikasjon kan styrke barn og unges selvoppfatning, &#248;ke sjansene for at de opplever mestring, og bedre muligheten for l&#230;ring, i tillegg til &#229; forebygge angst og depresjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>&#197; l&#230;re elevane strategiar for probleml&#248;ysing, samarbeid og kommunikasjon kan styrke barn og unge si sj&#248;lvoppfatning, auke sjansane for at dei opplever meistring og betre moglegheita for l&#230;ring, i tillegg til &#229; f&#248;rebygge angst og depresjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.63333</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus.pdf.converted</prop>
+     <seg>De du bor sammen med skal v&#230;re i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus_nynorsk.pdf.converted</prop>
+     <seg>Dei du bur saman med skal vere i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">2.294</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <seg>Alle opplysningene vil bli behandlet uten navn og f&#248;dselsnummer eller andre direkte gjen-kjennende opplysninger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <seg>Alle opplysningane vil bli behandla utan namn og f&#248;dselsnummer eller andre direkte gjen-kjennande opplysingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">1.77333</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-bokmal-nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>Personvernombud kan kontaktes ved&#229; sende epost til</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-nynorsk-nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokinga-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>Personvernombod kan kontaktast ved&#229; sende e-post til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">2.60157</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/bokmal_hva-er-smittestopp.pdf.converted</prop>
+     <seg>&#8226; I appen f&#248;lger du instruksjonene du f&#229;r opp p&#229; skjermen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/nynorsk_hva-er-smittestopp.pdf.converted</prop>
+     <seg>&#8226; I appen f&#248;lgjer du instruksjonane du f&#229;r opp p&#229; skjermen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.01912</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2014/rapport-om-svangerskapsavbrudd-for-2011-pdf2.pdf.converted</prop>
+     <seg>opplysningene nevnt over, data om indikasjon for svangerskapsavbruddet og om</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2014/rapport-om-svangerskapsavbrudd-for-2014-pdf.pdf.converted</prop>
+     <seg>opplysningane nemnd over, opplysningar om indikasjon for svangerskapsavbrotet og om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">2.39478</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Siden dette er en liten kommune med en stor gruppe gjestearbeidere, b&#248;r kommunen samarbeide med arbeidsgiveren om mediekommunikasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Sidan dette er ein liten kommune med ein stor gjestepopulasjon, b&#248;r kommunen samarbeida med arbeidsgjevaren om mediekommunikasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f7dee8ce4b604a1c8ae8ead98ecfa6a6/vedlegg/bokmal_gravide-to-doser.pdf.converted</prop>
+     <seg>Snakk med din jordmor, lege eller sjekk kommunens nettsider for</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f7dee8ce4b604a1c8ae8ead98ecfa6a6/vedlegg/nynorsk_gravide-to-dosar.pdf.converted</prop>
+     <seg>Snakk med jordmora di, lege eller sjekk nettsidene til kommunen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">2.20297</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_bokmal.pdf.converted</prop>
+     <seg>Det er ogs&#229; mulig &#229; vaksinere seg mot meningokokksykdom.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_nynorsk.pdf.converted</prop>
+     <seg>Det er &#242;g mogeleg &#229; vaksinere seg mot meningokokksjukdom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">2.75455</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-a4.pdf.converted</prop>
+     <seg>, b&#248;r unng&#229; bes&#248;k av voksne og barn som har</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-4-5_nynorsk_a4-2.pdf.converted</prop>
+     <seg>, b&#248;r unng&#229; bes&#248;k av vaksne og barn som har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.97056</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_bokmal.pdf.converted</prop>
+     <seg>C og Y har st&#229;tt for de fleste tilfellene av meningokokksykdom i denne aldersgruppen de senere &#229;rene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_nynorsk.pdf.converted</prop>
+     <seg>Meningokokk-typane C og Y har st&#229;tt for dei fleste tilfella av meningokokksjukdom i denne aldersgruppa dei seinare &#229;ra.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">1.79302</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>Se detaljer for rapportering i hoveddokumentet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>Sj&#229; detaljar for rapportering i hovuddokumentet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">3.95417</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Kommuneoverlegen er bekymret for at sykdomsbevisstheten om covid-19 er lav blant innbyggere og gjestarbeidere.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Kommuneoverlegen er uroa for at sjukdomsmedvitet om covid-19 er l&#229;g blant innbyggarar og gjestearbeidarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">2.65673</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_bokmal.pdf.converted</prop>
+     <seg>vaksinen, og at denne sjeldne bivirkningen ikke b&#248;r hindre ungdom i &#229; f&#229; tilbud om vaksine.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_nynorsk.pdf.converted</prop>
+     <seg>enn vaksinen, og at denne sjeldne biverknaden ikkje b&#248;r hindre ungdom i &#229; f&#229; tilbod om vaksine.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">2.0875</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-bokmal-nettskjema.pdf.converted</prop>
+     <seg>Unders&#248;kelsen inneb&#230;rer at du fyller ut et sp&#248;rreskjema.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-nynorsk-nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <seg>Unders&#248;kinga inneber at du fyller ut eit sp&#248;rjeskjema.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">2.34552</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/92218fafa6a44d16b4df2bbce0c4c8ad/nar-skal-ungdom-og-voksne-vare-hjemme_bokmal_2020-09-25.pdf.converted</prop>
+     <seg>F&#248;ler du deg syk eller tror du det kan v&#230;re en infeksjon p&#229; gang?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/92218fafa6a44d16b4df2bbce0c4c8ad/nar-skal-ungdom-og-vaksne-vere-heime-skole_nn_13.10.2020.pdf.converted</prop>
+     <seg>F&#248;ler du deg sjuk, eller trur du det kan vere ein infeksjon p&#229; gang?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">1.20625</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/syfilis/sporsmal-og-svar-om-syfilis_pashto.pdf.converted</prop>
+     <seg>Sp&#248;rsm&#229;l og svar om syfilis PASHTO</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/syfilis/sporsmal-og-svar-om-syfilis_arabisk.pdf.converted</prop>
+     <seg>Sp&#248;rsm&#229;l og svar om syfilis ARABISK</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">2.05854</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>En m&#229;te &#229; forberede seg til &#248;kt medieoppmerksomhet p&#229; er &#229; p&#229; forh&#229;nd identifisere kommunikasjonskanaler og involvere andre akt&#248;rer i samarbeid og kommunikasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Ein m&#229;te &#229; f&#248;rebu seg p&#229; dette p&#229;, er &#229; p&#229; f&#248;rehand identifisera kommunikasjonskanalar og involvera andre akt&#248;rar i samarbeid og kommunikasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">3.35476</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f7dee8ce4b604a1c8ae8ead98ecfa6a6/vedlegg/bokmal_gravide-to-doser.pdf.converted</prop>
+     <seg>&#183; Covid-19 kan gi alvorlig sykdom hos gravide&#183; Gravide b&#248;r beskytte seg og barnet i magen ved &#229; ta to doser koronavaksine&#183; Koronavaksinasjon skader ikke den gravide eller barnet i magen&#183; Gravide som er fullvaksinert f&#248;r graviditeten trenger ikke &#229; vaksinere seg p&#229; nytt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f7dee8ce4b604a1c8ae8ead98ecfa6a6/vedlegg/nynorsk_gravide-to-dosar.pdf.converted</prop>
+     <seg>&#183; Covid-19 kan gje alvorleg sjukdom hos gravide &#183; Gravide b&#248;r beskytte seg og barnet i magen ved &#229; ta to dosar koronavaksine &#183; Koronavaksinasjon skader ikkje den gravide eller barnet i magen &#183; Gravide som er fullvaksinerte f&#248;r graviditeten, treng ikkje &#229; vaksinere seg p&#229; nytt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1.05424</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>Unge som opplever st&#248;tte fra foreldre, l&#230;rere og medelever har mindre helseplager og er mer tilfredse med livet. Familien</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>Unge som opplever at dei har st&#248;tte fr&#229; foreldre, l&#230;rarar og medelevar, har mindre helseplagar og er meir tilfredse med livet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">2.58259</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/d16727de0d38419087d8765b109758d8/FHUS_skjema_Hordaland_2018</prop>
+     <seg>Middels anstrengende aktivitet er aktivitet som krever moderat innsats og f&#229;r deg til &#229; puste litt mer enn vanlig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/Skjema_Hordaland_FHUS_2018_nyn.pdf.converted</prop>
+     <seg>Middels anstrengende aktivitet er aktivitet som krev moderat innsats og f&#229;r deg til &#229; puste litt meir enn vanleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">3.56253</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/sporreskjema_sfj_2019_bokm.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/d16727de0d38419087d8765b109758d8/FHUS_skjema_Hordaland_2018</prop>
+     <seg>Hvor mange dager i l&#248;pet av de siste 7 dagene har du drevet med meget anstrengende fysisk aktivitet som tunge l&#248;ft, gravearbeid, aerobics, l&#248;p eller rask sykling?&#187;:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/sporjeskjema_sfj_2019_nyno.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/Skjema_Hordaland_FHUS_2018_nyn.pdf.converted</prop>
+     <seg>Kor mange dagar i l&#248;pet av dei siste 7 dagane har du drive med sv&#230;rt anstrengande fysisk aktivitet som tunge l&#248;ft, gravearbeid, aerobics, l&#248;p eller rask sykling?&#187;:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">2.4757</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Kommunelege/ smittevernlege skal kunne n&#229;s ved behov.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>Ein skal kunne n&#229; kommunelege/smittevernlege ved behov.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">2.47468</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Dette kan ogs&#229; skje hos personer med mild sykdom.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Dette kan ogs&#229; skje hos personar med mild sjukdom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">2.86802</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-bokmal-nettskjema.pdf.converted</prop>
+     <seg>Det er frivillig &#229; delta Du kan trekke samtykket ditt n&#229;r som helst og be om at opplysningene blir slettet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-nynorsk-nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <seg>Det er frivillig &#229; deltaDu kan trekke samtykket ditt n&#229;r som helst og be om at opplysningane blir sletta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">2.51173</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Kommunen m&#229; s&#248;rge for mottak av utstyr og forsvarlig lagring av dette utstyret, samt videre distribusjon innad i kommunen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- Kommunen m&#229; syte for mottak av utstyr og forsvarleg lagring av dette utstyret, og for vidare distribusjon internt i kommunen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">2.49931</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-bokmal-nettskjema.pdf.converted</prop>
+     <seg>For &#229; legge til rette for stati-stikk og forskning vil opplysningene bli oppbevart p&#229; ubestemt tid etter avsluttet innsamling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-nynorsk-nettskjema.pdf.converted</prop>
+     <seg>For &#229; legge til rette for statistikkog forsking vil opplysningane bli oppbevarte p&#229; ubestemt tid etter avsluttainnsamling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">2.68</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f7dee8ce4b604a1c8ae8ead98ecfa6a6/vedlegg/bokmal_gravide-to-doser.pdf.converted</prop>
+     <seg>informasjon om hvor du kan f&#229; gratis koronavaksine.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f7dee8ce4b604a1c8ae8ead98ecfa6a6/vedlegg/nynorsk_gravide-to-dosar.pdf.converted</prop>
+     <seg>for informasjon om kvar du kan f&#229; gratis koronavaksine.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">2.65714</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_bokmal.pdf.converted</prop>
+     <seg>Vi f&#248;lger n&#248;ye med p&#229; om det skulle oppst&#229; hittil ukjente bivirkninger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_nynorsk.pdf.converted</prop>
+     <seg>Vi f&#248;lgjer n&#248;ye med p&#229; om det skulle oppst&#229; hittil ukjende biverknader.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">2.65238</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.pdf.converted</prop>
+     <seg>Som hovedregel b&#248;r vaksinering og registrering i SYSVAK skje p&#229; samme tid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>Som hovudregel b&#248;r vaksinering og registrering i SYSVAK skje p&#229; same tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">2.61818</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>S&#230;rlig for barn fra familier med lav sosio&#248;konomisk status, kan barnehagen ha stor betydning for spr&#229;kutvikling og psykisk helse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>S&#230;rleg for barn fr&#229; familiar med l&#229;g sosio&#248;konomisk status, kan barnehagen ha stor betydning for spr&#229;kutvikling og psykisk helse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.69034</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_bokmal.pdf.converted</prop>
+     <seg>Folkehelseinstituttet anbefaler at ungdom i alderen 16&#8211;19 &#229;r som deltar i aktiviteter som beskrevet ovenfor vaksinere seg mot meningokokksykdom.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_nynorsk.pdf.converted</prop>
+     <seg>Folkehelseinstituttet tilr&#229;r at ungdom i alderen 16&#8211;19 &#229;r som deltek i aktivitetar som omtalt ovanfor vaksinerer seg mot meningokokksjukdom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">2.62508</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-bokmal-nettskjema.pdf.converted</prop>
+     <seg>Hovedform&#229;let med denne unders&#248;kelsen er &#229; skaffe resultater som fylkes- og bostedskommunen dinkan bruke i folkehelsearbeidet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-nynorsk-nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <seg>Hovudf&#248;rem&#229;let med denne unders&#248;kinga er &#229; skaffe resultat som fylkes- og bustadkommunen dinkan bruke i folkehelsearbeidet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">2.4073</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-a4.pdf.converted</prop>
+     <seg>luveissymptomer &#8211; det er et godt r&#229;d ogs&#229; n&#229;r det ikke er virussesong.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/06a66c5be20845b5babe3b8db31d0b1f/rs-rad-4-5_nynorsk_a4-2.pdf.converted</prop>
+     <seg>luvegssymptom &#8211; det er eit godt r&#229;d &#242;g n&#229;r det ikkje er virussesong.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_bokmal.pdf.converted</prop>
+     <seg>behandles hvis de oppst&#229;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_nynorsk.pdf.converted</prop>
+     <seg>behandlast om dei oppst&#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.77931</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/handhygiene/handhygiene-plakat-a4.pdf.converted</prop>
+     <seg>ekstra oppmerksom p&#229; h&#229;ndhygiene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/dcc3a897c2124fbcb4ebea39683be54b/handhygiene_nynorsk_2020_print.pdf.converted</prop>
+     <seg>ekstra merksam p&#229; handhygienen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">3.57896</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/sporreskjema_sfj_2019_bokm.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/d16727de0d38419087d8765b109758d8/FHUS_skjema_Hordaland_2018</prop>
+     <seg>Hvor mange dager i l&#248;pet av de siste 7 dagene har du drevet med middels anstrengende fysisk aktivitet som &#229; b&#230;re lette ting, jogge eller sykle i moderat tempo?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/sporjeskjema_sfj_2019_nyno.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/Skjema_Hordaland_FHUS_2018_nyn.pdf.converted</prop>
+     <seg>Kor mange dagar i l&#248;pet av dei siste 7 dagane har du drive med middels anstrengande fysisk aktivitet som &#229; bere lette ting, jogge eller sykle i moderat tempo?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">2.12377</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Under et utbrudd b&#248;r talspersonen(e) inkluderes i informasjonsutveksling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Under eit utbrot b&#248;r talspersonen(-ane) inkluderast i informasjonsutvekslinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">4.23417</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Etter de positive testresultatene blir 16 skoleungdommer og en gruppe barnehageelever satt i karantene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Etter dei positive testresultata blir 16 skuleungdommar og ei gruppe barnehageelever sett i karantene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">2.09362</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_bokmal.pdf.converted</prop>
+     <seg>Vi vet mye om vanlige bivirkninger etter vaksinasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_nynorsk.pdf.converted</prop>
+     <seg>Vi veit myke om vanlege biverknader etter vaksinasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">1.92062</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>Kommunen trenger anslag over m&#229;lgruppenes omfang for &#229; planlegge vaksinering (antall vaksinasjonssteder, st&#248;rrelse p&#229; lokaler, antall vaksinat&#248;rer osv.):</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>Kommunen treng anslag over omfanget av m&#229;lgruppene for &#229; planleggje vaksinering (talet p&#229; vaksinasjonsstader, storleik p&#229; lokale, talet p&#229; vaksinat&#248;rar osv.):</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">2.43286</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus.pdf.converted</prop>
+     <seg>f&#248;lge med p&#229; helsetilstanden din.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus_nynorsk.pdf.converted</prop>
+     <seg>f&#248;lgje med p&#229; helsetilstanden din.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">2.35927</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-bokmal-nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>Opplysningene som du gir i sp&#248;rreskjemaet blir oppbevart og behandlet etter gjeldende regler ompersonvern.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokelsen-i-viken-nynorsk-nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/folkehelseundersokinga-i-more-og-romsdal--vis---nettskjema.pdf.converted</prop>
+     <seg>Opplysningane som du gir i sp&#248;rjeskjemaet blir oppbevart og behandla etter gjeldande reglar ompersonvern.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus.pdf.converted</prop>
+     <seg>Avtal med legen din hvordan du skal</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus_nynorsk.pdf.converted</prop>
+     <seg>Avtal med legen din korleis du skal</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f7dee8ce4b604a1c8ae8ead98ecfa6a6/vedlegg/bokmal_gravide-to-doser.pdf.converted</prop>
+     <seg>Gravide b&#248;r ta to doser</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f7dee8ce4b604a1c8ae8ead98ecfa6a6/vedlegg/nynorsk_gravide-to-dosar.pdf.converted</prop>
+     <seg>Gravide b&#248;r ta to dosar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">2.24286</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_bokmal.pdf.converted</prop>
+     <seg>moderate og g&#229;r over av seg selv etter noen dager.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/4fbf47eb248c4c779f0d3b0c7d977d3c/koronavaksine-for-ungdom-16-17-ar-_nynorsk.pdf.converted</prop>
+     <seg>milde/moderate og g&#229;r over av seg sj&#248;lv etter nokre dagar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">5.14615</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/bokmal_hva-er-smittestopp.pdf.converted</prop>
+     <seg>&#8226; Du m&#229; v&#230;re over 16 &#229;r for &#229; bruke Smittestopp.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/d52845825ecf413fb17322a22a938799/vedlegg/kva-er-smittestoppwhat-is-smittestopp/nynorsk_hva-er-smittestopp.pdf.converted</prop>
+     <seg>&#8226; Du m&#229; vere over 16 &#229;r for &#229; bruke Smittestopp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">2.28</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Etter hver turnusperiode reiser arbeiderne tilbake til hjemlandet og blir erstattet av en ny gruppe arbeidere.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Etter kvar turnusperiode reiser dei tilbake til heimlandet og blir erstatta av ein ny gruppe arbeidarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">1.1395</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/8ced53550bba41da90673d01407a66b3/plakat-munnbind_2020.10.05_0303.pdf.converted</prop>
+     <seg>Husk, munnbind erstatter ikke avstand</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/8ced53550bba41da90673d01407a66b3/plakat-munnbind_2020.10.05_nn_1111.pdf.converted</prop>
+     <seg>Hugs at munnbind ikkje erstattar avstand</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">1.92015</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus.pdf.converted</prop>
+     <seg>De du bor med er vanligvis ikke i karantene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus_nynorsk.pdf.converted</prop>
+     <seg>Dei du bur med er vanlegvis ikkje i karantene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">2.69574</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.pdf.converted</prop>
+     <seg>epost, via minoritetsgrupper, trossamfunn, medier, intranett, brosjyrer, dokumentasjon og informasjon v/ vaksinering, skilt, plakater, merking av personell).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>e-post, via minoritetsgrupper, trussamfunn, media, intranett, brosjyrar, dokumentasjon og informasjon v/ vaksinering, skilt, plakatar, merking av personell)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">2.00618</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_bokmal_21.05.21--ren.pdf.converted</prop>
+     <seg>funksjon for leder av beredskapsutvalget.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>funksjon for leiar av beredskapsutvalet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">1.57033</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_bokmal_21.05.21--ren.pdf.converted</prop>
+     <seg>foretakene og kontaktopplysninger til disse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>f&#248;retaka og kontaktopplysningar til desse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Opprette kontakt med lokalt og regionalt helseforetak.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- Opprette kontakt med lokalt og regionalt helsef&#248;retak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">2.43682</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5581a551e3cc46c9be61a0976da8b576/informasjonsskriv-influensa-pa-1-2-3-2021-2022-bokmal.pdf.converted</prop>
+     <seg>&#187; Mange f&#229;r litt vondt p&#229; stikkstedet og det kan</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5581a551e3cc46c9be61a0976da8b576/informasjonsskriv-influensa-pa-1-2-3-2021-2022-nynorsk.pdf.converted</prop>
+     <seg>&#187; Mange f&#229;r litt vondt p&#229; stikkstaden, det kan bli litt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">2.49748</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Vurdere &#248;nsket antall doser sammen med HOD og Helsedirektoratet og bestille vaksine p&#229; bakgrunn av dette.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- Vurdere det &#248;nskte talet p&#229; dosar saman med HOD og Helsedirektoratet, og bestille vaksine p&#229; bakgrunn av dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">2.17309</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/norsk-bokmal_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>Kontakt fastlege eller legevakt hvis barnet har forkj&#248;lelse og:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/6e9924e565a44f99b07046c2965128b3/vedlegg/nynorsk_nar-skal-syke-barn-holdes-hjemme-fra-barnehage-og-barneskole-plakat.pdf.converted</prop>
+     <seg>Kontakt fastlege eller legevakt om barnet er forkj&#248;lt og:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">2.18397</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>I en epidemiologisk h&#229;ndtering av utbruddet er det f&#248;rste trinnet &#229; "bekrefte utbruddet", det vil si finne bevis p&#229; at sykdomsrisikoen til enhver tid og sted overstiger det forventede niv&#229;et.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>I ei epidemiologisk handsaming av utbrotet er det f&#248;rste trinnet &#229; "stadfeste utbrotet", det vil seie &#229; finne bevis p&#229; at sjukdomsrisikoen til ei kvar tid og stad er h&#248;gare enn det venta niv&#229;et.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">3.31071</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2014/rapport-om-svangerskapsavbrudd-for-2011-pdf2.pdf.converted</prop>
+     <seg>Meldingene som gjelder selvbestemte svangerskapsavbrudd (svangerskapsvarighet innen utgangen av 12.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/rapporter/2014/rapport-om-svangerskapsavbrudd-for-2014-pdf.pdf.converted</prop>
+     <seg>Meldingane som gjeld sj&#248;lvbestemte svangerskapsavbrot (innan utgangen av 12.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">2.48182</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <seg>Her vil du ogs&#229; f&#229; vite hva vaksinen koster.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <seg>Her vil du ogs&#229; f&#229; vite kva vaksinen kostar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">2.24118</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Koordinator/ mottaksansvarlig m&#229; v&#230;re tilgjengelig for mottak av vaksineleveranser ogs&#229; utenfor normal arbeidstid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- Koordinator/mottaksansvarleg m&#229; vere tilgjengeleg for mottak av vaksineleveransar ogs&#229; utanfor normal arbeidstid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">2.69118</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <seg>Vaksine mot meningokokk gruppe B (Bexsero eller Trumenba) er ogs&#229; tilgjengelig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <seg>Vaksine mot meningokokk gruppe B (Bexsero eller Trumenba) er &#242;g tilgjengeleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">2.62583</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>De fleste bor i brakker ved industrianlegget.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Dei fleste bur i brakker ved industrianlegget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">2.55853</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <seg>Datainnsamlingen er hjemlet i forskrift om oversikt over folke-helsen &#167; 7.For &#229; legge til rette for statistikk og forskning vil opplysningene bli oppbevart p&#229; ubestemt tid etter av-sluttet innsamling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <seg>Datainnsamlinga er heimla i forskrift om oversikt over folkehelsa &#167; 7.For &#229; legge til rette for statistikk og forsking vil opplysingane bli oppbevarte p&#229; ubestemt tid etter av-slutta innsamling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">2.37331</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Vurdere vaksinasjonsstrategier i samarbeid med andre sentrale akt&#248;rer i helseforvaltningen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- Vurdere vaksinasjonsstrategiar i samarbeid med andre sentrale akt&#248;rar i helseforvaltninga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">2.83108</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_bokmal.pdf.converted</prop>
+     <seg>Kombinasjonsvaksine mot meningokokk gruppe A, C, W og Y (Menveo eller Nimenrix) beskytter mot alle disse fire gruppene av meningokokkbakterier.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/meningokokk-b/meningokokk_brev_ungdom_2020-2021_med-utfyllbart-felt_nynorsk.pdf.converted</prop>
+     <seg>Kombinasjonsvaksine mot meningokokk gruppe A, C, W og Y (Menveo eller Nimenrix) vernar mot alle desse fire gruppene av meningokokkbakteriar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">2.54118</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>kjenne seg trygge og oppleve mestring.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>kjenne seg trygge og oppleve meistring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">2.06148</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <seg>Form&#229;let er videre analyser og statistiske framstillin-ger for kunnskapsarbeid i Vestfold og Telemark.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <seg>F&#248;rem&#229;let er vidare analysar og statistiske framstillingar for kunn-skapsarbeid i Vestfold og Telemark.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">4.11333</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Hvilke utfordringer kan du forvente under et covid-19-utbrudd p&#229; en slik arbeidsplass?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Kva utfordringar kan du vente under eit covid-19-utbrot p&#229; ein slik arbeidsplass?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">1.78966</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus.pdf.converted</prop>
+     <seg>Hold helt avstand til andre du bor</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/24fcb5196c894d5981ae3b64e7d1e9af/2021-05-03-karantenehus_nynorsk.pdf.converted</prop>
+     <seg>Hald heilt avstand til andre du bur</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">2.62892</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- Innhente oversikt (via Fylkesmannen) over ansatte i helsetjenestene i kommunene og antall ansatte som har kontakt med pasienter ved behandling eller pleie.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- Hente inn oversikt (via Fylkesmannen) over tilsette i helsetenestene i kommunane og talet p&#229; tilsette som har kontakt med pasientar ved behandling eller pleie.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">2.85758</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>virkemidler for &#229; skape gode milj&#248; i barnehagen, skolen og lokalsamfunnet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>har verkemiddel for &#229; skape gode milj&#248; i barnehagen, skulen og lokalsamfunnet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="170" datatype="Text">
+    <prop type="score-hunalign">2.38252</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>Det &#229; oppleve skolemilj&#248;et som belastende eller stressende kan f&#248;re til psykiske plager og d&#229;rlige forutsetninger for l&#230;ring.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>Det &#229; oppleve skulemilj&#248;et som belastande eller stressande kan f&#248;re til psykiske plager og d&#229;rlegare vilk&#229;r for l&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="171" datatype="Text">
+    <prop type="score-hunalign">2.36667</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/8d05b03f4b614e9e93b2ecdc317610fc/hygieneplakat-smitte.pdf.converted</prop>
+     <seg>papirlommet&#248;rkle tilgjengelig.ofte og grundig, spesielt n&#229;r du har</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/8d05b03f4b614e9e93b2ecdc317610fc/hygieneplakat-nynorsk.pdf.converted</prop>
+     <seg>papirlommet&#248;rkle for handa.ofte og grundig, s&#230;rleg n&#229;r du har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="172" datatype="Text">
+    <prop type="score-hunalign">2.43609</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt--bokmal---nettskjema.pdf.converted</prop>
+     <seg>Ved eventuelle oppf&#248;lgingsstudier vil du kunne bli kontaktet p&#229; nytt.Du vil ikke f&#229; individuell tilbakemelding om resultater fra folkehelseunders&#248;kelsen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/vt-nynorsk---nettskjema.pdf.converted</prop>
+     <seg>Ved eventuelle oppf&#248;lgingsstudiar vil du kunne bli kontakta p&#229; nytt.Du vil ikkje f&#229; individuell tilbakemelding om resultat fr&#229; folkehelseunders&#248;kinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="173" datatype="Text">
+    <prop type="score-hunalign">1.99168</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid19---utbrudd-blant-gjestearbeidere-27.04.2021.pdf.converted</prop>
+     <seg>Videre sier personaldirekt&#248;ren at hun kan sende informasjonen direkte bare for de som er ansatt p&#229; anlegget.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/f1842b330ede4b419e977f48fcd2ca8b/2021-04-28/kasusstudie-covid-19-utbrot-blant-gjestearbeidarar_27.04.2021.pdf.converted</prop>
+     <seg>Vidare seier personaldirekt&#248;ren at ho berre kan senda informasjonen direkte til dei tilsett som er fast tilsett p&#229; anlegget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="174" datatype="Text">
+    <prop type="score-hunalign">2.08462</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/sporreskjema_sfj_2019_bokm.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/d16727de0d38419087d8765b109758d8/FHUS_skjema_Hordaland_2018</prop>
+     <seg>Meget anstrengende aktivitet er aktivitet som krever hard innsats og f&#229;r deg til &#229; puste mye mer enn vanlig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/sporjeskjema_sfj_2019_nyno.pdf.converted</prop>
+     <prop type="source-document">https://www.fhi.no/contentassets/5da10fb844d44faf8e3e84ebf979e8d0/Skjema_Hordaland_FHUS_2018_nyn.pdf.converted</prop>
+     <seg>Med "sv&#230;rt anstrengende aktivitet" meiner vi aktivitet som krev hard innsats og f&#229;r deg til &#229; puste mykje meir enn vanleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="175" datatype="Text">
+    <prop type="score-hunalign">1.88824</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/a1da5763d3b84d89a29f2f545324d240/tabell-3-prioritering-av-ansatte-og-inneliggende-pasiernter_bokmal.pdf.converted</prop>
+     <seg>Forslag til oppsett for prioritering av ansatte og inneliggende pasienter i helseforetak og private sykehus.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/a1da5763d3b84d89a29f2f545324d240/tabell-3-prioritere-tilsette-og-inneliggjande-pasientar-i-helseforetak.pdf.converted</prop>
+     <seg>Forslag til oppsett for &#229; prioritere tilsette og inneliggjande pasientar i helsef&#248;retak og private sjukehus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="176" datatype="Text">
+    <prop type="score-hunalign">1.58571</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_bokmal_21.05.21--ren.pdf.converted</prop>
+     <seg>for mottaksansvarlig for hvert helseforetak.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/c673b79ad25544a89aaf31aeb313578e/tiltaksplan-for-helseforetakene_nynorsk_21.05.2021.pdf.converted</prop>
+     <seg>for mottaksansvarleg for kvart helsef&#248;retak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="177" datatype="Text">
+    <prop type="score-hunalign">4.13362</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_21.05.21--bokmal---ren.docx.converted</prop>
+     <seg>- I forbindelse med pandemivaksinasjon mot covid-19 bestiller og distribuerer Helsedirektoratet det utstyret som trengs for &#229; gjennomf&#248;re vaksinasjon i kommunen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/00494e2f0a8943b489cbbf02d58b3274/tiltaksplan-for-kommunene_nynorsk_21.05.2021.docx.converted</prop>
+     <seg>- I samband med pandemivaksinasjon mot covid-19 bestiller og distribuerer Helsedirektoratet det utstyret som trengst for &#229; gjennomf&#248;re vaksinasjon i kommunen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="178" datatype="Text">
+    <prop type="score-hunalign">3.5</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/92218fafa6a44d16b4df2bbce0c4c8ad/nar-skal-ungdom-og-voksne-vare-hjemme_bokmal_2020-09-25.pdf.converted</prop>
+     <seg>hjemme fra skole/arbeid og testes for covid-19?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/92218fafa6a44d16b4df2bbce0c4c8ad/nar-skal-ungdom-og-vaksne-vere-heime-skole_nn_13.10.2020.pdf.converted</prop>
+     <seg>fr&#229; skule/arbeid og bli testa for covid-19?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="179" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/madla-bydel-stavanger.pdf.converted</prop>
+     <seg>vennskap kan fremme god psykisk helse og livskvalitet og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fhi.no/contentassets/fa5c6c4b8a2949cd96e2e152d3ec61b7/alesund-kommune-2019-nyn.pdf.converted</prop>
+     <seg>vennskap kan fremje god psykisk helse og livskvalitet og</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

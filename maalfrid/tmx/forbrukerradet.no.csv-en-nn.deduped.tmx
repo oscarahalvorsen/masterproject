@@ -1,0 +1,236 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T170932" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.2</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/tingkontrakt-en.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/campingvognkontrakt-en.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/motorsykkelkontrakt-en.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/bobilkontrakt-en.pdf.converted</prop>
+     <seg>Last update appears on the contract.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-nn.pdf.converted</prop>
+     <seg>Siste dato for oppdatering g&#229;r fram av den einskilde kontrakten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.04118</prop>
+    <prop type="score-bicleaner">0.511</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2011/08/20100510-ncc-complaint-facebook-zynga-.pdf.converted</prop>
+     <seg>col ected, what it is used for and by whom.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2019/06/horingsuttalelse-om-laereplaner-i-mat-og-helse-l2610285.pdf.converted</prop>
+     <seg>L&#230;raren og elevane har jamleg dialog om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.07614</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/tingkontrakt-en.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/campingvognkontrakt-en.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/motorsykkelkontrakt-en.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/bobilkontrakt-en.pdf.converted</prop>
+     <seg>The Consumer Council disclaims all potential liability for errors, omissions or incomplete updates.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-nn.pdf.converted</prop>
+     <seg>Forbrukarr&#229;det fr&#229;skriv seg einkvar mogeleg ansvar for feil, utelatingar eller mangelfulle oppdateringar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.09811</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/04/fasteiendomkontrakt-en.pdf.converted</prop>
+     <seg>Checkkonsesjonsloven (Norwegian) on lovdata.no for general rule and exception.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/fasteiendomkontrakt-nn.pdf.converted</prop>
+     <seg>Sj&#229; konsesjonslova p&#229; lovdata.no for hovudregel og unnatak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.07608</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/bobilkontrakt-en.pdf.converted</prop>
+     <seg>Contract for purchasing used camper van, last updated 01.10.2018</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <seg>Kontrakt for kj&#248;p av brukt bubil mellom private, sist oppdatert 01.10.2018</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/tingkontrakt-en.pdf.converted</prop>
+     <seg>The Consumer Coun-cil recommends that the contract is completed by the parties jointly.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <seg>Forbrukarr&#229;det tilr&#229;r at kon-trakten blir fylt ut elektronisk av partane i fellesskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.80539</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/campingvognkontrakt-en.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/motorsykkelkontrakt-en.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/bobilkontrakt-en.pdf.converted</prop>
+     <seg>Please contact the Consumer Council on telephone No 23 400 500 if you have questions about the contract form.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-nn.pdf.converted</prop>
+     <seg>Ta kontakt med Forbrukarr&#229;det p&#229; telefonnum-mer 23 400 500 dersom du har sp&#248;rsm&#229;l til kontrakten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.10876</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2011/08/20100510-ncc-complaint-facebook-zynga-.pdf.converted</prop>
+     <seg>other data that the Personal Data Act deems to be sensitive information.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2019/06/horingsuttalelse-om-laereplaner-i-mat-og-helse-l2610285.pdf.converted</prop>
+     <seg>bruke oppskrifter i matlaging og rekne ut og vurdere mengda i porsjonane b&#229;de med og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.79143</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/tingkontrakt-en.pdf.converted</prop>
+     <seg>Please contact the Consumer Council on telephone number 23 400 500 if you have questions about the contract form.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <seg>Ta kontakt med Forbrukarr&#229;det p&#229; telefonnum-mer 23 400 500 dersom du har sp&#248;rsm&#229;l til kontrakten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.02</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2011/08/20100510-ncc-complaint-facebook-zynga-.pdf.converted</prop>
+     <seg>It is not specified whether Zynga&#8217;s general col ecting and col ating of</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2019/06/horingsuttalelse-om-laereplaner-i-mat-og-helse-l2610285.pdf.converted</prop>
+     <seg>Det er &#242;g &#229; kunne rekne ut og vurdere porsjonar i oppskrifter og formidle tal og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.41218</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/tingkontrakt-en.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/campingvognkontrakt-en.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/motorsykkelkontrakt-en.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/bobilkontrakt-en.pdf.converted</prop>
+     <seg>The Consumer Council does not take responsibility for any errors when filling out the contract.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-nn.pdf.converted</prop>
+     <seg>Forbrukarr&#229;det tek ikkje ansvar for eventuelle feil ved utfyllinga av kontrakten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.12857</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/04/fasteiendomkontrakt-en.pdf.converted</prop>
+     <seg>To item &#8220;Accessories&#8221;:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/fasteiendomkontrakt-nn.pdf.converted</prop>
+     <seg>Til punktet &#171;Tilbeh&#248;yr&#187;:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.19423</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/04/fritidsbaxxxetkontrakt-en.pdf.converted</prop>
+     <seg>If the boat is registered, you need to report a change of ownership.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/fritidsbaxxxetkontrakt-nn.pdf.converted</prop>
+     <seg>Dersom b&#229;ten er regis-trert, m&#229; eigarskifte meldast dit.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.46912</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/05/motorsykkelkontrakt-en.pdf.converted</prop>
+     <seg>Contract for private purchase of a used motorbike/moped/ATV, last updated 01.10.2018</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <seg>Kontrakt ved kj&#248;p av brukt motorsykkel/moped/ATV, sist oppdatert 01.10.2018</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.05348</prop>
+    <prop type="score-bicleaner">0.587</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/04/bruktbilkontrakt-en.pdf.converted</prop>
+     <seg>Check year model and EU roadworthiness inspection at Statens vegvesen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bruktbilkontrakt-nn.pdf.converted</prop>
+     <seg>&#197;rsmodell og EU- kontroll sjekkar du hos Statens vegstell.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.15238</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2017/04/bruktbilkontrakt-en.pdf.converted</prop>
+     <seg>You can check it at Br&#248;nn&#248;ysundregisteret, and take care of the printout.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bruktbilkontrakt-nn.pdf.converted</prop>
+     <seg>Du sjekkar det enkelt hos Br&#248;nn&#248;ysundregisteret, og ta vare p&#229; utskrifta.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

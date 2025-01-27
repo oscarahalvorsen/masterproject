@@ -1,0 +1,690 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221219T003041" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.105</prop>
+    <prop type="score-bicleaner">0.682</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/gjeldsordning</prop>
+     <seg>You must be insolvent.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/gjeldsordning</prop>
+     <seg>Du skal v&#230;re varig betalingsudyktig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.026</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/andre%20gebyrer/andre-nis-gebyrer</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/andre%20gebyrer/andre-nor-gebyr</prop>
+     <seg>Fees have to be paid for this.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/andre%20gebyrer/ovrige-gebyrer-flyttbare-innretninger</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/andre%20gebyrer/andre-nis-gebyrer</prop>
+     <seg>Dette m&#229; det betales gebyr for.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.82199</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/services/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>- Child maintenance payment (copy of receipt for paid child maintenance)- Childcare expenses (invoice from SFO or kindergarten)- Copy of student ID-card (if your child is over 18 years old and lives at home whilst studying)- Custody agreement (if your children only live with you part of the time)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tjenester/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>:- Barnebidrag (kopi av kvittering for utbetalt barnebidrag)- Utgifter barnepass (Regning fra SFO/barnehage)- Studiebevis hvis du fors&#248;rger barn over 18 &#229;r (som bor hjemme fordi de g&#229;r p&#229; videreg&#229;ende skole)- Samv&#230;rsavtale (hvis du har barn som ikke bor fast hos deg)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.41741</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/forms/OKO-SKJE_Ettergivelse_en.pdf.converted</prop>
+     <seg>For example, are the costs of transport, heating or health care particularly high in your case?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/skjema/Soknad_om_avdragsavtale_eller_betalingsutsettelse.pdf.converted</prop>
+     <seg>Har du for eksempel spesielt h&#248;ye utgifter knyttet til transport, oppvarming eller sykdom?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.08068</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/andre%20gebyrer/gebyr-bunkerssertifikat</prop>
+     <seg>These are fees that you must pay to the Norwegian Maritime Authority for bunkers certificates, CLC certificates (certificate relating to insurance or other financial security for liability for oil pollution damage) etc.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/andre%20gebyrer/gebyr-bunkerssertifikat</prop>
+     <seg>Dette er gebyr som du m&#229; betale Sj&#248;fartsdirektoratet for bunkerssertifikat, CLC sertifikat (sertifikat om forsikring eller annen &#248;konomisk sikkerhet for ansvar for skade ved oljes&#248;l), med mere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.13179</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/nrk/nrk-lisens</prop>
+     <seg>If you have a TV or other receiver equipment, you will be registered as a licence payer by NRK's Licensing Department.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.sismo.no/no/pub/kravtyper/nrk/nrk-lisens</prop>
+     <seg>Du er registrert som lisensbetaler hos NRK lisensavdelingen hvis du har TV eller annet mottakerutstyr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.30811</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/forms/OKO-SKJE_Ettergivelse_en.pdf.converted</prop>
+     <seg>The subsistence rate is designed to cover expenditure on necessary goods and services such as food, clothes, heating/electricity, transport, health care, television licence, newspaper, telephone, broadband, life insurance, home contents insurance, trade union dues and leisure activities.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/skjema/Soknad_om_avdragsavtale_eller_betalingsutsettelse.pdf.converted</prop>
+     <seg>Livsoppholdssatsen omfatter utgifter til n&#248;dvendige varer og tjenester som mat, kl&#230;r, oppvarming/str&#248;m, transport, helsestell, TV-lisens, avis, telefon, bredb&#229;nd, livsforsikring, innboforsikring, fagforeningskontingent og fritidsaktiviteter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.18421</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/services/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>You were going to add this money to your savings</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tjenester/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>Du hadde tenkt &#229; sette av pengene til sparing</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.53393</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/utlandet</prop>
+     <seg>We also use Visma Collectors AS as our debt collection agency abroad.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/utlandet</prop>
+     <seg>Vi benytter ogs&#229; Visma Collectors AS som inkassobyr&#229; i utlandet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.26111</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/forms/Erstatningsskjema_en.pdf.converted</prop>
+     <seg>If you want us to collect the claims for you, we need your authorisation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/skjema/Erstatningsskjema.pdf.converted</prop>
+     <seg>Hvis vi skal kreve inn kravene for deg, trenger vi din fullmakt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.32206</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/utlandet</prop>
+     <seg>Visma Collectors AS's partners in different countries are responsible for collection in such cases.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/utlandet</prop>
+     <seg>Visma Collectors AS samarbeidspartnere i de forskjellige landene tar seg av innkrevingen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">6.3</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/information/livsopphold/livsopphold_etter_1_juli_2015</prop>
+     <seg>we will deduct 20%</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/informasjonssider/livsoppholdssatser/livsoppholdssatser-trekk-i-lonn</prop>
+     <seg>trekker vi fra 20 %</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.87871</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/information/livsopphold/livsopphold_for_1_juli_2014</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/information/livsopphold/livsopphold_etter_1_juli_2015</prop>
+     <seg>&#8211; The child benefit rate is NOK 970 per month per child (ordinary rate) and it is included as part of your total income (you do not have to document this).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/informasjonssider/livsoppholdssatser/livsoppholdssatser-trekk-i-lonn</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/informasjonssider/livsoppholdssatser/livsoppholdssatser_eldre_enn_1_juli_2014</prop>
+     <seg>- Sats for barnetrygd er kr 970 i m&#229;neden per barn (vanlig sats) og regnes inn som en del av det samlede inntektsbildet (du trenger ikke dokumentere dette).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.41136</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/vanlig-forelegg</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/forenklet-forelegg</prop>
+     <seg>Invoice &#8211; what can you do?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/forenklet-tollforelegg</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/vanlig-forelegg</prop>
+     <seg>Faktura - hva kan du gj&#248;re?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.2087</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/news/2013/annual-motor-veichle-tax</prop>
+     <seg>Have you sold or scrapped your car?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/nyheter/2012/aarsavgift-nyhet</prop>
+     <seg>Vraket eller solgt bilen?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.02949</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/information/information-of-payment</prop>
+     <seg>Please contact us to get the KID number for the payment agreement if you are not able to log in.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/informasjonssider/betalingsopplysninger</prop>
+     <seg>Alternativt kan du bruke "v&#229;r referanse" eller "kravnummer" som betalingsinformasjon p&#229; kravet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.11429</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/gjeldsproblemer</prop>
+     <seg>They charge for their services.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/gjeldsproblemer</prop>
+     <seg>Disse tar betalt for sine tjenester.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">3.44433</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/studielaan</prop>
+     <seg>In addition, interest on overdue payments of 8% will be charged on the whole student loan.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/studielaan</prop>
+     <seg>I tillegg blir det regnet 8% forsinkelsesrente p&#229; hele studiel&#229;net.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.09671</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/services/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>For example, that the due date of the claim has not passed, that it has been sent to the wrong person, that the claim has not been rightfully issued, or that the claim has expired.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tjenester/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>Dersom du mener at kravet ikke er riktig, s&#229; kan du klage p&#229; grunnlaget, for eksempel at kravet ikke er forfalt, at det er sendt til feil person, uriktig ilagt, at kravet er foreldet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.28571</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/gjeldsproblemer</prop>
+     <seg>You can apply for a pardon, but the rules are strict.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/gjeldsproblemer</prop>
+     <seg>Du kan s&#248;ke om ben&#229;dning, men reglene er strenge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.03038</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/utlandet</prop>
+     <seg>If you have outstanding claims against you, we can collect the amount even if you live abroad.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/utlandet</prop>
+     <seg>Hvis du har utest&#229;ende krav, kan vi kreve inn bel&#248;pet selv om du bor i utlandet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.4087</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/inndragninger/inndragning-utenlandsk</prop>
+     <seg>Notice of attachment proceedings</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/erstatningskrav/erstatning-sivile_saker</prop>
+     <seg>Faktura - hva kan du gj&#248;re?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.28893</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/skattepenger</prop>
+     <seg>You have one month to appeal against the tax set-off after you have received the letter "Notice that set-off has been made" from the Tax Administration (Skatteetaten).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/skattepenger</prop>
+     <seg>Du har en m&#229;neds klagefrist p&#229; skattemotregningen etter at du har mottatt brevet "Underretning om gjennomf&#248;rt motregning" fra Skatteetaten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.23571</prop>
+    <prop type="score-bicleaner">0.704</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/andre%20gebyrer/andre-nis-gebyrer</prop>
+     <seg>(Click the steps for more information)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/andre%20gebyrer/ovrige-gebyrer-flyttbare-innretninger</prop>
+     <seg>(Trykk p&#229; stegene for &#229; lese mer)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">4.29</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/information/livsopphold/livsopphold_for_1_juli_2014</prop>
+     <seg>0&#8211;5 years (until they turn 6 years)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/informasjonssider/livsoppholdssatser/livsoppholdssatser_eldre_enn_1_juli_2014</prop>
+     <seg>0-5 &#229;r (barn som ikke har fylt 6 &#229;r)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.12556</prop>
+    <prop type="score-bicleaner">0.696</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/information/livsopphold/livsopphold_etter_1_juli_2015</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/information/livsopphold/livsopphold_for_1_juli_2014</prop>
+     <seg>Enclose the access agreement as documentation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/informasjonssider/livsoppholdssatser/livsoppholdssatser-trekk-i-lonn</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/informasjonssider/livsoppholdssatser/livsoppholdssatser_eldre_enn_1_juli_2014</prop>
+     <seg>Legg ved samv&#230;rsavtale som dokumentasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.11218</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/services/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>If you have children, additional documentation is needed:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tjenester/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>Hvis du har barn, s&#229; m&#229; du legge ved tilleggsdokumentasjon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.01757</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/forms/OKO-SKJE_Ettergivelse_en.pdf.converted</prop>
+     <seg>How do we assess your financial situation?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/skjema/Soknad_om_avdragsavtale_eller_betalingsutsettelse.pdf.converted</prop>
+     <seg>Hvordan vurderer vi din &#248;konomiske situasjon?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.77</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/forenklet-forelegg</prop>
+     <seg>Notice of attachment proceedings &#8211; what can you do?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/forenklet-tollforelegg</prop>
+     <seg>Varsel om tvangsinnkreving - hva kan du gj&#248;re?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.13839</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/services/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>Copy of the letter from Skatteetaten</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tjenester/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>Kopi av brevet du fikk fra Skatteetaten</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.0061</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/services/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>Complaint - you need the money for your own living costs</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tjenester/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>Klage fordi du trenger pengene til livsopphold</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.04264</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/tvangsmulkter/tvangsmulkt-ssb</prop>
+     <seg>If you do not respond to surveys from Statistics Norway (SSB), a coercive fine can be imposed on you after Statistics Norway has sent you reminders.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/tvangsmulkter/tvangsmulkt-ssb</prop>
+     <seg>Hvis du ikke svarer p&#229; unders&#248;kelser som Statistisk Sentralbyr&#229; (SSB) sender ut, kan du f&#229; tvangsmulkt etter at SSB har purret deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.10357</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/news/2013/annual-motor-veichle-tax</prop>
+     <seg>Was the car sold after 1.th of January?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/nyheter/2012/aarsavgift-nyhet</prop>
+     <seg>Ble bilen solgt etter 1.januar?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.12471</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/gjeldsproblemer</prop>
+     <seg>There are also private consultancy firms.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/gjeldsproblemer</prop>
+     <seg>I tillegg finnes private r&#229;dgivningsfirmaer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.1625</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/studielaan</prop>
+     <seg>Your student loan can still be transferred back to L&#229;nekassen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/studielaan</prop>
+     <seg>Du kan fortsatt f&#229; studiel&#229;net tilbake til L&#229;nekassen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.25909</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/forms/OKO-SKJE_Ettergivelse_en.pdf.converted</prop>
+     <seg>Number the enclosures.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/skjema/Soknad_om_avdragsavtale_eller_betalingsutsettelse.pdf.converted</prop>
+     <seg>Sett nummer p&#229; vedleggene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.06216</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/forms/OKO-SKJE_Utenrettslig-gjeldsordning-en.pdf.converted</prop>
+     <seg>your income any capital that you possess</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/skjema/klageskjema.pdf.converted</prop>
+     <seg>inntektene dine utgiftene dine eventuell formue som du har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">3.1875</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/efaktura</prop>
+     <seg>first 8 digits in the Customer ID (KID) number on the invoice you have received</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/efaktura</prop>
+     <seg>de 8 f&#248;rste sifrene i KID-nummeret p&#229; mottatt faktura</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.02632</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/forms/OKO-SKJE_Ettergivelse_en.pdf.converted</prop>
+     <seg>We base our calculations on a subsistence rate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/skjema/Soknad_om_avdragsavtale_eller_betalingsutsettelse.pdf.converted</prop>
+     <seg>Vi tar utgangspunkt i en livsoppholdssats.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.27731</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/news/2013/annual-motor-veichle-tax</prop>
+     <seg>for the annual motor veichle tax - even though the car is sold to another person.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/nyheter/2012/aarsavgift-nyhet</prop>
+     <seg>for &#229;rsavgiften - selv om bilen er solgt til en annen person.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.025</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/services/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>Are we entiteled to cover unpaid claims with us, using your VAT refund?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tjenester/enkeltmannsforetak_klage_mva_motregning</prop>
+     <seg>Har vi rett til &#229; dekke ubetalte krav hos oss med mva-penger du har til gode?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.03929</prop>
+    <prop type="score-bicleaner">0.694</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/utlandet</prop>
+     <seg>How do we collect claims abroad?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/utlandet</prop>
+     <seg>Hvordan krever vi inn i utlandet?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.01809</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/forms/Erstatningsskjema_en.pdf.converted</prop>
+     <seg>Do you want the NCA to collect the damages / legal costs?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/skjema/Erstatningsskjema.pdf.converted</prop>
+     <seg>Vil du at SI skal kreve inn erstatningen/saksomkostningen?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.7</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/news/2013/annual-motor-veichle-tax</prop>
+     <seg>When did you scrap your car?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/nyheter/2012/aarsavgift-nyhet</prop>
+     <seg>N&#229;r vraket du bilen?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.09091</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/forenklet-sjoforelegg</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/vanlig-forelegg</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/automatisk-trafikk-kontroll</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/forenklet-forelegg</prop>
+     <seg>If you pay the claim to us, we will notify the police.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/automatisk-trafikk-kontroll</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/forenklet-tollforelegg</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/vanlig-forelegg</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/forenklet-forelegg</prop>
+     <seg>Du kan bruke kravnummeret som referanse n&#229;r du betaler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.17669</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/gjeldsproblemer</prop>
+     <seg>Do not offer more, but not less either, than you know you can pay.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/gjeldsproblemer</prop>
+     <seg>Ikke tilby mer, men heller ikke mindre, enn du vet du kan klare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.15532</prop>
+    <prop type="score-bicleaner">0.682</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/forms/OKO-SKJE_Ettergivelse_en.pdf.converted</prop>
+     <seg>- We cannot take account of undocumented information.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/skjema/Soknad_om_avdragsavtale_eller_betalingsutsettelse.pdf.converted</prop>
+     <seg>Vi kan ikke ta hensyn til opplysninger som ikke er dokumentert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.08218</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/information/livsopphold/livsopphold_etter_1_juli_2015</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/information/livsopphold/livsopphold_for_1_juli_2014</prop>
+     <seg>If it is handled through NAV, you do not need to document it.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/informasjonssider/livsoppholdssatser/livsoppholdssatser-trekk-i-lonn</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/informasjonssider/livsoppholdssatser/livsoppholdssatser_eldre_enn_1_juli_2014</prop>
+     <seg>Dersom dette h&#229;ndteres gjennom NAV trenger du ikke dokumentere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.03571</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/andre%20gebyrer/andre-nis-gebyrer</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/bot-i-utenlandsk-sak</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/forenklet-sjoforelegg</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/nrk/nrk-lisens</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/automatisk-trafikk-kontroll</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/forenklet-forelegg</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/tvangsmulkter/tvangsmulkt-ssb</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/andre%20gebyrer/andre-nor-gebyr</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/boter/vanlig-forelegg</prop>
+     <prop type="source-document">https://www.sismo.no/en/pub/type-of-claims/studielan/studielan-oppsagt-studielaan</prop>
+     <seg>If you have new information, you must send it to us and enclose documentation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/bot-i-utenlandsk-sak</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/studielan/studielan-oppsagt-studielaan</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/vanlig-forelegg</prop>
+     <prop type="source-document">http://www.sismo.no/no/pub/kravtyper/nrk/nrk-lisens</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/forenklet-forelegg</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/tvangsmulkter/tvangsmulkt-ssb</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/andre%20gebyrer/andre-nis-gebyrer</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/automatisk-trafikk-kontroll</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/boter/forenklet-tollforelegg</prop>
+     <prop type="source-document">https://www.sismo.no/no/pub/kravtyper/andre%20gebyrer/ovrige-gebyrer-flyttbare-innretninger</prop>
+     <seg>Har du nye opplysninger, m&#229; du sende dette inn og legge ved dokumentasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.98261</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.sismo.no/en/pub/topic/studielaan</prop>
+     <seg>Having your student loan with us is more expensive for you (interest on overdue payments of 8% will be charged on the WHOLE student loan).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.sismo.no/no/pub/tema/studielaan</prop>
+     <seg>&#197; ha studiel&#229;net hos oss er dyrere for deg (8% forsinkelsrente p&#229; HELE studiel&#229;net), du b&#248;r derfor betale misligholdte terminbel&#248;p slik at du f&#229;r hele l&#229;net tilbake til L&#229;nekassen snarest.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

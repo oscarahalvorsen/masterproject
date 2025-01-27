@@ -1,0 +1,621 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T070653" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.25918</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-portugal</prop>
+     <seg>Som norsk partner blir du derfor lite belastet med administrasjon og rapportering i prosjektet med mindre du &#248;nsker en aktiv rolle i disse oppgavene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-estland</prop>
+     <seg>Som norsk partnar vert du difor lite belasta med administrasjon og rapportering i prosjektet, med mindre du ynskjer ein aktiv rolle i desse oppg&#229;vene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.60261</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>Diku er en p&#229;driver for endring og utvikling i utdannings- sektoren.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>Diku er ein p&#229;drivar for endring og utvikling i utdannings- sektoren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.9087</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>Diku samarbeider med utdanningssektoren for at kunnskap, erfaringer og beste praksis blir systematisert, gjort tilgjengelig og tatt i bruk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>Diku samarbeider med utdanningssektoren for at kunnskap, erfaringar og beste praksis blir systematisert, gjort tilgjengeleg og tatt i bruk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.77</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Du kan bare</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Du kan berre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.69362</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>i utdanningen og formidle kunnskap om slikt samarbeid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>i utdanninga og formidle kunnskap om slikt samarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>n&#230;ringer og sektorer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>n&#230;ringar og sektorar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.28808</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-portugal</prop>
+     <seg>E&#216;S-midlene finansierer prosjektsamarbeid og mobilitet mellom norske skoler og utdanningsinstitusjoner og tilsvarende parter i en rekke land i sentral- og s&#248;r-Europa.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-estland</prop>
+     <seg>E&#216;S-midlane finansierer prosjektsamarbeid og mobilitet mellom norske skular og utdanningsinstitusjonar og tilsvarande partar i ein rekke land i Sentral-, &#216;st- og S&#248;r-Europa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.95833</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>Samfunnet og arbeidslivet er i rask endring, og det stilles nye krav til den enkelte.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>Samfunnet og arbeidslivet er i rask endring, og det vert stilt nye krav til den enkelte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.79703</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>Diku ut&#248;ver sine oppgaver i utdanningssektoren f&#248;rst og fremst gjennom tre ulike roller med tilh&#248;rende virkemidler:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>Diku ut&#248;ver sine oppg&#229;ver i utdanningssektoren f&#248;rst og fremst gjennom tre ulike roller med tilh&#248;yrande verkemiddel:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.264</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>benytte deg av alle l&#230;rings-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>gjere deg nytte av alle l&#230;rings-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.6023</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Du har rett til &#229; motta informasjon om</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Du har rett til &#229; f&#229; informasjon om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.22549</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>Utdanning skal ogs&#229; bidra til personlig utvikling og muligheter for enkeltindivider, og ruste dem til aktivt medborgerskap i et mangfoldig samfunn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>Utdanning skal ogs&#229; bidra til personleg utvikling for enkelt- individ, og ruste dei til aktivt medborgarskap i eit mangfaldig samfunn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.63007</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>Utdanning er n&#248;kkelen for &#229; sikre individ og samfunn kunnskap og ferdigheter for en b&#230;rekraftig utvikling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>Utdanning er n&#248;kkelen for &#229; sikre individ og samfunn kunnskap og ferdigheiter for ei berekraftig utvikling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.83846</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>og utveksling f&#248;rer til endringskompetanse, aktivt medborgerskap og interkulturell kompetanse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>og utveksling f&#248;rer til endringskompetanse, aktivt medborgarskap og interkulturell kompetanse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>gj&#248;re ditt beste for &#229; tilpasse deg</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>gjere ditt beste for &#229; tilpasse deg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.54725</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-portugal</prop>
+     <seg>Mobilitet av fag- og administrativt ansatte</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-estland</prop>
+     <seg>Mobilitet av faglege- og administrativt tilsette</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.07579</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-romania</prop>
+     <seg>E&#216;S-midlene finansierer prosjektsamarbeid og mobilitet mellom norske skoler og utdanningsinstitusjoner og tilsvarende parter i en rekke land i sentral- og s&#248;r-Europa.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-polen</prop>
+     <seg>E&#216;S-midlane finansierer prosjektsamarbeid og mobilitet mellom norske skular og utdanningsinstitusjonar og tilsvarande partar i ei rekkje land i Sentral- og S&#248;r-Europa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.78571</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-romania</prop>
+     <seg>Som norsk partner blir du derfor lite belasta med administrasjon og rapportering i prosjektet med mindre du &#248;nsker en aktiv rolle i disse oppgavene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-polen</prop>
+     <seg>Som norsk partner vert du difor lite involvert i administrasjon og rapportering i prosjektet med mindre du sj&#248;lv ynskjer ein aktiv rolle i desse oppg&#229;vene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.41711</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>finnes en slik test for det viktigste under-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>test for det viktigaste undervisnings-/ar-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.55571</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>som deltar i Erasmus+ har</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>som deltek i Erasmus+,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.34286</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>aktiviteter du kan gjennomf&#248;re der.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>som du kan gjennomf&#248;re der.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.71691</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>Diku bruker kunnskap og samarbeid for &#229; utvikle relevante virkemidler for norsk utdan-ningssektor, og for &#229; fremme synergi mellom nasjonale og internasjonale ordninger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>Diku brukar kunnskap og samarbeid for &#229; utvikle relevante verkemiddel for norsk utdanningssektor, og for &#229; fremje synergi mellom nasjonale og internasjonale ordningar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.96348</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>Diku gir r&#229;d til Kunnskapsdepartementet og andre myndigheter om behov for og utvikling av ulike virkemidler.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>Diku gir r&#229;d til Kunnskapsdepartementet og andre styresmakter om behov for og utvikling av ulike verkemiddel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.93636</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>videreutvikle den nasjonale forskerskolen for skapende og ut&#248;vende kunstfag.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>vidareutvikle den nasjonale forskarskulen for skapande og ut&#248;vande kunstfag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.775</prop>
+    <prop type="score-bicleaner">0.587</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-portugal</prop>
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-romania</prop>
+     <seg>Slik s&#248;ker du</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-polen</prop>
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-estland</prop>
+     <seg>Slik s&#248;kjer du</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.72857</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-portugal</prop>
+     <seg>Hvert av de europeiske programlandene har et unikt fokus og innretning, men aktiviteter kan blant annet best&#229; av:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-estland</prop>
+     <seg>Kvart av dei europeiske programlanda har eit unikt fokus og innretning, men aktivitetar kan mellom anna best&#229; av:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Du p&#229; din side</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>+ Du p&#229; di side</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.54935</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>viktig med en grundig utarbeidet opp-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>tig med ein grundig utarbeidd oppl&#230;rings-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.23286</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>du mottar i og for &#229; sikre at det blir godkjent, er det</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>og for &#229; sikre at det blir godkjent, er det vik-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-romania</prop>
+     <seg>kan alle delta i prosjekter finansiert av E&#216;S-midlene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-polen</prop>
+     <seg>kan alle delta i prosjekter finansiert av E&#216;S-midlane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.54348</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>Diku skal v&#230;re en p&#229;driver for at utdanning i &#248;kende grad gir kompetanse for b&#229;de &#229; h&#229;ndtere endring og ta aktiv del i et samfunn som st&#229;r overfor store utfordringer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>Diku skal vere ein p&#229;drivar for at utdanning i aukande grad gir kompetanse for b&#229;de &#229; handtere endring og ta aktiv del i eit samfunn som st&#229;r overfor store utfordringar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.98095</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>avtalen under spesielle forhold og innen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>ringsavtalen under spesielle forhold og inn-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.09986</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Dette charteret beskriver hvilke rettigheter og forpliktelser du har, og hva du kan forvente fra hjemme- og vertsorganisasjonene f&#248;r, under og etter oppholdet som Erasmus+-student.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Dette charteret beskriv kva rettar og plikter du har, og kva du kan forvente av heime- og vertsorganisasjonane f&#248;r, under og etter opphaldet som Erasmus+-student.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.78421</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-romania</prop>
+     <seg>Mer om E&#216;S-midlene</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-polen</prop>
+     <seg>Meir om E&#216;S-midlane</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.92826</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>som ligger i et partnerland, kan du inng&#229; av-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>som ligg i eit partnarland, kan du inng&#229; av-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.7375</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Du b&#248;r dessuten ta sikte p&#229; &#229; gj&#248;re s&#229; godt du kan p&#229; alle relevante</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Du b&#248;r dessutan ta sikte p&#229; &#229; gjere s&#229; godt du kan p&#229; alle relevante</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.00911</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-portugal</prop>
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-romania</prop>
+     <seg>Diku har et spesielt ansvar for &#229; gj&#248;re mulighetene kjent i norsk utdanningssektor, legge til rette for mest mulig deltakelse fra Norge, samt v&#230;re en faglig st&#248;ttespiller for den enkelte programoperat&#248;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-polen</prop>
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-estland</prop>
+     <seg>Diku har eit s&#230;rskilt ansvar for &#229; gjere mogleikane kjent i norsk utdanningssektor, leggje til rette for mest mogleg deltaking fr&#229; Norge, samt v&#230;re ein fagleg st&#248;ttespelar for den einskilde programoperat&#248;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.66667</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>tillegg inng&#229;r du en</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>I tillegg inng&#229;r du ein</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.1475</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>forpliktet seg til &#229; f&#248;lge prinsippene i Erasmus-charteret for h&#248;yere utdanning om &#229; legge til rette for, st&#248;tte og godkjenne utenlandsopp-holdet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>pliktar &#229; f&#248;lgje prinsippa i Erasmus-charteret for h&#248;gare utdanning for &#229; leggje til rette for, st&#248;tte og godkjenne utanlandsopphaldet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.8</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>&#8226; Diku skal utvikle og formidle kunnskap om hvordan internasjonalt samarbeid</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>&#8226; Diku skal utvikle og formidle kunnskap om korleis internasjonalt samarbeid</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.01471</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>tegner forsikring, finner bolig og skaffer</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>forsikring, finn bustad og skaffar deg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.99807</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Vertsinstitusjonen vil ikke kreve deg for</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>Vertsinstitusjonen vil ikkje krevje deg for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.19252</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlene-utdanningssamarbeid-med-portugal</prop>
+     <seg>Det overordna form&#229;let med ordningen er &#229; bidra til sosial og &#248;konomisk utjevning i Europa og samtidig styrke relasjonene og samarbeidet mellom landene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/programmer/eoes-midlane-utdanningssamarbeid-med-estland</prop>
+     <seg>Det overordna m&#229;let med ordninga er &#229; bidra til sosial og &#248;konomisk utjamning i Europa, og samtidig styrke relasjonane og samarbeidet mellom Noreg og samarbeidslanda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.78657</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>&#8226; Diku skal utvikle og formidle kunnskap om hvordan internasjonalt samarbeid kan</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>&#8226; Diku skal utvikle og formidle kunnskap om korleis internasjonalt samarbeid</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.54531</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>&#8226; Diku skal fremme internasjonalt samarbeid og mobilitet for &#248;kt kvalitet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>&#8226; Diku skal fremje internasjonalt samarbeid og mobilitet for auka kvalitet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.9</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_bokma-l.pdf.converted</prop>
+     <seg>Diku gir r&#229;d til utdanningsinstitusjoner om kvalitetsutvikling, innovasjon i utdanning og internasjonalisering.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/om-diku/strategi/diku_strategi_2020_nynorsk.pdf.converted</prop>
+     <seg>Diku gir r&#229;d til utdanningsinstitusjonar om kvalitetsutvikling, innovasjon i utdanning og internasjonalisering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.10089</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-bokmal-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>&#229; tilby deg den mest hensiktsmessige</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://diku.no/media/diku-files/diku.no/programmer/erasmus/mobilitet-innen-hoeyere-utdanning-i-eu-ka103/no-nynorsk-e-student-charter-web-vert.pdf.converted</prop>
+     <seg>den mest form&#229;lstenlege spr&#229;kst&#248;tta, der-</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

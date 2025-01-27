@@ -1,0 +1,2723 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T181114" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ab231/globalassets/dokumenter/pasientreiser/reiseregningsskjema-bm-2020-web.pdf.converted</prop>
+     <seg>fikk et uventet behov for helsehjelp.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ab24d/globalassets/dokumenter/pasientreiser/reiseregningsskjema-nyn-web.pdf.converted</prop>
+     <seg>fekk eit uventa behov for helsehjelp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.79444</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>kurset eller oppl&#230;ringen har et medisinsk eller behandlings-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>eller oppl&#230;ringa har eit medisinsk eller behandlingsrelatert</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">3.79483</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>behandler, kvitteringer p&#229; utgifter og beskrivelse i punkt 8 eller</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>behandlar, kvitteringar p&#229; utgifter og beskriving i punkt 8 eller p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.48636</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ae08a/globalassets/dokumenter/post-covid-brosjyrer/selvmestring-ved-senfolger-etter-covid-19.pdf.converted</prop>
+     <seg>fasene og kommer med forslag til trygge aktiviteter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ae019/globalassets/dokumenter/post-covid-brosjyrer/egenmeistring-etter-covid-19-nynorsk.pdf.converted</prop>
+     <seg>fasane og kjem med forslag til trygge aktivitetar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.28105</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>I slike situasjoner kan produkter lettere komme ned i luftveiene og f&#248;re til symptomer som krever oppf&#248;lging hos lege.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>I slike situasjonar kan produkt lettare komme ned i luftvegane og f&#248;re til symptom som krev oppf&#248;lging hos lege.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.62602</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Dokumentasjonen m&#229; legges ved for hver s&#248;knad.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Dokumentasjonen m&#229; leggast ved for kvar s&#248;knad.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.71</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/svartsotvier/</prop>
+     <seg>Beskrivelse av svarts&#248;tvier</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/lavendel/</prop>
+     <seg>Skildring av lavendel</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.59752</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Denne typen produkter er ofte lett tilgjengelige og uhell skjer raskt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Denne typen produkt er ofte lett tilgjengelege og uhell skjer raskt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">4.68462</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>informasjonen om den ene forelderen legges inn i punkt 3, mens</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>informasjonen om den eine forelderen leggast inn i punkt 3, og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.79474</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/sykdom/als/rad-til-deg-som-er-parorende-til-en-med-als/</prop>
+     <seg>Du kan ta kontakt med Alltid litt sterkere gjennom deres nettsider</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/sykdom/als/a-fa-diagnosen-als/</prop>
+     <seg>Du kan ta kontakt med Alltid litt sterkere gjennom nettsidene deira</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.43214</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>I mange situasjoner er det ikke n&#248;dvendig eller &#248;nskelig &#229; gi det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>I mange situasjonar er det ikkje n&#248;dvendig eller &#248;nskjeleg &#229; gi det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.4925</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Husk &#229; legge ved dokumentasjon p&#229; at barnet var</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Hugs &#229; leggje ved dokumentasjon p&#229; at barnet var</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.79032</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>V&#230;r oppmerksom p&#229; at planter endrer utseende gjennom hele vekstsesongen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Ver merksam p&#229; at planter endrar utsj&#229;nad gjennom heile vekstsesongen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.48302</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>&#8226; N&#229;r foreldre ledsager alvorlig eller livstruende sykt barn som</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>&#8226; N&#229;r foreldre f&#248;lgjer alvorleg eller livstruande sjukt barn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.05</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>fra Norsk pasientregister (NPR) og databasen for kontroll og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>fr&#229; Norsk pasientregister (NPR) og databasen for kontroll og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.45323</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>V&#230;r oppmerksom p&#229; riktig bruk og oppbevaring av medisiner ogs&#229; n&#229;r du er p&#229; reise.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Ver merksam p&#229; riktig bruk og oppbevaring av medisinar ogs&#229; n&#229;r du er p&#229; reise.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.775</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Hvis du vil s&#248;ke om dette, m&#229; du legge ved bekreftelse fra</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Dersom du vil s&#248;kje om dette, m&#229; du leggje ved stadfesting fr&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.28163</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>langt du har reist, kan du for eksempel legge inn start- og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>til d&#248;mes leggje inn start- og sluttstad i ein kartteneste p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.782</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>yrkesskadevedtak, bekreftelse fra behandler p&#229; at du har</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>yrkesskadevedtak, bekrefting fr&#229; behandlar p&#229; at du har vore</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.91667</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>&#8226; Hvis institusjonen av medisinske grunner kalte inn foreldrene</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>&#8226; Dersom institusjonen av medisinske grunnar kalla inn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Informasjon fra Giftinformasjonen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Informasjon fr&#229; Giftinformasjonen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.77115</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ab231/globalassets/dokumenter/pasientreiser/reiseregningsskjema-bm-2020-web.pdf.converted</prop>
+     <seg>Kryss av for "Ledsager", hvis reisen var uten pasient.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ab24d/globalassets/dokumenter/pasientreiser/reiseregningsskjema-nyn-web.pdf.converted</prop>
+     <seg>Kryss av for &#171;F&#248;lgjeperson&#187;, dersom reisa var utan pasient.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.91883</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>er eksempler p&#229; slike produkter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>er d&#248;me p&#229; slike produkt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.76087</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/slyngsotvier/</prop>
+     <seg>Beskrivelse av slyngs&#248;tvier</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/stemorsblomst/</prop>
+     <seg>Skildring av stemorsblom</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/snobar/</prop>
+     <seg>Beskrivelse av sn&#248;b&#230;r</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/georgine/</prop>
+     <seg>Skildring av georgine</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.57946</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Giftinformasjonens hjemmeside finner du p&#229; Helsenorge</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Heimesida til Giftinformasjonen finn du p&#229; Helsenorge</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.12381</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Hvis du overnattet p&#229; grunn av lang</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Dersom du overnatta p&#229; grunn av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.29062</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/fuksia/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/fuksia/</prop>
+     <seg>Symptomer ved forgiftning med fuksia</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/fresia/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/fresia/</prop>
+     <seg>Symptom ved forgiftning med freesia</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.57208</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>skal du ikke sette kryss.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>skal du ikkje setje kryss.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.18289</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>For noen legemidler kan selv &#233;n tablett v&#230;re nok til &#229; gi alvorlig forgiftning hos et barn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>For nokre legemiddel kan sj&#248;lv &#233;in tablett vere nok til &#229; gi alvorleg forgifting hos eit barn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.521</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/tysbast/</prop>
+     <seg>Beskrivelse av tysbast</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/perleblomst/</prop>
+     <seg>Skildring av perleblom</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.55666</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Hva som har skjedd, n&#229;r uhellet skjedde, barnets alder og om det er symptomer er viktig informasjon for &#229; kunne vurdere faren for akutt forgiftning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Kva som har skjedd, n&#229;r uhellet skjedde, alderen til barnet og om det er symptom, er viktig informasjon for &#229; kunne vurdere om det er fare for akutt forgifting.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.20909</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>person opplysningene dine, kan du lese mer om dette p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>personopplysingane dine, kan du lese meir om dette p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.40536</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>Det vil si at det m&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>Det vil seie at det m&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ae08a/globalassets/dokumenter/post-covid-brosjyrer/selvmestring-ved-senfolger-etter-covid-19.pdf.converted</prop>
+     <seg>overflate med beina litt fra hverandre.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ae019/globalassets/dokumenter/post-covid-brosjyrer/egenmeistring-etter-covid-19-nynorsk.pdf.converted</prop>
+     <seg>overflate med beina litt fr&#229; kvarandre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.38479</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>du legge ved dokumentasjon fra behandleren din p&#229; dette.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>du leggje ved dokumentasjon fr&#229; behandlaren din p&#229; dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.064</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>deg mot automatisk behandling av dine opplysninger, m&#229; du</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>reserverer deg mot automatisk behandling av opplysingane dine,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.21382</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Dette kan for eksempel v&#230;re &#229; utelukke de farligste plantene eller b&#230;rene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Dette kan til d&#248;mes vere &#229; utelukke dei farlegaste plantene eller b&#230;ra.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.74788</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; n&#229;r p&#229;r&#248;rende skal s&#248;ke om &#229; f&#229; dekket reiseutgifter</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; n&#229;r p&#229;r&#248;rande skal s&#248;kje om &#229; f&#229; dekt reiseutgifter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.4</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; pasientreiser bekrefter at det ikke g&#229;r offentlig transport p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; Pasientreiser stadfestar at det ikkje g&#229;r offentleg transport</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.275</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>slik som parkering og bom, og i noen tilfeller ferjebillett.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>som parkering og bom, og i nokre tilfelle ferjebillett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">2.43286</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>bare pasienten som kan gi samtykke</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>berre pasienten som kan gi samtykke</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>ta bilder fra ulike vinkler</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>ta bilete fr&#229; ulike vinklar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.29508</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ab231/globalassets/dokumenter/pasientreiser/reiseregningsskjema-bm-2020-web.pdf.converted</prop>
+     <seg>Kvitteringer p&#229; utgifter til parkering og b&#229;tbilletter m&#229; legges ved.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ab24d/globalassets/dokumenter/pasientreiser/reiseregningsskjema-nyn-web.pdf.converted</prop>
+     <seg>Kvitteringar p&#229; utgifter til parkering og b&#229;tbillettar m&#229; leggast ved.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.35432</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Giftinformasjonen er en nasjonal, d&#248;gn&#229;pen r&#229;dgivningstjeneste tilgjengelig for privatpersoner, helsepersonell og andre.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Giftinformasjonen er ei nasjonal, d&#248;gnopen r&#229;dgivingsteneste som er tilgjengeleg for privatpersonar, helsepersonell og andre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>fra behandler p&#229; behovet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>fr&#229; behandlar p&#229; behovet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.425</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Sett kryss hvis reiseledsager reiste alene p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Sett kryss om f&#248;lgjepersonen reiste &#229;leine p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>tilstrekkelig dokumentasjon p&#229; det du har betalt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>tilstrekkeleg dokumentasjon p&#229; det du har betalt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.22941</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/kinesisk-pengeplante/</prop>
+     <seg>F&#248;rstehjelp ved uhell med kinesisk pengeplante</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/krysantemum/</prop>
+     <seg>F&#248;rstehjelp ved uhell med krysantemum</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.78889</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>offentlig transport, hvis du har dokumentasjon fra behandler</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>offentleg transport, dersom du har dokumentasjon fr&#229; behandlar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.79167</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/kaprifol/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/kaprifol/</prop>
+     <seg>F&#248;rstehjelp ved forgiftning med kaprifol</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/vivendel/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/vivendel/</prop>
+     <seg>F&#248;rstehjelp ved forgifting med vivendel</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.56349</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>uten jern gir sjelden symptomer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>utan jern gir sjeldan symptom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>betaler du ikke egenandel.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>betaler du ikkje eigendel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">2.54659</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Vi vurderer faren for akutt forgiftning i ulike situasjoner og gir r&#229;d om hvordan dette skal f&#248;lges opp.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Vi vurderer faren for akutt forgifting i ulike situasjonar og gir r&#229;d om korleis dette skal f&#248;lgjast opp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Giftinformasjonen har bilder av mange planter p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Giftinformasjonen har bilete av mange planter p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/paskelilje/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/paskelilje/</prop>
+     <seg>Fjern eventuelle planterester fra munnen og gi litt &#229; drikke</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/pinselilje/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/pinselilje/</prop>
+     <seg>Fjern eventuelle planterestar fr&#229; munnen og gi litt drikke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">2.2228</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>grunn av lang reisevei, m&#229; du selv beskrive dette i s&#248;knaden.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>grunn av lang reiseveg, m&#229; du sj&#248;lv forklare dette i s&#248;knaden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.91196</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ab231/globalassets/dokumenter/pasientreiser/reiseregningsskjema-bm-2020-web.pdf.converted</prop>
+     <seg>allerede var betalt/rekvirert av Pasientreiser, skriv &#171;Rekvirert reise&#187; i feltet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ab24d/globalassets/dokumenter/pasientreiser/reiseregningsskjema-nyn-web.pdf.converted</prop>
+     <seg>var betalt / rekvirert av Pasientreiser, skriv du &#171;Rekvirert reise&#187; i feltet for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.48182</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>o minst ett fra oversiden (toppen av soppen)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>o minst eitt fr&#229; oversida (toppen av soppen)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.75714</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/julekaktus/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/julekaktus/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/julekaktus/</prop>
+     <seg>Beskrivelse av julekaktus</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/juleglede/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/juleglede/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/juleglede/</prop>
+     <seg>Skildring av juleglede</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">2.11124</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Ved s&#248;l med irriterende produkter, som flytende h&#229;nds&#229;pe, sjampo og fuktighetskremer, kan man se an hjemme etter skylling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Ved s&#248;l med irriterande produkt, som flytande hands&#229;pe, sjampo og fuktkremar, kan ein sj&#229; det an heime etter skyljing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.92412</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>var det n&#230;rmeste stedet behandlingen kunne gis, m&#229; dette</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>var den n&#230;raste staden behandlinga kunne bli gitt, m&#229; dette</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">2.01429</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Husk &#229; fylle ut dato og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Hugs &#229; fylle ut dato og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.38453</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/sykdom/als/rad-til-deg-som-er-parorende-til-en-med-als/</prop>
+     <seg>Du kan ta kontakt med ALS Norge gjennom deres nettsider</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/sykdom/als/a-fa-diagnosen-als/</prop>
+     <seg>Du kan ta kontakt med ALS Norge gjennom nettsidene deira</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.60931</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Skriv inn bel&#248;pet du har betalt for piggdekkavgift.Husk &#229; legge ved kvitteringer p&#229; overnattingsutgiftene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Skriv inn bel&#248;pet du har betalt for piggdekkavgift.Hugs &#229; leggje ved kvitteringar p&#229; overnattingsutgiftene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">4.45385</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>tilfelle, m&#229; du beskrive oppholdet og utgiftene i punkt 8 eller</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>tilfelle, m&#229; du beskrive opphaldet og utgiftene i punkt 8 eller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">2.05</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ae08a/globalassets/dokumenter/post-covid-brosjyrer/selvmestring-ved-senfolger-etter-covid-19.pdf.converted</prop>
+     <seg>Skyve kroppen fra veggPlasser h&#229;ndflaten mot en vegg i skulderh&#248;yde med</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ae019/globalassets/dokumenter/post-covid-brosjyrer/egenmeistring-etter-covid-19-nynorsk.pdf.converted</prop>
+     <seg>Skyve kroppen fr&#229; veggPlasser handflatene mot ein vegg i skulderh&#248;gde,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">2.63</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; du m&#229;tte reise for &#229; f&#229; &#248;yeblikkelig hjelp</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; du m&#229;tte reise for &#229; f&#229; akutt hjelp</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">2.46182</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; n&#229;r ledsager skal s&#248;ke om &#229; f&#229; dekket reiseutgifter</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; n&#229;r f&#248;lgjeperson skal s&#248;kje om &#229; f&#229; dekt reiseutgifter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">2.175</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>o minst ett fra undersiden med stilk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>o minst eitt fr&#229; undersida med stilk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">2.74</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/floyelsblomst/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/floyelsblomst/</prop>
+     <seg>F&#248;rstehjelp ved uhell med fl&#248;yelsblomst</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/gerbera/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/gerbera/</prop>
+     <seg>F&#248;rstehjelp ved uhell med gerbera</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.36388</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Hvis du m&#229;tte reise ut av helseregionen din (Helse Nord,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Om du m&#229;tte reise ut av helseregionen din (Helse Nord,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.29143</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Husk &#229; legge ved dokumentasjon p&#229; dette.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Hugs &#229; leggje ved dokumentasjon p&#229; dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">2.21934</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>er spesialbehandlet kull som kan v&#230;re nyttig &#229; gi ved noen forgiftningsuhell.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>er spesialbehandla kol som kan vere nyttig &#229; gi ved nokre forgiftingsuhell.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.37176</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>&#248;yeblikkelig hjelp, m&#229; du ogs&#229; legge ved dokumentasjon p&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>strakshjelp, m&#229; du leggje ved dokumentasjon p&#229; dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">1.47692</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Du m&#229; legge ved</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Du m&#229; leggje ved</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.785</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/orkide/</prop>
+     <seg>Beskrivelse av orkid&#233;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/margeritt/</prop>
+     <seg>Skildring av margeritt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">1.37959</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Skyll &#248;yet kontinuerlig frem til lege tar over behandlingen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Skyl auget kontinuerleg fram til ein lege tek over behandlinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">4.33951</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>barn under 14 &#229;r og ikke klarer &#229; reise hjem, hvis behandleren</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>for barn under 14 &#229;r og ikkje klarer &#229; reise heim, dersom</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">2.60243</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>N&#229;r du som pasient sender s&#248;knad til Pasientreiser, trenger du ikke</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>N&#229;r du som pasient sender s&#248;knad til Pasientreiser, treng du ikkje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.04</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>diagnoser og funksjonshemninger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>diagnosar og funksjonshemmingar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.19286</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/slyngsotvier/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/floyelsblomst/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/floyelsblomst/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/jerusalemsotvier/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/jerusalemsotvier/</prop>
+     <seg>Fjern eventuelle planterester fra munnen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/gerbera/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/ficus-arter/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/gerbera/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/ficus-arter/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/gerbera/</prop>
+     <seg>Fjern planterestar fr&#229; munnen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.75385</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ab231/globalassets/dokumenter/pasientreiser/reiseregningsskjema-bm-2020-web.pdf.converted</prop>
+     <seg>Hvis det ikke var mulig &#229; bruke</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ab24d/globalassets/dokumenter/pasientreiser/reiseregningsskjema-nyn-web.pdf.converted</prop>
+     <seg>Dersom det ikkje var mogleg &#229; bruke</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">2.47557</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Ha soppen eller gode bilder tilgjengelig n&#229;r du ringer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Ha soppen eller gode bilete tilgjengeleg n&#229;r du ringjer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">2.6717</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; psykiatrisk poliklinikk for barn og ungdom og familievern-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; psykiatrisk poliklinikk for barn og ungdom og familievernkontor</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">2.29434</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>Pasienter og foresatte kan s&#248;ke p&#229; Helsenorge.no om &#229; f&#229; dekket</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>Pasientar og f&#248;resette kan s&#248;kje p&#229; Helsenorge.no om &#229; f&#229; dekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.78696</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/paskelilje/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/paskelilje/</prop>
+     <seg>Beskrivelse av p&#229;skelilje</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/pinselilje/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/pinselilje/</prop>
+     <seg>Beskriving av pinselilje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.64318</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>klokkeslett for n&#229;r du reiste og var tilbake igjen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>klokkeslett for n&#229;r du reiste og n&#229;r du var tilbake att.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">2.54524</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>For sm&#229; barn er dette vanskelig, men drikke gir ogs&#229; skylleffekt i munnen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>For sm&#229; barn er dette vanskeleg, men drikke gir ogs&#229; skyljeeffekt i munnen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.88134</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Skyll huden under rennende vann med behagelig temperatur hvis det er s&#248;lt kjemikalier eller produkter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Skyl huda under rennande vatn med behageleg temperatur dersom det er s&#248;lt kjemikaliar eller produkt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">2.20309</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>behandling for yrkesskade, kan du f&#229; godtgj&#248;relse for tapt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>behandling for yrkesskade, kan du f&#229; godtgjersle for tapt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">1.77</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/forsythia-gullbusk/</prop>
+     <seg>Beskrivelse av gullbusk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/geitrams/</prop>
+     <seg>Skildring av geitrams</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>Pasienter m&#229; betale &#233;n egenandel hver vei.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>Pasientar m&#229; betale &#233;in eigendel kvar veg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; behandleren din dokumenter at helsetilstanden din gj&#248;r det</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; behandlaren din dokumenter at helsetilstanden din gjer det</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">1.755</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/storhjelm/</prop>
+     <seg>Beskrivelse av storhjelm</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/ringblomst/</prop>
+     <seg>Skildring av ringblom</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">2.20343</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; et kompetansesenter for personer med sjeldne og lite kjente</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; eit kompetansesenter for personar med sjeldne og lite kjende</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">4.34085</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/paskelilje/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/paskelilje/</prop>
+     <seg>Kontakt Giftinformasjonen (22 59 13 00) dersom barnet ditt har spist litt av l&#248;ken eller st&#248;rre mengder plantemateriale av p&#229;skelilje</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/pinselilje/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/pinselilje/</prop>
+     <seg>Kontakt Giftinformasjonen (22 59 13 00) dersom barnet ditt har ete litt av l&#248;ken eller st&#248;rre mengder plantemateriale av pinselilje.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.93636</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Hvis deler av reisen din allerede var betalt/rekvirert</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Dersom delar av reisa di allereie var betalt / rekvirert</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.79032</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/lupin/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/lupin/</prop>
+     <seg>Symptomer ved forgiftning med lupin</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/buksbom/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/buksbom/</prop>
+     <seg>Symptom ved forgifting med buksbom</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.65808</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>gikk offentlig transport p&#229; strekningen, m&#229; du beskrive dette i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>ikkje gjekk offentleg transport p&#229; strekninga &#8211; m&#229; du beskrive</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">1.81994</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Giftinformasjonen (22 59 13 00) gir r&#229;d om hvor lenge du b&#248;r skylle, og om det er n&#248;dvendig med videre oppf&#248;lging hos lege.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>auga p&#229; nytt. Giftinformasjonen (22 59 13 00) gir r&#229;d om kor lenge du b&#248;r skylje, og om det er n&#248;dvendig med vidare oppf&#248;lging hos lege.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">2.78966</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/fuksia/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/fuksia/</prop>
+     <seg>F&#248;rstehjelp ved uhell med fuksia</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/fresia/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/fresia/</prop>
+     <seg>F&#248;rstehjelp ved uhell med freesia</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">2.70268</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>hverandre for &#229; f&#229; til dette.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>for &#229; f&#229; til dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">2.60769</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>V&#230;r oppmerksom n&#229;r du er p&#229; bes&#248;k eller har gjester.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Ver oppmerksam n&#229;r du er p&#229; bes&#248;k eller har gjester.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Barn kan finne medisiner som</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Barn kan finne medisinar som</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">1.78824</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>For de farligste soppene kan selv sm&#229; biter gi forgiftning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>For dei farlegaste soppane kan sj&#248;lv sm&#229; bitar gi forgifting.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">2.44091</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; for reiser til kurs og behandlinger som ikke registreres</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; for reiser til kurs og behandlingar som ikkje blir</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.79231</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Du m&#229; legge ved kvittering p&#229; utgiftene dine.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Du m&#229; leggje ved kvittering p&#229; utgiftene dine.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">2.75</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/kinesisk-pengeplante/</prop>
+     <seg>F&#248;rstehjelp ved uhell med kinesisk pengeplante</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/ficus-arter/</prop>
+     <seg>F&#248;rstehjelp ved uhell med benjaminfikus</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">2.28776</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/497388/globalassets/skjema/pasientjournal/helse-nord/spoersmaal-om-oppslag-i-pasientjournal.pdf.converted</prop>
+     <seg>Ansatte skal ha en grunn for &#229; &#229;pne pasientjournalen din.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492e6e/globalassets/dokumenter/pasientjournal-hv-sporsmal-om-innsyn.pdf.converted</prop>
+     <seg>Tilsette skal ha ein grunn for &#229; opne pasientjournalen din.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/sykdom/als/rad-til-deg-som-er-parorende-til-en-med-als/</prop>
+     <seg>Alltid litt sterkere</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/sykdom/als/a-fa-diagnosen-als/</prop>
+     <seg>Alltid litt sterkare</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.77429</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/trollhegg/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/trollhegg/</prop>
+     <seg>F&#248;rstehjelp ved forgiftning med trollhegg</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/mahonia/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/mahonia/</prop>
+     <seg>F&#248;rstehjelp ved forgifting med mahonia</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492d82/globalassets/dokumenter/pasientreiser/pasientreiser-klageskjema_bokmal.pdf.converted</prop>
+     <seg>Sted og dato</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492d83/globalassets/dokumenter/pasientreiser/pasientreiser-klageskjema_nynorsk.pdf.converted</prop>
+     <seg>Stad og dato</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">2.19474</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>For en fullstendig oversikt over regelverket for pasientreiser, kan du g&#229; inn p&#229; lovdata.no for &#229; lese</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>For ei fullstendig oversikt over regelverket for pasientreiser, kan du g&#229; inn p&#229; lovdata.no for &#229; lese</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">1.57634</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>vanskelig &#229; skylle under vannkranen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>vanskeleg &#229; skylje under vasskrana.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.38214</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>dokumentasjon fra behandler som beskriver tilfellet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>dokumentasjon fr&#229; behandlar som beskriv dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">2.29211</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/paskelilje/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/paskelilje/</prop>
+     <seg>F&#248;rstehjelp ved forgiftning med p&#229;skelilje</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/pinselilje/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/pinselilje/</prop>
+     <seg>F&#248;rstehjelp ved forgifting med pinselilje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.59279</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ab231/globalassets/dokumenter/pasientreiser/reiseregningsskjema-bm-2020-web.pdf.converted</prop>
+     <seg>gjelder ogs&#229; ved reiser til &#248;yeblikkelig hjelp.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ab24d/globalassets/dokumenter/pasientreiser/reiseregningsskjema-nyn-web.pdf.converted</prop>
+     <seg>Dette gjeld &#242;g ved reiser til strakshjelp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">2.77931</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/surbar/</prop>
+     <seg>F&#248;rstehjelp ved uhell med surb&#230;r</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/pengetre/</prop>
+     <seg>F&#248;rstehjelp ved uhell med pengetre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.48889</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/brunfelsia/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/brunfelsia/</prop>
+     <seg>fjern planterester fra munnen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/ildtopp/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/ildtopp/</prop>
+     <seg>Fjern planterestar fr&#229; munnen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">2.67419</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Kull er uheldig &#229; f&#229; ned i luftveiene og skal derfor ikke gis til barn som er motvillige, sl&#248;ve eller kaster opp.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Det er uheldig &#229; f&#229; kol ned i luftvegane, og ein skal difor ikkje gi det til barn som er motvillige, sl&#248;ve eller kastar opp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">1.76667</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>Hvis du har frikort,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>Dersom du har frikort,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">2.14615</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; en pasient som har livstruende sykdom, og som har omsorg for</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; ein pasient som har livstrugande sjukdom, og som har omsorg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">1.61569</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>timer, har du rett til kostgodtgj&#248;relse.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>timar, har du rett p&#229; kostgodtgjersle.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">2.04348</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>Hvis helsen din gjorde at du m&#229;tte overnatte p&#229; reisen,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>Dersom helsa di gjorde at du m&#229;tte overnatte p&#229; reisa,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">1.40735</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>tilsvarende billigste offentlige transport p&#229; strekningen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>svarande billigaste offentlege transport p&#229; strekninga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">1.725</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/ridderspore/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/ridderspore/</prop>
+     <seg>Beskrivelse av ridderspore</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/solsikke/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/solsikke/</prop>
+     <seg>Skildring av solsikke</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Hadde du utgifter til parkering eller b&#229;tbillett, m&#229; billetter/</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Hadde du utgifter til parkering eller b&#229;tbillett, m&#229; billettar/</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">2.67857</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/kaprifol/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/kaprifol/</prop>
+     <seg>Gi litt drikke.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/vivendel/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/vivendel/</prop>
+     <seg>Gi litt &#229; drikke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.73684</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ab231/globalassets/dokumenter/pasientreiser/reiseregningsskjema-bm-2020-web.pdf.converted</prop>
+     <seg>Jeg benyttet meg av retten</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ab24d/globalassets/dokumenter/pasientreiser/reiseregningsskjema-nyn-web.pdf.converted</prop>
+     <seg>Eg nytta meg av retten</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">2.78636</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>S&#248;k om st&#248;tte etter reisen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>S&#248;k om st&#248;tte etter reisa</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">2.16934</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ab231/globalassets/dokumenter/pasientreiser/reiseregningsskjema-bm-2020-web.pdf.converted</prop>
+     <seg>Hva er grunnen til at du s&#248;ker om dekning av reiseutgifter fra eller til en annen adresse enn den folkeregistrerte adressen din?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ab24d/globalassets/dokumenter/pasientreiser/reiseregningsskjema-nyn-web.pdf.converted</prop>
+     <seg>Kva er grunnen til at du s&#248;kjer om dekking av reiseutgifter fr&#229; eller til ei anna adresse enn den folkeregistrerte adressa di?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">2.14643</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Godtgj&#248;relse for overnatting gis etter sats n&#229;r</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Godtgjersle for overnatting blir gitt etter sats n&#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">2.50313</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ae08a/globalassets/dokumenter/post-covid-brosjyrer/selvmestring-ved-senfolger-etter-covid-19.pdf.converted</prop>
+     <seg>senk kroppen langsomt mot veggen ved &#229; b&#248;ye</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ae019/globalassets/dokumenter/post-covid-brosjyrer/egenmeistring-etter-covid-19-nynorsk.pdf.converted</prop>
+     <seg>Senk kroppen sakte inn mot veggen ved</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">2.29118</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/lupin/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/lupin/</prop>
+     <seg>F&#248;rstehjelp ved forgiftning med lupin</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/buksbom/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/buksbom/</prop>
+     <seg>F&#248;rstehjelp ved forgifting med buksbom</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">2.60214</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>N&#230;re p&#229;r&#248;rende til en pasient har rett til &#229; f&#229; dekket n&#248;dvendige</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>N&#230;re p&#229;r&#248;rande til ein pasient har rett til &#229; f&#229; dekt n&#248;dvendige</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.79211</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>strekningen, inkludert ferjestrekninger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>strekninga, inkludert ferjestrekningar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">2.50809</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Giftinformasjonen er en avdeling ved Folkehelseinstituttet og best&#229;r av r&#229;dgivere og seniorr&#229;dgivere med relevant utdannelse og oppl&#230;ring.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Giftinformasjonen er ei avdeling ved Folkehelseinstituttet og best&#229;r av r&#229;dgivarar og seniorr&#229;dgivarar med relevant utdanning og oppl&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">5.90192</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>opptjening til frikort for egenandelstak 1.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>med i oppteninga til frikort for eigendelstak 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.57571</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Hvis du har hatt dokumentert behov</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Om du har hatt dokumentert behov for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">2.13827</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>eller for n&#248;dvendig oppl&#230;ring i forbindelse med barnets</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>sjukdomsutvikling eller naudsynt oppl&#230;ring i forbindelse med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">1.54434</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>har reist fra eller til et annet sted enn din folkeregistrerte</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>har reist fr&#229; eller til ein annan stad enn den folkeregistrerte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">2.175</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; for personer som har hemmelig adresse</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; for personar som har hemmeleg adresse</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>en pasient til behandling, kan du f&#229; godtgj&#248;relse for tapt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>ein pasient til behandling, kan du f&#229; godtgjersle for tapt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">1.605</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/kinesisk-pengeplante/</prop>
+     <seg>Beskrivelse av kinesisk pengeplante</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/lavendel/</prop>
+     <seg>Skildring av lavendel</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">1.66364</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>og har byttet transportmiddel p&#229; reisen eller skal s&#248;ke om</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>og har bytta transportmiddel p&#229; reisa, eller skal s&#248;kje om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">1.43571</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>gir riktig mengde.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>gir rett mengd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">1.65631</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>og dere har hatt utgifter til offentlig transport, kan dere f&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>f&#248;lgjeperson, og de har hatt utgifter til offentleg transport, kan</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">2.49531</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/floyelsblomst/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/floyelsblomst/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/orkide/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/mispel-arter/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/forsythia-gullbusk/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/kinesisk-pengeplante/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/mispel-arter/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/agurkurt/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/kinesisk-pengeplante/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/agurkurt/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/orkide/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/mispel-arter/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/agurkurt/</prop>
+     <seg>Gi gjerne litt &#229; drikke for &#229; fjerne rester eller ubehagelig smak fra munnen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/forglemmegei/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/gerbera/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/margeritt/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/gerbera/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/ficus-arter/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/roser/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/roser/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/lavendel/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/forglemmegei/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/geitrams/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/roser/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/forglemmegei/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/margeritt/</prop>
+     <seg>Gi gjerne litt &#229; drikke for &#229; fjerne restar eller ubehageleg smak fr&#229; munnen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">2.72258</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/forsythia-gullbusk/</prop>
+     <seg>F&#248;rstehjelp ved uhell med gullbusk-arter</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/geitrams/</prop>
+     <seg>F&#248;rstehjelp ved uhell med geitrams</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">2.57418</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>De fleste planter er lite farlige &#229; smake p&#229;, men det finnes ogs&#229; planter som kan gi forgiftning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Dei fleste planter er lite farlege &#229; smake p&#229;, men det finst &#242;g planter som kan gi forgifting.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">2.03125</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>du dokumentasjon fra behandler p&#229; at du m&#229;tte reise ut av</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Har du dokumentasjon fr&#229; behandlar p&#229; at du m&#229;tte reise ut av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">1.04375</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/sykdom/als/rad-til-deg-som-er-parorende-til-en-med-als/</prop>
+     <seg>Du kan ta kontakt med foreningens likepersonstjeneste</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/sykdom/als/a-fa-diagnosen-als/</prop>
+     <seg>Du kan ta kontakt med likepersonstenesta til foreininga</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">2.74909</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>rekvirerer reisen n&#229;r du har behov for tilrettelagt transport av</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>rekvirerer reisa n&#229;r du har behov for tilrettelagd transport av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">1.76471</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ae08a/globalassets/dokumenter/post-covid-brosjyrer/selvmestring-ved-senfolger-etter-covid-19.pdf.converted</prop>
+     <seg>Hvis du opplever noen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ae019/globalassets/dokumenter/post-covid-brosjyrer/egenmeistring-etter-covid-19-nynorsk.pdf.converted</prop>
+     <seg>Dersom du opplever</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">2.29362</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>legge ved bekreftelse p&#229; at du har v&#230;rt til behandling.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>leggje ved stadfesting p&#229; at du har vore til behandling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">1.6521</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>reisevei eller andre trafikale &#229;rsaker, m&#229; du begrunne dette i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>lang reiseveg eller andre trafikale &#229;rsaker, m&#229; du grunngje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">1.44615</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>behovet, eller at reisen var til &#248;yeblikkelig hjelp.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>behovet, eller at reisa var til strakshjelp.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">2.47646</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>fast bel&#248;p per kilometer, uansett hvilket transportmiddel du har</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>eit fast bel&#248;p per kilometer, uansett kva transportmiddel du har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">4.57267</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; n&#229;r foresatte s&#248;ker p&#229; vegne av barn mellom 12 og 18 &#229;r</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; n&#229;r f&#248;resette s&#248;kjer p&#229; vegner av barn mellom 12 og 18 &#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>m&#229; behandleren din dokumentere dette.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>m&#229; behandlaren din dokumentere dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">2.52073</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>&#8226; for reiser i forbindelse med tuberkulosekontroll</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>&#8226; for reiser i samband med tuberkulosekontroll</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">1.68462</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>etter faste satser, og du trenger ikke legge ved kvittering eller</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>dekka etter faste satsar, og du treng ikkje leggje ved kvittering</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">2.71667</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Hvis barnet har smakt p&#229; snus, nikotintyggegummi, skr&#229; eller sigaretter, vil mengden nikotin i produktet v&#230;re avgj&#248;rende for om barnet kan observeres hjemme eller du b&#248;r ta med barnet til lege.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Dersom barnet har smakt p&#229; snus, nikotintyggjegummi, skr&#229; eller sigarettar, vil mengda nikotin i produktet vere avgjerande for om du kan observere barnet heime eller b&#248;r ta med barnet til lege.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>Dette gjelder hvis</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>Dette gjeld dersom</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">2.53571</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Det er likevel viktig &#229; vite at alle apper har sine begrensninger, og informasjonen fra disse b&#248;r kryssjekkes med andre kilder og brukes med fornuft.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Det er likevel viktig &#229; vite at alle appar har sine avgrensingar, og at ein b&#248;r kryssjekke informasjonen fr&#229; desse med andre kjelder og bruke dei med fornuft.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">1.18421</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/sykdom/hjerne-og-nerver/als/</prop>
+     <seg>Les mer om utredning og behandling av ALS ved</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/sykdom/als/a-fa-diagnosen-als/</prop>
+     <seg>Les meir om utgreiing og behandling av ALS ved:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">2.48182</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>og hageplanter kan v&#230;re vanskeligere &#229; finne navnet p&#229;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>og hageplanter kan vere vanskelegare &#229; finne namnet p&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">1.63864</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>behandlet s&#248;knaden som f&#248;lge av at s&#248;knaden din m&#229; behandles</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>f&#229; behandla s&#248;knaden som f&#248;lgje av at s&#248;knaden din m&#229; bli</seg>
+    </tuv>
+   </tu>
+   <tu tuid="170" datatype="Text">
+    <prop type="score-hunalign">2.29362</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Du m&#229; likevel f&#248;lge med p&#229; om barnet utvikler symptomer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Du m&#229; likevel f&#248;lgje med p&#229; om barnet utviklar symptom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="171" datatype="Text">
+    <prop type="score-hunalign">3.85694</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>hvis det var n&#248;dvendig &#229; v&#230;re borte fra hjemmet i mer enn 12 timer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>som det var n&#248;dvendig &#229; vere borte fr&#229; heimen i meir enn 12 timar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="172" datatype="Text">
+    <prop type="score-hunalign">1.38514</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Behandler m&#229; da bekrefte at det var helsemessige &#229;rsaker til</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Behandlar m&#229; d&#229; stadfeste at det var helsemessige &#229;rsaker til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="173" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.521</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/tysbast/</prop>
+     <seg>Beskrivelse av tysbast</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/hortensia/</prop>
+     <seg>Skildring av hortensia</seg>
+    </tuv>
+   </tu>
+   <tu tuid="174" datatype="Text">
+    <prop type="score-hunalign">1.78421</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/lupin/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/lupin/</prop>
+     <seg>Beskrivelse av lupin</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/buksbom/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/buksbom/</prop>
+     <seg>Beskriving av buksbom</seg>
+    </tuv>
+   </tu>
+   <tu tuid="175" datatype="Text">
+    <prop type="score-hunalign">2.87143</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Til flytende legemidler b&#248;r du bruke riktig doseringsutstyr som spr&#248;yte, m&#229;lebeger</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Til flytande legemiddel b&#248;r du bruke riktig doseringsutstyr som spr&#248;yte, m&#229;lebeger</seg>
+    </tuv>
+   </tu>
+   <tu tuid="176" datatype="Text">
+    <prop type="score-hunalign">4.79474</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4ab231/globalassets/dokumenter/pasientreiser/reiseregningsskjema-bm-2020-web.pdf.converted</prop>
+     <seg>offentlig transport p&#229; strekningen, m&#229; du beskrive dette i punkt 8.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4ab24d/globalassets/dokumenter/pasientreiser/reiseregningsskjema-nyn-web.pdf.converted</prop>
+     <seg>offentleg transport p&#229; strekninga, m&#229; du beskrive dette i punkt 8.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="177" datatype="Text">
+    <prop type="score-hunalign">2.75312</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/mispel-arter/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/mispel-arter/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/mispel-arter/</prop>
+     <seg>F&#248;rstehjelp ved uhell med mispel-arter</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/roser/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/roser/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/roser/</prop>
+     <seg>F&#248;rstehjelp ved uhell med roseartar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="178" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>ta n&#230;rbilder som er i fokus</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>ta n&#230;rbilete som er i fokus</seg>
+    </tuv>
+   </tu>
+   <tu tuid="179" datatype="Text">
+    <prop type="score-hunalign">1.79091</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>p&#229; tapt arbeidsinntekt m&#229; legges ved.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>p&#229; tapt arbeidsinntekt m&#229; leggast ved.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="180" datatype="Text">
+    <prop type="score-hunalign">2.43382</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>til en helseinstitusjon der barnet var innlagt, oppgir du</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>til ein helseinstitusjon kor barnet var innlagt, oppgir du grunnen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="181" datatype="Text">
+    <prop type="score-hunalign">1.415</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>hvis den er innenfor &#233;n takstsone.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>dersom ho er innanfor &#233;i takstsone.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="182" datatype="Text">
+    <prop type="score-hunalign">2.15305</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Reseptfrie legemidler kan ogs&#229; gi forgiftninger:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Reseptfrie legemiddel kan &#242;g gi forgiftingar:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="183" datatype="Text">
+    <prop type="score-hunalign">1.78421</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/fuksia/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/fuksia/</prop>
+     <seg>Beskrivelse av fuksia</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/fresia/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/fresia/</prop>
+     <seg>Skildring av freesia</seg>
+    </tuv>
+   </tu>
+   <tu tuid="184" datatype="Text">
+    <prop type="score-hunalign">1.28889</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>til feltene for n&#229;r reisen og behandlingen startet og sluttet i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>i tillegg til felta for n&#229;r reisa og behandlinga starta og slutta i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="185" datatype="Text">
+    <prop type="score-hunalign">2.43251</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_norsk.pdf.converted</prop>
+     <seg>Du har rett p&#229; godtgj&#248;relse for utgifter til mat etter faste satser,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/492ecb/globalassets/dokumenter/pasientreiser/pasientreiser_brosjyre_nynorsk.pdf.converted</prop>
+     <seg>Du har rett p&#229; godtgjering for utgifter til mat etter faste satsar der-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="186" datatype="Text">
+    <prop type="score-hunalign">1.95556</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>hvis behandlingsstedet du reiste til var geografisk n&#230;rmest din</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>dersom behandlingsstaden du reiste til var geografisk n&#230;rast</seg>
+    </tuv>
+   </tu>
+   <tu tuid="187" datatype="Text">
+    <prop type="score-hunalign">1.79412</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>fordi det ikke finnes behandling for deg i bostedskommunen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>fordi det ikkje finnast behandling for deg i bustadkommunen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="188" datatype="Text">
+    <prop type="score-hunalign">1.78846</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>p&#229; at det var n&#248;dvendig &#229; bruke bil eller drosje p&#229; strekningen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>p&#229; at det var naudsynt &#229; bruke bil eller drosje p&#229; strekninga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="189" datatype="Text">
+    <prop type="score-hunalign">1.03571</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/kaprifol/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/kaprifol/</prop>
+     <seg>Beskrivelse av kaprifol</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/vivendel/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/vivendel/</prop>
+     <seg>Beskriving av vivendel</seg>
+    </tuv>
+   </tu>
+   <tu tuid="190" datatype="Text">
+    <prop type="score-hunalign">2.28909</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>I alle hjem finnes produkter som er giftige eller helsefarlige.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>I alle heimar finst det produkt som er giftige eller helsefarlege.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="191" datatype="Text">
+    <prop type="score-hunalign">4.90993</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>informasjon om den andre forelderen kan fylles ut i punkt 8 eller</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>informasjon om den andre forelderen kan fyllast ut i punkt 8 eller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="192" datatype="Text">
+    <prop type="score-hunalign">1.91538</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>arbeidsinntekt hvis du har v&#230;rt p&#229; reise mer enn to timer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>arbeidsinntekt om du har vore p&#229; reise i meir enn to timar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="193" datatype="Text">
+    <prop type="score-hunalign">1.95429</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Fyll ut antall d&#248;gn du s&#248;ker</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Fyll ut talet p&#229; d&#248;gn du</seg>
+    </tuv>
+   </tu>
+   <tu tuid="194" datatype="Text">
+    <prop type="score-hunalign">1.79412</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>v&#230;rt til behandling for yrkesskade og dokumentasjon p&#229; den</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>til behandling for yrkesskade og dokumentasjon p&#229; den tapte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="195" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/vindublad/</prop>
+     <seg>Beskrivelse av vindusblad</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/margeritt/</prop>
+     <seg>Skildring av margeritt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="196" datatype="Text">
+    <prop type="score-hunalign">2.44921</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Hvis ikke pasienten har skrevet under p&#229; s&#248;knaden, m&#229;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Dersom ikkje pasienten har skrevet under p&#229; s&#248;knaden, m&#229; du</seg>
+    </tuv>
+   </tu>
+   <tu tuid="197" datatype="Text">
+    <prop type="score-hunalign">2.79062</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/julekaktus/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/julekaktus/</prop>
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/julekaktus/</prop>
+     <seg>F&#248;rstehjelp ved uhell med julekaktus</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/juleglede/</prop>
+     <prop type="source-document">https://www.helsenorge.no/giftinformasjon/planter-og-bar-a-a/juleglede/</prop>
+     <prop type="source-document">https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/juleglede/</prop>
+     <seg>F&#248;rstehjelp ved uhell med juleglede</seg>
+    </tuv>
+   </tu>
+   <tu tuid="198" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Giftinformasjonen kan hjelpe til med &#229; identifisere soppen og gi r&#229;d om videre oppf&#248;lging.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Giftinformasjonen kan hjelpe til med &#229; identifisere soppen og gi r&#229;d om vidare oppf&#248;lging.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="199" datatype="Text">
+    <prop type="score-hunalign">2.15787</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Fyll ut antall d&#248;gn du s&#248;ker godtgj&#248;relse for, i tillegg</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Fyll ut talet p&#229; d&#248;gn du s&#248;kjer godtgjersle for,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="200" datatype="Text">
+    <prop type="score-hunalign">1.41466</prop>
+    <prop type="score-bicleaner">0.569</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>hvor mye du mistenker er svelget</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>kor mykje du mistenkjer er svelgt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="201" datatype="Text">
+    <prop type="score-hunalign">2.14199</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4a77f3/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-ny-versjon-30.10.21.pdf.converted</prop>
+     <seg>Faremerking p&#229; emballasje kan v&#230;re forvirrende og produkter uten faresymboler kan</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aaf94/globalassets/giftinformasjon/pdf-forebygging-av-forgiftninger-hos-barn-nynorsk-05.11.21.pdf.converted</prop>
+     <seg>Faremerking p&#229; emballasje kan vere forvirrande, og produkt utan faresymbol kan &#242;g</seg>
+    </tuv>
+   </tu>
+   <tu tuid="202" datatype="Text">
+    <prop type="score-hunalign">1.96667</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>&#229; reise frem og tilbake mellom behandlingene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>&#229; reise fram og tilbake mellom behandlingane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="203" datatype="Text">
+    <prop type="score-hunalign">1.97582</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/veiledning-2020-bm-web.pdf.converted</prop>
+     <seg>Tapt arbeidsinntekt dekkes etter satser fastsatt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.helsenorge.no/4aa0bc/globalassets/dokumenter/pasientreiser/rettleiing-2020-nyn-web.pdf.converted</prop>
+     <seg>Tapt arbeidsinntekt blir dekka etter satsar</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

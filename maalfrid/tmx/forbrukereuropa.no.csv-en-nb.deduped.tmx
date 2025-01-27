@@ -1,0 +1,515 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T192900" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.45</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/PROTECTION-OF-YOUR-PERSONAL-DATA.pdf.converted</prop>
+     <seg>consumer complaints or disputes (</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2018/05/Personvernerkl%C3%A6ring.pdf.converted</prop>
+     <seg>forbrukerklager og forbrukertvister (</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.74127</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/travel/air-travel/denied%20boarding/</prop>
+     <seg>&#8364;600 per passenger for all other flights</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/reise/fly/nektet-ombordstigning/</prop>
+     <seg>&#8364; 600 for alle andre flygninger Kompensasjonen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.75159</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2017/01/Quality-Charter-for-the-ECC-Net.pdf.converted</prop>
+     <seg>Whether you write, telephone or e-mail, we will acknowledge receipt and make every effort to consider the information/documentation that we have been provided with promptly and, at the latest, within 14 working days.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/Kvalitetserkl%C3%A6ring-ECC-Net.pdf.converted</prop>
+     <seg>Uavhengig om du kontakter oss per brev, telefon eller e-post, vil vi bekrefte mottaket og gj&#248;re v&#229;rt ytterste for &#229; vurdere informasjonen/dokumentasjonen vi har mottatt omg&#229;ende og senest innen 14 virkedager.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.0125</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/online-shopping/chargeback/</prop>
+     <seg>Contact your bank</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/aktuelt/kjopt-noe-du-ikke-har-fatt-dette-er-chargeback/</prop>
+     <seg>Hvordan gj&#248;r du det:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.03022</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/complaints-procedure/</prop>
+     <seg>If your claim towards the airline was denied, you can forward your complaint to a national enforcement body (NEB).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/slik-klager-du/</prop>
+     <seg>Hvis du ikke n&#229;r fram med en klage overfor et flyselskap kan du klage videre til en nasjonal klagenemd (NEB).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.02222</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2017/01/Quality-Charter-for-the-ECC-Net.pdf.converted</prop>
+     <seg>If you have already started a legal procedure/court procedure</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/Kvalitetserkl%C3%A6ring-ECC-Net.pdf.converted</prop>
+     <seg>Der du allerede har startet en rettslig prosedyre/rettsprosedyre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.18462</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/complaints-procedure/</prop>
+     <seg>Did the problem occur inside the EU/EEA area?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/slik-klager-du/</prop>
+     <seg>Oppsto problemet innenfor EU/E&#216;S-omr&#229;det?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.16383</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/travel/air-travel/before-taking-off/</prop>
+     <seg>Here you can find information regarding, booking, cancellation, tax refunds and bankruptcy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/reise/fly/for-flyreisen/</prop>
+     <seg>Her finner du informasjon om bestilling, avbestilling, refusjon av skatter og avgifter og konkurs.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.42</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/complaints-procedure/</prop>
+     <seg>Find the correct NEB:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/slik-klager-du/</prop>
+     <seg>Finn riktig NEB:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.76053</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/scams/chargeback/</prop>
+     <seg>(Norwegian Financial Contracts Act &#167; 54b).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/nettkjop/kortreklamasjon/</prop>
+     <seg>regulert av norsk lov (finansavtaleloven &#167; 54b).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.02826</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/PROTECTION-OF-YOUR-PERSONAL-DATA.pdf.converted</prop>
+     <seg>&#9679; Contact persons for the traders in the European Union, Norway and Iceland involved in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2018/05/Personvernerkl%C3%A6ring.pdf.converted</prop>
+     <seg>&#9679; Kontaktpersoner for n&#230;ringsdrivende i EU, Norge og p&#229; Island som er involvert i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.25833</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/PROTECTION-OF-YOUR-PERSONAL-DATA.pdf.converted</prop>
+     <seg>ECC-Net 2 falls under the following legal basis / lawfulness</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2018/05/Personvernerkl%C3%A6ring.pdf.converted</prop>
+     <seg>ECC-Net 2 har f&#248;lgende rettsgrunnlag: Europaparlaments- og r&#229;dsforordning (EU) nr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.11083</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2017/01/Quality-Charter-for-the-ECC-Net.pdf.converted</prop>
+     <seg>You may be required to provide relevant supporting documentation to enable us to progress your case.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/Kvalitetserkl%C3%A6ring-ECC-Net.pdf.converted</prop>
+     <seg>For at vi skal kunne behandle saken din, kan du bli bedt om &#229; legge fram relevant dokumentasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.185</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/complaints-procedure/</prop>
+     <seg>Did the problem occur outside of the EU/EEA area?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/slik-klager-du/</prop>
+     <seg>Oppsto problemet utenfor EU/E&#216;S-omr&#229;det?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.17422</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/PROTECTION-OF-YOUR-PERSONAL-DATA.pdf.converted</prop>
+     <seg>To enable ECC-Net to provide the above mentioned services to the citizens, an IT Tool, ECC-Net 2, is used to collect and handle complaints and the necessary data including your personal data.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2018/05/Personvernerkl%C3%A6ring.pdf.converted</prop>
+     <seg>ECC-nettverket bruker et dataverkt&#248;y, ECC-Net 2, for &#229; innhente og behandle klager og n&#248;dvendige data, inkludert dine personopplysninger. Form&#229;let med dette er &#229; yte de ovennevnte tjenestene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.13161</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/scams/fraud/</prop>
+     <seg>You are not obligated to pay for items you did not order.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/svindel/nettsvindel/</prop>
+     <seg>Du er ikke pliktig til &#229; betale for varer du ikke har bestilt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.06875</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/travel/train/</prop>
+     <seg>If a delay of more than 60 minutes is anticipated in reaching the final destination, passengers must be offered a choice between:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/reise/tog/</prop>
+     <seg>N&#229;r det med rimelighet kan forventes at et tog ankommer minst 60 minutter forsinket skal passasjeren omg&#229;ende f&#229; valget mellom:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.15137</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/complaints-procedure/</prop>
+     <seg>You can also check to see if you are covered by your insurance.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/slik-klager-du/</prop>
+     <seg>Du kan eventuelt sjekke om du har en forsikring du kan benytte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.54</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/PROTECTION-OF-YOUR-PERSONAL-DATA.pdf.converted</prop>
+     <seg>and assistance (</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2018/05/Personvernerkl%C3%A6ring.pdf.converted</prop>
+     <seg>for informasjon og assistanse (</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.72276</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/property-abroad/timeshare-and-vacation-clubs/</prop>
+     <seg>Unfortunately, it is not realistic to expect more than 40-50 percent of the purchase price.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/bolig-i-utlandet/timeshare-ferieklubb/</prop>
+     <seg>Det er som regel ikke realistisk &#229; forvente over 40-50 prosent av kj&#248;psprisen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.97868</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/PROTECTION-OF-YOUR-PERSONAL-DATA.pdf.converted</prop>
+     <seg>In order to fulfil their role, ECC-Net 2 is used by the ECCs to process relevant data, insofar and as long as necessary, for one or more of the following purposes:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2018/05/Personvernerkl%C3%A6ring.pdf.converted</prop>
+     <seg>ECC-nettverket bruker dataverkt&#248;yet ECC-Net 2 for &#229; behandle relevante data i den utstrekning og s&#229; lenge dette kreves, for ett eller flere av f&#248;lgende form&#229;l:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.04144</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/scams/fraud/</prop>
+     <seg>The trader cannot demand that you return the item.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/svindel/nettsvindel/</prop>
+     <seg>Du skal ikke betale for tjenester eller varer du ikke har kj&#248;pt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.1</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/travel/boat/</prop>
+     <seg>Firstly, you should address your complaint to the cruise or ferry company.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/bolig-i-utlandet/feriebolig/</prop>
+     <seg>Gj&#248;r du ikke dette, kan du miste retten til kompensasjon eller prisavslag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.08614</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2017/01/Quality-Charter-for-the-ECC-Net.pdf.converted</prop>
+     <seg>Your compliments, suggestions or complaints allow us to improve our services and the way we communicate.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/Kvalitetserkl%C3%A6ring-ECC-Net.pdf.converted</prop>
+     <seg>Din tilbakemelding er viktig for oss, og gj&#248;r at vi kan forbedre v&#229;re tjenester og m&#229;ten vi kommuniserer p&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.01151</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/travel/air-travel/before-taking-off/</prop>
+     <seg>Check that the names of the passengers, contact information, destination, times etc are correct before you confirm the order.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/reise/fly/for-flyreisen/</prop>
+     <seg>Sjekk at navn p&#229; reisende, kontaktinformasjon, destinasjon, tidspunkt og liknende er korrekt f&#248;r du bekrefter bestillingen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.34821</prop>
+    <prop type="score-bicleaner">0.698</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/PROTECTION-OF-YOUR-PERSONAL-DATA.pdf.converted</prop>
+     <seg>Why do we process your data?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2018/05/Personvernerkl%C3%A6ring.pdf.converted</prop>
+     <seg>Hvorfor behandler vi personopplysningene dine?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.25312</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/online-shopping/chargeback/</prop>
+     <seg>You did not receive what you ordered.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/aktuelt/kjopt-noe-du-ikke-har-fatt-dette-er-chargeback/</prop>
+     <seg>Du kan fors&#248;ke kortreklamasjon n&#229;r du har:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.00385</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/scams/fraud/</prop>
+     <seg>Received an item you did not order?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/svindel/nettsvindel/</prop>
+     <seg>F&#229;tt vare du ikke har bestilt?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.13282</prop>
+    <prop type="score-bicleaner">0.698</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2017/01/Quality-Charter-for-the-ECC-Net.pdf.converted</prop>
+     <seg>Protecting your personal data and privacy</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/Kvalitetserkl%C3%A6ring-ECC-Net.pdf.converted</prop>
+     <seg>Vi beskytter og verner om dine personlige data</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.92965</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/scams/counterfeit-products/</prop>
+     <seg>If you suspect smuggling or sales of counterfeit products, you can alert Norwegian Customs by phone 04812, or by email</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/svindel/piratvarer/</prop>
+     <seg>Du kan tipse Tolletaten hvis du har mistanke om smugling og salg av falske varer ved &#229; ringe Tolletatens tipstelefon 04812, eller p&#229; e-post til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.29375</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/PROTECTION-OF-YOUR-PERSONAL-DATA.pdf.converted</prop>
+     <seg>Which data do we collect and process?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2018/05/Personvernerkl%C3%A6ring.pdf.converted</prop>
+     <seg>Hvor lenge oppbevarer vi personopplysningene dine?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.53958</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/travel/air-travel/denied%20boarding/</prop>
+     <prop type="source-document">https://www.forbrukereuropa.no/en/travel/air-travel/delayed-flight/</prop>
+     <seg>&#8364;250 per passenger for flights of 1,500km or less</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/reise/fly/nektet-ombordstigning/</prop>
+     <prop type="source-document">https://www.forbrukereuropa.no/reise/fly/er-flyet-innstilt/</prop>
+     <seg>&#8364; 250 for flygninger p&#229; inntil 1500 km</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.81689</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2017/01/Quality-Charter-for-the-ECC-Net.pdf.converted</prop>
+     <seg>The European Consumer Centres Network (ECC-Net) comprises 30 centres across all EU Member States, Norway and Iceland, working together to resolve the consumer disputes of their residents in an amicable manner.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/Kvalitetserkl%C3%A6ring-ECC-Net.pdf.converted</prop>
+     <seg>Det europeiske forbrukernettverket (ECC-Net) best&#229;r av totalt 30 kontorer i alle EU-landene, Norge og Island, som sammen arbeider for &#229; l&#248;se forbrukertvister i EU/E&#216;S.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.36971</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/PROTECTION-OF-YOUR-PERSONAL-DATA.pdf.converted</prop>
+     <seg>How long do we keep your data?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2018/05/Personvernerkl%C3%A6ring.pdf.converted</prop>
+     <seg>Hvorfor beskytter vi personopplysningene dine?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.16098</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/scams/fraud/</prop>
+     <seg>The trader should in any case pay for the return.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/svindel/nettsvindel/</prop>
+     <seg>Mottar du en faktura for noe du ikke har bestilt, s&#229; skal du ikke betale.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2017/01/Quality-Charter-for-the-ECC-Net.pdf.converted</prop>
+     <seg>Based on your consumer experiences, the ECC-Net pools its knowledge and expertise, and works with enforcement authorities, national and European stakeholders in the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2016/12/Kvalitetserkl%C3%A6ring-ECC-Net.pdf.converted</prop>
+     <seg>ECC-Net samarbeider med h&#229;ndhevingsmyndigheter, og nasjonale og europeiske interesseorganisasjoner, og videreformidler forbrukernes erfaringer og problemer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.07143</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2017/02/onlinecossbordermysteryshoppingreport011.pdf.converted</prop>
+     <seg>be prepared, not scared</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/wp-content/uploads/2017/02/Horing_ADR_og_ODR.pdf.converted</prop>
+     <seg>i saker som ikke tas til behandling i en ADR?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.27143</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/contact-us/</prop>
+     <seg>Phones are open 10.00 &#8211; 14.00, Monday &#8211; Thursday.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/kontakt-oss/</prop>
+     <seg>Telefonen er &#229;pen 10.00-14.00, mandag og tirsdag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">4.09209</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.forbrukereuropa.no/en/travel/train/</prop>
+     <seg>of the fare paid for delays between 60 and 119 minutes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.forbrukereuropa.no/reise/tog/</prop>
+     <seg>av billettprisen for en forsinkelse p&#229; 60 til 119 minutter</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,125 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221218T174710" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.01301</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/Aquaculture/Aquaculture-Act</prop>
+     <seg>Claims for the reimbursement of execution expenses may be recovered by execution proceedings.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-20-2006</prop>
+     <seg>Innehavar av l&#248;yve skal sende melding til Fiskeridirektoratet ved driftsoppstart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.12333</prop>
+    <prop type="score-bicleaner">0.511</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/Aquaculture/Aquaculture-Act</prop>
+     <seg>The King may prescribe, by regulations, provisions relating to the adaptation of the production of salmon, trout and rainbow trout.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-20-2006</prop>
+     <seg>akvakultur av krepsdyr, blautdyr og pigghuder i form av botnkultur utan at dyra vert haldne i fangenskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">5.41209</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/About-the-directorate/data-privacy-statement</prop>
+     <seg>2 The basis and purpose of the data processing</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fiskeridir.no/Om-oss/Personvern/kystfiskeappen</prop>
+     <seg>2 Behandlingsgrunnlag og form&#229;l med behandlinga</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">5.00317</prop>
+    <prop type="score-bicleaner">0.615</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/About-the-directorate/data-privacy-statement</prop>
+     <seg>4 Who we share information with</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fiskeridir.no/Om-oss/Personvern/kystfiskeappen</prop>
+     <seg>4 Kven vi deler opplysningar med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.07788</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/About-the-directorate/data-privacy-statement</prop>
+     <seg>The Directorate of Fisheries shares the information that is collected with the Coast Guard, and may share information with other control authorities pursuant to the Marine Resources Act, section 49 first paragraph.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fiskeridir.no/Om-oss/Personvern/kystfiskeappen</prop>
+     <seg>Fiskeridirektoratet deler innsamla opplysningar med Kystvakta, og kan dele opplysningar med andre kontrolletatar i medhald av havressurslova &#167; 49 f&#248;rste ledd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.41223</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/About-the-directorate/data-privacy-statement</prop>
+     <seg>The Directorate of Fisheries uses Google Firebase and Google Analytics in the app for usage pattern analysis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fiskeridir.no/Om-oss/Personvern/kystfiskeappen</prop>
+     <seg>Fiskeridirektoratet nyttar ei l&#248;ysing fr&#229; Google Firebase og Google Analytics til bruksm&#248;nsteranalyse i appen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">3.85714</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-Regulations-of-29-june-1990-no.-485-relating-to-first-hand-sales-of-raw-fish</prop>
+     <prop type="source-document">http://www.fiskeridir.no/English/Fisheries/Regulations/Regulations-amending-the-Regulations-of-29-june-1990-no.-485-relating-to-first-hand-sales-of-raw-fish</prop>
+     <seg>&#167;9 Entry into force.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Gjeldende-J-meldinger/J-88-2012</prop>
+     <prop type="source-document">http://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Gjeldende-J-meldinger/J-88-2012</prop>
+     <seg>r&#229;fisklova &#167; 9. Ikraftsetjing</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.09596</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/Aquaculture/Aquaculture-Act</prop>
+     <seg>A time limit may be stipulated for the performance of such measures.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fiskeridir.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-20-2006</prop>
+     <seg>Storleiken p&#229; lokalitetane vert fastsett i det enkelte l&#248;yve.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.75256</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.fiskeridir.no/English/About-the-directorate/data-privacy-statement</prop>
+     <seg>The Directorate of Fisheries collects personal data that is reported in accordance with the provisions of the Regulation on electronic reporting for Norwegian fishing vessels of less than 15 metres (Regulation relating to the coastal fishing app) sections 4-8, which includes name and position, among other things.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.fiskeridir.no/Om-oss/Personvern/kystfiskeappen</prop>
+     <seg>Fiskeridirektoratet samlar inn personopplysningar som blir rapporterte i tr&#229;d med avgjerdene i forskrift om elektronisk rapportering for norske fiske- og fangstfart&#248;y under 15 meter (forskrift om kystfiskeappen) &#167;&#167; 4-8, dette inkluderer mellom anna namn og posisjon.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

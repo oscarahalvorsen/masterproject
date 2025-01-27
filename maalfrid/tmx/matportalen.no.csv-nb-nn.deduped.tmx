@@ -1,0 +1,942 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T182800" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; Vask med s&#229;pe fra s&#229;pedispenser (vanlig h&#229;nds&#229;pe kan inneholde bakterier fra</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>&#8226; Vask med s&#229;pe fra s&#229;pedispensar (vanleg hands&#229;pe kan innehalde bakteriar fr&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">4.44368</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; de aller fleste bakterier d&#248;r ved temperaturer mellom 60-70 grader</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>&#8226; dei fleste bakteriane d&#248;yr ved temperaturar mellom 60-70 grader</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.18541</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3161.ece/BINARY/Ern%C3%A6ring%20-%20fem%20om%20dagen%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; Spis gjerne friske, r&#229; gr&#248;nnsaker og salater.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3173.ece/BINARY/Ern%C3%A6ring%20-%20minst%20fem%20om%20dagen%20(nynorsk)</prop>
+     <seg>&#8226; Et gjerne friske, r&#229; gr&#248;nsaker og salatar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.62396</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; det er viktig &#229; vaske kniven og skj&#230;refj&#248;len godt eller ta en ny hvis du skal</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>&#8226; det er viktig &#229; vaske kniven og skjerefj&#248;la godt eller ta ein ny dersom du skal</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.79118</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; Skyll hendene godt under rennende vann</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>&#8226; Skyl hendene godt under rennande vatn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.95071</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3100.ece/BINARY/N%C3%B8kkelhullet%20fasit%205.-7.%20trinn%20(bokm%C3%A5l)</prop>
+     <seg>Denne oppgaven egner seg som ekstraoppgave for elever som blir raskt ferdig med de andre oppgavene.Vannrett:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3101.ece/BINARY/N%C3%B8kkelhullet%20fasit%205.-7.%20trinn%20(nynorsk)</prop>
+     <seg>Denne oppg&#229;va eignar seg godt som ekstraoppg&#229;ve til elevar som blir raskt ferdig med dei andre oppg&#229;vene.Vassrett:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">3.05209</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3161.ece/BINARY/Ern%C3%A6ring%20-%20fem%20om%20dagen%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; En smoothie er en fin m&#229;te &#229; f&#229; i seg frukt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3173.ece/BINARY/Ern%C3%A6ring%20-%20minst%20fem%20om%20dagen%20(nynorsk)</prop>
+     <seg>&#8226; Ein smoothie er ein fin m&#229;te &#229; f&#229; i seg frukt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.69</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/matsmitte_og_hygiene/tema/kjokkenhygiene/article1062.ece/BINARY/Ikke%20nok%20%C3%A5%20v%C3%A6re%20god%20kokk%20(bokm%C3%A5l)</prop>
+     <seg>Du b&#248;r ikke lage mat til andre n&#229;r du</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article1184.ece/BINARY/Ikkje%20nok%20%C3%A5%20vere%20god%20kokk%20(nynorsk)</prop>
+     <seg>Du b&#248;r ikkje lage mat til andre n&#229;r du</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.27778</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/matsmitte_og_hygiene/tema/kjokkenhygiene/article1062.ece/BINARY/Ikke%20nok%20%C3%A5%20v%C3%A6re%20god%20kokk%20(bokm%C3%A5l)</prop>
+     <seg>De aller fleste bakteriene d&#248;r</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article1184.ece/BINARY/Ikkje%20nok%20%C3%A5%20vere%20god%20kokk%20(nynorsk)</prop>
+     <seg>Dei aller fleste bakteriane d&#248;yr</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.57429</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>Rester av stivelse, dvs matrester som ikke er fjernet under oppvasken, viser seg som bl&#229; felter spesielt i kanten av serviset.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>Restar av stivelse, dvs matrestar som ikkje er fjerna under oppvasken, viser seg som bl&#229; felt spesielt i kanten av serviset.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.29474</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; bakteriene trives og formerer seg raskt i fuktige kj&#248;kkenkluter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>&#8226; bakteriane trivst og formerer seg raskt i fuktige kj&#248;kenklutar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3160.ece/BINARY/Ern%C3%A6ring%20-%20fasit%20brus%20og%20andre%20s%C3%B8te%20drikker%20(bokm%C3%A5l)</prop>
+     <seg>Lag en utstilling</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3171.ece/BINARY/Ern%C3%A6ring%20-%20fasit%20brus%20og%20andre%20s%C3%B8te%20drikker%20(nynorsk)</prop>
+     <seg>Lag ei utstilling</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.47646</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3166.ece/BINARY/Ern%C3%A6ring%20-%20produktutvikling%20smoothie%20(bokm%C3%A5l)</prop>
+     <seg>Flere oppskrifter og tips finner du i Smoothieguiden p&#229; frukt.no.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3177.ece/BINARY/Ern%C3%A6ring%20-%20produktutvikling%20smoothie%20(nynorsk)</prop>
+     <seg>Fleire oppskrifter og tips finn du i Smoothieguiden p&#229; frukt.no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.9402</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3161.ece/BINARY/Ern%C3%A6ring%20-%20fem%20om%20dagen%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; Spis minst tre porsjoner gr&#248;nnsaker og to</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3173.ece/BINARY/Ern%C3%A6ring%20-%20minst%20fem%20om%20dagen%20(nynorsk)</prop>
+     <seg>&#8226; Et minst tre porsjonar gr&#248;nsaker og to</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.35599</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3141.ece/BINARY/Hygiene%20-%20faktaark%20h%C3%A5ndhygiene%20(bokm%C3%A5l)</prop>
+     <seg>Alle m&#229; bidra til at maten vi spiser er tryggest mulig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3140.ece/BINARY/Hygiene%20-%20fakta%20handhygiene%20(nynorsk)</prop>
+     <seg>Alle m&#229; bidra til at maten vi et er tryggast mogleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.60769</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3167.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20frukt%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; belgfrukter som b&#248;nner, kikerter og linser inneholder mye protein?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3178.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20frukt%20(nynorsk)</prop>
+     <seg>&#8226; belgfrukter som b&#248;nner, kikerter og linser inneheld mykje protein?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.59905</prop>
+    <prop type="score-bicleaner">0.569</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>d&#248;ra etter at du har v&#230;rt p&#229; offentlig toalett</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>etter at du har vore p&#229; offentlig toalett</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.13214</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3168.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; 9 av 10 barn og unge f&#229;r i seg mer sukker enn det helsemyndighetene anbefaler?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3179.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(nynorsk)</prop>
+     <seg>&#8226; 9 av 10 barn og unge f&#229;r i seg meir sukker enn det helsestyresmaktene tilr&#229;r?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.78537</prop>
+    <prop type="score-bicleaner">0.519</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3161.ece/BINARY/Ern%C3%A6ring%20-%20fem%20om%20dagen%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; Spis gjerne blomk&#229;l, brokkoli, gulrot, spinat,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3173.ece/BINARY/Ern%C3%A6ring%20-%20minst%20fem%20om%20dagen%20(nynorsk)</prop>
+     <seg>&#8226; Et gjerne blomk&#229;l, brokkoli, gulrot, spinat,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.28462</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3163.ece/BINARY/Ern%C3%A6ring%20-%20oppgaveark%20brus%20og%20andre%20s%C3%B8te%20drikker%202%20(bokm%C3%A5l)</prop>
+     <seg>Du kan gjerne formulere flere sp&#248;rsm&#229;l selv.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3175.ece/BINARY/Ern%C3%A6ring%20-%20oppgaveark%20brus%20og%20andre%20s%C3%B8te%20drikker%20(nynorsk)</prop>
+     <seg>Du kan gjerne formulere fleire sp&#248;rsm&#229;l sj&#248;lv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.28125</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>Lugols-v&#230;ske f&#229;s kj&#248;pt p&#229; apotek.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>Lugol-v&#230;ske f&#229;r ein kj&#248;pt p&#229; apotek.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.34375</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; bakteriene lever p&#229; hendene dine, og kan spres videre &#8211; b&#229;de til mennesker</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>&#8226; bakteriane lever p&#229; hendene dine, og kan spreiast vidare &#8211; b&#229;de til menneske og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3141.ece/BINARY/Hygiene%20-%20faktaark%20h%C3%A5ndhygiene%20(bokm%C3%A5l)</prop>
+     <seg>Vask alltid hendene f&#248;r du lager mat</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3140.ece/BINARY/Hygiene%20-%20fakta%20handhygiene%20(nynorsk)</prop>
+     <seg>Vask alltid hendene f&#248;r du lagar mat</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.69286</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; Vask kniven godt f&#248;r du begynner med gr&#248;nnsakene</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>&#8226; Vask kniven godt f&#248;r du begynner med gr&#248;nsakene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.28909</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3166.ece/BINARY/Ern%C3%A6ring%20-%20produktutvikling%20smoothie%20(bokm%C3%A5l)</prop>
+     <seg>Smoothies egner seg godt b&#229;de som dessert eller som mellomm&#229;ltid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3177.ece/BINARY/Ern%C3%A6ring%20-%20produktutvikling%20smoothie%20(nynorsk)</prop>
+     <seg>Smoothiar eignar seg godt b&#229;de som dessert og som mellomm&#229;ltid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.79362</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3162.ece/BINARY/Ern%C3%A6ring%20-%20oppgave%20klassens%20favorittdrikk%20(bokm%C3%A5l)</prop>
+     <seg>La alle i klassen gi terningkast til de ulike drikkene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3174.ece/BINARY/Ern%C3%A6ring%20-%20oppgave%20klassens%20favorittdrikk%20(nynorsk)</prop>
+     <seg>La alle i klassen gi terningkast til dei ulike drikkene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.57604</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/matsmitte_og_hygiene/tema/kjokkenhygiene/article1062.ece/BINARY/Ikke%20nok%20%C3%A5%20v%C3%A6re%20god%20kokk%20(bokm%C3%A5l)</prop>
+     <seg>hurtig i temperaturer mellom 10&#186;C og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article1184.ece/BINARY/Ikkje%20nok%20%C3%A5%20vere%20god%20kokk%20(nynorsk)</prop>
+     <seg>raskt i temperaturar mellom 10&#186;C og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.75455</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3141.ece/BINARY/Hygiene%20-%20faktaark%20h%C3%A5ndhygiene%20(bokm%C3%A5l)</prop>
+     <seg>God h&#229;ndhygiene f&#229;r du ved &#229; vaske hendene ofte.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3140.ece/BINARY/Hygiene%20-%20fakta%20handhygiene%20(nynorsk)</prop>
+     <seg>God handhygiene f&#229;r du ved &#229; vaske hendene ofte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.48824</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; er du syk kan du ogs&#229; smitte andre ved &#229; h&#229;ndtere maten deres</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>&#8226; er du sjuk, kan du ogs&#229; smitte andre ved &#229; handtere maten deira</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.87036</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3168.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(bokm%C3%A5l)</prop>
+     <seg>allikevel gi syreskader p&#229; tennene selv om det ikke inneholder sukker?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3179.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(nynorsk)</prop>
+     <seg>syreskadar p&#229; tennene sj&#248;lv om det ikkje inneheld sukker?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.00639</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3141.ece/BINARY/Hygiene%20-%20faktaark%20h%C3%A5ndhygiene%20(bokm%C3%A5l)</prop>
+     <seg>Sammenheng mellom trygg mat og h&#229;ndhygiene</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3140.ece/BINARY/Hygiene%20-%20fakta%20handhygiene%20(nynorsk)</prop>
+     <seg>Samanhengen mellom trygg mat og handhygiene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">4.57933</prop>
+    <prop type="score-bicleaner">0.513</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3168.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; man b&#248;r ikke gi drikke med s&#248;tstoffer til barn under 3 &#229;r</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3179.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(nynorsk)</prop>
+     <seg>&#8226; ein b&#248;r ikkje gi drikke med s&#248;tstoff til barn under 3 &#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">5.3</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3160.ece/BINARY/Ern%C3%A6ring%20-%20fasit%20brus%20og%20andre%20s%C3%B8te%20drikker%20(bokm%C3%A5l)</prop>
+     <seg>&#189; liter brus daglig gir 183 liter brus i &#229;ret.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3171.ece/BINARY/Ern%C3%A6ring%20-%20fasit%20brus%20og%20andre%20s%C3%B8te%20drikker%20(nynorsk)</prop>
+     <seg>&#189; liter brus dagleg gir 183 liter brus i &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.16441</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; bakteriene spres oftere med v&#229;te hender enn med t&#248;rre</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>&#8226; bakteriane blir oftare spreidde med v&#229;te hender enn med t&#248;rre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.7375</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; det under negler, ringer, armb&#229;nd eller klokker kan skjule seg like mange</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>&#8226; det under negler, ringar, armband eller klokker kan skjule seg like mange</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.26842</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3168.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(bokm%C3%A5l)</prop>
+     <seg>iste inneholder nesten like mye sukker som brus.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3179.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(nynorsk)</prop>
+     <seg>inneheld nesten like mykje sukker som brus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.13014</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3112.ece/BINARY/N%C3%B8kkelhullet%20fasit%208.-10.%20trinn%20(bokm%C3%A5l)</prop>
+     <seg>Denne oppgaven egner seg som ekstraoppgave for elever som blir raskt ferdig med de andre oppgavene.Vannrett:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3113.ece/BINARY/N%C3%B8kkelhullet%20fasit%208.-10.%20trinn%20(nynorsk)</prop>
+     <seg>Denne oppg&#229;va eignar seg som ekstraoppg&#229;ve for elevar som blir raskt ferdig med dei andre oppg&#229;vene.Vassrett:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.41903</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3163.ece/BINARY/Ern%C3%A6ring%20-%20oppgaveark%20brus%20og%20andre%20s%C3%B8te%20drikker%202%20(bokm%C3%A5l)</prop>
+     <seg>Bruk tall fra regneoppgavene og kj&#248;p inn eller ta bilde av den sukkermengden du f&#229;r i deg i l&#248;pet av &#229;ret dersom du drikker &#189; liter sukret brus daglig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3175.ece/BINARY/Ern%C3%A6ring%20-%20oppgaveark%20brus%20og%20andre%20s%C3%B8te%20drikker%20(nynorsk)</prop>
+     <seg>Bruk tal fr&#229; rekneoppg&#229;vene og kj&#248;p inn eller ta bilete av den sukkermengda du f&#229;r i deg i l&#248;pet av &#229;ret dersom du drikk &#189; liter sukra brus dagleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.6047</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>Hvert lag f&#229;r utdelt en middagstallerken, en kaffekopp og/eller en dyp tallerken og en flaske med Lugol.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>Kvart lag f&#229;r utdelt ein middagstallerken, ein kaffikopp og/eller ein djup tallerken og ei flaske med Lugol.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.47348</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>De bl&#229; feltene kan du gni vekk med fingeren.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>Dei bl&#229; felta kan du gni vekk med fingeren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.99929</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/matsmitte_og_hygiene/tema/kjokkenhygiene/article1062.ece/BINARY/Ikke%20nok%20%C3%A5%20v%C3%A6re%20god%20kokk%20(bokm%C3%A5l)</prop>
+     <seg>Ikke nok &#229; v&#230;re god kokk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article1184.ece/BINARY/Ikkje%20nok%20%C3%A5%20vere%20god%20kokk%20(nynorsk)</prop>
+     <seg>Ikkje nok &#229; vere god kokk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">2.46244</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; d&#229;rlig eller ingen vask av hender er den viktigste &#229;rsaken til smitte - fra mat og til</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>&#8226; d&#229;rleg eller ingen vask av hender er den viktigaste &#229;rsaka til smitte fr&#229; mat og til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.3875</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3112.ece/BINARY/N%C3%B8kkelhullet%20fasit%208.-10.%20trinn%20(bokm%C3%A5l)</prop>
+     <seg>Hvilke geometriske grunnformer finner du i denne logoen?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3113.ece/BINARY/N%C3%B8kkelhullet%20fasit%208.-10.%20trinn%20(nynorsk)</prop>
+     <seg>Kva for geometriske grunnformer finn du i denne logoen?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.22373</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3167.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20frukt%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; fem av de ti matvarene med h&#248;yest innhold av antioksidanter per porsjon</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3178.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20frukt%20(nynorsk)</prop>
+     <seg>&#8226; fem av dei ti matvarene med h&#248;gast innhald av antioksidantar per porsjon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.94706</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3167.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20frukt%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; proteinet i b&#248;nner, kikerter og linser kan erstatte protein fra kj&#248;tt og fisk?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3178.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20frukt%20(nynorsk)</prop>
+     <seg>&#8226; proteinet i b&#248;nner, kikerter og linser kan erstatte protein fr&#229; kj&#248;tt og fisk?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.16618</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/matsmitte_og_hygiene/tema/kjokkenhygiene/article1062.ece/BINARY/Ikke%20nok%20%C3%A5%20v%C3%A6re%20god%20kokk%20(bokm%C3%A5l)</prop>
+     <seg>hele kj&#248;ttstykker &#8211; for eksempel biff og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article1184.ece/BINARY/Ikkje%20nok%20%C3%A5%20vere%20god%20kokk%20(nynorsk)</prop>
+     <seg>heile kj&#248;tstykke &#8211; for eksempel biff og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.89016</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3166.ece/BINARY/Ern%C3%A6ring%20-%20produktutvikling%20smoothie%20(bokm%C3%A5l)</prop>
+     <seg>Banan, yoghurt eller Biola kan tilsettes for &#229; f&#229; en fyldig konsistens.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3177.ece/BINARY/Ern%C3%A6ring%20-%20produktutvikling%20smoothie%20(nynorsk)</prop>
+     <seg>Banan, yoghurt eller Biola kan tilsetjast for &#229; f&#229; ein fyldig konsistens.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/matsmitte_og_hygiene/tema/kjokkenhygiene/article1062.ece/BINARY/Ikke%20nok%20%C3%A5%20v%C3%A6re%20god%20kokk%20(bokm%C3%A5l)</prop>
+     <seg>mye for &#229; unng&#229; matforgiftning hjemme.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article1184.ece/BINARY/Ikkje%20nok%20%C3%A5%20vere%20god%20kokk%20(nynorsk)</prop>
+     <seg>mykje for &#229; unng&#229; matforgifting heime.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.77692</prop>
+    <prop type="score-bicleaner">0.567</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/matsmitte_og_hygiene/tema/kjokkenhygiene/article1062.ece/BINARY/Ikke%20nok%20%C3%A5%20v%C3%A6re%20god%20kokk%20(bokm%C3%A5l)</prop>
+     <seg>Ved steking av</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article1184.ece/BINARY/Ikkje%20nok%20%C3%A5%20vere%20god%20kokk%20(nynorsk)</prop>
+     <seg>Ved steiking av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.86824</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; bakteriene finnes bare p&#229; overflaten p&#229; biffstykker, derfor holder det &#229; svi av overflatene</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>&#8226; bakteriane finst berre p&#229; overflata p&#229; biffstykke, difor held det &#229; svi av overflatene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; Steng vannet med t&#248;rkepapir</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>&#8226; Steng vatnet med t&#248;rkepapir</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/matsmitte_og_hygiene/tema/kjokkenhygiene/article1062.ece/BINARY/Ikke%20nok%20%C3%A5%20v%C3%A6re%20god%20kokk%20(bokm%C3%A5l)</prop>
+     <seg>terninger, alt kylling- og svinekj&#248;tt skal</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article1184.ece/BINARY/Ikkje%20nok%20%C3%A5%20vere%20god%20kokk%20(nynorsk)</prop>
+     <seg>terningar og alt kylling- og svinekj&#248;t skal</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.39068</prop>
+    <prop type="score-bicleaner">0.521</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3112.ece/BINARY/N%C3%B8kkelhullet%20fasit%208.-10.%20trinn%20(bokm%C3%A5l)</prop>
+     <seg>Hvilken type trekant er dette?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3113.ece/BINARY/N%C3%B8kkelhullet%20fasit%208.-10.%20trinn%20(nynorsk)</prop>
+     <seg>Kva type trekant er dette?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">5.47325</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3161.ece/BINARY/Ern%C3%A6ring%20-%20fem%20om%20dagen%20(bokm%C3%A5l)</prop>
+     <seg>Anbefalt inntak er om lag 750 gram per dag.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3173.ece/BINARY/Ern%C3%A6ring%20-%20minst%20fem%20om%20dagen%20(nynorsk)</prop>
+     <seg>Tilr&#229;dd inntak er om lag 750 gram per dag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">2.57644</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>Gj&#248;r dette til en konkurranse om den fineste plakaten, gjerne med illustrasjoner som kan henges opp p&#229; toalettet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>Gjer dette til ein konkurranse om den finaste plakaten, gjerne med illustrasjonar som kan hengjast opp p&#229; toalettet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">2.63063</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>Oppgaven g&#229;r ut p&#229; &#229; lage et faktaark/en plakat p&#229; en side med minst fem viktige punkter som inng&#229;r i h&#229;ndhygiene etter toalettbes&#248;k.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>Oppg&#229;va g&#229;r ut p&#229; &#229; lage eit faktaark/ein plakat p&#229; ei side med minst fem viktige punkt som inng&#229;r i handhygiene etter toalettbes&#248;k.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3167.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20frukt%20(bokm%C3%A5l)</prop>
+     <seg>er ulike typer b&#230;r?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3178.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20frukt%20(nynorsk)</prop>
+     <seg>er ulike typar b&#230;r?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.69423</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3168.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; sukret brus er den st&#248;rste kilden til sukker hos barn og unge?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3179.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(nynorsk)</prop>
+     <seg>&#8226; sukra brus er den st&#248;rste kjelda til sukker hos barn og unge?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3161.ece/BINARY/Ern%C3%A6ring%20-%20fem%20om%20dagen%20(bokm%C3%A5l)</prop>
+     <seg>porsjoner frukt daglig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3173.ece/BINARY/Ern%C3%A6ring%20-%20minst%20fem%20om%20dagen%20(nynorsk)</prop>
+     <seg>porsjonar frukt dagleg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.01429</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3141.ece/BINARY/Hygiene%20-%20faktaark%20h%C3%A5ndhygiene%20(bokm%C3%A5l)</prop>
+     <seg>God h&#229;ndhygiene bidrar til trygg mat</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3140.ece/BINARY/Hygiene%20-%20fakta%20handhygiene%20(nynorsk)</prop>
+     <seg>God handhygiene bidreg til trygg mat</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">2.23898</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3168.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(bokm%C3%A5l)</prop>
+     <seg>et &#229;r dersom du ikke spiser tilsvarende mindre eller &#248;ker den fysiske aktiviteten?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3179.ece/BINARY/Ern%C3%A6ring%20-%20visste%20du%20at...-%20Om%20sukker%20(nynorsk)</prop>
+     <seg>du ikkje et tilsvarande mindre eller aukar den fysiske aktiviteten?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.73333</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>Etter toalettbes&#248;k er det viktig &#229; vaske hendene for &#229; hindre spredning av bakterier.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>Etter toalettbes&#248;k er det viktig &#229; vaske hendene for &#229; hindre spreiing av bakteriar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">2.16618</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; &#197;pne d&#248;ra med albuen eller t&#248;rkepapir</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>&#8226; Opne d&#248;ra med olbogen eller t&#248;rkepapir</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/matsmitte_og_hygiene/tema/kjokkenhygiene/article1062.ece/BINARY/Ikke%20nok%20%C3%A5%20v%C3%A6re%20god%20kokk%20(bokm%C3%A5l)</prop>
+     <seg>n&#229;r du varmer maten godt nok &#8211; det vil</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article1184.ece/BINARY/Ikkje%20nok%20%C3%A5%20vere%20god%20kokk%20(nynorsk)</prop>
+     <seg>n&#229;r du varmar maten godt nok &#8211; det vil</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>mat, for eksempel fra r&#229; kylling/kj&#248;tt til salat</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>mat &#8211; for eksempel fr&#229; r&#229; kylling/kj&#248;tt til salat</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3163.ece/BINARY/Ern%C3%A6ring%20-%20oppgaveark%20brus%20og%20andre%20s%C3%B8te%20drikker%202%20(bokm%C3%A5l)</prop>
+     <seg>Det er n&#229; mest vanlig at sukkerholdig brus har skrukork p&#229; flaskene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3175.ece/BINARY/Ern%C3%A6ring%20-%20oppgaveark%20brus%20og%20andre%20s%C3%B8te%20drikker%20(nynorsk)</prop>
+     <seg>Det er no mest vanleg at sukkerhaldig brus har skrukork p&#229; flaskene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">5.62681</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3163.ece/BINARY/Ern%C3%A6ring%20-%20oppgaveark%20brus%20og%20andre%20s%C3%B8te%20drikker%202%20(bokm%C3%A5l)</prop>
+     <seg>P&#229; 1950-tallet drakk nordmenn gjennomsnittlig ca.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3175.ece/BINARY/Ern%C3%A6ring%20-%20oppgaveark%20brus%20og%20andre%20s%C3%B8te%20drikker%20(nynorsk)</prop>
+     <seg>P&#229; 1950-talet drakk nordmenn gjennomsnittleg ca.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">3.4181</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3163.ece/BINARY/Ern%C3%A6ring%20-%20oppgaveark%20brus%20og%20andre%20s%C3%B8te%20drikker%202%20(bokm%C3%A5l)</prop>
+     <seg>Diskuter i klassen hva dere tror er &#229;rsakene til at nordmenn drikker s&#229; mye mer brus n&#229; enn p&#229; 50-tallet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3175.ece/BINARY/Ern%C3%A6ring%20-%20oppgaveark%20brus%20og%20andre%20s%C3%B8te%20drikker%20(nynorsk)</prop>
+     <seg>Diskuter i klassen kva de trur er &#229;rsakene til at nordmenn drikk s&#229; mykje meir brus no enn p&#229; 50-talet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/matsmitte_og_hygiene/tema/kjokkenhygiene/article1062.ece/BINARY/Ikke%20nok%20%C3%A5%20v%C3%A6re%20god%20kokk%20(bokm%C3%A5l)</prop>
+     <seg>spiser mat, mellom h&#229;ndtering av ulike</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article1184.ece/BINARY/Ikkje%20nok%20%C3%A5%20vere%20god%20kokk%20(nynorsk)</prop>
+     <seg>et, mellom handtering av ulike r&#229;varer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">2.8</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3142.ece/BINARY/Hygiene%20-%20oppgave%20(bokm%C3%A5l)</prop>
+     <seg>&#8226; T&#248;rk hendene godt &#8211; enten under luft eller med t&#248;rkepapir</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3143.ece/BINARY/Hygiene%20-%20oppg%C3%A5ve%20(nynorsk)</prop>
+     <seg>&#8226; T&#248;rk hendene godt &#8211; anten under luft eller med t&#248;rkepapir</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.96667</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3162.ece/BINARY/Ern%C3%A6ring%20-%20oppgave%20klassens%20favorittdrikk%20(bokm%C3%A5l)</prop>
+     <seg>Husk alltid &#229; ha rikelig med isbiter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3174.ece/BINARY/Ern%C3%A6ring%20-%20oppgave%20klassens%20favorittdrikk%20(nynorsk)</prop>
+     <seg>Hugs alltid &#229; ha rikeleg med isbitar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.5451</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3146.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(bokm%C3%A5l)</prop>
+     <seg>kj&#248;kkenklut flere ganger i uken og oftere ved behov</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.matportalen.no/artikler/article3147.ece/BINARY/Hygiene%20-%20visste%20du%20at...-%20(nynorsk)</prop>
+     <seg>fleire gonger i veka og oftare ved behov</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

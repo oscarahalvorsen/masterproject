@@ -1,0 +1,2389 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221219T042747" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.74206</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>Animasjon er med sin sentrale plass i b&#229;de data, fjernsyn og film et viktig element innen b&#229;de underholdning, nyheter, informasjon og undervisning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>Animasjon er, med sin sentrale plass i b&#229;de data, fjernsyn og film, eit viktig element i b&#229;de underhaldning, nyheiter, informasjon og undervising.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.68879</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/MIDBVPRO/Haust</prop>
+     <seg>I tr&#229;d med det nasjonale kvalifikasjonsrammeverket har studenten f&#248;lgende l&#230;ringsutbytte etter fullf&#248;rt studieprogram:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/MIDBVPRO/Haust</prop>
+     <seg>I tr&#229;d med det nasjonale kvalifikasjonsrammeverket skal studenten ha f&#248;lgjande l&#230;ringsutbytte etter fullf&#248;rt studieprogram:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.74866</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <seg>N&#230;rmere informasjon om dette vil bli gitt i semesterplanen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <seg>N&#230;rare informasjon om dette vil bli gitt i semesterplanen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.00441</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2017/MIDBVPRO/Haust</prop>
+     <seg>Du jobber innenfor flere sjangre, med fokus b&#229;de p&#229; teknikk, dramaturgi og innholdsproduksjon mot ulike plattformer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2016/MIDBV/Haust</prop>
+     <seg>Du arbeider med bilde- og videoproduksjonar innan fleire sjangerar, med fokus b&#229;de p&#229; teknikk, dramaturgi, og innhaldsproduksjon mot ulike plattformer. Studieretninga</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.45833</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/154086?show=full&amp;locale-attribute=no</prop>
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/154084?show=full&amp;locale-attribute=no</prop>
+     <seg>dc.description.abstract Notatet er en del av prosjektet "Kulturperspektiv p&#229; m&#248;te mellom embetsmenn og b&#248;nder", et strategisk h&#248;gskuleprosjekt fr&#229; H&#248;gskulen i Volda, Historisk Institutt og Institutt for religion, livssyn og kristendom.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/154086?locale-attribute=no</prop>
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/154084?locale-attribute=no</prop>
+     <seg>Notatet er ein del av prosjektet "Kulturperspektiv p&#229; m&#248;te mellom embetsmenn og b&#248;nder", eit strategisk h&#248;gskuleprosjekt fr&#229; H&#248;gskulen i Volda, Historisk Institutt og Institutt for religion, livssyn og kristendom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.14615</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/5291</prop>
+     <seg>Spesialiseringsemne, der studenten gjennom ett eller flere praktiske prosjekter skal vise ferdigheter og kunnskaper utover det grunnleggende i en eller flere valgte teknikker.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/8791</prop>
+     <seg>Spesialiseringsemne, der studenten gjennom eitt eller fleire praktiske prosjekt skal vise ferdigheiter og kunnskap utover det grunnleggande i ein eller fleire valde teknikkar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.6</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/5979</prop>
+     <seg>bruk av modeller i naturvitenskap</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103-510KFK/5981</prop>
+     <seg>bruk av modellar i naturvitskap og naturfagundervisning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.59371</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/MIDBVPRO/Haust</prop>
+     <seg>Studentarbeid som blir produsert og dokumentert i l&#248;pet av studiet vil kunne bli brukt som eksempel ved senere kurs, eller i skolen sin informasjon om egne aktiviteter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/MIDBVPRO/Haust</prop>
+     <seg>Studentarbeid som blir produsert og dokumentert i l&#248;pet av studiet, vil kunne bli brukt som eksempel ved seinare kurs, eller i skulen sin informasjon om eigne aktivitetar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.29167</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/5292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/2472</prop>
+     <seg>Selvstendig arbeid eller gruppearbeid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/6487</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/7231</prop>
+     <seg>Sj&#248;lvstendig arbeid eller gruppearbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.73231</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178755/Notat_04_2015_Yttredal_MF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Erfaringer fra andre kommuner viser, som pekt p&#229; tidligere, at felles verdigrunnlag er viktig for &#229; utvikle et godt boligsosialt tilbud.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178745/Notat_01_2015_Yttredal_MF_.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Erfaringar fr&#229; andre kommunar viser, som peikt p&#229; tidlegare, at felles verdigrunnlag er viktig for &#229; utvikle eit godt bustadsosialt tilbod.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.05246</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/5291</prop>
+     <prop type="source-document">https://www.hivolda.no/en/emne/ANI201/2471</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/2471</prop>
+     <seg>Animasjonen trenger ikke v&#230;re satt inn i noen narrativ sammenheng, men skal vise at studenten har kunnskaper ut over de grunnleggende ferdigheter som denne teknikken krever.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/8791</prop>
+     <seg>Animasjonen treng ikkje vere sett inn i nokon narrativ samanheng, men skal vise at studenten har kunnskap ut over dei grunnleggande ferdigheiter som denne teknikken krev.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.21534</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/6465</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/5812</prop>
+     <seg>Det m&#229; p&#229;regnes at noen av produksjonene gjennomf&#248;res p&#229; kveldstid eller helg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/7254</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/8783</prop>
+     <seg>Det m&#229; p&#229;reknast at nokre av produksjonane gjennomf&#248;rast p&#229; kveldstid eller helg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.7444</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/4791</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/3618</prop>
+     <seg>Emnet vil fokusere p&#229; denne problematikken ved &#229; gi en skisse av noen av de sentrale posisjonene i vitenskapsteorien, med s&#230;rlig vekt p&#229; positivismen, positivisme-kritikken, fornufts- og institusjonskritikken og kritisk realisme.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/5891</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/7703</prop>
+     <seg>Emnet vil fokusera p&#229; denne problematikken ved &#229; gi ei skisse av nokre av dei sentrale posisjonane i vitenskapsteorien, med s&#230;rleg vekt p&#229; positivismen, positivisme-kritikken, fornufts- og institusjonskritikken og kritisk realisme.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.61512</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/MIDBVPRO/Haust</prop>
+     <seg>Du kan lese mer om obligatorisk framm&#248;te i gjeldende Forskrift om opptak, studium og eksamen ved H&#248;gskulen i Volda.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/MIDBVPRO/Haust</prop>
+     <seg>Du kan lese meir om obligatorisk framm&#248;te i gjeldande Forskrift om opptak, studium og eksamen ved H&#248;gskulen i Volda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.994</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <seg>kunne samarbeide med andre om et felles kreativt prosjekt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>kunne samarbeide med andre om eit felles kreativt prosjekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.65714</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>I tillegg til generell studiekompetanse m&#229; s&#248;keren kvalifisere seg gjennom innsendte arbeidspr&#248;ver.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>I tillegg til generell studiekompetanse m&#229; s&#248;kjaren kvalifisere seg gjennom innsende arbeidspr&#248;ver.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.57512</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2017/MIDBVPRO/Haust</prop>
+     <seg>kan planlegge og gjennomf&#248;re varierte arbeidsoppgaver og prosjekt alene og som deltaker i en gruppe, og i tr&#229;d med etiske krav og retningslinjer</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2016/MIDBV/Haust</prop>
+     <seg>Kan planleggje og gjennomf&#248;re varierte arbeidsoppg&#229;ver og prosjekt &#229;leine og som deltakar i ei gruppe, og i tr&#229;d med etiske krav og retningslinjer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.81167</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/kategori/nyhende/tankevirus-mestringskurs</prop>
+     <seg>Hensiktsmessige m&#229;ter &#229; forholde deg til tankene dine slik at du i st&#248;rre grad kan fungere, ogs&#229; i perioder med mye negative tanker.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/kurs-studentar-tankevirus-del</prop>
+     <seg>Hensiktsmessige m&#229;tar &#229; forholde deg til tankane dine slik at du i st&#248;rre grad kan fungere, ogs&#229; i perioder med negative tankar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.54464</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/6465</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/5812</prop>
+     <seg>kan utf&#248;re oppgavene i de ulike rollene i en flerkameraproduksjon i fasene fra preproduksjon, gjennomf&#248;ring, og postproduksjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/7254</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/8783</prop>
+     <seg>kan utf&#248;re oppg&#229;vene i dei ulike rollene i ein fleirkameraproduksjon i fasene fr&#229; preproduksjon, gjennomf&#248;ring, og postproduksjon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.04104</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/6465</prop>
+     <seg>Det er obligatorisk deltakelse i undervisning, gruppearbeid og produksjoner.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/8783</prop>
+     <seg>Det er obligatorisk deltaking i undervising, gruppearbeid og produksjonar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.86518</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <seg>kunne arbeide i et profesjonelt animasjonsfilmstudio</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <seg>kunne arbeide i eit profesjonelt animasjonsfilmstudio</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.39947</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/5522</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/3369</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/2479</prop>
+     <seg>kunne utvikle, planlegge og gjennomf&#248;re egne prosjekter ved bruk av intervju, observasjon og skriftlig kildemateriale</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202/7826</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201/8319</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201</prop>
+     <seg>utvikle, planlegge og gjennomf&#248;re eigne prosjekt ved bruk av intervju, observasjon og skriftleg kjeldemateriale</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.48209</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178755/Notat_04_2015_Yttredal_MF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>P&#229; hvilken m&#229;te kan man styrke utvekslingen av faglige synspunkt og vurderinger?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178745/Notat_01_2015_Yttredal_MF_.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>P&#229; kva m&#229;te kan ein styrkje utvekslinga av faglege synspunkt og vurderingar?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.90909</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS904/7913</prop>
+     <seg>Det er krav om deltakelse p&#229; minimum 80 % av de obligatoriske aktivitetene som g&#229;r fram av undervisningsplan for emnet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/7990</prop>
+     <seg>Det er krav om deltaking p&#229; minimum 80 % av dei obligatoriske aktivitetane som g&#229;r fram av undervisningsplan for emnet. Evaluering og kvalitetssikring</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.36737</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178755/Notat_04_2015_Yttredal_MF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Hvordan fungerer brobyggingen mellom de ulike personene, funksjonene og enhetene?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178745/Notat_01_2015_Yttredal_MF_.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Korleis fungerer brubygginga mellom dei ulike personane, funksjonane og einingane?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.9779</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/3369</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/2479</prop>
+     <seg>Det blir lagt vekt p&#229; at studentene arbeider selvstendig med kursets faglige problemstillinger, knyttet til b&#229;de egne prosjekter og et felles undervisningsopplegg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201/8319</prop>
+     <seg>Det blir lagt vekt p&#229; at studentane arbeider sj&#248;lvstendig med kurset sine faglege problemstillingar, knytt til b&#229;de eigne prosjekt og eit felles undervisingsopplegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.12609</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/5291</prop>
+     <seg>Emnet kan v&#230;re en fordypning i samme teknikk som ble utforsket i spesialiseringsemne ANI201 eller en spesialisering i en annen teknikk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/8791</prop>
+     <seg>Emnet kan vere ei fordjuping i same teknikk som blei utforska i spesialiseringsemne ANI201 eller ei spesialisering i ein annan teknikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.20514</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>animasjonsfilmens historie b&#229;de som underholdning, opplysning og kunstnerisk uttrykk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>animasjonsfilmens historie b&#229;de som underhaldning, opplysing og kunstnarisk uttrykk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.50761</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>kunne bruke offentlighetsloven og andre lover og regler, som gir innsynsrett og tilgang til sentrale skriftlige kilder</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>kunne bruke offentlegheitslova og andre lover og reglar, som gir innsynsrett og tilgang til sentrale skriftlege kjelder</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.5641</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/GL5-10NF2A/6958</prop>
+     <prop type="source-document">https://www.hivolda.no/en/emne/GL5-10NF2A/6958</prop>
+     <seg>planlegging og gjennomf&#248;ring av praktisk arbeid i naturfagundervisning</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/GL5-10NF2A/2594</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/GL5-10NF2A/4970</prop>
+     <seg>planlegging og gjennomf&#248;ring av praktisk arbeid i naturfag</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.74788</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/2479</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/5522</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/3369</prop>
+     <seg>finne, forst&#229; og bruke statistikk p&#229; en adekvat m&#229;te</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201/8319</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202/7826</prop>
+     <seg>finne, forst&#229; og bruke statistikk p&#229; ein adekvat m&#229;te</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.01102</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>All praktisk undervisning er obligatorisk s&#229; fremt studentene ikke kan dokumentere tilsvarende kunnskap.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>All praktisk undervising er obligatorisk dersom studentane ikkje kan dokumentere tilsvarande kunnskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.59086</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/2471</prop>
+     <seg>Studenten produserer minst ett minutt ferdig animasjon i en valgt teknikk eller kombinasjon av teknikker.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <seg>Studenten produserer minst eitt minutt ferdig animasjon i ein vald teknikk eller kombinasjon av teknikkar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.12092</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/5522</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>kunne bruke metoder, teknikker og strategier for &#229; finne ideer, nyheter eller saker som til dels er skjult, til dels vanskelig tilgjengelig eller &#8221;oversett&#8221; i dagens mediebilde</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202/7826</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>Studenten skal kunne bruke metodar, teknikkar og strategiar for &#229; finne idear, nyheiter eller saker som til dels er skjult, til dels vanskeleg tilgjengeleg eller &#8221;oversett&#8221; i dagens mediebilde</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.76418</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/2472</prop>
+     <seg>- animasjonsfilmens rolle b&#229;de som underholdning, opplysning og kunstnerisk uttrykk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/7231</prop>
+     <seg>animasjon si rolle b&#229;de som underhaldning, opplysing og kunstnarleg uttrykk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/PPU1-R15.pdf.converted</prop>
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/PPU1D-R15_H2018_2.pdf.converted</prop>
+     <seg>og Huseby, P.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/IFL203_H2018.pdf.converted</prop>
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/IFL203_versjon3.pdf.converted</prop>
+     <seg>og Huseby, R.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.20297</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>ha en bred oversikt og dyp innsikt i journalistisk metode</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>ha ei brei oversikt og djup innsikt i journalistisk metode</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.62652</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/5292</prop>
+     <seg>- kommunisere og arbeide i et internasjonalt milj&#248;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/6487</prop>
+     <seg>- kommunisere og arbeide i eit internasjonalt milj&#248;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.9562</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/GL5-10NF2A/6958</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/5979</prop>
+     <seg>bevegelse og Newtons lover, mekanisk energi, atom- og kjernefysikk, astrofysikk, fysikk og teknologi</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/GL5-10NF2A/2594</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF103-510KFK/5981</prop>
+     <seg>r&#248;rsle og Newtons lover, mekanisk energi, atom- og kjernefysikk, astrofysikk, fysikk og teknologi</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.15585</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/MariaHalle_Topografsyn_kvinner.pdf.converted</prop>
+     <seg>Kulturperspektiv p&#229; m&#248;te med mellom embetsmenn og b&#248;nder</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/AtleDossland_Raeder.pdf.converted</prop>
+     <seg>Kulturperspektiv p&#229; m&#248;te mellom b&#248;nder og embetsmenn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.59924</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/3428</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/4725</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/2472</prop>
+     <seg>- kommunisere og arbeide i et internasjonalt milj&#248;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/8792</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/7231</prop>
+     <seg>kunne kommunisere og arbeide i eit internasjonalt milj&#248;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">3.44286</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>Studenten skal jobbe med ett st&#248;rre eller 2-3 mindre journalistiske prosjekter med frister for a) id&#233; og plan senest to uker etter emnets start (Gjennom denne godkjenningen blir omfanget av hver enkelt students eksamensarbeid avklart).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>Studenten skal jobbe med eitt st&#248;rre eller 2-3 mindre journalistiske prosjekt med fristar for a) id&#233; og plan seinast to veker etter emnets start (Gjennom denne godkjenninga blir omfanget av kvar enkelt students eksamensarbeid avklart).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.69783</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/Filopplasting_av_eksamensarbeid_i_Inspera_BM.pdf.converted</prop>
+     <seg>Dokumentet er n&#229; klart til levering, og det skal normalt leveres som Pdf-fil, s&#229; fremt ikke annet er spesifisert i emneplan eller utsendt eksamensinformasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/Filopplasting_av_eksamensarbeid_i_Inspera_NN.pdf.converted</prop>
+     <seg>Dokumentet er no klart til levering, og det skal normalt leverast som Pdf-fil, s&#229; framt ikkje anna er spesifisert i emneplan eller utsendt eksamensinformasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.90578</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <seg>Enkelte forelesninger kan bli gjort obligatoriske, se &#171;Forskrift om opptak, studium og eksamen ved H&#248;gskulen i Volda&#187; (</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <seg>Enkelte forelesningar kan bli gjort obligatoriske, sj&#229; &#171;Forskrift om opptak, studium og eksamen ved H&#248;gskulen i Volda&#187; (</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.43886</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/5979</prop>
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF101B/5755</prop>
+     <seg>Fremm&#248;te til den praktiske undervisningen er obligatorisk og best&#229;r av to samlinger pr.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF101-510KFK/5885</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF103-510KFK/5981</prop>
+     <seg>Framm&#248;te til den praktiske undervisninga er obligatorisk og best&#229;r av to samlingar pr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.68</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/SABVP131_H18.pdf.converted</prop>
+     <seg>og handling i sosialt arbeid</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/SASOS131%20-%20pr.%2015.5.2018.pdf.converted</prop>
+     <seg>refleksjon og handling i sosialt arbeid</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.98966</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/feed/rss_2.0/11250/2384612</prop>
+     <seg>N&#230;rtur er et vidt omgrep og i f&#248;lgje rapporten &#171;Planlegging for n&#230;rtur&#187; ser en p&#229; n&#230;rtur som b&#229;de friluftsliv, transport, folkehelse og arealbruk.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/feed/rss_2.0/11250/2722469</prop>
+     <seg>N&#230;rtur er eit vidt omgrep og i f&#248;lgje rapporten &#171;Planlegging for n&#230;rtur&#187; ser ein p&#229; n&#230;rtur som b&#229;de friluftsliv, transport, folkehelse og arealbruk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.18928</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>I forbindelse med de praktiske oppgavene vektlegges den individuelle veiledningen og oppf&#248;lgning p&#229; alle ledd i produksjonen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>I samband med dei praktiske oppg&#229;vene blir det lagt vekt p&#229; den individuelle rettleiinga og oppf&#248;lging p&#229; alle ledd i produksjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.49825</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <seg>Studenten skal kunne bruke kunnskaper og ferdigheter p&#229; selvstendig m&#229;te i utdannings- og yrkessammenheng gjennom &#229; vise samarbeidsevne, ansvarsf&#248;lelse, og evne til refleksjon og kritisk tenking.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <seg>Studenten skal kunna bruke kunnskapar og ferdigheiter p&#229; sj&#248;lvstendig m&#229;te i utdannings- og yrkessamanheng gjennom &#229; visa samarbeidsevne, ansvarskjensle, og evna til refleksjon og kritisk tenking.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.23139</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/GL5-10NF2A/6958</prop>
+     <seg>utvikle evne til &#229; se muligheter for fler- og tverrfaglig organisering og undervisning i naturfaglige tema</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/GL5-10NF2A/2594</prop>
+     <seg>utvikle evne til &#229; sj&#229; muligheiter for fleir- og tverrfagleg organisering og undervisning i naturfaglege tema</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">2.23661</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <seg>utvikle evne til &#229; se naturfaget i sammenheng med elevenes grunnleggende ferdigheter slik de er definert i gjeldende l&#230;replanverk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <seg>utvikle evne til &#229; sj&#229; naturfaget i samanheng med elevane sine grunnleggande ferdigheiter slik dei er definert i gjeldande l&#230;replanverk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">2.86895</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/2471</prop>
+     <seg>Dette kan skje i regi av utdanningen, en ekstern produsent, eller som en del av opplegg ved en annen utdanningsinstitusjon i inn- eller utland.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <seg>Dette kan skje i regi av utdanninga, ein ekstern produsent, eller som en del av opplegg ved ein annan utdanningsinstitusjon i inn- eller utland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.09574</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/5522</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302</prop>
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>Det blir lagt vekt p&#229; at studentene arbeider selvstendig med kursets faglige problemstillinger, knyttet til b&#229;de egne prosjekter og et felles undervisningsopplegg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202/7826</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>Det blir lagt vekt p&#229; at studentane arbeider sj&#248;lvstendig med kursets faglege problemstillingar, knytt til b&#229;de eigne prosjekt og eit felles undervisingsopplegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.3125</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/5522</prop>
+     <seg>Vilk&#229;r for &#229; framstille seg til eksamen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202/7826</prop>
+     <seg>Vilk&#229;r for &#229; framstille seg til eksamen Framm&#248;tekrav:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">2.45075</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/4791</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/3618</prop>
+     <seg>Emnet i vitenskapsteori og etikk vil synliggj&#248;re etiske problem og dilemmaer som alltid inng&#229;r i arbeid med mennesker, og som er n&#230;rt knyttet til ut&#248;velse av skj&#248;nn og faglig autonomi.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/5891</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/7703</prop>
+     <seg>Emnet i vitenskapsteori og etikk vil gjera synlege etiske problem og dilemma i arbeid med menneske, som er n&#230;rt knytt til ut&#248;ving av skj&#248;nn og fagleg autonomi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">2.14615</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <seg>ha praktiske ferdigheter i noen grunnleggende naturvitenskaplige tema fra fysikk og kjemi</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <seg>ha praktiske ferdigheiter i nokre grunnleggande naturvitskaplege tema fr&#229; fysikk og kjemi</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.79268</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2018/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/5292</prop>
+     <seg>hele produksjonsprosessen av animerte filmer</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/6487</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2021/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>heile produksjonsprosessen av animerte filmar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">2.20364</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/NF101B/5755</prop>
+     <seg>oppn&#229; best&#229;tt p&#229; to digitale forpr&#248;ver f&#248;r de praktiske &#248;vingene</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF101-510KFK/5885</prop>
+     <seg>oppn&#229; st&#229;tt p&#229; to digitale forpr&#248;ver f&#248;r dei praktiske &#248;vingane</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.46378</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>kunne utvikle, planlegge og gjennomf&#248;re egne prosjekter ved bruk av intervju, observasjon og skriftlig kildemateriale</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>kunne utvikle, planlegge og gjennomf&#248;re eigne prosjekt ved bruk av intervju, observasjon og skriftleg kjeldemateriale</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">2.23351</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/6465</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/5812</prop>
+     <seg>Studentene dokumenterer sin deltakelse i hver av produksjonene med en produksjonsrapport, - med hva, hvor, hvem og hvorfor - og med relevant dokumentasjon som underbygger dette.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/7254</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/8783</prop>
+     <seg>Studentane dokumenterer deltakinga si i kvar av produksjonane med ein produksjonsrapport, - med kva, kvar, kven og kvifor - og med relevant dokumentasjon som underbygger dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">2.89677</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>ha god analytisk kunnskap om etikk, kildekritikk og rekonstruksjon i den journalistiske arbeidsprosessen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>ha god analytisk kunnskap om etikk, kjeldekritikk og rekonstruksjon i den journalistiske arbeidsprosessen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">2.49657</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/4901</prop>
+     <seg>Sensur blir gjennomf&#248;rt i samsvar med Forskrift om opptak, studium og eksamen ved H&#248;gskulen i Volda.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/KOH115/4570</prop>
+     <seg>Sensur blir gjennomf&#248;rt i samsvar med Forskrift om opptak, studium og eksamen ved H&#248;gskulen i Volda, kap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.65853</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/4791</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/3618</prop>
+     <seg>Disse posisjonene avspeiler noen av de sentrale spenningsforholdene i dette studiet:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/5891</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/7703</prop>
+     <seg>Desse posisjonane avspeglar nokre av dei sentrale spenningane i dette studiet:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/6465</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/5812</prop>
+     <seg>de ulike rollene som denne organiseringen krever.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/7254</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/8783</prop>
+     <seg>dei ulike rollene som denne organiseringa krevjer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.78421</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/5291</prop>
+     <prop type="source-document">https://www.hivolda.no/en/emne/ANI201/2471</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/2471</prop>
+     <seg>Studentene kan velge mellom to alternativer:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/8791</prop>
+     <seg>Studentane kan velje mellom to alternativ:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.71416</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178755/Notat_04_2015_Yttredal_MF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Vi ser det ogs&#229; som en fordel dersom kvaliteten p&#229; kontakten g&#229;r dypere enn utveksling av informasjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178745/Notat_01_2015_Yttredal_MF_.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Vi ser det ogs&#229; som ein fordel dersom kvaliteten p&#229; kontakten g&#229;r djupare enn utveksling av informasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.89681</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>kunne produsere dokumentarer/reportasjer og lage skiftlige, analytiske metoderapporter knyttet til disse</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>kunne produsere dokumentarar/reportasjar og lage skriftlege, analytiske metoderapportar knytt til desse</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">2.29375</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/NF101B/5755</prop>
+     <seg>l&#230;ring, forst&#229;else og undervisning i naturfaglige tema</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF101-510KFK/5885</prop>
+     <seg>l&#230;ring, forst&#229;ing og undervisning i naturfaglege tema</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">2.74471</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>Undervisningen vil integrere journalistisk teori, analyse og praksis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>Undervisinga vil integrere journalistisk teori, analyse og praksis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>Utvikling av id&#233; og hypoteser, metodiske valg og systematikk i egen research</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>Utvikling av id&#233; og hypotesar, metodiske val og systematikk i eigen research</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">2.48182</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <seg>kunne samarbeide med andre animat&#248;rer og forst&#229; hvordan animasjonsbransjen fungerer</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <seg>kunne samarbeide med andre animat&#248;rar og forst&#229; korleis animasjonsbransjen fungerer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.26643</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/2471</prop>
+     <seg>Spesialiseringsemne, der studenten gjennom ett eller flere praktiske prosjekter skal f&#229; muligheten til &#229; fordype seg i og vise ferdigheter og kunnskaper ut over det grunnleggende i en eller flere valgte teknikker.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <seg>Spesialiseringsemne, der studenten gjennom eitt eller fleire praktiske prosjekt skal f&#229; h&#248;ve til &#229; fordjupe seg i, og vise ferdigheiter og kunnskap ut over det grunnleggande, i ein eller fleire valde teknikkar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.2375</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2680112/master_DalheimK.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>ifra det utforme skoletilbudet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2559032/master_austrheim_2018.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Det er ein effektskilnad p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/5292</prop>
+     <seg>H&#248;gskolen kan ogs&#229; arrangere relevante workshops eller kurs som tilbud til studentene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/6487</prop>
+     <seg>H&#248;gskulen kan ogs&#229; arrangere relevante workshops eller kurs som tilbod til studentane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">2.96</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>kunne arbeide som animat&#248;r i et profesjonelt studio</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>kunne arbeide som animat&#248;r i eit profesjonelt studio</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">2.39709</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2017/MIDBVPRO/Haust</prop>
+     <seg>kan reflektere over egen faglig utvikling og gj&#248;re seg nytte av veiledning i arbeid med teoretiske og praktiske oppgaver</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2016/MIDBV/Haust</prop>
+     <seg>kan reflektere over eigen fagleg utvikling og gjere seg nytte av rettleiing i arbeid med teoretiske og praktiske oppg&#229;ver</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.24229</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/3369</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/2479</prop>
+     <seg>ha en bred oversikt og dyp innsikt i journalistisk metode</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201/8319</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201</prop>
+     <seg>Kunnskapar oversikt og innsikt i journalistisk metode</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">2.97361</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/5291</prop>
+     <prop type="source-document">https://www.hivolda.no/en/emne/ANI201/2471</prop>
+     <seg>Dette kan skje i regi av utdanningen, en ekstern produsent, eller som en del av opplegg ved en annen utdanningsinstitusjon i inn- eller utland.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/8791</prop>
+     <seg>Dette kan skje i regi av utdanninga, ein ekstern produsent, eller som ein del av opplegg ved ein annan utdanningsinstitusjon i inn- eller utland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">2.79362</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/NF101B/5755</prop>
+     <seg>elektrisitet, energi og varmel&#230;re, b&#248;lger, lys og lyd</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF101-510KFK/5885</prop>
+     <seg>elektrisitet, energi og varmel&#230;re, b&#248;lgjer, lys og lyd</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">2.58912</prop>
+    <prop type="score-bicleaner">0.501</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/Filopplasting_av_eksamensarbeid_i_Inspera_BM.pdf.converted</prop>
+     <seg>Under Kandidat ID vil du se hvor lang tid som gjenst&#229;r f&#248;r fristen er ute.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/Filopplasting_av_eksamensarbeid_i_Inspera_NN.pdf.converted</prop>
+     <seg>Under Kandidat ID vil du sj&#229; kor lang tid som st&#229;r att f&#248;r fristen er ute.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">2.54184</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/3369</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/2479</prop>
+     <seg>kunne bruke metoder, teknikker og strategier for &#229; finne ideer, nyheter eller saker som til dels er skjult, til dels vanskelig tilgjengelig eller &#8221;oversett&#8221; i dagens mediebilde</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201/8319</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201</prop>
+     <seg>bruke metodar, teknikkar og strategiar for &#229; finne idear, nyheiter eller saker som til dels er skjult, til dels vanskeleg tilgjengeleg eller &#8221;oversett&#8221; i dagens mediebilde</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">2.74698</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <seg>Studenten skal levere en arbeidsplan for sitt spesialiseringsemne til fagl&#230;rer f&#248;r arbeidet tar til, senest to uker etter semesterstart.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <seg>Studenten skal levere ein arbeidsplan for sitt spesialiseringsemne til fagl&#230;rar f&#248;r arbeidet tar til, seinast to veker etter semesterstart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">2.85168</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/2479</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/5522</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/3369</prop>
+     <seg>Emnet skal bidra til &#248;kt kvalitet i journalistisk produksjon der studentene skal oppn&#229; solid kompetanse og en anvendt, refleksiv kunnskap om den journalistiske arbeidsprosessen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201/8319</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202/7826</prop>
+     <seg>Emnet skal bidra til auka kvalitet i journalistisk produksjon der studentane skal oppn&#229; solid kompetanse og ein anvendt, refleksiv kunnskap om den journalistiske arbeidsprosessen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">3.74201</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/node/28750/9010</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MPRO210/9010</prop>
+     <seg>For &#229; kunne fremstille seg til eksamen m&#229; studenten ha godkjent oppm&#248;te og deltakelse p&#229; minimum 80% av undervisning og organisert arbeid i emnet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/node/28750/9011</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MPRO211/9011</prop>
+     <seg>For &#229; kunne framstille seg til eksamen m&#229; studenten ha godkjent oppm&#248;te og deltaking p&#229; minimum 80% av undervisning og organisert arbeid i emnet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">2.38776</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2018/ANIBV/Haust</prop>
+     <seg>De oppgitte pensumlistene for hvert emne er veiledende.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2021/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>Dei oppgitte pensumlistene for hvert emne er rettleiande.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">2.545</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/5292</prop>
+     <seg>Dette skal godkjennes f&#248;r studenten f&#229;r jobbe videre med prosjektet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/6487</prop>
+     <seg>Dette skal godkjennast f&#248;r studenten f&#229;r jobbe vidare med prosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">2.69545</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/5292</prop>
+     <seg>Dette emnet strekker seg over to semester, og er viet planlegging og gjennomf&#248;ring av et st&#248;rre, selvstendig animasjonsprosjekt (eksamensproduksjon).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/6487</prop>
+     <seg>Dette emnet strekkjer seg over to semester, og er via planlegging og gjennomf&#248;ring av eit st&#248;rre, sj&#248;lvstendig animasjonsprosjekt (eksamensproduksjon).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">2.69458</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>Animasjonsutdanninga kvalifiserer studentene til profesjonelt arbeid med animasjon som selvstendig uttrykk og animasjon i kombinasjon med nyheter, informasjon, reklame og underholdning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>Animasjonsutdanninga kvalifiserer studentane til profesjonelt arbeid med animasjon som sj&#248;lvstendig uttrykk, og animasjon i kombinasjon med nyheiter, informasjon, reklame og underhaldning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">2.96042</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <seg>kunne kommunisere og arbeide i et internasjonalt milj&#248;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>kunne kommunisere og arbeide i eit internasjonalt milj&#248;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">2.66739</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/3428</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/4725</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/2472</prop>
+     <seg>- samarbeide med andre om et felles kreativt prosjekt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/8792</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/7231</prop>
+     <seg>kunne samarbeide med andre om eit felles kreativt prosjekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">2.8972</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2017/MIDBVPRO/Haust</prop>
+     <seg>I tr&#229;d med det nasjonale kvalifikasjonsrammeverket har studenten f&#248;lgende l&#230;ringsutbytte etter fullf&#248;rt studieprogram:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2016/MIDBV/Haust</prop>
+     <seg>I tr&#229;d med det nasjonale kvalifikasjonsrammeverket har studenten f&#248;lgjande l&#230;ringsutbytte etter fullf&#248;rt studieprogram:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">2.65188</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/Filopplasting_av_eksamensarbeid_i_Inspera_BM.pdf.converted</prop>
+     <seg>og logg inn med Feide (samme brukerkonto som Fronter og Studentweb)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/Filopplasting_av_eksamensarbeid_i_Inspera_NN.pdf.converted</prop>
+     <seg>og logg inn med Feide (same brukarkonto som Fronter og Studentweb)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.89639</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/GL5-10NF2A/6958</prop>
+     <seg>ha ferdigheter i &#229; gi naturfagoppl&#230;ring tilpasset den enkelte elev sine evner og forutsetninger</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/GL5-10NF2A/2594</prop>
+     <seg>ferdigheiter i &#229; gje ei naturfagoppl&#230;ring tilpassa den einskilde elev sine evner og f&#248;resetnader</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.9609</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <seg>ha utvidet ferdighet som animat&#248;r i valgt animasjonsteknikk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <seg>ha utvida ferdigheit som animat&#248;r i vald animasjonsteknikk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">2.63333</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/5979</prop>
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <seg>l&#230;ring, forst&#229;ing og undervisning i naturfaglige tema</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF103-510KFK/5981</prop>
+     <seg>l&#230;ring, forst&#229;ing og undervisning i naturfaglege tema</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">2.73542</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2017/MIDBVPRO/Haust</prop>
+     <seg>Som del av studiet inng&#229;r b&#229;de praksisopphold, st&#248;rre prosjektarbeid og produksjoner for ulike oppdragsgivere, og du vil jobbe b&#229;de individuelt og i team.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2016/MIDBV/Haust</prop>
+     <seg>Som del av studiet inng&#229;r b&#229;de praksisopphald, st&#248;rre prosjektarbeid og produksjonar for ulike oppdragsgjevarar, og du vil arbeide b&#229;de individuelt og i team.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2017/MIDBVPRO/Haust</prop>
+     <seg>har innsikt i relevante faglige og yrkesetiske problemstillinger</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2016/MIDBV/Haust</prop>
+     <seg>Har innsikt i relevante faglege og yrkesetiske problemstillingar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">2.43506</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/4725</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/5292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/3428</prop>
+     <seg>Hver eksamensproduksjon f&#229;r tildelt en veileder som f&#248;lger prosjektet fram til eksamen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/8792</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/6487</prop>
+     <seg>Kvar eksamensproduksjon f&#229;r tildelt ein rettleiar som f&#248;lger prosjektet fram til eksamen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">2.72321</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>Studiet kvalifiserer til Master in Medier Practices p&#229; H&#248;gskulen i Volda, samt masterutdanning ved samarbeidende skoler i utlandet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>Studiet kvalifiserer til Master in Media Practices p&#229; H&#248;gskulen i Volda, og masterutdanning ved samarbeidande skular i utlandet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">2.76952</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/5979</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF101B/5755</prop>
+     <seg>Enkelte forelesninger kan bli gjort obligatoriske, se &#171;Forskrift om opptak, studium og eksamen ved H&#248;gskulen i Volda&#187; (</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF101-510KFK/5885</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF103-510KFK/5981</prop>
+     <seg>Enkelte f&#248;relesningar kan verte gjort obligatoriske, sj&#229; &#171;Forskrift om opptak, studium og eksamen ved H&#248;gskulen i Volda&#187; (</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">2.60769</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>kunne forst&#229; animasjonsfilmens rolle i samfunnet og v&#230;re med &#229; videreutvikle mediebransjen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>kunne forst&#229; animasjonsfilmens rolle i samfunnet og vere med &#229; vidareutvikle mediebransjen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <seg>kunne kommunisere gjennom audiovisuelle tekster</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <seg>kunne kommunisere gjennom audiovisuelle tekstar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">2.89639</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <seg>ha solid kompetanse og en anvendt, refleksiv kunnskap om den journalistiske arbeidsprosessen:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <seg>ha solid kompetanse og ein anvendt, refleksiv kunnskap om den journalistiske arbeidsprosessen:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">2.43794</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/5522</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/3369</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/2479</prop>
+     <seg>kunne bruke offentlighetsloven og andre lover og regler, som gir innsynsrett og tilgang til sentrale skriftlige kilder</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202/7826</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201/8319</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201</prop>
+     <seg>bruke offentleglova og andre lover og reglar, som gir innsynsrett og tilgang til sentrale skriftlege kjelder</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">2.603</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <seg>Opptak etter s&#248;knad som m&#229; inneholde opplysninger om utdanning og praksis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <seg>Opptak etter s&#248;knad som m&#229; innehalde opplysingar om utdanning og praksis.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">2.73441</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/6465</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/5812</prop>
+     <seg>kan planlegge og gjennomf&#248;re varierte arbeidsoppgaver i en flerkameraproduksjon, b&#229;de enkeltvis og i grupper.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/7254</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/8783</prop>
+     <seg>kan planlegge og gjennomf&#248;re varierte arbeidsoppg&#229;ver i ein fleirkameraproduksjon, b&#229;de enkeltvis og i grupper</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.65426</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178755/Notat_04_2015_Yttredal_MF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Vi vet ogs&#229; at boligsosialt arbeid er et m&#248;te mellom ulike m&#229;ter &#229; arbeide p&#229; og ulike tankesett i organisasjonen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178745/Notat_01_2015_Yttredal_MF_.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Vi veit ogs&#229; at bustadsosialt arbeid er eit m&#248;te mellom ulike m&#229;tar &#229; arbeide p&#229; og ulike tankesett i organisasjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">3.21667</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/92948/browse?rpp=20&amp;offset=624&amp;etal=-1&amp;sort_by=1&amp;type=title&amp;starts_with=U&amp;order=ASC&amp;locale-attribute=no</prop>
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/browse?rpp=20&amp;offset=624&amp;etal=-1&amp;sort_by=1&amp;type=title&amp;starts_with=U&amp;order=ASC</prop>
+     <seg>Form&#229;let med denne studien er &#229; samanlikne effekten av maksimal og eksplosiv kneb&#248;y p&#229; vertikal spenst (prim&#230;rutfall) og en repetisjon maksimum kneb&#248;y(1RM) (sekund&#230;rutfall) hos kvinnelege elite volleyballut&#248;varar.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/browse?rpp=20&amp;offset=623&amp;etal=-1&amp;sort_by=1&amp;type=title&amp;starts_with=V&amp;order=ASC</prop>
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/92948/browse?rpp=20&amp;offset=624&amp;etal=-1&amp;sort_by=1&amp;type=title&amp;starts_with=U&amp;order=ASC&amp;locale-attribute=en</prop>
+     <seg>Form&#229;let med denne studien er &#229; samanlikne effekten av maksimal og eksplosiv kneb&#248;y p&#229; vertikal spenst (prim&#230;rutfall) og ein repetisjon maksimum kneb&#248;y(1RM) (sekund&#230;rutfall) hos kvinnelege elite volleyballut&#248;varar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">2.20027</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178755/Notat_04_2015_Yttredal_MF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Burde andre (ogs&#229;) ha en slik funksjon?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178745/Notat_01_2015_Yttredal_MF_.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Burde andre (ogs&#229;) ha ein slik funksjon?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">2.69412</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/5292</prop>
+     <seg>- ha hovedansvaret for produksjonen av en animert kortfilm</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/6487</prop>
+     <seg>- ha hovudansvaret for produksjonen av ein animert kortfilm</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">2.89091</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/4791</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/3618</prop>
+     <seg>Ph.d-kandidatene vil ogs&#229; bli gjort kjent med en del av lovene og forskriftene som finnes p&#229; dette omr&#229;det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/5891</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/7703</prop>
+     <seg>Ph.d-kandidatene vil ogs&#229; bli gjort kjent med ein del av lovene og forskriftene som finst p&#229; dette omr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">2.93256</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/5292</prop>
+     <seg>Dette kan v&#230;re en animert kortfilm, en showreel, en animert reklame eller informasjonsfilm, produksjon av en animert grafisk profil for et fjernsynsprogram, eller en animert profil for et firma eller en organisasjon p&#229; fjernsyn eller web.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/6487</prop>
+     <seg>Dette kan vere ein animert kortfilm, ein showreel, ei animert reklame eller informasjonsfilm, produksjon av ein animert grafisk profil for eit fjernsynsprogram, eller ein animert profil for eit firma eller ein organisasjon p&#229; fjernsyn eller web.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">2.24732</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/6465</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/5812</prop>
+     <seg>kan formidle sentralt fagstoff, som teorier, problemstillinger og l&#248;sninger, b&#229;de skriftlig, muntlig og gjennom produksjonene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/7254</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MID117/8783</prop>
+     <seg>kan formidle sentralt fagstoff, som teoriar, problemstillingar og l&#248;ysingar, b&#229;de skriftleg, munnleg og gjennom produksjonane</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">2.7375</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2017/MIDBVPRO/Haust</prop>
+     <seg>kan utveksle synspunkt og erfaringer med andre og slik medvirke til utvikling av god praksis</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2016/MIDBV/Haust</prop>
+     <seg>Kan utveksle synspunkt og erfaringar med andre og slik medverke til utvikling av god praksis</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">2.69348</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/5292</prop>
+     <seg>- samarbeide med andre om et felles kreativt prosjekt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/6487</prop>
+     <seg>- samarbeide med andre om eit felles kreativt prosjekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.38553</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/5291</prop>
+     <prop type="source-document">https://www.hivolda.no/en/emne/ANI201/2471</prop>
+     <seg>Ved tegnefilm kan kortere varighet godtas.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/8791</prop>
+     <seg>Ved teiknefilm kan kortare varigheit godtakast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">3.02273</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>Animasjonsstudiet er et integrert tre&#229;rig praktisk-teoretisk studium.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>Animasjonsstudiet er eit integrert tre&#229;rig praktisk-teoretisk studium.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">3.13333</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/statistics-home?locale-attribute=no</prop>
+     <seg>Avgjerdsprosessen ved H&#248;gskulen i Sogn og Fjordane om &#229; bli en del av H&#248;gskulen p&#229; Vestlandet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/statistics-home</prop>
+     <seg>Avgjerdsprosessen ved H&#248;gskulen i Sogn og Fjordane om &#229; bli ein del av H&#248;gskulen p&#229; Vestlandet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">2.37224</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2018/ANIBV/Haust</prop>
+     <seg>Studiet er rettet mot kreative personer med interesse for visuelle medier.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2021/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>Studiet er retta mot kreative personar med interesse for visuelle medium.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">2.925</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MOK101/2525</prop>
+     <seg>Bachelorstudium i PR, kommunikasjon og medier</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MOK101/3397</prop>
+     <seg>Bachelorstudium i PR, kommunikasjon og media</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">2.42946</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/Filopplasting_av_eksamensarbeid_i_Inspera_BM.pdf.converted</prop>
+     <seg>Trykk p&#229; knappen &#171;Klikk her for &#229; gj&#248;re deg klar&#187;Du vil se tidspunkt, og hvis pr&#248;ven ikke har &#229;pnet enda, s&#229; kan du se n&#229;r den vil starte.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/Filopplasting_av_eksamensarbeid_i_Inspera_NN.pdf.converted</prop>
+     <seg>Trykk p&#229; knappen &#171;Klikk her for &#229; gjere deg klar&#187;Du vil sj&#229; tidspunkt, og dersom pr&#248;va ikkje har opna seg enno s&#229; kan du sj&#229; n&#229;r den vil starte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">2.29565</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/4791</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/3618</prop>
+     <seg>Det vil ogs&#229; v&#230;re naturlig &#229; invitere en representant for Regional Etisk Komite.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/5891</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/7703</prop>
+     <seg>Det vil ogs&#229; vera naturleg &#229; invitera ein representant for Regional Etisk Komite.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <seg>gjennomf&#248;ringen av et animasjonsfilmprosjekt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <seg>gjennomf&#248;ringa av eit animasjonsfilmprosjekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">1.96667</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/GL5-10NF2A/6958</prop>
+     <seg>ha ferdigheter i &#229; gi undervisning i skolefaget naturfag</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/GL5-10NF2A/2594</prop>
+     <seg>ferdigheiter i &#229; gje undervisning i skulefaget naturfag</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">2.00669</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2018/ANIBV/Haust</prop>
+     <seg>Fagkomit&#233;en kaller inn kvalifiserte s&#248;kere til intervju i Volda med supplerende oppgaver.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2021/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>Fagkomiteen kallar inn kvalifiserte s&#248;kjarar til intervju i Volda med supplerande oppg&#229;ver.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">3.1</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/feed/rss_2.0/11250/2384612</prop>
+     <seg>En kvalitativ studie om samarbeid mellom offentleg og frivillig sektor for tilrettelegging av n&#230;rtur</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/feed/rss_2.0/11250/2722469</prop>
+     <seg>Ein kvalitativ studie om samarbeid mellom offentleg og frivillig sektor for tilrettelegging av n&#230;rtur</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">2.21688</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/2472</prop>
+     <seg>Hver eksamensproduksjon f&#229;r tildelt en veileder som f&#248;lger prosjektet fram til eksamen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI205/7231</prop>
+     <seg>Kvar eksamensproduksjon f&#229;r tildelt ein rettleiar som f&#248;lgjer prosjektet fram til eksamen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">2.43949</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>Tidligere produksjonserfaring fra animasjon eller andre visuelle uttrykksformer kan v&#230;re en fordel.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>Tidlegare produksjonserfaring fr&#229; animasjon eller andre visuelle uttrykksformer kan vere ein fordel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178755/Notat_04_2015_Yttredal_MF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Ut fra dette ser vi det derfor som form&#229;lstjenlig at mange ulike funksjoner og deler av organisasjonen har kontakt med det politiske milj&#248;et.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178745/Notat_01_2015_Yttredal_MF_.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Ut fr&#229; dette ser vi det derfor som f&#248;rem&#229;lstenleg at mange ulike funksjonar og delar av organisasjonen har kontakt med det politiske milj&#248;et.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <seg>ha ferdigheter i &#229; gi naturfagoppl&#230;ring tilpasset den enkelte elev sine evner og forutsetninger</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <seg>ha ferdigheiter i &#229; gi naturfagoppl&#230;ring tilpassa den enkelte elev sine evner og forutsetningar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">2.60725</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2018/ANIBV/Haust</prop>
+     <seg>kunne samarbeide med andre om et felles kreativt prosjekt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2021/ANIBV/Haust</prop>
+     <seg>samarbeide med andre om eit felles kreativt prosjekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">2.67098</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/NF101B/5755</prop>
+     <seg>For &#229; f&#229; lov til &#229; delta i obligatoriske laboratorie-&#248;velser skal studenten f&#248;r hver samling gjennomf&#248;re og f&#229; godkjent en kunnskapspr&#248;ve (elektronisk flervalgspr&#248;ve).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF101-510KFK/5885</prop>
+     <seg>For &#229; f&#229; lov til &#229; delta i obligatoriske laboratorie-&#248;vingar skal studenten f&#248;r kvar samling gjennomf&#248;re og f&#229; godkjent ei kunnskapspr&#248;ve (fleirvalspr&#248;ve i Canvas).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.29851</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/5979</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF101B/5755</prop>
+     <seg>I samsvar med det nasjonale kvalifikasjonsrammeverket har studenten f&#248;lgende l&#230;ringsutbytte etter fullf&#248;rt emne:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF101-510KFK/5885</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF103-510KFK/5981</prop>
+     <seg>L&#230;ringsutbytte I samsvar med det nasjonale kvalifikasjonsrammeverket har studenten f&#248;lgjande l&#230;ringsutbytte etter fullf&#248;rt emne:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">2.57746</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/4791</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/3618</prop>
+     <seg>I f&#248;rste samling blir de ulike posisjonene presentert, og det blir gitt orientering om de ulike forskriftene i forskningsetikken.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/5891</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/7703</prop>
+     <seg>I f&#248;rste samling blir dei ulike posisjonane presentert, og det blir gitt orientering om ulike forskrifter i forskingsetikken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">2.29118</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>Opptak vil bli kunngjort innen to uker.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>Opptak vil bli kunngjort innan to veker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">2.72683</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2017/MIDBVPRO/Haust</prop>
+     <seg>P&#229; Bachelor i medier, IKT og design - Medieproduksjon arbeider du for &#229; skape innhold p&#229; dagens og morgendagens plattformer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2016/MIDBV/Haust</prop>
+     <seg>P&#229; Bachelor i media, IKT og design arbeider du med mediedesign eller medieproduksjon for &#229; skape innhald p&#229; dagens og morgondagens plattformer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">2.76642</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>Journalistikkens kunnskapsformer vil i teori og praksis bli relatert til vitenskapelige kunnskapsformer, s&#230;rlig kvalitativ og til dels kvantitativ samfunnsvitenskapelig metode.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>Journalistikkens kunnskapsformer vil i teori og praksis bli relatert til vitskaplege kunnskapsformer, s&#230;rleg kvalitativ og til dels kvantitativ samfunnsvitskapleg metode.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">1.485</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/227581/master_ringstad.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>religioner og livssyn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2446467/master_HolminF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>i, det er prosessuelt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">2.25086</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2018/ANIBV/Haust</prop>
+     <seg>Studentproduksjoner utgj&#248;r en stor del av det praktiske arbeidet, og det er i hovedsak her den praktiske l&#230;ringen finner sted.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2021/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>Studentproduksjonar utgjer ein stor del av det praktiske arbeidet, og det er i hovudsak her den praktiske l&#230;ringa finn stad.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">2.82498</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/5522</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/3369</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DJM302/2479</prop>
+     <seg>ha god analytisk kunnskap om etikk, kildekritikk og rekonstruksjon i den journalistiske arbeidsprosessen</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202/7826</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201/8319</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/UJ201</prop>
+     <seg>analytisk kunnskap om etikk, kjeldekritikk og rekonstruksjon i den journalistiske arbeidsprosessen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">3.21176</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/92948?locale-attribute=en</prop>
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/92948</prop>
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/153754/discover?rpp=10&amp;etal=0&amp;group_by=none&amp;page=28&amp;filtertype_0=doctype&amp;filter_relational_operator_0=equals&amp;filter_0=Master+thesis&amp;locale-attribute=no</prop>
+     <seg>Trass i stor innsats og et lovverk som skal sikre barn og unge et trygt og godt psykososialt skulemilj&#248;, har en ikke lukkast med nullvisjonen om at mobbing ikke skal eksistere.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/92948/discover?rpp=10&amp;etal=0&amp;group_by=none&amp;page=28&amp;filtertype_0=doctype&amp;filter_relational_operator_0=equals&amp;filter_0=Master+thesis&amp;locale-attribute=no</prop>
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/153754</prop>
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/153754?locale-attribute=no</prop>
+     <seg>Trass i stor innsats og eit lovverk som skal sikre barn og unge eit trygt og godt psykososialt skulemilj&#248;, har ein ikkje lukkast med nullvisjonen om at mobbing ikkje skal eksistere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">1.53983</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178755/Notat_04_2015_Yttredal_MF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Sterke brobyggere kan bidra b&#229;de positivt og negativt i nettverket.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178745/Notat_01_2015_Yttredal_MF_.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Sterke brubyggjarar kan bidra b&#229;de positivt og negativt i nettverket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">2.19264</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>Andre viktige omr&#229;der er valg og bruk av ulike typer kilder og kildemateriale, etiske dilemmaer og kildekritisk analyse knyttet til ulike former for journalistiske unders&#248;kelser og metodevalg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>Andre viktige omr&#229;de er val og bruk av ulike typar kjelder og kjeldemateriale, etiske dilemma og kjeldekritisk analyse knytt til ulike former for journalistiske unders&#248;kingar og metodeval.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">2.48864</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/5291</prop>
+     <seg>- Skal kunne kommunisere og arbeide i et internasjonalt milj&#248;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/8791</prop>
+     <seg>Kommunisere og arbeide i eit internasjonalt milj&#248;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">2.00519</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/5291</prop>
+     <seg>Studentene skal ha utvidet kunnskap om</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/8791</prop>
+     <seg>Studentane skal ha utvida kunnskap om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">2.99388</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <seg>ha ferdigheter i &#229; gi undervisning i skolefaget naturfag</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <seg>ha ferdigheiter i &#229; gi undervisning i skolefaget naturfag</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">2.43251</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/Filopplasting_av_eksamensarbeid_i_Inspera_BM.pdf.converted</prop>
+     <seg>velger du ved &#229; trykke p&#229; Innstillinger/tannhjulet oppe til h&#248;yre i skjermbildet etter du har logget inn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/sites/default/files/documents/Filopplasting_av_eksamensarbeid_i_Inspera_NN.pdf.converted</prop>
+     <seg>vel du ved &#229; trykkje p&#229; Innstillingar/tannhjulet oppe til h&#248;gre i skjermbildet etter du har logga inn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">2.57464</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/5291</prop>
+     <seg>- Skal kunne samarbeide med andre om et felles kreativt prosjekt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI202/8791</prop>
+     <seg>Samarbeide med andre om eit felles kreativt prosjekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">1.2925</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MPRO112</prop>
+     <seg>kunnskap om filmmanuskripters form og hensikt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MPRO211</prop>
+     <seg>kunnskap om yrkesetikk i oppdragsproduksjon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">2.76702</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/6292</prop>
+     <seg>v&#230;re i stand til &#229; bidra i samfunnsdebatten og arbeide for &#248;kt kvalitet i journalistisk produksjon</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/8413</prop>
+     <seg>vere i stand til &#229; bidra i samfunnsdebatten og arbeide for auka kvalitet i journalistisk produksjon</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">2.38966</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2018/ANIBV/Haust</prop>
+     <seg>Godkjente s&#248;kere konkurrerer s&#229; p&#229; grunnlag av konkurransepoeng.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2021/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>Godkjende s&#248;kjarar konkurrerer s&#229; p&#229; grunnlag av konkurransepoeng.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">1.38462</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/2676137?show=full&amp;locale-attribute=no</prop>
+     <seg>Baklengs planlegging for samstemt undervisning i emnet BLULSU ved H&#248;gskulen i Volda dc.contributor.author</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/2676137?locale-attribute=no</prop>
+     <seg>Baklengs planlegging for samstemt undervisning i emnet BLULSU ved H&#248;gskulen i Volda</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">1.22</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <seg>Course content Undervisningen i NF103U, sammen med NF104U, tar sikte p&#229; &#229; gi studentene faglig og fagdidaktisk grunnlag for &#229; undervise naturfag i grunnskolens ungdomstrinn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <seg>Undervisninga i NF103U, saman med NF104U, tar sikte p&#229; &#229; gi studentane fagleg og fagdidaktisk grunnlag for &#229; undervise naturfag i grunnskolens ungdomstrinn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">1.95683</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/4791</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/3618</prop>
+     <seg>Arbeidsformene omfatter forelesninger, hjemmeoppgaver og diskusjon.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/5891</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/DRHS902/7703</prop>
+     <seg>Arbeidsformene omfattar f&#248;relesingar, heimeoppg&#229;ver og diskusjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">2.2931</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/REL115/3978</prop>
+     <seg>Studiet g&#229;r over et semester og blir organisert etter en fastlagt kalender for leksjoner og oppgaver.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/REL114N-AVG/3567</prop>
+     <seg>Studiet g&#229;r over eit semester og vert organisert etter ein fastlagt kalender for leksjonar og oppg&#229;ver.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">2.9222</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/5979</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF101B/5755</prop>
+     <seg>Fremm&#248;te til all praktisk undervisning er obligatorisk, se &#171;Forskrift om opptak, studium og eksamen ved H&#248;gskulen i Volda&#187; (</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF101-510KFK/5885</prop>
+     <prop type="source-document">https://www.hivolda.no/emne/NF103-510KFK/5981</prop>
+     <seg>Framm&#248;te til all praktisk undervisning er obligatorisk, sj&#229; &#171;Forskrift om opptak, studium og eksamen ved H&#248;gskulen i Volda&#187; (</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">2.78459</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/5522</prop>
+     <seg>ha en bred oversikt og dyp innsikt i journalistisk metode</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/JOA202/7826</prop>
+     <seg>oversikt og innsikt i journalistisk metode</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">1.44867</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178755/Notat_04_2015_Yttredal_MF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>er en person som fungerer som mellomledd mellom andre i nettverket.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178745/Notat_01_2015_Yttredal_MF_.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>er ein person som fungerer som mellomledd mellom andre i nettverket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">2.57074</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/MMP303/6292</prop>
+     <seg>kunne bruke metoder, teknikker og strategier for &#229; finne ideer, nyheter eller saker som til dels er skjult, til dels vanskelig tilgjengelig eller &#8221;oversett&#8221; i dagens mediebilde</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/MMP303/7508</prop>
+     <seg>kunne bruke metodar, teknikkar og strategiar for &#229; finne idear, nyheiter eller saker som til dels er skjult, til dels vanskeleg tilgjengeleg eller &#8221;oversett&#8221; i dagens mediebilde</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">1.73478</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178755/Notat_04_2015_Yttredal_MF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Det finnes ikke et idealm&#248;nster for samhandling mellom politikk og administrasjon, men det finnes i alle organisasjoner rom for forbedringer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178745/Notat_01_2015_Yttredal_MF_.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Det finst ikkje eit idealm&#248;nster for samhandling mellom politikk og administrasjon, men det finst i alle organisasjonar rom for forbetringar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">2.01429</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2018/ANIBV/Haust</prop>
+     <seg>Studentene skal ha omfattende kunnskap om</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2021/ANIBV/Haust</prop>
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>Studentane skal ha omfattande kunnskap om</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">2.48182</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2017/MIDBVPRO/Haust</prop>
+     <seg>kan nyttiggj&#248;re seg kunnskap om medie- og kommunikasjonsteknologi p&#229; praktiske og teoretiske problemstillinger, grunngi valgene sine og analysere relevante uttrykk</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2016/MIDBV/Haust</prop>
+     <seg>kan nyttiggjere seg kunnskapar om medie- og kommunikasjonsteknologi p&#229; praktiske og teoretiske problemstillingar, grunngje vala sine og analysere relevante uttrykk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">2.23139</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <seg>utvikle evne til &#229; se muligheter for fler- og tverrfaglig organisering og undervisning i naturfaglige tema</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <seg>utvikle evne til &#229; sj&#229; mulegheiter for fleir- og tverrfagleg organisering og undervisning i naturfaglege tema</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">3.21667</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/154070?show=full&amp;locale-attribute=no</prop>
+     <seg>Det er en del av prosjektet &#171;Kulturperspektiv p&#229; m&#248;te mellom embetsmenn og b&#248;nder&#187;, et strategisk h&#248;gskuleprosjekt fr&#229; H&#248;gskulen i Volda, Historisk institutt og Institutt for religion, livssyn og kristendom.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/handle/11250/154070?locale-attribute=no</prop>
+     <seg>Det er ein del av prosjektet &#171;Kulturperspektiv p&#229; m&#248;te mellom embetsmenn og b&#248;nder&#187;, eit strategisk h&#248;gskuleprosjekt fr&#229; H&#248;gskulen i Volda, Historisk institutt og Institutt for religion, livssyn og kristendom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2017/MIDBVPRO/Haust</prop>
+     <seg>kan formidle sentralt fagstoff som teorier, problemstillinger og l&#248;sninger gjennom relevante uttrykksformer</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2016/MIDBV/Haust</prop>
+     <seg>Kan formidle sentralt fagstoff som teoriar, problemstillingar og l&#248;ysingar gjennom relevante uttrykksformer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">1.92502</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178755/Notat_04_2015_Yttredal_MF.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>De kan bidra til &#248;kt informasjons- og kunnskapsflyt mellom akt&#248;rene i nettverket gjennom &#229; koordinere og videreformidle, eller de kan fungere som &#171;propper&#187; i nettverket som hindrer flyt og kontakt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/2178745/Notat_01_2015_Yttredal_MF_.pdf?sequence=1&amp;isAllowed=y</prop>
+     <seg>Dei kan bidra til &#248;kt informasjons- og kunnskapsflyt mellom akt&#248;rane i nettverket gjennom &#229; koordinere og vidareformidle, eller dei kan fungere som &#171;proppar&#187; i nettverket som hindrar flyt og kontakt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">2.99444</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2019/ANIBV/Haust</prop>
+     <seg>kunne ha regiansvaret for produksjonen av en animert kortfilm</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/studieplaner/2020/ANIBV/Haust</prop>
+     <seg>kunne ha regiansvaret for produksjonen av ein animert kortfilm</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">2.07931</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/en/emne/NF103U/6850</prop>
+     <seg>Detaljer knyttet til arbeidskravene blir kunngjort i semesterplanen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/NF103U/8685</prop>
+     <seg>Detaljar knytt til arbeidskrava blir kunngjort i semesterplanen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">2.8328</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/7229</prop>
+     <seg>Studenten kan ikke ta til med arbeidet f&#248;r planen er godkjent.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.hivolda.no/emne/ANI201/8790</prop>
+     <seg>Studenten kan ikkje ta til med arbeidet f&#248;r planen er godkjent.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

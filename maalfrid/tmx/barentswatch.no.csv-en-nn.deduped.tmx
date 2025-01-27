@@ -1,0 +1,136 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T075437" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.51441</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.barentswatch.no/en/articles/seeking-the-unsullied-seaside/</prop>
+     <seg>Senja mixes southern Norway&#8217;s skerry chains with the ruggedness of Lofoten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.barentswatch.no/artikler/uberort-kyst/</prop>
+     <seg>Senja er ein kombinasjon av S&#248;rlandets skjergard og Lofotens fjell.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.40375</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.barentswatch.no/en/articles/seeking-the-unsullied-seaside/</prop>
+     <seg>Good opportunities for solitary enjoyment of nature can be found northwards from B&#248;mlo on the south-west coast.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.barentswatch.no/artikler/uberort-kyst/</prop>
+     <seg>Fr&#229; B&#248;mlo og nordover er det gode moglegheiter for nyte naturen aleine.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.07667</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.barentswatch.no/en/articles/Marine-verneomrader/</prop>
+     <seg>Ytre Hvaler National Park borders on Sweden&#8217;s Kosterhavet National Park, which was established at the same time.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.barentswatch.no/artikler/Marine-verneomrader/</prop>
+     <seg>Ytre Hvaler nasjonalpark grenser til den svenske Kosterhavet nasjonalpark som vart oppretta samtidig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.559</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.barentswatch.no/en/articles/Marine-verneomrader/</prop>
+     <seg>Most of Ytre Hvaler National Park consists of the seabed.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.barentswatch.no/artikler/Marine-verneomrader/</prop>
+     <seg>Det meste av Ytre Hvaler nasjonalpark er hav- og sj&#248;botn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.48163</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.barentswatch.no/en/articles/seeking-the-unsullied-seaside/</prop>
+     <seg>On the other hand, facilities for pleasure boating are good.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.barentswatch.no/artikler/uberort-kyst/</prop>
+     <seg>Til gjengjeld er det godt tilrettelagt for b&#229;tturistar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.28454</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.barentswatch.no/en/articles/Marine-verneomrader/</prop>
+     <seg>In Norway we distinguish between national parks, landscape protection areas, nature reserves, biotope protection areas, and marine protection areas.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.barentswatch.no/artikler/Marine-verneomrader/</prop>
+     <seg>I Noreg skil me mellom nasjonalparkar, landskapsvernomr&#229;de, naturreservat, biotopverneomr&#229;de og marine verneomr&#229;de.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.7944</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.barentswatch.no/en/articles/Marine-verneomrader/</prop>
+     <seg>Ytre Hvaler National Park was established in 2009 as the first national park to also include underwater areas.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.barentswatch.no/artikler/Marine-verneomrader/</prop>
+     <seg>Ytre Hvaler nasjonalpark vart oppretta i 2009 som den fyrste nasjonalparken som ogs&#229; inkluderte omr&#229;de under vassflata.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.06417</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.barentswatch.no/en/articles/Marine-verneomrader/</prop>
+     <seg>The protected areas along the coast and in the ocean aim to safeguard vulnerable and threatened ecosystems and conserve areas of international, national, and regional value.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.barentswatch.no/artikler/Marine-verneomrader/</prop>
+     <seg>Dei verna omr&#229;da langs kysten og i havet skal sikre s&#229;rbare og trua naturtypar, og ta vare p&#229; omr&#229;de av internasjonal, nasjonal og regional verdi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.20035</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.barentswatch.no/en/articles/Marine-verneomrader/</prop>
+     <seg>Norway, including Svalbard, contains around 2,700 protected nature areas.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.barentswatch.no/artikler/Marine-verneomrader/</prop>
+     <seg>Noreg, inkludert Svalbard, har til saman cirka 2 700 verneomr&#229;de for naturomr&#229;de.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.09888</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.barentswatch.no/en/articles/Marine-verneomrader/</prop>
+     <seg>In mainland Norway, most of the national parks are inland or in the mountains, though some do extend all the way down to the sea, such as Lomsdal-Visten National Park in Nordland and Seiland National Park in Finnmark.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.barentswatch.no/artikler/Marine-verneomrader/</prop>
+     <seg>P&#229; fastlandet i Noreg er dei fleste nasjonalparkane i innlandet eller fjellet, men nokre g&#229;r ogs&#229; heilt ned til sj&#248;en som til d&#248;mes Lomsdal &#8211; Visten nasjonalpark i Nordland og Seiland nasjonalpark i Finnmark.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

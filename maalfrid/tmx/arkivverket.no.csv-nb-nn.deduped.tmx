@@ -1,0 +1,476 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T131805" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.60476</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a597a68f-3def-4831-8154-f5a3250894f1:b1d30fb8b46b56463277a38cef50ab469fe4e21d/Tilsynsrapport%20Sunndal%20kommune%2005.%20og%2006.11.2020.pdf.converted</prop>
+     <seg>beskrivelser og oversikt over innholdet i arkivene,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/474fa0ef-1c39-4f75-ad0a-2a76528b8080:66f8e63515eb1ec0d5078fcf032546f39f1e8938/Tilsynsrapport%20Midt-Telemark%20kommune%2027.%20og%2028.04.2021.pdf.converted</prop>
+     <seg>skildringar og oversyn over innhaldet i arkiva,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.28525</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ec4b52ec-036d-4c94-8a15-a9ce102eef99:1f56c5c11bc25f0641a1feb07e108feb14616775/Tilsynsrapport%20Larvik%20kommune%2024.01.2019.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ec4b52ec-036d-4c94-8a15-a9ce102eef99:1f56c5c11bc25f0641a1feb07e108feb14616775/Tilsynsrapport%20Larvik%20kommune%2024.01.2019.pdf.converted</prop>
+     <seg>over sitt arkivmateriale og hva slags regler og instrukser som gjelder</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f43a9b61-965e-489d-958d-e7337c3866bd:3bdb8aa7317c1292782fa5642c005958fe471886/Tilsynsrapport%20Hornindal%20kommune%2022.03.2018.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f43a9b61-965e-489d-958d-e7337c3866bd:3bdb8aa7317c1292782fa5642c005958fe471886/Tilsynsrapport%20Hornindal%20kommune%2022.03.2018.pdf.converted</prop>
+     <seg>arkivmateriale og kva for reglar og instruksar som gjeld for handtering av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.21641</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a597a68f-3def-4831-8154-f5a3250894f1:b1d30fb8b46b56463277a38cef50ab469fe4e21d/Tilsynsrapport%20Sunndal%20kommune%2005.%20og%2006.11.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <seg>vurdere om virksomheten oppfyller de pliktene som f&#248;lger av arkivloven med forskrifter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/474fa0ef-1c39-4f75-ad0a-2a76528b8080:66f8e63515eb1ec0d5078fcf032546f39f1e8938/Tilsynsrapport%20Midt-Telemark%20kommune%2027.%20og%2028.04.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <seg>vurdere om verksemda oppfyller dei pliktene som f&#248;lger av arkivlova med forskrifter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.04531</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <seg>En god arkivplan gj&#248;r det enklere &#229; planlegge periodiske arkivoppgaver og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <seg>Ein god arkivplan gjer det enklare &#229; planlegge periodiske arkivoppg&#229;ver og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.16094</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a597a68f-3def-4831-8154-f5a3250894f1:b1d30fb8b46b56463277a38cef50ab469fe4e21d/Tilsynsrapport%20Sunndal%20kommune%2005.%20og%2006.11.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <seg>Denne rapporten beskriver avvikene vi fant og p&#229;legg vi gir som f&#248;lge av dette.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/474fa0ef-1c39-4f75-ad0a-2a76528b8080:66f8e63515eb1ec0d5078fcf032546f39f1e8938/Tilsynsrapport%20Midt-Telemark%20kommune%2027.%20og%2028.04.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <seg>Denne rapporten beskriv avvika vi fann og p&#229;legg vi gir som f&#248;lgje av dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.83919</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/cae4cdca-4e04-477a-a6ff-081b13ceb4cf:5d5e61553eca0b785f3f7d40b013ca9ad0974b75/Tilsynsrapport%20Fet%20kommune%2008.12.2016.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/cae4cdca-4e04-477a-a6ff-081b13ceb4cf:5d5e61553eca0b785f3f7d40b013ca9ad0974b75/Tilsynsrapport%20Fet%20kommune%2008.12.2016.pdf.converted</prop>
+     <seg>Det er ikke lagt fram noen rutiner og instrukser for bruk og bevaring av dokumentasjon som skapes i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/3aa01323-9517-4340-b8af-2382f2016340:434d87d5744c10f7d9ca267a567009e1b4826438/Tilsynsrapport%20F%C3%B8rde%20kommune%2028.03.2017.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/3aa01323-9517-4340-b8af-2382f2016340:434d87d5744c10f7d9ca267a567009e1b4826438/Tilsynsrapport%20F%C3%B8rde%20kommune%2028.03.2017.pdf.converted</prop>
+     <seg>Det er ikkje lagt fram rutinar og instruksar for bruk og bevaring av dokumentasjon som vert skapt i fagsystema.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.62721</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a1265690-8d0f-4ec7-958d-e20c57c35e9e:dafbecf7b21576179e2e02ee3e25893de249e068/Tilsynsrapport%20Meldal%20kommune%2001.03.2018.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a1265690-8d0f-4ec7-958d-e20c57c35e9e:dafbecf7b21576179e2e02ee3e25893de249e068/Tilsynsrapport%20Meldal%20kommune%2001.03.2018.pdf.converted</prop>
+     <seg>deler av dokumentasjonen som blir til gjennom kommunens</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/72ae652d-ec7c-407d-b53e-833810939ab6:31dcaada71064bd32cbfea29d96ebe54fc5f2592/Tilsynsrapport%20Os%20kommune%2008.05.2018.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/72ae652d-ec7c-407d-b53e-833810939ab6:31dcaada71064bd32cbfea29d96ebe54fc5f2592/Tilsynsrapport%20Os%20kommune%2008.05.2018.pdf.converted</prop>
+     <seg>deler av dokumentasjonen som blir til gjennom kommunen si</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.4625</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <seg>Dokumentasjonen skal vise</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <seg>Dokumentasjonen skal vise korleis</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.24754</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/cdfc9335-69c7-4153-a5c9-aff76aa60770:370ad2324a7160b576e051188489242ddbc8e75e/Tilsynsrapport%20Fylkesnemndene%20for%20barnevern%20og%20sosiale%20saker%2011.09.2019.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/cdfc9335-69c7-4153-a5c9-aff76aa60770:370ad2324a7160b576e051188489242ddbc8e75e/Tilsynsrapport%20Fylkesnemndene%20for%20barnevern%20og%20sosiale%20saker%2011.09.2019.pdf.converted</prop>
+     <seg>Merk at den ikke er oppdatert etter revisjonen av arkivforskriftene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f934d269-8a8f-4dbb-b54b-d11632ec1dd7:e48e4c9cd55b26ac64cdf6adbd26ebc6e7b24e8b/Tilsynsrapport%20Oster%C3%B8y%20kommune%2002.09.2019.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f934d269-8a8f-4dbb-b54b-d11632ec1dd7:e48e4c9cd55b26ac64cdf6adbd26ebc6e7b24e8b/Tilsynsrapport%20Oster%C3%B8y%20kommune%2002.09.2019.pdf.converted</prop>
+     <seg>Merk at den ikkje er oppdatert etter revisjonen av arkivforskriftene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.0425</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a597a68f-3def-4831-8154-f5a3250894f1:b1d30fb8b46b56463277a38cef50ab469fe4e21d/Tilsynsrapport%20Sunndal%20kommune%2005.%20og%2006.11.2020.pdf.converted</prop>
+     <seg>instrukser og rutiner som beskriver hvordan de</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/474fa0ef-1c39-4f75-ad0a-2a76528b8080:66f8e63515eb1ec0d5078fcf032546f39f1e8938/Tilsynsrapport%20Midt-Telemark%20kommune%2027.%20og%2028.04.2021.pdf.converted</prop>
+     <seg>instruksar og rutinar som beskriv korleis dei</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.71556</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/b45ebf40-c8f0-4be7-adc1-7f81823e8872:facccc81ebc0dd31e5b41c0dd8fa0fd03e9ecbb7/Tilsynsrapport%20Aurskog-H%C3%B8land%2027.03.2017.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/b45ebf40-c8f0-4be7-adc1-7f81823e8872:facccc81ebc0dd31e5b41c0dd8fa0fd03e9ecbb7/Tilsynsrapport%20Aurskog-H%C3%B8land%2027.03.2017.pdf.converted</prop>
+     <seg>Arkivforskriften &#167;&#167; 2-6 til 2-9 fastsl&#229;r at en offentlig virksomhet skal ha journal for registrering av dokumenter i de sakene som opprettes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/47e35410-0d6c-40c3-9408-31a50aab978c:119803dcc0b9d5f14907ce17db84c8edf898e302/Tilsynsrapport%20Gloppen%20kommune%2031.05.2017.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/47e35410-0d6c-40c3-9408-31a50aab978c:119803dcc0b9d5f14907ce17db84c8edf898e302/Tilsynsrapport%20Gloppen%20kommune%2031.05.2017.pdf.converted</prop>
+     <seg>JOURNALF&#216;RING OG DOKUMENTFANGST Arkivforskrifta &#167;&#167; 2-6 til 2-9 sl&#229;r fast at ei offentleg verksemd skal ha journal for registrering av dokument i dei sakene som vert oppretta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.78929</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <seg>arkivomr&#229;det og hvor ansvaret for &#229; forvalte arkivene er plassert.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <seg>arkivomr&#229;det, og kor ansvaret for &#229; forvalte arkiva er plassert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.58137</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <seg>Hensikten med en arkivplan er at offentlige organer skal ha en oppdatert oversikt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <seg>F&#248;rem&#229;let med ein arkivplan er at offentlege organ skal ha ein oppdatert oversyn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.37561</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/37b795ee-eaa2-4ac2-a17b-e373bf9c635e:7f33a0933b0849493ee4572a2f47da6bf6361c09/Tilsynsrapport%20Direktoratet%20for%20IKT%20og%20fellestjenester%20i%20h%C3%B8yere%20utdanning%20og%20forskning%20(UNIT)%2003.%20og%2004.11.2020.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/37b795ee-eaa2-4ac2-a17b-e373bf9c635e:7f33a0933b0849493ee4572a2f47da6bf6361c09/Tilsynsrapport%20Direktoratet%20for%20IKT%20og%20fellestjenester%20i%20h%C3%B8yere%20utdanning%20og%20forskning%20(UNIT)%2003.%20og%2004.11.2020.pdf.converted</prop>
+     <seg>arkivomr&#229;det og hvor ansvaret for &#229; forvalte arkivene er plassert.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/d1fb35f8-5613-48ae-b0fe-a5652ffa3969:78cc8a3ea626d8f00a06a4a35dcaf111d20e10e3/Tilsynsrapport%20Hyllestad%20kommune%2021.11.2019.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/d1fb35f8-5613-48ae-b0fe-a5652ffa3969:78cc8a3ea626d8f00a06a4a35dcaf111d20e10e3/Tilsynsrapport%20Hyllestad%20kommune%2021.11.2019.pdf.converted</prop>
+     <seg>kor ansvaret for &#229; forvalta arkiva er plassert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.82775</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/cdfc9335-69c7-4153-a5c9-aff76aa60770:370ad2324a7160b576e051188489242ddbc8e75e/Tilsynsrapport%20Fylkesnemndene%20for%20barnevern%20og%20sosiale%20saker%2011.09.2019.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/cdfc9335-69c7-4153-a5c9-aff76aa60770:370ad2324a7160b576e051188489242ddbc8e75e/Tilsynsrapport%20Fylkesnemndene%20for%20barnevern%20og%20sosiale%20saker%2011.09.2019.pdf.converted</prop>
+     <seg>Status R betyr at et dokument ikke er ferdigstilt og journalf&#248;rt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f934d269-8a8f-4dbb-b54b-d11632ec1dd7:e48e4c9cd55b26ac64cdf6adbd26ebc6e7b24e8b/Tilsynsrapport%20Oster%C3%B8y%20kommune%2002.09.2019.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f934d269-8a8f-4dbb-b54b-d11632ec1dd7:e48e4c9cd55b26ac64cdf6adbd26ebc6e7b24e8b/Tilsynsrapport%20Oster%C3%B8y%20kommune%2002.09.2019.pdf.converted</prop>
+     <seg>Status R betyr at eit dokument ikkje er ferdigstilt og journalf&#248;rt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.75775</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/b45ebf40-c8f0-4be7-adc1-7f81823e8872:facccc81ebc0dd31e5b41c0dd8fa0fd03e9ecbb7/Tilsynsrapport%20Aurskog-H%C3%B8land%2027.03.2017.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/cae4cdca-4e04-477a-a6ff-081b13ceb4cf:5d5e61553eca0b785f3f7d40b013ca9ad0974b75/Tilsynsrapport%20Fet%20kommune%2008.12.2016.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/cae4cdca-4e04-477a-a6ff-081b13ceb4cf:5d5e61553eca0b785f3f7d40b013ca9ad0974b75/Tilsynsrapport%20Fet%20kommune%2008.12.2016.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/b45ebf40-c8f0-4be7-adc1-7f81823e8872:facccc81ebc0dd31e5b41c0dd8fa0fd03e9ecbb7/Tilsynsrapport%20Aurskog-H%C3%B8land%2027.03.2017.pdf.converted</prop>
+     <seg>Arkivforskriftens &#167; 5-1 har krav om at kommuner og fylkeskommuner skal opprette egne ordninger for arkivdepot for eldre og avsluttede arkiver.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/47e35410-0d6c-40c3-9408-31a50aab978c:119803dcc0b9d5f14907ce17db84c8edf898e302/Tilsynsrapport%20Gloppen%20kommune%2031.05.2017.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/3aa01323-9517-4340-b8af-2382f2016340:434d87d5744c10f7d9ca267a567009e1b4826438/Tilsynsrapport%20F%C3%B8rde%20kommune%2028.03.2017.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/47e35410-0d6c-40c3-9408-31a50aab978c:119803dcc0b9d5f14907ce17db84c8edf898e302/Tilsynsrapport%20Gloppen%20kommune%2031.05.2017.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/3aa01323-9517-4340-b8af-2382f2016340:434d87d5744c10f7d9ca267a567009e1b4826438/Tilsynsrapport%20F%C3%B8rde%20kommune%2028.03.2017.pdf.converted</prop>
+     <seg>Arkivforskrifta &#167; 5-1 krever at kommunar og fylkeskommunar skal opprette eigne ordningar for arkivdepot for eldre og avslutta arkiv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.79375</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <seg>over arkivmaterialet sitt og hvordan det er organisert.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <seg>over sitt arkivmateriale og korleis det er organisert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.48615</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <seg>ansvaret for de oppgavene og prosessene som er n&#248;dvendige for &#229; sikre danning og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <seg>som har ansvaret for dei oppg&#229;vene og prosessane som er naudsynte for &#229; sikre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.15942</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a597a68f-3def-4831-8154-f5a3250894f1:b1d30fb8b46b56463277a38cef50ab469fe4e21d/Tilsynsrapport%20Sunndal%20kommune%2005.%20og%2006.11.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/fe65cc32-7f94-4789-a2a3-aa0786c91e68:f94cd45e4d397c3f05c180ac4a43e634ea6ada13/Tilsynsrapport%20Helse%20Nord%20IKT%2010.%20og%2011.05.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <seg>for samtid og ettertid, blant annet som grunnlag for demokrati, rettssikkerhet og kulturarv.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/474fa0ef-1c39-4f75-ad0a-2a76528b8080:66f8e63515eb1ec0d5078fcf032546f39f1e8938/Tilsynsrapport%20Midt-Telemark%20kommune%2027.%20og%2028.04.2021.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/1729b45d-40c5-4ea7-8390-8e9a9424a672:fe344b36af8a001c6599942029614a03c0383914/Tilsynsrapport%20Helse%20M%C3%B8re%20og%20Romsdag%20HF%2010.%20og%2011.08.2021.pdf.converted</prop>
+     <seg>samtid og ettertid, blant anna som grunnlag for demokrati, rettstryggleik og kulturarv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.48091</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/b45ebf40-c8f0-4be7-adc1-7f81823e8872:facccc81ebc0dd31e5b41c0dd8fa0fd03e9ecbb7/Tilsynsrapport%20Aurskog-H%C3%B8land%2027.03.2017.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/cae4cdca-4e04-477a-a6ff-081b13ceb4cf:5d5e61553eca0b785f3f7d40b013ca9ad0974b75/Tilsynsrapport%20Fet%20kommune%2008.12.2016.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/cae4cdca-4e04-477a-a6ff-081b13ceb4cf:5d5e61553eca0b785f3f7d40b013ca9ad0974b75/Tilsynsrapport%20Fet%20kommune%2008.12.2016.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/b45ebf40-c8f0-4be7-adc1-7f81823e8872:facccc81ebc0dd31e5b41c0dd8fa0fd03e9ecbb7/Tilsynsrapport%20Aurskog-H%C3%B8land%2027.03.2017.pdf.converted</prop>
+     <seg>I journalen skal det registreres alle inn- og utg&#229;ende dokumenter som etter offentlighetsloven regnes som saksdokumenter for organet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/47e35410-0d6c-40c3-9408-31a50aab978c:119803dcc0b9d5f14907ce17db84c8edf898e302/Tilsynsrapport%20Gloppen%20kommune%2031.05.2017.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/3aa01323-9517-4340-b8af-2382f2016340:434d87d5744c10f7d9ca267a567009e1b4826438/Tilsynsrapport%20F%C3%B8rde%20kommune%2028.03.2017.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/47e35410-0d6c-40c3-9408-31a50aab978c:119803dcc0b9d5f14907ce17db84c8edf898e302/Tilsynsrapport%20Gloppen%20kommune%2031.05.2017.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/3aa01323-9517-4340-b8af-2382f2016340:434d87d5744c10f7d9ca267a567009e1b4826438/Tilsynsrapport%20F%C3%B8rde%20kommune%2028.03.2017.pdf.converted</prop>
+     <seg>I journalen skal ein registrere alle inn- og utg&#229;ande dokument som etter offentleglova vert rekna som saksdokument for organet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.87436</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/cdfc9335-69c7-4153-a5c9-aff76aa60770:370ad2324a7160b576e051188489242ddbc8e75e/Tilsynsrapport%20Fylkesnemndene%20for%20barnevern%20og%20sosiale%20saker%2011.09.2019.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-statlig-sektor/_/attachment/download/cdfc9335-69c7-4153-a5c9-aff76aa60770:370ad2324a7160b576e051188489242ddbc8e75e/Tilsynsrapport%20Fylkesnemndene%20for%20barnevern%20og%20sosiale%20saker%2011.09.2019.pdf.converted</prop>
+     <seg>dokumenter er heller ikke sikret mot endringer i ettertid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f934d269-8a8f-4dbb-b54b-d11632ec1dd7:e48e4c9cd55b26ac64cdf6adbd26ebc6e7b24e8b/Tilsynsrapport%20Oster%C3%B8y%20kommune%2002.09.2019.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f934d269-8a8f-4dbb-b54b-d11632ec1dd7:e48e4c9cd55b26ac64cdf6adbd26ebc6e7b24e8b/Tilsynsrapport%20Oster%C3%B8y%20kommune%2002.09.2019.pdf.converted</prop>
+     <seg>heller ikkje sikra mot endringar i ettertid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.29</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/084c31df-a76d-4af1-9d32-a54c04878108:7a2bd9dc1263f2d400f346fdf2f31f575a74e7a1/Tilsynsrapport%20Kv%C3%A6nangen%20kommune%2006.06.2019.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/084c31df-a76d-4af1-9d32-a54c04878108:7a2bd9dc1263f2d400f346fdf2f31f575a74e7a1/Tilsynsrapport%20Kv%C3%A6nangen%20kommune%2006.06.2019.pdf.converted</prop>
+     <seg>Ta gjerne kontakt om noe er uklart.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/e090f386-00ba-4edc-b58d-9d5bea14b32a:84d027bbd420d9787c3a638e8563d3a5257d8303/Tilsynsrapport%20Jondal%20kommune%2011.12.2018.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/e090f386-00ba-4edc-b58d-9d5bea14b32a:84d027bbd420d9787c3a638e8563d3a5257d8303/Tilsynsrapport%20Jondal%20kommune%2011.12.2018.pdf.converted</prop>
+     <seg>Ta gjerne kontakt om noko er uklart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.79412</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <seg>forvalte arkivet i henhold til arkivloven med forskrifter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <seg>forvalte arkivet i henhald til arkivlova med forskrifter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.20909</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f3eac343-c391-4a61-b02a-8b4ad8397550:61882e15fd61e06faa44bd13bf13de4d3292d99e/Tilsynsrapport%20Ullensaker%20kommune%2008.08.2019.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f3eac343-c391-4a61-b02a-8b4ad8397550:61882e15fd61e06faa44bd13bf13de4d3292d99e/Tilsynsrapport%20Ullensaker%20kommune%2008.08.2019.pdf.converted</prop>
+     <seg>Kommunen har selv ansvaret for &#229; bevare egne arkiver.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a44c2cf0-200f-4584-8ca1-e5a52fff37e5:9454aa125ca0a8c8266b33bfa0e55d909c0c5cc6/Tilsynsrapport%20Lind%C3%A5s%20kommune%2020.09.2017.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a44c2cf0-200f-4584-8ca1-e5a52fff37e5:9454aa125ca0a8c8266b33bfa0e55d909c0c5cc6/Tilsynsrapport%20Lind%C3%A5s%20kommune%2020.09.2017.pdf.converted</prop>
+     <seg>Kommunen har sj&#248;lv ansvaret for &#229; bevare eigne arkiv.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.94218</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f3eac343-c391-4a61-b02a-8b4ad8397550:61882e15fd61e06faa44bd13bf13de4d3292d99e/Tilsynsrapport%20Ullensaker%20kommune%2008.08.2019.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f3eac343-c391-4a61-b02a-8b4ad8397550:61882e15fd61e06faa44bd13bf13de4d3292d99e/Tilsynsrapport%20Ullensaker%20kommune%2008.08.2019.pdf.converted</prop>
+     <seg>deler av dokumentasjonen som blir til gjennom kommunens</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a44c2cf0-200f-4584-8ca1-e5a52fff37e5:9454aa125ca0a8c8266b33bfa0e55d909c0c5cc6/Tilsynsrapport%20Lind%C3%A5s%20kommune%2020.09.2017.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a44c2cf0-200f-4584-8ca1-e5a52fff37e5:9454aa125ca0a8c8266b33bfa0e55d909c0c5cc6/Tilsynsrapport%20Lind%C3%A5s%20kommune%2020.09.2017.pdf.converted</prop>
+     <seg>av dokumentasjonen som blir til gjennom kommunen si verksemd</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.67955</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f3eac343-c391-4a61-b02a-8b4ad8397550:61882e15fd61e06faa44bd13bf13de4d3292d99e/Tilsynsrapport%20Ullensaker%20kommune%2008.08.2019.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/f3eac343-c391-4a61-b02a-8b4ad8397550:61882e15fd61e06faa44bd13bf13de4d3292d99e/Tilsynsrapport%20Ullensaker%20kommune%2008.08.2019.pdf.converted</prop>
+     <seg>virksomhet skal bevares i lang tid eller for all tid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a44c2cf0-200f-4584-8ca1-e5a52fff37e5:9454aa125ca0a8c8266b33bfa0e55d909c0c5cc6/Tilsynsrapport%20Lind%C3%A5s%20kommune%2020.09.2017.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a44c2cf0-200f-4584-8ca1-e5a52fff37e5:9454aa125ca0a8c8266b33bfa0e55d909c0c5cc6/Tilsynsrapport%20Lind%C3%A5s%20kommune%2020.09.2017.pdf.converted</prop>
+     <seg>skal bevarast i lang tid eller for all tid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.97338</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <seg>Den skal vise hvilke regler,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <seg>Den skal vise til regler,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.6197</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ad9d19c4-6eaf-4da3-9a8e-a817c72de011:1b58aaf4db42802a4f72bd4a4bcad4679adbf31c/Tilsynsrapport%20Hamar%20kommune%2024.%20og%2025.02.2021.pdf.converted</prop>
+     <seg>instrukser og planer som gjelder for arkivarbeidet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/909944c4-76f0-4543-bd16-48842f4665d8:39fec185223d257023b80397c5821a5ee7b581f3/Tilsynsrapport%20Eidfjord%20kommune%2002.%20og%2003.12.2020.pdf.converted</prop>
+     <seg>instruksar og planar som gjeld for arkivarbeidet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.41818</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ca1fa100-3243-4d9f-b5e3-9eaa48e0cc5b:0f05f298f2ef16932c0edcedee54ae95ed494ecf/Tilsynsrapport%20Bergen%20kommune,%20barneverntjenesten%2012.12.2019.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/ca1fa100-3243-4d9f-b5e3-9eaa48e0cc5b:0f05f298f2ef16932c0edcedee54ae95ed494ecf/Tilsynsrapport%20Bergen%20kommune,%20barneverntjenesten%2012.12.2019.pdf.converted</prop>
+     <seg>etter m&#248;nster fra forskriften.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/2c77914c-1bc4-4d60-bd8a-77edab86eb61:9fe0bfb11b047f0d3f27e387281416f53c06f622/Tilsynsrapport%20Samnanger%20kommune%2020.05.2019.pdf.converted</prop>
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/2c77914c-1bc4-4d60-bd8a-77edab86eb61:9fe0bfb11b047f0d3f27e387281416f53c06f622/Tilsynsrapport%20Samnanger%20kommune%2020.05.2019.pdf.converted</prop>
+     <seg>m&#248;nster fr&#229; forskrifta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.4</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/a597a68f-3def-4831-8154-f5a3250894f1:b1d30fb8b46b56463277a38cef50ab469fe4e21d/Tilsynsrapport%20Sunndal%20kommune%2005.%20og%2006.11.2020.pdf.converted</prop>
+     <seg>over arkivmaterialet sitt og hvordan det er organisert.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.arkivverket.no/forvaltning-og-utvikling/tilsyn/tilsynsrapporter-kommunal-sektor/_/attachment/download/474fa0ef-1c39-4f75-ad0a-2a76528b8080:66f8e63515eb1ec0d5078fcf032546f39f1e8938/Tilsynsrapport%20Midt-Telemark%20kommune%2027.%20og%2028.04.2021.pdf.converted</prop>
+     <seg>over arkivmaterialet sitt og korleis det er organisert.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

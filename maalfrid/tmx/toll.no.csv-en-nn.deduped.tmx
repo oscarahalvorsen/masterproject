@@ -1,0 +1,426 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T191854" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">3.45768</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/corporate/export/duty-free-status-or-lower-duties-when-exporting-to-other-countries/completing-movement-certificates-eur1-and-eur-med-for-export-/</prop>
+     <seg>It must be the same person who signed box 12 in the certificate.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/bedrift/eksport/frihandel-ved-eksport/utfylling-av-opphavsbevis-eur-1-og-eur-med-ved-eksport/</prop>
+     <seg>Det skal vere same person som har underteikna i sertifikatets rubrikk 12.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">4.716</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/importation-of-removal-goods---declaration.pdf.converted</prop>
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/rd-0030e.docx.converted</prop>
+     <seg>This must be specified under point 4.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/rd-0030n.docx.converted</prop>
+     <seg>Dette opplyser du om i punkt 4</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">3.78462</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/boat/import-of-recreational-boats/</prop>
+     <seg>You purchase a boat in Denmark and pay NOK 65 000.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/bat/import-fritidsbat/</prop>
+     <seg>Ein b&#229;t blir kj&#248;pt i Danmark for 65 000 kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.54412</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/fish-and-crustaceans/</prop>
+     <seg>When a 75% rule is stipulated, officers are counted as part of the crew.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/eksportor/</prop>
+     <seg>N&#229;r det er opplyst om ein 75 %-regel skal offiserane reknast med i mannskapstalet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">4.2</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/importation-of-removal-goods---declaration.pdf.converted</prop>
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/rd-0030e.docx.converted</prop>
+     <seg>This must be specified under point 5.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-nynorsk.pdf.converted</prop>
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/rd-0030n.docx.converted</prop>
+     <seg>Du m&#229; opplyse om det i punkt 5</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">3.7925</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/boat/import-of-recreational-boats/</prop>
+     <seg>You purchase a boat in Germany and pay NOK 50 000.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/bat/import-fritidsbat/</prop>
+     <seg>Ein b&#229;t blir kj&#248;pt i Tyskland for 50 000 kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.90364</prop>
+    <prop type="score-bicleaner">0.543</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/the-general-tolerance-rule-when-exporting-fish/use-of-third-country-materials/</prop>
+     <seg>Most agreements allow using 10% third-country materials and still maintaining Norwegian origin.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/den-generelle-toleranseregelen-ved-eksport/tredjelandsmaterialer/</prop>
+     <seg>I dei fleste avtalane kan du nytte 10 % tredjelandsmateriale og framleis ha norsk opphav.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.00945</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/the-general-tolerance-rule-when-exporting-fish/use-of-third-country-materials/</prop>
+     <seg>Note that if the finished fish fillets displayed in Figure 2 are frozen in blocks or individually, it will not be possible to use the tolerance rule.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/den-generelle-toleranseregelen-ved-eksport/tredjelandsmaterialer/</prop>
+     <seg>Merk deg at dersom dei ferdige fiskefiletane viste i figur 2 blir fryste i blokk eller enkeltvis, vil det ikkje vere mogleg &#229; bruke toleranseregelen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.23824</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/contentassets/c13adcd5012d4df7bba6215955d4c519/annual_report_norwegian_customs_2013_english.pdf.converted</prop>
+     <seg>This method of control saves time and resources for both the traveller and thecustoms officers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/c13adcd5012d4df7bba6215955d4c519/arsmelding_2013_nynorsk.pdf.converted</prop>
+     <seg>Denne kontrollmetodensparar b&#229;de reisande og tollarane for tid og ressursar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">3.70549</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/the-general-tolerance-rule-when-exporting-fish/use-of-third-country-materials/</prop>
+     <seg>The tolerance rule has not been "used up" for the fillets from Figure 1.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/den-generelle-toleranseregelen-ved-eksport/tredjelandsmaterialer/</prop>
+     <seg>Toleranseregelen er ikkje "brukt opp" for filetane fr&#229; figur 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.17875</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/fish-and-crustaceans/</prop>
+     <seg>With the Philippines: All officers and at least 75% of the crews must come from the exporting contracting party.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/eksportor/</prop>
+     <seg>Til Filippinene: Alle offiserar og minst 75 % av mannskapet m&#229; komme fr&#229; den eksporterande avtaleparten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.26943</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/fish-and-crustaceans/</prop>
+     <seg>The EFTA Convention: All officers and at least 75% of the crews must come from an EFTA member state.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/eksportor/</prop>
+     <seg>Alle offiserar og minst 75 % av mannskapet m&#229; komme fr&#229; eit EFTA-land. E&#216;S-avtalen:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.19429</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/importation-of-removal-goods---declaration.pdf.converted</prop>
+     <seg>No customs and VAT duty exemptions apply to vehicles, aircraft, work equipment, foodstuffs, alcohol or tobacco products.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/contentassets/3536b687357d400c8ee0053e60cf217e/innforsel-av-flyttegods---erklaring-nynorsk.pdf.converted</prop>
+     <seg>Du f&#229;r ikkje toll- og meirverdiavgiftsfritak for k&#248;yret&#248;y, fly, yrkesutstyr, n&#230;ringsmiddel, alkohol eller tobakksvarer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.95622</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/boat/import-of-recreational-boats/</prop>
+     <seg>If you have had the boat repaired, have had maintenance or other services on the boat, you must also declare these costs and pay 25 % VAT on them.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/bat/import-fritidsbat/</prop>
+     <seg>Har du under opphold i utlandet f&#229;tt utf&#248;rt reparasjonar, vedlikehald eller andre utbetringar p&#229; b&#229;ten, skal du ogs&#229; deklarere og betale 25 % meirverdiavgift av disse kostnadane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.2069</prop>
+    <prop type="score-bicleaner">0.589</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/boat/import-of-recreational-boats/</prop>
+     <seg>There is no Customs duty on boats.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/bat/import-fritidsbat/</prop>
+     <seg>Du skal ikkje betale toll for fritidsb&#229;tar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.91115</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/the-general-tolerance-rule-when-exporting-fish/use-of-third-country-materials/</prop>
+     <seg>This must happen before or during the production process itself (see Figure 1).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/den-generelle-toleranseregelen-ved-eksport/tredjelandsmaterialer/</prop>
+     <seg>D&#229; m&#229; dette skje f&#248;r eller under sj&#248;lve produksjonsprosessen (sj&#229; figur 1).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.00491</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/corporate/export/duty-free-status-or-lower-duties-when-exporting-to-other-countries/completing-movement-certificates-eur1-and-eur-med-for-export-/</prop>
+     <seg>"The good(s) are re-exported from Norway in unchanged form or after insufficient working/processing.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/bedrift/eksport/frihandel-ved-eksport/utfylling-av-opphavsbevis-eur-1-og-eur-med-ved-eksport/</prop>
+     <seg>"Vara(ene) blir gjenutf&#248;rte fr&#229; Noreg i uendra stand eller etter utilstrekkeleg tilarbeiding/ /foredling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.07532</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/boat/import-of-recreational-boats/</prop>
+     <seg>Engines must initially be CE marked by the manufacturer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/bat/import-fritidsbat/</prop>
+     <seg>Motorar skal i utgangspunktet vere CE-merkte av produsenten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.74189</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/the-general-tolerance-rule-when-exporting-fish/use-of-third-country-materials/</prop>
+     <seg>You cannot run a production line only with third-party materials in parallel to a line of originating materials and then mix the finished product in order to use the tolerance rule (see Figure 2).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/den-generelle-toleranseregelen-ved-eksport/tredjelandsmaterialer/</prop>
+     <seg>Du kan ikkje k&#248;yre ei produksjonslinje med berre tredjelandsmaterialar og parallelt ei linje med opphavsmaterialar, og deretter blande dei ferdige produkta for &#229; bruke toleranseregelen (sj&#229; figur 2).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.70982</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/corporate/export/duty-free-status-or-lower-duties-when-exporting-to-other-countries/completing-movement-certificates-eur1-and-eur-med-for-export-/</prop>
+     <seg>The declaration must be completed by the exporter and signed by the same person who signed the first page in box 12.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/bedrift/eksport/frihandel-ved-eksport/utfylling-av-opphavsbevis-eur-1-og-eur-med-ved-eksport/</prop>
+     <seg>Erkl&#230;ringa skal fyllast ut av eksport&#248;ren og underteiknast av same person som har underteikna p&#229; framsida i rubrikk 12.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">3.70455</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/boat/import-of-recreational-boats/</prop>
+     <seg>Freight and insurance costs to Norway are NOK 1 500.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/bat/import-fritidsbat/</prop>
+     <seg>Frakt- og forsikringskostnader fram til Noreg kjem p&#229; 1 500 kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.14214</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/corporate/export/duty-free-status-or-lower-duties-when-exporting-to-other-countries/completing-movement-certificates-eur1-and-eur-med-for-export-/</prop>
+     <seg>For exports to EU countries under the EEA agreement, the name of the relevant country, "EC" or "Community" is entered.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/bedrift/eksport/frihandel-ved-eksport/utfylling-av-opphavsbevis-eur-1-og-eur-med-ved-eksport/</prop>
+     <seg>Ved eksport til eit EU-land under E&#216;S-avtalen, skal namnet p&#229; det aktuelle landet, &#8221;EF&#8221; (&#8221;EC&#8221;) eller &#8221;Fellesskapet&#8221; (&#8221;Community&#8221;) f&#248;rast p&#229;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.16659</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/boat/import-of-recreational-boats/</prop>
+     <seg>If you, as a private individual, are importing a recreational boat to Norway, you must pay 25 % Norwegian VAT on the total value.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/bat/import-fritidsbat/</prop>
+     <seg>N&#229;r du som privatperson skal importere ein fritidsb&#229;t til Noreg, m&#229; du betale 25 prosent meirverdiavgift (mva) av totalverdien.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.0304</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/the-general-tolerance-rule-when-exporting-fish/use-of-third-country-materials/</prop>
+     <seg>If the goods are processed further (for example, into fish fingers), it is possible to mix in Russian fillet that corresponds to 10% of the value of the finished product (see Figure 3).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/den-generelle-toleranseregelen-ved-eksport/tredjelandsmaterialer/</prop>
+     <seg>Foredlar du varene vidare (til d&#248;mes til fiskepinnar) kan du blande inn russisk filet tilsvarande 10 % av verdien av ferdigproduktet (sj&#229; figur 3).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.37917</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/boat/import-of-recreational-boats/</prop>
+     <seg>All boats with a hull length from 2.5 to 24 meters and water scooters must be CE marked.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/bat/import-fritidsbat/</prop>
+     <seg>Alle b&#229;tar med lengd p&#229; skroget fr&#229; 2,5 til 24 meter og vasscooterar skal vere CE-merkte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.11465</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/fish-and-crustaceans/</prop>
+     <seg>- "The Fishing Letter": All officers and at least 75% of the crews must come from Norway or an EU member state.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/eksportor/</prop>
+     <seg>&#171;Fiskebrevet&#187;: Alle offiserar og minst 75 % av mannskapet m&#229; komme fr&#229; Noreg eller eit EU-land.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.425</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/corporate/export/duty-free-status-or-lower-duties-when-exporting-to-other-countries/completing-movement-certificates-eur1-and-eur-med-for-export-/</prop>
+     <seg>Paper version of EUR.1 and EUR-MED</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/bedrift/eksport/frihandel-ved-eksport/utfylling-av-opphavsbevis-eur-1-og-eur-med-ved-eksport/</prop>
+     <seg>Papirl&#248;ysing for EUR.1 og EUR-MED</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.04474</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/corporate/export/duty-free-status-or-lower-duties-when-exporting-to-other-countries/completing-movement-certificates-eur1-and-eur-med-for-export-/</prop>
+     <seg>The good(s) originate from (...)." If the export occurs in accordance with the EEA agreement, "EEA" must be entered within the brackets for options 1 and 2.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/bedrift/eksport/frihandel-ved-eksport/utfylling-av-opphavsbevis-eur-1-og-eur-med-ved-eksport/</prop>
+     <seg>Vara(ene) har sitt opphav i (...).&#8221;Dersom eksporten skjer i medhald av E&#216;S-avtalen, skal &#8221;E&#216;S&#8221; p&#229;f&#248;rast i parentesen i alternativ 1 og 2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.21579</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/the-general-tolerance-rule-when-exporting-fish/use-of-third-country-materials/</prop>
+     <seg>The third-country materials must be included in the production of finished goods.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/den-generelle-toleranseregelen-ved-eksport/tredjelandsmaterialer/</prop>
+     <seg>Tredjelandsmaterialar skal inng&#229; i produksjonen av ferdigvara.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">3.70752</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/boat/import-of-recreational-boats/</prop>
+     <seg>In addition, you have had the boat maintained and paid NOK 8 000 for this.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/bat/import-fritidsbat/</prop>
+     <seg>I tillegg betaler du for enkle utbetringar med totalt 8 000 kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.44187</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/the-general-tolerance-rule-when-exporting-fish/use-of-third-country-materials/</prop>
+     <seg>The example in Fig. 3 is the tolerance rule used for the production of the Norwegian fillets, but this does not prevent it from being used when the fillets are part of a production of a new product such as, for example, fish fingers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/den-generelle-toleranseregelen-ved-eksport/tredjelandsmaterialer/</prop>
+     <seg>3 er toleranseregelen brukt ved produksjon av dei norske filetane, men dette forhindrar ikkje at han kan brukast n&#229;r filetane inng&#229;r i ein produksjon av ei ny vare som til d&#248;mes fiskepinnar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.23816</prop>
+    <prop type="score-bicleaner">0.529</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.toll.no/en/goods/fish/export-of-fish/fish-and-crustaceans/</prop>
+     <seg>With Mexico: All officers and at least 75% of the crews must come from an EFTA member state or Mexico.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.toll.no/no/varer/fisk/eksport-av-fisk/eksportor/</prop>
+     <seg>Til Mexico: Alle offiserar og minst 75 % av mannskapet m&#229; komme fr&#229; eit EFTA-land eller Mexico.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

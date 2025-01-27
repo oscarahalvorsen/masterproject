@@ -1,0 +1,2516 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221222T000245" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">5.49643</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>In 2011 salary growth was 3,70%.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>I 2011 var l&#248;nnsveksten 3,70 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.73571</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>the National Insurance scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>etter samme satser som i folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.52143</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>members exist as at 31.12.2012.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>til de som er medlemmer per 31.12.2012.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">3.73695</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>link to page 2 ing securities in the available-for-sale portfolio, have</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>link to page 2 bortsett fra rentepapirer i oml&#248;psportef&#248;ljen, har gitt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.60103</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>Buffer capital was strengthened during 2016. The</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>Bufferkapitalen styrket seg gjennom 2016. Avkastning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.50829</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>This resulted in a minimum increase</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>Dette ga en minimum &#248;kning i samlet pensjon p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">3.55436</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>The result for the year shows a net loss of NOK 101 million.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>&#197;rets resultat viser et underskudd p&#229; 101 millioner kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">4.48788</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>widowers' inheritance, will be processed in 2012.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>skal g&#229; til arvinger behandles i 2012.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">5.157</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>As at 31.12.2011 other retained earnings totalled NOK 386</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>31.12.2011 utgj&#248;r annen opptjent egenkapital 386 millioner</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.79434</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>shall also be based upon the guidelines for Folketrygdfondet</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>skal ta utgangspunkt i retningslinjene for Folketrygdfondet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.41802</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>Accordingly we will continue to have transitional</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>Vi vil derfor i lang tid ha overgangsordninger som</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.45385</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>sustainable pension system.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>med uf&#248;retrygden i folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.77995</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>THE PENSION SCHEME FOR THE PHARMACY SECTOR / ANNUAL REPORT 2015</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>De senere &#229;rene PENSJONSORDNINGEN FOR APOTEKVIRKSOMHET / &#197;RSRAPPORT 2015</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.47059</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>tional provisions related to the strengthening of K2005 would be</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>knyttet til styrking av K2005 ble besluttet finansiert med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">4.39091</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>increase in premium rate to 16.1 per cent in 2012.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>samt &#248;kning i premiesats til 16,1 prosent i 2012.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.04945</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>ers&#8217; Association, the Norwegian Association of Pharmacists</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>Styret i pensjonsordningen har gjennom &#229;ret</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">4.3</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>lifying period than 360 months, the pension benefits</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>kortere opptjeningstid enn 360 m&#229;neder, vil pensjo-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.56912</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>In 2016 a total increase in pension liabilities (the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>&#248;kt resultatet i 2016 tilsvarende. skal dekkes innenfor annen opptjent egen kapital. pensjonskasser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.677</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>The uncertainty surrounding the future development of the financial markets continued throughout 2010.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>Innledning I 2010 var finansmarkedet fortsatt preget av usikkerhet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">3.79615</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>and is on public hearing in the spring of 2013.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Forslaget krever endrin-ger i lov om tjenestepensjon, og er p&#229; h&#248;ring v&#229;ren 2013.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">4.3625</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>funds for the last 10 years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>ning p&#229; fondsmidlene siste 10 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.85</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>for the scheme from 2015. It is recommended that</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>avsetningene i ordningen fra 2015, reduksjonen er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.55238</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>the member had their qualifying period after 31.12.1993.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>medlemmet hadde opptjeningstid etter 31.12.1993.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">3.73959</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>When a member is between 62 and 65 years of age The</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>N&#229;r et medlem er mellom 62 og 65 &#229;r, er det NAV som st&#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.79667</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>In 2016 the pensions were adjusted based on a factor of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>Pensjonene ble i 2016 regulert med utgangspunkt i en sammenheng.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.06765</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>In addition, NOK 279 million was paid in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>Videre ble det utbetalt 279 millioner kroner i pensjoner</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.02293</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>Adaptations to pension legislation and the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>innf&#248;rt tilpasninger i pensjonslovene og de private tjeneste-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.25625</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>The Pension Scheme for the Pharmacy Sector | Annual report 2010 Insurance risk</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>Det er i 2010 innbetalt i alt Risikostyringen p&#229; investeringssiden og risikostyringen knyttet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.99651</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>This has reduced the profit for 2010 accordingly.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>kroner. Dette har redusert resultatet i 2010 tilsvarende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.288</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>strengthening of the disability tariff for the entire pen-sion scheme from 01.01.2012.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>som f&#248;lge av styrking av uf&#248;retariffen for hele pensjonsord-ningen fra 01.01.2012.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">3.83269</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>Actual returns on the pension assets for 2012 were higher</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Reell avkastning for 2012 viste seg &#229; bli h&#248;yere enn v&#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.16327</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>The Pension Scheme for the Pharmacy Sector is a statutory</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>Pensjonsordningen for apotekvirksomhet (POA) er en lovfestet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">4.59279</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>paid until the member reaches the age of 67.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>alderspensjon kan tidligst utbetales fra 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.53333</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>the detail regulations have been clarified yet.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>tjenestepensjonsordningene i b&#229;de privat og offentlig sektor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.89466</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>management increased by more than NOK 500 million in 2012, and totalled NOK 5.8 billion at year-end.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>lene &#248;kte med i overkant av 500 millioner i 2012 og var p&#229; 5,8 mrd ved &#229;rsskiftet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">4.85691</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>in 2011, provide a satisfactory basis for securing the financial</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>i pensjonsordningen i 2011 og videre fremover.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">3.59362</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>are still expected to grow throughout 2016 as a result of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>ning forventes fortsatt &#229; vokse gjennom 2016 som f&#248;lge</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.48421</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>scheme&#8217;s financial position at year-end.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>ved utgangen av &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.90615</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>those with a shorter qualifying period than 360 months, the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>har jobbet deltid, eller har kortere opptjeningstid enn 360 Uf&#248;repensjon kan innvilges medlemmer som blir arbeidsuf&#248;re</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">4.66364</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>Investment management in the pension scheme delivered solid returns in 2012.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Kapitalforvaltningen i pensjonsordningen leverte et solid resultat i 2012.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.28723</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>61 per cent of total capital was placed in bonds and bond</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>61 prosent plassert i obligasjoner og obligasjonsfond,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">4.49268</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>be less than 66 per cent of final salary, even with</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>mindre enn 66 prosent av sluttl&#248;nnen selv om man</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">3.53182</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>but not paid premiums constituted a total of NOK 149</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>innbetalt premie, utgjorde i alt 149 millioner kroner ved</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.02391</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>identifying the investment opportunities that offer the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>avkastning i perioden (ved starten p&#229; finans krisen i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.36833</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/annual-report-2009_apotek.pdf.converted</prop>
+     <seg>National Insurance Scheme rules apply when calculating pension benefits for members aged 62 to 65.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/arsberetning_apotek_2005.pdf.converted</prop>
+     <seg>Det er alltid folketrygdens regelverk som gjelder n&#229;r medlemmet er mellom 62 og 65 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>that this provides a satisfactory basis for meeting the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>fredsstillende grunnlag for &#229; m&#248;te de utfordringer som</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.01875</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>The buffer capital was strengthened during the year and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>Bufferkapitalen er styrket gjennom &#229;ret og tilfredsstiller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.36974</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>This is significantly better than the return for the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Dette er betydelig bedre enn avkastning for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.50254</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>from 2011 can be explained by the completion of payments to widowers as a result of a ruling by the EFTA Court, the decline</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>2011 kan forklares med avslutning av utbetaling til enkemenn som f&#248;lge av en dom i EFTA-domstolen, nedgang i risikoutgif-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.11282</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>Membership of the Pension Scheme for the Pharmacy Sector also includes a contractual pension (AFP), disability pension and dependents&#8217; pension.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>Medlemskap i Pensjonsordningen for apotekvirksomhet omfatter ogs&#229; avtalefestet pensjon (AFP), uf&#248;repensjon og etterlattepensjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">3.776</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>of final salary for a member with full accrual (360 months)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>sluttl&#248;nn ved full opptjening (360 m&#229;neder), f&#248;r levealders-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.38393</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>The 1954 age group can start measures that encourage us to work longer. The changes</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>alderspensjon for 1954 og yngre &#229;rskull ikke klart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.2375</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>from the ordinary premium.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>til grunn ved inngangen til &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">2.78571</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>at least 99 per cent. The allocation of the pension</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>egenkapitalkrav er minst 99 prosent. Fordelingen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">2.69196</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>In 2015 a total increase in pension liabilities (the premium</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>sert resultatet i 2015 tilsvarende. reguleringsfondet er en buffer mot eventuelle frem&#173;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.56857</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-annual-report-2020.pdf.converted</prop>
+     <seg>Scheme for the Pharmacy Sector improved</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/spk_arsberetning_2007.pdf.converted</prop>
+     <seg>for medlemmer og arbeidsgivere p&#229; spk.no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">4.46154</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>after 1953 - and maybe a completely new public</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>er f&#248;dt etter 1953 - og kanskje en heilt ny offentlig</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.57959</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>The Pension Scheme for the Pharmacy Sector is a statutory</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>Pensjonsordningen for apotekvirksomhet er en lovfestet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.1525</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>investment result, risk result and other result.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>resultat, risikoresultat og &#248;vrig resultat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">4.48378</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>Those who were born in 1958 or earlier receive</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>De som er f&#248;dt i 1958 eller tidligere, f&#229;r en</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">2.5721</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>provisions of NOK 6.1 million in the risk equalisation fund were also dissolved in 2012.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>p&#229; 6,1 mill. kroner i risikoutjevningsfond ogs&#229; frigjort i 2012.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.35643</prop>
+    <prop type="score-bicleaner">0.686</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>Pension Scheme for the Pharmacy Sector.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>for apotekvirksomhet, til &#229; bli en nettoordning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.15208</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/annual-report-2009_apotek.pdf.converted</prop>
+     <seg>On reaching the age of 62, members of the pension scheme may be entitled to retire on a contractual pension (AFP).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/arsberetning_apotek_2005.pdf.converted</prop>
+     <seg>Medlemmer i pensjonsordningen kan ha rett til avtalefestet pensjon fra fylte 62 &#229;r. Avtalefestet pensjon (AFP) er en f&#248;rtidspensjonsordning som gir eldre arbeidstakere rett til &#229; g&#229; av med pensjon f&#248;r aldersgrensen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.88636</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/annual-report-2009_apotek.pdf.converted</prop>
+     <seg>Pension scheme rules guaranteeing a certain level of gross pension payments mean that pension benefits are usually equivalent to at least 66 % of the member&#8217;s pension basis.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/arsberetning_apotek_2005.pdf.converted</prop>
+     <seg>Pensjonsordningen har en regel om garantert brutto pensjonsniv&#229;, som gj&#248;r at pensjonen vanligvis utgj&#248;r minst 66 prosent av pensjonsgrunnlaget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.27</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>early to say how the pension reform will affect the Pension</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>hvordan pensjonsreformen vil sl&#229; ut for Pensjonsordningen for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">6.775</prop>
+    <prop type="score-bicleaner">0.724</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>results and markets in 2012</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Resultater og markeder i 2012</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.13571</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>weighted return was 6.60 per cent.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>avkastning ble p&#229; 6,60 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">2.90565</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>176 million. This includes changes in unrealized gains</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>er positivt med 176 millioner kroner. Dette inkluderer det ytre milj&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.04434</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>cash flow from the real estate portfolio, this asset class has</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>l&#248;pende kontantstr&#248;m fra eiendomsportef&#248;ljen har medf&#248;rt at</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.04388</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>The Pension Scheme for the Pharmacy Sector&#8217;s investment</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>avkastning for sammenlignbar referanseindeks som ble p&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">2.42127</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>provisions would be speeded up and completed in 2013. A total</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>planen forseres og sluttf&#248;res i 2013. Totalt ble det dermed</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">1.03125</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>to the method used by the Pension Scheme for the Pharmacy</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>&#8226; Pensjonsordningen for apotekvirksomhet er en lovfestet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.08049</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>ferred to the scheme applicable on retirement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>vil rettigheter opptjent i de ulike ordningene bli fastsatt i hver enkelt ordning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">3.02779</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>first half of 2013. It is proposed that the current defined benefit</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Disse er ogs&#229; p&#229; h&#248;ring v&#229;ren 2013. Det foresl&#229;s at dagens</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.04231</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>by the Pension Scheme for the Pharmacy Sector</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>med uttak av alderspensjon fra folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">4.19811</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/annual-report-2009_apotek.pdf.converted</prop>
+     <seg>A full disability pension is equivalent to 66 % of the member's pension basis.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/arsberetning_apotek_2005.pdf.converted</prop>
+     <seg>Full uf&#248;repensjon utgj&#248;r 66 prosent av pensjonsgrunnlaget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">5.26471</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>2014 was 6.61 per cent (value-adjusted).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>2014 ble 6,61 prosent (verdijustert).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">4.18235</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>decided in December 2011 that in future the ethical guidelines</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>i desember 2011 at de etiske retningslinjene fremover ogs&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.58014</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>With effect from 2001 new rules were introduced for included in the pension transfer agreement. For those who</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Fra og med 2001 ble det innf&#248;rt nye regler for beregning for medlemmer som sluttet f&#248;r denne datoen med mindre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.09538</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>that the chosen investment portfolio must have</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>Strategien sl&#229;r fast at risikoniv&#229;et i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.03696</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>In accordance with the Act the pension scheme shall be</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>Pensjonsordningen omfatter ogs&#229; medlemmer som ikke er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>When a member is</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>N&#229;r et medlem</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.61603</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>the rules for public sector occupational pensions, but with the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>for offentlig tjenestepensjon, men med n&#248;dvendige tilpas-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">3.76497</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>With effect from 2001 new rules were introduced for calcula-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>Fra og med 2001 ble det innf&#248;rt nye regler for be-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">6.024</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>Free equity totalled NOK 375</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>frie egenkapitalen utgjorde i alt 375 millioner kroner</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">5.52073</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>the pension scheme&#8217;s operations during 2015 and the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>ordningens virksomhet i 2015 og den &#248;konomiske</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.74687</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>The buffer (time-weighted) of 4.8 per cent in 2016 is better than</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>Avkastningen (tidsvektet) p&#229; 4,8 prosent i 2016 er bedre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">1.69952</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>The 67% were placed in bonds, 18% in shares, equity funds and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>67 prosent plassert i obligasjoner, 18 prosent i aksjer, aksjefond</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">4.94792</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>The table below shows the returns for 2012 and reference</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Tabellen under viser avkastning for 2012 og referansevekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">2.07273</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>not cover the actual accrued pension costs in 2012. This was</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>ikke dekker de faktiske p&#229;l&#248;pte pensjonskostnadene i 2012.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">5.51786</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>compared to NOK 643 million in 2015.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>mot 643 millioner kroner i 2015.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">1.05369</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>scheme&#8217;s financial position at year-end.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>stillingen ved utgangen av &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">2.31545</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>Funds under management increased by more than NOK 740 million during the year, and totalled NOK 7.29 billion at the end of December</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>Midler til forvaltning &#248;kte med rundt 740 millioner gjennom &#229;ret, og var p&#229; 7,29 milliarder ved utgangen av desember.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">3.76463</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>On reaching the age of 62, members of the pension</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>Medlemmer i pensjonsordningen kan ha rett til av-talefestet pensjon (AFP) fra fylte 62 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">3.38585</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>the Board for 2012, provide a satisfactory basis for securing</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>vurderer i 2012, gir et tilfredsstillende grunnlag for &#229; sikre &#248;konomien i pensjonsordningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.03776</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>tributed to this together with the return on the securities</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>dette sammen med avkastning p&#229; verdipapirportef&#248;ljen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">3.79348</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>somewhat at the start of 2016 to further reduce the con-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>forvaltningen er ogs&#229; lagt noe om i starten av 2016 for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.03</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>A transparent, comprehensible and predictable set</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>Et transparent, forst&#229;elig og forutsigbart regelverk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">4.62667</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>At the end of 2015, the scheme&#8217;s free equity consisted</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>av 2015 bestod ordningens frie egenkapital av annen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.392</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>party to a pension transfer agrrement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>pensjonsordninger i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">3.82545</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>290 million was paid in pensions, compared to NOK 279</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>290 millioner kroner i pensjoner mot 279 millioner kro&#173;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">5.15357</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>the Pharmacy Sector increased by NOK 446 million</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>for apotekvirksomhet &#248;kte med 446 millioner kroner</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.00333</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>the Pharmacy Sector and for the industry in general.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>forpliktelsene er en utfordring for Pensjonsordningen for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">3.03333</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>are adjusted for age from 67 years &#8211; i.e. pension pay-ments are related to life expectancy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>fra 67 &#229;r. Det vil si at det ved uttak av pensjon tas hensyn til forventet levealder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.57537</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>What remains in the public sector?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Hva gjenst&#229;r i offentlig sektor?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">4.4625</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>At year&#8217;s end 2016, employees at 868 pharmacies were</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>Ved utgangen av 2016 var ansatte ved 868 apotek</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.23895</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>pected return of around 5 per cent, and therefore an advanced discount which the system does not take into consideration</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>om ca. 5 prosent avkastning, og dermed en forskuddsrabatt som systemet ikke tar hensyn til n&#229;r systemberegnet premie</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">2.83989</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>regard to the events which have occurred in 2012 appears as a separate result in the insurance statement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>i henhold til de hendelser som er inntruffet i 2012, kommer inn som et eget resultat i forsikringsoppgj&#248;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">4.2</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>Free equity totalled NOK 1 058 million at the end of the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>egenkapitalen utgj&#248;r i alt 1 058 millioner kroner ved</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">2.52683</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>financed through a three-year plan starting in 2011.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>Forventet en tre&#229;rig oppreserveringsplan fra 2011.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.35</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>a retirement pension.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>alderspensjon fra folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.29423</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>the National Insurance scheme and is a life-long payment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>(POA) kommer i tillegg til alderspensjon fra folketrygden og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.0026</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>pension and the pension is always calculated according to</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>alltid etter reglene i folketrygden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">4.60739</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>We therefore see, as in 2013, that the effect</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>Vi ser dermed, som i 2013, at effekten</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">3.61321</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>the completed qualifying period when they reach 67 taxation of disability pensioners.years of age.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>pensjonsgrunnlaget ved full opptjening, n&#229;r de fyller 67 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">2.48759</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>rate of 3 per cent. The expected rate of return used in the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>har v&#230;rt h&#248;yere enn grunnlagsrenten p&#229; 3 prosent. Forventet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1.17143</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>estimated to be NOK 5,412 million.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>5 412 millioner kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">2.34617</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>to 10 times the National Insurance base amount (G).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Pensjonsgrunnlaget er maksimert til 10 ganger tjenestepensjon ogs&#229; omfattet POA.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">5.80966</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>improvement from financial year 2011.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>betydelig forbedring fra regnskaps&#229;ret 2011.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.3875</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>Members can also apply for housing loans.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Medlemmer kan ogs&#229; s&#248;ke om boligl&#229;n.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">3.78846</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>&#8226; In March 2014 new rules for public sector disability pensions</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>&#8226; I mars 2014 ble det nye regelverket for offentlig uf&#248;repen-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">4.9471</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>This year&#8217;s profit of NOK 262 million will be allocated to</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>&#197;rets overskudd p&#229; 262 millioner kroner avsettes til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">4.28125</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>This is an increase of NOK 502 million</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>Dette er en &#248;kning p&#229; 502 millioner kro&#173;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">3.06327</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>In 2016 management sion schemes &#8211; including the Pension Scheme for the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>I 2016 vil forvaltningen pensjonsordninger, inkludert POA, benytter. Dette</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.18333</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>dependents&#8217; pension started on 01.01.1994 or later, and where</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>der etterlattepensjonen startet 01.01.1994 eller senere, og der</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">3.89434</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>in a one-off cost of NOK 51 million being charged to the insur-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>oppgj&#248;ret ble belastet med en engangskostnad p&#229; 51 millioner</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">2.69375</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>Premiums have remained unchanged at 13,6% of the contribu- tion base throughout 2011.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>Premiesatsen har v&#230;rt uendret p&#229; 13,6 prosent av pensjons-grunnlaget i hele 2011.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">4.37814</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>From age 65 the level of pension benefits is calculated</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Fra fylte 65 &#229;r beregnes AFP etter reglene i folketrygden</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">4.28</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>the pension scheme&#8217;s operations during 2016 and the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>ningens virksomhet i 2016 og den &#248;konomiske stillingen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.24375</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>satisfactory capital situation in the Pension Scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>vanskelig &#229; opprettholde en tilfredsstillende balanse i kassen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">1.96957</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>and dependents&#8217; pension.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>uf&#248;repensjon og etterlattepensjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">4.39091</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>The mortality tariff was updated in 2010 from K1963 to K2005.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>D&#248;delighetstariff ble oppdatert i 2010 fra K1963 til K2005.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">1.53947</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>strengthened disability tariff from 2.0*K1963 to 2.5*K1963 will</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>styrkede uf&#248;retariffen fra 2,0*K1963 til 2,5*K1963 ferdigstilles</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">6.3</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>The Pension Scheme for the Pharmacy Sector | Annual report 2010</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>Pensjonsordningen for apotekvirksomhet | &#197;rsberetning 2010</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">2.75</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>Retirement pensions are adjusted for age from 67 years &#8211; i.e.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Alderspensjonen levealdersjusteres fra 67 &#229;r. Det vil si at det</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">4.61754</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>At the end of 2012, 738 pharmacies were covered</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Ved utgangen av 2012 var 738 apotek omfattet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>Whether there will be changes to</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>Endringene i folketrygden</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">1.575</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>sion will be the total of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>bli summen av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">4.60606</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>The result for the year shows a profit of NOK 262 million.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>&#197;rets resultat viser et overskudd p&#229; 262 millioner</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.15116</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>weighting at year-end for the different asset classes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>ved utgangen av &#229;ret for de ulike aktivaklassene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">4.66364</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>qualifying period is 30 years (360 months).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>Full opptjeningstid er 30 &#229;r (360 m&#229;neder).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">1.1</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>This applied to widowers for whom a</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>Forsikringstekniske avsetninger i Pensjonsordning for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">3.78776</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>tive for 2012, which means that the invoiced premium does</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>er for 2012 negativ, noe som betyr at den fakturerte premien</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">5.59697</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>3 per cent of your pension basis up to 6 G</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>3 prosent av pensjonsgrunnlaget opp til 6 G</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">2.71853</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>This has reduced the profit for 2015 accordingly. The pension scheme calculates capital requirements</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>kroner til kursreguleringsfondet i 2015. Dette har redu&#173;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">1.16327</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>The insurance result is positive and can be split into the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Forsikringsresultatet er positivt og kan splittes opp i rente-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">6.28966</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>widowers were completed in 2012.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>enkemennene ble avsluttet i 2012.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">1.03085</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>The scheme&#8217;s free equity consists of other retained earn-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>Ordningens frie egenkapital best&#229;r av annen opptjent</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">4.02748</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>the pension from 62 years of age will be equivalent</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>St&#248;rrelsen p&#229; pensjonen fra 62 &#229;r vil som hovedregel tilsvare den</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">3.87447</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>scheme for the Pharmacy Sector constitutes 66 per cent</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>full alderspensjon fra folketrygden og POA er 66 prosent av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">1.11818</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>&#8226; The pension scheme has 7,100 active members and 4,100</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>&#8226; Pensjonsordningen har 7 100 aktive medlemmer og 4 100</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>reference index, which was 4.83 per cent.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>referanseindeks som ble p&#229; 4,83 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">1.19412</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>for the Folketrygdfondet (Government Pension Fund-do-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>punkt i retningslinjer for Folketrygdfondet (Statens pen&#173;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">1.02</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>&#8226; The Pension Scheme for the Pharmacy Sector is a defined benefit</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>mentet Banklovkommisjonen i oppdrag &#229; utrede sp&#248;rsm&#229;let</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">1.94694</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>In 2011 pensions were adjusted on the basis of increases in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>Pensjonene ble i 2011 regulert med utgangspunkt i l&#248;nns- Pensjonsordningen har tidligere besluttet &#229; f&#248;lge etiske</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">1.78824</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>Pharmacy Sector is in addition to a retirement pension from</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Alderspensjon fra Pensjonsordningen for apotekvirksomhet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">1.03605</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>service schemes will be easier, and it will be much</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>er tilpasset folketrygden, vil ogs&#229; samhandlingen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">3.82238</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>and the rules for people born after 1953 are in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>personer som er f&#248;dt etter 1953 skal p&#229; plass, vil</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">4.37254</prop>
+    <prop type="score-bicleaner">0.690</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>At year-end 2010 employees at 682 pharmacies were members</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>Ved utgangen av 2010 var ansatte ved 682 apotek medlemmer</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">3.8875</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>386 million. This includes changes in unrealized gains</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>positivt med 386 millioner kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">5.08026</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>retrospective payments will begin in 2011.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>og arbeidet med disse etterbetalingene vil starte i 2011.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">1.18696</prop>
+    <prop type="score-bicleaner">0.682</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>solvency capital requirements (Solvency II) and the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>og buffer knyttet til solvenskapitalkrav (Solvens II)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">1.76087</prop>
+    <prop type="score-bicleaner">0.720</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>disability pension from NAV.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>eller uf&#248;retrygd fra NAV.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="164" datatype="Text">
+    <prop type="score-hunalign">1.56615</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>ship in the Pension Scheme for the Pharmacy Sector and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>med medlemskap i Pensjonsordningen for apotekvirksom-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="165" datatype="Text">
+    <prop type="score-hunalign">3.52447</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>funds, 22 per cent in shares, equity funds, hedge funds</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>22 prosent i aksjer, aksjefond, hedgefond og spesialfond,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="166" datatype="Text">
+    <prop type="score-hunalign">1.0425</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>For the Norwegian Public Service Pension Fund</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>For SPK, som er st&#248;rste leverand&#248;r av offentlig</seg>
+    </tuv>
+   </tu>
+   <tu tuid="167" datatype="Text">
+    <prop type="score-hunalign">1.158</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>A good pension scheme is about more than just a retirement pension.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>en god pensjonsordning handler om mer enn alderspensjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="168" datatype="Text">
+    <prop type="score-hunalign">2.03833</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/annual-report-2009_apotek.pdf.converted</prop>
+     <seg>From age 65, the level of pension benefits is calculated either according to National Insurance Scheme rules or according to the method used by the Pension Scheme for the Pharmacy Sector for calculating retirement pensions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/arsberetning_apotek_2005.pdf.converted</prop>
+     <seg>Fra fylte 65 &#229;r beregnes avtalefestet pensjon enten etter reglene i folketrygden, eller etter Pensjonsordningen for apoteketatens beregningsmetode for alderspensjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="169" datatype="Text">
+    <prop type="score-hunalign">2.27407</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>for Pharmacy Sector also includes a contractual pension (AFP), disability pension and dependents&#8217; pension.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>omfatter ogs&#229; avtalefestet pensjon (AFP), uf&#248;repensjon og etterlattepensjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="170" datatype="Text">
+    <prop type="score-hunalign">2.01964</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>This practice was adhered to during 2010.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>Denne praksis er fulgt for 2010. kasse, Finn Melb&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="171" datatype="Text">
+    <prop type="score-hunalign">1.24286</prop>
+    <prop type="score-bicleaner">0.692</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>employee has been a member of the pension scheme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>tiden arbeidstaker har v&#230;rt medlem i pensjonsordningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="172" datatype="Text">
+    <prop type="score-hunalign">1.622</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>A full disability pension is equivalent to 66 per cent of the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>66 prosent av sluttl&#248;nnen selv om man har full opptjening. v&#230;rt oppn&#229;dd om en var frisk og kunne fortsatt i stillingen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="173" datatype="Text">
+    <prop type="score-hunalign">1.255</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>as the Pension Scheme for the Pharmacy Sector.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>forpliktelser uten for store variasjoner i premien.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="174" datatype="Text">
+    <prop type="score-hunalign">3.91783</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>of NOK 143 million from the securities adjustment</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>Det er overf&#248;rt urealiserte kursgevinster p&#229; 143 millio&#173;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="175" datatype="Text">
+    <prop type="score-hunalign">1.36346</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <seg>base after the completed qualifying period.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <seg>sent av pensjonsgrunnlaget ved full opptjeningstid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="176" datatype="Text">
+    <prop type="score-hunalign">1.19362</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>&#8226; The Pension Scheme for the Pharmacy Sector is a defined</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>&#8226; Pensjonsordningen for apotekvirksomhet (POA) er en</seg>
+    </tuv>
+   </tu>
+   <tu tuid="177" datatype="Text">
+    <prop type="score-hunalign">1.02551</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>scheme, and stipulates that the chosen investment portfolio</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>investeringsportef&#248;ljen til en hver tid maksimalt skal</seg>
+    </tuv>
+   </tu>
+   <tu tuid="178" datatype="Text">
+    <prop type="score-hunalign">1.26512</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>number of active members, pensioners and members</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>Vekst i bestanden av b&#229;de yrkesaktive, pensjonister og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="179" datatype="Text">
+    <prop type="score-hunalign">1.74</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>regulations for public sector occupational pensions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>regelverket for offentlig tjenestepensjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="180" datatype="Text">
+    <prop type="score-hunalign">1.36117</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <seg>capital requirements related to the increase in life expectancy.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <seg>avsetningsbehovet knyttet til &#248;kningen i levealder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="181" datatype="Text">
+    <prop type="score-hunalign">1.65138</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>will probably start from 2015 for the pension scheme, with gradual implementation over several years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>sikringer i livsforsikringsselskaper og pensjonskasser. Med sannsynlig virkning fra 2015 og med gradvis innf&#248;ring over flere &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="182" datatype="Text">
+    <prop type="score-hunalign">4.62756</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>The overall return on the pension scheme&#8217;s funds for 2012 was</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>Total avkastning p&#229; pensjonsordningens midler for &#229;ret 2012</seg>
+    </tuv>
+   </tu>
+   <tu tuid="183" datatype="Text">
+    <prop type="score-hunalign">1.27391</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>premium reserve was released and used for provisions</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>benyttet til avsetning for &#248;kt levealder og forventet &#248;kt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="184" datatype="Text">
+    <prop type="score-hunalign">5.079</prop>
+    <prop type="score-bicleaner">0.698</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>This is an increase of NOK 498</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>&#248;kning p&#229; 498 millioner gjennom &#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="185" datatype="Text">
+    <prop type="score-hunalign">1.19375</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>been revised, and allocation to this asset class has thus</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>og allokeringen til denne aktivaklassen er som f&#248;lge av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="186" datatype="Text">
+    <prop type="score-hunalign">1.22812</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>three years after the changes in legislation come into force.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>&#229;r etter lovendringene trer i kraft.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="187" datatype="Text">
+    <prop type="score-hunalign">3.51877</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsr_2012_eng_def.pdf.converted</prop>
+     <seg>calculation of the premium rate for the year was 5 per cent.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/arsberetninger/arsberetning-2012/spk_aarsr_2012_web.pdf.converted</prop>
+     <seg>avkastning som er lagt til grunn i premiesatsen er 5 prosent.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="188" datatype="Text">
+    <prop type="score-hunalign">1.32238</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <seg>As of 31.12.2016, NOK 351 million in net unrealized directors enables the continued improvement of the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <seg>31.12.2016 er det avsatt 351 millioner kroner i netto ordningen fremover. er ca.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="189" datatype="Text">
+    <prop type="score-hunalign">1.94531</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>The scheme had a total of 6 561 actively</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>Det var i alt 6 561 aktive medlemmer og Forsikringsrisiko</seg>
+    </tuv>
+   </tu>
+   <tu tuid="190" datatype="Text">
+    <prop type="score-hunalign">1.23478</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annualreport_2012_eng_web.pdf.converted</prop>
+     <seg>under the current tariff.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_aarsberetning_2011_endelig_web.pdf.converted</prop>
+     <seg>det dagens tariff forutsetter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="191" datatype="Text">
+    <prop type="score-hunalign">6.28947</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_en.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/spk_annual_report_2013_eng_enkeltsider.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_en.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_en.pdf.converted</prop>
+     <seg>The Pension Scheme for the Pharmacy Sector | Annual report 2014</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/publikasjoner/p012_bm.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p036_bm.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_2013.pdf.converted</prop>
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/p031_bm.pdf.converted</prop>
+     <seg>Pensjonsordningen for apotekvirksomhet | &#197;rsrapport 2014</seg>
+    </tuv>
+   </tu>
+   <tu tuid="192" datatype="Text">
+    <prop type="score-hunalign">1.14214</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa_annual-report-2010.pdf.converted</prop>
+     <seg>Members, contributions and benefit payments</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://spk.no/globalassets/poa/arsberetninger/poa-arsberetning-2010_endelig.pdf.converted</prop>
+     <seg>forhold til den totale forvaltningskapitalen.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

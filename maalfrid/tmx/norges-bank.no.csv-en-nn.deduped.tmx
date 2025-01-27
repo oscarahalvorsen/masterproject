@@ -1,0 +1,186 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T171320" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.64545</prop>
+    <prop type="score-bicleaner">0.559</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/form_money_laudering_may2014.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/form_money_laudering_may2014.pdf.converted</prop>
+     <seg>(If not, answer questions 3.1 and 3.2)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <seg>(Dersom nei, svar p&#229; sp&#248;rsm&#229;l 3.1 og 3.2)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.105</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/staff-memo/2008/staff_memo_2008_04.pdf?v=03/09/2017122429&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/staff-memo/2008/staff_memo_2008_04.pdf?v=03/09/2017122429&amp;ft=.pdf.converted</prop>
+     <seg>The monthly indicator models predict</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/e9747d3521244af8b60e770bb63c9bc9/aktuell_kommentar_1_2014.pdf?v=03/09/2017123524&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/e9747d3521244af8b60e770bb63c9bc9/aktuell_kommentar_1_2014.pdf?v=03/09/2017123524&amp;ft=.pdf.converted</prop>
+     <seg>til uro for deflasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.28537</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/form_money_laudering_may2014.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/form_money_laudering_may2014.pdf.converted</prop>
+     <seg>The above information is confirmed (date/signature of authorised person at delivering bank):</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <seg>Stadfesting av opplysningane over (dato / signatur fr&#229; person med fullmakt hos innleverande bank):</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">3</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/8738cba199014659a9f5a3bb2356ffae/christiano.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/8738cba199014659a9f5a3bb2356ffae/christiano.pdf.converted</prop>
+     <seg>in Gilchrist and Zakraj&#246;ek (2012) (GZ).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/1670fa57807d4c09b1b4e03c3f1b7eac/nb_memo_1_14_2_no.pdf?v=03/09/2017123526&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/1670fa57807d4c09b1b4e03c3f1b7eac/nb_memo_1_14_2_no.pdf?v=03/09/2017123526&amp;ft=.pdf.converted</prop>
+     <seg>2012 omfattar berre bruk av f&#248;rehandsbetalte kort i EFTPOS-terminalar som ak&#173;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.264</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/3fba8b3a3432407d929ae9218db1ffc4/03_grossman_and_rockoff_2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/3fba8b3a3432407d929ae9218db1ffc4/03_grossman_and_rockoff_2014.pdf.converted</prop>
+     <seg>facts, and bank regulation.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/4716368f47354bd8a3a0c392a4dd59b6/nb_memo_1_19.pdf?v=05/22/2019103503&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/4716368f47354bd8a3a0c392a4dd59b6/nb_memo_1_19.pdf?v=05/22/2019103503&amp;ft=.pdf.converted</prop>
+     <seg>I prosent av overf&#248;ringsbel&#248;p.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.07714</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/form_money_laudering_may2014.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/form_money_laudering_may2014.pdf.converted</prop>
+     <seg>the Money Laundering Act have been carried out, and that Norges Bank can redeem the notes?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <seg>kvitvaskingslova er utf&#248;rde, og at Noregs Bank kan l&#248;yse inn setlane?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.08417</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/economic_bulletin/2004-01/gjedrem_2004.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/economic_bulletin/2004-01/gjedrem_2004.pdf.converted</prop>
+     <seg>period of time and that these adjustments will encom-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/acf2fe440bc6483393bda6d66acc29fa/nb_memo_2_18.pdf?v=05/24/2018084221&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/acf2fe440bc6483393bda6d66acc29fa/nb_memo_2_18.pdf?v=05/24/2018084221&amp;ft=.pdf.converted</prop>
+     <seg>prosent av transaksjonane og omsetninga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">4.07818</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/form_money_laudering_may2014.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/form_money_laudering_may2014.pdf.converted</prop>
+     <seg>(If not, go directly to question 4)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/sedler-og-mynter/skjema_banker_hvitvasking_nynorsk_mai2014.pdf.converted</prop>
+     <seg>(Dersom nei, g&#229; direkte til sp&#248;rsm&#229;l 4)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.75099</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/1670fa57807d4c09b1b4e03c3f1b7eac/charts_nb_memo_1_14_engelsk.pdf?v=03/09/2017123516&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/1670fa57807d4c09b1b4e03c3f1b7eac/charts_nb_memo_1_14_engelsk.pdf?v=03/09/2017123516&amp;ft=.pdf.converted</prop>
+     <seg>1 The figures for POS cash withdrawals up to 2006 are estimated by Nets (previously BBS) and Norges Bank.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/1670fa57807d4c09b1b4e03c3f1b7eac/nb_memo_1_14_figurar_no.pdf?v=03/09/2017123522&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/1670fa57807d4c09b1b4e03c3f1b7eac/nb_memo_1_14_figurar_no.pdf?v=03/09/2017123522&amp;ft=.pdf.converted</prop>
+     <seg>1 Tala for kontantuttak ved varekj&#248;p fram til 2006 er baserte p&#229; overslag fr&#229; Nets (tidlegare BBS) og Noregs Bank.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.04</prop>
+    <prop type="score-bicleaner">0.561</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/3fba8b3a3432407d929ae9218db1ffc4/03_grossman_and_rockoff_2014.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/3fba8b3a3432407d929ae9218db1ffc4/03_grossman_and_rockoff_2014.pdf.converted</prop>
+     <seg>see, the best existing candidate.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/4716368f47354bd8a3a0c392a4dd59b6/nb_memo_1_19.pdf?v=05/22/2019103503&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/4716368f47354bd8a3a0c392a4dd59b6/nb_memo_1_19.pdf?v=05/22/2019103503&amp;ft=.pdf.converted</prop>
+     <seg>Verdien av setlar og myntar i oml&#248;p.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">3.89412</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/1670fa57807d4c09b1b4e03c3f1b7eac/charts_nb_memo_1_14_engelsk.pdf?v=03/09/2017123516&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/1670fa57807d4c09b1b4e03c3f1b7eac/charts_nb_memo_1_14_engelsk.pdf?v=03/09/2017123516&amp;ft=.pdf.converted</prop>
+     <seg>From 2006 the figures include only registered withdrawals.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.norges-bank.no/contentassets/1670fa57807d4c09b1b4e03c3f1b7eac/nb_memo_1_14_figurar_no.pdf?v=03/09/2017123522&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/contentassets/1670fa57807d4c09b1b4e03c3f1b7eac/nb_memo_1_14_figurar_no.pdf?v=03/09/2017123522&amp;ft=.pdf.converted</prop>
+     <seg>Fr&#229; og med 2006 gjeld tala berre registrerte kontantuttak.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.63333</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.norges-bank.no/globalassets/upload/publikasjoner/economic_bulletin/2004-01/hele_heftet.pdf.converted</prop>
+     <prop type="source-document">https://www.norges-bank.no/globalassets/upload/publikasjoner/economic_bulletin/2004-01/hele_heftet.pdf.converted</prop>
+     <seg>To sum up:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.norges-bank.no/contentassets/b633cbc4154540abab705d622eefe52f/nb_memo_2_2017.pdf?v=05/16/2017163134&amp;ft=.pdf.converted</prop>
+     <prop type="source-document">http://www.norges-bank.no/contentassets/b633cbc4154540abab705d622eefe52f/nb_memo_2_2017.pdf?v=05/16/2017163134&amp;ft=.pdf.converted</prop>
+     <seg>Prisane er inn-</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

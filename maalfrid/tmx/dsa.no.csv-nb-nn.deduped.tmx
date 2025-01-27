@@ -1,0 +1,604 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T064403" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">3.02727</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>exposure to Non-Ionizing Radiation&#187; fra Den Interna-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>exposure to Non-Ionizing Radiation&#187; fr&#229; den interna-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.69492</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/skjemaer/_/attachment/inline/a376d22d-1fec-4637-a5ab-f0014a3302cf:1b0eeda8d83e7d2682f1e3567b2e1bcb0b78a126/S%C3%B8knad%20om%20godkjenning%20etter%20bokstav%20B-Bestr%C3%A5lingsanlegg%20KOMPLETT.pdf.converted</prop>
+     <seg>Er det gjort risikovurdering for brukerne av bestr&#229;lingsanlegget?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/skjemaer/_/attachment/inline/49fe6c34-9332-4d42-abb1-0c443f648aac:e5dd6d4e7a7950068d9a59f286c07289416b70e1/S%C3%B8knad%20om%20godkjenning%20etter%20bokstav%20B-Bestr%C3%A5lingsanlegg%20NYN-KOMPLETT.pdf.converted</prop>
+     <seg>Er det gjort risikovurdering for brukarane av bestr&#229;lingsanlegget?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.95498</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Plakat%20atomulykke.pdf.converted</prop>
+     <seg>F&#248;lg med p&#229; radio, tv eller Internett for &#229; f&#229; oppdatert informasjon om myndighetenes r&#229;d.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Hvordan%20beskytte%20seg%20nynorsk.pdf.converted</prop>
+     <seg>F&#248;lg med p&#229; radio, tv eller internett for &#229; f&#229; oppdatert informasjon om r&#229;d fr&#229; myndigheitene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.65714</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://ems.dsa.no/</prop>
+     <seg>Det er Holte AS som drifter meldesystemet for Direktoratet for str&#229;levern og atomsikkerhet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://ems.dsa.no/</prop>
+     <seg>Det er Holte AS som driftar meldesystemet for Direktoratet for str&#229;levern og atomtryggleik</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.20909</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>tiske b&#248;lgene har s&#229; lav energi at de ikke kan &#171;sparke</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>magnetiske b&#248;lgene har s&#229; l&#229;g energi at dei ikkje kan</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.2625</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>I dagliglivet vil ingen bli</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>I dagleglivet vil ingen bli ek-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.98701</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>gjelder for voksne og barn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>gjeld for vaksne og barn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.288</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>ved ikke-ioniserende str&#229;ling basert p&#229; vitenskapelige</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>ved ikkje-ioniserande str&#229;ling basert p&#229; vitskaplege</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.0079</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>Lavfrekvente elektromagnetiske felt er definert som</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>L&#229;gfrekvente elektromagnetiske felt er definerte som</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Plakat%20atomulykke.pdf.converted</prop>
+     <seg>Hold deg innend&#248;rs</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Hvordan%20beskytte%20seg%20nynorsk.pdf.converted</prop>
+     <seg>Hald deg innand&#248;rs</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.79302</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>Dette ble starten p&#229; en rekke befolkningsstudier</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>Dette blei starten p&#229; ei rekke befolkningsstudiar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.58571</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>Den vanligste eksponeringen for lavfrekvente elektro-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>Den vanlegaste eksponeringa for l&#229;gfrekvente elektro-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.37692</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Plakat%20atomulykke.pdf.converted</prop>
+     <seg>Hva kan du gj&#248;re for &#229; beskytte deg ved en atomulykke?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Hvordan%20beskytte%20seg%20nynorsk.pdf.converted</prop>
+     <seg>Kva kan du gjere for &#229; beskytte deg ved ei atomulykke?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.15</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/850e47e6-6f6a-49d4-a82f-15c2b3155659:42b7908fe07ea76ab5ea1147fe56b1f7d94634d6/StralevernInfo_8_2012.pdf.converted</prop>
+     <seg>ble gjort tilgjengelige og luftoverv&#229;kningen i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/6a2e44f0-c3c0-4c4b-ac0e-acff48868921:2a4920ea66381ffa07288ee26672f5ea912bfc80/StralevernInfo_10-12.pdf.converted</prop>
+     <seg>tablettar vart gjort tilgjengelege og luftover-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.39333</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>der forskere fors&#248;kte &#229; avdekke om det virkelig var en</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>der forskarar fors&#248;kte &#229; avdekke om det verkeleg var</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.65197</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Plakat%20atomulykke.pdf.converted</prop>
+     <seg>Bruk sjampo, men ikke balsam som kan feste forurensningen til h&#229;ret.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Hvordan%20beskytte%20seg%20nynorsk.pdf.converted</prop>
+     <seg>Bruk sjampo, men ikkje balsam som kan feste forureininga til h&#229;ret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.56071</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>Det vil si at de elektromagne-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>Det vil seie at dei elektro-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.09155</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre2DSA.pdf.converted</prop>
+     <seg>Flere barn har f&#229;tt alvorlige og uopprettelige &#248;yeskader etter lek med slik laser.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre_nyn%20DSA.pdf.converted</prop>
+     <seg>Fleire barn har f&#229;tt alvor-lege og ubotelege augeskadar etter leik med slik laser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.78364</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Plakat%20atomulykke.pdf.converted</prop>
+     <seg>Innend&#248;rsopphold reduserer hvor mye str&#229;ling du utsettes for.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Hvordan%20beskytte%20seg%20nynorsk.pdf.converted</prop>
+     <seg>Innand&#248;rsopphald reduserer kor mykje str&#229;ling du vert utsett for.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.06601</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Plakat%20atomulykke.pdf.converted</prop>
+     <seg>frukt og gr&#248;nnsaker fra egen hage og vann fra cisterne, samt mat som du sanker selv som vilt, ferskvannsfisk, sopp og b&#230;r.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Hvordan%20beskytte%20seg%20nynorsk.pdf.converted</prop>
+     <seg>frukt og gr&#248;nsaker fr&#229; eigen hage og vatn fr&#229; cisterne, i tillegg til mat du sankar sj&#248;lv som vilt, ferskvassfisk, sopp og b&#230;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.63333</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>magnetfelt over 0,4 &#181;T m&#229;lt som gjennomsnitt over</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>magnetfelt over 0,4 uT m&#229;lt som gjennomsnitt over</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.475</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>mens andre studier kunne ikke utelukke at det var en</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>mens andre studiar ikkje kunne utelate at det var ein</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.16196</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>Det er ikke dokumentert noen negative helseeffekter</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>Det er ikkje dokumentert nokon negative helseeffektar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.02857</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/850e47e6-6f6a-49d4-a82f-15c2b3155659:42b7908fe07ea76ab5ea1147fe56b1f7d94634d6/StralevernInfo_8_2012.pdf.converted</prop>
+     <seg>Som en f&#248;lge av ulykken ble store</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/6a2e44f0-c3c0-4c4b-ac0e-acff48868921:2a4920ea66381ffa07288ee26672f5ea912bfc80/StralevernInfo_10-12.pdf.converted</prop>
+     <seg>Som ei f&#248;lgje av ulykka, vart store</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.63925</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/skjemaer/_/attachment/inline/de706a04-b6bd-4478-bda1-721798f0f2be:06b6f61d9261a72b9b72570882c79eee80e332d9/S%C3%B8knad%20tilskuddsordningen%202021.docx.converted</prop>
+     <seg>Overhead &#8211; kostnader ved bruk av lokaler, arbeidssted/ arbeidsplass, utstyr og drift av kontoret per &#229;rsverk i virksomheten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/skjemaer/_/attachment/inline/f219f59f-cdc3-4e3e-ba92-145ab153329d:d38dcc00001da92b6dd8b01670892758ae476899/Tilskuddsforvaltninga_Soknadsskjema_NN.docx.converted</prop>
+     <seg>Overhead &#8211; kostnadar ved bruk av lokalar, arbeidsstad/arbeidsplass, utstyr og drift av kontoret per &#229;rsverk i verksemda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.78929</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre2DSA.pdf.converted</prop>
+     <seg>Farlig laser kan se ut som penner</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre_nyn%20DSA.pdf.converted</prop>
+     <seg>Farleg laser kan sj&#229; ut som pennar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.63333</prop>
+    <prop type="score-bicleaner">0.531</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/skjemaer/_/attachment/inline/a376d22d-1fec-4637-a5ab-f0014a3302cf:1b0eeda8d83e7d2682f1e3567b2e1bcb0b78a126/S%C3%B8knad%20om%20godkjenning%20etter%20bokstav%20B-Bestr%C3%A5lingsanlegg%20KOMPLETT.pdf.converted</prop>
+     <seg>Har personalet som utf&#248;rer bestr&#229;lingsarbeid tilstrekkelig oppl&#230;ring?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/skjemaer/_/attachment/inline/49fe6c34-9332-4d42-abb1-0c443f648aac:e5dd6d4e7a7950068d9a59f286c07289416b70e1/S%C3%B8knad%20om%20godkjenning%20etter%20bokstav%20B-Bestr%C3%A5lingsanlegg%20NYN-KOMPLETT.pdf.converted</prop>
+     <seg>Har personalet som utf&#248;rer bestr&#229;lingsarbeid tilstrekkeleg oppl&#230;ring?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.43146</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre2DSA.pdf.converted</prop>
+     <seg>Sterke eller ukjente laserpekere b&#248;r leveres til en returordning for elektrisk materiell.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre_nyn%20DSA.pdf.converted</prop>
+     <seg>Sterke eller ukjente laserpeikarar b&#248;r leverast til ei returordning for elektrisk materiell.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.94278</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre2DSA.pdf.converted</prop>
+     <seg>Enkelte har mistet skarp-synet slik at de ikke lengre kan fokusere blikket p&#229; skriften i en bok, p&#229; veien n&#229;r de sykler eller se ballen i et ballspill.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre_nyn%20DSA.pdf.converted</prop>
+     <seg>Enkelte har mista skarpsynet slik at dei ikkje lenger kan fokusere blikket p&#229; skrifta i ei bok, p&#229; vegen n&#229;r dei syklar eller sj&#229; ballen i eit ballspel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.79143</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/850e47e6-6f6a-49d4-a82f-15c2b3155659:42b7908fe07ea76ab5ea1147fe56b1f7d94634d6/StralevernInfo_8_2012.pdf.converted</prop>
+     <seg>tilf&#248;rt store mengder havvann for &#229; kj&#248;le</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/6a2e44f0-c3c0-4c4b-ac0e-acff48868921:2a4920ea66381ffa07288ee26672f5ea912bfc80/StralevernInfo_10-12.pdf.converted</prop>
+     <seg>store mengder med havvatn for &#229; kj&#248;le ned</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.78784</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/skjemaer/_/attachment/inline/a376d22d-1fec-4637-a5ab-f0014a3302cf:1b0eeda8d83e7d2682f1e3567b2e1bcb0b78a126/S%C3%B8knad%20om%20godkjenning%20etter%20bokstav%20B-Bestr%C3%A5lingsanlegg%20KOMPLETT.pdf.converted</prop>
+     <seg>Er instrukser og prosedyrer oppdatert og i henhold til kravene i str&#229;levernforskriften?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/skjemaer/_/attachment/inline/49fe6c34-9332-4d42-abb1-0c443f648aac:e5dd6d4e7a7950068d9a59f286c07289416b70e1/S%C3%B8knad%20om%20godkjenning%20etter%20bokstav%20B-Bestr%C3%A5lingsanlegg%20NYN-KOMPLETT.pdf.converted</prop>
+     <seg>Er instruksar og prosedyrar oppdatert og i samsvar med krava i str&#229;levernforskrifta?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">2.53846</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_mai19.pdf.converted</prop>
+     <seg>Trekk ut 2,5 ml av l&#248;sningen med</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_nynorsk_mai19.pdf.converted</prop>
+     <seg>Trekk ut 2,5 ml av l&#248;ysinga med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.39412</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>str&#229;ling, slik som str&#229;ling fra radioaktive kilder og r&#248;nt-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>rande str&#229;ling, slik som str&#229;ling fr&#229; radioaktive kjelder</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.9539</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>magnetiske felt i befolkningen kommer fra str&#248;mnettet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>magnetiske felt i befolkninga kjem fr&#229; straumnettet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>sjonale kommisjonen for beskyttelse mot ikke-ioni-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>sjonale kommisjonen for vern mot ikkje-ioniserande</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">3.10386</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Plakat%20atomulykke.pdf.converted</prop>
+     <seg>Jodtabletter skal du kun ta etter r&#229;d fra myndig- hetene, og det vil bare v&#230;re n&#248;dvendig for barn under 18 &#229;r, voksne 18&#8211;40 &#229;r, gravide og ammende.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/hva-kan-jeg-gjore/Hvordan%20beskytte%20seg%20nynorsk.pdf.converted</prop>
+     <seg>Jodtablettar skal du berre ta etter r&#229;d fr&#229; myn-digheitene, og det vil berre vere n&#248;dvendig for born under 18 &#229;r, vaksne 18-40 &#229;r, gravide og ammande.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.29455</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/skjemaer/_/attachment/inline/a376d22d-1fec-4637-a5ab-f0014a3302cf:1b0eeda8d83e7d2682f1e3567b2e1bcb0b78a126/S%C3%B8knad%20om%20godkjenning%20etter%20bokstav%20B-Bestr%C3%A5lingsanlegg%20KOMPLETT.pdf.converted</prop>
+     <seg>Er det gjort risikovurdering med hensyn p&#229; tyveri og sabotasje?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/skjemaer/_/attachment/inline/49fe6c34-9332-4d42-abb1-0c443f648aac:e5dd6d4e7a7950068d9a59f286c07289416b70e1/S%C3%B8knad%20om%20godkjenning%20etter%20bokstav%20B-Bestr%C3%A5lingsanlegg%20NYN-KOMPLETT.pdf.converted</prop>
+     <seg>Er det gjort risikovurdering med omsyn til tjuveri og sabotasje?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.79362</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>organisasjon) og ILO (Den internasjonale arbeidsorgani- har ikke avdekket noen sammenheng mellom ekspone-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>ganisasjon) og ILO (Den internasjonale arbeidsorganisa- ikkje avdekt nokon samanheng mellom eksponering for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.99714</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>eksponert for verdier n&#230;r grenseverdien.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>sponert for verdiar n&#230;r grenseverdien.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.39037</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_mai19.pdf.converted</prop>
+     <seg>Til barn gis samme dose uavhengig om barnet ammes eller ikke.Det er normalt ikke behov for &#229; unders&#248;ke barnet hos lege etter &#229; ha gitt jod, men er du i tvil om barnets helsetilstand skal du opps&#248;ke fastlege.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_nynorsk_mai19.pdf.converted</prop>
+     <seg>Til barn gir ein den same dosen uavhengig om barnet blir amma eller ikkje.Det er normalt ikkje n&#248;dvendig &#229; unders&#248;ke barnet hos lege etter &#229; ha gitt jod, men er du i tvil om helsetilstanden til barnet, skal du opps&#248;ke fast- lege.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.96028</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>Mye av bekymringen folk har til elektromagnetiske felt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>Mykje av den uroa folk har knytt til elektromagnetiske</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre2DSA.pdf.converted</prop>
+     <seg>Informasjon til foreldre og foresatte</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre_nyn%20DSA.pdf.converted</prop>
+     <seg>Informasjon til foreldre og f&#248;resette</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.54189</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_mai19.pdf.converted</prop>
+     <seg>Bruk spr&#248;yte til &#229; m&#229;le opp (hvis du ikke har</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_nynorsk_mai19.pdf.converted</prop>
+     <seg>Bruk spr&#248;yte til &#229; m&#229;le opp (viss du ikkje har</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.1462</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre2DSA.pdf.converted</prop>
+     <seg>Laserpekere er ikke leket&#248;y. Direktoratet for str&#229;levern og atomsikkerhet (DSA) advarer mot &#229; la barn og unge bruke sterke laserpekere.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre_nyn%20DSA.pdf.converted</prop>
+     <seg>Laserpeikarar er ikkje leiket&#248;y, og Direktoratet for str&#229;levern og atomtryggleik (DSA) &#229;tvarar mot &#229; la barn og unge bruke sterke laserpeikarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.21673</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre2DSA.pdf.converted</prop>
+     <seg>Hvis du vet eller tror at barnet ditt eier en laserpeker b&#248;r du sjekke oppgitt styrke og eventuelt ta ut batteriet og &#248;delegge batterikassen s&#229; pekeren ikke kan misbrukes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/laser-og-lys/laserpekere/Laserskriv_foreldre_nyn%20DSA.pdf.converted</prop>
+     <seg>Dersom du veit eller trur at barnet ditt eig ein laserpeikar, b&#248;r du sjekke oppgitt styrke og eventuelt ta ut batteriet og &#248;ydeleggje batterikassa s&#229; peikaren ikkje kan misbrukast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.00829</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/5104ac6c-5cbf-4c57-a235-329b22f31aa6:72909ecc890189cc40fa7fc6e14a8499f55e1604/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider.pdf.converted</prop>
+     <seg>Det finnes internasjonale retningslinjer og grensever-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/straum-og-hogspent/_/attachment/download/c4ad907b-185c-46c7-ba34-1304d9eb36b5:9ecdca898cb181560ddd0e3f2e8792912e3e67d2/Bolig%20n%C3%A6r%20h%C3%B8yspenningsanlegg_enkeltsider_nyn.pdf.converted</prop>
+     <seg>Det finst internasjonale retningslinjer og grenseverdi-</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,292 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T171058" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.48187</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nibio.no/nyheter/the-survival-of-species-suddenly-looks-better</prop>
+     <seg>&#8220;This phenomenon has great importance for the discussion around climate change.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/nyheter/celina-skal-redde-norske-prer</prop>
+     <seg>Blir det vellukka, er det rom for meir, sl&#229;r Hammervoll fast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.03889</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/about-eng/addresses/ullensvang</prop>
+     <seg>Field trials and land resources</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/om-nibio/adresser/ullensvang</prop>
+     <seg>Fors&#248;ksfelt og jordressursar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.01341</prop>
+    <prop type="score-bicleaner">0.519</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/projects/replacement-of-contentious-inputs-in-organic-farming-systems-relacs/vitamins</prop>
+     <seg>Revise and adapt the nutritional requirements for vitamin E in ruminants for organic on production systems</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/prosjekter/replacement-of-contentious-inputs-in-organic-farming-systems-relacs-copy/vitaminer</prop>
+     <seg>Revidere og tilpasse behovet for tilskot av E vitamin til dr&#248;vtyggarar i &#248;kologisk produksjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.96862</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/about-eng/addresses/ullensvang</prop>
+     <seg>In one of the fields, there are 9 tunnels suitable for studies under controlled conditions, whilst another field is protected against precipitation and insects using the Voen system.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/om-nibio/adresser/ullensvang</prop>
+     <seg>P&#229; eit av fors&#248;ksfelta er det 9 tunnellar som eignar seg for kontrollerte feltfors&#248;k, eit anna er dekka av Voen-system mot nedb&#248;r og insekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.13143</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nibio.no/en/projects/barkcure/newsletters/_/attachment/inline/dca8ddf4-73ba-40f5-a8fd-c22cf550ff7a:b27751a98a17827a94481436cbfbf94d07c9732b/Barkcure%20Nov%202017%20ENG%20web.pdf.converted</prop>
+     <seg>industrial wood protection and testing and</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nibio.no/prosjekter/barkcure/ap5-formidling/_/attachment/inline/f732d9e7-f451-469e-bd14-c00954253800:f8cf63ec20312cef228f389924ce10e3fcd40a91/Barkcure%20Nov%202017%20NO%20web.pdf.converted</prop>
+     <seg>tin S&#248;rheim har ansvar for formidling og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.05877</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/about-eng/addresses/ullensvang</prop>
+     <seg>Amongst other important partners are Hordaland Fylkeskommune, Fylkesmannen in Hordaland, University of Bergen, NOFIMA, NIFES, Vestlandsforsking, NMBU, other NIBIO stations as well as several international research institutions.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/om-nibio/adresser/ullensvang</prop>
+     <seg>Vidare er mellom anna Hordaland Fylkeskommune, Fylkesmannen i Hordaland, Universitetet i Bergen, NOFIMA, NIFES, Vestlandsforsking, NMBU, andre NIBIO stasjonar og fleire utanlandske forskingsinstitusjonar viktige samarbeidspartar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.11964</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://gitlab.nibio.no/VIPS/VIPSWeb/-/raw/3d438090231670e233238a1b5c5535cbeb07a848/VIPSWeb/locale/vi/LC_MESSAGES/django.po</prop>
+     <seg>#~ msgid "Working title"</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nibio.no/prosjekter/barkcure/ap5-formidling/_/attachment/inline/f732d9e7-f451-469e-bd14-c00954253800:f8cf63ec20312cef228f389924ce10e3fcd40a91/Barkcure%20Nov%202017%20NO%20web.pdf.converted</prop>
+     <seg>n&#230;ring, f&#248;rebyggjande tiltak og robuste</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.00556</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/about-eng/addresses/ullensvang</prop>
+     <seg>Networks and cooperation partners</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/om-nibio/adresser/ullensvang</prop>
+     <seg>Nettverk og samarbeidspartar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.04605</prop>
+    <prop type="score-bicleaner">0.551</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/projects/replacement-of-contentious-inputs-in-organic-farming-systems-relacs/vitamins</prop>
+     <seg>Here, a critical situation emerges for supplying organic livestock with B-Vitamins.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/prosjekter/replacement-of-contentious-inputs-in-organic-farming-systems-relacs-copy/vitaminer</prop>
+     <seg>Det har oppst&#229;tt ein kritisk situasjon for forsyninga av B vitamin til &#248;kologiske husdyr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.12987</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nibio.no/en/projects/barkcure/newsletters/_/attachment/inline/dca8ddf4-73ba-40f5-a8fd-c22cf550ff7a:b27751a98a17827a94481436cbfbf94d07c9732b/Barkcure%20Nov%202017%20ENG%20web.pdf.converted</prop>
+     <seg>research in grassland management, rumi-</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nibio.no/prosjekter/barkcure/ap5-formidling/_/attachment/inline/f732d9e7-f451-469e-bd14-c00954253800:f8cf63ec20312cef228f389924ce10e3fcd40a91/Barkcure%20Nov%202017%20NO%20web.pdf.converted</prop>
+     <seg>og dyrevelferd er ogs&#229; eit strategisk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.50171</prop>
+    <prop type="score-bicleaner">0.579</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/about-eng/addresses/ullensvang</prop>
+     <seg>Research and development (R&amp;D)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/om-nibio/adresser/ullensvang</prop>
+     <seg>Forsking og utvikling (FoU)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.53102</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/about-eng/addresses/ullensvang</prop>
+     <seg>NIBIO Ullensvang lies in Norway&#8217;s largest top fruit district, Lofthus beside S&#248;rfjorden in the inner part of Hardanger.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/om-nibio/adresser/ullensvang</prop>
+     <seg>NIBIO Ullensvang ligg i landets st&#248;rste fruktbygd, Lofthus ved S&#248;rfjorden i Indre Hardanger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nibio.no/en/projects/barkcure/newsletters/_/attachment/inline/dca8ddf4-73ba-40f5-a8fd-c22cf550ff7a:b27751a98a17827a94481436cbfbf94d07c9732b/Barkcure%20Nov%202017%20ENG%20web.pdf.converted</prop>
+     <seg>Blomstrand is employed by NORS&#216;K and will</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nibio.no/prosjekter/barkcure/ap5-formidling/_/attachment/inline/f732d9e7-f451-469e-bd14-c00954253800:f8cf63ec20312cef228f389924ce10e3fcd40a91/Barkcure%20Nov%202017%20NO%20web.pdf.converted</prop>
+     <seg>Blomstrand er tilsett som stipendiat hos</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.15526</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/about-eng/addresses/ullensvang</prop>
+     <seg>The most important R&amp;D-challenges today are related to soil management and plant nutrition, fruit varieties, tree shaping and thinning, storage methods, organic fruit growing, processing of fruit for beverages, genetic studies, pollination and effective and environment-friendly control of insect damage and fungal diseases.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/om-nibio/adresser/ullensvang</prop>
+     <seg>I dag er dei viktigaste FoU-oppg&#229;vene knytt til jord og gj&#248;dsling, fruktsortar, treforming og tynning, lagringsmetodar, &#248;kologisk fruktdyrking, foredling av frukt til drikke, genetiske studiar, pollinering og effektiv og milj&#248;vennleg kontroll av skadeinsekt og soppsjukdomar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.19721</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/projects/replacement-of-contentious-inputs-in-organic-farming-systems-relacs/vitamins</prop>
+     <seg>Nowadays, GMO-free yeast products have become scarce, expensive and are exclusively available from overseas, namely for B2 and B12.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/prosjekter/replacement-of-contentious-inputs-in-organic-farming-systems-relacs-copy/vitaminer</prop>
+     <seg>I dag har produksjonen av B2 og B12 produkt, utan bruk av gen-modifiserte mikroorganismar, blitt knapp og dyr, og de blir ikkje produsert i Europa.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.296</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/projects/replacement-of-contentious-inputs-in-organic-farming-systems-relacs/vitamins</prop>
+     <seg>Develop efficient production technologies for vitamin B2 by GMO-free yeast strains</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/prosjekter/replacement-of-contentious-inputs-in-organic-farming-systems-relacs-copy/vitaminer</prop>
+     <seg>Utvikle effektiv produksjonsteknologi for B2 vitamin ved hjelp av GMOfrie gj&#230;rstammar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.04063</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/projects/replacement-of-contentious-inputs-in-organic-farming-systems-relacs/vitamins</prop>
+     <seg>Revise the nutritional requirements for B-vitamins in organic poultry</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/prosjekter/replacement-of-contentious-inputs-in-organic-farming-systems-relacs-copy/vitaminer</prop>
+     <seg>Revidere behovet for tilskot av B vitamin til fj&#248;rfe i &#248;kologisk produksjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.08564</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/about-eng/addresses/ullensvang</prop>
+     <seg>A new building from 1999 houses both chemistry and biology laboratories equipped with instrumentation for chemical analysis of fruit quality, magnifiers and microscopes and PCR, and with capabilities for controlled experiments with insects and fungal diseases.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/om-nibio/adresser/ullensvang</prop>
+     <seg>Driftsbygningen er fr&#229; 1999 og rommar b&#229;de biologisk og kjemisk laboratorium med utstyr for kjemiske analysar av fruktkvalitet, luper og mikroskop, PCR utstyr og moglegheit for kontrollerte fors&#248;k med insekt og soppsjukdomar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.69355</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/about-eng/addresses/ullensvang</prop>
+     <seg>The advisory service NLR Vest rents office space at NIBIO Ullensvang for three of their employees.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/om-nibio/adresser/ullensvang</prop>
+     <seg>NLR Vest leiger kontorplass for tre medarbeidarar p&#229; NIBIO Ullensvang.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.44231</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nibio.no/en/projects/barkcure/newsletters/_/attachment/inline/dca8ddf4-73ba-40f5-a8fd-c22cf550ff7a:b27751a98a17827a94481436cbfbf94d07c9732b/Barkcure%20Nov%202017%20ENG%20web.pdf.converted</prop>
+     <seg>communication of project results.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nibio.no/prosjekter/barkcure/ap5-formidling/_/attachment/inline/f732d9e7-f451-469e-bd14-c00954253800:f8cf63ec20312cef228f389924ce10e3fcd40a91/Barkcure%20Nov%202017%20NO%20web.pdf.converted</prop>
+     <seg>kommunikasjon i prosjektet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.4821</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://nibio.no/en/about-eng/addresses/ullensvang</prop>
+     <seg>The original building from 1960 has been refurbished over the years and contains today offices, library, meeting rooms and a canteen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://nibio.no/om-nibio/adresser/ullensvang</prop>
+     <seg>Kontorbygningen fr&#229; 1960 er fornya og utvida i fleire omgangar og inneheld i dag kontor, bibliotek, m&#248;terom og kantine.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.14048</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nibio.no/en/projects/barkcure/newsletters/_/attachment/inline/dca8ddf4-73ba-40f5-a8fd-c22cf550ff7a:b27751a98a17827a94481436cbfbf94d07c9732b/Barkcure%20Nov%202017%20ENG%20web.pdf.converted</prop>
+     <seg>several lifecycle stages of the parasites.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nibio.no/prosjekter/barkcure/ap5-formidling/_/attachment/inline/f732d9e7-f451-469e-bd14-c00954253800:f8cf63ec20312cef228f389924ce10e3fcd40a91/Barkcure%20Nov%202017%20NO%20web.pdf.converted</prop>
+     <seg>stadium i livssyklusen til parasittane.</seg>
+    </tuv>
+   </tu>
+ </body>
+</tmx>

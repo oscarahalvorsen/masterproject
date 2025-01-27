@@ -1,0 +1,526 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T064743" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.20497</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>The Norwegian ID Centre has developed the database to simplify checking and assessing identity.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>Nasjonalt ID-senter har utviklet ID-basen for &#229; gj&#248;re det lettere &#229; kontrollere og avklare identitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.35292</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/8/om-nasjonalt-id-senter/</prop>
+     <seg>Please note that this page is not available in English Se v&#229;r video her</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2012/05/radgiving-og-oversendelse-av-enkeltsaker-til-nidny-side/</prop>
+     <seg>Please note that this page is not available in English R&#229;dgiving og oversendelse av enkeltsaker til NID</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.10602</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>Mads Osnes Jensen from Norwegian ID Centre spoke about risk analysis of the first-line ID work and how the second-line officers may use and benefit from the experiences of this in their work.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>Nasjonalt ID-senters egen Mads Odnes Jensen orienterte om risikoanalysen av f&#248;rstelinjens ID-arbeid, og hvordan andrelinjen kan benytte erfaringene herfra i sitt arbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.04161</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/5/fagdag-hos-nasjonalt-id-senter/</prop>
+     <seg>The aim of the theme day was to give document and ID experts in different agencies the opportunity to bond and exchange information on current issues, trends and experiences.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/5/fagdag-hos-nasjonalt-id-senter/</prop>
+     <seg>M&#229;let med fagdagen var &#229; la dokument- og ID-ressursene ved ulike tjenestesteder knytte kontakter og utveksle informasjon om aktuelle saker, trender og erfaringer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.98965</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/5/fagdag-hos-nasjonalt-id-senter/</prop>
+     <seg>The themes of the presentations were falsified Schengen visa and vehicle registrations (P&#228;ivi Kainaulainen, Finnmark PD), falsified documents and trends in Oslo (Marianne Sommerstad and Thomas D&#248;hli, Oslo PD), Current issues from &#216;stfold (Maj Lis Kesti and Arne Husebr&#229;ten, &#216;st PD), Falsified ducuments at Gardemoen (Vidar Rasmussen, &#216;st PD).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/5/fagdag-hos-nasjonalt-id-senter/</prop>
+     <seg>Presentasjonene tok for seg falske Schengenvisum og vognkort ved P&#228;ivi Kainulainen (Finnmark pd), Falske dokumenter og trender i Oslo ved Marianne Sommerstad og Thomas D&#248;hli (Oslo pd), aktuelle saker fra &#216;stfold ved Maj Lis Kesti og Arne Husebr&#229;ten (&#216;st pd), falske dokumenter p&#229; Gardermoen ved Vidar Rasmussen (&#216;st pd), samt syriske dokumenter og den nye Syria-h&#229;ndboken ved Ingeborg W.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.06832</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/10/nyttig-a-hospitere/</prop>
+     <seg>The ID Database is a database established by the Norwegian ID Centre to improve the work with assessing and determining identity.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/10/nyttig-a-hospitere/</prop>
+     <seg>ID-basen er en database Nasjonalt ID-senter har utviklet for &#229; lette arbeidet med kontroll og avklaring av identitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.20952</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/user-profiles/k/kjersti.harbitznidsenter.no/</prop>
+     <seg>Six weeks training at the National Document Fraud Unit, UK Border Agency.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/brukerprofiler/k/kjersti.harbitznidsenter.no/</prop>
+     <seg>Seks ukers studieopphold ved National Document Fraud Unit, UK Border Agency.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/user-profiles/k/kjersti.harbitznidsenter.no/</prop>
+     <seg>National and international cooperation within the field.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/brukerprofiler/k/kjersti.harbitznidsenter.no/</prop>
+     <seg>Nasjonalt og internasjonalt samarbeid innen fagomr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">3.735</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/5/fagdag-hos-nasjonalt-id-senter/</prop>
+     <seg>Wednesday 31 May the first Theme Day was held at the Norwegian ID centre.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/5/fagdag-hos-nasjonalt-id-senter/</prop>
+     <seg>Onsdag 31. mai arrangerte Nasjonalt ID-senter &#229;rets f&#248;rste fagdag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.99878</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2018/4/arresten-fikk-id-opplaring/</prop>
+     <seg>&#8220;We have collaborated with Norwegian ID Centre since 2015 when our very first group got their first line training.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2018/4/arresten-fikk-id-opplaring/</prop>
+     <seg>Haug sier arresten har hatt stor utbytte av kompetansen v&#229;r.&#8211; Vi har hatt et godt samarbeid med Nasjonalt ID-senter siden 2015 da den f&#248;rste puljen hos oss fikk oppl&#230;ring i f&#248;rstelinje hos dere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.06158</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2018/1/somalia-infomote/</prop>
+     <seg>The information from the report is also made available in the ID database.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2018/1/somalia-infomote/</prop>
+     <seg>Informasjonen vil ogs&#229; bli tilgjengeliggjort i ID-basen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.16842</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/10/nyttig-a-hospitere/</prop>
+     <seg>Along with colleague Malmin sha came to the Norwegian ID Centre to learn more about the ID Database.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/10/nyttig-a-hospitere/</prop>
+     <seg>Sammen med kollega Malmin kom hun til Nasjonalt ID-senter for &#229; l&#230;re mer om ID-basen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.33986</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>Janne Moen Lyng talked about the goals of the Norwegian ID Centre courses and training.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>Janne Moen Lyng orienterte deltakerne om Nasjonalt ID-senters oppl&#230;rings- og undervisningsm&#229;l fremover.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.18395</prop>
+    <prop type="score-bicleaner">0.662</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>The first speaker was Anne Karin Storhaug from the International Police Immigration Unit.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>F&#248;rst ut p&#229; talerstolen var Anne Karin Storhaug fra Politiets utlendingsenhet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.53229</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>Jon Gerhard L&#248;vendal of Southeastern Police District shared his experiences with checking Lithuanian ID documents.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>Jon Gerhard L&#248;vendal fra S&#248;r-&#216;st politidistrikt delte erfaringer og informasjon om litauiske ID-dokumenter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.1117</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>The database contains identity-related information based ordered by country and gives you access to more information regarding ID documents, personal registries, religions, languages, migration profiles and more.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>Basen inneholder identitetsrelatert informasjon basert p&#229; land, og gir deg muligheten til &#229; finne flere opplysninger om ID-dokumenter, personaliaregistre, religioner, spr&#229;k, migrasjonsprofiler og lignende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.09618</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/5/fagdag-hos-nasjonalt-id-senter/</prop>
+     <seg>In addition to the ID Centre&#8217;s own documents experts, more than 30 document experts and ID experts from the Police and The Norwegian Tax Administration were present at the event.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/5/fagdag-hos-nasjonalt-id-senter/</prop>
+     <seg>I tillegg til Nasjonalt ID-senters egne dokumentgranskere, fant mer enn 30 dokumentgranskere og ID-spesialister fra politiet og Skatteetaten veien til Nasjonalt ID-senter i dag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/10/nyttig-a-hospitere/</prop>
+     <seg>I have seen more about how extensive ID work is.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/10/nyttig-a-hospitere/</prop>
+     <seg>Vi f&#229;r et blikk p&#229; hvor sv&#230;rt ID-arbeidet er.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.01348</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/10/nyttig-a-hospitere/</prop>
+     <seg>The Norwegian ID Centre facilitates internships for players in the immigration administration, the police and other collaborators.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/10/nyttig-a-hospitere/</prop>
+     <seg>Nasjonalt ID-senter legger til rette for hospiteringsordninger for akt&#248;rene i utlendingsforvaltningen, politiet og andre samarbeidspartnere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.26702</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/services/reference-databases/prado/</prop>
+     <seg>PRADO is available to the public and aimed towards employers, postal services, banks and security companies.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/tjenester/referansedatabaser/prado/</prop>
+     <seg>PRADO er offentlig tilgjengelig og gratis &#229; bruke, og retter seg blant annet mot arbeidsgivere, postvesen, banker og sikkerhetsselskaper.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.28591</prop>
+    <prop type="score-bicleaner">0.686</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>Vidar Rasmussen works with document checking at Gardermoen Airport.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>Vidar Rasmussen fra &#216;st politidistrikt jobber med dokumentkontroll p&#229; Gardermoen flyplass.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.26294</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2018/1/somalia-infomote/</prop>
+     <seg>The trip also included a visit to the Somali embassy in Nairobi in Kenya, Somali police, local authorities of Benadir and the application and issuance offices for passport in Mogadishu.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2018/1/somalia-infomote/</prop>
+     <seg>I l&#248;pet av turen ble det ogs&#229; tid for et bes&#248;k ved den somaliske ambassaden i Nairobi, somalisk politi, lokale myndigheter i Benadir og kontorene for s&#248;knad- og utstedelse av pass i Mogadishu.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.00991</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/user-profiles/k/kjersti.harbitznidsenter.no/</prop>
+     <seg>Third line examinations of all kinds of security documents; determining genuineness, reconstructing modus operandi and identifying forgery equipment.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/brukerprofiler/k/kjersti.harbitznidsenter.no/</prop>
+     <seg>Laboratorietekniske tredjelinjeunders&#248;kelser av alle typer reise-, identitets-, underlags- og sikkerhetsdokumenter for &#229; avgj&#248;re ekthet, rekonstruere modus operandi og identifisere produksjonsutstyr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.095</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/3/focus-on-id/</prop>
+     <seg>We have for a long time been arguing for better ID assessments in the arrival phase, and we are now looking forward to seeing the results of cooperation at R&#229;de.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/11/fokus-pa-id/</prop>
+     <seg>Vi har over tid argumentert for bedre ID-vurderinger i ankomstfasen, og ser fram mot resultatene av samarbeidet p&#229; R&#229;de.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">3.29</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/user-profiles/k/kjersti.harbitznidsenter.no/</prop>
+     <seg>Completed the Norwegian ID Centre two year specialist programme in document examination the summer of 2013.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/brukerprofiler/k/kjersti.harbitznidsenter.no/</prop>
+     <seg>Fullf&#248;rte Nasjonalt ID-senters to&#229;rige spesialutdannelse innen dokumentgransking sommeren 2013.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.31452</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/services/reference-databases/edison-td/</prop>
+     <seg>The database was developed by the Dutch authorities in close co-operation with the authorities in Australia, Canada, The United States of America, The United Arab Emirates (Dubai) and Interpol.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/tjenester/referansedatabaser/edisontd/</prop>
+     <seg>Databasen er utviklet av nederlandske myndigheter i samarbeid med myndighetene i Canada, Australia, USA, De forente arabiske emirater (Dubai), Norge og med Interpol.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.03571</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>More information regarding Norwegian ID Centre&#8217;s courses and training can be found in the sections for</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>Du finner mer informasjon om Nasjonalt ID-senters kurs- og oppl&#230;ringstilbud p&#229; seksjonene for</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.19636</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/3/focus-on-id/</prop>
+     <seg>Because the most demanding part of asylum processing is the part that is ID-related.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/11/fokus-pa-id/</prop>
+     <seg>Det mest krevende i asylbehandlingen er nemlig ID-arbeidet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.95</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>Victoria S&#230;ther Miller and Vegard Pettersen of the Norwegian ID Centre reported from their fact-finding mission to Somalia last November.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>Victoria S&#230;ther Miller og Vegard Pettersen fra Nasjonalt ID-senter orienterte fra informasjonsinnhentingsreisen i Somalia i november.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.01328</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>H&#229;vard Grimsheim of the Norwegian Police Directorate presented the new Norwegian passports and ID cards, going through the essential characteristics of both.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>H&#229;vard Grindheim fra Politidirektoratet presenterte de nye norske passene og ID-kortene slik de ser ut n&#229;, og gikk gjennom noen av de sentrale elementene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">3.24098</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>33 participants from all over Norway gathered in M&#248;llergata for professional input.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>33 deltakere fra hele landet var samlet i M&#248;llergata for faglig p&#229;fyll.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.2295</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/12/fagdag-30.11.17/</prop>
+     <seg>In the Norwegian ID centre we work purposefully towards a more unified ID administration.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/12/fagdag-30.11.17/</prop>
+     <seg>Hos Nasjonalt ID-senter jobber vi m&#229;lrettet for en mer helhetlig ID-forvaltning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.3818</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2018/5/norsk-biometriforum-4.-mai-2018/</prop>
+     <seg>Other lecturers were Eivind Hoffmann from the Norwegian Immigration Directorate, Atle &#197;rnes from The Norwegian Data Protection Authority (DPA) and Bian Yang and Raghavendra Ramachandra from the Norwegian University of Science and Technology (NTNU).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2018/5/norsk-biometriforum-4.-mai-2018/</prop>
+     <seg>&#216;vrige foredragsholdere var Eivind Hoffmann fra UDI, Atle &#197;rnes fra Datatilsynet, Bian Yang fra NTNU, Raghavendra Ramachandra fra NTNU og Diane Friberg fra Idemia.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.0275</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2018/5/norsk-biometriforum-4.-mai-2018/</prop>
+     <seg>Sharing experiences - an important part of ID work</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2018/5/norsk-biometriforum-4.-mai-2018/</prop>
+     <seg>- Erfaringsutveksling viktig for ID-faget</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.45465</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/10/nyttig-a-hospitere/</prop>
+     <seg>Last winter, Lucia Yang and Ingvill Malmin from of The Norwegian Directorate of Immigration (UDI) were interns at the Norwegian ID Centre.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/10/nyttig-a-hospitere/</prop>
+     <seg>I vinter var Utlendingsdirektoratets Lucia Yang og Ingvill Malmin hospitanter hos Nasjonalt ID-senter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.85421</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/services/reference-databases/prado/</prop>
+     <seg>PRADO (Public Register of Authentic Identity and Travel Documents Online) is a website run by the Council of the European Union.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/tjenester/referansedatabaser/prado/</prop>
+     <seg>PRADO (Public Register of Authentic Identity and Travel Documents Online) er en database opprettet av Den europeiske unionens r&#229;d.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.235</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2017/5/fagdag-hos-nasjonalt-id-senter/</prop>
+     <seg>A number of &#8216;lab stations&#8217; with microscope, UV lamps, magnifiers, passport readers and reference databases had been installed for the event, and they were indeed popular.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2017/5/fagdag-hos-nasjonalt-id-senter/</prop>
+     <seg>Det var rigget opp en rekke &#171;lab-stasjoner&#187; med mikroskop, UV-lamper, luper, passleser og referansedatabaser, som ble flittig brukt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.33708</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/services/reference-databases/edison-td/</prop>
+     <seg>The content is available in Dutch, English, German, French, Spanish and Arabic.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/tjenester/referansedatabaser/edisontd/</prop>
+     <seg>Innholdet er tilgjengelig p&#229; nederlandsk, engelsk, tysk, fransk, spansk og arabisk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.20796</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/news/news-archive/2018/5/norsk-biometriforum-4.-mai-2018/</prop>
+     <seg>Last week Norwegian ID Centre was host to a new workshop established by Norwegian Biometrics Forum and European Association for Biometrics.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/aktuelt/nyhetsarkiv/2018/5/norsk-biometriforum-4.-mai-2018/</prop>
+     <seg>Nasjonalt ID-senter var i forrige uke vertskap for en ny workshop i regi av Norsk Biometriforum og European Association for Biometrics.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.02917</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nidsenter.no/en/user-profiles/k/kjersti.harbitznidsenter.no/</prop>
+     <seg>Bachelor in European studies at the University of Oslo, specializing in political science and Spanish.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.nidsenter.no/brukerprofiler/k/kjersti.harbitznidsenter.no/</prop>
+     <seg>Bachelor i Europastudier fra UiO, med fordypning i statsvitenskap og spansk spr&#229;k.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

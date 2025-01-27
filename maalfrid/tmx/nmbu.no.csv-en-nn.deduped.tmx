@@ -1,0 +1,1097 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T051248" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.9128</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Manuals for vce/pest, asreml, dmu, R (BLR), or other variance component estimation programs also are important sources of information.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Manualar for vce/pest, asreml, dmu, R (BLR), eller andre varianskomponentestimeringsprogram er &#242;g viktige kjelder for informasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.10569</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/en/news/node/29140</prop>
+     <prop type="source-document">http://www.nmbu.no/en/news/node/29140</prop>
+     <seg>The teaching model has been popular among both students and educators, and now it has won the recognition of NOKUT (the Norwegian Agency for Quality Assurance in Education).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/aktuelt/node/29131</prop>
+     <seg>Undervisingsmodellen har vore popul&#230;r blant b&#229;de studentar og undervisarar, og no har han &#242;g f&#229;tt heider fr&#229; NOKUT (Nasjonalt organ for kvalitet i utdanninga).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.78193</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>* Requirements for structure of data (to estimate g and r G and R need to span separatable linear spaces).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>* Krav til struktur i data (for &#229; estimera g og r m&#229; strukturen til G og R spenna ut ulike line&#230;re rom).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.764</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>That GLS and MME are equivalent.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>At GLS og MME er ekvivalente.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">7.48421</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2015</prop>
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2014</prop>
+     <seg>Presentation: 1 hour.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2015</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2014</prop>
+     <seg>1 time presentasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">3.47586</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>1 What is assumed known when starting the course</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>1 Kva som er rekna som kjent fr&#229; f&#248;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.03605</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/course/BIO247?studieaar=2019</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIO247?studieaar=2017</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIO247?studieaar=2016</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIO245?studieaar=2014</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIO247?studieaar=2018</prop>
+     <seg>Discussions during practicals and report writing.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIO247?studieaar=2018</prop>
+     <prop type="source-document">http://www.nmbu.no/emne/BIO247?studieaar=2019</prop>
+     <prop type="source-document">http://www.nmbu.no/emne/BIO245?studieaar=2017</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIO247?studieaar=2018</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIO247?studieaar=2019</prop>
+     <seg>Diskusjonar i samband med &#248;vingane og journalen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.12692</prop>
+    <prop type="score-bicleaner">0.519</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/13038</prop>
+     <seg>important for future income.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/7756</prop>
+     <seg>Fr&#229; seg for om dei mange spontanabortane kjem av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.14575</prop>
+    <prop type="score-bicleaner">0.511</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://static02.nmbu.no/mina/publikasjoner/mina_fagrapport/pdf/mif15.pdf.converted</prop>
+     <seg>methods adapted to management objectives that include bioenergy harvesting is to increase the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://static02.nmbu.no/mina/publikasjoner/mina_fagrapport/pdf/mif48.pdf.converted</prop>
+     <seg>Dette gjer at laksesmolten fr&#229; Stryneelva har kortopphaldstid i dei ytre delane av fjorden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.16</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/VET414?studieaar=2021</prop>
+     <seg>- Use of Excel for organizing data.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <seg>* Effektivitet, b&#229;de for menneske og for maskinar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.13251</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Curriculum partly depends on needs and wishes of the participants in the course.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Delvis avhengig av behov til og &#248;nske fr&#229; deltakarane i emnet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.26134</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/en/employees/bygdebike/node/27889</prop>
+     <prop type="source-document">https://www.nmbu.no/en/employees/bygdebike</prop>
+     <prop type="source-document">http://www.nmbu.no/en/employees/bygdebike</prop>
+     <seg>In a studentassignment from 2014, four students (Emilie Midttveit Bollingberg, Jonatan Nordang Paz, &#197;sa Haaland and David Ema) presented a business idea that involvedbuying simple bikes with app-based locks, which they called "Bygdebike".</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/om/miljoarbeidet/bygdebike</prop>
+     <prop type="source-document">https://www.nmbu.no/om/miljoarbeidet/bygdebike</prop>
+     <seg>I ei studentoppg&#229;ve fr&#229; 2014 kom fire studentar (Emilie Midttveit Bollingberg, Jonatan Nordang Paz, &#197;sa Haaland og David Ema) med ein forretningsid&#233; om &#229; kj&#248;pe inn enkle syklar med app-baserte l&#229;sar som dei kalla &#171;Bygdebike&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.4175</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/40899</prop>
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/40899</prop>
+     <seg>The findings suggest that changes in identity</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/39029</prop>
+     <seg>for ulike typar av eigarar og ikkje-eigarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.18947</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2014</prop>
+     <seg>The course consists of the following steps:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2014</prop>
+     <seg>Dr&#248;fting av tema og litteratur mellom student og rettleiar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.42227</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/40899</prop>
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/40899</prop>
+     <seg>organizations, and perhaps back again, could have generated stronger confidence in the idea that</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/39029</prop>
+     <seg>Jordpolitikk, jordskifte, matrikul&#230;rt arbeid, oreigning og offentleg planlegging og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">3.94359</prop>
+    <prop type="score-bicleaner">0.531</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/7473</prop>
+     <seg>supposed to recruit new respondents for round 2.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/34072</prop>
+     <seg>2 (i handlingssituasjonen lagar ein reglar)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/emp/solve.barug</prop>
+     <prop type="source-document">https://www.nmbu.no/emp/maria.stokstad</prop>
+     <prop type="source-document">http://www.nmbu.no/emp/knut.bjorn.stokke</prop>
+     <prop type="source-document">https://www.nmbu.no/emp/olga.mikhailova</prop>
+     <prop type="source-document">https://www.nmbu.no/emp/camilla-lorange.lindberg</prop>
+     <prop type="source-document">https://www.nmbu.no/emp/oyvind.mathisen</prop>
+     <seg>Projects &amp; research</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/med/solve.barug</prop>
+     <prop type="source-document">https://www.nmbu.no/med/olga.mikhailova</prop>
+     <prop type="source-document">https://www.nmbu.no/med/oyvind.mathisen</prop>
+     <prop type="source-document">http://www.nmbu.no/med/knut.bjorn.stokke</prop>
+     <prop type="source-document">https://www.nmbu.no/med/camilla-lorange.lindberg</prop>
+     <prop type="source-document">https://www.nmbu.no/med/maria.stokstad</prop>
+     <seg>Forsking &amp; prosjekt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.29388</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/course/BIO247?studieaar=2018</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIO247?studieaar=2017</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIO247?studieaar=2019</prop>
+     <seg>This course has teaching/evaluation in autumn parallel.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIO247?studieaar=2018</prop>
+     <prop type="source-document">http://www.nmbu.no/emne/BIO247?studieaar=2019</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIO247?studieaar=2019</prop>
+     <seg>Emnet har undervisning/vurdering i haustparallellen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.03736</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Chapter 27 in Lynch and Walsh (1998): 'Genetics and Analysis of Quantitative Traits' shows some parts of the curriculum intended.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Chapter 27 in Lynch and Walsh (1998): 'Genetics and Analysis of Quantitative Traits' viser i alle fall ein del av det som trengst som pensum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.41998</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Presentation of results of analyses in term papers (all participants).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Presentasjon av resultat av analysar i semesteroppg&#229;vene (alle deltakarane).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">3.29524</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://static02.nmbu.no/mina/ansatte/bbmons_e.php</prop>
+     <seg>MSc in Aquaculture from Norwegian University of Life Sciences, &#197;s, 2009.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://static02.nmbu.no/mina/ansatte/bbmons.php</prop>
+     <seg>Master i akvakultur, Universitetet for milj&#248;- og biovitenskap, &#197;s, 2009.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">6.12632</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>5 Choice of programming language.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>5 Val av programvare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.07381</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/43873</prop>
+     <seg>- The Student Board shall represent NMBU students and the Student Democracy up to</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/4238</prop>
+     <seg>- Det skal v&#230;re to ordningar ein for stipendiatar og ein for fast</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.275</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2015</prop>
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2014</prop>
+     <seg>b) Write a professional academic report.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2015</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2014</prop>
+     <seg>b) Skrive ei profesjonell fagleg utgreiing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.559</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Presentations for paricipants and teachers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Presentasjonar for medstudentar og l&#230;rarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.40815</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Estimation of variance components and calculations of breeding values of own, realistically big, data sets.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Estimering av varianskomponentar og utrekning av avlsverdiar for eigne, realistisk store, datasett.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.54388</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>* *With slide presentations of results (plots / graphs).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>* Med lysbildepresentasjon av resultat (plott / grafar).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.033</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/28750</prop>
+     <seg>Finally, by linking the concepts</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/7756</prop>
+     <seg>bruksretten, skogteigen &#8211; med dei &#171;fem i byen&#187;:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.38587</prop>
+    <prop type="score-bicleaner">0.531</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2015</prop>
+     <seg>Supervisor and student discuss topic and literature</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2015</prop>
+     <seg>Dr&#248;fting av tema og litteratur mellom student og rettleiar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.0956</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/emne/INN352?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/INN352</prop>
+     <seg>Stakeholders analysis and stakeholders management.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN301</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN301?studieaar=2021</prop>
+     <seg>Eksempel fr&#229; planteforedling og husdyravl.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.02997</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/en/faculty/realtek/news/node/25416</prop>
+     <prop type="source-document">https://www.nmbu.no/en/faculty/realtek/news/node/25416</prop>
+     <seg>"The aim is to get to a point where an ordinary ECG reading can be taken at a normal consultation with the doctor, allowing the computer to locate any ischemic heart attacks," says Ole L&#248;seth Elvetun, who recently completed his doctoral thesis at the Norwegian University of Life Sciences (NMBU).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/fakultet/realtek/om/aktuelt/node/24428</prop>
+     <seg>&#8211; M&#229;let er &#229; kome dit at ein ved ein vanleg legekonsultasjon kan gjennomf&#248;re ei vanleg EKG-m&#229;ling og s&#229; la datamaskina lokalisere eventuelle iskemiske hjarteinfarkt, seier Ole L&#248;seth Elvetun, som nyleg fullf&#248;rte doktoravhandlinga si ved Norges milj&#248;- og biovitenskapelige universitet (NMBU).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.53429</prop>
+    <prop type="score-bicleaner">0.591</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>* Potential models and programming languages.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>* Potensielle modellar og programvare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.32248</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Colloquia/Lectures in full group, and possibly in subgroups, depending on number of participants and where they live/work.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Kollokvium/forelesingar i full gruppe og kanskje i subgrupper, avhengig av tal deltakarar og kor dei bur/arbeider.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.14605</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>You will be able to calculate breeding or genetic values for plant and animal breeding organisations for real data and with industry data programs.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Du vil bli i stand til &#229; rekna ut avlsverdiar for avls- og foredlingsorganisasjonar basert p&#229; reelle data og med standard dataprogram.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.28163</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>* Spektra as information about other (chemical) traits.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>* Spekter som informasjon om andre (kjemiske) eigenskapar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.17143</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/8460</prop>
+     <seg>When painting, the kids</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/28039</prop>
+     <seg>eldre, i st&#248;rre grad menn, i st&#248;rre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.1665</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <seg>MSc students that want more challenges in breeding beyond what is given in other breeding courses may consider taking this course together with PhD students.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>MSc-studentar som vil ha utfordringar i avl og foredling utover det som blir gitt i andre avls- og plantefordlingskurs kan vurdera &#229; ta dette i lag med PhD-studentar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.04412</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/35282</prop>
+     <seg>Alternative lecture halls for arranging the dissertation</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/41463</prop>
+     <seg>Resolusjon om obligatorisk digitalt kurs for undervisarar</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.00731</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/VET414?studieaar=2021</prop>
+     <seg>- Outcome variable(s) and links to analytical model.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <seg>Presentasjon av progresjon med semesteroppg&#229;vene (alle deltakarane).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.39091</prop>
+    <prop type="score-bicleaner">0.541</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>* Efficiency, both for human beings and computers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>* Effektivitet, b&#229;de for menneske og for maskinar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">3.65678</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/en/news/node/29140</prop>
+     <prop type="source-document">http://www.nmbu.no/en/news/node/29140</prop>
+     <seg>The Education Quality Award is NOK 1 million and is administered by NOKUT.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/aktuelt/node/29131</prop>
+     <seg>Kunnskapsdepartementets Utdanningskvalitetspris er p&#229; 1 million kroner og forvaltast av NOKUT.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.025</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/13038</prop>
+     <seg>for our case.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/7756</prop>
+     <seg>Bruken av mais</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.725</prop>
+    <prop type="score-bicleaner">0.541</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2015</prop>
+     <seg>Individual work: 290 hours Entrance requirements:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2015</prop>
+     <seg>290 timar sj&#248;lvstendig arbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.03046</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/emp/arild.vatn</prop>
+     <prop type="source-document">https://www.nmbu.no/ans/arild.vatn</prop>
+     <prop type="source-document">https://www.nmbu.no/med/arild.vatn</prop>
+     <seg>In Ramazzotti, P., P. Frigato and W. Elsner, (eds.): Social Costs Today Institutional Analyses of the Present Crises.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIO247?studieaar=2019</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIO247?studieaar=2018</prop>
+     <prop type="source-document">http://www.nmbu.no/emne/BIO247?studieaar=2018</prop>
+     <seg>fr&#248;anatomi og spiring, oppbygging av stengel og blad, rotvekst og rotvekstar (blomsteroppbygging og blomsterstand), befrukting, frukter og fr&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.04</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2015</prop>
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2014</prop>
+     <seg>Individual literature study and assignment writing with supervision.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2015</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2014</prop>
+     <seg>Individuelt litteraturstudium og oppg&#229;veskriving med rettleiing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.425</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/25888</prop>
+     <seg>Land Degradation in Tigray</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/14420</prop>
+     <seg>der den politiske viljen i landet,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">5.095</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/12952</prop>
+     <seg>Amendment of ethical approval obtained from NIMR. March 2014</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/forskning/disputaser/pressemeldinger/node/22614</prop>
+     <seg>Prosjektet vart avslutta i desember 2014.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.46912</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Potential plan for the course - to be deliberated by participants and teachers.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Potensiell plan for emnet - endeleg plan vil bli lagt i samr&#229;d med deltakarar og l&#230;rarar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.63206</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Presentation of progression for term papers (all participants).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Presentasjon av progresjon med semesteroppg&#229;vene (alle deltakarane).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.15263</prop>
+    <prop type="score-bicleaner">0.549</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/en/news/node/29140</prop>
+     <prop type="source-document">http://www.nmbu.no/en/news/node/29140</prop>
+     <seg>The agroecologist became more important than agroecology,&#8221; Lieblein says.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/aktuelt/node/29131</prop>
+     <seg>Agro&#248;kologen vart viktigare enn agro&#248;kologien, seier Lieblein.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.89004</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2015</prop>
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2014</prop>
+     <seg>Suggested reading lists on international literature on topics like Land Tenure, Land Administration, Institutional Theory, Research Methods, etc. can be presented on demand.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2015</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2014</prop>
+     <seg>Forslag til leselister p&#229; internasjonal litteratur innan "Land Tenure, Land Administration, Institutional theory, Adaptive co-management, Research methods, etc." kan leggast fram p&#229; foresp&#248;rsel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.95</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>EMS from analyses of variance (LS) to estimate variances (g and r).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>* EMS fr&#229; variansanalyse (LS) til &#229; estimera variansar (g og r).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.0625</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/40177</prop>
+     <seg>Failure to account for such</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/42129</prop>
+     <seg>ne &#8211; b&#229;de for turisme og buset- Leirin p&#229; Fagernes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.03235</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/43873</prop>
+     <seg>The President&#8217;s Main Responsibilities:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/4238</prop>
+     <seg>I det vidare arbeidet skal man vurdere:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.02895</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/en/faculty/realtek/news/node/25416</prop>
+     <prop type="source-document">https://www.nmbu.no/en/faculty/realtek/news/node/25416</prop>
+     <seg>Such ischemia can be detected using mathematics and ECG readings.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/fakultet/realtek/om/aktuelt/node/24428</prop>
+     <seg>Ved &#229; bruke matematikk og EKG-m&#229;lingar kan slike iskemi avdekkjast.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.48846</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Animal or plant breeding to MSc level, including pedigree and genomic based relationship.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Husdyravl eller planteforedling til MSc-niv&#229;, inkludert anetavle og genomisk slektskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.03667</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/33315</prop>
+     <seg>&#8226; The PSNP aims to enhance capability of poor farmers to</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/aktuelt/arkiv/2019/node/38609</prop>
+     <seg>Viken Fylkesting konstituert i Urbygninga ved NMBU</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.89947</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/en/news/node/29140</prop>
+     <prop type="source-document">http://www.nmbu.no/en/news/node/29140</prop>
+     <seg>&#8220;We had to turn 180 degrees away from focus on the subject and lectures and towards an approach of facilitating learning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/aktuelt/node/29131</prop>
+     <seg>&#8211; Vi m&#229;tte snu oss 180 grader bort fr&#229; fokus p&#229; fag og f&#248;relesingar til eit arbeid med &#229; legga til rette for l&#230;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.14983</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/en/news/node/29140</prop>
+     <prop type="source-document">http://www.nmbu.no/en/news/node/29140</prop>
+     <seg>During this year's Education Celebration, the &#8220;Action learning model&#8221; was named winner of the Education Quality Award among 13 nominees.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/aktuelt/node/29131</prop>
+     <seg>Under &#229;rets Utdanningsfest vart &#171;Modell for handlingsorientert l&#230;ring&#187; k&#229;ra til &#229;rets vinnar av Utdanningskvalitetsprisen blant 13 nominerte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">5.75</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2014</prop>
+     <seg>Individual work: 290 hours</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2014</prop>
+     <seg>290 timar sj&#248;lvstendig arbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.14211</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Advice for term papers and other exercises.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Veiledning/hjelp med semesteroppg&#229;ver og andre &#248;vingsoppg&#229;ver.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.29388</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/emne/BUS328?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BUS328?studieaar=2020</prop>
+     <seg>This course has teaching/evaluation in Spring parallel.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN301?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN301?studieaar=2020</prop>
+     <seg>Emnet har undervisning/vurdering i haustparallellen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">2.45385</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/en/news/node/29140</prop>
+     <prop type="source-document">http://www.nmbu.no/en/news/node/29140</prop>
+     <seg>Yesterday NMBU and the Department of Plant Sciences was presented with the prestigious 2016 Education Quality Award by Minister of Education Torbj&#248;rn R&#248;e Isaksen, for its work on educating agroecologists.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/aktuelt/node/29131</prop>
+     <seg>I g&#229;r fikk NMBU og Institutt for plantevitskap tildelt Utdanningskvalitetsprisen 2016 fr&#229; kunnskapsminister Torbj&#248;rn R&#248;e Isaksen, for sitt arbeid med utdanninga av agro&#248;kologar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.66223</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>Presentation of datasets and intentions for term papers (all participants).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>Presentasjon av datasett og intensjon med semesteroppg&#229;vene (alle deltakarane).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">2.28286</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/course/BIN303?studieaar=2021</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403</prop>
+     <prop type="source-document">http://www.nmbu.no/course/BIN403?studieaar=2021</prop>
+     <seg>* Classification (ANOVA) and Regression.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/emne/BIN403</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN403?studieaar=2021</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/BIN303?studieaar=2021</prop>
+     <seg>* Klassifisering (ANOVA) og Regresjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">3.45577</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2015</prop>
+     <prop type="source-document">https://www.nmbu.no/course/EIE305?studieaar=2014</prop>
+     <seg>Participation in seminars and feedback on others' presentations: 3 hours.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2015</prop>
+     <prop type="source-document">https://www.nmbu.no/emne/EIE305?studieaar=2014</prop>
+     <seg>3 timar deltaking og kritikk av andre presentasjonar (seminar).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.11509</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/15356</prop>
+     <seg>on conservation at Mount Elgon, researchers have frequently</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/37007</prop>
+     <seg>NMBU deltek i gjennomf&#248;ringa av dei store byggjeprosjekta, og har god leiing av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">1.03724</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/40899</prop>
+     <prop type="source-document">https://www.nmbu.no/download/file/fid/40899</prop>
+     <seg>Dutton, J. E., &amp; Dukerich, J. M. (1991). Keeping an Eye on the Mirror - Image and Identity in</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/download/file/fid/39029</prop>
+     <seg>Bromley i boka &#8220;Environment and Economy&#8221; (Bromley 1991), er eit godt d&#248;me p&#229; dette. Lokal &#8220;sj&#248;lvorganisering&#8221; har kome p&#229; moten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.23129</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.nmbu.no/en/news/node/29140</prop>
+     <prop type="source-document">http://www.nmbu.no/en/news/node/29140</prop>
+     <seg>The award stimulates and inspires further work, and we will use this to reinforce our efforts,&#8221; says professor Geir Hofgaard Lieblein at the Department of Plant Sciences.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://www.nmbu.no/aktuelt/node/29131</prop>
+     <seg>Denne prisen gir energi og inspirasjon til vidare arbeid, og vi vil bruka dette for &#229; satsa end&#229; meir, seier professor Geir Hofgaard Lieblein ved Institutt for Plantevitskap.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

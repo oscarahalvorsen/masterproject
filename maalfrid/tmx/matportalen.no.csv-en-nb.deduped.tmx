@@ -1,0 +1,487 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221220T182312" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">3.00648</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>Vitamin C was extracted from the sample after addition of 5% Meta-phosphoric acid containing EDTA and dithiothreito (DTT).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Vitaminet ble ekstrahert fra pr&#248;ven etter tilsetning av 5% meta-fosforsyre tilsatt EDTA og dithiothreitol (DTT).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.83479</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>several products. 105a Data from the industry to the Food Composition Table 2012, unspecified.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>105a Data levert av industrien til Matvaretabellen 2012, uspesifisert grunnlag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">3.96958</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>107a Data from the industry to the Food Composition Table 2014, unspecified.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>107a Data levert av industrien til Matvaretabellen 2014, uspesifisert grunnlag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.39167</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>several products. 104e Data from the industry to the Food Composition Table 2011, weighted values from</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>104e Data levert av industrien til Matvaretabellen 2011, vektet verdi fra flere produkter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.42321</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9204.ece/BINARY/Vitamin%20C%20in%20potato%20(2006)</prop>
+     <seg>A detailed description is published in a scientific journal (1).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9923.ece/BINARY/Vitamin%20C%20i%20potet</prop>
+     <seg>En detaljert beskrivelse er publisert p&#229; engelsk i et vitenskapelig tidsskrift (1).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.13571</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>Fruits, vegetables and bakery.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>Frukt, gr&#248;nnsaker og bakervarer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.27073</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>Bakery, biscuits, breakfast cereals and oils.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>Bakervarer, kjeks, frokostblandinger og matolje.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">3.79662</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>The dietary fiber was then precipitated with 95% ethanol.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Kostfibrene blir deretter felt ut med 95 % etanol.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.4774</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>108c Data from the industry to the Food Composition Table 2015, calculated value from industrial recipe.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>108c Data levert av industrien til Matvaretabellen 2015, beregnet verdi fra industrioppskrift.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">3.69614</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>109a Data from the industry to the Food Composition Table 2016, unspecified/verified</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>109a Data levert av industrien til Matvaretabellen 2016, uspesifisert grunnlag/kontrollert</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.48846</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>104c Data from the industry to the Food Composition Table 2011, calculated from industrial recipe.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>104c Data levert av industrien til Matvaretabellen 2011, beregnet verdi fra industrioppskrift.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">7.48636</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9201.ece/BINARY/Examples%20of%20range%20of%20variation%20for%20some%20foods%20found%20in%20Norwegian%20analytical%20projects</prop>
+     <seg>Analyses planned in 2000.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9873.ece/BINARY/Variasjon</prop>
+     <seg>Analyser planlagt 2000.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">3.98036</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>Data from the industry to the Food Composition Table 1992-2000, unspecified.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>Data levert av industrien 1992-2000, uspesifisert grunnlag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.24828</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>The samples were stored at -80 oC.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Pr&#248;vene ble oppbevart i frys ved -80 oC.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.73415</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>Lactobacillus plantarum- ATCC 8014), followed by incubation overnight.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Pr&#248;ven ble blandet med vekstmedium, tilsatt mikroorganismen (Lactobacillus plantarum-ATCC 8014) og inkubert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.91721</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9204.ece/BINARY/Vitamin%20C%20in%20potato%20(2006)</prop>
+     <seg>A detailed sampling plan based on area shares for the major potato varieties grown in different regions of the country was developed for an analytical potato study in 1992-95.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9923.ece/BINARY/Vitamin%20C%20i%20potet</prop>
+     <seg>For uttak av potetpr&#248;ver til analyse i 1992-95 ble det laget en detaljert plan basert p&#229; omfanget av de viktigste potetsortene som ble dyrket i ulike deler av landet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">5.84921</prop>
+    <prop type="score-bicleaner">0.688</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9201.ece/BINARY/Examples%20of%20range%20of%20variation%20for%20some%20foods%20found%20in%20Norwegian%20analytical%20projects</prop>
+     <seg>Analyses planned in 1992, 1993</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9873.ece/BINARY/Variasjon</prop>
+     <seg>Analyser planlagt i 1992, 1993 og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.28333</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>Potatoes, liver paste, bread and baby food.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>Poteter, leverpostei, br&#248;d og barnemat.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">3.97846</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>108b Data from the industry to the Food Composition Table 2015, analysed value.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>108b Data levert av industrien til Matvaretabellen 2015, analysert verdi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">4.02581</prop>
+    <prop type="score-bicleaner">0.692</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>Data from the industry to the Food Composition Table 2001, unspecified.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>Data levert av industrien til Matvaretabellen 2001, uspesifisert grunnlag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.01268</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>The content of folate was calculated by comparing the growth of the organism in the test samples with the growth of the same organism in samples with a known standard concentration of the vitamin.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Vitamininnholdet ble beregnet ved &#229; sammenligne veksten av organismen i de ukjente pr&#248;vene, med veksten av organismen i kjente standardkonsentrasjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">4.24211</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>Calculated value from in-house recipe (to the Food Composition Table 2019).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>Beregnet verdi fra intern oppskrift (til Matvaretabellen 2019).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.02171</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>The niacin content was calculated by comparing the growth of the organism in the test samples to the growth of the same organism in samples with a known standard concentration of the vitamin.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Vitamininnholdet ble beregnet ved &#229; sammenligne veksten av organismen i de ukjente pr&#248;vene, med veksten av organismen i kjente standardkonsentrasjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">3.28</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>104d Data from the industry to the Food Composition Table 2011, calculated mean value of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>104d Data levert av industrien til Matvaretabellen 2011, gjennomsnitt fra flere produkter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.53207</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>The detection was done using high pH anion exchange chromatography fitted with an electrochemical detector.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Deteksjon ved hjelp av HPAEC (high pH anion exchange chromatography) utstyrt med elektrokjemisk detektor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.394</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>Calculated value from in-house recipe (to the Food Composition Table 2006 or earlier versions).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>Beregnet verdi fra intern oppskrift (til Matvaretabellen 2006 eller tidligere versjon).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.06</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9204.ece/BINARY/Vitamin%20C%20in%20potato%20(2006)</prop>
+     <seg>Vitamin C in potato</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9923.ece/BINARY/Vitamin%20C%20i%20potet</prop>
+     <seg>Vitamin C i potet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.94267</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>The analysis is based on the method described in &#8221; Methods of analysis for nutrition labeling (1993) ch.33, Sugars (Mono, Di)&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Analysen bygger p&#229; metode beskrevet i &#8221; Methods of analysis for nutrition labeling (1993) ch.33, Sugars (mono,Di)&#8221;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.13291</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>The test samples were injected on a HPLC and the vitamin was derivatized post-column from thiamin to thiochrome and finally detected by fluorescence.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Pr&#248;vene ble injisert p&#229; HPLC med oppsett for post-kolonne derivatisering av tiamin til thiokrom, f&#248;r deteksjon med bruk av fluorescensdetektor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.07608</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>The samples were saponified, and the unsaponified material was extracted.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Pr&#248;ven ble fors&#229;pet, det ufors&#229;pbare materialet ble ekstrahert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.70749</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>The method has been validated and accredited for foods, animal feed, tissue, and tissue fluid and is based on &#8220;Svenska Nestl&#232; ABs mikrobiologiske best&#228;mning av folsyra i livsmedel&#8221;.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Metoden er validert og akkreditert for n&#230;ringsmidler, f&#244;r, vev og vevsv&#230;sker og bygger p&#229; Svenska Nestl&#233; ABs mikrobiologiske best&#228;mning av folsyra i livsmedel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.26429</prop>
+    <prop type="score-bicleaner">0.664</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>The method has been validated and accredited for foods, animal feed, tissue, and tissue fluid and is based on Pharmacopea Scandinavica 1958.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Metoden er validert og akkreditert for n&#230;ringsmidler, f&#244;r, vev og vevsv&#230;sker og bygger p&#229; Pharmacopea Scandinavica 1958. Metoden er modifisert med bruk av ferdigmedium fra Fluka.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">3.08831</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>103b Data from the industry to the Food Composition Table 2006 or earlier, calculated from</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>103b Data levert av industrien til Matvaretabellen 2006 eller tidligere, beregnet verdi fra</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.74194</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The%20nutritional%20composition%20of%20Norwegian%20white%20wheat%20flour%20-%20report%20(2008)%20(PDF)</prop>
+     <seg>The sugars were solved in distilled water at 85 &#176;C.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article40542.ece/BINARY/N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20av%20tex-mex-produkter</prop>
+     <seg>Prinsippet for analysen er at sukkeret l&#248;ses ut i destillert vann ved 85 C.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.07778</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9204.ece/BINARY/Vitamin%20C%20in%20potato%20(2006)</prop>
+     <seg>The table values for content of vitamin C in spring potatoes, autumn potatoes and storage potatoes were calculated as weighted means according to area shares for the various varieties and farming regions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9923.ece/BINARY/Vitamin%20C%20i%20potet</prop>
+     <seg>Tabel verdiene for innhold av vitamin C i tidligpoteter, h&#248;stpoteter og lagringspoteter ble beregnet som veide gjennomsnitt i forhold til dyrkingsandeler for de ulike sortene og omr&#229;dene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.11801</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/the_norwegian_food_composition_table/article31160.ece/BINARY/References%20for%20the%20Food%20Composition%20Table%202020</prop>
+     <seg>Calculated value weighted by sales figures/market data/consumption data, for</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article27653.ece/BINARY/Referanser%20til%20Matvaretabellen</prop>
+     <seg>Beregnet verdi vektet fra salgstall/markedsdata/inntaksdata, f.eks for uspesifiserte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">3.12534</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9204.ece/BINARY/Vitamin%20C%20in%20potato%20(2006)</prop>
+     <seg>The results showed that the content of vitamin C varied between 7 and 20 mg per 100 g raw potato.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.matportalen.no/verktoy/matvaretabellen/article9923.ece/BINARY/Vitamin%20C%20i%20potet</prop>
+     <seg>Resultatet viste at innholdet av vitamin C varierte mellom 7 og 20 mg per 100 g r&#229; potet.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

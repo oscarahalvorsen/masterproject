@@ -1,0 +1,2135 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221218T210834" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.07692</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norway-fines-telenor-788-million-nok-for-abuse-of-dominant-position/?lang=en</prop>
+     <seg>&#8211; The mobile market is a large and important market for Norwegian consumers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/788-millioner-i-gebyr-til-telenor/</prop>
+     <seg>&#8211; Markedet for mobiltjenester er et stort og viktig marked for norske forbrukere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.3256</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/grocery-task-force-officially-started-2/?lang=en</prop>
+     <seg>&#8226; to increase the capacity of the Authority with 6-7 full-time employees, and establish a stable core of employees who will focus on the grocery sector</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/formelt-i-gang-med-dagligvaresatsingen/</prop>
+     <seg>&#229; &#248;ke kapasiteten til tilsynet med 6-7 &#229;rsverk, og etablere en stabil kjerne av medarbeidere som skal jobbe konsentrert med dagligvarebransjen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.32</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/an-analysis-of-automobilde-demand.pdf.converted</prop>
+     <seg>And it is of particular</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/horingssvar-til-forbrukerradet-om-organisering-av-drosjemarkedet.pdf.converted</prop>
+     <seg>Prisinformasjon og behovspr&#248;ving.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.17308</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/12/DAF-COMP-WP2-WD201835.en_-1.pdf.converted</prop>
+     <seg>among specialised healthcare providers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v1999-60.pdf.converted</prop>
+     <seg>til oppvarming av bygninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.88455</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>The Norwegian Competition Authority imposes fines totaling NOK 32 million on four publishers for illegal collusion.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>Konkurransetilsynet ilegger fire forlag til sammen 32 millioner kroner i gebyr for ulovlig samarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.45965</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/competition-tribunal-upholds-decision-to-block-schibsteds-acquisition-of-nettbil/?lang=en</prop>
+     <seg>Schibsted is the owner of the marketplace Finn and a provider of online classified advertising services.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/medhold-i-at-foretakssammenslutningen-mellom-schibsted-og-nettbil-forbys/</prop>
+     <seg>Schibsted eier markedsplassen Finn og tilbyr annonsetjenester.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.04048</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-norwegian-competition-authority-imposes-a-fine-of-nok-3-million-on-st1-norge-as/?lang=en</prop>
+     <seg>Disclosure requirements for mergers and acquisitions in specific markets</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/st1-norge-ilagt-gebyr-for-overtredelse-av-opplysningsplikten/</prop>
+     <seg>Opplysningsplikt for foretakssammenslutninger i s&#230;rskilte markeder:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">2.13254</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/dnbs-acquisition-of-sbanken-subject-to-in-depth-review/?lang=en</prop>
+     <seg>If a statement of objections is issued, the parties will have 15 working days to reply to the Authority&#8217;s objections.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-mulig-stans-av-dnbs-kjop-av-sbanken/?lang=en%22%20%5Ct%20%22_blank</prop>
+     <seg>Dersom er slikt varsel blir sendt vil selskapene ha 15 virkedager p&#229; &#229; svare p&#229; tilsynets varsel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.51447</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-norwegian-competition-authority-imposes-a-fine-of-nok-3-million-on-st1-norge-as/?lang=en</prop>
+     <prop type="source-document">https://konkurransetilsynet.no/norgesgruppen-is-fined-20-million-for-not-disclosing-acquisition-of-grocery-store-premises/?lang=en</prop>
+     <seg>&#8226; Motor fuel retailing: Uno-X Energi AS, St1 Norge AS, Certas Energy Norway AS and Circle K Norge AS</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/st1-norge-ilagt-gebyr-for-overtredelse-av-opplysningsplikten/</prop>
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-15-millioner-i-gebyr-til-st1-norge-as/</prop>
+     <seg>&#8226; Drivstoff (Uno-X Energi AS, St1 Norge AS, Certas Energy Norway AS og Circle K Norge AS)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.68073</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/survey-shows-that-several-companies-use-monitoring-algorithms/?lang=en</prop>
+     <seg>The Norwegian Competition Authority&#8217;s survey shows that 55 per cent of the companies surveyed use so-called monitoring algorithms.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/undersokelse-viser-at-flere-bedrifter-bruker-overvakningsalgoritmer/</prop>
+     <seg>Konkurransetilsynets unders&#248;kelse viser at 55 prosent av de unders&#248;kte bedriftene bruker s&#229;kalte overv&#229;kningsalgoritmer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.06953</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/investigating-a-company-within-a-digital-market/?lang=en</prop>
+     <seg>&#8211; We have sent a request for information to the company concerned and will, at a later stage, consider to gather further information, says Dahl Amundsen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/etterforsker-selskap-i-et-digitalt-marked/</prop>
+     <seg>&#8211; Vi har sendt et informasjonsp&#229;legg til foretaket og vil senere vurdere &#229; innhente ytterligere informasjon, sier Dahl Amundsen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.22972</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/competition-tribunal-upholds-decision-to-block-schibsteds-acquisition-of-nettbil/?lang=en</prop>
+     <seg>The Competition Tribunal agrees with the Norwegian Competition Authority that Schibsted&#8217;s acquisition of Nettbil should be prohibited.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/medhold-i-at-foretakssammenslutningen-mellom-schibsted-og-nettbil-forbys/</prop>
+     <seg>Konkurranseklagenemnda har i dag gitt Konkurransetilsynet medhold i vedtaket om &#229; forby foretakssammenslutningen mellom Schibsted og Nettbil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.63026</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-cannot-buy-dolly-dimples/?lang=en</prop>
+     <seg>Umoe Restaurants AS, the owner of Peppes Pizza, has entered an agreement to buy Dolly Dimple&#8217;s.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-far-ikke-kjope-dolly-dimples/</prop>
+     <seg>Umoe Restaurants AS, som eier Peppes Pizza, har inng&#229;tt avtale om &#229; kj&#248;pe Dolly Dimple&#8217;s.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.00926</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/director-general-returns-to-professorship-at-norwegian-school-of-economics-nhh/?lang=en</prop>
+     <seg>&#8211; The employees of the Competition Authority would have liked Lars S&#248;rgard to continue as Director General.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransedirektor-blir-nhh-professor-igjen/</prop>
+     <seg>&#8211; Vi ansatte skulle gjerne hatt Lars S&#248;rgard med videre som direkt&#248;r for Konkurransetilsynet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">3.08206</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/competition-crime-one-in-three-business-executives-say-illegal-cooperation-takes-place-in-their-own-industry/?lang=en</prop>
+     <seg>The survey was conducted in December 2017, by Kantar TNS on behalf of the Competition Authority.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransekriminalitet-en-av-tre-bedriftsledere-mener-det-skjer-ulovlig-samarbeid-i-egen-bransje/</prop>
+     <seg>Unders&#248;kelsen ble gjennomf&#248;rt i desember 2017 av Kantar TNS p&#229; oppdrag fra Konkurransetilsynet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.22121</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-withdraws-notification-of-merger/?lang=en</prop>
+     <seg>&#8211; The Competition Authority takes note of the fact that Bonnier Books has chosen to withdraw the original notification of its acquisition of Strawberry Publishing.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-trekker-foretakssammenslutning/</prop>
+     <seg>&#8211; Konkurransetilsynet tar til etterretning at Bonnier Books har valgt &#229; trekke den opprinnelige meldingen om oppkj&#248;pet av Strawberry Publishing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.18649</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/dnbs-acquisition-of-sbanken-subject-to-in-depth-review/?lang=en</prop>
+     <seg>DNB&#8217;s acquisition of Sbanken subject to in-depth review</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-mulig-stans-av-dnbs-kjop-av-sbanken/?lang=en%22%20%5Ct%20%22_blank</prop>
+     <seg>Varsler mulig stans av DNBs kj&#248;p av Sbanken</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.156</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/Rapport-forskning_2016-4.pdf.converted</prop>
+     <seg>One could imagine that firms</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v2000-142.pdf.converted</prop>
+     <seg>Stavangerske/M&#248;rerutene i rutetrafikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.04265</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/new-chief-economist-at-the-norwegian-competition-authority/?lang=en</prop>
+     <seg>&#8211; We are very pleased that Kurt Brekke will be the Competition Authority&#180;s new chief economist.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/ny-sjefokonom-i-konkurransetilsynet-3/</prop>
+     <seg>&#8211; Vi er sv&#230;rt glad for at Kurt Brekke blir Konkurransetilsynets nye sjef&#248;konom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.11288</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/09/non-price-effects-of-mergers-note-by-norway.pdf.converted</prop>
+     <seg>This was assessed in a qualitative way by referring to economic theory.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/2_2018_fusjonskontrollen-og-avhjelpende-tiltak-med-forsiden.pdf.converted</prop>
+     <seg>identifisert som overlappsmarkeder i sitt vedtak (Bergen Vest, Sotra og &#197;sane).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.10152</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/anonymous-dialogue-with-the-norwegian-competition-authority/?lang=en</prop>
+     <seg>All tip-offs will be considered and handled confidentially by our investigators, and the Authority may make further inquiries, says Bj&#248;rkhaug.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/anonym-dialog-med-konkurransetilsynet/</prop>
+     <seg>Alle tips blir vurdert og behandlet konfidensielt av v&#229;re etterforskere, og Konkurransetilsynet kan iverksette n&#230;rmere unders&#248;kelser, sier Bj&#248;rkhaug.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.16047</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2020/07/Rapport-6-2020-Leniency-and-Criminalisation-of-Cartels.pdf.converted</prop>
+     <seg>provide the necessary competence in this regard.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2021/12/Masteroppgave-Alida-Masvie-Hovland-2021.pdf.converted</prop>
+     <seg>En lik praktisering av selvinkrimineringsvernet etter henholdsvis EMK</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.04286</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2019/12/Annual-report-2018-Norway-DAF-COMP-AR201926.en_.pdf.converted</prop>
+     <seg>However, the fines were reduced.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v2000-38.pdf.converted</prop>
+     <seg>til bruk i ulike medier.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.29118</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/Bidrag-fra-Norge-Competition-issues-in-airline-services.pdf.converted</prop>
+     <seg>The Norwegian domestic airline market</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/%C2%A710_ULOVLIG_SAMARBEID.pdf.converted</prop>
+     <seg>Begrensning av produksjon eller salg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.18421</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/schibsted-must-sell-nettbil/?lang=en</prop>
+     <seg>Schibsted is the owner of the marketplace Finn and provides online classified advertising.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/schibsted-ma-selge-nettbil/</prop>
+     <seg>Schibsted eier markedsplassen Finn og tilbyr annonsetjenester.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2021/11/Annual-report-OECD-2020-DAF-COMP-AR.pdf.converted</prop>
+     <seg>This means that the NCA&#8217;s decision to block the proposed merger is effective.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v2001-25.pdf.converted</prop>
+     <seg>Etter dette m&#229; det tas stilling til om samarbeidet rammes av lovens forbudsbestemmelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.20752</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-cannot-buy-dolly-dimples/?lang=en</prop>
+     <seg>&#8211; The Competition Authority has assessed the proposed measures, and has concluded that they were insufficient to satisfy the Authority&#8217;s concerns, says Gabrielsen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-far-ikke-kjope-dolly-dimples/</prop>
+     <seg>&#8211; Konkurransetilsynet har vurdert de foresl&#229;tte tiltakene, og kommet til at de ikke var tilstrekkelige til &#229; fjerne tilsynets bekymringer, sier Gabrielsen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.00282</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/12/DAF-COMP-WP2-WD201835.en_-1.pdf.converted</prop>
+     <seg>Thus, both private and public hospitals have an incentive to attract patients in order to increase their revenues.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v1999-60.pdf.converted</prop>
+     <seg>Disse produktene synes i stor grad &#229; v&#230;re kompliment&#230;re med leveranser av petroleumsprodukter til fyringsform&#229;l.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.04762</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-exceeding-1-billion-nok-in-total-imposed-on-verisure-and-sector-alarm/?lang=en</prop>
+     <seg>&#8226; Sector Alarm AS chose to accept the fine prior to the deadline for submitting a reply to the Statement of Objections.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/medhold-i-klagesaken-mot-verisure/</prop>
+     <seg>Sector Alarm AS valgte &#229; godta gebyret f&#248;r fristen for &#229; avgi merknader til varselet utl&#248;p.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.10813</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-competition-authority-considers-imposing-high-fines-on-verisure-as-and-sector-alarm-as/?lang=en</prop>
+     <seg>It is the Competition Authorities&#8217; preliminary assessment that Verisure AS and Sector Alarm AS, the largest providers of residential alarm services in Norway, have engaged in an anticompetitive concerted practice between 2011 and 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliardgebyr-til-sammen-til-verisure-og-sector-alarm/</prop>
+     <seg>Konkurransetilsynet har konkludert med at Verisure og Sector Alarm, som er de klart st&#248;rste akt&#248;rene i det norske boligalarmmarkedet, har samarbeidet om markedsdeling i perioden 2011 til 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.6407</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/still-considering-to-intervene-against-dnbs-acquisition-of-sbanken/?lang=en</prop>
+     <seg>Following its preliminary assessment, the Authority notified the companies on 24 June that it would open an in-depth investigation to assess the proposed acquisition.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/fortsatt-aktuelt-a-stanse-dnbs-kjop-av-sbanken/</prop>
+     <seg>Etter en forel&#248;pig vurdering sendte tilsynet 24. juni varsel til selskapene om at det kunne bli aktuelt &#229; stoppe oppkj&#248;pet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.49375</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-cannot-buy-dolly-dimples/?lang=en</prop>
+     <seg>This can lead to increased prices for pizza and lower quality for consumers, says Director General Lars S&#248;rgard.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-far-ikke-kjope-dolly-dimples/</prop>
+     <seg>Dette kan f&#248;re til &#248;kte priser p&#229; pizza og d&#229;rligere kvalitet til kundene, sier konkurransedirekt&#248;r Lars S&#248;rgard.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">3.24462</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-competition-authority-considers-imposing-a-fine-of-nok-906-million-on-telenor/?lang=en</prop>
+     <seg>From 2007 onwards, Network Norway and Tele2 established a third mobile network in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-906-millioner-kroner-i-gebyr-til-telenor/</prop>
+     <seg>Fra 2007 bygget Network Norway et tredje mobilnett i Norge sammen med Tele2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.9279</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/grocery-task-force-officially-started-2/?lang=en</prop>
+     <seg>The Norwegian Competition Authority has also been asked to contribute to the preparation of the planned White Paper on the grocery market, which is to be presented during the 2020 spring session of the Parliament.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/formelt-i-gang-med-dagligvaresatsingen/</prop>
+     <seg>Konkurransetilsynet har ogs&#229; blitt bedt om &#229; bidra med ressurser til utarbeidelsen av den planlagte stortingsmeldingen om dagligvaremarkedet som skal legges fram i l&#248;pet av v&#229;rsesjonen 2020.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.11387</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norway-fines-telenor-788-million-nok-for-abuse-of-dominant-position/?lang=en</prop>
+     <seg>&#8211; The Norwegian Competition Authority has concluded that Telenor created barriers for the development of a third mobile network in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/788-millioner-i-gebyr-til-telenor/</prop>
+     <seg>&#8211; Konkurransetilsynet har konkludert med at Telenor la hindringer i veien for utbyggingen av et tredje mobilnett i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.18824</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/monitoring-of-the-norwegian-aviation-market-expanded/?lang=en</prop>
+     <seg>In addition, it is expanding its monitoring to include the operations of Wizz Air.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/utvider-overvakningen-av-det-norske-luftfartsmarkedet/</prop>
+     <seg>I tillegg utvides overv&#229;kningen til ogs&#229; &#229; gjelde Wizz Air.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.76124</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/considers-imposing-fines-on-five-companies-in-the-book-market-totalling-nok-502-million/?lang=en</prop>
+     <seg>The Competition Authority&#8217;s view is that the practices in question have restricted competition by object in breach of the prohibition against anti-competitive agreements and concerted practices in Section 10 of the Competition Act and Article 53 of the EEA Agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-502-millioner-i-gebyrer-til-fem-aktorer-i-bokmarkedet/</prop>
+     <seg>Konkurransetilsynets vurdering er at samarbeidet har hatt til form&#229;l &#229; begrense konkurransen i strid med forbudet mot konkurransebegrensende samarbeid i konkurranseloven &#167; 10 og E&#216;S-avtalen artikkel 53.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.00417</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2020/07/Rapport-6-2020-Leniency-and-Criminalisation-of-Cartels.pdf.converted</prop>
+     <seg>problem that is best regulated through public administrative measures directed at</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2021/12/Masteroppgave-Alida-Masvie-Hovland-2021.pdf.converted</prop>
+     <seg>det EMK-rettslige selvinkrimineringsvernet som i visse tilfeller ogs&#229; begrenser en utleve-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/schibsted-must-sell-nettbil/?lang=en</prop>
+     <seg>The Norwegian Competition Authority has decided to intervene against Schibsted&#8217;s acquisition of Nettbil.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/schibsted-ma-selge-nettbil/</prop>
+     <seg>Konkurransetilsynet har besluttet &#229; gripe inn mot foretakssammenslutningen mellom Schibsted og Nettbil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.706</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norway-fines-the-vy-group-7-5-million/?lang=en</prop>
+     <seg>Incorrect or incomplete information in notification</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/75-millioner-i-gebyr-til-vy/</prop>
+     <seg>Uriktige eller ufullstendige opplysninger i melding</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">4.13906</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/closes-investigation-against-orkla-mondelez-and-norgesgruppen/?lang=en</prop>
+     <seg>The Authority conducted dawn raids in the grocery market in November 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/avslutter-etterforskningssaken-mot-orkla-mondelez-og-norgesgruppen/</prop>
+     <seg>Konkurransetilsynet gjennomf&#248;rte i november 2019 bevissikring i dagligvaremarkedet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.36743</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/competition-crime-one-in-three-business-executives-say-illegal-cooperation-takes-place-in-their-own-industry/?lang=en</prop>
+     <seg>Since 2008, Norwegian companies have been imposed fines of 197 MNOK. In addition, the companies lose goodwill.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransekriminalitet-en-av-tre-bedriftsledere-mener-det-skjer-ulovlig-samarbeid-i-egen-bransje/</prop>
+     <seg>Siden 2008 har det v&#230;rt gitt b&#248;ter for 197 millioner kroner til norske bedrifter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">3.41329</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/considers-imposing-fines-on-five-companies-in-the-book-market-totalling-nok-502-million/?lang=en</prop>
+     <seg>The Norwegian Competition Authority carried out unannounced inspections at the premises of the companies concerned in January 2018.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-502-millioner-i-gebyrer-til-fem-aktorer-i-bokmarkedet/</prop>
+     <seg>Konkurransetilsynet gjennomf&#248;rte i januar 2018 bevissikring hos de involverte akt&#248;rene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.46308</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/competition-tribunal-upholds-decision-to-block-schibsteds-acquisition-of-nettbil/?lang=en</prop>
+     <seg>Competition Tribunal upholds decision to block Schibsted&#8217;s acquisition of Nettbil</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/medhold-i-at-foretakssammenslutningen-mellom-schibsted-og-nettbil-forbys/</prop>
+     <seg>Medhold i at foretakssammenslutningen mellom Schibsted og Nettbil forbys</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.16618</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/09/non-price-effects-of-mergers-note-by-norway.pdf.converted</prop>
+     <seg>In this short contribution, we have also reviewed the assessment of non-price</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/2_2018_fusjonskontrollen-og-avhjelpende-tiltak-med-forsiden.pdf.converted</prop>
+     <seg>Dette kan for eksempel v&#230;re kj&#248;pere som allerede er etablert i mange</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">3.22817</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-competition-authority-considers-imposing-a-fine-of-nok-906-million-on-telenor/?lang=en</prop>
+     <seg>The Competition Authority has warned Telenor that it is considering imposing a fine of NOK 906 million.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-906-millioner-kroner-i-gebyr-til-telenor/</prop>
+     <seg>Konkurransetilsynet varsler at Telenor ilegges et gebyr p&#229; 906 millioner kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.2878</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/Rapport-forskning_2016-4.pdf.converted</prop>
+     <seg>information that affects demand and/or cost of a firm will be payoff-relevant.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v2000-142.pdf.converted</prop>
+     <seg>for Stavangerske/M&#248;rerutene og Nor-Cargo.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.04483</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/Margin_Squeeze_in_the_EU.pdf.converted</prop>
+     <seg>positive, an analysis of the product-specific costs is required.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v2007-2_tine.pdf.converted</prop>
+     <seg>Enkelte brunoster inneholder jern, som er viktig for blodoml&#248;pet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.08453</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/objections-against-prosafes-acquisition-of-floatel/?lang=en</prop>
+     <seg>Reduced competition would lead to increased costs for customers, says deputy director Marita Skj&#230;veland.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-stans-av-prosafes-oppkjop-av-floatel/</prop>
+     <seg>Redusert konkurranse vil &#248;ke kostnadene for bedrifter som ettersp&#248;r offshore innkvarteringstjenester, sier nestleder Marita Skj&#230;veland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.20165</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/telenor-judgment-final-fine-of-nok-788-million-upheld/?lang=en</prop>
+     <prop type="source-document">https://konkurransetilsynet.no/norway-fines-telenor-788-million-nok-for-abuse-of-dominant-position/?lang=en</prop>
+     <seg>In 2010, Telenor changed the conditions in its network access agreement with Network Norway. It is in this regard that Telenor abused its dominant position.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/telenor-saken-avsluttet-788-millioner-kroner-i-gebyr/</prop>
+     <prop type="source-document">https://konkurransetilsynet.no/788-millioner-i-gebyr-til-telenor/</prop>
+     <seg>I 2010 endret Telenor vilk&#229;rene i avtalen med Network Norway om leie av Telenors nett, og det er disse endringene som er bakgrunnen for overtredelsen av konkurranseloven.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">3.98665</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-withdraws-notification-of-merger/?lang=en</prop>
+     <seg>Bonnier Books already has a 50 percent stake in Cappelen Damm.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-trekker-foretakssammenslutning/</prop>
+     <seg>Bonnier Books har fra f&#248;r 50 prosent eierandel i Cappelen Damm.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">2.0079</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/monitoring-of-the-norwegian-aviation-market-expanded/?lang=en</prop>
+     <seg>They have asked the Competition Authority to pay particular attention to competition in domestic aviation in the special and demanding situation caused by Covid-19.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/utvider-overvakningen-av-det-norske-luftfartsmarkedet/</prop>
+     <seg>De har bedt Konkurransetilsynet om &#229; f&#248;lge s&#230;rlig &#229;rv&#229;kent med p&#229; konkurransen i innenriks luftfart i den spesielle og krevende situasjonen som f&#248;lge av covid-19.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">2.01429</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-cannot-buy-dolly-dimples/?lang=en</prop>
+     <seg>The Norwegian Competition Authority prohibits Umoe Restaurants AS from buying Dolly Dimple&#8217;s Norge AS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-far-ikke-kjope-dolly-dimples/</prop>
+     <seg>Konkurransetilsynet forbyr Umoe Restaurants AS &#229; kj&#248;pe Dolly Dimple&#8217;s Norge AS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.97363</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/monitoring-of-the-norwegian-aviation-market-expanded/?lang=en</prop>
+     <seg>This has included data on the companies&#8217; revenues and expenses per route, data on frequent flyer programmes, and data concerning their large customers since 2011 for 12 of the largest domestic routes in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/utvider-overvakningen-av-det-norske-luftfartsmarkedet/</prop>
+     <seg>P&#229;legget omhandler data om selskapenes inntekter og utgifter per rute, data om bonusprogram, samt data om storkunder fra og med 2011 for 12 av de st&#248;rste innenriksrutene i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">1.19611</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>The only real competitor to Interpress was Bladcentralen, a distributor in which all four publishers were owners, says Head of Department Gjermund Nese.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>Den eneste reelle konkurrenten til Interpress var Bladcentralen, hvor alle de fire forlagene var eiere, sier avdelingsdirekt&#248;r Gjermund Nese.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">2.24734</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/competition-crime-one-in-three-business-executives-say-illegal-cooperation-takes-place-in-their-own-industry/?lang=en</prop>
+     <seg>&#8211; We are pleased with the fact that 70 % of the respondents report that there is no illegal cooperation in their industry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransekriminalitet-en-av-tre-bedriftsledere-mener-det-skjer-ulovlig-samarbeid-i-egen-bransje/</prop>
+     <seg>&#8211; Det er gledelig at 70 prosent av de spurte i unders&#248;kelsen mener det ikke foreg&#229;r ulovlig samarbeid i egen bransje.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.8395</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/competition-crime-one-in-three-business-executives-say-illegal-cooperation-takes-place-in-their-own-industry/?lang=en</prop>
+     <seg>Unfortunately, only 3 % of Norwegian leaders are well aware of the leniency program, and half of them do not know it at all.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransekriminalitet-en-av-tre-bedriftsledere-mener-det-skjer-ulovlig-samarbeid-i-egen-bransje/</prop>
+     <seg>Dessverre ser vi at kun 3 prosent av norske bedriftsledere kjenner godt til denne ordningen, og over halvparten kjenner ikke til den i det hele tatt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.3206</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norwegian-competition-authority-blocks-eimskip-nor-lines/?lang=en</prop>
+     <seg>Eimskip and Nor Lines are close competitors and collectively hold a substantial market share in today&#8217;s market, says Director General Lars S&#248;rgard.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/sjotransport-forbyr-eimskip-nor-lines/</prop>
+     <seg>Eimskip og Nor Lines er n&#230;re konkurrenter og har samlet sett h&#248;ye markedsandeler i dagens marked, sier konkurransedirekt&#248;r Lars S&#248;rgard.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.10948</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/objections-against-prosafes-acquisition-of-floatel/?lang=en</prop>
+     <seg>&#8211; The Norwegian market for offshore accommodation services has a limited number of players with Prosafe and Floatel as the two largest suppliers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-stans-av-prosafes-oppkjop-av-floatel/</prop>
+     <seg>&#8211; Det norske markedet for offshore innkvarteringstjenester har f&#229; akt&#248;rer med Floatel og Prosafe som de to st&#248;rste akt&#248;rene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.01586</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/considers-imposing-fines-on-five-companies-in-the-book-market-totalling-nok-502-million/?lang=en</prop>
+     <seg>The Competition Authority considers imposing a fine of NOK 3.89 million on Bokbasen, a fine of NOK 151.9 million on Cappelen Damm, a fine of NOK 93.4 million on Forlagshuset Vigmostad &amp; Bj&#248;rke, a fine of NOK 202.4 million on Gyldendal and a fine of NOK 50.8 million on Aschehoug.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-502-millioner-i-gebyrer-til-fem-aktorer-i-bokmarkedet/</prop>
+     <seg>Konkurransetilsynet varsler at Bokbasen ilegges et overtredelsesgebyr p&#229; 3,89 millioner kroner, Cappelen Damm ilegges et gebyr p&#229; 151,9 millioner kroner, Forlagshuset Vigmostad &amp; Bj&#248;rke ilegges et gebyr p&#229; 93,4 millioner kroner, Gyldendal ilegges et gebyr p&#229; 202,4 millioner kroner og Aschehoug ilegges et gebyr p&#229; 50,8 millioner kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">3.72857</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/competition-crime-one-in-three-business-executives-say-illegal-cooperation-takes-place-in-their-own-industry/?lang=en</prop>
+     <seg>We receive more than 200 notifications every year.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransekriminalitet-en-av-tre-bedriftsledere-mener-det-skjer-ulovlig-samarbeid-i-egen-bransje/</prop>
+     <seg>Hvert &#229;r f&#229;r vi inn over 200 tips.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.95</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-norwegian-competition-authority-imposes-a-fine-of-nok-3-million-on-st1-norge-as/?lang=en</prop>
+     <seg>Home security systems: Verisure AS and Sector Alarm Group AS</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/st1-norge-ilagt-gebyr-for-overtredelse-av-opplysningsplikten/</prop>
+     <seg>Alarm (Sector Alarm Group AS og Verisure AS).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">2.66604</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norway-fines-telenor-788-million-nok-for-abuse-of-dominant-position/?lang=en</prop>
+     <seg>In its decision, the Norwegian Competition Authority has concluded that Telenor abused its dominant position in the period 2010-2014.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/788-millioner-i-gebyr-til-telenor/</prop>
+     <seg>Konkurransetilsynet har i sitt vedtak konkludert med at Telenor misbrukte sin dominerende stilling i perioden 2010&#8211;2014.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">1.46697</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-cannot-buy-dolly-dimples/?lang=en</prop>
+     <seg>&#8211; Peppes Pizza and Dolly Dimple&#8217;s are close competitors, and the competitive pressure between them will disappear if they have the same owner.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-far-ikke-kjope-dolly-dimples/</prop>
+     <seg>&#8211; Peppes Pizza og Dolly Dimple&#8217;s er n&#230;re konkurrenter, og konkurransepresset mellom dem vil forsvinne dersom de f&#229;r samme eier.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.33586</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>Aschehoug was fined NOK 9.66 million, Cappelen Damm was fined NOK 9.1 million, Gyldendal was fined NOK 7.88 million, and Vigmostad &amp; Bj&#248;rke (owner of former Schibsted Forlag) was fined NOK 4.56 million.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>Aschehoug ilegges et gebyr p&#229; 9,66 millioner kroner, Cappelen Damm ilegges et gebyr p&#229; 9,1 millioner kroner, Gyldendal ilegges et gebyr p&#229; 7,88 millioner kroner og Vigmostad &amp; Bj&#248;rke (eier av tidligere Schibsted Forlag) ilegges et gebyr p&#229; 4,56 millioner kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.73615</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-withdraws-notification-of-merger/?lang=en</prop>
+     <seg>Bonnier Books has informed the Norwegian Competition Authority that it withdraws the notification of the merger between Bonnier Books Holding AB and Strawberry Publishing Norge AS.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-trekker-foretakssammenslutning/</prop>
+     <seg>Bonnier Books har orientert Konkurransetilsynet om at selskapet trekker meldingen om foretakssammenslutningen mellom og Bonnier Books Holding AB og Strawberry Publishing Norge AS.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">1.04123</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/competition-tribunal-upholds-decision-to-block-schibsteds-acquisition-of-nettbil/?lang=en</prop>
+     <seg>The Tribunal&#8217;s decision confirms the Authority&#8217;s finding that the acquisition removes an increasing competitive pressure that Nettbil exerts on Finn, says the Director General Lars S&#248;rgard.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/medhold-i-at-foretakssammenslutningen-mellom-schibsted-og-nettbil-forbys/</prop>
+     <seg>Nemndas vedtak stadfester tilsynets oppfatning om at oppkj&#248;pet fjerner det &#248;kende konkurransepresset Nettbil ut&#248;ver p&#229; Finn, sier konkurransedirekt&#248;r Lars S&#248;rgard.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">2.73112</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/objections-against-prosafes-acquisition-of-floatel/?lang=en</prop>
+     <seg>According to the Competition Act, the parties now have 15 working days to comment on the Authority&#8217;s objections.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-stans-av-prosafes-oppkjop-av-floatel/</prop>
+     <seg>Etter konkurranseloven har selskapene n&#229; 15 arbeidsdager p&#229; &#229; kommentere tilsynets vurderinger i varselet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.09048</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/12/DAF-COMP-WP2-WD201835.en_-1.pdf.converted</prop>
+     <seg>Prices through the Approval Scheme are set as unit prices for treatments.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v1999-60.pdf.converted</prop>
+     <seg>Markedsf&#248;ring og salg av fyringsolje synes i dag &#229; skje med de samme priser til alle kunder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">1.54854</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-cannot-buy-dolly-dimples/?lang=en</prop>
+     <seg>Peppes Pizza and Dolly Dimple&#8217;s are currently the only two nationwide chains operating both in the restaurant and take-away markets.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-far-ikke-kjope-dolly-dimples/</prop>
+     <seg>Peppes Pizza og Dolly Dimple&#8217;s er i dag de to eneste landsdekkende pizzakjedene som opererer innen b&#229;de restaurant- og take-away-markedet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">4.76667</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-competition-authority-considers-imposing-a-fine-of-nok-906-million-on-telenor/?lang=en</prop>
+     <seg>The Competition Authority considers imposing a fine of NOK 906 million on Telenor</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-906-millioner-kroner-i-gebyr-til-telenor/</prop>
+     <seg>Varsler 906 millioner kroner i gebyr til Telenor</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.45979</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/closes-investigation-against-orkla-mondelez-and-norgesgruppen/?lang=en</prop>
+     <seg>The Authority identified considerable differences in the grocery chains&#8217; purchase prices, and that Norgesgruppen generally tended to obtain better conditions from suppliers than the competitors Coop and Rema 1000.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/avslutter-etterforskningssaken-mot-orkla-mondelez-og-norgesgruppen/</prop>
+     <seg>Tilsynet avdekket til dels store forskjeller i dagligvarekjedenes innkj&#248;pspriser, og Norgesgruppen kom gjennomg&#229;ende bedre ut enn konkurrentene Coop og Rema 1000.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">2.96028</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/anonymous-dialogue-with-the-norwegian-competition-authority/?lang=en</prop>
+     <seg>&#8211; In 2019, the Authority received 434 tip-offs related to possible cartels or abuses of a dominant position.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/anonym-dialog-med-konkurransetilsynet/</prop>
+     <seg>&#8211; I 2019 mottok Konkurransetilsynet 434 tips om mulig ulovlig samarbeid eller misbruk av dominerende stilling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">1.45582</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>The Industry and Fisheries Ministry has appointed Mads Magnussen as substitute Competition Director for Lars S&#248;rgard, as S&#248;rgard recused himself from this case.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>N&#230;rings- og fiskeridepartementet har oppnevnt Mads Magnussen som settekonkurransedirekt&#248;r for Lars S&#248;rgard.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/The-economic-impacts-of-compatibility.pdf.converted</prop>
+     <seg>OOXML will be presented.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/a1998-18.pdf.converted</prop>
+     <seg>Synspunkter p&#229; avtalene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">4.07455</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>The publishers filed their respective responses during September 2016.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>Forlagene inngav hver sine merknader i l&#248;pet av september 2016.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">1.14168</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/survey-shows-that-several-companies-use-monitoring-algorithms/?lang=en</prop>
+     <seg>Algorithms can have pro-competitive effects, for example by making it easier for consumers to compare prices.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/undersokelse-viser-at-flere-bedrifter-bruker-overvakningsalgoritmer/</prop>
+     <seg>Algoritmer kan v&#230;re bra for konkurransen, for eksempel ved &#229; gj&#248;re det lettere for oss forbrukere &#229; sammenligne priser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">3.1005</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-cannot-buy-dolly-dimples/?lang=en</prop>
+     <seg>&#8211; The acquisition will lead to reduced competition both nationally and in 20 local markets.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-far-ikke-kjope-dolly-dimples/</prop>
+     <seg>&#8211; Oppkj&#248;pet ville f&#248;rt til redusert konkurranse b&#229;de nasjonalt og i 20 lokale markeder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.04268</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/still-considering-to-intervene-against-dnbs-acquisition-of-sbanken/?lang=en</prop>
+     <seg>The reason was a concern related to possible reduced competition in the market for mutual funds.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/fortsatt-aktuelt-a-stanse-dnbs-kjop-av-sbanken/</prop>
+     <seg>Bakgrunnen var bekymringer knyttet til mulig redusert konkurranse i markedet for sparing i fond.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">1.20202</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/director-general-returns-to-professorship-at-norwegian-school-of-economics-nhh/?lang=en</prop>
+     <seg>There is nothing dramatic about this decision, says Lars S&#248;rgard.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransedirektor-blir-nhh-professor-igjen/</prop>
+     <seg>Det ligger ingen dramatikk bak denne beslutningen, sier Lars S&#248;rgard.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.025</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/objection-against-the-merger-between-altia-and-arcus/?lang=en</prop>
+     <seg>and Arcus ASA.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/a2011-13-vinmonopolet-as.pdf.converted</prop>
+     <seg>Det f&#248;lger av</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.09559</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norwegian-competition-authority/cooperation-with-other-organisations/?lang=en</prop>
+     <seg>The authorities also work together in areas such as the exchange of information.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/styreplass-hos-konkurrenten-bor-vaere-forbudt/</prop>
+     <seg>Det er ikke noe forbud i Norge mot &#229; v&#230;re styremedlem i et konkurrerende selskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">2.63419</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>The turnover value that was the basis for the calculation of fines in the 2016 notification for Gyldendal and Aschehoug was not correct.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>Omsetningsverdien som ble lagt til grunn for beregning av gebyrene i varselet i 2016 for Gyldendal og Aschehoug var ikke korrekt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.02</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/closes-investigation-against-orkla-mondelez-and-norgesgruppen/?lang=en</prop>
+     <seg>&#8211; After thorough consideration, we have found no basis for continuing the investigation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/avslutter-etterforskningssaken-mot-orkla-mondelez-og-norgesgruppen/</prop>
+     <seg>&#8211; Etter grundige vurderinger har vi ikke funnet grunnlag for &#229; g&#229; videre med saken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.17222</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/the-effects-of-buyer-power-on-longterm-welfare.pdf.converted</prop>
+     <seg>surplus that a player is able to extract in the negotiations, is what the bargaining literaturerefers to as the player&#8217;s bargaining power.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/Simen-Aardal-Ulsaker-Konkurranseanalyser-i-oppst%C3%B8msmarkedet.pdf.converted</prop>
+     <seg>og sluttbrukervelferd avhenger kritisk av formen p&#229; de ikke-line&#230;re kontrak-tene og fordelingen av forhandlingsmakt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.64312</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/investigating-a-company-within-a-digital-market/?lang=en</prop>
+     <seg>&#8211; The investigation is initiated with a view to ascertain whether or not the prohibitions of Sections 11 and 10 of the Competition Act against abuses of a dominant position and anticompetitive agreements may have been infringed, says Director Hanne Dahl Amundsen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/etterforsker-selskap-i-et-digitalt-marked/</prop>
+     <seg>&#8211; Form&#229;let med &#229; starte denne saken er &#229; f&#229; bekreftet eller avkreftet mistanke om brudd p&#229; konkurranseloven &#167; 11 om misbruk av dominerende stilling og konkurranseloven &#167; 10 om konkurransebegrensende samarbeid, sier avdelingsdirekt&#248;r Hanne Dahl Amundsen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">1.60702</prop>
+    <prop type="score-bicleaner">0.686</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/closes-investigation-against-orkla-mondelez-and-norgesgruppen/?lang=en</prop>
+     <seg>Closes investigation against Orkla, Mondelez and Norgesgruppen</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/avslutter-etterforskningssaken-mot-orkla-mondelez-og-norgesgruppen/</prop>
+     <seg>Avslutter etterforskningssaken mot Orkla, Mondelez og Norgesgruppen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">3.0285</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/anonymous-dialogue-with-the-norwegian-competition-authority/?lang=en</prop>
+     <seg>This is an increase of 41 percent from 2018 when we received 308 tip-offs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/anonym-dialog-med-konkurransetilsynet/</prop>
+     <seg>Det er en &#248;kning p&#229; 41 prosent fra 2018 da vi mottok 308 tips.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">2.28692</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-exceeding-1-billion-nok-in-total-imposed-on-verisure-and-sector-alarm/?lang=en</prop>
+     <seg>The Authority has concluded that Verisure and Sector Alarm, by far the two largest players in the market, have engaged in market sharing practices in the period from 2011 until 2017.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/medhold-i-klagesaken-mot-verisure/</prop>
+     <seg>Konkurranseklagenemnda er enig med Konkurransetilsynet i at Verisure og Sector Alarm samarbeidet om &#229; dele marked seg imellom i perioden 2011 til 2017.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">1.33026</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2021/09/DAF-COMP-WP2-WD_2021_en.pdf.converted</prop>
+     <seg>The parties appealed NCA's decision.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v1999-78.pdf.converted</prop>
+     <seg>Samarbeidet er derfor p&#229; dette punkt ikke i strid med krrl.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.9402</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-cannot-buy-dolly-dimples/?lang=en</prop>
+     <seg>Peppes Pizza cannot buy Dolly Dimple&#8217;s</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-far-ikke-kjope-dolly-dimples/</prop>
+     <seg>Peppes Pizza f&#229;r ikke kj&#248;pe Dolly Dimple&#8217;s</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">1.31634</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norgesgruppen-is-fined-20-million-for-not-disclosing-acquisition-of-grocery-store-premises/?lang=en</prop>
+     <seg>&#8211; Section 24 of the Competition Act is the legal basis for issuing disclosure requirements. &#8211; Disclosure requirements ensure that the Competition Authority is made aware of acquisitions by the operators concerned, even if the regular notification thresholds are not met.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-15-millioner-i-gebyr-til-st1-norge-as/</prop>
+     <seg>&#8226; Opplysningsplikten er hjemlet i konkurranseloven &#167; 24. &#8226; Opplysningsplikten gj&#248;r Konkurransetilsynet oppmerksom p&#229; oppkj&#248;p o.l. som er under terskelverdiene for fusjoner og oppkj&#248;p.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">1.38372</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/CC-Competition-Neutrality-Norway.pdf.converted</prop>
+     <seg>This information can be particularly challenging when public enterprises are involved.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/a2000-13.pdf.converted</prop>
+     <seg>Vi har ogs&#229; vurdert avtalene i forhold til tidligere avtaler om levering av flis til plate- og papirproduksjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">3.22727</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-withdraws-notification-of-merger/?lang=en</prop>
+     <seg>According to the proposed transaction, Bonnier Books would have acquired 70 percent of the Norwegian publishing group Strawberry Publishing.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-trekker-foretakssammenslutning/</prop>
+     <seg>Oppkj&#248;pet ville medf&#248;rt at Bonnier Books kj&#248;pte 70 prosent av det norske forlagskonsernet Strawberry Publishing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">3.25352</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/telenor-judgment-final-fine-of-nok-788-million-upheld/?lang=en</prop>
+     <prop type="source-document">https://konkurransetilsynet.no/favourable-ruling-in-the-telenor-case-competition-tribunal-upholds-fine-of-788-million-nok-imposed-on-telenor/?lang=en</prop>
+     <prop type="source-document">https://konkurransetilsynet.no/norway-fines-telenor-788-million-nok-for-abuse-of-dominant-position/?lang=en</prop>
+     <seg>In 2007, Network Norway started the construction of a third mobile network together with Tele2.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/telenor-saken-avsluttet-788-millioner-kroner-i-gebyr/</prop>
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransetilsynet-far-fullt-medhold-opprettholder-gebyr-pa-788-millioner-til-telenor/</prop>
+     <prop type="source-document">https://konkurransetilsynet.no/788-millioner-i-gebyr-til-telenor/</prop>
+     <seg>Fra 2007 startet Network Norway byggingen av et tredje mobilnett sammen med Tele2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.025</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>Substitute Competition Director in the case</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>Settekonkurransedirekt&#248;r i forlagssak</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">1.02824</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/new-chief-economist-at-the-norwegian-competition-authority/?lang=en</prop>
+     <seg>As a professor at the NHH, Brekke has been actively engaged in the field of competition policy over the years, and has achieved a strong professional background that is important to the Competition Authority, says director general Lars S&#248;rgard.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/ny-sjefokonom-i-konkurransetilsynet-3/</prop>
+     <seg>Brekke har med utgangspunkt i sitt professorat over &#229;r engasjert seg kraftig p&#229; konkurranseomr&#229;det, og har med dette f&#229;tt en faglig tung bakgrunn som er viktig for Konkurransetilsynet, sier konkurransedirekt&#248;r Lars S&#248;rgard.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.25882</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-withdraws-notification-of-merger/?lang=en</prop>
+     <seg>Following the statement of objections, Bonnier Books and Strawberry Publishing have chosen to change the distribution of ownership so that Bonnier instead becomes a minority shareholder in Strawberry.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-trekker-foretakssammenslutning/</prop>
+     <seg>I etterkant av Konkurransetilsynets varsel har Bonnier Books og Strawberry Publishing valgt &#229; endre eierfordelingen, slik at Bonnier i stedet blir minoritetseier i Strawberry.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">1.22991</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/12/The-Akzo-presumtion-3.pdf.converted</prop>
+     <seg>It therefore follows that the reason for parental liability cannot bethat the parent and the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/vedtak-v2018-19-offentlig-versjon-st1-sfrm.pdf.converted</prop>
+     <seg>Det er innenfor salg til meglere og videreselgere at partene har den st&#248;rste kundeoverlappen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">1.18571</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-norwegian-competition-authority-imposes-a-fine-of-nok-3-million-on-st1-norge-as/?lang=en</prop>
+     <seg>Broadband services: Telenor ASA</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/st1-norge-ilagt-gebyr-for-overtredelse-av-opplysningsplikten/</prop>
+     <seg>Bredb&#229;nd (Telenor ASA)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">2.15029</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>&#8211; Publishers Aschehoug, Cappelen Damm, Gyldendal and Schibsted Forlag have violated the competition law.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>&#8211; Forlagene Aschehoug, Cappelen Damm, Gyldendal og Schibsted Forlag har brutt konkurranseloven.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">1.07532</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>They have cooperated in the form of a collective boycott of the distributor Interpress, and exchanged competitively sensitive information, said substitute Competition Director Mads Magnussen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>De har samarbeidet om en kollektiv boikott av distribut&#248;ren Interpress, og utvekslet konkurransesensitiv informasjon, sier settekonkurransedirekt&#248;r Mads Magnussen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">2.7748</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-exceeding-1-billion-nok-in-total-imposed-on-verisure-and-sector-alarm/?lang=en</prop>
+     <seg>&#8226; From February 2018 until September 2020, the Authority conducted interviews with employees from both companies.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/medhold-i-klagesaken-mot-verisure/</prop>
+     <seg>I perioden februar 2018 til september 2020 ble det gjennomf&#248;rt forklaringsopptak med sentrale personer i de to involverte foretakene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">1.84704</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/favourable-ruling-in-the-telenor-case-competition-tribunal-upholds-fine-of-788-million-nok-imposed-on-telenor/?lang=en</prop>
+     <seg>The Norwegian Competition Tribunal upholds the fine of 788 million NOK, which is the highest fine imposed on a company in Norway for an infringement of the Competition Act.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransetilsynet-far-fullt-medhold-opprettholder-gebyr-pa-788-millioner-til-telenor/</prop>
+     <seg>Klagenemnda opprettholder det ilagte gebyret p&#229; 788 millioner kroner, noe som er det h&#248;yeste gebyret ilagt et foretak i Norge for overtredelse av konkurranseloven.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.08558</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2020/07/Rapport-6-2020-Leniency-and-Criminalisation-of-Cartels.pdf.converted</prop>
+     <seg>extend the EPPO collaboration to include cartel activity as a &#8216;serious crime&#8217;, in line with</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2021/12/Masteroppgave-Alida-Masvie-Hovland-2021.pdf.converted</prop>
+     <seg>avveining av tilsvarende verdier som de som finnes i EMK og at EU-domstolen selv har vur-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">3.23462</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/favourable-ruling-in-the-telenor-case-competition-tribunal-upholds-fine-of-788-million-nok-imposed-on-telenor/?lang=en</prop>
+     <seg>Favourable ruling in the Telenor case &#8211; competition tribunal upholds fine of 788 million NOK imposed on Telenor</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransetilsynet-far-fullt-medhold-opprettholder-gebyr-pa-788-millioner-til-telenor/</prop>
+     <seg>Konkurransetilsynet f&#229;r fullt medhold &#8211; opprettholder gebyr p&#229; 788 millioner til Telenor</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">2.33554</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norway-fines-telenor-788-million-nok-for-abuse-of-dominant-position/?lang=en</prop>
+     <seg>The Norwegian Competition Authority imposes a fine of 788 million NOK on Telenor for abusing its dominant position in the Norwegian mobile market.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/788-millioner-i-gebyr-til-telenor/</prop>
+     <seg>Konkurransetilsynet ilegger Telenor et gebyr p&#229; 788 millioner kroner for &#229; ha misbrukt sin dominerende stilling i det norske mobilmarkedet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">1.28846</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/schibsted-must-sell-nettbil/?lang=en</prop>
+     <prop type="source-document">https://konkurransetilsynet.no/competition-tribunal-upholds-decision-to-block-schibsteds-acquisition-of-nettbil/?lang=en</prop>
+     <seg>Schibsted ASA and Nettbil AS operate competing digital marketplaces for private persons who wish to sell their used cars.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/medhold-i-at-foretakssammenslutningen-mellom-schibsted-og-nettbil-forbys/</prop>
+     <prop type="source-document">https://konkurransetilsynet.no/schibsted-ma-selge-nettbil/</prop>
+     <seg>Schibsted ASA og Nettbil AS konkurrerer om &#229; tilby en digital markedsplass til privatpersoner som &#248;nsker &#229; selge sin bruktbil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">4.07381</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/new-chief-economist-at-the-norwegian-competition-authority/?lang=en</prop>
+     <seg>Brekke is 47 years old and a professor at the Norwegian School of Economics (NHH).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/ny-sjefokonom-i-konkurransetilsynet-3/</prop>
+     <seg>Brekke er 47 &#229;r og professor ved Norges Handelsh&#248;yskole (NHH).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.04189</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>&#8211; The four publishers account for the majority of books supplied to Norwegian consumers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>&#8211; De fire forlagene st&#229;r for hoveddelen av leveransene av b&#248;ker til norske forbrukere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.06318</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norwegian-competition-authority-blocks-eimskip-nor-lines/?lang=en</prop>
+     <seg>The Authority has collected substantial information from the parties, other shipping companies, road transportation undertakings, harbours and customers in the market.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/sjotransport-forbyr-eimskip-nor-lines/</prop>
+     <seg>Konkurransetilsynet har i sin vurdering innhentet betydelig informasjon fra partene, andre sj&#248;transport&#248;rer, veitransport&#248;rer, havner og kunder i markedet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.02429</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norway-fines-the-vy-group-7-5-million/?lang=en</prop>
+     <seg>&#8211; The obligation to give correct and complete information to the Authority is essential in order for the Authority to be able to enforce the Competition Act, says Deputy Director Kjersti Bruaas at the NCA&#8217;s Department for Finance and Communication.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/75-millioner-i-gebyr-til-vy/</prop>
+     <seg>&#8211; Plikten til &#229; gi riktige og fullstendige opplysninger til Konkurransetilsynet er grunnleggende for at tilsynet skal kunne v&#230;re i stand til &#229; h&#229;ndheve konkurranseloven, sier nestleder Kjersti Bruaas ved avdeling for finans og kommunikasjon i Konkurransetilsynet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.04091</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/09/non-price-effects-of-mergers-note-by-norway.pdf.converted</prop>
+     <seg>From the table, we see that non-price effects are frequently mentioned in the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/2_2018_fusjonskontrollen-og-avhjelpende-tiltak-med-forsiden.pdf.converted</prop>
+     <seg>P&#229; den annen side, dersom kjedene i denne saken benyttet nasjonal prising, er</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">2.94885</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fined-for-collusive-bidding/?lang=en</prop>
+     <seg>Johny Birkeland Transport AS / Norva 24 AS and Lindum AS are fined, respectively, 2.6 and 3.9 million Norwegian kroner for collusive bidding.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-anbudssamarbeid/</prop>
+     <seg>Johny Birkeland Transport AS/Norva 24 AS og Lindum AS er ilagt gebyrer p&#229; henholdsvis 2,6 og 3,9 millioner kroner for ulovlig anbudssamarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">1.17143</prop>
+    <prop type="score-bicleaner">0.692</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/considers-imposing-fines-on-five-companies-in-the-book-market-totalling-nok-502-million/?lang=en</prop>
+     <seg>Information exchanged via database operated by Bokbasen</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-502-millioner-i-gebyrer-til-fem-aktorer-i-bokmarkedet/</prop>
+     <seg>Har utvekslet informasjon via Bokbasen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.15345</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/CC-Competition-Neutrality-Norway.pdf.converted</prop>
+     <seg>An analysis of competition between public and private enterprises</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/a2000-13.pdf.converted</prop>
+     <seg>Det finnes mange typer konstruksjonselementer som anvendes i bygg og anlegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">5.29938</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/dnbs-acquisition-of-sbanken-subject-to-in-depth-review/?lang=en</prop>
+     <seg>The Authority&#8217;s deadline is 26 August.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-mulig-stans-av-dnbs-kjop-av-sbanken/?lang=en%22%20%5Ct%20%22_blank</prop>
+     <seg>Tilsynet har frist til 26.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.08798</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/considers-imposing-fines-on-five-companies-in-the-book-market-totalling-nok-502-million/?lang=en</prop>
+     <seg>Information exchanges about future prices are at the core of what is regarded as harmful to competition, and may lead to higher prices for consumers, says Project Manager Jan Petter Fedje at the Competition Authority.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-502-millioner-i-gebyrer-til-fem-aktorer-i-bokmarkedet/</prop>
+     <seg>Informasjonsutveksling som omfatter fremtidige priser er i kjernen av hva som anses som skadelig for konkurransen, og kan f&#248;re til at forbrukerne m&#229; betale h&#248;yere priser, sier prosjektleder Jan Petter Fedje i Konkurransetilsynet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">1.67839</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-competition-authority-considers-imposing-a-fine-of-nok-906-million-on-telenor/?lang=en</prop>
+     <seg>&#8211; Infringements of the Competition Act&#8217;s ban on abuse of a dominant position are very serious, and the notified fine of NOK 906 million underlines this, says S&#248;rgard.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-906-millioner-kroner-i-gebyr-til-telenor/</prop>
+     <seg>&#8211; Brudd p&#229; konkurranselovens forbud mot misbruk av dominerende stilling er sv&#230;rt alvorlig, og gebyret p&#229; 906 millioner kroner som n&#229; er varslet, understreker dette, sier S&#248;rgard.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.16909</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/A_Vision_for_Competition.pdf.converted</prop>
+     <seg>- Effective competition policy requires adequate legal powers</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/10/effekten-av-friere-bokpriser.pdf.converted</prop>
+     <seg>Uttalelser fra personer i bransjen erholdt anonyme, i tr&#229;d med konfidensialitetsavtaler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="121" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-withdraws-notification-of-merger/?lang=en</prop>
+     <seg>Bonnier Books withdraws notification of merger</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/bonnier-books-trekker-foretakssammenslutning/</prop>
+     <seg>Bonnier Books trekker foretakssammenslutning</seg>
+    </tuv>
+   </tu>
+   <tu tuid="122" datatype="Text">
+    <prop type="score-hunalign">3.04286</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/objections-against-prosafes-acquisition-of-floatel/?lang=en</prop>
+     <seg>The Authority then has 15 working days to make its final decision.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-stans-av-prosafes-oppkjop-av-floatel/</prop>
+     <seg>Tilsynet har deretter 15 arbeidsdager til &#229; treffe endelig vedtak i saken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="123" datatype="Text">
+    <prop type="score-hunalign">1.07055</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/dnbs-acquisition-of-sbanken-subject-to-in-depth-review/?lang=en</prop>
+     <seg>&#8211; The Authority will now continue its assessment of the acquisition and the impact it may have on competition in the market for mutual funds.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-mulig-stans-av-dnbs-kjop-av-sbanken/?lang=en%22%20%5Ct%20%22_blank</prop>
+     <seg>&#8211; Konkurransetilsynet vil n&#229; fortsette analysene av virkningene oppkj&#248;pet vil ha for konkurransen i markedet for fondssparing.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="124" datatype="Text">
+    <prop type="score-hunalign">2.54732</prop>
+    <prop type="score-bicleaner">0.528</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-competition-authority-considers-imposing-a-fine-of-nok-906-million-on-telenor/?lang=en</prop>
+     <seg>The Norwegian Competition Authority has today issued a Statement of Objections to Telenor for abuse of a dominant position, and has informed Telenor that it is considering imposing a fine of NOK 906 million for the infringement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-906-millioner-kroner-i-gebyr-til-telenor/</prop>
+     <seg>Konkurransetilsynet varsler i dag et gebyr p&#229; 906 millioner kroner til Telenor for misbruk av dominerende stilling.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="125" datatype="Text">
+    <prop type="score-hunalign">1.25555</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/Samfunnsmessige-hensyn-i-fusjonsvurderingen-Norge.pdf.converted</prop>
+     <seg>In addition, the Ministry's possibility to instruct and reverse the NCA's decisions in individual cases should be limited.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/2014-0422-2-horingsuttalelse-nou-2014-11-konkurranseklagenemnda.pdf.converted</prop>
+     <seg>Konkurransetilsynet mener at det i tillegg kan vurderes &#229; lovfeste at Konkurranseklagenemnda ikke skal ha adgang til &#229; instruere tilsynet om &#229; utrede ulike forhold for nemnda.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="126" datatype="Text">
+    <prop type="score-hunalign">2.05439</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/undertakings-fined-millions-for-bid-rigging/?lang=en</prop>
+     <seg>The Competition Authority has adopted a decision, which imposes fines on three undertakings, Arro Elektro AS/Arro Holding AS (&#8220;Arro&#8221;), Caverion Norge AS/Caverion Oyj (&#8220;Caverion&#8221;) and Ingeni&#248;r Ivar Pettersen AS/Pettersen AS (&#8220;Pettersen&#8221;), for breaches of the Competition Act by way of bid rigging.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-kartell-virksomhet/</prop>
+     <seg>Konkurransetilsynet har fattet vedtak om at Arro Elektro AS/Arro Holding AS (&#171;Arro&#187;), Caverion Norge AS/Caverion Oyj (&#171;Caverion&#187;) og Ingeni&#248;r Ivar Pettersen AS/Pettersen AS (&#171;Pettersen&#187;) ilegges overtredelsesgebyr for brudd p&#229; konkurranseloven i form av ulovlig anbudssamarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="127" datatype="Text">
+    <prop type="score-hunalign">1.05985</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2019/02/16_2018-Mergers.pdf.converted</prop>
+     <seg>consumers who are potential multihomers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v2000-85.pdf.converted</prop>
+     <seg>&#197;rlig omsetning av farge- og interi&#248;rvarer i Norge er ca.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="128" datatype="Text">
+    <prop type="score-hunalign">1.33879</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/monitoring-of-the-norwegian-aviation-market-expanded/?lang=en</prop>
+     <seg>This is in line with the wishes of the Minister of Trade and Industry, Iselin Nyb&#248;, and the Minister of Transport, Knut Arild Hareide.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/utvider-overvakningen-av-det-norske-luftfartsmarkedet/</prop>
+     <seg>Dette er tr&#229;d med det n&#230;ringsminister Iselin Nyb&#248; og samferdselsminister Knut Arild Hareide &#248;nsker.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="129" datatype="Text">
+    <prop type="score-hunalign">1.47917</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/grocery-task-force-officially-started-2/?lang=en</prop>
+     <seg>Economist Sigurd Birkeland has been appointed leader of the task force, and expects to have the other members of the task force in place in August, says Director General Lars S&#248;rgard.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/formelt-i-gang-med-dagligvaresatsingen/</prop>
+     <seg>&#216;konom Sigurd Birkeland, vil lede prosjektgruppen, og venter &#229; f&#229; p&#229; plass resten av medlemmene av prosjektet i l&#248;pet av august, sier konkurransedirekt&#248;r Lars S&#248;rgard.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="130" datatype="Text">
+    <prop type="score-hunalign">1.64242</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/still-considering-to-intervene-against-dnbs-acquisition-of-sbanken/?lang=en</prop>
+     <seg>The deadline for DNB and Sbanken to submit their comments to the Authority&#8217;s statement of objections is 16 September.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/fortsatt-aktuelt-a-stanse-dnbs-kjop-av-sbanken/</prop>
+     <seg>DNB og Sbanken har n&#229; frist til torsdag 16. september med &#229; komme med sitt svar p&#229; Konkurransetilsynets varsel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="131" datatype="Text">
+    <prop type="score-hunalign">1.13106</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/new-chief-economist-at-the-norwegian-competition-authority/?lang=en</prop>
+     <seg>In fact, my first job as a graduate was with the Competition Authority, says Kurt Brekke.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/ny-sjefokonom-i-konkurransetilsynet-3/</prop>
+     <seg>Min f&#248;rste jobb etter studiene var faktisk i Konkurransetilsynet, sier Brekke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="132" datatype="Text">
+    <prop type="score-hunalign">1.03077</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/06_RETAIL_BANKING.pdf.converted</prop>
+     <seg>These recommendations are developed to enhance competition in retail banking markets in the Nordic countries for the benefit of consumers in terms of better products and lower costs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v1998-68.pdf.converted</prop>
+     <seg>Samlet sett inneb&#230;rer opprettelsen av &#216;ko Kraft at eierselskapene trekker seg ut av henholdsvis engrosmarkedet og sluttbrukermarkedet for kraft og koordinerer denne virksomheten i &#216;ko Kraft.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="133" datatype="Text">
+    <prop type="score-hunalign">3.29516</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/still-considering-to-intervene-against-dnbs-acquisition-of-sbanken/?lang=en</prop>
+     <seg>Thereafter, the Authority has 15 working days to make its final decision.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/fortsatt-aktuelt-a-stanse-dnbs-kjop-av-sbanken/</prop>
+     <seg>Tilsynet har deretter 15 virkedager p&#229; komme til en endelig konklusjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="134" datatype="Text">
+    <prop type="score-hunalign">1.255</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-cannot-buy-dolly-dimples/?lang=en</prop>
+     <seg>Peppes Pizza will gain increased market power that could lead to harm to consumers, says Director Magnus Gabrielsen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/peppes-pizza-far-ikke-kjope-dolly-dimples/</prop>
+     <seg>Peppes Pizza ville f&#229;tt &#248;kt markedsmakt som de kunne utnyttet til ulempe for forbrukerne, sier avdelingsdirekt&#248;r Magnus Gabrielsen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="135" datatype="Text">
+    <prop type="score-hunalign">1.15116</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-competition-authority-considers-imposing-a-fine-of-nok-906-million-on-telenor/?lang=en</prop>
+     <seg>&#8211; In Norway there is a high consumption of mobile services.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-906-millioner-kroner-i-gebyr-til-telenor/</prop>
+     <seg>&#8211; I Norge er vi storforbrukere av mobiltjenester.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="136" datatype="Text">
+    <prop type="score-hunalign">1.00625</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2020/07/Rapport-6-2020-Leniency-and-Criminalisation-of-Cartels.pdf.converted</prop>
+     <seg>This means that EPPO does not give the Commission competence to operate as a</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2021/12/Masteroppgave-Alida-Masvie-Hovland-2021.pdf.converted</prop>
+     <seg>I samme retning trekker det at selvinkrimineringsvernet i EU-retten er et ulovfestet forvalt-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="137" datatype="Text">
+    <prop type="score-hunalign">1.0027</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/ROUNDTABLE-ON-MARKET-DEFINITION-Note-by-the-delegation-of-Norway.pdf.converted</prop>
+     <seg>The questionnaires were fully piloted in two of the newspapers prior to finalisation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v1999-29.pdf.converted</prop>
+     <seg>Hvis rabatter beregnes kun for utvalgte kunder vil beregningene for den enkelte produsent bli mindre omfattende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="138" datatype="Text">
+    <prop type="score-hunalign">1.71327</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/new-chief-economist-at-the-norwegian-competition-authority/?lang=en</prop>
+     <seg>Brekke is the leader of the research program &#8220;Industrial Organization and Competition Policy&#8221;, Centre for Applied Research at NHH (SNF), and a member of the management team of the Center for Competition Law and Economics (Beccle).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/ny-sjefokonom-i-konkurransetilsynet-3/</prop>
+     <seg>Brekke er for tiden leder av forskningsprogrammet N&#230;rings&#248;konomi og konkurransepolitikk ved SNF og Centre for Industrial Organisation (CIO) ved NHH, og er en del av ledergruppen til Bergen Center for Competition Law and Economics (BECCLE).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="139" datatype="Text">
+    <prop type="score-hunalign">2.54423</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/competition-crime-one-in-three-business-executives-say-illegal-cooperation-takes-place-in-their-own-industry/?lang=en</prop>
+     <seg>&#8211; We note that 80 % of the business leaders regard the loss of goodwill as the most important reason to avoid competition crime.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransekriminalitet-en-av-tre-bedriftsledere-mener-det-skjer-ulovlig-samarbeid-i-egen-bransje/</prop>
+     <seg>&#8211;Vi ser at 80 prosent av bedriftslederne mener omd&#248;mmetap er den viktigste grunnen til &#229; unng&#229; konkurransekriminalitet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="140" datatype="Text">
+    <prop type="score-hunalign">1.15542</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/considers-imposing-fines-on-five-companies-in-the-book-market-totalling-nok-502-million/?lang=en</prop>
+     <seg>The publishers have had an insight into and influence over the operations of Bokbasen, including the services offered and the information that could be exchanged via the database.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-502-millioner-i-gebyrer-til-fem-aktorer-i-bokmarkedet/</prop>
+     <seg>Forlagene har hatt innsikt i og innflytelse over Bokbasen, tjenestene som tilbys og informasjonen som kunne utveksles via databasen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="141" datatype="Text">
+    <prop type="score-hunalign">2.38553</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-norwegian-competition-authority-imposes-a-fine-of-nok-3-million-on-st1-norge-as/?lang=en</prop>
+     <seg>Consequently, the Authority has reduced the fine significantly, from NOK 15 million to 3 million.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/st1-norge-ilagt-gebyr-for-overtredelse-av-opplysningsplikten/</prop>
+     <seg>Som konsekvens av dette har tilsynet redusert det varslede gebyret i denne saken betydelig, fra 15 millioner kroner til 3 millioner kroner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="142" datatype="Text">
+    <prop type="score-hunalign">1.11548</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/closes-investigation-against-circle-k-and-yx/?lang=en</prop>
+     <seg>This led to a change in the weekly price pattern.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/kronikk-rentesignaler-kan-gi-dyrere-boliglan/</prop>
+     <seg>Dette gjelder ogs&#229; i boligl&#229;nsmarkedet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="143" datatype="Text">
+    <prop type="score-hunalign">1.01557</prop>
+    <prop type="score-bicleaner">0.624</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/the-competition-act-during-the-corona-crisis-a-joint-eu-eea-statement/?lang=en</prop>
+     <seg>The Competition Act during the corona crisis &#8211; a joint EU/EEA statement</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransereglene-under-koronakrisen/</prop>
+     <seg>Konkurransereglene under koronakrisen &#8211; felles uttalelse fra EU/E&#216;S landene</seg>
+    </tuv>
+   </tu>
+   <tu tuid="144" datatype="Text">
+    <prop type="score-hunalign">1.36346</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/objections-against-prosafes-acquisition-of-floatel/?lang=en</prop>
+     <seg>Objections against Prosafe&#8217;s acquisition of Floatel</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-stans-av-prosafes-oppkjop-av-floatel/</prop>
+     <seg>Varsler stans av Prosafes oppkj&#248;p av Floatel</seg>
+    </tuv>
+   </tu>
+   <tu tuid="145" datatype="Text">
+    <prop type="score-hunalign">2.41751</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/director-general-returns-to-professorship-at-norwegian-school-of-economics-nhh/?lang=en</prop>
+     <seg>Lars S&#248;rgard will continue as Director General of the Norwegian Competition Authority until January 2022, but will then return to his position as Professor of Economics at the Norwegian School of Economics (NHH).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/konkurransedirektor-blir-nhh-professor-igjen/</prop>
+     <seg>Lars S&#248;rgard fortsetter som direkt&#248;r i Konkurransetilsynet ut januar 2022, men skal da tilbake til stillingen som professor i samfunns&#248;konomi ved Norges Handelsh&#248;yskole (NHH).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="146" datatype="Text">
+    <prop type="score-hunalign">1.07112</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/objections-against-prosafes-acquisition-of-floatel/?lang=en</prop>
+     <seg>Prosafe and Floatel are the only suppliers that can offer modern semi-submersible accommodation units on the Norwegian continental shelf.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-stans-av-prosafes-oppkjop-av-floatel/</prop>
+     <seg>Prosafe og Floatel er de eneste tilbydere av nyere halvt nedsenkbare boligplattformer p&#229; norsk sokkel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="147" datatype="Text">
+    <prop type="score-hunalign">2.1605</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/monitoring-of-the-norwegian-aviation-market-expanded/?lang=en</prop>
+     <seg>Since 2013, SAS and Norwegian have been subject to special reporting obligations requiring the two airlines to provide certain information to the Competition Authority.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/utvider-overvakningen-av-det-norske-luftfartsmarkedet/</prop>
+     <seg>SAS og Norwegian har siden 2013 v&#230;rt ilagt et s&#230;rlig p&#229;legg om &#229; gi informasjon til Konkurransetilsynet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="148" datatype="Text">
+    <prop type="score-hunalign">1.10592</prop>
+    <prop type="score-bicleaner">0.746</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>Fines for collusion in the publishing industry</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>Milliongebyr for ulovlig samarbeid i forlagsbransjen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="149" datatype="Text">
+    <prop type="score-hunalign">2.46022</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norway-fines-telenor-788-million-nok-for-abuse-of-dominant-position/?lang=en</prop>
+     <seg>Telenor has been fined 788 million NOK, the highest fine ever imposed by the Norwegian Competition Authority.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/788-millioner-i-gebyr-til-telenor/</prop>
+     <seg>Telenor ilegges et gebyr p&#229; 788 millioner kroner, det h&#248;yeste gebyret gitt av Konkurransetilsynet noensinne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="150" datatype="Text">
+    <prop type="score-hunalign">1.62339</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/closes-investigation-against-orkla-mondelez-and-norgesgruppen/?lang=en</prop>
+     <seg>The Norwegian Competition Authority closes its investigation against Orkla, Mondelez and Norgesgruppen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/avslutter-etterforskningssaken-mot-orkla-mondelez-og-norgesgruppen/</prop>
+     <seg>Konkurransetilsynet avslutter etterforskningssaken mot Orkla, Mondelez og Norgesgruppen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="151" datatype="Text">
+    <prop type="score-hunalign">1.90714</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-for-collusion-in-the-publishing-industry/?lang=en</prop>
+     <seg>&#8211; Coordinated behavior restricting competition is a serious breach of competition rules and the fines imposed on the publishers totaling NOK 32 million underlines this, says Nese.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-ulovlig-samarbeid-i-forlagsbransjen/</prop>
+     <seg>&#8211; Konkurransebegrensende samarbeid er et alvorlig brudd p&#229; konkurransereglene og gebyrene p&#229; til sammen 32 millioner kroner som er ilagt forlagene understreker dette, sier Nese.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="152" datatype="Text">
+    <prop type="score-hunalign">1.35227</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/undertakings-fined-millions-for-bid-rigging/?lang=en</prop>
+     <seg>This is a misuse of public funds, says Head of Project, Hanne Aanstad-Lund.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-kartell-virksomhet/</prop>
+     <seg>Dette er urettmessig bruk av fellesskapets midler, sier prosjektleder Hanne Aanstad-Lund.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="153" datatype="Text">
+    <prop type="score-hunalign">1.11136</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/still-considering-to-intervene-against-dnbs-acquisition-of-sbanken/?lang=en</prop>
+     <seg>&#8211; DNB is already the largest provider in the market.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/fortsatt-aktuelt-a-stanse-dnbs-kjop-av-sbanken/</prop>
+     <seg>&#8211; DNB er allerede den st&#248;rste tilbyderen i markedet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="154" datatype="Text">
+    <prop type="score-hunalign">1.5164</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/considers-imposing-fines-on-five-companies-in-the-book-market-totalling-nok-502-million/?lang=en</prop>
+     <seg>The Ministry of Trade, Industry and Fisheries has appointed Eirik Stolt-Nielsen as substitute Director General for Lars S&#248;rgard, who recused himself from the case.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-502-millioner-i-gebyrer-til-fem-aktorer-i-bokmarkedet/</prop>
+     <seg>N&#230;rings- og fiskeridepartementet har oppnevnt Eirik Stolt-Nielsen som settekonkurransedirekt&#248;r i saken, da konkurransedirekt&#248;r Lars S&#248;rgard er inhabil.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="155" datatype="Text">
+    <prop type="score-hunalign">3.7083</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/guidance-for-companies-providing-critical-goods-and-services-to-covid-19-patients/?lang=en</prop>
+     <seg>Guidance for companies providing critical goods and services to COVID-19 patients</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/veiledning-for-selskaper-som-leverer-kritiske-varer-og-tjenester-til-covid-19-pasienter/</prop>
+     <seg>Veiledning for selskaper som leverer kritiske varer og tjenester til COVID-19 pasienter</seg>
+    </tuv>
+   </tu>
+   <tu tuid="156" datatype="Text">
+    <prop type="score-hunalign">1.86792</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/guidance-for-companies-providing-critical-goods-and-services-to-covid-19-patients/?lang=en</prop>
+     <seg>The Commission&#8217;s guidance was published in the Official Journal on April 8, and can be read here:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/veiledning-for-selskaper-som-leverer-kritiske-varer-og-tjenester-til-covid-19-pasienter/</prop>
+     <seg>Kommisjonens veiledning ble publisert i Official Journal 8. april, og kan leses her:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="157" datatype="Text">
+    <prop type="score-hunalign">1.29118</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/grocery-task-force-officially-started-2/?lang=en</prop>
+     <seg>Grocery task force officially started</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/formelt-i-gang-med-dagligvaresatsingen/</prop>
+     <seg>Formelt i gang med dagligvaresatsingen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="158" datatype="Text">
+    <prop type="score-hunalign">1.22386</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/09/non-price-effects-of-mergers-note-by-norway.pdf.converted</prop>
+     <seg>merger decisions, but very rarely actually analysed in any detail by the NCA.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/2_2018_fusjonskontrollen-og-avhjelpende-tiltak-med-forsiden.pdf.converted</prop>
+     <seg>det, som vi har vist, lite som tyder p&#229; at de avhjelpende tiltakene var effektive.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="159" datatype="Text">
+    <prop type="score-hunalign">1.03099</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/norway-fines-the-vy-group-7-5-million/?lang=en</prop>
+     <seg>The incorrect or incomplete information in the notification was relevant for the Authority&#8217;s assessment, but did not have a decisive impact on the outcome of the case.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/75-millioner-i-gebyr-til-vy/</prop>
+     <seg>De uriktige eller ufullstendige opplysningene i meldingen var relevante for tilsynets vurderinger, men de var ikke av avgj&#248;rende betydning for det endelige utfallet av saken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="160" datatype="Text">
+    <prop type="score-hunalign">4.20377</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/fines-exceeding-1-billion-nok-in-total-imposed-on-verisure-and-sector-alarm/?lang=en</prop>
+     <seg>&#8226; Verisure AS submitted its reply to the Statement of Objections in November 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/medhold-i-klagesaken-mot-verisure/</prop>
+     <seg>Verisure AS innga sine merknader til varslet i november 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="161" datatype="Text">
+    <prop type="score-hunalign">2.96171</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/considers-imposing-fines-on-five-companies-in-the-book-market-totalling-nok-502-million/?lang=en</prop>
+     <seg>The Norwegian Competition Authority warns in a statement of objections that it considers imposing fines of NOK 502 million in total on the four publishers Cappelen Damm, Forlagshuset Vigmostad &amp; Bj&#248;rke, Gyldendal and Aschehoug, and the book database company Bokbasen.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/varsler-502-millioner-i-gebyrer-til-fem-aktorer-i-bokmarkedet/</prop>
+     <seg>Konkurransetilsynet varsler overtredelsesgebyrer p&#229; til sammen 502 millioner kroner til forlagene Cappelen Damm, Forlagshuset Vigmostad &amp; Bj&#248;rke, Gyldendal og Aschehoug, samt Bokbasen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="162" datatype="Text">
+    <prop type="score-hunalign">2.59068</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/undertakings-fined-millions-for-bid-rigging/?lang=en</prop>
+     <seg>The Competition Authority has found that Arro, Caverion and Pettersen allocated contracts between themselves from December 2012 to October 2013.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/milliongebyr-for-kartell-virksomhet/</prop>
+     <seg>Konkurransetilsynet har funnet det bevist at Arro, Caverion og Pettersen fordelte oppdrag mellom seg i forbindelse med inngivelse av anbud fra desember 2012 til oktober 2013.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="163" datatype="Text">
+    <prop type="score-hunalign">1.02857</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/Lojalitetsrabatter-Norge.pdf.converted</prop>
+     <seg>However, many of these benefits can be attained even without FFP.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://konkurransetilsynet.no/wp-content/uploads/2018/08/v1999-51.pdf.converted</prop>
+     <seg>Elektrotema AS har i dag fire franchisetakere i tillegg til hovedselskapets butikk p&#229; Forus.</seg>
+    </tuv>
+   </tu>
+ </body>
+</tmx>

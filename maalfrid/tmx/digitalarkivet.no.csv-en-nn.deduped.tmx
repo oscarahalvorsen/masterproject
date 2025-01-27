@@ -1,0 +1,835 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T140528" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.81667</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/8799</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/8798</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/8796</prop>
+     <seg>Fana parish, Fana local parish, Birkeland local parish</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/8799</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/8796</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/8798</prop>
+     <seg>Fana prgj, Fana sokn, Birkeland sokn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">7.19655</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/35490</prop>
+     <seg>Landed property index for Nordlands amt 1838</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/35490</prop>
+     <seg>Matrikkel for Nordlands amt 1838</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">7.20323</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/35474</prop>
+     <seg>Landed property index for Smaalenenes amt 1838</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/35474</prop>
+     <seg>Matrikkel for Smaalenenes amt 1838</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.03333</prop>
+    <prop type="score-bicleaner">0.599</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/digital-formats</prop>
+     <seg>You can find searchable archive sources via</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/digitale-format</prop>
+     <seg>Du kan s&#248;kje etter s&#248;kbare arkivkjelder i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.00517</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>Error messages can also occur when a long time has passed between registration and an attempt to activate the account.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Feilmeldinga kan &#242;g skuldast at du har venta for lenge fr&#229; du registrerte deg til du aktiverte kontoen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">6.64524</prop>
+    <prop type="score-bicleaner">0.605</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/35489</prop>
+     <seg>Landed property index for Nordre Trondhjems amt 1838</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/35489</prop>
+     <seg>Matrikkel for Nordre Trondhjems amt 1838</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.16173</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>If you have Internet Explorer as your standard web brower, try opening the activation link in another web browser such as Firefox or Chrome.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Om du har Internet Explorer som standard nettlesar, fors&#248;k &#229; opne aktiveringslenka i ein annan nettlesar, som Firefox eller Chrome.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.68261</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/2118</prop>
+     <seg>Fana parish, Birkeland local parish</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/2118</prop>
+     <seg>Fana prgj, Birkeland sokn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.35</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>Now press enter on the keyboard.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Trykk p&#229; Enter-tasten p&#229; tastaturet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.92169</prop>
+    <prop type="score-bicleaner">0.521</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143772</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143770</prop>
+     <seg>Nomination of William Randal Cremer (United Kingdom), Chevalier Edouard Eug&#232;ne Descamps (Belgium), Czar Nikolai II (Russian Empire), Fr&#233;d&#233;ric Passy (France) and Baroness Bertha Sophie von Suttner (Austria-Hungary) for the Nobel Peace Prize for 1901.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/143770</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/143772</prop>
+     <seg>Nominasjon til Nobels fredspris for 1901 av William Randal Cremer (Storbritannia), Chevalier Edouard Eug&#232;ne Descamps (Belgia), Czar Nikolai II (Det russiske tsard&#248;mmet), Fr&#233;d&#233;ric Passy (Frankrike) og Baronesse Bertha Sophie von Suttner (&#216;sterrike-Ungarn).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">7.20323</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/35476</prop>
+     <seg>Landed property index for Hedemarkens amt 1838</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/35476</prop>
+     <seg>Matrikkel for Hedemarkens amt 1838</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.43261</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>for topics that you yourself, or others have created.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>p&#229; eit emne, b&#229;de p&#229; emne andre har oppretta og p&#229; emne du sj&#248;lv har oppretta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.14615</prop>
+    <prop type="score-bicleaner">0.637</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143807</prop>
+     <seg>Nominated by Baron Clemens von Pirquet (Austria-Hungary).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/143807</prop>
+     <seg>Nominert av Baron Clemens von Pirquet (&#216;sterrike-Ungarn).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.07836</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>Login to The Digital Archives with the same email and password you use in the discussion forums.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Logg inn p&#229; nettsidene til Digitalarkivet med same e-postadresse og passord du har i debattane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.09714</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/digital-formats</prop>
+     <seg>An archive source must be available in at least one form, but can also be available in multiple.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/digitale-format</prop>
+     <seg>Ei arkivkjelde i Digitalarkivet m&#229; vere tilgjengeleg i minst ei form, men kan vere tilgjengeleg i fleire former.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.04339</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/faq-find-source</prop>
+     <seg>Please note that you cannot use "Find source", to search for names of individuals, unless their name happens to be a part of the source information; for example, a search for "Fridtjof Nansen", a Norwegian explorer, will generate results for the archive "Working committee for the Fridtjof Nansen polar expedition", as well as drawings of the ship "LPG/T Fridtjof Nansen", from the Kristiansand maintenance shipyard.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/faq-find-source</prop>
+     <seg>Eit s&#248;k p&#229; "Fridtjof Nansen" vil gje treff p&#229; arkivkjelder fr&#229; arkivet "Arbeidskomit&#233;en for Fridtjof Nansens polarekspedisjon", samt skipsteikningar for fart&#248;yet "LPG/T Fridtjof Nansen" i arkivet "Kristiansand mekaniske verksted".</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.74588</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143859</prop>
+     <seg>Nomination of William Randal Cremer (United Kingdom), Charles Albert Gobat (Switzerland), &#201;lie Ducommun (Switzerland), The Inter-Parliamentary Union (Switzerland) and The Permanent International Peace Bureau (Switzerland) for the Nobel Peace Prize for 1902.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/143859</prop>
+     <seg>Nominasjon til Nobels fredspris for 1902 av William Randal Cremer (Storbritannia), Charles Albert Gobat (Sveits), &#201;lie Ducommun (Sveits), Den interparlamentariske union (Sveits) og Det internasjonale fredsbyr&#229; (Sveits).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">3.06799</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143807</prop>
+     <seg>Nomination of William Randal Cremer (United Kingdom), Chevalier Edouard Eug&#232;ne Descamps (Belgium), Charles Albert Gobat (Switzerland) and Baroness Bertha Sophie von Suttner (Austria-Hungary) for the Nobel Peace Prize for 1902.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/143807</prop>
+     <seg>Nominasjon til Nobels fredspris for 1902 av William Randal Cremer (Storbritannia), Chevalier Edouard Eug&#232;ne Descamps (Belgia), Charles Albert Gobat (Sveits) og Baronesse Bertha Sophie von Suttner (&#216;sterrike-Ungarn).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.11152</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>To search for all names which contain, for example "risto", you can use the * wildcard character.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>For &#229; s&#248;ke etter alle namn som inneheld til d&#248;mes "risto", kan du nytte * som trunkeringsteikn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.615</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/digital-formats</prop>
+     <seg>You can find scanned archive sources via</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/digitale-format</prop>
+     <seg>Du kan s&#248;kje etter skanna arkivkjelder i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">7.43077</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>prior to 2011.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>me hadde f&#248;r 2011.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.16929</prop>
+    <prop type="score-bicleaner">0.557</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>If nothing of this helps, please forward the activation email to us (digitalarkivet@arkivverket.no), so we may activate the account on your behalf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Om du likevel f&#229;r feilmelding, kan du videresende e-posten med aktiveringslenka til oss (digitalarkivet@arkivverket.no), s&#229; skal me aktivere kontoen for deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.09187</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/guidelines-histform</prop>
+     <seg>In The Digital Archives, the majority of transcriptions are based on one or other of the two standards HISTFORM-standard or KYRRE-standard.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/guidelines-histform</prop>
+     <seg>I Digitalarkivet er dei fleste transkripsjonar baserte p&#229; ein av to standardar, HISTFORM-standarden eller KYRRE-standarden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.11397</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/digital-formats</prop>
+     <seg>in such cases where the entire date was available in the source (year, month and day).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/digitale-format</prop>
+     <seg>n&#229;r heile datoen er oppgjeven i kjeldene (&#229;r, m&#229;nad og dag).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/113076</prop>
+     <seg>sanser, notatb&#248;ker, diplomatpass m.m.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/145776</prop>
+     <seg>F&#248;dselsregister, utan fast bustad m.m.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.3848</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>The data in The Digital Archives is primarily from the period 1801-1910, though there may also be some data older than 1801 and younger than 1910.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>Dataa i Digitalarkivet er i hovudsak konsentrert rundt perioden 1801-1910, men det fins nokre data eldre enn 1801 og yngre enn 1910.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.90856</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>is a collection of all discussions from the previous discussion forum we had prior to 2011.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>er ei samling av alle diskusjonane fr&#229; debattfora me hadde i Digitalarkivet f&#248;r 2011.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.04629</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>Thus, if you search for "Anne Kari", this will generate results for both "Anne Kari" or "Kari" alone, or "Anne" alone (This in addition to the different spellings of these names).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>Viss du s&#248;kjer etter "Anne Kari" i friteksts&#248;ket etter person vil du i trefflista f&#229; alle som heiter "Anne Kari" ELLER berre "Anne" ELLER berre "Kari" (i tillegg til ulike variantar av desse namneformene).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.79531</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/guidelines-histform</prop>
+     <seg>Even though the standard was developed with focus on the 1865-1910 censuses, many of the instructions for transcription can be applied to other censuses and rolls, as well as other sources which contain similar information.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/guidelines-histform</prop>
+     <seg>Sj&#248;lv om standarden vart utvikla med omsyn p&#229; teljingane 1865-1910, kan mange av dei generelle instruksane for transkribering nyttast til andre teljingar og manntal, samt til andre kjelder som inneheld liknande informasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.07555</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>To search for all names which begin with, for example "An", you can use the * as a wildcard.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>For &#229; s&#248;ke etter alle namn som byrjar p&#229; til d&#248;mes "An", kan du nytte * som trunkeringsteikn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.16613</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>If this does not work, please forward the activation email to us (digitalarkivet@arkivverket.no), so we may activate the account on your behalf.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Om du ikkje lukkast med dette kan du vidaresende e-posten med aktiveringslenka til oss (digitalarkivet@arkivverket.no), s&#229; skal me aktivere kontoen for deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.04388</prop>
+    <prop type="score-bicleaner">0.541</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>How do I write a question or answer in the discussion forum?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Korleis skriv eg eit sp&#248;rsm&#229;l eller eit svar i debattane?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.03085</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>When you have registered, you must activate this account.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>N&#229;r du har registrert deg, m&#229; du ogs&#229; aktivere kontoen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.04412</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/faq-scanned-archives</prop>
+     <seg>Here you can choose "Remember position", by clicking on the checkbox named "Remember position"</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/faq-scanned-archives</prop>
+     <seg>Her vel du "Husk posisjon" ved &#229; klikke med musepeikaren p&#229; boksen til venstre for "Husk posisjon".</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.83333</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/15975</prop>
+     <seg>Stranda parish, Stranda local parish, Stordal local parish</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/15975</prop>
+     <seg>Stranda prgj, Stranda sokn, Stordal sokn</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.32273</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>To do this, you must copy the link from the activation e-mail.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>D&#229; m&#229; du kopiere aktiveringslenka fr&#229; e-posten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.04455</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/guidelines-histform</prop>
+     <seg>HISTFORM is a set of rules for transcription, not an actual tool.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/guidelines-histform</prop>
+     <seg>HISTFORM er ein instruks for transkripsjon og ikkje eit verkt&#248;y.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.08182</prop>
+    <prop type="score-bicleaner">0.625</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143859</prop>
+     <seg>Nominated by Hans Jakob Horst (Norway).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/143859</prop>
+     <seg>Nominert av Hans Jakob Horst (Norge).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.6794</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>Copy the selected text using (right-click -&gt; copy), and open your web browser (this can be Firefox, Internet Explorer, Chrome etc).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Kopier den markerte teksten (h&#248;greklikk -&gt; kopier) og opne nettlesaren din (Firefox, Internet Explorer, Chrome eller liknande).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.3631</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/about-dp</prop>
+     <seg>You can send your transcriptions via e-mail to digitalarkivet@arkivverket.no.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/about-dp</prop>
+     <seg>Du kan sende transkripsjonane dine p&#229; e-post til digitalarkivet@arkivverket.no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.67235</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/guidelines-histform</prop>
+     <seg>The HISTFORM-standard is a result of collaborative work by the Norwegian National Archives, Oslo and Bergen Universities, the Registration Centre for Historical Data (RHD), and Teleskelt/Dovre Data Archive in the region of Oppland.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/guidelines-histform</prop>
+     <seg>HISTFORM-standarden er eit resultat av eit samarbeid mellom Arkivverket, Universitetet i Oslo og Bergen, Registreringssentralen for historiske data (RHD), Teleslekt og Dovre Data Arkiv/GDS Oppland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.629</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>Special Search Characters</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>s&#230;rskilde teikn for s&#248;k</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.88543</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/guidelines-histform</prop>
+     <seg>The standard applies to all census material containing name individuals in the period 1865-1910, and describes how to transcribe this information as well as how the column layout should be.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/guidelines-histform</prop>
+     <seg>Standarden gjeld for alle teljingar med personnamn fr&#229; 1865 til 1910, og fortel korleis ein skal transkribere informasjon i folketeljingane og korleis feltoppsettet skal v&#230;re.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.1468</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>Why do pictures appear when I click on "register account"?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Kvifor f&#229;r eg opp bilete eg skal klikke p&#229; n&#229;r eg opprettar ein konto?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">3.68767</prop>
+    <prop type="score-bicleaner">0.533</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/100347</prop>
+     <seg>Tax List 1739-1743 for Senja and Troms bailiffs from the tax notes of bailiff T&#248;nder</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/100347</prop>
+     <seg>Skatteliste 1739-1743 for Senja og Troms futed&#248;mme fr&#229; skattenotatane fr&#229; fut T&#248;nder</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">1.35143</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>You can also request a new series of pictures if you wish.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Du kan be om eit nytt utval av bilete om du ynskjer det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.404</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/guidelines-histform</prop>
+     <seg>About the HISTFORM standard</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/guidelines-histform</prop>
+     <seg>Forsida til trykt utg&#229;ve av HISTFORM.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">4.08784</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/165945</prop>
+     <seg>Nomination of Estanislas Severo Zeballos (Argentina) for the Nobel Peace Prize for 1922.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/165945</prop>
+     <seg>Nominasjon til Nobels fredspris for 1922 av Estanislas Severo Zeballos (Argentina).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">1.245</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/faq-find-source</prop>
+     <seg>What should I choose under "Form"?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/faq-find-source</prop>
+     <seg>Kva skal eg velje under Form?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.45385</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>It can also be that you are viewing the archived forum.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Det kan ogs&#229; skuldast at du er i det arkiverte forumet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">3.48068</prop>
+    <prop type="score-bicleaner">0.523</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/guidelines-histform</prop>
+     <seg>Norwegian standard for registration and exchange of nominative census data for the period 1865-1910.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/guidelines-histform</prop>
+     <seg>Norsk standard for registrering og utveksling av nominative folketeljingsdata for &#229;ra 1865-1910.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.52605</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/about-dp</prop>
+     <seg>In the subject, write: Sending, for example "Sending Mini A1 Ask&#248;y 1742-1818".</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/about-dp</prop>
+     <seg>I emnefeltet skriv du: Sender, til d&#248;mes "Sender Mini A1 Ask&#248;y 1742-1818".</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">1.06547</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/faq-scanned-archives</prop>
+     <seg>Then click on the gearwheel (marked with a red circle), to access your user preferences.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/faq-scanned-archives</prop>
+     <seg>Deretter g&#229;r du p&#229; tannhjulet (markert med raud sirkel) for &#229; kome inn p&#229; brukarinnstillingar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.0687</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/faq-find-source</prop>
+     <seg>To find Fridtjof Nansen in archives such as census, church books and other sources, you must search the content within those sources.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/faq-find-source</prop>
+     <seg>For &#229; finne Fridtjof Nansen i folketeljingar, kyrkjeb&#248;ker og andre kjelder, m&#229; du s&#248;kje i innhaldet til kjeldene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">3.49545</prop>
+    <prop type="score-bicleaner">0.595</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/110039</prop>
+     <seg>List of volunteer gifts to the reconstruction of Chritiansborg 1794-1795</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/110039</prop>
+     <seg>Register over frivillig innbetaling til gjenoppbygginga av Christiansborg 1794-1795</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.01429</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>However, the results are ordered by relevance such that results for "Anne Kari" will be most prominent.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/sporsmal-om-sokbart-materiale</prop>
+     <seg>Dei som heiter "Anne Kari" vil likevel liggje &#248;vst i trefflista sidan treffa vert sorterte p&#229; relevans.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>Why can't I answer a particular thread / discussion?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Kvifor f&#229;r eg ikkje lagt inn eit svar i ein tr&#229;d/diskusjon?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.93636</prop>
+    <prop type="score-bicleaner">0.635</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143773</prop>
+     <seg>Nominated by Heinrich Lammasch (Austria-Hungary).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/143773</prop>
+     <seg>Nominert av Heinrich Lammasch (&#216;sterrike-Ungarn).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">2.91906</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/143773</prop>
+     <seg>Nomination of William Randal Cremer (United Kingdom), Czar Nikolai II (Russian Empire), Fr&#233;d&#233;ric Passy (France) and Baroness Bertha Sophie von Suttner (Austria-Hungary) for the Nobel Peace Prize for 1901.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/143773</prop>
+     <seg>Nominasjon til Nobels fredspris for 1901 av William Randal Cremer (Storbritannia), Czar Nikolai II (Det russiske tsard&#248;mmet), Fr&#233;d&#233;ric Passy (Frankrike) og Baronesse Bertha Sophie von Suttner (&#216;sterrike-Ungarn).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.40769</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>You can also select</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>Du kan &#242;g velje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.21656</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/content/53/questions-about-user-accounts-logging-in-and-</prop>
+     <seg>In this archive-forum, it is not possible to answer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/content/53/sp%C3%B8rsm%C3%A5l-om-brukarkonto-p%C3%A5logg</prop>
+     <seg>I dette Arkiv-forumet er det ikkje mogeleg &#229; svare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">4.94667</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/100548</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/100545</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/100546</prop>
+     <seg>Landed property 1734 for Helgeland bailiff, including tenant farmers tax</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/100546</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/100545</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/100548</prop>
+     <seg>Jordebok 1734 for Helgeland futed&#248;mme, inkludert leilendingsskatt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.96667</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.digitalarkivet.no/en/source/165944</prop>
+     <seg>Nominated by Hans Wehberg (Germany).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/165944</prop>
+     <seg>Nominert av Hans Wehberg (Tyskland).</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

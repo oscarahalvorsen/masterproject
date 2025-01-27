@@ -1,0 +1,162 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T115447" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2014H/I%c3%98I/6033%20Sensorveil%20Pr%20eiendomsmegl%20I%2008122014.pdf.converted</prop>
+     <seg>Kan medhjelper utarbeide utkast til kj&#248;pekontrakt?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2014H/I%c3%98I/6033%20Eksoppg%20Pr%20eiendomsmegl%201%20slutteks%2008122014.pdf.converted</prop>
+     <seg>Kan medhjelpar utarbeide utkast til kj&#248;pekontrakt?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.7</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/5709%20002%20Kart%20og%20landm%20Eksoppg%2004122015.pdf.converted</prop>
+     <seg>Forklar kort hvordan differensiell m&#229;ling fungerer i prinsippet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/5709%20Landm%c3%a5ling%20Eksoppg%2004122015.pdf.converted</prop>
+     <seg>Forklar kort korleis differensiell m&#229;ling fungerer i prinsippet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.14038</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2016V/IKH/3363N%20Fra%20antikken%20til%201600-tallet%20V16-2.docx.converted</prop>
+     <seg>kan sies &#229; rette en kritikk mot</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2013H/IKH/Midtksamen3328H2013.pdf.converted</prop>
+     <seg>kan seiast &#229; rette ein kritikk mot</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">4.01053</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2016H/I%c3%98I/6102%20og%206102N%20Databaser%2006122016.pdf.converted</prop>
+     <seg>Etter at oppdraget er utf&#248;rt kan oppdragsgiver og den som fikk oppdraget gje kvarandre en poengsum fr&#229; 1 (d&#229;rligst) til 10 (best) for &#229; angi kor n&#248;gd en er med den andre.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2016H/I%c3%98I/5602%20Databaser%2006122016.pdf.converted</prop>
+     <seg>Etter at oppdraget er utf&#248;rt kan oppdragsgiver og den som fikk oppdraget gje kvarandre ein poengsum fr&#229; 1 (d&#229;rligst) til 10 (best) for &#229; angi kor n&#248;gd ein er med den andre.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.59295</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/5709%20002%20Kart%20og%20landm%20Eksoppg%2004122015.pdf.converted</prop>
+     <seg>Et geodetisk referansesystem best&#229;r av flere komponenter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/5709%20Landm%c3%a5ling%20Eksoppg%2004122015.pdf.converted</prop>
+     <seg>Eit geodetisk referansesystem er sett saman av fleire komponentar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">3.2</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2016H/I%c3%98I/6102%20og%206102N%20Databaser%2006122016.pdf.converted</prop>
+     <seg>Som registrert brukar kan en b&#229;de legge ut oppdrag som en vil ha utf&#248;rt, og ogs&#229; legge inn bud p&#229; oppdrag som andre brukarar har lagt ut.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2016H/I%c3%98I/5602%20Databaser%2006122016.pdf.converted</prop>
+     <seg>Som registrert brukar kan ein b&#229;de legge ut oppdrag som ein vil ha utf&#248;rt, og ogs&#229; legge inn bud p&#229; oppdrag som andre brukarar har lagt ut.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.35014</prop>
+    <prop type="score-bicleaner">0.514</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/6033%20Pr%20eiendomsmegl%20III%20Sensorveiledning%2007122015.pdf.converted</prop>
+     <seg>desember har ikke megler f&#229;tt oppgj&#248;ret for boligen inn p&#229; konto.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/6033%20Pr%20eiendomsmegl%20I%20Eksoppg%2007122015.pdf.converted</prop>
+     <seg>desember har ikkje meklar f&#229;tt oppgj&#248;ret for leilegheita inn p&#229; konto.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">3.1</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2016H/I%c3%98I/6102%20og%206102N%20Databaser%2006122016.pdf.converted</prop>
+     <seg>det minste bel&#248;pet en er villig til &#229; akseptere for &#229; utf&#248;re oppdraget.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2016H/I%c3%98I/5602%20Databaser%2006122016.pdf.converted</prop>
+     <seg>det minste bel&#248;pet ein er villig til &#229; akseptere for &#229; utf&#248;re oppdraget.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.55</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/6033%20Pr%20eiendomsmegl%20III%20Sensorveiledning%2007122015.pdf.converted</prop>
+     <seg>Det er mange som er interessert i leiligheten og mange m&#248;ter p&#229; annonsert visning.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/6033%20Pr%20eiendomsmegl%20I%20Eksoppg%2007122015.pdf.converted</prop>
+     <seg>Det er mange som er interessert i leilegheita og mange m&#248;ter p&#229; annonsert visning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">4.1</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/6033%20Pr%20eiendomsmegl%20III%20Sensorveiledning%2007122015.pdf.converted</prop>
+     <seg>november, selv om det st&#229;r i kontrakten at overtakelse er den 1.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/6033%20Pr%20eiendomsmegl%20I%20Eksoppg%2007122015.pdf.converted</prop>
+     <seg>november, sj&#248;lv om det st&#229;r i kontrakten at overtaking er den 1.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.08624</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2011V/Gateway/Bali%20v11/6007%20000%20Eksoppg%20Mikro-%20og%20markeds%c3%b8k%2016052011%20Bali.pdf.converted</prop>
+     <seg>Benytt ettersp&#248;rselslikningene oppgitt i forrige oppgave til &#229; avgj&#248;re om godene er normale eller mindreverdige i dette tilfellet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2011V/Gateway/New%20York/6007%20000%20Eksoppg%20Mikro%20og%20markeds%c3%b8k%2019052011%20NY.pdf.converted</prop>
+     <seg>Nytt etterspurnadslikningane oppgjeve i f&#248;rre oppg&#229;va til &#229; avgjere om goda er normale eller mindreverdige i dette tilfellet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.79189</prop>
+    <prop type="score-bicleaner">0.503</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/5709%20002%20Kart%20og%20landm%20Eksoppg%2004122015.pdf.converted</prop>
+     <seg>Gi en kort forklaring av disse to begrepene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://web01.usn.no/eksamen/Eksamensoppgaver2015H/I%c3%98I/5709%20Landm%c3%a5ling%20Eksoppg%2004122015.pdf.converted</prop>
+     <seg>Gje ei kort forklaring av desse to omgrepa.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

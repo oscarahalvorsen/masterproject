@@ -1,0 +1,461 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T063509" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.00833</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/806f51b9-d0d2-4f7a-b16e-f09d711d6fe1:b9a36d00f288a926dcb55019a0a434af4ab2aa8b/StralevernInfo_02-2014_SEMI_NUC.pdf.converted</prop>
+     <seg>of dose assessment methods used in the two</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/2a300edd-8da4-4143-82be-2dd9956b4ec9:89663341f29d70ac933b5ff1999ec638ad2e3b32/StralevernInfo_2-2009.pdf.converted</prop>
+     <seg>i n&#230;rleiken av kjernekraftverket vart det sam-</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.70502</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>Part of an international research project under the Nuclear Energy Agency (NEA), an OECD organisation.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Del av eit internasjonalt forskingsprosjekt under OECD-organisasjonen Nuclear Energy Agency (NEA).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">4.76053</prop>
+    <prop type="score-bicleaner">0.591</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/26b0a050-5010-4519-8d74-b98d70fad4b5:5931aa0f74dbef2bfdc32f5a1283c8aa371cd94c/StralevernInfo_26-2009.pdf.converted</prop>
+     <seg>from Svalbard in 1980, they were higher than</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/b3dba3c2-6e6b-411a-a842-8c0f5b006524:a98c33e3d99757382be55048d7e144b7151c8079/StralevernInfo_28-2009.pdf.converted</prop>
+     <seg>Svalbard i 1980, var dei h&#248;gre enn dei rapporterte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.50136</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/26b0a050-5010-4519-8d74-b98d70fad4b5:5931aa0f74dbef2bfdc32f5a1283c8aa371cd94c/StralevernInfo_26-2009.pdf.converted</prop>
+     <seg>Due to political pressure from the governments in Norway and Ireland, the discharges of 99Tc from Sellafield were reduced significantly from 2004, and a similar reduction in contamination levels has now been observed in time series for sea water and seaweed in the Norwegian Arctic.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/b3dba3c2-6e6b-411a-a842-8c0f5b006524:a98c33e3d99757382be55048d7e144b7151c8079/StralevernInfo_28-2009.pdf.converted</prop>
+     <seg>Politisk press fr&#229; dei norske og irske regjeringane har f&#248;rt til ein betydeleg reduksjon av 99Tc-utsleppa fr&#229; Sellafield etter 2004, og ein tilsvarande reduksjon i forureiningsniv&#229;a er no observert i tidsseriar for sj&#248;vatn og tang i norske arktiske strok.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.40189</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_engelsk%20mai%202019.pdf.converted</prop>
+     <seg>It is particularly important that children and adolescents under 18 years of age and pregnant and breast-feeding women take the tablets because they are at greatest risk of contracting thyroid cancer after being exposed to radioactive iodine.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_nynorsk_mai19.pdf.converted</prop>
+     <seg>Det er spesielt viktig at barn og unge under 18 &#229;r, gravide og ammande tar tablettane fordi dei har st&#248;rst risiko for &#229; f&#229; kreft i skjoldbruskkjertelen etter &#229; ha blitt utsette for radioaktivt jod.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.6686</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>There are no nuclear reactors for generating electricity in Norway, but there have been four operational research reactors in Norway, one at Halden (HBWR) and three at Kjeller (JEEP I, N0RA and JEEP II).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Det er ingen atomreaktorar for produksjon av elektrisitet i Noreg, men det har vore fire forskingsreaktorar i drift i Noreg, &#233;in i Halden (HBWR) og tre p&#229; Kjeller (JEEP I, N0RA og JEEP II).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">6.72857</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>Operational from 1959 to 2018.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Var i drift mellom 1959 og 2018.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.08022</prop>
+    <prop type="score-bicleaner">0.543</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/126e2ce2-2ce8-46bd-84f3-82fa1194a98a:460505a411755e7fadbd7587144b950d8bb78c4d/StralevernInfo_08-15_Prevent_of_Smuggling.pdf.converted</prop>
+     <seg>instrument (Flir Identifinder) and isotope identifier</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/2cc0e4f6-8707-4cd7-9101-fd4099d0dacb:5f2c3873a156ea4d5f509c18907599782af8b6f3/StralevernInfo_7-10.pdf.converted</prop>
+     <seg>eksponert for r&#248;ntgenstr&#229;ling i samband med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.06966</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>Used for the storage of low- and medium-level radioactive waste from the nuclear facilities at Kjeller and Halden and from radioactive sources used in industry, defence, medicine and consumables.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Har l&#229;gt og middels radioaktivt avfall som kjem fr&#229; dei nukle&#230;re anlegga p&#229; Kjeller og i Halden og fr&#229; radioaktive kjelder brukte i industri, forsvaret, forsking, medisin og enkelte forbruksartiklar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">3.21667</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_engelsk%20mai%202019.pdf.converted</prop>
+     <seg>When dissolving in water: Place one quarter in a glass, add a little water and stir for about 2 minutes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_nynorsk_mai19.pdf.converted</prop>
+     <seg>Legg den eine fjer-dedelen i eit glas, tilsett litt vatn og r&#248;r rundt i ca. 2 minutt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.24324</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/26b0a050-5010-4519-8d74-b98d70fad4b5:5931aa0f74dbef2bfdc32f5a1283c8aa371cd94c/StralevernInfo_26-2009.pdf.converted</prop>
+     <seg>addition, the Environmental Unit has produced the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/b3dba3c2-6e6b-411a-a842-8c0f5b006524:a98c33e3d99757382be55048d7e144b7151c8079/StralevernInfo_28-2009.pdf.converted</prop>
+     <seg>milj&#248;eininga rutinemessig i nasjonale og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.15</prop>
+    <prop type="score-bicleaner">0.519</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/bfadfdc1-28bc-4fcb-bd01-f3a9593ecc58:57de333336f59261e0b35d6e08b03b952f3c8c7c/StralevernInfo_19_2006.pdf.converted</prop>
+     <seg>Sheep slaughtered directly after returning from</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/e96d9b54-21f5-4f3a-8470-f2342f35c670:0dcb95162020d79f2e2f78ffe3e5c7d712f48329/StralevernInfo_12_2006.pdf.converted</prop>
+     <seg>dietten til reinsdyra p&#229; vinteren og endringar i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.2775</prop>
+    <prop type="score-bicleaner">0.629</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://ems.dsa.no/</prop>
+     <seg>To use the system, please log in with ID-porten:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://ems.dsa.no/</prop>
+     <seg>Logg inn med ID-porten for &#229; bruke systemet:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.81765</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_engelsk%20mai%202019.pdf.converted</prop>
+     <seg>The child must only be given half of 5 ml: Draw out 2.5 ml of the solution using</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_nynorsk_mai19.pdf.converted</prop>
+     <seg>Barnet skal berre ha halvparten av 5 ml: Trekk ut 2,5 ml av l&#248;ysinga med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.11068</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/4ccad8e6-f848-456f-9a5e-4864ede2732d:33afcd5bc5550b2d33f4f59a6d7f23486a152cf3/StralevernRapport_13-2010.pdf.converted</prop>
+     <seg>long term phase (i.e. years to decades) most of</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/9450a920-831f-490f-94f1-10404d3bf0f9:a5c6a298da0f370489f6a694a4682f611010e576/Str%C3%A5levernInfo_5-2016.pdf.converted</prop>
+     <seg>Vind og v&#234;r gjorde at reinbeiteomr&#229;da i Midt&#8208; og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">6.68413</prop>
+    <prop type="score-bicleaner">0.577</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>Operational between 1966 and 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Var i drift mellom 1966 og 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.2034</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>The national radioactive waste repository is situated in Himdalen, Viken.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Det nasjonale deponiet for radioaktivt avfall ligg i Himdalen i Viken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.1166</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/44074182-3278-41fb-aae2-1fd2253cf173:b70cfa3fdebc50cb723f8c89d4c7d6beb8a4e7a5/StralevernInfo5_2004.pdf.converted</prop>
+     <seg>possible in order to deal properly with the</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/cace18b6-4066-4f99-8c20-7c0efc84ccdf:d7159b7b7247cff56e8c7790bcffb9e5d3ebe922/StralevernInfo9_2005.pdf.converted</prop>
+     <seg>tilfredsstillande og at kryssaren derfor ikkje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">3.6311</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>These were operational during various periods of time between 1951 and 2019.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Desse var i drift i ulike periodar mellom 1951 og 2019.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.03333</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/44074182-3278-41fb-aae2-1fd2253cf173:b70cfa3fdebc50cb723f8c89d4c7d6beb8a4e7a5/StralevernInfo5_2004.pdf.converted</prop>
+     <seg>has reviewed and commented on the documents</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/cace18b6-4066-4f99-8c20-7c0efc84ccdf:d7159b7b7247cff56e8c7790bcffb9e5d3ebe922/StralevernInfo9_2005.pdf.converted</prop>
+     <seg>raskt avklart at det var eit brot i eit r&#248;r i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.68462</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>Combined storage facility and repository in Himdalen (KLDRA)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Kombinert lager og deponi i Himdalen (KLDRA)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.73478</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>Kjeller research reactor</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Forskingsreaktoren p&#229; Kjeller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.14983</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/5e024f39-870c-4186-85e7-690047d67c87:4f0cb75b63469f82aeec851e6eb5de5b5a647a22/StralevernRapport_16_2006.pdf.converted</prop>
+     <seg>importance, at least judging by the recent steps</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/3fdba077-17b7-4d7d-82db-fac506605b92:db26f2dbc66e3c7aa16b04073aadb6e2bd616354/StralevernRapport_6_2006.pdf.converted</prop>
+     <seg>Indikasjonane p&#229; at nye unders&#248;kingsmetodar i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.07491</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>These facilities include storage facilities for fresh and spent fuel and a laboratory for handling spent fuel and radioactive substances.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Dette er blant anna lager for fersk og brukt brensel og laboratorium for handtering av brukt brensel og radioaktive stoff.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.34212</prop>
+    <prop type="score-bicleaner">0.539</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_engelsk%20mai%202019.pdf.converted</prop>
+     <seg>People over 40 are at very little risk of contracting thyroid cancer and do not need to take iodine tablets.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_nynorsk_mai19.pdf.converted</prop>
+     <seg>Dei over 40 &#229;r har sv&#230;rt liten risiko for &#229; f&#229; kreft i skjoldbruskkjertelen, og treng ikkje ta jodtablettar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">5.52391</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_engelsk%20mai%202019.pdf.converted</prop>
+     <seg>Add 5 ml of water to the glass.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_nynorsk_mai19.pdf.converted</prop>
+     <seg>Tilsett 5 ml vatn i glaset.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.26571</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://ems.dsa.no/</prop>
+     <seg>DSA&#8217;s radiation source registration system</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://ems.dsa.no/</prop>
+     <seg>DSA sitt meldesystem for str&#229;lekjelder</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.05568</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>The Institute for Energy Technology (IFE) owns and operates the Norwegian research reactors, but the state-owned company Norwegian Nuclear Decommissioning (NND) is set to take over owner responsibility for the reactors in the future.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Det er Institutt for energiteknikk, IFE, som eig og driv dei norske forskingsreaktorane, men det statlege selskapet Norsk nukle&#230;r dekommisjonering vil i framtida ta over eigaransvaret for desse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.27143</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>JEEP II is located at Kjeller in the municipality of Skedsmo in Viken, about 20 km northeast of Oslo city centre.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>JEEP II ligg p&#229; Kjeller i Skedsmo kommune i Viken, ca. 20 km nordaust for Oslo sentrum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.12637</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/4ccad8e6-f848-456f-9a5e-4864ede2732d:33afcd5bc5550b2d33f4f59a6d7f23486a152cf3/StralevernRapport_13-2010.pdf.converted</prop>
+     <seg>for Civil Protection and Emergency Planning</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/9450a920-831f-490f-94f1-10404d3bf0f9:a5c6a298da0f370489f6a694a4682f611010e576/Str%C3%A5levernInfo_5-2016.pdf.converted</prop>
+     <seg>konsekvensar for reindrifta i &#171;ein mannsalder&#187;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.57418</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/26b0a050-5010-4519-8d74-b98d70fad4b5:5931aa0f74dbef2bfdc32f5a1283c8aa371cd94c/StralevernInfo_26-2009.pdf.converted</prop>
+     <seg>than those observed for 137Cs.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/b3dba3c2-6e6b-411a-a842-8c0f5b006524:a98c33e3d99757382be55048d7e144b7151c8079/StralevernInfo_28-2009.pdf.converted</prop>
+     <seg>enn dei som er funne for 137Cs.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.04464</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/126e2ce2-2ce8-46bd-84f3-82fa1194a98a:460505a411755e7fadbd7587144b950d8bb78c4d/StralevernInfo_08-15_Prevent_of_Smuggling.pdf.converted</prop>
+     <seg>cooperation with the Ukraine on nuclear safety and</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/publikasjoner/_/attachment/inline/2cc0e4f6-8707-4cd7-9101-fd4099d0dacb:5f2c3873a156ea4d5f509c18907599782af8b6f3/StralevernInfo_7-10.pdf.converted</prop>
+     <seg>Noreg stoppa i portalen ved Storskog</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.03764</prop>
+    <prop type="score-bicleaner">0.575</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>These installations include storage facilities for fresh and spent fuel, treatment facilities for radioactive waste and a laboratory for handling spent fuel and radioactive substances.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>Dette er blant anna lager for fersk og brukt brensel, behandlingsanlegg for radioaktivt avfall og laboratorium for handtering av brukt brensel og radioaktive stoff.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.29286</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/en/nuclear-safety-and-nuclear-power/research-reactors-and-nuclear-facilities-in-norway</prop>
+     <seg>Was situated at Kjeller in the municipality of Skedsmo in Viken, about 20 km northeast of Oslo city centre.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomsikkerheit-og-kjernekraft/forskingsreaktorar-og-atomanlegg-i-noreg</prop>
+     <seg>L&#229;g p&#229; Kjeller i Skedsmo kommune i Viken, ca. 20 km nordaust for Oslo sentrum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.56742</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_engelsk%20mai%202019.pdf.converted</prop>
+     <seg>In special circumstances, it may also be appropriate for adults aged 18 to 40 to take the tablets.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://dsa.no/atomberedskap/jodtabletter/Jodtabletter_nynorsk_mai19.pdf.converted</prop>
+     <seg>Det kan i heilt s&#230;rskilde situasjonar ogs&#229; vere aktuelt med tablet-tar for vaksne mellom 18 og 40 &#229;r.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

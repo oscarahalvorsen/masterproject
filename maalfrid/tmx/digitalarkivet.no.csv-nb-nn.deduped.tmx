@@ -1,0 +1,257 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T143620" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.43348</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/search/62/100542</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/search/62/100329</prop>
+     <seg>S&#248;k i byregnskap og annen skatteliste</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/search/62/100542</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/nn/search/62/100329</prop>
+     <seg>S&#248;k i byregnskap og anna skatteliste</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.00065</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/search/76/7</prop>
+     <seg>S&#248;k i uekte f&#248;dte og d&#248;pte</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/search/76/7</prop>
+     <seg>S&#248;k i uekte f&#248;dde og d&#248;ypte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">4.38</prop>
+    <prop type="score-bicleaner">0.509</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/8796</prop>
+     <seg>I f&#248;rste delen er det et unummerert blad mellom 128 og 129, i andre delen er den ingen blad mellom 89 og 99</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/8796</prop>
+     <seg>I f&#248;rste delen er det eit unummerert blad mellom 128 og 129, i andre delen er den ingen blad mellom 89 og 99</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">3.15714</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/100066</prop>
+     <seg>P&#229; slutten av kvart skifte i publikasjonen, finn en referansen til det originale skiftedokumentet hj&#229; Statsarkivet i Troms&#248;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/100066</prop>
+     <seg>P&#229; slutten av kvart skifte i publikasjonen, finn ein referansen til det originale skiftedokumentet hj&#229; Statsarkivet i Troms&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.20909</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/actors/135/slekt-og-data-m%C3%B8re-og-romsdal</prop>
+     <seg>Foreninga deltar i Samarbeidsavtalen mellom Riksarkiven og Slekt og Data-Norge, men har likevel sitt eige rom i Digitalpensjonatet for &#229; presentere registreringer som ikke er korrekturlesne i Arkivverket.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/actors/135/slekt-og-data-m%C3%B8re-og-romsdal</prop>
+     <seg>Foreninga deltar i Samarbeidsavtalen mellom Riksarkiven og Slekt og Data-Norge, men har likevel sitt eige rom i Digitalpensjonatet for &#229; presentere registreringer som ikkje er korrekturlesne i Arkivverket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/census/search/1910</prop>
+     <seg>Bosted i Norge f&#248;r utflytting</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/census/search/1910</prop>
+     <seg>Bustad i Noreg f&#248;r utflytting</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">3.08571</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/actors/1085/ika-hordaland</prop>
+     <seg>Interkommunalt arkiv i Hordaland er en arkivinstitusjon som held til i Bergen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/actors/1085/ika-hordaland</prop>
+     <seg>Interkommunalt arkiv i Hordaland er ein arkivinstitusjon som held til i Bergen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">3.1</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/5255/documentation/940</prop>
+     <seg>Yngve Nedreb&#248; har ogs&#229; kontrollert databasen, men det er ikke lese korrektur.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/5255/documentation/940</prop>
+     <seg>Yngve Nedreb&#248; har ogs&#229; kontrollert databasen, men det er ikkje lese korrektur.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">4.11818</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/179540</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/source/179541</prop>
+     <seg>I &#229;rsmeldiga for 2003 st&#229;r det at Bigset avd A hadde vorte et arbeidslag under Bigset avd B, eller Bigset underavdeling av Hareid sanitetslag, som det framover vart kalla.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/179540</prop>
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/179541</prop>
+     <seg>I &#229;rsmeldiga for 2003 st&#229;r det at Bigset avd A hadde vorte eit arbeidslag under Bigset avd B, eller Bigset underavdeling av Hareid sanitetslag, som det framover vart kalla.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">3.16957</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/actors/547/slekt-og-data-molde</prop>
+     <seg>Slekt og Data Molde er et lokallag under Slekt og Data M&#248;re og Romsdal som er tilslutta Slekt og Data Norge.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/actors/547/slekt-og-data-molde</prop>
+     <seg>Slekt og Data Molde er eit lokallag under Slekt og Data M&#248;re og Romsdal som er tilslutta Slekt og Data Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">3.1</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/11775/documentation/2398</prop>
+     <seg>Det er ikke lese korrektur, men databasen er kontrollert av Yngve Nedreb&#248;.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/source/11673/documentation/2332</prop>
+     <seg>Det er ikkje lese korrektur, men databasen er kontrollert av Yngve Nedreb&#248;.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">5.54211</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/census/search/1910</prop>
+     <seg>S&#248;k etter personer i folketellingen fra 1910</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/census/search/1910</prop>
+     <seg>S&#248;k etter personar i folketeljinga fr&#229; 1910</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.14258</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/51117/documentation/3296</prop>
+     <seg>Alle person- (for- og slektsnamn) og stedsnavn er registrert bokstavrett, men farsnavn (patronymikon) er forkortet med dobbel s med punktum, uten hensyn til om det st&#229;r en eller to s-er (Larsen --&gt; Larss., Pederson --&gt; Pederss.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/source/2397/documentation/504</prop>
+     <seg>Histform Alle person- (for- og slektsnamn) og stadnamn er registrerte bokstavrett, men farsnamna (patronyma) er forkorta med dobbel s med punktum, utan omsyn til om presten har skrive ein eller to s-ar (Larsen --&gt; Larss., Pederson --&gt; Pederss.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.9197</prop>
+    <prop type="score-bicleaner">0.501</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/search/76/7728</prop>
+     <seg>S&#248;k i f&#248;dte og d&#248;pte og uekte f&#248;dte og d&#248;pte</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/search/76/9136</prop>
+     <seg>S&#248;k i f&#248;dde og d&#248;ypte og uekte f&#248;dde og d&#248;ypte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.62681</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/search/77</prop>
+     <seg>S&#248;k i innmeldte dissentere og innmeldte i statskirken</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/search/77</prop>
+     <seg>S&#248;k i innmelde dissentarar og innmelde i statskyrkja</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">4.65</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/actors/87/austevoll-kommune</prop>
+     <seg>Databasen som ligg her er et register fr&#229; formannsprotokollane 1-3, 1886-1919 for Austevoll.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/actors/87/austevoll-kommune</prop>
+     <seg>Databasen som ligg her er eit register fr&#229; formannsprotokollane 1-3, 1886-1919 for Austevoll.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">5.13339</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/46337</prop>
+     <seg>2239, Nedre Telemark og Bamble fogderi, 1762-1763:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/46337</prop>
+     <seg>2239, Nedre Telemark og Bamble futed&#248;mme, 1762-1763:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">4.14977</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/1032/documentation/122</prop>
+     <seg>D&#248;df&#248;dselslisten er registrert av Knut R&#248;ysland, Trondheim og korrekturlest av Jan Arild Str&#248;mstad i regi av DIS-Vest-Agder i 2003-2004.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/1032/documentation/134</prop>
+     <seg>Vielseslisten er registrert av Knut R&#248;ysland, Trondheim og korrekturlest av Jan Arild Str&#248;mstad i regi av DIS-Vest-Agder i 2003-2004.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">3.175</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.digitalarkivet.no/source/52295/documentation/2824</prop>
+     <seg>Inge Eikeland, gjest i Digitalpensjonatet, har laget en database over personane ved skip fr&#229; Bergen, som seilte i utenlandsfart.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://www.digitalarkivet.no/nn/source/52295/documentation/2824</prop>
+     <seg>Inge Eikeland, gjest i Digitalpensjonatet, har laget ein database over personane ved skip fr&#229; Bergen, som seilte i utenlandsfart.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

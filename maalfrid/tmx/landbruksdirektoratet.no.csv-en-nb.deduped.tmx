@@ -1,0 +1,188 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T220754" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.0127</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/en/industri-og-handel/how-to-apply-for-tariff-reductions-for-processed-agricultural-products-paps-or-rak-varer</prop>
+     <seg>the invoice name of the producr</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/nb/reindrift/reindrift-i-norge/reindriftsnaeringen</prop>
+     <seg>V&#229;rsommer begynner i juni og varer ut i august.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.07308</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/en/industri-og-handel/how-to-apply-for-tariff-reductions-for-processed-agricultural-products-paps-or-rak-varer</prop>
+     <seg>But it is possible to apply for a tariff reduction with backdating application at the time of import.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/nb/reindrift/reindrift-i-norge/reindriftsnaeringen</prop>
+     <seg>Tamreinlag driver p&#229; bakgrunn av konsesjon som er gitt av Landbruks- og matdepartementet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.32857</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/en/industri-og-handel/how-to-apply-for-tariff-reductions-for-processed-agricultural-products-paps-or-rak-varer</prop>
+     <seg>All ingredients of the product must be declared.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/nb/reindrift/reindrift-i-norge/reindriftsnaeringen</prop>
+     <seg>Den samiske befolkningen har en historisk rett til &#229; drive reindrift i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.10747</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/en/industri-og-handel/how-to-apply-for-tariff-reductions-for-processed-agricultural-products-paps-or-rak-varer</prop>
+     <seg>You can apply afterwards to the Customs Service for recalculation.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/nb/reindrift/reindrift-i-norge/reindriftsnaeringen</prop>
+     <seg>Verdien av den familiebaserte reindriften er ogs&#229; trukket fram.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.04143</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2646248/Heidi%20Vinge.pdf?sequence=5&amp;isAllowed=y</prop>
+     <seg>resource for national food sovereignty.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://styringsportalen.statsforvalteren.no/2020/styringsdokumenter/</prop>
+     <seg>Regnskapsprinsipp og regnskapsf&#248;ring</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.01842</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2646248/Heidi%20Vinge.pdf?sequence=5&amp;isAllowed=y</prop>
+     <seg>We thus see a belief in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://styringsportalen.statsforvalteren.no/2020/styringsdokumenter/</prop>
+     <seg>Barnehage og oppl&#230;ring</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/en/industri-og-handel/how-to-apply-for-tariff-reductions-for-processed-agricultural-products-paps-or-rak-varer</prop>
+     <seg>How to fill the application form</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/nb/reindrift/reindrift-i-norge/reindriftsnaeringen</prop>
+     <seg>Midlertidige anlegg kan settes opp uten s&#248;knad.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.15405</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/en/industri-og-handel/how-to-apply-for-tariff-reductions-for-processed-agricultural-products-paps-or-rak-varer</prop>
+     <seg>You can withdraw the submitted application before it is processed, by entering the case in the application system.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/nb/reindrift/reindrift-i-norge/reindriftsnaeringen</prop>
+     <seg>Simlene er kalvdigre og m&#229; v&#230;re framme p&#229; v&#229;rbeitene f&#248;r kalvingen starter i slutten av april/begynnelsen av mai.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.29885</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/en/industri-og-handel/how-to-apply-for-tariff-reductions-for-processed-agricultural-products-paps-or-rak-varer</prop>
+     <seg>It is not necessary to apply for a tariff reduction on these code numbers.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/nb/reindrift/reindrift-i-norge/reindriftsnaeringen</prop>
+     <seg>En vintersiida ut&#248;ver reindrift i fellesskap i hovedsak p&#229; vinter- og v&#229;rbeiteomr&#229;dene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.26081</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2646248/Heidi%20Vinge.pdf?sequence=5&amp;isAllowed=y</prop>
+     <seg>formulated in terms of competition with other municipalities, rather than in terms of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://styringsportalen.statsforvalteren.no/2020/styringsdokumenter/</prop>
+     <seg>Kommuner og fylkeskommuner har kunnskap om reindriftens arealbehov, og ivaretar reindriftens interesser og behov i planprosesser og arealforvaltning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.12987</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2646248/Heidi%20Vinge.pdf?sequence=5&amp;isAllowed=y</prop>
+     <seg>the theory of the growth machine: the views of planners.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://styringsportalen.statsforvalteren.no/2020/styringsdokumenter/</prop>
+     <seg>Fylkesmannens myndighets- og ansvarsomr&#229;der er:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.00714</prop>
+    <prop type="score-bicleaner">0.718</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2646248/Heidi%20Vinge.pdf?sequence=5&amp;isAllowed=y</prop>
+     <seg>Food security and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://styringsportalen.statsforvalteren.no/2020/styringsdokumenter/</prop>
+     <seg>Landbruk og mat</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.03356</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/en/industri-og-handel/how-to-apply-for-tariff-reductions-for-processed-agricultural-products-paps-or-rak-varer</prop>
+     <seg>It is only possible to withdraw the application before the case processing has begun.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.landbruksdirektoratet.no/nb/reindrift/reindrift-i-norge/reindriftsnaeringen</prop>
+     <seg>Dette er n&#248;dvendig for &#229; unng&#229; at en f&#229;r tap av &#229;rskalv under passering av elver og lignende.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.56</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2646248/Heidi%20Vinge.pdf?sequence=5&amp;isAllowed=y</prop>
+     <seg>By the late</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://styringsportalen.statsforvalteren.no/2020/styringsdokumenter/</prop>
+     <seg>Areal, by og samfunn</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,513 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T224801" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---bokmal.pdf.converted</prop>
+     <seg>Rapporter om andre</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---nynorsk.pdf.converted</prop>
+     <seg>Rapportar om andre</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.29375</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Klagefristen er tre uker fra den dagen du mottar brevet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Klagefristen er tre veker fr&#229; den dagen du mottek brevet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.43049</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Ta kontakt med oss for n&#230;rmere veiledning om adgangen til &#229; klage, om framgangsm&#229;ten og reglene for saksbehandlingen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Ta kontakt med oss for n&#230;rmare rettleiing om h&#248;vet til &#229; klage, om framgangsm&#229;ten og reglane for saksbehandlinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.33688</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Hvis vi ikke tar klagen til f&#248;lge, sender vi den til klageinstansen som i de fleste tilfeller er Samferdselsdepartementet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Dersom vi ikkje tek klaga til f&#248;lgje, sender vi den til klageinstansen som i dei fleste tilfelle er Samferdselsdepartementet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.95897</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Klagen sender du til oss i Luftfartstilsynet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Klaga sender du til oss i Luftfartstilsynet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.93636</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Rett til &#229; se saksdokumentene og til &#229; kreve veiledning</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Rett til &#229; sj&#229; saksdokumenta og til &#229; krevje rettleiing</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.48182</prop>
+    <prop type="score-bicleaner">0.583</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>eller advokaten din kan gi n&#230;rmere opplysninger om dette.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>eller advokaten din kan gi n&#230;rmare opplysningar om dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.79167</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Utsetting av gjennomf&#248;ringen av vedtaket</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Utsetjing av gjennomf&#248;ringa av vedtaket</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.91003</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Ny klagefrist blir da regnet fra den dagen du mottar begrunnelsen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Ny klagefrist blir d&#229; rekna fr&#229; den dagen du mottek grunngivinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.59569</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Det er tilstrekkelig at klagen er postlagt f&#248;r klagen g&#229;r ut.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Det er tilstrekkeleg at klaga er postlagd f&#248;r klaga g&#229;r ut.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.17209</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/nlr/egenerklaring-som-eier-av-luftfartoy-2018.pdf.converted</prop>
+     <seg>Rettighetshavere som mener personopplysningene behandles i strid med personvernreglene, kan klage til Datatilsynet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/nlr/nf-0551-flyskoyte-nynorsk-200418.pdf.converted</prop>
+     <seg>Rettshavarar som meiner personopplysingane blir behandla i strid med personvernreglane, kan klage til Datatilsynet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.66971</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---bokmal.pdf.converted</prop>
+     <seg>skyld. Seksjonene 0 (inngangssiden), 1.0 (Generell informasjon) og 9 (Beskrivelse) er obligatoriske for alle typer rapporter.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---nynorsk.pdf.converted</prop>
+     <seg>Seksjonane 0 (Inngangssida), 1.0 (Generell informasjon) og 9 (Skildring) er obligatoriske for alle typar rapportar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.75931</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Her finner du informasjon om dine rettigheter til &#229; klage p&#229; vedtak gjort av Luftfartstilsynet, og hvordan du g&#229;r fram.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Her finn du informasjon om rettane dine til &#229; klage p&#229; vedtak gjort av Luftfartstilsynet, og korleis du g&#229;r fram.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.67714</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Dersom du klager s&#229; sent at det kan v&#230;re uklart for oss om du har klaget i rett tid, b&#248;r datoen for n&#229;r du mottok vedtaket oppgis.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Dersom du klagar s&#229; seint at det kan vere uklart for oss om du har klaga i rett tid, b&#248;r det opplysast om datoen for n&#229;r du mottok vedtaket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.78696</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Hvordan klage p&#229; et vedtak</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Korleis klage p&#229; eit vedtak</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">2.54634</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---bokmal.pdf.converted</prop>
+     <seg>Rapporter om ulykker og alvorlige hendelser skal sendes b&#229;de til Luftfartstilsynet og til SHT.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---nynorsk.pdf.converted</prop>
+     <seg>Rapportar om ulykker og alvorlege hendingar skal sendast b&#229;de til Luftfartstilsynet og til SHT.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.45285</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/nlr/egenerklaring-som-eier-av-luftfartoy-2018.pdf.converted</prop>
+     <seg>Registrerte opplysninger kan p&#229; begj&#230;ring slettes som aktuelle rettigheter i fart&#248;yet, men vil bli lagret slik at vi har kunnskap om de historiske rettighetene i fart&#248;yet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/nlr/nf-0551-flyskoyte-nynorsk-200418.pdf.converted</prop>
+     <seg>Registrerte opplysingar kan p&#229; oppmoding bli sletta som aktuelle rettar i fart&#248;yet, men vil bli lagra slik at vi har kunnskap om dei historiske rettane i fart&#248;yet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.36709</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Selv om du har klagerett, kan vedtaket vanligvis gjennomf&#248;res straks.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Sj&#248;lv om du har klagerett, kan vedtaket vanlegvis gjennomf&#248;rast straks.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">2.10895</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>For eksempel hvis du mener at et vedtak eller en avgj&#248;relse som vi har fattet er feil, eller at saken din har v&#230;rt behandlet p&#229; en uriktig eller uforsvarlig m&#229;te.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>For eksempel dersom du meiner at eit vedtak eller ei avgjerd som vi har fatta er feil, eller at saka din har vore behandla p&#229; ein feil eller uforsvarleg m&#229;te.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.26912</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Du m&#229; presisere hvilket vedtak du klager p&#229;, &#229;rsaken til at du klager, hvilke endringer du &#248;nsker og eventuelt andre opplysninger som kan ha betydning for vurderingen av klagen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Du m&#229; presisere kva vedtak du klagar p&#229;, &#229;rsaka til at du klagar, kva endringar du &#248;nskjer og eventuelt andre opplysingar som kan ha verdi for vurderinga av klaga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">4.58571</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---bokmal.pdf.converted</prop>
+     <seg>Elektronisk utgave av skjemaet NF-2007 med hjelpetekster og veiledning er tilgjengelig</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---nynorsk.pdf.converted</prop>
+     <seg>Elektronisk utg&#229;ve av skjemaet NF-2007 med hjelpetekster og rettleiing er tilgjengeleg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.12715</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---bokmal.pdf.converted</prop>
+     <seg>Form&#229;let med denne rapporteringen er &#229; forebygge ulykker og forbedre flysikkerheten, ikke &#229; angi straffeansvar og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---nynorsk.pdf.converted</prop>
+     <seg>Form&#229;let med denne rapporteringa er &#229; hindre ulykker og betre flytryggleiken, ikkje &#229; gi straffeansvar og skuld.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.37955</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007-word-2010---bokmal.docx.converted</prop>
+     <seg>Opplysningene lagres p&#229; rapporten s&#229; lenge den ligger i databasen, og vil bli benyttet dersom det p&#229; et senere tidspunkt skulle bli behov for &#229; kontakte deg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007-word-2010---nynorsk.docx.converted</prop>
+     <seg>Opplysningane vert lagra p&#229; rapporten s&#229; lenge rapporten ligg i databasen, og dei vil bli nytta dersom det p&#229; eit seinare tidspunkt skulle bli behov for &#229; kontakta deg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.50639</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---bokmal.pdf.converted</prop>
+     <seg>Luftfartstilsynet og Statens havarikommisjon for transport (SHT) anbefaler bruk av elektronisk utgave for alle som har tilgang til Internett siden dette er sikrere og forenkler saksbehandlingen betraktelig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---nynorsk.pdf.converted</prop>
+     <seg>Luftfartstilsynet og Statens havarikommisjon for transport (SHT) tilr&#229;r bruk av elektronisk utg&#229;ve for alle som har tilgang til internett da dette er sikrare og gjer saksbehandlinga mykje enklare.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.78636</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Kostnader ved klagesaken</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Kostnader ved klagesaka</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.53256</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/nlr/egenerklaring-som-eier-av-luftfartoy-2018.pdf.converted</prop>
+     <seg>Dette er n&#248;dvendig ettersom det kan dukke opp problemstillinger rundt tidligere rettigheter i fart&#248;yet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/nlr/nf-0551-flyskoyte-nynorsk-200418.pdf.converted</prop>
+     <seg>Dette er n&#248;dvendig ettersom det kan dukke opp problemstillingar rundt tidlegare rettar i fart&#248;yet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.58529</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Du har i henhold til forvaltningsloven rett til &#229; klage over vedtaket som er gjort.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Du har i samsvar med forvaltingslova rett til &#229; klage over vedtaket som er gjort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.53286</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/nlr/egenerklaring-som-eier-av-luftfartoy-2018.pdf.converted</prop>
+     <seg>Form&#229;let med Norges luftfart&#248;yregister er &#229; sikre rettsvern for rettighetshaverne.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/nlr/nf-0551-flyskoyte-nynorsk-200418.pdf.converted</prop>
+     <seg>Form&#229;let med Noregs luftfart&#248;yregister er &#229; sikre rettsvern for rettshavarane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.65933</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/nlr/egenerklaring-som-eier-av-luftfartoy-2018.pdf.converted</prop>
+     <seg>Form&#229;let med bruk av personopplysninger er &#229; sikre at riktig person registreres som rettighetshaver p&#229; riktig fart&#248;y.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/nlr/nf-0551-flyskoyte-nynorsk-200418.pdf.converted</prop>
+     <seg>Form&#229;let med bruk av personopplysingar er &#229; sikre at riktig person blir registrert som rettshavar p&#229; riktig fart&#248;y.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.45199</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Hvis vedtaket er blitt endret til din fordel, kan du etter forvaltningsloven ha krav p&#229; &#229; f&#229; dekket vesentlige kostnader som har v&#230;rt n&#248;dvendige for &#229; f&#229; endret vedtaket.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Dersom vedtaket er blitt endra til fordelen din, kan du etter forvaltingslova ha krav p&#229; &#229; f&#229; dekt vesentlege kostnader som har vore n&#248;dvendige for &#229; f&#229; endra vedtaket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">5.55</prop>
+    <prop type="score-bicleaner">0.547</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---bokmal.pdf.converted</prop>
+     <seg>NF-2007 Rapportering av ulykker og hendelser i sivil luftfart</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---nynorsk.pdf.converted</prop>
+     <seg>NF-2007 Rapportering av ulykker og hendingar i sivil luftfart</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.99085</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Ombudsmannen foretar en rettslig, objektiv og n&#248;ytral vurdering av klagen din.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Ombodsmannen gjer ei rettsleg, objektiv og n&#248;ytral vurdering av klaga di.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">2.4</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---bokmal.pdf.converted</prop>
+     <seg>La felter som ikke er relevante st&#229; blanke.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---nynorsk.pdf.converted</prop>
+     <seg>La felt som ikkje er relevante, st&#229; blanke.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.788</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Rett til &#229; kreve begrunnelse</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Rett til &#229; krevje grunngiving</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.63545</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Du kan imidlertid s&#248;ke om &#229; f&#229; utsatt gjennomf&#248;ringen av vedtaket til klagefristen er ute, eller til klagen er avgjort.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Du kan likevel s&#248;kje om &#229; f&#229; utsett gjennomf&#248;ringa av vedtaket til klagefristen er ute, eller til klaga er avgjort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.20615</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Du kan klage til Sivilombudsmannen hvis du mener &#229; ha v&#230;rt utsatt for urett eller feil fra den offentlige forvaltningen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Du kan klage til Sivilombudsmannen dersom du meiner &#229; ha vore utsett for urett eller feil fr&#229; den offentlege forvaltning.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.74883</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---bokmal.pdf.converted</prop>
+     <seg>Norsk personnummer og/eller pinkoder er ikke n&#248;dvendig for &#229; rapportere ulykker og hendelser i sivil luftfart via Altinn.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---nynorsk.pdf.converted</prop>
+     <seg>Norsk personnummer og/eller pinkodar er ikkje n&#248;dvendige for &#229; rapportere ulykker og hendingar i sivil luftfart via Altinn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">4.60855</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---bokmal.pdf.converted</prop>
+     <seg>376/2014 om rapportering, analysering og oppf&#248;lging av tilfeller innen sivil luftfart.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/skjema/rapportering/revidert-nf-2007---nynorsk.pdf.converted</prop>
+     <seg>376/2014 om rapportering, analysering og oppf&#248;lging av tilfelle innan sivil luftfart.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.28929</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/hvordan-klage-pa-et-vedtak.pdf.converted</prop>
+     <seg>Dersom du mener vi ikke har begrunnet vedtaket v&#229;rt, kan du kreve en begrunnelse f&#248;r fristen g&#229;r ut.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://luftfartstilsynet.no/globalassets/dokumenter/andre-dokumenter/korleis-klage-pa-eit-vedtak.pdf.converted</prop>
+     <seg>Dersom du meiner vi ikkje har grunngitt vedtaket v&#229;rt, kan du krevje ei grunngiving f&#248;r fristen g&#229;r ut.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

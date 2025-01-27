@@ -1,0 +1,1650 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T170210" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.01316</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/OTC/Virkestoffrapporter/A-B/A02%20Famotidin%2c%20magnesium%2c%20kalsium%20270319.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/OTC/Virkestoffrapporter/A-B/A02%20Famotidin%2c%20magnesium%2c%20kalsium%20270319.pdf.converted</prop>
+     <seg>be covered by the information approved in the corresponding SmPC.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Kj%C3%A6re%20helsepersonell-brev/2020/HCQ-DHCP%20NO.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Kj%C3%A6re%20helsepersonell-brev/2020/HCQ-DHCP%20NO.pdf.converted</prop>
+     <seg>Graden av QT-forlengelse kan ogs&#229; &#248;ke med &#248;kt dose av hydroksyklorokin.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">3.79412</prop>
+    <prop type="score-bicleaner">0.672</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>3 591 are classified as serious and 17 969 as non-serious.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>3 591 er klassifisert som alvorlige og 17 969 er klassifisert som lite alvorlige.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.99624</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20covid-19%20vaccines%20as%20of%20March%209%202021.pdf.converted</prop>
+     <seg>At this time of year, about 50 people die every day in the age group 85 years or older, and around 35 people every day in the age group 75-84.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210312%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>P&#229; denne tiden av &#229;ret d&#248;r det omkring 50 personer hver dag i aldersgruppen 85 &#229;r eller eldre, og omkring 35 personer hver dag i aldersgruppen 75-84 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.16</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>Products that are considered medicinal products</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Stoffer som regnes som legemidler</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.51429</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>So far, 51 cases have been reported, 11 of which concerned deaths.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>Det er s&#229; langt meldt 51 tilfeller, 11 meldinger gjaldt d&#248;dsfall.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.05964</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/20210128%20Reported%20suspected%20adverse%20reactions%20corona%20vaccine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20coronavirus%20vaccines%20as%20of%20January%2021%202021.pdf.converted</prop>
+     <seg>the general population and vaccine manufacturers in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210128%20Rapport%20over%20meldte%20bivirkninger%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210121%20Rapport%20over%20meldte%20mistenkte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>befolkningen og vaksineprodusenter i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.8135</prop>
+    <prop type="score-bicleaner">0.634</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <seg>According to forskrift om legemidler &#167; 12-5 the Marketing Authorization Holder or the NOMA may suggest a reevaluation of prices if this is justified by changes of circumstances or new information.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <seg>I henhold til legemiddelforskriftens &#167; 12-5, kan b&#229;de innehaver av markedsf&#248;ringstillatelse og Legemiddelverket ta opp sp&#248;rsm&#229;let om prisendring i Norge dersom endrede forhold eller nye opplysninger tilsier det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.04516</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20covid-19%20vaccines%20as%20of%20March%209%202021.pdf.converted</prop>
+     <seg>Among other things, elevated blood sugar levels, high INR values in patients taking Marevan, chest pain and difficulty breathing may be caused by blood clots, numbness, absence or reduction of sensation and paralysis.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210312%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Det er blant annet forh&#248;yede blodsukkerverdier, h&#248;ye INR-verdier hos pasienter som bruker Marevan, brystsmerter og pustevansker som kan skyldes blodpropp, nummenhet, frav&#230;r eller reduksjon av f&#248;lelse og lammelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.03444</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>The principal investigator/study physician at the study site will need to confirm which package the patients will receive, prior to the pharmacy sending the package.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Videresending til pasient gj&#248;res etter at hovedutpr&#248;ver p&#229; det aktuelle senteret/sykehuset har bekreftet hvilke pakninger den aktuelle pasienten skal ha.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.00272</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <seg>When setting the price, differentiation is normally made between the price per unit in large and small packages.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <seg>Ved prisfastsettelsen differensierer man som hovedregel mellom pris per enhetsniv&#229; i store og sm&#229; pakninger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.39124</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>The major studies did not include patients with unstable or acute conditions and included few participants over 85 years of age.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>De store studiene inkluderte ikke pasienter med ustabil eller akutt sykdom &#8211; og hadde f&#229; deltakere over 85 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.17684</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>Many substances are not ingredients in market medicinal products, but are still powerful and therefore not allowed for private import.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Det finnes ogs&#229; mange stoffer som ikke finnes i godkjente legemidler men som p&#229; grunn av sin effekt regnes som legemidler, og blir stoppet i tollkontroll.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.19282</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>Many foreign websites sell "supplements" that have substances in them regarded as medicinal in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>I utenlandske nettbutikker kan du imidlertid finne "kosttilskudd" som inneholder stoffer som anses som legemiddel i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.87126</prop>
+    <prop type="score-bicleaner">0.646</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>We will also try to answer all you questions sent by e-mail to klut@legemiddelverket.no.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Vi vil ogs&#229; fors&#248;ke &#229; svare p&#229; sp&#248;rsm&#229;l p&#229; e-post som sendes til klut@legemiddelverket.no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.08427</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>Private individuals are not permitted to import poisonous herbs, herbs containing narcotic substances or herbs with strong effects or health risks.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Giftige urter, urter som inneholder narkotiske stoffer og urter med kraftig virkning er ikke tillatt for privatpersoner &#229; importere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.03895</prop>
+    <prop type="score-bicleaner">0.524</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Regulatory%20affairs/Regulatory%20fees/Oversikt%20over%20nye%20gebyrer%20-%20engelsk%20versjon%202021%20-%20endelig%20til%20nettsidene.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Regulatory%20affairs/Regulatory%20fees/ENGELSKOversikt%20over%20nye%20gebyrer%20-%20engelsk%20versjon%202020%20-%20endelig%20til%20nettsidene.pdf.converted</prop>
+     <seg>5Applicable for change in posology 6 Applicable for each Marketing Authorisation number 7Applicable per procedure/agreement.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/Registreringsgebyr/Oversikt%20over%20nye%20gebyrer%202020%20-%20endelig_versjon%20til%20nettsidene.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/Registreringsgebyr/Oversikt%20over%20nye%20gebyrer%202021%20-%20endelig_norsk%20versjon%20til%20nettsidene_pdf.pdf.converted</prop>
+     <seg>Disse er &#248;vrige type II endringer 5 Gjelder ogs&#229; doseringsendringer 6 Gjelder for hver MT 7 Gjelder per oppdrag.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.83706</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>The Norwegian Medicines Agency is currently experiencing reduced staffing levels due to the measures implemented by the government as a result of the covid-19 outbreak in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Det m&#229; derfor p&#229;regnes utvidet saksbehandlingstid for s&#248;knader om klinisk utpr&#248;vning og endringss&#248;knader i klinisk utpr&#248;vning (gjelder ikke covid-19-s&#248;knader).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.44953</prop>
+    <prop type="score-bicleaner">0.568</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <seg>According to forskrift om legemidler &#167; 12-2, prices in other countries in the European Economic Area serve as the main basis for price settlements.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <seg>Det f&#248;lger av forskrift om legemidler &#167; 12-2 at det skal legges stor vekt p&#229; prisen i andre E&#216;S-land ved fastsetting pris p&#229; legemidler.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.03868</prop>
+    <prop type="score-bicleaner">0.702</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20covid-19%20vaccines%20as%20of%20March%209%202021.pdf.converted</prop>
+     <seg>the event resulted in birth defects/congenital malformations</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210312%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>hendelsen har medf&#248;rt fosterskader/medf&#248;dte misdannelser</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.14827</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines%20as%20of%20April%206%202021.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210318%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210325%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210331%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <seg>So far, 347 reports have been assessed which meet one of the severity criteria listed above, but have not ended in death.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210325%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210318%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210408%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210331%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Det er s&#229; langt behandlet 347 meldinger som oppfyller en av alvorlighetskriteriene listet over, men som ikke har endt i d&#248;dsfall.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/OTC/Virkestoffrapporter/A-B/A03%20Simethicone_11032019.pdf.converted</prop>
+     <seg>State the indication as in the PIL.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-21-september-2021</prop>
+     <seg>Feber og hoste kan ogs&#229; forekomme.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.19518</prop>
+    <prop type="score-bicleaner">0.620</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/20210617%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines_.pdf.converted</prop>
+     <seg>TTS is now listed as a rare adverse reaction in the product information for Vaxzevria and the Janssen COVID-19 vaccine, but more research is needed to clarify what causes this reaction.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210617%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>TTS er n&#229; oppf&#248;rt som en sjelden bivirkning i produktinformasjonen for Vaxzevria og COVID-19 vaccine Janssen, men det trengs mer forskning for &#229; avklare hva som utl&#248;ser dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.14424</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>The Medicines agency cannot give import permits to medicines containing narcotic substances, or doping agents.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Legemiddelverket utsteder ikke importtillatelser for legemidler som er kj&#248;pt p&#229; utenlandske nettapotek.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.62554</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/20210128%20Reported%20suspected%20adverse%20reactions%20corona%20vaccine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20coronavirus%20vaccines%20as%20of%20January%2021%202021.pdf.converted</prop>
+     <seg>These usually appear on the first or second day after vaccination and last around 2-3 days.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210128%20Rapport%20over%20meldte%20bivirkninger%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210121%20Rapport%20over%20meldte%20mistenkte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Disse kommer gjerne f&#248;rste eller andre dag etter vaksinering og varer omtrent 2-3 d&#248;gn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.13553</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>If a vaccinated person becomes seriously ill with COVID-19 more than 1-2 weeks after being fully vaccinated, this is considered to be a breakthrough infection and a possible case of vaccine failure.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>Dersom en vaksinert person blir alvorlig syk med covid-19 mer enn 1-2 uker etter fullf&#248;rt vaksinasjon, regnes dette som en gjennombruddsinfeksjon og en mulig vaksinesvikt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.24078</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>Products derived from the cannabis plant are, regardless of THC content, considered narcotics in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Produkter som er basert p&#229; ekstrakter av cannabis (uavhegig av THC innhold) regnes i dag som narkotika, og jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.71827</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20covid-19%20vaccines%20as%20of%20March%209%202021.pdf.converted</prop>
+     <seg>So far, 181 reports have been assessed which meet one of the severity criteria listed above.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210312%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Det er s&#229; langt behandlet 181 meldinger som oppfyller en av alvorlighetskriteriene listet over.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">3.48421</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Documentation%20for%20STA/Log%20changes%20Guidelines%2018.10.2021.docx.converted</prop>
+     <seg>f paragraph 2 is reframed, mentioning a new Norwegian tariff (15D)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Dokumentasjon%20til%20metodevurdering/Logg%20for%20endringer%20Retningslinjer%20%2018.10.2021.pdf.converted</prop>
+     <seg>Det mest av avsnitt 2 er omskrevet, med omtale av ny norsk tariff (15D).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.01903</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/nls/preparater-og-legemiddelformer/standarder-for-legemiddelformer/standarder-for-legemiddelformer-og-betegnelser-som-kan-benyttes-ved-merking/f</prop>
+     <seg>If the preparation has more than one active substance, the requirement applies only to those substances that correspond to the above conditions.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/nls/preparater-og-legemiddelformer/standarder-for-legemiddelformer/standarder-for-legemiddelformer-og-betegnelser-som-kan-benyttes-ved-merking/i</prop>
+     <seg>Intramammarier som er henholdsvis emulsjon, oppl&#248;sning, suspensjon eller salve, betegnes Intramammarie, emulsjon, Intramammarie, oppl&#248;sning, Intramammarie, suspensjon og Intramammarie, salve.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.8473</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines%20as%20of%20April%206%202021.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210325%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210331%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <seg>Most deaths have occurred amongst elderly nursing home residents in need of nursing care, but the Norwegian Medicines Agency has also received six reports of deaths concerning persons under the age of 60.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210325%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210408%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210331%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>De fleste d&#248;dsfall har v&#230;rt hos eldre pleietrengende sykehjemsbeboere, men Legemiddelverket har ogs&#229; mottatt seks meldinger med d&#248;dsfall hos personer under 60 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">4.985</prop>
+    <prop type="score-bicleaner">0.564</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>Management of Clinical Trials in relation to Covid-19</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Endringer som f&#248;lge av Covid-19</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.35202</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>Private importation of vitamins for injection is not allowed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Privatimport av vitaminer som skal settes med spr&#248;yte er ikke tillatt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">3.08143</prop>
+    <prop type="score-bicleaner">0.682</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>No vaccine provides 100% protection against either infection or serious illness.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>Ingen vaksiner gir 100 % beskyttelse mot verken infeksjon eller alvorlig sykdom.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.14337</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>It is important that adverse reaction reports include a detailed description of the patient's condition and the development of the symptoms,&#8221; says Sigurd Hortemo, Senior Consultant at the Norwegian Medicines Agency.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>Det er viktig at bivirkningsmeldingene inneholder detaljert beskrivelse av pasientens tilstand og sykdomsforl&#248;pet, oppfordrer Sigurd Hortemo, overlege ved Legemiddelverket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.49808</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Regulatory%20affairs/Regulatory%20fees/Oversikt%20over%20nye%20gebyrer%20-%20engelsk%20versjon%202021%20-%20endelig%20til%20nettsidene.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Regulatory%20affairs/Regulatory%20fees/ENGELSKOversikt%20over%20nye%20gebyrer%20-%20engelsk%20versjon%202020%20-%20endelig%20til%20nettsidene.pdf.converted</prop>
+     <seg>For grouped variations, according to Variation Regulation EC 1234/2008, the fee will be equal to the sum of each variation applicable for a fee.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/Registreringsgebyr/Oversikt%20over%20nye%20gebyrer%202020%20-%20endelig_versjon%20til%20nettsidene.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/Registreringsgebyr/Oversikt%20over%20nye%20gebyrer%202021%20-%20endelig_norsk%20versjon%20til%20nettsidene_pdf.pdf.converted</prop>
+     <seg>For grupperte endringer i henhold til forordning EC 1234/2008 vil det bli tatt gebyr for hver endring som er gebyrpliktig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">1.22935</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>Products marketed as "herbal medicine" or "traditional Chinese medicine (TCM) are considered medical products, based on the marketing of the products.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Produkter markedsf&#248;rt som "tradisjonelle urte-legemidler" som for eksempel "Traditional chinese medicine" (TCM) anses som legemiddel basert p&#229; markedsf&#248;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.93226</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>Almost 80% of those admitted to hospital belonged to risk groups with a higher risk of becoming seriously ill as a result of COVID-19.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>N&#230;rmere 80% av de sykehusinnlagte tilh&#248;rte risikogrupper med &#248;kt risiko for alvorlig forl&#248;p av covid-19.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">1.18621</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210318%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <seg>The most common adverse reactions in this group are fever, decreased general condition, shortness of breath, muscle pain, vomiting, diarrhoea and fatigue.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210318%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>De vanligste bivirkningene i denne gruppen er feber, nedsatt allmenntilstand, tungpustethet, muskelsmerter, oppkast, diar&#233; og utmattelse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">2.77832</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>The elderly are at greater risk of serious illness if they become infected with the COVID-19 virus.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>Eldre har &#248;kt risiko for alvorlig sykdom dersom de blir smittet av covid-19 viruset.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.8101</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines%20as%20of%20April%206%202021.pdf.converted</prop>
+     <seg>In a number of countries, there have been reports of a very rare but serious picture of symptoms involving a combination of blood clotting, low platelet count and haemorrhaging which has occurred in people 3-14 days following vaccination with the Vaxzevria (COVID-19 Vaccine Astra Zeneca).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210408%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>I flere land er det rapportert tilfeller av en sv&#230;rt sjelden men alvorlig sykdomsbilde med en kombinasjonen av blodpropp, lavt antall blodplater og bl&#248;dninger, og som har oppst&#229;tt hos personer 3-14 dager etter vaksinering med Vaxzevria (COVID-19 Vaccine AstraZeneca).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">1.14725</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <seg>In such cases, the price per tablet in the large package is set equal to the price per tablet in the small package.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <seg>I disse tilfellene settes prisen per enhet i den store pakningen lik prisen per enhet i den lille pakningen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.06778</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines%20as%20of%20April%206%202021.pdf.converted</prop>
+     <seg>In addition, there are many events which are always classified as serious because they are on the EMA's Important Medical Events (IME) list, such as anaphylactic reactions, syncope (fainting) or hallucinations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210408%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>I tillegg er det en rekke hendelser som alltid blir klassifiserte som alvorlige ettersom de st&#229;r p&#229; EMAs liste over viktige medisinske hendelser (IME-listen), slik som anafylaktiske reaksjoner, synkope (besvimelse) eller hallusinasjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">3.4</prop>
+    <prop type="score-bicleaner">0.686</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20covid-19%20vaccines%20as%20of%20March%209%202021.pdf.converted</prop>
+     <seg>Table 3: Distribution of reports of suspected adverse reactions according to severity</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210312%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Tabell 3: Fordeling av meldinger om mistenkte bivirkninger etter alvorlighetsgrad</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.246</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>We cannot assess in advance whether a product is likely to be stopped.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Vi kan ikke forh&#229;ndsvurdere om et produkt kan bli stoppet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">1.27059</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>These events must be reported as adverse reactions via melde.no.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>Disse hendelsene skal meldes som bivirkning via melde.no.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.59099</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>We have also received 99 reports from women who have suffered unexpected vaginal bleeding after menopausal age.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>I tillegg har vi f&#229;tt 99 meldinger fra kvinner som opplever uventede underlivsbl&#248;dninger etter overgangsalder.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">2.90473</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210318%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20covid-19%20vaccines%20as%20of%20March%209%202021.pdf.converted</prop>
+     <seg>The majority of these reports concern people over the age of 60 who were admitted to hospital.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210318%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210312%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Flertallet av disse meldingene gjelder personer over 60 &#229;r som ble innlagt p&#229; sykehus.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">1.46029</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Regulatory%20affairs/Regulatory%20fees/Oversikt%20over%20nye%20gebyrer%20-%20engelsk%20versjon%202021%20-%20endelig%20til%20nettsidene.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Regulatory%20affairs/Regulatory%20fees/ENGELSKOversikt%20over%20nye%20gebyrer%20-%20engelsk%20versjon%202020%20-%20endelig%20til%20nettsidene.pdf.converted</prop>
+     <seg>For products intended for MUMS (Minor Use/Minor Species) there is a 50% reduction in the fee MUMS-status must be clarified with the Norwegian Medicines Agency before submission.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/Registreringsgebyr/Oversikt%20over%20nye%20gebyrer%202020%20-%20endelig_versjon%20til%20nettsidene.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/Registreringsgebyr/Oversikt%20over%20nye%20gebyrer%202021%20-%20endelig_norsk%20versjon%20til%20nettsidene_pdf.pdf.converted</prop>
+     <seg>For legemidler til MUMS (Minor Use/Minor Species) er det 50% reduksjon i gebyr. MUMS-status m&#229; avklares p&#229; forh&#229;nd med Legemiddelverket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.50039</prop>
+    <prop type="score-bicleaner">0.574</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>show that the risk of being admitted to hospital with COVID-19 is over 70% lower for partially and fully vaccinated persons compared with those who have not been vaccinated.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>viser at risikoen for &#229; bli innlagt p&#229; sykehus med covid-19 er over 70 % lavere for delvaksinerte og fullvaksinerte, sammenlignet med uvaksinerte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">1.00987</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>This means that the sponsor can implement the changes without notifying or sending a substantial amendment application to NoMA.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Sponsor kan alts&#229; gjennomf&#248;re endringen uten melding eller s&#248;knad til Legemiddelverket, men det er viktig at det som gj&#248;res dokumenteres, og kommuniseres skriftlig til alle hovedutpr&#248;vere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">1.21067</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>There have been 107 covid-19 associated deaths among fully vaccinated, all aged 79 to 90 years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>Det har v&#230;rt 107 covid-19 assosierte d&#248;dsfall blant fullvaksinerte, alle i alder 79 til 90 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">1.12488</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines%20as%20of%20April%206%202021.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210325%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210331%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <seg>The most frequent adverse reactions reported in serious reports are largely the same as those seen in non-serious reports, including fever, decreased general condition, shortness of breath, muscle pain, vomiting, diarrhoea and fatigue.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210325%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210408%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210331%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>De hyppigste bivirkningene for alvorlige meldinger er hovedsakelig de samme som vi ser for lite alvorlige meldinger, som feber, nedsatt almenntilstand, tungpustethet, muskelsmerter, oppkast, diar&#233; og utmattelse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">3.06513</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>Information regarding changes to Clinical Trials as a result of the covid-19 outbreak</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>covid-19, er det sannsynlig at mange kliniske studier ikke vil bli mulig &#229; gjennomf&#248;re som planlagt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">1.74574</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210325%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210331%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <seg>There have also been reports of two deaths following a brain haemorrhage without blood clotting and one death linked to the deterioration of a previous medical condition following vaccination with the AstraZeneca COVID-19 vaccine with uncertain causality.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210325%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210331%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Det er ogs&#229; meldt om to d&#248;dsfall etter hjernebl&#248;dning uten blodpropp og ett d&#248;dsfall i forbindelse med forverring av tidligere sykdom etter vaksinering med COVID-19 Vaccine AstraZeneca med usikker &#229;rsakssammenheng.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="55" datatype="Text">
+    <prop type="score-hunalign">4.28333</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/OTC/Virkestoffrapporter/F-J/G01%20Klotrimazol_11032019.pdf.converted</prop>
+     <seg>Vaginal tablet/capsule/pessary 100 mg:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevarsling/R/Reslizumab%20til%20behandling%20av%20alvorlig%20eosinifil%20astma.pdf.converted</prop>
+     <seg>Den anbefalte dosen av mepolizumab er 100 mg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="56" datatype="Text">
+    <prop type="score-hunalign">1.125</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <seg>This means that price per tablet, price per dose etc. is compared.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <seg>Dette inneb&#230;rer at man sammenligner pris per tablett, pris per dose etc.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="57" datatype="Text">
+    <prop type="score-hunalign">1.27931</prop>
+    <prop type="score-bicleaner">0.702</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>My package has been stopped - why?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Pakken min er stoppet - hvorfor det?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="58" datatype="Text">
+    <prop type="score-hunalign">1.16828</prop>
+    <prop type="score-bicleaner">0.638</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210318%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20covid-19%20vaccines%20as%20of%20March%209%202021.pdf.converted</prop>
+     <seg>In addition, there are a number of events that are always classified as serious, such as anaphylactic reactions, syncope (fainting) and hallucinations.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210318%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210312%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>I tillegg er det en rekke hendelser som alltid blir klassifiserte som alvorlige, slik som anafylaktiske reaksjoner, synkope (besvimelse) eller hallusinasjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="59" datatype="Text">
+    <prop type="score-hunalign">1.13265</prop>
+    <prop type="score-bicleaner">0.666</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>These substances are not allowed to import by post, and packages containing nootropics will be stopped by customs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Det er ikke tillatt &#229; privatimportere slike stoffer per post og pakker som inneholder slike stoffer vil bli stoppet i tollen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="60" datatype="Text">
+    <prop type="score-hunalign">1.12895</prop>
+    <prop type="score-bicleaner">0.690</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>if your package has been stopped by Norwegian Customs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>dersom pakken din er blitt stoppet i tollen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="61" datatype="Text">
+    <prop type="score-hunalign">1.11966</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>However, it is still very rare for such reactions to occur (approximately one severe allergic reaction per 100,000 doses being administered).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>Det er likevel sv&#230;rt sjeldent at dette forekommer (cirka &#233;n alvorlig allergisk reaksjon per 100 000 doser som blir satt).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="62" datatype="Text">
+    <prop type="score-hunalign">1.12733</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>Are there any elderly or frail people who should not receive the vaccine?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>Er det noen eldre og skr&#248;pelige som ikke b&#248;r f&#229; vaksine?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="63" datatype="Text">
+    <prop type="score-hunalign">1.1528</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20covid-19%20vaccines%20as%20of%20March%209%202021.pdf.converted</prop>
+     <seg>the event resulted in a life-threatening illness (e.g. anaphylaxis) or death.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210312%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>hendelsen har medf&#248;rt livstruende sykdom (for eksempel anafylaksi) eller d&#248;d.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="64" datatype="Text">
+    <prop type="score-hunalign">2.58741</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>However, we assume that the adverse reactions will largely be the same as in those over 65 years of age.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>Men vi antar at bivirkningene stort sett vil v&#230;re de samme hos de eldste som hos dem over 65 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="65" datatype="Text">
+    <prop type="score-hunalign">1.32481</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>For questions about food supplements, please contact Mattilsynet.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>For sp&#248;rsm&#229;l om hva som kan v&#230;re kosstilskudd er det Mattilsynet som skal kontaktes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="66" datatype="Text">
+    <prop type="score-hunalign">1.38562</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Andre%20temaer/FEST/Testfiler/Interface%20documentation%20Webservice%20FEST%2020190612.pdf.converted</prop>
+     <seg>If the received FEST message&#8217;s &#8221;HentetDato&#8221; (Retrieval date) SistOppdatert, the call must be repeated, with &#8221;HentetDato&#8221; as a parameter in order to get the next series of incremental changes.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Andre%20temaer/FEST/Hvordan%20bruke%20FEST/Grensesnittdokumentasjon_31012019%20-%20Webservice%20FEST%20for%20internett%20og%20Norsk%20Helsenett%20(NHN).pdf.converted</prop>
+     <seg>Hvis den mottatte FEST-meldingens &#8221;HentetDato&#8221; SistOppdatert s&#229; m&#229; man gjenta kallet, n&#229; med &#8221;HentetDato&#8221; som parameter for &#229; f&#229; neste serie med inkrementelle endringer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="67" datatype="Text">
+    <prop type="score-hunalign">4.134</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>NIPH monitors COVID-19 disease in vaccinated persons.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>Folkehelseinstituttet overv&#229;ker covid-19 sykdom hos vaksinerte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="68" datatype="Text">
+    <prop type="score-hunalign">4.3</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines%20as%20of%20April%206%202021.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210325%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210331%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <seg>Reports of deaths of persons under the age of 60</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210325%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210408%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210331%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Meldinger om d&#248;dsfall hos personer under 60 &#229;r</seg>
+    </tuv>
+   </tu>
+   <tu tuid="69" datatype="Text">
+    <prop type="score-hunalign">1.79434</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Andre%20temaer/FEST/Testfiler/Interface%20documentation%20Webservice%20FEST%2020190612.pdf.converted</prop>
+     <seg>The call must be repeated until &#8221;HentetDato&#8221; = SistOppdatert.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Andre%20temaer/FEST/Hvordan%20bruke%20FEST/Grensesnittdokumentasjon_31012019%20-%20Webservice%20FEST%20for%20internett%20og%20Norsk%20Helsenett%20(NHN).pdf.converted</prop>
+     <seg>Slik m&#229; kallet gjentas inntil &#8221;HentetDato&#8221; = SistOppdatert.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="70" datatype="Text">
+    <prop type="score-hunalign">2.34812</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Documentation%20for%20STA/Log%20changes%20Guidelines%2018.10.2021.docx.converted</prop>
+     <seg>7.3 (previously 7.2): Most o</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Dokumentasjon%20til%20metodevurdering/Logg%20for%20endringer%20Retningslinjer%20%2018.10.2021.pdf.converted</prop>
+     <seg>7.3 (tidligere 7.2):</seg>
+    </tuv>
+   </tu>
+   <tu tuid="71" datatype="Text">
+    <prop type="score-hunalign">1.04559</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevurderinger/O/Opdivo_hode-halskreft_2017.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevurderinger/O/Opdivo_hode-halskreft_2017.pdf.converted</prop>
+     <seg>Intervention in the submitted clinical studies related to Norwegian setting.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevurderinger/O/Opdivo_nyrekreft_2016.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Metodevurderinger/O/Opdivo_nyrekreft_2016.pdf.converted</prop>
+     <seg>Pasientene vil ventelig v&#230;re eldre ved start av behandling enn i s&#248;kers analyse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="72" datatype="Text">
+    <prop type="score-hunalign">2.53812</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>The studies that formed the basis for the temporary authorisation of the vaccine included very few people over the age of 85.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>Studiene som ligger til grunn for den midlertidige godkjenningen av vaksinen inkluderte sv&#230;rt f&#229; personer over 85 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="73" datatype="Text">
+    <prop type="score-hunalign">1.01232</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>Exceptions - substances which will not be stopped</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Unntak - stoffer som ikke stoppes</seg>
+    </tuv>
+   </tu>
+   <tu tuid="74" datatype="Text">
+    <prop type="score-hunalign">2.1375</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines%20as%20of%20April%206%202021.pdf.converted</prop>
+     <seg>As of 6 April, three such deaths had been reported in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210408%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>I Norge er det per 6. april meldt om tre slike d&#248;dsfall.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="75" datatype="Text">
+    <prop type="score-hunalign">1.38889</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>Food supplements containing only vitamins, minerals, and herbs (not on the list above) are generally allowed to be imported for private use.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Kosttilskudd som inneholder vitaminer, mineraler og urter (som ikke er p&#229; listen over) er som regel tillatt for privatimport.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="76" datatype="Text">
+    <prop type="score-hunalign">2.99583</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>What do we know about the efficacy of the mRNA vaccines in the elderly over 85 years of age?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>Hva vet vi om effekten av mRNA-vaksinene hos eldre over 85 &#229;r?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="77" datatype="Text">
+    <prop type="score-hunalign">5.35286</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>Confirmed COVID-19 in vaccinated persons</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>P&#229;vist covid-19 hos vaksinerte</seg>
+    </tuv>
+   </tu>
+   <tu tuid="78" datatype="Text">
+    <prop type="score-hunalign">2.15417</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210325%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <seg>As of 23 March, three such deaths had been reported in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210325%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>I Norge er det per 23. mars meldt om tre slike d&#248;dsfall.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="79" datatype="Text">
+    <prop type="score-hunalign">1.01583</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>The risk assessment will need to be performed before the implementation of urgent safety measures, as well as prior to sending a substantial amendment application to NoMA.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Risikovurderinger m&#229; legges til grunn f&#248;r implementering av sikkerhetstiltak (Urgent Safety Measures) og meldinger om vesentlig endring (substantial amendments).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="80" datatype="Text">
+    <prop type="score-hunalign">2.76664</prop>
+    <prop type="score-bicleaner">0.658</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210318%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <seg>The reported deaths have occurred within a period of up to 3 weeks following vaccination.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210318%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>D&#248;dsfallene som er meldt er skjedd innenfor et tidsrom p&#229; opptil 3 uker etter vaksinasjon.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="81" datatype="Text">
+    <prop type="score-hunalign">1.05152</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>Risk assessments as well as any decisions made must be documented in the Trial Master File.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Risikovurderinger og beslutninger m&#229; dokumenteres i Trial Master File.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="82" datatype="Text">
+    <prop type="score-hunalign">1.21849</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines%20as%20of%20April%206%202021.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210325%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210331%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <seg>Among other things, elevated blood sugar levels, high INR values in patients taking warfarin (Marevan), chest pain and difficulty breathing may be caused by blood clots, numbness, absence or reduction of sensation and paralysis.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210325%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210408%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210331%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Det er blant annet forh&#248;yede blodsukkerverdier, h&#248;ye INR-verdier hos pasienter som bruker warfarin (Marevan), brystsmerter og pustevansker som kan skyldes blodpropp, nummenhet, frav&#230;r eller reduksjon av f&#248;lelse og lammelser.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="83" datatype="Text">
+    <prop type="score-hunalign">1.09232</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>which send both non-prescription and prescription medicines by post.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>som sender b&#229;de reseptfrie og reseptpliktige legemidler per post.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="84" datatype="Text">
+    <prop type="score-hunalign">1.31006</prop>
+    <prop type="score-bicleaner">0.554</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>Medicinal Products Act, Section 31, or the Penal Code, Section 231 and 232 (narcotic substances) or Section 234 and 235 (doping agents).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>legemiddelloven &#167; 31, eller brudd p&#229; straffeloven &#167;&#167; 231 og 232 (narkotika) eller straffeloven &#167;&#167; 234 og 235 (doping).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="85" datatype="Text">
+    <prop type="score-hunalign">1.73265</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>"For the vast majority of people who are elderly and frail, any adverse reactions to the vaccine will be more than offset by the reduced risk of becoming seriously ill from COVID-19.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>&#171;For de aller fleste som er eldre og lever med skr&#248;pelighet, vil eventuelle bivirkninger av vaksinen mer enn oppveies av redusert risiko for &#229; bli alvorlig syk av covid-19.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="86" datatype="Text">
+    <prop type="score-hunalign">1.41731</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/OTC/Virkestoffrapporter/A-B/C05%20Lidokain%20-%20hydrokortisonacetat_110319.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/OTC/Virkestoffrapporter/A-B/C05%20Lidokain%20-%20hydrokortisonacetat_110319.pdf.converted</prop>
+     <seg>However, the abbreviation below can be used.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Kj%C3%A6re%20helsepersonell-brev/2020/Nexplanon%20DHCP.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Kj%C3%A6re%20helsepersonell-brev/2020/Nexplanon%20DHCP.pdf.converted</prop>
+     <seg>under innsetting og fjerning av implantatet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="87" datatype="Text">
+    <prop type="score-hunalign">3.80632</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <seg>Packages containing more than 30 units are defined as large.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <seg>Pakninger med mer enn 30 enheter defineres som store.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="88" datatype="Text">
+    <prop type="score-hunalign">2.39325</prop>
+    <prop type="score-bicleaner">0.612</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/reports-of-suspected-adverse-reactions-to-covid-19-vaccines-as-of-9-november-2021</prop>
+     <seg>We would like to remind health professionals to report serious cases of COVID-19 disease and deaths associated with COVID-19 in fully vaccinated persons.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/meldinger-om-mulige-bivirkninger-av-koronavaksine-per-9-november-2021</prop>
+     <seg>Vi minner om at helsepersonell skal melde alvorlig covid-19 sykdom eller covid-19 assosiert d&#248;d hos fullvaksinerte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="89" datatype="Text">
+    <prop type="score-hunalign">1.07292</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>Therefore, longer processing times for applications will need to be expected for both Clinical Trial and Substantial Amendment Applications (please note that this is not applicable for covid-19 related applications).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Om endringer som f&#248;lge av covid-19 Endringer som beskrives under gjelder frem til Legemiddelverket gir ny beskjed. Gitt tiltak som n&#229; gjennomf&#248;res i samfunnet og i helsetjenesten pga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="90" datatype="Text">
+    <prop type="score-hunalign">2.97192</prop>
+    <prop type="score-bicleaner">0.668</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines%20as%20of%20April%206%202021.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210325%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210331%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <seg>So far, 139 reports of deaths after vaccination have been assessed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210408%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210325%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210331%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Meldinger om d&#248;dsfall Det er s&#229; langt behandlet 139 meldinger om d&#248;dsfall etter vaksinering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="91" datatype="Text">
+    <prop type="score-hunalign">1.27981</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>Can remote/electronic information or forms for recruitment, patient information or patient consent be used during this period?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Kan det benyttes remote informasjon/rekruttering, eller elektronisk pasientinformasjon og samtykkeformular (ICF)?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="92" datatype="Text">
+    <prop type="score-hunalign">3.59</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>What do we know about adverse reactions amongst the elderly over 85 years of age?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>Hva vet vi om bivirkninger hos eldre over 85 &#229;r?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="93" datatype="Text">
+    <prop type="score-hunalign">2.5652</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>In Norwegian nursing homes and other similar institutions, an average of around 400 people die every week.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>P&#229; norske sykehjem og lignende institusjoner d&#248;r det gjennomsnittlig om lag 400 personer i uken.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="94" datatype="Text">
+    <prop type="score-hunalign">1.77848</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210325%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210331%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <seg>In a number of countries, there have been reports of a very rare but serious picture of symptoms involving a combination of blood clotting, low platelet count and haemorrhaging which has occurred in people 3-14 days following vaccination with the AstraZeneca COVID-19 vaccine.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210325%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210331%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>I flere land er det rapportert tilfeller av en sv&#230;rt sjelden men alvorlig sykdomsbilde med en kombinasjonen av blodpropp, lavt antall blodplater og bl&#248;dninger, og som har oppst&#229;tt hos personer 3-14 dager etter vaksinering med COVID-19 Vaccine AstraZeneca.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="95" datatype="Text">
+    <prop type="score-hunalign">2.05263</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20covid-19%20vaccines%20as%20of%20March%209%202021.pdf.converted</prop>
+     <seg>A total of 115 reports have so far been assessed concerning deaths following vaccination relating to elderly people in need of nursing care, most of whom were nursing home residents.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210312%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Meldinger om d&#248;dsfall Det er s&#229; langt behandlet 115 meldinger om d&#248;dsfall etter vaksinering hos eldre pleietrengende, hvor de fleste er sykehjemsbeboere.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="96" datatype="Text">
+    <prop type="score-hunalign">1.19191</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>The Norwegian Medicines Agency does not usually issue import permits to private individuals if the argument is that the medicinal product is not available in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Normalt gir ikke Legemiddelverket importtillatelse til privatpersoner hvis begrunnelsen er at legemidlet ikke er tilgjengelig i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="97" datatype="Text">
+    <prop type="score-hunalign">3.14959</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/20210617%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines_.pdf.converted</prop>
+     <seg>Vaxzevria and the COVID-19 Vaccine Janssen is not used in the Norwegian vaccination programme, but the COVID-19 Vaccine Janssen is offered outside the Norwegian vaccination programme.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210617%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Vaxzevria og COVID-19 Vaccine Janssen brukes ikke i det norske vaksinasjonsprogrammet, men COVID-19 Vaccine Janssen tilbys utenfor koronavaksinasjonsprogrammet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="98" datatype="Text">
+    <prop type="score-hunalign">1.00055</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <seg>medicinal products2 will get the lowest maximum PPP of medicines within the same ATC code, regardless of whether their marketing authorization is based on biosimilar, well-established use or full dossier applications.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <seg>laveste maksimale AIP av legemidler i samme ATC-kode, uavhengig av om s&#248;kegrunnlaget for disse legemidlene er biotilsvarende, bibliografisk eller original2.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="99" datatype="Text">
+    <prop type="score-hunalign">2.29053</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>NoMA is prioritising all clinical trial and substantial amendment applications that arise as a result of the covid-19 outbreak.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Vi prioriterer &#229; behandle endringer som f&#248;lge av covid-19, men grunnet redusert bemanning m&#229; det p&#229;regnes forlenget saksbehandlingstid p&#229; ordin&#230;re endringsmeldinger.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="100" datatype="Text">
+    <prop type="score-hunalign">3.23023</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines%20as%20of%20April%206%202021.pdf.converted</prop>
+     <seg>This applies to approx. 42% of all serious reports</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210408%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Dette gjelder ca 42 % av totale alvorlige meldinger (d&#248;dsfall</seg>
+    </tuv>
+   </tu>
+   <tu tuid="101" datatype="Text">
+    <prop type="score-hunalign">2.41296</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>Are they any covid-19 studies that are currently underway and can be recommended by the NoMA?</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Dersom en studie med indikasjon covid-19 blir aktuell for Norge - finnes det noen plan for en raskere saksbehandling av disse s&#248;knadene?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="102" datatype="Text">
+    <prop type="score-hunalign">2.38154</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>Large clinical studies have shown around 95% protection against COVID-19 disease, and a high level of protection was found both in the 18-65 age group and in participants over 65 years of age.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>Vaksinene viste rundt 95 % beskyttelse mot covid-19-sykdom, og man fant god beskyttelse b&#229;de i aldersgruppen 18-65 &#229;r og hos deltakerne som var over 65 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="103" datatype="Text">
+    <prop type="score-hunalign">1.14023</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>If you have any questions about food supplements, please direct your questions to Mattilsynet, the Norwegian Food Safety Authority.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>For sp&#248;rsm&#229;l om hva som kan v&#230;re lovlig kosttilskudd i Norge er det Mattilsynet som skal kontaktes.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="104" datatype="Text">
+    <prop type="score-hunalign">1.81505</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>A temporary halt of the inclusion of new trial participants for ongoing studies due to the covid-19 pandemic can be implemented without sending a notification to NoMA.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>N&#229;r det gjelder midlertidig stans av inklusjon av nye pasienter i p&#229;g&#229;ende studier p&#229; grunn av covid-19 pandemien, kan sponsor implementere dette uten &#229; melde fra til Legemiddelverket.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="105" datatype="Text">
+    <prop type="score-hunalign">1.31125</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20to%20covid-19%20vaccines%20as%20of%20March%209%202021.pdf.converted</prop>
+     <seg>The most common adverse reactions in this group are fever, decreased general condition, shortness of breath, muscle pain, vomiting, diarrhoea and fatigue.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210312%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>De vanligste bivirkningene i denne gruppen er feber, nedsatt allmenntilstand, tungpusthet, muskelsmerter, oppkast, diar&#233; og utmattelse.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="106" datatype="Text">
+    <prop type="score-hunalign">2.55967</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>We request that all submissions relating to covid-19 are clearly marked, preferably in the subject heading of your e-mail.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Hva skal jeg gj&#248;re med endringer som skyldes covid-19 p&#229; allerede p&#229;g&#229;ende studier i Norge?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="107" datatype="Text">
+    <prop type="score-hunalign">1.21242</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/english/import-wholesaling-and-retailing/importing-medicines-for-personal-use/importing-in-the-form-of-consignments</prop>
+     <seg>Postal consignments containing medicinal products from abroad are not allowed and may be stopped by Norwegian Customs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/privatimport-ved-forsendelse</prop>
+     <seg>Postforsendelser med legemidler (b&#229;de reseptpliktige og reseptfrie) fra utlandet er ikke tillatt og kan bli stoppet i tollkontroll.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="108" datatype="Text">
+    <prop type="score-hunalign">2.64632</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/20210610%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines_.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/20210520%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210610%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines_.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210520%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/20210617%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines_.pdf.converted</prop>
+     <seg>The list shows that numerous serious suspected adverse effects have been reported following COVID-19 vaccination.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210603%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210520%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210527%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210514%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210617%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Oversikten viser at det er meldt om flere alvorlige mistenkte bivirkninger etter bruk av covid-19 vaksiner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="109" datatype="Text">
+    <prop type="score-hunalign">1.02183</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/20210617%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines_.pdf.converted</prop>
+     <seg>The remaining four reports have been reviewed and assessed according to the above-mentioned criteria for TTS from the Brighton Collaboration.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210617%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>De fire resterende meldingene er gjennomg&#229;tt og vurdert etter de nevnte kriterier for TTS fra Brighton collaboration.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="110" datatype="Text">
+    <prop type="score-hunalign">1.11964</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/OTC/Virkestoffrapporter/A-B/D06%20Aciclovir%20_07012020.pdf.converted</prop>
+     <seg>posology for products containing aciclovir.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Andre%20temaer/Reklame/Rapporter%20fra%20muntlige%20tilsyn/2015/15-04465-5%20Tilsynsrapport%20-%20110315%20-%20Enbrel%20-%20Pfizer.pdf.converted</prop>
+     <seg>Reklame for legemidler skal v&#230;re n&#248;ktern og saklig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="111" datatype="Text">
+    <prop type="score-hunalign">1.91119</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>Since the efficacy was relatively similar across all age groups covered by the studies, it is still believed that the protection in elderly over 85 years of age will be similar to that of people over 65 years of age (extrapolation).</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>Siden effekten var noks&#229; lik i alle aldersgruppene som var med i studiene, forutsetter man likevel at beskyttelsen hos eldre over 85 &#229;r vil v&#230;re omtrent som for personer over 65 &#229;r (ekstrapolering).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="112" datatype="Text">
+    <prop type="score-hunalign">1.0217</prop>
+    <prop type="score-bicleaner">0.676</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Public%20funding%20and%20pricing/Maximum%20Price/Price%20guidelines.docx.pdf.converted</prop>
+     <seg>The prices of newly-launched products are exempt from this rule.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Offentlig%20finansiering%20og%20pris/Pris/Maksimalpris/Retningslinjer%20for%20prisfastsettelse.pdf.converted</prop>
+     <seg>Unntatt fra dette er prisen p&#229; nye produkter etter lansering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="113" datatype="Text">
+    <prop type="score-hunalign">1.64371</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines%20as%20of%20April%206%202021.pdf.converted</prop>
+     <seg>There have also been reports of two deaths following a brain haemorrhage without blood clotting and one death linked to the deterioration of a previous medical condition following vaccination with the AstraZeneca COVID-19 vaccine with uncertain causality.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210408%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Det er ogs&#229; meldt om to d&#248;dsfall etter hjernebl&#248;dning uten blodpropp og ett d&#248;dsfall i forbindelse med forverring av tidligere sykdom etter vaksinering med Vaxzevria (COVID-19 Vaccine AstraZeneca) med usikker &#229;rsakssammenheng.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="114" datatype="Text">
+    <prop type="score-hunalign">1.10936</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Regulatory%20affairs/Regulatory%20fees/Oversikt%20over%20nye%20gebyrer%20-%20engelsk%20versjon%202021%20-%20endelig%20til%20nettsidene.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Regulatory%20affairs/Regulatory%20fees/ENGELSKOversikt%20over%20nye%20gebyrer%20-%20engelsk%20versjon%202020%20-%20endelig%20til%20nettsidene.pdf.converted</prop>
+     <seg>Type IA and Type IB variations without changes to the SmPC, Patient Information Leaflet and labeling will not be charged</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/Registreringsgebyr/Oversikt%20over%20nye%20gebyrer%202020%20-%20endelig_versjon%20til%20nettsidene.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/Registreringsgebyr/Oversikt%20over%20nye%20gebyrer%202021%20-%20endelig_norsk%20versjon%20til%20nettsidene_pdf.pdf.converted</prop>
+     <seg>Det tas ikke gebyr for type IA endringer og endringer type IB uten endringer i preparatomtale, pakningsvedlegg og merking.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="115" datatype="Text">
+    <prop type="score-hunalign">1.03929</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/Documents/Godkjenning/Godkjenning%20av%20legemidler/Maler%20og%20veiledninger%20for%20produktinformasjon/The%20warning%20triangle.pdf.converted</prop>
+     <seg>Al medicinal products for human use containing an active substance stated in the warning triangle</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Om%20oss/Arrangementer/LMK-seminar%202017/Hva%20gj%C3%B8r%20helseforetakene_Michael%20Vester.pdf.converted</prop>
+     <seg>&#8226; Etablere vilk&#229;r for bruk av nye legemidler f&#248;r MT &#8226; Fremgangsm&#229;te for lokal godkjenning av bruk av nye</seg>
+    </tuv>
+   </tu>
+   <tu tuid="116" datatype="Text">
+    <prop type="score-hunalign">1.68252</prop>
+    <prop type="score-bicleaner">0.526</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>The appendix should be submitted as a consolidated amendment along with any other possible changes, e.g. to the protocol, EudraCT form, etc. when the pandemic situation is stable and there is a lowered probability for the need for further covid-19-related changes in the immediate future, or when the sponsor wishes to do so.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>n&#229;r pandemi-situasjonen er stabil, og det er mindre sannsynlig at det blir behov for flere Covid-19-realerte endringer den n&#230;rmeste tiden, eller tidligere hvis det er &#248;nskelig for sponsor.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="117" datatype="Text">
+    <prop type="score-hunalign">1.89745</prop>
+    <prop type="score-bicleaner">0.558</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>NoMA would also like to encourage all clinical trial investigators and their teams to carefully consider whether it is appropriate to burden the Health Service with the commencement and implementation of new clinical trials that are not related to covid-19 during this current period of an ongoing pandemic.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Vi oppfordrer ogs&#229; til &#229; overveie grundig om det er riktig &#229; belaste helsetjenesten med oppstart av nye studier som ikke er relatert til covid-19 i denne perioden med p&#229;g&#229;ende pandemi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="118" datatype="Text">
+    <prop type="score-hunalign">1.33585</prop>
+    <prop type="score-bicleaner">0.636</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/english/clinical-trials/management-of-clinical-trials-in-relation-to-covid-19</prop>
+     <seg>NoMA considers this to be necessary change for ongoing clinical trials, given the current measures implemented by the government</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/godkjenning/klinisk-utproving/endringer-som-folge-av-covid-19-</prop>
+     <seg>Legemiddelverket anser dette som en n&#248;dvendig endring i p&#229;g&#229;ende kliniske studier, gitt de tiltakene som n&#229; gjennomf&#248;res.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="119" datatype="Text">
+    <prop type="score-hunalign">2.42286</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/use-of-mrna-vaccines-in-the-elderly</prop>
+     <seg>However, the studies that formed the basis for the Conditional Marketing Authorisation included very few people over the age of 85.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://legemiddelverket.no/nyheter/bruk-av-mrna-vaksiner-hos-eldre</prop>
+     <seg>Men studiene som ligger til grunn for den midlertidige godkjenningen av vaksinene inkluderte sv&#230;rt f&#229; personer over 85 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="120" datatype="Text">
+    <prop type="score-hunalign">1.97867</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/20210610%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines_.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/20210520%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210610%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines_.pdf.converted</prop>
+     <prop type="source-document">https://legemiddelverket.no/Documents/English/Covid-19/20210520%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/English/Covid-19/20210617%20Reported%20suspected%20adverse%20reactions%20coronavirus%20vaccines_.pdf.converted</prop>
+     <seg>Such statistical analyses of reported adverse reactions have shown that serious allergic reactions occur more frequently following COVID-19 vaccination than with vaccination with influenza vaccines.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210603%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210520%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210527%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210514%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <prop type="source-document">http://legemiddelverket.no/Documents/Bivirkninger%20og%20sikkerhet/Rapporter%20og%20oversikter/Koronavaksiner/20210617%20Rapport%20over%20meldte%20bivirkninger%20av%20koronavaksine.pdf.converted</prop>
+     <seg>Slike statistiske analyser av meldte bivirkninger har vist at alvorlige allergiske reaksjoner opptrer hyppigere ved covid-19 vaksiner enn ved influensavaksine.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

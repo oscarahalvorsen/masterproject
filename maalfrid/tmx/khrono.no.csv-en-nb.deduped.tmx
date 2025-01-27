@@ -1,0 +1,279 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221216T151855" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.3183</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/files/2020/05/19/SFF_Evaluation.pdf.converted</prop>
+     <seg>This represents approximately 4% of centre also has funding from its host institution, from exter-</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/files/2021/02/08/brev-NTL.pdf.converted</prop>
+     <seg>vedtok derimot styret at &#171;Styret fastholder sitt syn p&#229; styrets autonomi, som fremg&#229;r av brevet av 4.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.09384</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/tievaluationusersurvey.pdf.converted</prop>
+     <seg>It should once again be emphasised that the small number of respondents for some institute units makes interpretation of the results difficult, but all four at the bottom have in common that</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/us_44-17.pdf.converted</prop>
+     <seg>Utvalget skal ha fokus p&#229; samordning og synergieffekter p&#229; tvers av studieprogrammene og for &#248;vrig bist&#229; studieprogramleder med koordinering, kvalitetssikring og -utvikling av det enkelte studieprogram.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.00835</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/files/2021/03/01/NORPART%20evaluation_final%20pdf%20(3).pdf.converted</prop>
+     <seg>The white paper states that Norway supports capacity building within higher education in developing countries by funding programmes in which HEIs in Norway collaborates with HEIs in the Global South.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/files/2020/05/07/TRHU2020_PUBLISERING_2.pdf.converted</prop>
+     <seg>Fordelt p&#229; fagomr&#229;der har studenttallet den siste ti&#229;rsperioden &#248;kt jevnt innen &#248;konomiske og administrative fag, naturvitenskapelige og tekniske fag og l&#230;rerutdanninger og andre utdanninger i pedagogikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.10962</prop>
+    <prop type="score-bicleaner">0.534</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/harry-potter-j-k-rowling-nmbu-quidditch/defending-title-with-brooms-and-dodgeballs/159188</prop>
+     <seg>Quidditch is one of the teams with a dedicated coach, Lenz has high expectations for the tournament.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/rumpeldunk/uio-vant-nm-i-rumpeldunk/171290</prop>
+     <seg>p&#229; &#197;s i h&#248;st, har han sittet i styret for rumpeldunklaget der.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.54</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/uhr-discriminatory-global/norwegian-academia-opposes-trumps-immigration-order/144994</prop>
+     <seg>Haanes says that</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/plakat/naziplakat-pa-bonnerom/174533</prop>
+     <seg>Dette er grov rasisme, sier han.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.45263</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/hioa-fri-programvare-curt/three-reasons-why-open-access-was-not-disruptive/119707</prop>
+     <seg>opened the meeting of</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/god-dag-mann-okseskaft/488239</prop>
+     <seg>Jeg tillater meg derfor,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.04318</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/bergen-academia-academic-freedom/will-discuss-autonomy-and-freedom-in-europe/141827</prop>
+     <seg>has chosen an important topic for this year&#8217;s conference.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/dypt-gripende-om-forholdet-mellom-diktatur-og-personlige-liv/575224</prop>
+     <seg>Den f&#248;rste delen er for s&#229; vidt medrivende nok.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.345</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/uhr-discriminatory-global/norwegian-academia-opposes-trumps-immigration-order/144994</prop>
+     <seg>opposing the executive order is that we see the consequences for students and scholars.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/plakat/naziplakat-pa-bonnerom/174533</prop>
+     <seg>&#8212; Verden er kontrollert av sionister, og vi mener det er de som har ansvaret for masseinnvandringen, sier &#214;berg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.10083</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/files/2018/02/28/NIFUreport2018-4.pdf.converted</prop>
+     <seg>The higher education system is binary with a sharp division between universities and university colleges.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/files/2020/02/19/3%20Kulbrandstad.pdf.converted</prop>
+     <seg>Bestemmelsen speiler en kjerneverdi i h&#248;yere utdanning, nemlig at utdanning og forskning skal ut&#248;ves faglig selvstendig og uavhengig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.06795</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/tievaluationusersurvey.pdf.converted</prop>
+     <seg>majority of companies are still satisfied</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/us_44-17.pdf.converted</prop>
+     <seg>&#8226; Institutt for mediefag, sosiologi og statsvitenskap</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.35882</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/3-ar-anniversary-bursdag/happy-birthday-khrono/125813</prop>
+     <seg>Lately, Khrono has</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/klage-sensur-eksamen/10-forklaringer-pa-ulik-sensur/124656</prop>
+     <seg>Kanskje til og med til stryk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.24</prop>
+    <prop type="score-bicleaner">0.544</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/tievaluationusersurvey.pdf.converted</prop>
+     <seg>They should either teach all</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/us_44-17.pdf.converted</prop>
+     <seg>holdent til det enkelte fakultet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.00161</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/oslo/welcome-to-studentslippet/124258</prop>
+     <seg>The article was first published on rector</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/aasen-ansa-arendalsuka/stappfullt-pa-nach-hos-studentene/136585</prop>
+     <seg>Men det f&#229;r bli mellom de som var der.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.036</prop>
+    <prop type="score-bicleaner">0.586</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/files/2018/02/28/NIFUreport2018-4.pdf.converted</prop>
+     <seg>research are now a minority.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/files/2020/02/19/3%20Kulbrandstad.pdf.converted</prop>
+     <seg>Strukturreform i universitets- og h&#248;gskolesektoren</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">1.10263</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/international-students-union-isu-welfare/international-students-want-more-funding/160074</prop>
+     <seg>&#8212; We do not want to make a superficial divide.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/tverrfaglig-medisin-uio/ingen-dode-pasienter-etter-tverrfaglig-simuleringskurs/148134</prop>
+     <seg>&#8212; Poenget er jo &#229; oppleve god kommunikasjon og samhandling, sier Arntzen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.03</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/tievaluationusersurvey.pdf.converted</prop>
+     <seg>User survey of the technical-industrial research institutes in Norway</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/us_44-17.pdf.converted</prop>
+     <seg>(erstatter n&#229;v&#230;rende Institutt for medie-, kultur- og samfunnsfag)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.19688</prop>
+    <prop type="score-bicleaner">0.518</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/tievaluationusersurvey.pdf.converted</prop>
+     <seg>User survey of the technical-industrial research institutes in Norway</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/us_44-17.pdf.converted</prop>
+     <seg>Disse to fakultetene har alts&#229;, gjennom de nevnte fagmilj&#248;ene og SEROS, samarbeidet om forskning og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.21081</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/fquihi-internasjonalisering-isu/norway-is-increasingly-accepting-only-the-wealthiest-international-students/408491</prop>
+     <seg>It is a lot of money to cash out for a student.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/film/dystopia-og-de-som-overlevde/154360</prop>
+     <seg>inn i Storbritannia, n&#230;rmere bestemt i Nord-Irland.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/files/2021/03/01/NORPART%20evaluation_final%20pdf%20(3).pdf.converted</prop>
+     <seg>According to the calls,</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/files/2020/05/07/TRHU2020_PUBLISERING_2.pdf.converted</prop>
+     <seg>Data fra kartleggingen</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.12128</prop>
+    <prop type="score-bicleaner">0.572</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/harry-potter-j-k-rowling-nmbu-quidditch/defending-title-with-brooms-and-dodgeballs/159188</prop>
+     <seg>The team is competing in the real life equivalent to the wizardly sport of Quidditch from the Harry Potter universe.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/rumpeldunk/uio-vant-nm-i-rumpeldunk/171290</prop>
+     <seg>De som har lest b&#248;kene, eller sett filmene, om Harry Potter vet hva rumpeldunk er.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.00079</prop>
+    <prop type="score-bicleaner">0.546</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/tievaluationusersurvey.pdf.converted</prop>
+     <seg>Sometimes, they think more about quality than costs.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://khrono.no/files/2017/11/15/us_44-17.pdf.converted</prop>
+     <seg>Det samme gjelder for forslagene til underenheter ved de nye fakultetene.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,764 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221221T171447" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.2925</prop>
+    <prop type="score-bicleaner">0.580</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>kommunale tjenesteomr&#229;dene der dette tilbys</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>kommunale tenesteomr&#229;da der det blir tilboden</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.3</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>n&#230;ringsutvikler og leder av servicetorget (Askim)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>n&#230;ringsutviklar og leiar av servicetorget (Askim)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.38448</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Forbrukerr&#229;det mener kommunene m&#229; gi relevante, riktige og raske svar n&#229;r innbyggerne lurer p&#229; noe, og kommuner som har v&#230;rt gode p&#229; dette, har scoret h&#248;yt i testene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Forbrukarr&#229;det meiner kommunane m&#229; gi relevante, riktige og raske svar n&#229;r innbyggjarane lurer p&#229; noko, og kommunar som har vore gode p&#229; dette, har scora h&#248;gt i testane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">2.1</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-bm.pdf.converted</prop>
+     <seg>Forbrukerr&#229;det fraskriver seg ethvert mulig ansvar for feil, utelatelser eller mangelfulle oppdateringer.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <seg>Forbrukarr&#229;det fr&#229;skriv seg einkvar mogeleg ansvar for feil, utelatingar eller mangelfulle oppdateringar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">2.63333</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>administrasjonen og ute i avdelingene (Fyresdal)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>administrasjonen og ute i avdelingane (Fyresdal)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">2.77338</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>B&#229;de &#229;rsm&#229;l og langtidsm&#229;l i kommuneplanen speiler fokus p&#229; service (Fyresdal) Gode tjenester og service er tema i b&#229;de lederm&#248;tene, p&#229; personalm&#248;ter i</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>B&#229;de &#229;rsm&#229;l og langtidsm&#229;l i kommuneplanen speglar fokus p&#229; service (Fyresdal) Gode tenester og service er tema i b&#229;de leiarm&#248;ta, p&#229; personalm&#248;te i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.37692</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-bm.pdf.converted</prop>
+     <seg>Forbrukerr&#229;det tar ikke ansvar for eventuelle feil ved utfyllingen av kontrakten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <seg>Forbrukarr&#229;det tek ikkje ansvar for eventuelle feil ved utfyllinga av kontrakten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.98309</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Ledelsen er opptatt av at kommunen hele tiden videreutvikler seg slik at vi kan</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Leiinga er oppteken av at kommunen heile tida vidareutviklar seg slik at den kan</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.51444</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>svare til de forventningene innbyggerne har, det har de blant annet vist med at kommunen har en egen enhet som heter &#171;kommunikasjon og service&#187; (Sarpsborg)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>svare til dei forventningane innbyggjarane har, det har dei blant anna vist med at kommunen har ei eiga eining som heiter &#171;kommunikasjon og service&#187; (Sarpsborg)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">2.79797</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Kommunikasjon og service er et fag (Askim) Man m&#229; ha kompetente folk i f&#248;rstelinje (Askim) Har prosjektet &#171;Felles f&#248;rstelinje for alle interne tjenester&#187; for &#229; kartlegge</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Kommunikasjon og service er eit fag (Askim) Ein m&#229; ha kompetente folk i fyrstelinje (Askim) Har prosjektet &#171;Felles fyrstelinje for alle interne tenester&#187; for &#229; kartleggje</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Brukertilfredshet med tjenestetilbudet</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Brukartilfredsheit med tenestetilbodet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.19832</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husleiekontrakt-bokmal.pdf.converted</prop>
+     <seg>N&#229;r det er tatt et forbehold om at en bolig leies ut &#171;som den er&#187; betyr det at leier overtar mye av risikoen for at boligen kan ha skjulte mangler.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husleiekontrakt-nn-2019-1.pdf.converted</prop>
+     <seg>N&#229;r det er tatt eit atterhald om at ein bustad blir leigd ut &#171;som han er&#187; betyr det at leigetakaren overtek mykje av risikoen for at bustaden kan ha skjulte manglar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.05855</prop>
+    <prop type="score-bicleaner">0.565</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husleiekontrakt-bokmal.pdf.converted</prop>
+     <seg>Hvis leier oppdager mangler etter avtaleinng&#229;elsen er det normalt ikke et kontraktsbrudd med mindre utleier har gitt feil eller manglende opplysninger eller dersom boligen er i vesentlig d&#229;rligere stand enn det leier med rimelighet hadde grunn til &#229; forvente ut fra leiesummens st&#248;rrelse og andre forhold.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husleiekontrakt-nn-2019-1.pdf.converted</prop>
+     <seg>Viss leigetakaren oppdagar manglar etter avtaleinng&#229;inga er det normalt ikkje eit kontraktsbrot med mindre utleigar har gitt feil eller manglande opplysingar eller dersom bustaden er i vesentleg d&#229;rlegare stand enn det leigetakar hadde rimeleg grunn til &#229; forvente ut fr&#229; leigesummen og andre forhold.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.72344</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Hva har kommunen hatt fokus p&#229; n&#229;r det gjelder god service og gode tjenester til</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Kva har kommunen hatt fokus p&#229; n&#229;r det gjeld god service og gode tenester til</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.50385</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Har begynt med de</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Har begynt med</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.788</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Oppf&#248;lging av henvendelser</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Oppf&#248;lging av f&#248;respurnader</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">2.48182</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Hva har kommunen gjort for &#229; v&#230;re tilgjengelig digitalt?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Kva har kommunen gjort for &#229; vere tilgjengeleg digitalt?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.49063</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husleiekontrakt-bokmal.pdf.converted</prop>
+     <seg>Utkastelse og s&#230;rlig tvangsgrunnlag</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husleiekontrakt-nn-2019-1.pdf.converted</prop>
+     <seg>Utkasting og s&#230;rleg tvangsgrunnlag</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.79483</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Verdiene er F&#197;RT- Framtidsrettet, &#229;pen, respektfull og troverdig.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Verdiane er FORT- Framtidsretta, open, respektfull og truverdig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">2.83846</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-bm.pdf.converted</prop>
+     <seg>Kontrakt for kj&#248;p av brukt bobil mellom private, sist oppdatert 01.10.2018</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <seg>Kontrakt for kj&#248;p av brukt bubil mellom private, sist oppdatert 01.10.2018</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">2.14098</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>knyttet til samfunn, brukere/ tjenester, medarbeidere og &#248;konomi.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>knytt til samfunn, brukarar/ tenester, medarbeidarar og &#248;konomi.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.13826</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-bm.pdf.converted</prop>
+     <seg>Forbrukerr&#229;det anbefaler at kontrakten fylles ut elektronisk av partene i fellesskap.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <seg>Forbrukarr&#229;det tilr&#229;r at kon-trakten blir fylt ut elektronisk av partane i fellesskap.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">2.8433</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>fra toppen og nedover i organisasjonen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>toppen og nedover i organisasjonen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.16711</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>service og gode tjenester til innbyggerne?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>service og gode tenester til innbyggjarane?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">2.50556</prop>
+    <prop type="score-bicleaner">0.569</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>enkle og som har mange brukere;</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>dei enkle og som har mange brukarar;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.9236</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Har dere spurt innbyggerne hva de &#248;nsker fra kommunen?</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Har de spurt innbyggjarane kva dei &#248;nskjer fr&#229; kommunen?</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.34815</prop>
+    <prop type="score-bicleaner">0.507</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Vektlegger &#229; f&#248;lge rutiner og m&#248;te de som tar kontakt p&#229; en god og h&#248;flig m&#229;te.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Vektlegg &#229; f&#248;lgje rutinar og m&#248;te dei som tek kontakt, p&#229; ein god og h&#248;fleg m&#229;te.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">2.1372</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Gode digitale tjenester Flere satser p&#229; god digital kontakt med innbyggerne.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Gode digitale tenester Fleire satsar p&#229; god digital kontakt med innbyggjarane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.15442</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>M&#229;lrettet faglig arbeid med service Flere av kommunene synliggj&#248;r at de legger vekt p&#229; tydelig m&#229;lstyring av eget servicearbeid.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>M&#229;lretta fagleg arbeid med service Fleire av kommunane synleggjer at dei legg vekt p&#229; tydeleg m&#229;lstyring av eige servicearbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">2.5666</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Ledelsen er opptatt av service Flere av de kommunene som gj&#248;r det best i kommunetesten, trekker fram at ledelsen, b&#229;de administrativt og politisk, er opptatt av god service.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Leiinga er oppteken av service Fleire av dei kommunane som gjer det best i kommunetesten, trekkjer fram at leiinga, b&#229;de administrativt og politisk, er oppteken av god service.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">2.48193</prop>
+    <prop type="score-bicleaner">0.505</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>kommunedelplan, oppdateres jevnlig og brukes som aktivt styrings- og arbeidsdokument (Askim)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>kommunedelplan, blir jamleg oppdatert og blir brukt som aktivt styrings- og arbeidsdokument (Askim)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.8525</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-bm.pdf.converted</prop>
+     <seg>Regler og praksis p&#229; omr&#229;det kan endres, og det kan v&#230;re perioder hvor innholdet i kontraktene og tilh&#248;rende veiledninger ikke er oppdatert.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <seg>Reglar og praksis p&#229; omr&#229;det kan endrast, og det kan vere periodar der innhaldet i kontraktane og tilh&#248;yrande rettleiingar ikkje er oppdaterte.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.05013</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husleiekontrakt-bokmal.pdf.converted</prop>
+     <seg>Det skal i varselet framg&#229; at utkasting vil bli krevd dersom kravet ikke blir oppfylt, og at utkasting kan unng&#229;s dersom leien blir betalt med renter og kostnader f&#248;r utkastelsen blir gjennomf&#248;rt. Leieren godtar at utkastelse kan kreves n&#229;r leietiden er l&#248;pt ut, jfr.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husleiekontrakt-nn-2019-1.pdf.converted</prop>
+     <seg>Det skal i varselet framg&#229; at utkasting vil bli kravd dersom kravet ikkje blir oppfylt, og at utkasting kan unng&#229;astdersom leiga blir betalt med renter og kostnader f&#248;r utkastinga blir gjennomf&#248;rt.Leigetakaren godtek at utkasting kan krevjast n&#229;r leigetida er l&#248;ptl&#248;per ut, jf.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">2.28667</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2018/06/klage-paa-kvalitet-bm-1.pdf.converted</prop>
+     <seg>og mener at kvaliteten ikke er slik man kan forvente.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2018/06/klage-paa-kvalitet-nn-1.pdf.converted</prop>
+     <seg>og meiner at kvaliteten ikkje er slik ein kan forvente.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">2.288</prop>
+    <prop type="score-bicleaner">0.516</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Stimulere til medvirkning:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Stimulere til medverknad:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">2.09126</prop>
+    <prop type="score-bicleaner">0.540</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Kommunene fikk sp&#248;rsm&#229;l om blant annet kvalitetsunders&#248;kelser, prisinformasjon, saksbehandlingstid og &#229;pningstider.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Kommunane fekk sp&#248;rsm&#229;l om blant anna kvalitetsgranskingar, prisinformasjon, saksbehandlingstid og opningstider.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">2.77826</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>I front blant mindre kommuner p&#229; "selvbetjeningsl&#248;sninger" (Vinje) Asker kommune har gradvis &#248;ket selvbetjeningstilbudet via sine</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>I front blant mindre kommunar p&#229; "sj&#248;lvbeteningsl&#248;ysingar" (Vinje) Asker kommune har gradvis auka sj&#248;lvbeteningstilbodet via sine</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">2.33423</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>M&#229;let er at erfaringene fra disse kommunene kan v&#230;re nyttige r&#229;d til kommuner som ikke har gjort det like godt i v&#229;re tester.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>M&#229;let er at erfaringane fr&#229; desse kommunane kan vere nyttige r&#229;d til kommunar som ikkje har gjort det like godt i testane v&#229;re.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.13069</prop>
+    <prop type="score-bicleaner">0.500</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2018/06/klage-paa-kvalitet-bm-1.pdf.converted</prop>
+     <seg>kjent med at jeg ved gjentatte ganger og st&#248;rre feil kan ha krav p&#229; prisavslag eller p&#229; &#229; f&#229; hevet kj&#248;pet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2018/06/klage-paa-kvalitet-nn-1.pdf.converted</prop>
+     <seg>med at eg ved gjentekne og st&#248;rre feil kan ha krav p&#229; prisavslag eller p&#229; &#229; f&#229; heva kj&#248;pet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">2.63036</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Mindre kommuner trekker fram samarbeid med omkringliggende kommuner som viktig for &#229; sikre gode digitale tjenester.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Mindre kommunar trekkjer fram samarbeid med omkringliggjande kommunar som viktig for &#229; sikre gode digitale tenester.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">3.00312</prop>
+    <prop type="score-bicleaner">0.555</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>her har Servicekontoret i planen for 2014-2017 satt seg m&#229;l knyttet til tilgjengelighet p&#229; telefon, plassering i Forbrukerr&#229;dets tester av kommunal service og kvalitetsvurdering av nettside, Difis kriterier, mens byggesaksavdelingen har m&#229;l knyttet til saksbehandlingstid og klagesaker som f&#229;r medhold av overordnet myndighet (Hamar)</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>har Servicekontoret i planen for 2014-2017 sett seg m&#229;l knytt til tilgjenge p&#229; telefon, plassering i Forbrukarr&#229;det sine testar av kommunal service og kvalitetsvurdering av nettside, Difi sine kriterium, med byggjesaksavdelinga har m&#229;l knytt til saksbehandlingstid og klagesaker som f&#229;r medhald av overordna styresmakt (Hamar)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.89571</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Er service til innbyggerne i kommunene noe ledelsen jevnlig tar opp eller har hatt</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Er service til innbyggjarane i kommunane noko leiinga jamleg tek opp eller har hatt</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">2.41303</prop>
+    <prop type="score-bicleaner">0.517</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Hva er viktig for dere som kommune for at dere skal v&#230;re forn&#248;yd med servicen og</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Kva er viktig for dykk som kommune for at de skal vere forn&#248;gde med servicen og</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">2.28588</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-bm.pdf.converted</prop>
+     <seg>Forbrukerr&#229;det oppfordrer begge partene til &#229; lese gjennom hele avtalen f&#248;r avtalen undertegnes.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <seg>Forbrukarr&#229;det oppmodar begge partane til &#229; lese gjennom heile avtalen f&#248;r avtalen blir underskriven.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">2.12117</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2018/06/klage-paa-forsinkelse-bm.pdf.converted</prop>
+     <seg>Jeg kan ogs&#229; komme til &#229; kreve &#229; f&#229; dekket eventuelle kostnader som f&#248;lger av forsinkelsen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2018/06/klage-paa-forsinkelse-nn.pdf.converted</prop>
+     <seg>Eg kan &#242;g komme til &#229; krevje &#229; f&#229; dekt eventuelle kostnader som f&#248;lgjer av forseinkinga.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="46" datatype="Text">
+    <prop type="score-hunalign">2.28743</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>kundereisen, hva kunden beh&#248;ver og behovet for tekniske hjelpemidler, og som i tillegg arbeider frem forslag til endret arbeidsfordeling og endrede kommunikasjonsm&#229;ter mellom f&#248;rste- og andrelinjen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>kundereisa, kva kunden treng og behovet for tekniske hjelpemiddel, og som i tillegg arbeider fram forslag til endra arbeidsfordeling og endra kommunikasjonsm&#229;tar mellom fyrste- og andrelinja.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="47" datatype="Text">
+    <prop type="score-hunalign">1.76471</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Dette er forankret</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Dette er forankra fr&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="48" datatype="Text">
+    <prop type="score-hunalign">2.24154</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Snakke med innbyggeren, ikke til De fleste av kommunene trekker fram at et sterkt innbygger- og brukerfokus er viktig i m&#248;te med innbyggerne.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Snakke med innbyggjaren, ikkje til Dei fleste av kommunane trekkjer fram at eit sterkt innbyggjar- og brukarfokus er viktig i m&#248;te med innbyggjarane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="49" datatype="Text">
+    <prop type="score-hunalign">2.04077</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>Faste ukentlige m&#248;ter mellom ordf&#248;rer, r&#229;dmann, kommunikasjonsr&#229;dgiver,</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>Faste m&#248;te kvar veke mellom ordf&#248;rar, r&#229;dmann, kommunikasjonsr&#229;dgivar,</seg>
+    </tuv>
+   </tu>
+   <tu tuid="50" datatype="Text">
+    <prop type="score-hunalign">2.9087</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>BEST P&#197; SERVICE BLANT NORSKE KOMMUNER &#8211; SLIK ARBEIDER DE BESTE Forbrukerr&#229;det har over mange &#229;r testet serviceniv&#229;et i norske kommuner gjennom</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>BEST P&#197; SERVICE BLANT NORSKE KOMMUNAR &#8211; SLIK ARBEIDER DEI BESTE Forbrukarr&#229;det har over mange &#229;r testa serviceniv&#229;et i norske kommunar gjennom</seg>
+    </tuv>
+   </tu>
+   <tu tuid="51" datatype="Text">
+    <prop type="score-hunalign">4.70092</prop>
+    <prop type="score-bicleaner">0.522</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-bm.pdf.converted</prop>
+     <seg>Ta kontakt med Forbrukerr&#229;det p&#229; telefonnummer 23 400 500 dersom du har sp&#248;rsm&#229;l til kontrakten.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <seg>Ta kontakt med Forbrukarr&#229;det p&#229; telefonnum-mer 23 400 500 dersom du har sp&#248;rsm&#229;l til kontrakten.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="52" datatype="Text">
+    <prop type="score-hunalign">2.48615</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-bm.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-bm.pdf.converted</prop>
+     <seg>Kontrakten kan fylles ut elektronisk eller skrives ut og fylles ut p&#229; papir.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/motorsykkelkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/husdyrkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/bobilkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/campingvognkontrakt-nn.pdf.converted</prop>
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/09/tingkontrakt-nn.pdf.converted</prop>
+     <seg>Kontrakten kan fyllast ut elektronisk eller skrivast ut og fyllast ut p&#229; papir.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="53" datatype="Text">
+    <prop type="score-hunalign">5.7</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>2 Slik arbeider kommunene som er best p&#229; service</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>2 Slik arbeider kommunane som er best p&#229; service</seg>
+    </tuv>
+   </tu>
+   <tu tuid="54" datatype="Text">
+    <prop type="score-hunalign">2.37907</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-bokm%C3%A5l.pdf.converted</prop>
+     <seg>I alfabetisk rekkef&#248;lge er dette de ti kommunene:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">https://fil.forbrukerradet.no/wp-content/uploads/2015/10/2Rapport-Forbrukerr%C3%A5det-best-p%C3%A5-service-blant-norske-kommuner-nynorsk.pdf.converted</prop>
+     <seg>I alfabetisk rekkjef&#248;lgje er dette dei ti kommunane:</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

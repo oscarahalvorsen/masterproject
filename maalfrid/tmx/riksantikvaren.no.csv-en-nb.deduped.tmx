@@ -1,0 +1,409 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T055320" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">3.28154</prop>
+    <prop type="score-bicleaner">0.640</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/four-points-on-the-struve-geodetic-arc/</prop>
+     <seg>The photo shows the survey point at Fuglenes in Hammerfest, erected in 1854.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/se/mailmmiarbi/struve-meridianagierddus/</prop>
+     <seg>P&#229; bildet ser du meridianst&#248;tten p&#229; Fuglenes i Hammerfest som ble oppf&#248;rt i 1854.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.06716</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/11/APABE_ToHREfCBG_FINAL_WEB-1.pdf.converted</prop>
+     <seg>An application for a licence should be made whether buried human remains are to be removed from the</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/12/Verdien_av_kulturarv_2019.pdf.converted</prop>
+     <seg>Vi viser ogs&#229; at det er h&#248;yere betalingsvillighet for &#229; bo i nabolag der det er h&#248;y</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.15714</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/09/RA_Klimastrategi_engelsk_2021.09.27_enkeltsider_300dpi.pdf.converted</prop>
+     <seg>source of reference for preserving cultural</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/11/Bevaringsstrategiarbeid-Samlet-innspill-fra-frivillige-og-stiftelser.pdf.converted</prop>
+     <seg>private anlegg som bebos og brukes av eierne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.19161</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/the-world-heritage-committee/</prop>
+     <seg>Norway&#8217;s work shall be in line with/coordinate with Norwegian involvement in UNESCO and other Norwegian foreign and development policy by:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/arbeidsomrader/verdensarv/verdensarvkomiteen/</prop>
+     <seg>Norges arbeid skal v&#230;re i tr&#229;d med/ koordineres med norsk engasjement i Unesco og &#248;vrig norsk utenriks- og utviklingspolitikk ved:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.225</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/11/APABE_ToHREfCBG_FINAL_WEB-1.pdf.converted</prop>
+     <seg>interments characteristic of most Christian</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/12/Verdien_av_kulturarv_2019.pdf.converted</prop>
+     <seg>gjennomg&#229;r og analyserer med en henvisning til kapittel.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">1.14048</prop>
+    <prop type="score-bicleaner">0.508</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/09/RA_Klimastrategi_engelsk_2021.09.27_enkeltsider_300dpi.pdf.converted</prop>
+     <seg>development of knowledge and new practices</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/11/Bevaringsstrategiarbeid-Samlet-innspill-fra-frivillige-og-stiftelser.pdf.converted</prop>
+     <seg>de fredede private eiendommer og anlegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.02078</prop>
+    <prop type="score-bicleaner">0.520</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/11/APABE_ToHREfCBG_FINAL_WEB-1.pdf.converted</prop>
+     <seg>churches or churchyards in active use</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/12/Verdien_av_kulturarv_2019.pdf.converted</prop>
+     <seg>og som er valgt ut fra kriterier som tilgang p&#229; data eller</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">3.9</prop>
+    <prop type="score-bicleaner">0.598</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/four-points-on-the-struve-geodetic-arc/</prop>
+     <seg>The 34 red dots on the map indicate the World Heritage sites.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/se/mailmmiarbi/struve-meridianagierddus/</prop>
+     <seg>De 34 r&#248;de prikkene p&#229; kartet markerer verdensarvstedene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">4.91282</prop>
+    <prop type="score-bicleaner">0.678</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/four-points-on-the-struve-geodetic-arc/</prop>
+     <seg>The monument outside Hammerfest was erected in 1854.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/se/mailmmiarbi/struve-meridianagierddus/</prop>
+     <seg>Statuen utenfor Hammerfest ble reist i 1854.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.28889</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/the-world-heritage-convention-and-the-world-heritage-list/</prop>
+     <seg>The World Heritage Convention</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/veileder/energi-og-konsesjon/</prop>
+     <seg>og presiseringer fra Klima- og milj&#248;departementet i</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.01703</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/the-world-heritage-committee/</prop>
+     <seg>ensuring that all new inscriptions on the World Heritage List have confirmed outstanding universal value</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/arbeidsomrader/verdensarv/verdensarvkomiteen/</prop>
+     <seg>&#229; tilse at alle nye innskrivinger p&#229; verdensarvlisten har bekreftet universell verdi (Outstanding Universal Value)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">3.49164</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/the-world-heritage-committee/</prop>
+     <seg>Norway has been elected to the committee for the period 2018&#8211;2021.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/arbeidsomrader/verdensarv/verdensarvkomiteen/</prop>
+     <seg>Norge er valgt inn i denne komit&#233;en for perioden 2018-2021.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.14777</prop>
+    <prop type="score-bicleaner">0.656</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/11/APABE_ToHREfCBG_FINAL_WEB-1.pdf.converted</prop>
+     <seg>dignity as the remnants of a friend or</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/12/Verdien_av_kulturarv_2019.pdf.converted</prop>
+     <seg>kulturminner og kulturmilj&#248; i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.09647</prop>
+    <prop type="score-bicleaner">0.610</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/the-world-heritage-committee/</prop>
+     <seg>using experience earned though work on the committee when managing World Heritage sites in Norway.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/arbeidsomrader/verdensarv/verdensarvkomiteen/</prop>
+     <seg>&#229; bruke erfaringer fra arbeidet i verdensarvkomiteen i forvaltningen av verdensarvsteder i Norge.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.61442</prop>
+    <prop type="score-bicleaner">0.604</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/four-points-on-the-struve-geodetic-arc/</prop>
+     <seg>Four of the survey points on the Struve Geodetic Arc, inscribed on UNESCO&#8217;s World Heritage List in 2005, are located in the Finnmark region.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/se/mailmmiarbi/struve-meridianagierddus/</prop>
+     <seg>Fire av m&#229;lepunktene p&#229; Struves meridianbue som ble innskrevet p&#229; UNESCOs verdensarvliste i 2005 ligger i Finnmark.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.16047</prop>
+    <prop type="score-bicleaner">0.588</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/02/Fact-sheet-Project-Nordland-Railway.pdf.converted</prop>
+     <seg>from Bj&#248;rnelva to Hestbrinken at Storjord farm in</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/12/Husmannsplass-Tvestua-fredningsbrev.pdf.converted</prop>
+     <seg>Kj&#248;pet ble delfinansiert av Statens vegvesen og Hedmark fylkeskommune.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.35213</prop>
+    <prop type="score-bicleaner">0.504</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/09/RA_Klimastrategi_engelsk_2021.09.27_enkeltsider_300dpi.pdf.converted</prop>
+     <seg>of such damage, which can be related to climate changes</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/11/Bevaringsstrategiarbeid-Samlet-innspill-fra-frivillige-og-stiftelser.pdf.converted</prop>
+     <seg>Utfordringene m&#229; kartlegges og adresseres, og man m&#229; finne l&#248;sninger og rom for samarbeid.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.08609</prop>
+    <prop type="score-bicleaner">0.536</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/the-world-heritage-committee/</prop>
+     <seg>Aims for Norway&#8217;s work on the World Heritage Committee</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/arbeidsomrader/verdensarv/verdensarvkomiteen/</prop>
+     <seg>M&#229;l for Norges arbeid i verdensarvkomit&#233;en</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">4.34758</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/rjukan-notodden-industrial-heritage-site/</prop>
+     <seg>was accorded listed status in 2003.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/se/mailmmiarbi/rjukana-notoddena-industriijaarbi/</prop>
+     <seg>S&#229;heim kraftverk p&#229; Rjukan ble fredet i 2003.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.05126</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/12/venice_e.pdf.converted</prop>
+     <seg>the Restoration of Cultural Property.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2020/09/FORK_Rapport-2014-2020.pdf.converted</prop>
+     <seg>Forumet vil bidra med kunnskap og nettverksbygging.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.1395</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/12/venice_e.pdf.converted</prop>
+     <seg>AND RESTORATION OF MONUMENTS AND SITES</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2020/09/FORK_Rapport-2014-2020.pdf.converted</prop>
+     <seg>fagfolk innenfor kunst og kulturminner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.19455</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/02/Fact-sheet-Project-Nordland-Railway.pdf.converted</prop>
+     <seg>The exploded memorial at Bj&#248;rnelva prisoner-of war-camp on</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/12/Husmannsplass-Tvestua-fredningsbrev.pdf.converted</prop>
+     <seg>H&#248;ringsfristen ble satt til seks uker etter offentliggj&#248;ring.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.15298</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/prosjekter/project-nordland-railway/</prop>
+     <seg>This communication effort is based on knowledge procured during the work packages.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/veileder/retningslinjer-for-budsjettering-av-arkeologiske-utgravinger-siste-revisjon-15-04-2011</prop>
+     <seg>Denne kan gi faglige innspill og r&#229;d til prosjektstaben, men har ikke formelt ansvar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">2.59162</prop>
+    <prop type="score-bicleaner">0.642</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/four-points-on-the-struve-geodetic-arc/</prop>
+     <seg>Illustration by Historicair (CC-BY-SA) via Wikimedia Commons</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/se/mailmmiarbi/struve-meridianagierddus/</prop>
+     <seg>Illustrasjon av historicair (CC BY-SA) via Wikimedia Commons</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">3.0625</prop>
+    <prop type="score-bicleaner">0.660</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/the-world-heritage-committee/</prop>
+     <seg>The World Heritage Committee consists of 21 states parties/national representatives responsible for:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/arbeidsomrader/verdensarv/verdensarvkomiteen/</prop>
+     <seg>Verdensarvkomit&#233;en best&#229;r av 21 statsparter/ nasjonale representanter, og har ansvar for:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.04406</prop>
+    <prop type="score-bicleaner">0.506</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/11/APABE_ToHREfCBG_FINAL_WEB-1.pdf.converted</prop>
+     <seg>on destructive sampling of human remains, which the sample(s) is taken should be but the following major considerations</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/12/Verdien_av_kulturarv_2019.pdf.converted</prop>
+     <seg>ikke-bruksverdi, ved at individet har glede av at kulturminnet eller kulturmilj&#248;et eksisterer, selv om individet</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">1.18</prop>
+    <prop type="score-bicleaner">0.592</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/11/APABE_ToHREfCBG_FINAL_WEB-1.pdf.converted</prop>
+     <seg>corpse would be addressed liturgically</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/12/Verdien_av_kulturarv_2019.pdf.converted</prop>
+     <seg>av kulturmilj&#248;et enn ved &#229; bo</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">1.1441</prop>
+    <prop type="score-bicleaner">0.584</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/en/world-heritage/the-world-heritage-committee/</prop>
+     <seg>Membership of the World Heritage Committee also means:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/arbeidsomrader/verdensarv/verdensarvkomiteen/</prop>
+     <seg>Medlemskapet i verdensarvkomit&#233;en inneb&#230;rer ogs&#229;:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">1.28378</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/09/RA_Klimastrategi_engelsk_2021.09.27_enkeltsider_300dpi.pdf.converted</prop>
+     <seg>PHYSICAL WEATHERING as a result of freeze and</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/11/Bevaringsstrategiarbeid-Samlet-innspill-fra-frivillige-og-stiftelser.pdf.converted</prop>
+     <seg>Ogs&#229; koordinater og leverer de inn samlet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">1.16429</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/09/RA_Klimastrategi_engelsk_2021.09.27_enkeltsider_300dpi.pdf.converted</prop>
+     <seg>with responsibility for cultural environments</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2021/11/Bevaringsstrategiarbeid-Samlet-innspill-fra-frivillige-og-stiftelser.pdf.converted</prop>
+     <seg>Det er kulturminneforvaltningen som har ansvaret for &#229; avklare dette.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">1.07143</prop>
+    <prop type="score-bicleaner">0.560</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/11/APABE_ToHREfCBG_FINAL_WEB-1.pdf.converted</prop>
+     <seg>If we speak of the resurrection of the body</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.riksantikvaren.no/wp-content/uploads/2019/12/Verdien_av_kulturarv_2019.pdf.converted</prop>
+     <seg>naturen, eller en kombinasjon.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

@@ -1,0 +1,659 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="en" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T135459" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">1.55517</prop>
+    <prop type="score-bicleaner">0.538</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/shot-2021</prop>
+     <seg>You can answer that question by participating in the SHoT survey that the Norwegian Institute of Public Health are conduction, and by participating you are also in the draw for gift cards worth 5 000 kroner each.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/shot-2021</prop>
+     <seg>Fra i dag av kan du som student svare p&#229; akkurat det sp&#248;rsm&#229;let via SHoT- unders&#248;kelsen som FHI gjennomf&#248;rer, og v&#230;re med i trekninga om gavekort p&#229; 5 000 kr.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">1.16875</prop>
+    <prop type="score-bicleaner">0.602</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/information-regarding-coronavirus-covid-19</prop>
+     <seg>The authorities' advice and recommendations:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/informasjon-vedrorende-koronaviruset</prop>
+     <seg>Myndighetenes r&#229;d og anbefalinger:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">1.5</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/corona/staff</prop>
+     <seg>Campus is open.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/korona/ansatte</prop>
+     <seg>Campus er &#229;pen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.47792</prop>
+    <prop type="score-bicleaner">0.630</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/se/node/5201?page=7</prop>
+     <prop type="source-document">https://www.samas.no/en/a/start-studies-autumn-2021?page=4</prop>
+     <prop type="source-document">http://samas.no/se/node/5201?page=5</prop>
+     <prop type="source-document">http://samas.no/en/a/start-studies-autumn-2021</prop>
+     <prop type="source-document">http://samas.no/se/node/5201</prop>
+     <prop type="source-document">http://samas.no/nb/node/5201</prop>
+     <prop type="source-document">https://samas.no/se/node/5201?page=6</prop>
+     <seg>The new regulatory changes came into force on Sunday 20 June.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=1</prop>
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=3</prop>
+     <prop type="source-document">http://samas.no/nb/a/studiestart-hosten-2021</prop>
+     <prop type="source-document">https://www.samas.no/nb/a/studiestart-hosten-2021?page=2</prop>
+     <prop type="source-document">http://samas.no/en/node/5199</prop>
+     <prop type="source-document">http://samas.no/se/node/5199</prop>
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=4</prop>
+     <seg>nye forskriftsendringene tredte i kraft s&#248;ndag 20. juni.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">1.73226</prop>
+    <prop type="score-bicleaner">0.680</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/taxonomy/term/2</prop>
+     <seg>Bachelor and master programs in journalism</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/taxonomy/term/2</prop>
+     <seg>Bachelor og master i journalistikk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">5.11731</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/studier/saal-2-introductory-sami-language-practical-situation-part-ii</prop>
+     <prop type="source-document">http://samas.no/en/studier/saal1-introductory-sami-language-practical-situation-part-i</prop>
+     <seg>The course has 15 study seats.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/studier/saal-1-nordsamisk-i-praktisk-laeringssituasjon-innforingsstudium-1-del</prop>
+     <prop type="source-document">http://samas.no/nb/studier/saal-2-nordsamisk-i-praktisk-laeringssituasjon-innforingsstudium-2-del</prop>
+     <seg>Studiet har plass til 15 studenter.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">1.21154</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/about-us/organization/trade-unions/norwegian-civil-service-union</prop>
+     <seg>NTL&#8217;s goals include bringing about quality-driven improvements in public administration and state enterprises.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/om-sa/fagforeninger/norsk-tjenestemannslag</prop>
+     <seg>NTL jobber for en god virksomhets- og forvaltningsutvikling hvor kvalitet st&#229;r i sentrum.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.092</prop>
+    <prop type="score-bicleaner">0.674</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/shot-2021</prop>
+     <seg>Students that get schoolarships from Statens L&#229;nekasse will receive the survey by email.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/shot-2021</prop>
+     <seg>Studenter som har l&#229;n gjennom Statens L&#229;nekasse, vil motta unders&#248;kelsen p&#229; e-post.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">1.11739</prop>
+    <prop type="score-bicleaner">0.606</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/information-regarding-coronavirus-covid-19</prop>
+     <seg>digitally on Helse Norge's website.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/informasjon-vedrorende-koronaviruset</prop>
+     <seg>p&#229; Helse Norges nettside.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.08356</prop>
+    <prop type="score-bicleaner">0.608</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://samas.no/sites/default/files/second-call-sami_education_conference_2017_may_30_-_june_1.pdf.converted</prop>
+     <seg>We therefore welcome teachers, educators, researchers, and students to share their</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://samas.no/sites/default/files/1._invitasjon_til_samisk_barnehage-_og_skolekonferanse_30.5.-1.6.2017.pdf.converted</prop>
+     <seg>invitere l&#230;rere, pedagoger, forskere, og studenter til &#229; dele med seg av sine erfaringer.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">1.3</prop>
+    <prop type="score-bicleaner">0.582</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/corona/staff</prop>
+     <seg>The entry regulations have not changed.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/korona/ansatte</prop>
+     <seg>Innreisebestemmelsene er ikke endret.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">1.2775</prop>
+    <prop type="score-bicleaner">0.632</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://samas.no/en/node/277</prop>
+     <prop type="source-document">http://samas.no/en/node/277</prop>
+     <seg>Participation is free upon pre-registration.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/node/332</prop>
+     <prop type="source-document">https://samas.no/nb/node/332</prop>
+     <seg>Deltakelse er gratis p&#229; pre-registrering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">1.71356</prop>
+    <prop type="score-bicleaner">0.556</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://samas.no/sites/default/files/second-call-sami_education_conference_2017_may_30_-_june_1.pdf.converted</prop>
+     <seg>plenary speeches, paper presentations, teacher and student presentations, and poster</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://samas.no/sites/default/files/1._invitasjon_til_samisk_barnehage-_og_skolekonferanse_30.5.-1.6.2017.pdf.converted</prop>
+     <seg>paper, l&#230;rer og student presentasjoner, og poster presentasjoner.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">1.03846</prop>
+    <prop type="score-bicleaner">0.650</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/application-deadline-exchange-approaching</prop>
+     <prop type="source-document">http://samas.no/en/a/application-deadline-exchange-approaching?page=5</prop>
+     <seg>The application deadline for applying for exchange scholarships for both students and staff is approaching.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.samas.no/nb/a/soknadsfristen-dra-pa-utveksling-naermer-seg?page=1</prop>
+     <prop type="source-document">http://samas.no/nb/a/soknadsfristen-dra-pa-utveksling-naermer-seg</prop>
+     <seg>S&#248;knadsfristen for &#229; s&#248;ke om utvekslingsstipend for b&#229;de studenter og ansatte n&#230;rmer seg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">7.5</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/vaiana-moana</prop>
+     <seg>Age limit: 6 years.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/vaiana</prop>
+     <seg>Aldersgrense 6 &#229;r.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.75636</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://samas.no/en/node/277</prop>
+     <prop type="source-document">http://samas.no/en/node/277</prop>
+     <seg>The Round Table isorganized at the S&#225;mi University College, Kautokeino.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/node/332</prop>
+     <prop type="source-document">https://samas.no/nb/node/332</prop>
+     <seg>The Round Table er organisert ved Samisk h&#248;gskole, Kautokeino.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.14571</prop>
+    <prop type="score-bicleaner">0.628</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/taxonomy/term/2</prop>
+     <seg>S&#225;mi culture and society (in Norwegian)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/taxonomy/term/2</prop>
+     <seg>Samisk kultur og samfunnskunnskap (utdannelsen er p&#229; norsk)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">1.23333</prop>
+    <prop type="score-bicleaner">0.698</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/node/201</prop>
+     <seg>Centre for Sami language in education</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/senter-samisk-i-opplaeringa</prop>
+     <seg>Senter for samisk i oppl&#230;ringa</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.79464</prop>
+    <prop type="score-bicleaner">0.548</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/studier/saal1-introductory-sami-language-practical-situation-part-i</prop>
+     <seg>Prioritization of study seats is done according to the regulations of S&#225;mi University of Applied Sciences:8 places are reserved cooperative institutions outside the Nordic region.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/studier/saal-1-nordsamisk-i-praktisk-laeringssituasjon-innforingsstudium-1-del</prop>
+     <seg>Prioritering av studieplasser til innf&#248;ringsstudiene gj&#248;res etter f&#248;lgende ordning: 8 plasser reserveres samarbeidsinstitusjoner utenfor Norden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.17778</prop>
+    <prop type="score-bicleaner">0.566</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/node/201</prop>
+     <seg>The Centre for Sami language in education on</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/senter-samisk-i-opplaeringa</prop>
+     <seg>Senter for samisk i oppl&#230;ringa</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">4.36071</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/information-regarding-coronavirus-covid-19</prop>
+     <seg>(Updated 9th of December 2021)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/informasjon-vedrorende-koronaviruset</prop>
+     <seg>(Oppdatert 9. desember 2021)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">1.1828</prop>
+    <prop type="score-bicleaner">0.652</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/se/node/5201?page=7</prop>
+     <prop type="source-document">https://www.samas.no/en/a/start-studies-autumn-2021?page=4</prop>
+     <prop type="source-document">http://samas.no/se/node/5201?page=5</prop>
+     <prop type="source-document">http://samas.no/en/a/start-studies-autumn-2021</prop>
+     <prop type="source-document">http://samas.no/se/node/5201</prop>
+     <prop type="source-document">http://samas.no/nb/node/5201</prop>
+     <prop type="source-document">https://samas.no/se/node/5201?page=6</prop>
+     <seg>Sami University of Applied Sciences is planning to hold physical education this autumn at Diehtosiida campus from 16 August.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=1</prop>
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=3</prop>
+     <prop type="source-document">http://samas.no/nb/a/studiestart-hosten-2021</prop>
+     <prop type="source-document">https://www.samas.no/nb/a/studiestart-hosten-2021?page=2</prop>
+     <prop type="source-document">http://samas.no/en/node/5199</prop>
+     <prop type="source-document">http://samas.no/se/node/5199</prop>
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=4</prop>
+     <seg>her. Samisk h&#248;yskole planlegger at undervisningen og introduksjonsuken skal foreg&#229; fysisk p&#229; campus Diehtosiida fra og med 16.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.648</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/information-regarding-coronavirus-covid-19</prop>
+     <seg>Stay home if you are sick.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/informasjon-vedrorende-koronaviruset</prop>
+     <seg>Bli hjemme hvis du er syk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.252</prop>
+    <prop type="score-bicleaner">0.578</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/information-regarding-coronavirus-covid-19</prop>
+     <seg>Remember hand and cough hygiene.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/informasjon-vedrorende-koronaviruset</prop>
+     <seg>Husk h&#229;nd- og hostehygiene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.29882</prop>
+    <prop type="score-bicleaner">0.596</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/taxonomy/term/2</prop>
+     <seg>The S&#225;mi society requires S&#225;mi lingual journalists in all over the S&#225;mi territory, both in radio and TV services.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/taxonomy/term/2</prop>
+     <seg>Det samiske samfunnet trenger journalister over hele S&#225;pmi, b&#229;de til radio og TV virksomhet.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">2.2434</prop>
+    <prop type="score-bicleaner">0.618</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/inga-juuso-tribute-concert-free-tickets-students-sami-university-applied-sciences</prop>
+     <prop type="source-document">https://samas.no/en/a/inga-juuso-tribute-concert-free-tickets-students-sami-university-applied-sciences?page=4</prop>
+     <seg>From 2000 until Inga Juuso's death in 2014, a number of vocal recordings have been made with Inga Juuso, which until now has remained untouched.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.samas.no/nb/a/inga-juuso-tribute-konsert-gratisbilletter-til-sami-allaskuvlas-studenter?page=2</prop>
+     <prop type="source-document">http://samas.no/nb/a/inga-juuso-tribute-konsert-gratisbilletter-til-sami-allaskuvlas-studenter</prop>
+     <seg>Fra 2000 til Inga Juusos bortgang i 2014 er det blitt gjort en rekke vokalopptak med Inga Juuso som frem til n&#229; har ligget ur&#248;rt.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="27" datatype="Text">
+    <prop type="score-hunalign">2.33304</prop>
+    <prop type="score-bicleaner">0.576</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/application-deadline-exchange-approaching</prop>
+     <prop type="source-document">http://samas.no/en/a/application-deadline-exchange-approaching?page=5</prop>
+     <seg>There are good exchange opportunities for our students and staff at Sami University of Applied Sciences within short-term and long-term exchange through the exchange programs Erasmus +, Barents + and North 2 North.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.samas.no/nb/a/soknadsfristen-dra-pa-utveksling-naermer-seg?page=1</prop>
+     <prop type="source-document">http://samas.no/nb/a/soknadsfristen-dra-pa-utveksling-naermer-seg</prop>
+     <seg>Det er gode utvekslingsmuligheter for v&#229;re studenter og ansatte ved Samisk H&#248;yskole innen korttids- og langtidsutveksling gjennom utvekslingsprogrammene Erasmus+, Barents+ og North 2 North.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="28" datatype="Text">
+    <prop type="score-hunalign">8.50909</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/se/node/5201?page=7</prop>
+     <prop type="source-document">https://www.samas.no/en/a/start-studies-autumn-2021?page=4</prop>
+     <prop type="source-document">http://samas.no/se/node/5201?page=5</prop>
+     <prop type="source-document">http://samas.no/en/a/start-studies-autumn-2021</prop>
+     <prop type="source-document">http://samas.no/se/node/5201</prop>
+     <prop type="source-document">http://samas.no/nb/node/5201</prop>
+     <prop type="source-document">https://samas.no/se/node/5201?page=6</prop>
+     <seg>Start of studies autumn 2021</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=1</prop>
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=3</prop>
+     <prop type="source-document">http://samas.no/nb/a/studiestart-hosten-2021</prop>
+     <prop type="source-document">https://www.samas.no/nb/a/studiestart-hosten-2021?page=2</prop>
+     <prop type="source-document">http://samas.no/en/node/5199</prop>
+     <prop type="source-document">http://samas.no/se/node/5199</prop>
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=4</prop>
+     <seg>Studiestart h&#248;sten 2021</seg>
+    </tuv>
+   </tu>
+   <tu tuid="29" datatype="Text">
+    <prop type="score-hunalign">2.89969</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/application-deadline-exchange-approaching</prop>
+     <prop type="source-document">http://samas.no/en/a/application-deadline-exchange-approaching?page=5</prop>
+     <seg>THe 23 tuition fee waivers through North 2 North are to the following Universities in Northern America:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.samas.no/nb/a/soknadsfristen-dra-pa-utveksling-naermer-seg?page=1</prop>
+     <prop type="source-document">http://samas.no/nb/a/soknadsfristen-dra-pa-utveksling-naermer-seg</prop>
+     <seg>De 23 friplassene gjennom North 2 North er til f&#248;lgende universiteter i Nord-Amerika:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="30" datatype="Text">
+    <prop type="score-hunalign">3.25556</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/corona/staff</prop>
+     <seg>All employees work from home if it is possible from 15 December.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/korona/ansatte</prop>
+     <seg>Alle ansatte jobber hjemmefra dersom det er praktisk mulig fra og med 15.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="31" datatype="Text">
+    <prop type="score-hunalign">6.76471</prop>
+    <prop type="score-bicleaner">0.614</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/taxonomy/term/2</prop>
+     <seg>S&#225;mi history 1 and 2</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/taxonomy/term/2</prop>
+     <seg>Samisk historie 1 og 2</seg>
+    </tuv>
+   </tu>
+   <tu tuid="32" datatype="Text">
+    <prop type="score-hunalign">1.16645</prop>
+    <prop type="score-bicleaner">0.562</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/inga-juuso-tribute-concert-free-tickets-students-sami-university-applied-sciences</prop>
+     <prop type="source-document">https://samas.no/en/a/inga-juuso-tribute-concert-free-tickets-students-sami-university-applied-sciences?page=4</prop>
+     <seg>With permission from Inga Juuso's family, this material has now been developed for the album Inga Juuso - Tribute where Inga Juuso's yoik meets flutist Patrick Shaw Iversen's music.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.samas.no/nb/a/inga-juuso-tribute-konsert-gratisbilletter-til-sami-allaskuvlas-studenter?page=2</prop>
+     <prop type="source-document">http://samas.no/nb/a/inga-juuso-tribute-konsert-gratisbilletter-til-sami-allaskuvlas-studenter</prop>
+     <seg>Med tillatelse fra Inga Juusos familie er dette materialet n&#229; blitt utviklet til albumet Inga Juuso &#8211; Tribute der Inga Juusos joik m&#248;ter fl&#248;ytistens Patrick Shaw Iversens musikk.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="33" datatype="Text">
+    <prop type="score-hunalign">1.84953</prop>
+    <prop type="score-bicleaner">0.644</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/information-regarding-coronavirus-covid-19</prop>
+     <seg>More information about the coronavirus (Covid-19) can be found here:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/informasjon-vedrorende-koronaviruset</prop>
+     <seg>Mer informasjon om koronaviruset (Covid-19) finnes bl.a. her:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="34" datatype="Text">
+    <prop type="score-hunalign">1.24805</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/node/201</prop>
+     <seg>"The Sami language in everyone's mind, mouth and hand"</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/senter-samisk-i-opplaeringa</prop>
+     <seg>"Samisk i alles tanker, munn og h&#229;nd"</seg>
+    </tuv>
+   </tu>
+   <tu tuid="35" datatype="Text">
+    <prop type="score-hunalign">1.11273</prop>
+    <prop type="score-bicleaner">0.654</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://samas.no/sites/default/files/second-call-sami_education_conference_2017_may_30_-_june_1.pdf.converted</prop>
+     <seg>The conference language is English, Nordic languages and S&#225;mi.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://samas.no/sites/default/files/1._invitasjon_til_samisk_barnehage-_og_skolekonferanse_30.5.-1.6.2017.pdf.converted</prop>
+     <seg>Konferansespr&#229;kene er samisk, engelsk og de nordiske spr&#229;kene.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="36" datatype="Text">
+    <prop type="score-hunalign">3.56809</prop>
+    <prop type="score-bicleaner">0.684</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/corona/staff</prop>
+     <seg>We do not conduct events with more than 20 participants</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/korona/ansatte</prop>
+     <seg>Vi gjennomf&#248;rer ikke arrangementer med mer enn 20 deltakere</seg>
+    </tuv>
+   </tu>
+   <tu tuid="37" datatype="Text">
+    <prop type="score-hunalign">1.00385</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://samas.no/sites/default/files/second-call-sami_education_conference_2017_may_30_-_june_1.pdf.converted</prop>
+     <seg>the indigenous world within the field of education.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://samas.no/sites/default/files/1._invitasjon_til_samisk_barnehage-_og_skolekonferanse_30.5.-1.6.2017.pdf.converted</prop>
+     <seg>er &#229; utveksle erfaringer fra urfolksverden.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="38" datatype="Text">
+    <prop type="score-hunalign">3.43485</prop>
+    <prop type="score-bicleaner">0.590</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/studier/saal-2-introductory-sami-language-practical-situation-part-ii</prop>
+     <prop type="source-document">http://samas.no/en/studier/saal1-introductory-sami-language-practical-situation-part-i</prop>
+     <seg>This course can be compared with European language portfolio A3-A4 (Davvin 3 and 4)</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/studier/saal-1-nordsamisk-i-praktisk-laeringssituasjon-innforingsstudium-1-del</prop>
+     <prop type="source-document">http://samas.no/nb/studier/saal-2-nordsamisk-i-praktisk-laeringssituasjon-innforingsstudium-2-del</prop>
+     <seg>Studiet er p&#229; samme niv&#229; som Europeisk spr&#229;kportfolio A3-A4 (Davvin 3 og 4)</seg>
+    </tuv>
+   </tu>
+   <tu tuid="39" datatype="Text">
+    <prop type="score-hunalign">1.76033</prop>
+    <prop type="score-bicleaner">0.600</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/application-deadline-exchange-approaching</prop>
+     <prop type="source-document">http://samas.no/en/a/application-deadline-exchange-approaching?page=5</prop>
+     <seg>It is of course possible to go on an exchange even if you do not get one of these tuition fee waivers, if so you will be able to get extra scholarships from North 2 North.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.samas.no/nb/a/soknadsfristen-dra-pa-utveksling-naermer-seg?page=1</prop>
+     <prop type="source-document">http://samas.no/nb/a/soknadsfristen-dra-pa-utveksling-naermer-seg</prop>
+     <seg>Det er selvf&#248;lgelig mulig &#229; dra p&#229; utveksling selv om man ikke f&#229;r en av disse friplassene, og da vil man kunne f&#229; ekstra stipend fra North 2 North.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="40" datatype="Text">
+    <prop type="score-hunalign">1.925</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/studier/saal1-introductory-sami-language-practical-situation-part-i</prop>
+     <seg>Course fee: 1200 NOK material fee and 400 NOK semester fee</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/studier/saal-1-nordsamisk-i-praktisk-laeringssituasjon-innforingsstudium-1-del</prop>
+     <seg>Kursavgift: 1200,- materialavgift og 400,- semesteravgift</seg>
+    </tuv>
+   </tu>
+   <tu tuid="41" datatype="Text">
+    <prop type="score-hunalign">2.78125</prop>
+    <prop type="score-bicleaner">0.616</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/studier/saal1-introductory-sami-language-practical-situation-part-i</prop>
+     <seg>Sami in practical situations, introductory part 1 and 2 provide a basis to study Semester Course in North Sami language.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/studier/saal-1-nordsamisk-i-praktisk-laeringssituasjon-innforingsstudium-1-del</prop>
+     <seg>Nordsamisk i praktiske situasjoner, introduksjon del 1 og 2 gir grunnlag til studiet Nordsamisk semesteremne.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="42" datatype="Text">
+    <prop type="score-hunalign">1.36364</prop>
+    <prop type="score-bicleaner">0.570</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">https://samas.no/sites/default/files/2021-06/arb_180_ja_181_arbediehtu_lohkanmearri_dohk._31.01.20.pdf.converted</prop>
+     <seg>traditional indigenous knowledge.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://samas.no/sites/default/files/study/attachments/ser_180_og_181_godkjent_20.6.2017.pdf.converted</prop>
+     <seg>Eksamen er individuell.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="43" datatype="Text">
+    <prop type="score-hunalign">1.19342</prop>
+    <prop type="score-bicleaner">0.594</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/se/node/5201?page=7</prop>
+     <prop type="source-document">https://www.samas.no/en/a/start-studies-autumn-2021?page=4</prop>
+     <prop type="source-document">http://samas.no/se/node/5201?page=5</prop>
+     <prop type="source-document">http://samas.no/en/a/start-studies-autumn-2021</prop>
+     <prop type="source-document">http://samas.no/se/node/5201</prop>
+     <prop type="source-document">http://samas.no/nb/node/5201</prop>
+     <prop type="source-document">https://samas.no/se/node/5201?page=6</prop>
+     <seg>In TimeEdit you can search for your timetable, as well as where the teaching takes places, meeting schedule, exam times, etc.:</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=1</prop>
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=3</prop>
+     <prop type="source-document">http://samas.no/nb/a/studiestart-hosten-2021</prop>
+     <prop type="source-document">https://www.samas.no/nb/a/studiestart-hosten-2021?page=2</prop>
+     <prop type="source-document">http://samas.no/en/node/5199</prop>
+     <prop type="source-document">http://samas.no/se/node/5199</prop>
+     <prop type="source-document">https://www.samas.no/se/node/5199?page=4</prop>
+     <seg>I TimeEdit kan du s&#248;ke opp timeplanen din, samt hvor undervisningen finner sted, samlingsplan, eksamenstidspunkter, praksis o.l.:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="44" datatype="Text">
+    <prop type="score-hunalign">1.05</prop>
+    <prop type="score-bicleaner">0.670</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/corona/staff</prop>
+     <seg>The government demands more use of digital education where possible.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/korona/ansatte</prop>
+     <seg>Regjeringen krever mer bruk av digital undervisning der det er mulig.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="45" datatype="Text">
+    <prop type="score-hunalign">3.07537</prop>
+    <prop type="score-bicleaner">0.622</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="en">
+     <prop type="source-document">http://samas.no/en/a/corona/staff</prop>
+     <seg>The measures take effect from 15.12.21 and initially last for 4 weeks.</seg>
+    </tuv>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://samas.no/nb/a/korona/ansatte</prop>
+     <seg>Tiltakene trer i kraft fra 15.12.21 og varer i f&#248;rste omgang i 4 uker.</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>

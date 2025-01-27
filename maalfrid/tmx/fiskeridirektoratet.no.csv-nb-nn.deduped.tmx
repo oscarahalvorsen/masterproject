@@ -1,0 +1,348 @@
+<tmx version="1.4">
+ <header adminlang="LC" srclang="nb" o-tmf="PlainText" creationtool="bitextor" creationtoolversion="8.2" datatype="PlainText" segtype="sentence" creationdate="20221217T192246" o-encoding="utf-8">
+ </header>
+ <body>
+   <tu tuid="1" datatype="Text">
+    <prop type="score-hunalign">2.66888</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/a167e407-dc86-4996-a1fb-8eae21053177:387e348d3645584e6e2c05387ebc35c338bd0ffa/skjema-akvakultur-flytende-anlegg-bm.pdf.converted</prop>
+     <seg>Med unntak av havbeite, som har eget skjema, gjelder skjemaet for alle typer akvakultur i fersk-, brakk- og saltvann.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/c8496af2-dbdc-4197-bee2-5aacdf21821c:73ca7b86e4afd4d7cd70e10134dcdb073a504c62/skjema-akvakultur-flytande-anlegg-nn.pdf.converted</prop>
+     <seg>Med unntak av havbeite, som har eige skjema, gjeld skjemaet for alle typar akvakultur i fersk-, brakk- og saltvatn.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="2" datatype="Text">
+    <prop type="score-hunalign">2.43132</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/2cad3c15-b830-47a0-ae44-30b31b3649e2:b97286f1df620ac9efd90d72f37deeb656873670/skjema-akvakultur-landbaserte-anlegg-bm.pdf.converted</prop>
+     <seg>Ufullstendige s&#248;knader vil forsinke s&#248;knadsprosessen, og kan bli returnert til s&#248;keren.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/c61d5e27-2f6e-4ea2-83cf-deecd2295436:3bb83aa87384d2cc851302559750b27f65e03a0d/skjema-akvakultur-landbaserte-anlegg-nn.pdf.converted</prop>
+     <seg>Ufullstendige s&#248;knader vil forseinke s&#248;knadsprosessen, og kan bli returnerte til s&#248;kjaren.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="3" datatype="Text">
+    <prop type="score-hunalign">2.28889</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Gjeldende-J-meldinger/J-192-1989</prop>
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-214-2008</prop>
+     <seg>Forskriften lyder etter dette:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-124-2015</prop>
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Gjeldende-J-meldinger/J-88-2012</prop>
+     <seg>Forskrifta lyder etter dette:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="4" datatype="Text">
+    <prop type="score-hunalign">1.28652</prop>
+    <prop type="score-bicleaner">0.510</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-233-2013</prop>
+     <seg>Det kan fastsettes at panterett og andre rettigheter i ting som blir inndratt, helt eller delvis faller bort.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-78-2014</prop>
+     <seg>Det kan fastsetjast at panterett og andre rettar i ting som vert inndregne, heilt eller delvis fell bort.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="5" datatype="Text">
+    <prop type="score-hunalign">3.54098</prop>
+    <prop type="score-bicleaner">0.515</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Havbeite/_/attachment/download/99f79dba-0ffc-4ac4-bc5e-f195ac635497:98f5b9b800da7de5fe015562ab52e0726699ec22/veiledning-havbeite-bm.pdf.converted</prop>
+     <seg>(minimum 2x2 meter) i 5 stasjoner (langs diagonalene i det omr&#229;det det er s&#248;kt om skal en stasjon merkes mellom senter og hvert hj&#248;rne, og en stasjon i senter).</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Havbeite/_/attachment/download/4a679e61-200e-4c63-a34f-18f66e5300aa:d5ab2d6beaf98c1b5412cc8805514d96b8fe75af/rettleiing-havbeite-nn.pdf.converted</prop>
+     <seg>(minimum 2x2 meter) i 5 stasjonar (langs diagonalane i det omr&#229;det det er s&#248;kt om skal ein stasjon merkjast mellom senter og kvart hj&#248;rne, og ein stasjon i senter).</seg>
+    </tuv>
+   </tu>
+   <tu tuid="6" datatype="Text">
+    <prop type="score-hunalign">3.22683</prop>
+    <prop type="score-bicleaner">0.550</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Dokumenter/Reguleringsmoetet2/November-2015/_/attachment/download/c00ca3c2-7726-440f-b64e-76266e103433:c6566bfd1a219c02071753974718559937cabc68/19-2015-saksdok.pdf.converted</prop>
+     <seg>ICES har ikke blitt bedt om &#229; gje forvaltingsr&#229;d for breiflabb nord for Stad (ICES omr&#229;de I og II), men har bedt forskarar i Arctic Fisheries WG om &#229; samle data og informere om denne breiflabbressursen.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Dokumenter/Reguleringsmoetet2/Juni-2015/_/attachment/download/bb077c91-b4d0-4b4b-afa8-923e4ecbff34:0894de2b84c696cc839293b6a7765d3564f521aa/sak-7-oeksosystembasert-forvaltning-vedlegg-%20II.pdf.converted</prop>
+     <seg>ICES har ikkje blitt bedt om &#229; gje forvaltingsr&#229;d for breiflabb nord for Stad (ICES omr&#229;de I og II), men har bedt forskarar i Arctic Fisheries WG om &#229; samle data og informere om denne breiflabbressursen.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="7" datatype="Text">
+    <prop type="score-hunalign">2.52429</prop>
+    <prop type="score-bicleaner">0.573</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Havbeite/_/attachment/download/a8fcfd3f-ee04-4562-893c-c875e01f2535:eb8152c96237d121058303cabfe7ffe0e77e4ca5/soknad-havbeite-bm.pdf.converted</prop>
+     <seg>det m&#229; opplyses om n&#248;yaktig plassering.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Havbeite/_/attachment/download/60212b2a-2079-41c9-ba7b-5c2230ec76ce:38ab638229756a8d0aa1bb6a3b63ce394f31233b/soknad-havbeite-nn.pdf.converted</prop>
+     <seg>og det m&#229; opplysast om n&#248;yaktig plassering.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="8" datatype="Text">
+    <prop type="score-hunalign">1.17273</prop>
+    <prop type="score-bicleaner">0.502</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-233-2013</prop>
+     <seg>Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-78-2014</prop>
+     <seg>Endeleg vedtak om lovbrotsgebyr er tvangsgrunnlag for utlegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="9" datatype="Text">
+    <prop type="score-hunalign">2.54412</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/2cad3c15-b830-47a0-ae44-30b31b3649e2:b97286f1df620ac9efd90d72f37deeb656873670/skjema-akvakultur-landbaserte-anlegg-bm.pdf.converted</prop>
+     <seg>S&#248;knadsskjema for akvakultur i landbaserte anlegg Bokm&#229;l</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/c61d5e27-2f6e-4ea2-83cf-deecd2295436:3bb83aa87384d2cc851302559750b27f65e03a0d/skjema-akvakultur-landbaserte-anlegg-nn.pdf.converted</prop>
+     <seg>S&#248;knadsskjema for akvakultur i landbaserte anlegg Nynorsk</seg>
+    </tuv>
+   </tu>
+   <tu tuid="10" datatype="Text">
+    <prop type="score-hunalign">1.56696</prop>
+    <prop type="score-bicleaner">0.535</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Registre-og-skjema/Skjema/Soeknad-om-kjoep-og-bytte-av-fiskefartoey/_/attachment/download/dc7b5f92-f94a-4f61-90fb-0393ce41da56:d707a0388abbda876c84965a44b33c50da885288/Endringsskjema-merkeregisteret-bm.pdf.converted</prop>
+     <seg>Dato for n&#229;r opplysningene gjelder fra</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Registre-og-skjema/Skjema/Soeknad-om-kjoep-og-bytte-av-fiskefartoey/_/attachment/download/242383fc-df37-44f2-b310-cef7caed0791:80be81fc915f6f030776a6dbfacf65f30a66454e/Endringsskjema-merkeregisteret-nn.pdf.converted</prop>
+     <seg>Dato for n&#229;r opplysningane gjeld fr&#229;</seg>
+    </tuv>
+   </tu>
+   <tu tuid="11" datatype="Text">
+    <prop type="score-hunalign">2.33237</prop>
+    <prop type="score-bicleaner">0.530</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Nyheter/2020/0720/Roemt-laks-i-Tingvollfjorden</prop>
+     <seg>For &#229; f&#229; et best mulig bilde av omfang og spredning &#248;nsker Fiskeridirektoratet fremdeles tips fra publikum om fangst av r&#248;mt fisk i omr&#229;det.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Nyheter/2020/1220/romt-regnbogeaure-i-herdlafjorden-i-vestland</prop>
+     <seg>For &#229; f&#229; eit best mogleg bilde av omfang og spreiing &#248;nskjer Fiskeridirektoratet fleire tips fr&#229; publikum om fangst av regnbogeaure i omr&#229;det.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="12" datatype="Text">
+    <prop type="score-hunalign">2.68366</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/a167e407-dc86-4996-a1fb-8eae21053177:387e348d3645584e6e2c05387ebc35c338bd0ffa/skjema-akvakultur-flytende-anlegg-bm.pdf.converted</prop>
+     <seg>Med sikte p&#229; &#229; redusere bedriftenes skjemavelde, kan opplysninger som avgis i dette skjema i medhold av lov om Opp-gaveregisteret &#167;&#167; 5 og 6, helt eller delvis bli benyttet ogs&#229; av andre offentlige organer som har hjemmel til &#229; innhente de samme opplysningene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/c8496af2-dbdc-4197-bee2-5aacdf21821c:73ca7b86e4afd4d7cd70e10134dcdb073a504c62/skjema-akvakultur-flytande-anlegg-nn.pdf.converted</prop>
+     <seg>Med sikte p&#229; &#229; redusere skjemaveldet for verksemdene kan opplysingar som s&#248;kjaren har gjeve i dette skjemaet med heimel i lov om Oppg&#229;veregisteret &#167;&#167; 5 og 6, heilt eller delvis bli nytta ogs&#229; av andre offentlege organ med heimel til &#229; innhente dei same opplysingane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="13" datatype="Text">
+    <prop type="score-hunalign">2.55265</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/media/Files/akvakultur/dokumenter/hoeringer-akva/2020/horing-av-forslag-til-endringer-i-akvakulturregelverket/Tr%C3%B8ndelag%20fyllkeskommune.pdf.converted</prop>
+     <seg>mobile anlegg blir avklart, og at muligheten for &#229; utvide sikkerhetssoner rundt eksponerte stasjon&#230;re anlegg innenfor plan- og bygningsloven sitt virkeomr&#229;de blir utredet og tatt med i tildelingsforskriften.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/media/Files/akvakultur/dokumenter/hoeringer-akva/2020/horing-av-forslag-til-endringer-i-akvakulturregelverket/M%C3%B8re%20og%20Romsdal%20fylkeskommune.pdf.converted</prop>
+     <seg>blir avklart, og at moglegheita for &#229; utvide tryggingssona rundt eksponerte stasjon&#230;re anlegg innanfor plan- og bygningsloven sitt verkeomr&#229;de blir utgreidd og tatt med i tildelingsforskrifta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="14" datatype="Text">
+    <prop type="score-hunalign">2.28889</prop>
+    <prop type="score-bicleaner">0.512</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Registre-og-skjema/Skjema/Soeknad-om-kjoep-og-bytte-av-fiskefartoey/_/attachment/download/dc7b5f92-f94a-4f61-90fb-0393ce41da56:d707a0388abbda876c84965a44b33c50da885288/Endringsskjema-merkeregisteret-bm.pdf.converted</prop>
+     <seg>Annet og eventuelle merknader:</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Registre-og-skjema/Skjema/Soeknad-om-kjoep-og-bytte-av-fiskefartoey/_/attachment/download/242383fc-df37-44f2-b310-cef7caed0791:80be81fc915f6f030776a6dbfacf65f30a66454e/Endringsskjema-merkeregisteret-nn.pdf.converted</prop>
+     <seg>Anna og eventuelle merknader:</seg>
+    </tuv>
+   </tu>
+   <tu tuid="15" datatype="Text">
+    <prop type="score-hunalign">2.44286</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/a167e407-dc86-4996-a1fb-8eae21053177:387e348d3645584e6e2c05387ebc35c338bd0ffa/skjema-akvakultur-flytende-anlegg-bm.pdf.converted</prop>
+     <seg>S&#248;knadsskjema for akvakultur i flytende anlegg</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/c8496af2-dbdc-4197-bee2-5aacdf21821c:73ca7b86e4afd4d7cd70e10134dcdb073a504c62/skjema-akvakultur-flytande-anlegg-nn.pdf.converted</prop>
+     <seg>S&#248;knadsskjema for akvakultur i flytande anlegg</seg>
+    </tuv>
+   </tu>
+   <tu tuid="16" datatype="Text">
+    <prop type="score-hunalign">1.3838</prop>
+    <prop type="score-bicleaner">0.552</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-233-2013</prop>
+     <seg>Ved fastsettelsen av gebyret kan det blant annet tas hensyn til fortjenesten eller den potensielle fortjenesten som den ansvarlige har hatt ved overtredelsen, hvor alvorlig overtredelsen er og ekstra kostnader som kontrolltiltak og behandling av saken har medf&#248;rt.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-78-2014</prop>
+     <seg>Ved fastsetjing av gebyret kan det mellom anna takast omsyn til fortenesta eller den potensielle fortenesta som den ansvarlege har hatt ved lovbrotet, kor alvorleg lovbrotet er, og ekstra kostnader som kontrolltiltak og handsaming av saka har f&#248;rt med seg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="17" datatype="Text">
+    <prop type="score-hunalign">1.0125</prop>
+    <prop type="score-bicleaner">0.585</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Nyheter/2020/0720/Roemt-laks-i-Tingvollfjorden</prop>
+     <seg>&#216;nsker flere tips</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Nyheter/2020/1220/romt-regnbogeaure-i-herdlafjorden-i-vestland</prop>
+     <seg>&#216;nskjer fleire tips</seg>
+    </tuv>
+   </tu>
+   <tu tuid="18" datatype="Text">
+    <prop type="score-hunalign">2.72205</prop>
+    <prop type="score-bicleaner">0.532</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/2cad3c15-b830-47a0-ae44-30b31b3649e2:b97286f1df620ac9efd90d72f37deeb656873670/skjema-akvakultur-landbaserte-anlegg-bm.pdf.converted</prop>
+     <seg>Med unntak av havbeite, som har eget skjema, gjelder skjemaet for alle typer akvakultur i landbaserte anlegg.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/c61d5e27-2f6e-4ea2-83cf-deecd2295436:3bb83aa87384d2cc851302559750b27f65e03a0d/skjema-akvakultur-landbaserte-anlegg-nn.pdf.converted</prop>
+     <seg>Med unntak av havbeite, som har eige skjema, gjeld skjemaet for alle typar akvakultur i landbaserte anlegg.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="19" datatype="Text">
+    <prop type="score-hunalign">1.27656</prop>
+    <prop type="score-bicleaner">0.593</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-233-2013</prop>
+     <seg>Ved vurderingen av om overtredelsen er grov, skal det s&#230;rlig legges vekt p&#229; om den &#248;konomiske eller potensielle &#248;konomiske verdien av overtredelsen er stor, om overtredelsen har skjedd systematisk og over tid, om overtredelsen er av grenseoverskridende art, og om overtredelsen har skjedd som ledd i organisert virksomhet.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-78-2014</prop>
+     <seg>Ved vurderinga av om lovbrotet er grovt, skal det s&#230;rleg leggjast vekt p&#229; om den &#248;konomiske eller potensielle &#248;konomiske verdien av lovbrotet er stor, om lovbrotet har skjedd systematisk og over tid, om lovbrotet er av grenseoverskridande art, og om lovbrotet har skjedd som ledd i organisert verksemd.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="20" datatype="Text">
+    <prop type="score-hunalign">1.34878</prop>
+    <prop type="score-bicleaner">0.545</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Registre-og-skjema/Skjema/Soeknad-om-kjoep-og-bytte-av-fiskefartoey/_/attachment/download/dc7b5f92-f94a-4f61-90fb-0393ce41da56:d707a0388abbda876c84965a44b33c50da885288/Endringsskjema-merkeregisteret-bm.pdf.converted</prop>
+     <seg>Dato &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230; Navn&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230; For &#229; redusere bedriftenes skjemavelde, kan opplysninger du gir i dette skjemaet i medhold av lov om Oppgaveregisteret &#167;&#167; 5 og 6, helt eller delvis bli benyttet ogs&#229; av andre offentlige organer som har hjemmel til &#229; hente inn de samme opplysningene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Registre-og-skjema/Skjema/Soeknad-om-kjoep-og-bytte-av-fiskefartoey/_/attachment/download/242383fc-df37-44f2-b310-cef7caed0791:80be81fc915f6f030776a6dbfacf65f30a66454e/Endringsskjema-merkeregisteret-nn.pdf.converted</prop>
+     <seg>Dato &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230; Namn&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230; Med sikte p&#229; &#229; redusere skjemavelde for bedriftene, kan opplysingar du gir i dette skjemaet i medhald av lov om Oppgaveregisteret &#167;&#167; 5 og 6, heilt eller delvis bli brukt ogs&#229; av andre offentlege organ som har heimel til &#229; hente inn dei same opplysingane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="21" datatype="Text">
+    <prop type="score-hunalign">1.27838</prop>
+    <prop type="score-bicleaner">0.527</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-233-2013</prop>
+     <seg>Ved overtredelse av bestemmelser gitt i medhold av denne loven, kan det bare ilegges overtredelsesgebyr n&#229;r dette g&#229;r fram av forskriften.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-78-2014</prop>
+     <seg>Ved brot p&#229; f&#248;resegner fastsette i medhald av denne lova, kan det berre p&#229;leggjast lovbrotsgebyr n&#229;r dette g&#229;r fram av forskrifta.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="22" datatype="Text">
+    <prop type="score-hunalign">2.9875</prop>
+    <prop type="score-bicleaner">0.537</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/2cad3c15-b830-47a0-ae44-30b31b3649e2:b97286f1df620ac9efd90d72f37deeb656873670/skjema-akvakultur-landbaserte-anlegg-bm.pdf.converted</prop>
+     <seg>Med sikte p&#229; &#229; redusere bedriftenes skjemavelde, kan opplysninger som avgis i dette skjema i medhold av lov om Oppgaveregisteret &#167;&#167; 5 og 6, helt eller delvis bli benyttet ogs&#229; av andre offentlige organer som har hjemmel til &#229; innhente de samme opplysningene.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Akvakultursoeknad/_/attachment/download/c61d5e27-2f6e-4ea2-83cf-deecd2295436:3bb83aa87384d2cc851302559750b27f65e03a0d/skjema-akvakultur-landbaserte-anlegg-nn.pdf.converted</prop>
+     <seg>Med sikte p&#229; &#229; redusere bedriftene si skjemavelde, kan opplysingar som ein avgjer i dette skjema i medhald av lov om Oppg&#229;veregisteret &#167;&#167; 5 og 6, heilt eller delvis verte nytta ogs&#229; av andre offentlege organ som har heimel til &#229; innhente dei same opplysingane.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="23" datatype="Text">
+    <prop type="score-hunalign">1.79</prop>
+    <prop type="score-bicleaner">0.627</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Nyheter/2021/lakseromming-ved-soroya-i-troms-og-finnmark</prop>
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Nyheter/2021/lakseromming-i-fordefjorden-i-vestland</prop>
+     <seg>Fiskeridirektoratet &#248;nsker tips</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Nyheter/2021/mogleg-lakseromming-ved-hadseloya-i-nordland</prop>
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Nyheter/2021/romming-av-laks-nord-i-trondelag</prop>
+     <seg>Fiskeridirektoratet &#248;nskjer tips</seg>
+    </tuv>
+   </tu>
+   <tu tuid="24" datatype="Text">
+    <prop type="score-hunalign">1.10239</prop>
+    <prop type="score-bicleaner">0.525</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-233-2013</prop>
+     <seg>Dette gjelder uten hensyn til hvem som er eier.</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Regelverk-og-reguleringer/J-meldinger/Utgaatte-J-meldinger/J-78-2014</prop>
+     <seg>Dette gjeld utan omsyn til kven som er eigar.</seg>
+    </tuv>
+   </tu>
+   <tu tuid="25" datatype="Text">
+    <prop type="score-hunalign">1.77</prop>
+    <prop type="score-bicleaner">0.542</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Registre-og-skjema/Skjema/Soeknad-om-kjoep-og-bytte-av-fiskefartoey/_/attachment/download/dc7b5f92-f94a-4f61-90fb-0393ce41da56:d707a0388abbda876c84965a44b33c50da885288/Endringsskjema-merkeregisteret-bm.pdf.converted</prop>
+     <seg>Jeg er kjent</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Yrkesfiske/Registre-og-skjema/Skjema/Soeknad-om-kjoep-og-bytte-av-fiskefartoey/_/attachment/download/242383fc-df37-44f2-b310-cef7caed0791:80be81fc915f6f030776a6dbfacf65f30a66454e/Endringsskjema-merkeregisteret-nn.pdf.converted</prop>
+     <seg>Eg er kjent</seg>
+    </tuv>
+   </tu>
+   <tu tuid="26" datatype="Text">
+    <prop type="score-hunalign">1.8</prop>
+    <prop type="score-bicleaner">0.626</prop>
+    <prop type="type">1:1</prop>
+    <tuv xml:lang="nb">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Havbeite/_/attachment/download/a8fcfd3f-ee04-4562-893c-c875e01f2535:eb8152c96237d121058303cabfe7ffe0e77e4ca5/soknad-havbeite-bm.pdf.converted</prop>
+     <seg>anlegg og innretninger</seg>
+    </tuv>
+    <tuv xml:lang="nn">
+     <prop type="source-document">http://fiskeridirektoratet.no/Akvakultur/Registre-og-skjema/Skjema/Havbeite/_/attachment/download/60212b2a-2079-41c9-ba7b-5c2230ec76ce:38ab638229756a8d0aa1bb6a3b63ce394f31233b/soknad-havbeite-nn.pdf.converted</prop>
+     <seg>anlegg og innretningar</seg>
+    </tuv>
+   </tu>
+   </body>
+</tmx>
