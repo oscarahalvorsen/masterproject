@@ -1,34 +1,36 @@
 import json
 import os
 
+base_dir = os.path.dirname(os.path.abspath(__file__))
+
 # Dictionary to hold configurations for each dataset
 configurations = {
     "eval": {
-        "base_path": r"C:\Users\Bruker\myProjects\masterproject\datacollecting\NPSC\eval",
+        "base_path": os.path.join(base_dir, "eval"),
         "input_files": [
             "20170209.json", "20180109.json", "20180201.json", "20180307.json", "20180611.json"
         ],
-        "output_file": r"C:\Users\Bruker\myProjects\masterproject\datacollecting\NPSC\NPSC-eval.json"
+        "output_file": os.path.join(base_dir, "NPSC-eval.json")
     },
     "test": {
-        "base_path": r"C:\Users\Bruker\myProjects\masterproject\datacollecting\NPSC\test",
+        "base_path": os.path.join(base_dir, "test"),
         "input_files": [
             "20170207.json", "20171122.json", "20171219.json", "20180530.json"
         ],
-        "output_file": r"C:\Users\Bruker\myProjects\masterproject\datacollecting\NPSC\NPSC-test.json"
+        "output_file": os.path.join(base_dir, "NPSC-test.json")
     },
     "train": {
-        "base_path": r"C:\Users\Bruker\myProjects\masterproject\datacollecting\NPSC\train",
+        "base_path": os.path.join(base_dir, "train"),
         "input_files": [
             "20170110.json", "20170208.json", "20170215.json", "20170216.json", "20170222.json",
             "20170314.json", "20170322.json", "20170323.json", "20170403.json", "20170405.json",
             "20170419.json", "20170426.json", "20170503.json", "20170510.json", "20170516.json",
             "20170613.json", "20170615.json", "20171007.json", "20171012.json", "20171018.json",
-            "20171024.json", "20171122.json", "20171208.json", "20171211.json", "20171213.json",
-            "20171219.json", "20180316.json", "20180321.json", "20180404.json", "20180410.json",
-            "20180411.json", "20180530.json", "20180601.json", "20180613.json", "20180615.json"
+            "20171024.json", "20171208.json", "20171211.json", "20171213.json", "20180316.json",
+            "20180321.json", "20180404.json", "20180410.json", "20180411.json", "20180601.json", 
+            "20180613.json", "20180615.json"
         ],
-        "output_file": r"C:\Users\Bruker\myProjects\masterproject\datacollecting\NPSC\NPSC-train.json"
+        "output_file": os.path.join(base_dir, "NPSC-train.json")
     }
 }
 
@@ -51,9 +53,9 @@ def process_configuration(config_name, config):
                     
                     # Check and map based on the sentence_language_code
                     if data["sentence_language_code"] == "nb-NO":
-                        output_data = {"nb": data["sentence_text"], "nn": data["transsentence_text"]}
+                        output_data = {"nb": data["normsentence_text"], "nn": data["transsentence_text"]}
                     elif data["sentence_language_code"] == "nn-NO":
-                        output_data = {"nb": data["transsentence_text"], "nn": data["sentence_text"]}
+                        output_data = {"nb": data["transsentence_text"], "nn": data["normsentence_text"]}
                     else:
                         # Print error and skip this line
                         print(f"Error: Unrecognized language code '{data['sentence_language_code']}' in sentence ID {data['sentence_id']}. Line skipped.")

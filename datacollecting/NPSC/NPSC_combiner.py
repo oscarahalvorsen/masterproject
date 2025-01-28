@@ -1,14 +1,18 @@
 import os
 import json
 
-# Define the base directory and file paths
-base_path = r"C:\Users\Bruker\myProjects\masterproject\datacollecting\NPSC"
+base_path = os.path.dirname(os.path.abspath(__file__))
+output_dir = os.path.join(os.path.dirname(os.path.dirname(base_path)), "dataprocessing")
+
+# Ensure the output directory exists
+os.makedirs(output_dir, exist_ok=True)
+
 input_files = [
     "NPSC-eval.json",
     "NPSC-train.json",
     "NPSC-test.json",
 ]
-output_file = os.path.join(base_path, r"C:\Users\Bruker\myProjects\masterproject\dataprocessing\NPSC.jsonl")
+output_file = os.path.join(output_dir, "NPSC.jsonl")
 
 # Open the output file in write mode
 with open(output_file, "w", encoding="utf-8") as outfile:
