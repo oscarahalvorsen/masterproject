@@ -9,6 +9,13 @@ transformers.logging.set_verbosity_error()
 def is_non_alpha(string):
     return len(re.findall(r'[a-zA-ZÆØÅæøå]', string)) <= 2
 
+def is_non_alpha0(string):
+    return len(re.findall(r'[a-zA-ZÆØÅæøå]', string)) <= 0
+
+def is_non_alpha3(string):
+    tokens = re.findall(r'\S+', string)
+    return len(tokens) == 3
+
 # Funksjon for å beregne BERTScore i batcher
 def calculate_bertscore_batch(references, candidates):
     _, _, F1 = score(candidates, references, model_type="roberta-base", lang="en", rescale_with_baseline=False, batch_size=8)
@@ -45,41 +52,46 @@ def filter_unique_sentences(input_path, output_path):
                 continue
             
             if is_non_alpha(entry["nb"]) or is_non_alpha(entry["nn"]):
+                # if not is_non_alpha0(entry["nb"]) and not is_non_alpha0(entry["nn"]):
+                #     print(f'{entry["nb"]}  |  {entry["nn"]}')
                 non_alpha_count += 1
                 continue
             
+            if is_non_alpha3(entry["nb"]) or is_non_alpha3(entry["nn"]):
+                print(f'{entry["nb"]}  |  {entry["nn"]}')
+
             # Legg til i batch
             references.append(entry["nb"])
             candidates.append(entry["nn"])
             batch_entries.append(entry)
 
-            # Beregn BERTScore når batchen er full
-            if len(references) >= batch_size:
-                F1_scores = calculate_bertscore_batch(references, candidates)
-                for i, F1_score in enumerate(F1_scores):
-                    if F1_score < 0.7:
-                        low_bertscore_count += 1
-                        continue
-                    json.dump(batch_entries[i], outfile, ensure_ascii=False)
-                    outfile.write('\n')
+            # # Beregn BERTScore når batchen er full
+            # if len(references) >= batch_size:
+            #     F1_scores = calculate_bertscore_batch(references, candidates)
+            #     for i, F1_score in enumerate(F1_scores):
+            #         if F1_score < 0.7:
+            #             low_bertscore_count += 1
+            #             continue
+            #         json.dump(batch_entries[i], outfile, ensure_ascii=False)
+            #         outfile.write('\n')
                 
-                # Nullstill batchen
-                references.clear()
-                candidates.clear()
-                batch_entries.clear()
+            #     # Nullstill batchen
+            #     references.clear()
+            #     candidates.clear()
+            #     batch_entries.clear()
 
-            if total_lines % 640 == 0:
+            if total_lines % 10000000 == 0:
                 print(f"{input_path}: {total_lines} linjer behandlet")
         
-        # Beregn BERTScore for eventuell gjenværende data i batchen
-        if references:
-            F1_scores = calculate_bertscore_batch(references, candidates)
-            for i, F1_score in enumerate(F1_scores):
-                if F1_score < 0.7:
-                    low_bertscore_count += 1
-                    continue
-                json.dump(batch_entries[i], outfile, ensure_ascii=False)
-                outfile.write('\n')
+        # # Beregn BERTScore for eventuell gjenværende data i batchen
+        # if references:
+        #     F1_scores = calculate_bertscore_batch(references, candidates)
+        #     for i, F1_score in enumerate(F1_scores):
+        #         if F1_score < 0.7:
+        #             low_bertscore_count += 1
+        #             continue
+        #         json.dump(batch_entries[i], outfile, ensure_ascii=False)
+        #         outfile.write('\n')
 
     # Print ut statistikk etter at filen er ferdig prosessert
     print(f"Fil: {input_path}")
