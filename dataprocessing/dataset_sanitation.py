@@ -71,7 +71,7 @@ def dataset_sanitize(input_path, output_path, filename):
     print(f"Special token removals: {stats['special_tokens_count']}")
     print(f"Sentence pairs changed: {stats['changed_count']}\n")
 
-filenames = ["NTB-NPK.jsonl", "NNNB.jsonl", "NPSC.jsonl", "NBS2023.jsonl"]
+filenames = ["NTB-NPK.jsonl", "NNNB.jsonl", "NPSC.jsonl", "NBS2023.jsonl", "MAALFID.jsonl"]
 
 input_dir = "C:/Users/oscar/oscar/myProjects/masterproject/dataprocessing"
 output_dir = "C:/Users/oscar/oscar/myProjects/masterproject/datasanitization"
