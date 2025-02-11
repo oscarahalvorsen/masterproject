@@ -42,16 +42,17 @@ def calculate_statistics(input_path, combined_stats=None):
 
     # Aggregate counts for word ranges
     distribution = {
-        "1_word": word_count_distribution[1],
-        "2_words": word_count_distribution[2],
-        "3_words": word_count_distribution[3],
-        "4_words": word_count_distribution[4],
-        "5_words": word_count_distribution[5],
+        "0-5_words": sum(word_count_distribution[i] for i in range(0, 6)),
         "6-10_words": sum(word_count_distribution[i] for i in range(6, 11)),
         "11-15_words": sum(word_count_distribution[i] for i in range(11, 16)),
         "16-20_words": sum(word_count_distribution[i] for i in range(16, 21)),
         "21_or_more_words": sum(count for word, count in word_count_distribution.items() if word >= 21),
     }
+
+    # distribution = [
+    #     word_count_distribution.get(i, 0)
+    #     for i in range(max(word_count_distribution.keys()) + 1)
+    # ]
 
     # Print statistics for this dataset
     print(f"Statistics for {input_path}:")
@@ -73,9 +74,9 @@ combined_stats = {
 }
 
 # File paths for input
-filenames = ["NNNB.jsonl", "NPSC.jsonl", "NTB-NPK.jsonl", "NBS2023.jsonl"]
+filenames = ["NTB-NPK.jsonl", "NNNB.jsonl", "NPSC.jsonl", "NBS2023.jsonl"]
 
-input_dir = "C:/Users/oscar/oscar/myProjects/masterproject/dataprocessing"
+input_dir = "C:/Users/oscar/oscar/myProjects/masterproject/dataset"
 
 # Process each file and calculate statistics
 for filename in filenames:
@@ -93,16 +94,17 @@ median_chars = statistics.median(combined_stats['char_counts'])
 std_dev_chars = statistics.stdev(combined_stats['char_counts'])
 
 combined_distribution = {
-    "1_word": combined_stats['word_count_distribution'][1],
-    "2_words": combined_stats['word_count_distribution'][2],
-    "3_words": combined_stats['word_count_distribution'][3],
-    "4_words": combined_stats['word_count_distribution'][4],
-    "5_words": combined_stats['word_count_distribution'][5],
+    "0-5_words": sum(combined_stats['word_count_distribution'][i] for i in range(0, 6)),
     "6-10_words": sum(combined_stats['word_count_distribution'][i] for i in range(6, 11)),
     "11-15_words": sum(combined_stats['word_count_distribution'][i] for i in range(11, 16)),
     "16-20_words": sum(combined_stats['word_count_distribution'][i] for i in range(16, 21)),
     "21_or_more_words": sum(count for word, count in combined_stats['word_count_distribution'].items() if word >= 21),
 }
+
+# combined_distribution = [
+#     combined_stats['word_count_distribution'].get(i, 0)
+#     for i in range(max(combined_stats['word_count_distribution'].keys()) + 1)
+# ]
 
 # Print overall combined statistics
 print("Combined Statistics for All Datasets:")
