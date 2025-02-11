@@ -74,7 +74,7 @@ combined_stats = {
 }
 
 # File paths for input
-filenames = ["NTB-NPK.jsonl", "NNNB.jsonl", "NPSC.jsonl", "NBS2023.jsonl"]
+filenames = ["NTB-NPK.jsonl", "NNNB.jsonl", "NPSC.jsonl", "NBS2023.jsonl", "MAALFRID.jsonl"]
 
 input_dir = "C:/Users/oscar/oscar/myProjects/masterproject/dataset"
 
