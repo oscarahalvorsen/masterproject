@@ -1,4 +1,1 @@
-datacollecting/NTB-NPK/npk_2011_2022.tsv filter=lfs diff=lfs merge=lfs -text
-dataprocessing/dataset_full.jsonl filter=lfs diff=lfs merge=lfs -text
-dataprocessing/ntb-npk.jsonl filter=lfs diff=lfs merge=lfs -text
-dataset/NTB-NPK.jsonl filter=lfs diff=lfs merge=lfs -text
+*.jsonl filter=lfs diff=lfs merge=lfs -text
