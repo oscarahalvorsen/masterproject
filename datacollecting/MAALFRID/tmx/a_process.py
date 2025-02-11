@@ -4,11 +4,10 @@ import xml.etree.ElementTree as ET
 
 def process_tmx_files():
     # Get the current working directory
-    current_dir = os.getcwd()
+    current_dir =  os.path.dirname(os.path.abspath(__file__))
 
     # Initialize a list to store all segments across files
     all_segments = []
-
     # Iterate through all files in the directory
     for file_name in os.listdir(current_dir):
         # Check if the file has a .tmx extension
@@ -47,7 +46,7 @@ def process_tmx_files():
                 print(f"Unexpected error with {file_name}: {e}")
 
     # Write all extracted segments to a single file
-    output_file_path = os.path.join(current_dir, "all_segments.jsonl")
+    output_file_path = "dataprocessing/MAALFRID.jsonl"
     with open(output_file_path, 'w', encoding='utf-8') as output_file:
         for segment in all_segments:
             json.dump(segment, output_file, ensure_ascii=False)
