@@ -2,7 +2,9 @@ import json
 import re
 
 def clean_punctuation(text):
-    new_text = re.sub(r'\s+', ' ', text).strip()  # fix double spaces
+    new_text = re.sub(r'\s+', ' ', text).strip()
+    new_text = re.sub(r'^[.,?!\s]+', '', new_text)
+    new_text = re.sub(r'\s+', ' ', new_text).strip()
     return new_text, new_text != text
 
 def remove_metadata(text):
@@ -71,7 +73,7 @@ def dataset_sanitize(input_path, output_path, filename):
     print(f"Special token removals: {stats['special_tokens_count']}")
     print(f"Sentence pairs changed: {stats['changed_count']}\n")
 
-filenames = ["NTB-NPK.jsonl", "NNNB.jsonl", "NPSC.jsonl", "NBS2023.jsonl", "MAALFID.jsonl"]
+filenames = ["NTB-NPK.jsonl", "NNNB.jsonl", "NPSC.jsonl", "MAALFRID.jsonl", "NBS2023.jsonl"]
 
 input_dir = "C:/Users/oscar/oscar/myProjects/masterproject/dataprocessing"
 output_dir = "C:/Users/oscar/oscar/myProjects/masterproject/datasanitization"

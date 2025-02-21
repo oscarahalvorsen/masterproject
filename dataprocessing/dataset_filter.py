@@ -66,7 +66,7 @@ def dataset_filter(input_path, output_path):
     print(f"Lines removed for '<INAUDIBLE>': {stats['inaudible_count']}")
     print(f"Lines written to output: {stats['written_count']}\n")
 
-filenames = ["NTB-NPK.jsonl", "NNNB.jsonl", "NPSC.jsonl", "NBS2023.jsonl", "MAALFRID.jsonl"]
+filenames = ["NTB-NPK.jsonl", "NNNB.jsonl", "NPSC.jsonl", "MAALFRID.jsonl", "NBS2023.jsonl"]
 
 input_dir = "C:/Users/oscar/oscar/myProjects/masterproject/datasanitization"
 output_dir = "C:/Users/oscar/oscar/myProjects/masterproject/dataset"
